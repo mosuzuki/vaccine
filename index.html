@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Vaccine & Immunization News Dashboard</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header class="hero">
+    <div class="container">
+      <p class="eyebrow">GitHub Pages dashboard</p>
+      <h1>Vaccine &amp; Immunization News Dashboard</h1>
+      <p class="lead">公式ソース中心に、ワクチン・予防接種ニュースを毎日自動更新する軽量ダッシュボード</p>
+      <div id="metaLine" class="meta-line">読み込み中…</div>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="stats" id="stats"></section>
+
+    <section class="panel filters">
+      <div class="filter-row">
+        <input id="q" type="search" placeholder="キーワード検索（例: RSV, HPV, approval, Japan）">
+        <select id="region"></select>
+        <select id="topic"></select>
+        <select id="sourceType"></select>
+        <button id="resetBtn">リセット</button>
+      </div>
+    </section>
+
+    <section class="panel">
+      <div class="panel-head">
+        <h2>Latest items</h2>
+        <div id="countLabel"></div>
+      </div>
+      <div id="newsList" class="news-list"></div>
+    </section>
+
+    <section class="panel">
+      <h2>Sources</h2>
+      <ul id="sourcesList" class="sources-list"></ul>
+    </section>
+
+    <section class="panel">
+      <h2>Feed errors</h2>
+      <div id="errorsBox" class="errors-box">なし</div>
+    </section>
+  </main>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>

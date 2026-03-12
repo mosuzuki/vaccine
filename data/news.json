@@ -1,0 +1,145 @@
+{
+  "generated_at": "2026-03-12T00:00:00+00:00",
+  "title": "Vaccine & Immunization News Dashboard",
+  "description": "Auto-updated vaccine and immunization news dashboard for GitHub Pages.",
+  "stats": {
+    "total": 2,
+    "last7": 2,
+    "last30": 2,
+    "by_region": {
+      "Global": 1,
+      "Europe": 1
+    },
+    "by_topic": {
+      "Policy / Recommendation": 1,
+      "Regulatory / Approval": 1
+    },
+    "by_source": {
+      "Sample Official Source": 2
+    }
+  },
+  "errors": [],
+  "sources": [
+    {
+      "name": "CDC Media Releases",
+      "type": "rss",
+      "url": "https://tools.cdc.gov/api/v2/resources/media/403372.rss",
+      "source_type": "official",
+      "region": "Global",
+      "country": "United States",
+      "source_home": "https://www.cdc.gov/media/"
+    },
+    {
+      "name": "FDA Press Releases",
+      "type": "rss",
+      "url": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/press-releases/rss.xml",
+      "source_type": "official",
+      "region": "Global",
+      "country": "United States",
+      "source_home": "https://www.fda.gov/news-events/newsroom/press-announcements"
+    },
+    {
+      "name": "FDA Vaccines, Blood and Biologics",
+      "type": "rss",
+      "url": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/biologics/rss.xml",
+      "source_type": "official",
+      "region": "Global",
+      "country": "United States",
+      "source_home": "https://www.fda.gov/vaccines-blood-biologics"
+    },
+    {
+      "name": "ECDC News and Press Releases",
+      "type": "rss",
+      "url": "https://www.ecdc.europa.eu/en/taxonomy/term/1307/feed",
+      "source_type": "official",
+      "region": "Europe",
+      "country": "EU",
+      "source_home": "https://www.ecdc.europa.eu/en/news-events"
+    },
+    {
+      "name": "EMA News and Press Releases",
+      "type": "rss",
+      "url": "https://www.ema.europa.eu/en/news.xml",
+      "source_type": "official",
+      "region": "Europe",
+      "country": "EU",
+      "source_home": "https://www.ema.europa.eu/en/news-events/news"
+    },
+    {
+      "name": "EMA New Human Medicines",
+      "type": "rss",
+      "url": "https://www.ema.europa.eu/en/new-human-medicine-new.xml",
+      "source_type": "official",
+      "region": "Europe",
+      "country": "EU",
+      "source_home": "https://www.ema.europa.eu/en/medicines"
+    },
+    {
+      "name": "UNICEF News",
+      "type": "rss",
+      "url": "https://www.unicef.org/rss/unicef_news.xml",
+      "source_type": "official",
+      "region": "Global",
+      "country": "Global",
+      "source_home": "https://www.unicef.org/press-releases"
+    },
+    {
+      "name": "Google News Official Vaccine Query",
+      "type": "rss",
+      "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20(site%3Awho.int%20OR%20site%3Agavi.org%20OR%20site%3Acdc.gov%20OR%20site%3Afda.gov%20OR%20site%3Aecdc.europa.eu%20OR%20site%3Aema.europa.eu%20OR%20site%3Aunicef.org%20OR%20site%3Agov.uk)%20when%3A30d&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_type": "aggregated",
+      "region": "Global",
+      "country": "Global",
+      "source_home": "https://news.google.com/"
+    },
+    {
+      "name": "Google News Asia Vaccine Query",
+      "type": "rss",
+      "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunisation)%20(China%20OR%20Hong%20Kong%20OR%20South%20Korea%20OR%20Japan%20OR%20Taiwan%20OR%20India%20OR%20Thailand%20OR%20Philippines)%20when%3A30d&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_type": "aggregated",
+      "region": "Asia",
+      "country": "Asia",
+      "source_home": "https://news.google.com/"
+    }
+  ],
+  "items": [
+    {
+      "id": "sample001",
+      "title": "Sample: new immunization recommendation announced",
+      "summary": "This is a sample item. After the first GitHub Actions run, real items will replace this file.",
+      "url": "https://example.org/sample-1",
+      "published_at": "2026-03-11T12:00:00+00:00",
+      "source_name": "Sample Official Source",
+      "source_type": "official",
+      "source_home": "https://example.org",
+      "country": "Global",
+      "region": "Global",
+      "topics": [
+        "Policy / Recommendation"
+      ],
+      "keyword_hits": [
+        "immunization",
+        "recommendation"
+      ]
+    },
+    {
+      "id": "sample002",
+      "title": "Sample: regulator updates vaccine information",
+      "summary": "Second sample item for the dashboard preview.",
+      "url": "https://example.org/sample-2",
+      "published_at": "2026-03-10T09:00:00+00:00",
+      "source_name": "Sample Official Source",
+      "source_type": "official",
+      "source_home": "https://example.org",
+      "country": "European Union",
+      "region": "Europe",
+      "topics": [
+        "Regulatory / Approval"
+      ],
+      "keyword_hits": [
+        "vaccine",
+        "approval"
+      ]
+    }
+  ]
+}
