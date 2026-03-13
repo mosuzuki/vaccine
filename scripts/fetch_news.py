@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
+import hashlib
 import json
 import re
-import hashlib
 from datetime import datetime, timedelta, timezone
-from pathlib import Path
 from email.utils import parsedate_to_datetime
 from html import unescape
-from urllib.parse import urlparse
+from pathlib import Path
+from urllib.parse import quote_plus
 
 import feedparser
 from deep_translator import GoogleTranslator
@@ -47,7 +47,8 @@ def strip_html(text: str) -> str:
 
 
 def parse_date(entry):
-    for raw in [entry.get("published"), entry.get("updated"), entry.get("created")]:
+    candidates = [entry.get("published"), entry.get("updated"), entry.get("created")]
+    for raw in candidates:
         if not raw:
             continue
         try:
@@ -58,7 +59,7 @@ def parse_date(entry):
         except Exception:
             pass
         try:
-            dt = datetime.fromisoformat(str(raw).replace("Z", "+00:00"))
+            dt = datetime.fromisoformat(raw.replace("Z", "+00:00"))
             if dt.tzinfo is None:
                 dt = dt.replace(tzinfo=timezone.utc)
             return dt.astimezone(timezone.utc)
@@ -78,6 +79,10 @@ def extract_summary(entry):
         except Exception:
             pass
     return ""
+
+
+def google_news_rss_url(query: str):
+    return f"https://news.google.com/rss/search?q={quote_plus(query)}&hl=en-US&gl=US&ceid=US:en"
 
 
 def is_japanese_text(text: str) -> bool:
@@ -105,30 +110,38 @@ def translate_text(text: str, cache: dict, target_lang: str = "ja") -> str:
     return text
 
 
-def keyword_hit(text: str, words):
-    text_l = text.lower()
-    return any(w.lower() in text_l for w in words)
+def classify_topics(text: str, config: dict):
+    text_l = (text or "").lower()
+    topics = []
+    for topic, words in config.get("topic_keywords", {}).items():
+        if any(word.lower() in text_l for word in words):
+            topics.append(topic)
+    return topics or ["other"]
 
 
-def classify_policy_tags(text: str, config: dict):
-    text_l = text.lower()
-    tags = []
-    for tag, words in config.get("policy_rules", {}).items():
-        if any(w.lower() in text_l for w in words):
-            tags.append(tag)
-    return tags or ["general_policy"]
+def classify_policy(text: str, config: dict):
+    text_l = (text or "").lower()
+    found = []
+    for label, words in config.get("policy_categories", {}).items():
+        if any(word.lower() in text_l for word in words):
+            found.append(label)
+    return found or ["その他"]
 
 
-def extract_variant_tags(text: str, config: dict):
-    text_l = text.lower()
-    found = [p for p in config.get("variant_patterns", []) if p.lower() in text_l]
+def extract_variants(text: str, config: dict):
+    text_l = (text or "").lower()
+    found = []
+    for pat in config.get("variant_patterns", []):
+        if pat.lower() in text_l:
+            found.append(pat)
     return sorted(set(found))
 
 
 def detect_country(text: str, config: dict):
     text_l = f" {text.lower()} "
+    country_map = config.get("country_map", {})
     matches = []
-    for key, info in config.get("country_map", {}).items():
+    for key, info in country_map.items():
         pattern = rf"(?<![a-z]){re.escape(key.lower())}(?![a-z])"
         if re.search(pattern, text_l):
             matches.append({
@@ -144,22 +157,11 @@ def detect_country(text: str, config: dict):
     return asia[0] if asia else matches[0]
 
 
-def source_publisher(entry, feed_name):
-    try:
-        src = entry.get("source")
-        if isinstance(src, dict):
-            if src.get("title"):
-                return normalize_space(src.get("title"))
-    except Exception:
-        pass
-    return feed_name
-
-
-def canonical_text(entry, feed_name):
-    title = normalize_space(entry.get("title", ""))
-    summary = extract_summary(entry)
-    publisher = source_publisher(entry, feed_name)
-    return title, summary, publisher, f"{title} {summary} {publisher}"
+def get_source_location(key: str, config: dict):
+    src = config.get("source_location_map", {}).get(key)
+    if not src:
+        return {"name_ja": "不明", "lat": 20.0, "lng": 0.0, "country": "不明", "region": "Unknown"}
+    return src
 
 
 def make_item_id(link: str, title: str) -> str:
@@ -167,133 +169,125 @@ def make_item_id(link: str, title: str) -> str:
 
 
 def dedupe_items(items):
-    deduped, used = [], set()
+    deduped = []
+    used = set()
     for i, item in enumerate(items):
         if i in used:
             continue
         group = [item]
         used.add(i)
         title_a = (item.get("title_original") or item.get("title") or "").lower()
+        url_a = item.get("link", "")
         for j in range(i + 1, len(items)):
             if j in used:
                 continue
             other = items[j]
             title_b = (other.get("title_original") or other.get("title") or "").lower()
-            same_url = item.get("link") and item.get("link") == other.get("link")
-            score = fuzz.token_set_ratio(title_a, title_b)
-            if same_url or score >= 92:
+            url_b = other.get("link", "")
+            title_score = fuzz.token_set_ratio(title_a, title_b)
+            same_url = url_a and url_a == url_b
+            if same_url or title_score >= 92:
                 group.append(other)
                 used.add(j)
-        group = sorted(group, key=lambda x: (x.get("published_at", ""), x.get("source_priority", 0)), reverse=True)
+        group = sorted(group, key=lambda x: (x.get("published_at", ""), x.get("tier", 9) * -1), reverse=True)
         primary = dict(group[0])
         primary["duplicate_count"] = len(group)
-        primary["duplicate_sources"] = sorted(set(x.get("publisher") or x.get("source_name") for x in group if x.get("publisher") or x.get("source_name")))
+        primary["duplicate_sources"] = sorted(set(x.get("source", "") for x in group if x.get("source")))
         deduped.append(primary)
     deduped.sort(key=lambda x: x.get("published_at", ""), reverse=True)
     return deduped
 
 
-def should_keep(text: str, source_type: str, config: dict):
-    has_vaccine = keyword_hit(text, config.get("vaccine_keywords", []))
-    has_policy = keyword_hit(text, config.get("policy_keywords", []))
-    if config.get("require_vaccine_keywords", True) and not has_vaccine:
-        return False
-    if source_type == "official":
-        return has_vaccine and (has_policy or keyword_hit(text, ["outbreak", "campaign", "safety", "approval"]))
-    return has_vaccine and has_policy
+def parse_feed(url: str):
+    parsed = feedparser.parse(url)
+    if getattr(parsed, "bozo", False) and not parsed.entries:
+        raise RuntimeError(str(getattr(parsed, "bozo_exception", "Feed parse error")))
+    return parsed.entries
 
 
-def build_empty_news(config, now_utc):
-    return {
-        "title": config.get("title", "Vaccine Policy Dashboard"),
-        "description": config.get("description", ""),
-        "generated_at": now_utc.isoformat(),
-        "item_count": 0,
-        "feed_status": [],
-        "items": []
-    }
+def process_entries(entries, name, source_type, tier, source_location_key, config, cache, since):
+    items = []
+    for entry in entries:
+        published = parse_date(entry)
+        if published < since:
+            continue
+        title_original = normalize_space(entry.get("title", ""))
+        summary_original = extract_summary(entry)
+        link = entry.get("link", "")
+        merged = f"{title_original} {summary_original}"
+        topics = classify_topics(merged, config)
+        policy_tags = classify_policy(merged, config)
+        variants = extract_variants(merged, config)
+        target_location = detect_country(merged, config)
+        source_location = get_source_location(source_location_key, config)
+        title_ja = translate_text(title_original, cache, config.get("default_language", "ja"))
+        summary_ja = translate_text(summary_original, cache, config.get("default_language", "ja"))
+        items.append({
+            "id": make_item_id(link, title_original),
+            "title": title_ja,
+            "summary": summary_ja,
+            "title_original": title_original,
+            "summary_original": summary_original,
+            "link": link,
+            "source": name,
+            "source_type": source_type,
+            "tier": tier,
+            "published_at": published.isoformat(),
+            "topics": topics,
+            "policy_tags": policy_tags,
+            "variants": variants,
+            "target_location": target_location,
+            "source_location": source_location,
+            "plot_location": source_location,
+            "region": source_location["region"],
+            "country": source_location["country"],
+            "lat": source_location["lat"],
+            "lng": source_location["lng"]
+        })
+    return items
 
 
 def main():
     config = load_json(CONFIG_PATH, {})
     cache = load_json(CACHE_PATH, {})
-    now_utc = datetime.now(timezone.utc)
-    since = now_utc - timedelta(days=int(config.get("days_back", 21)))
-    feeds = config.get("feeds", [])
-    news = build_empty_news(config, now_utc)
-    if not feeds:
-        save_json(NEWS_PATH, news)
-        save_json(CACHE_PATH, cache)
-        print("No feeds configured. Wrote empty news.json")
-        return
+    now = datetime.now(timezone.utc)
+    since = now - timedelta(days=int(config.get("days_back", 21)))
 
-    all_items, feed_status = [], []
-    for feed in feeds:
-        name = feed.get("name", "Unknown Feed")
-        url = feed.get("url", "")
-        source_type = feed.get("source_type", "media")
-        priority = int(feed.get("priority", 0))
-        origin = feed.get("origin", {})
+    all_items = []
+    feed_status = []
+
+    for feed in config.get("official_feeds", []):
         try:
-            parsed = feedparser.parse(url)
-            if getattr(parsed, "bozo", False) and not parsed.entries:
-                raise RuntimeError(str(getattr(parsed, "bozo_exception", "Feed parse error")))
-            count = 0
-            for entry in parsed.entries:
-                published = parse_date(entry)
-                if published < since:
-                    continue
-                title_original, summary_original, publisher, merged = canonical_text(entry, name)
-                if not should_keep(merged, source_type, config):
-                    continue
-                topic_country = detect_country(merged, config)
-                plot_basis = "topic" if topic_country["key"] != "unknown" else "source"
-                title_ja = translate_text(title_original, cache, config.get("default_language", "ja"))
-                summary_ja = translate_text(summary_original, cache, config.get("default_language", "ja"))
-                item = {
-                    "id": make_item_id(entry.get("link", ""), title_original),
-                    "title": title_ja,
-                    "summary": summary_ja,
-                    "title_original": title_original,
-                    "summary_original": summary_original,
-                    "link": entry.get("link", ""),
-                    "publisher": publisher,
-                    "source_name": name,
-                    "source_type": source_type,
-                    "source_priority": priority,
-                    "published_at": published.isoformat(),
-                    "policy_tags": classify_policy_tags(merged, config),
-                    "variant_tags": extract_variant_tags(merged, config),
-                    "topic_country": topic_country["name_ja"],
-                    "topic_region": topic_country["region"],
-                    "topic_lat": topic_country["lat"],
-                    "topic_lng": topic_country["lng"],
-                    "source_origin_name": origin.get("name_ja", "不明"),
-                    "source_country": origin.get("country", "不明"),
-                    "source_region": origin.get("region", "Unknown"),
-                    "source_lat": origin.get("lat", 20.0),
-                    "source_lng": origin.get("lng", 0.0),
-                    "plot_basis": plot_basis,
-                    "plot_label": topic_country["name_ja"] if plot_basis == "topic" else origin.get("name_ja", "不明"),
-                    "plot_lat": topic_country["lat"] if plot_basis == "topic" else origin.get("lat", 20.0),
-                    "plot_lng": topic_country["lng"] if plot_basis == "topic" else origin.get("lng", 0.0)
-                }
-                all_items.append(item)
-                count += 1
-            feed_status.append({"name": name, "url": url, "status": "ok", "items": count})
+            entries = parse_feed(feed["url"])
+            items = process_entries(entries, feed["name"], feed["source_type"], feed["tier"], feed["source_location_key"], config, cache, since)
+            all_items.extend(items)
+            feed_status.append({"name": feed["name"], "url": feed["url"], "status": "ok", "items": len(items), "tier": feed["tier"]})
         except Exception as exc:
-            feed_status.append({"name": name, "url": url, "status": "error", "error": str(exc)})
+            feed_status.append({"name": feed["name"], "url": feed["url"], "status": "error", "error": str(exc), "tier": feed["tier"]})
 
-    all_items.sort(key=lambda x: (x.get("published_at", ""), x.get("source_priority", 0)), reverse=True)
-    all_items = dedupe_items(all_items)
-    all_items = all_items[: int(config.get("max_items", 120))]
+    for group_name in ["media_queries", "academic_queries"]:
+        for query in config.get(group_name, []):
+            rss_url = google_news_rss_url(query["query"])
+            try:
+                entries = parse_feed(rss_url)
+                items = process_entries(entries, query["name"], query["source_type"], query["tier"], query["source_location_key"], config, cache, since)
+                all_items.extend(items)
+                feed_status.append({"name": query["name"], "url": rss_url, "status": "ok", "items": len(items), "tier": query["tier"]})
+            except Exception as exc:
+                feed_status.append({"name": query["name"], "url": rss_url, "status": "error", "error": str(exc), "tier": query["tier"]})
+
+    all_items = [x for x in all_items if not (x["source_type"] == "media" and x["topics"] == ["other"])]
+    all_items.sort(key=lambda x: (x.get("published_at", ""), -x.get("tier", 9)), reverse=True)
+    all_items = dedupe_items(all_items)[: int(config.get("max_items", 300))]
+
     news = {
-        "title": config.get("title", "Vaccine Policy Dashboard"),
+        "title": config.get("title", "Global Vaccine Policy Monitor"),
         "description": config.get("description", ""),
-        "generated_at": now_utc.isoformat(),
+        "generated_at": now.isoformat(),
         "item_count": len(all_items),
         "feed_status": feed_status,
-        "items": all_items
+        "items": all_items,
+        "map_default_mode": config.get("map_default_mode", "source")
     }
     save_json(NEWS_PATH, news)
     save_json(CACHE_PATH, cache)
