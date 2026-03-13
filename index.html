@@ -2,57 +2,33 @@
 <html lang="ja">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Global Vaccine Policy Monitor</title>
-  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
-  <link rel="stylesheet" href="assets/style.css">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Vaccine and Immunization Monitoring</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <link rel="stylesheet" href="./assets/style.css">
 </head>
 <body>
-  <header class="wrap">
-    <h1 id="title">Global Vaccine Policy Monitor</h1>
-    <p id="description"></p>
-    <div class="meta"><span id="generatedAt"></span><span id="itemCount"></span></div>
-  </header>
-
-  <section class="wrap controls">
-    <label>地図表示
-      <select id="mapMode">
-        <option value="source">発信元所在地</option>
-        <option value="target">ニュース対象国</option>
-      </select>
-    </label>
-    <label>ソース層
-      <select id="tierFilter">
-        <option value="all">すべて</option>
-        <option value="1">Tier 1</option>
-        <option value="2">Tier 2</option>
-        <option value="3">Tier 3</option>
-      </select>
-    </label>
-    <label>政策分類
-      <select id="policyFilter"><option value="all">すべて</option></select>
-    </label>
-    <label>キーワード
-      <input id="searchInput" type="search" placeholder="国名、ワクチン、勧告などで検索">
-    </label>
-  </section>
-
-  <section class="wrap">
-    <div id="map"></div>
-  </section>
-
-  <section class="wrap two-col">
-    <div>
-      <h2>記事一覧</h2>
-      <div id="cards"></div>
-    </div>
-    <aside>
-      <h2>取得状況</h2>
-      <div id="feedStatus"></div>
-    </aside>
-  </section>
-
-  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
-  <script src="assets/app.js"></script>
+  <header class="hero"><div class="wrap">
+    <h1 id="site-title">Vaccine and Immunization Monitoring</h1>
+    <p id="site-desc">Global monitoring dashboard highlighting the latest information on vaccine and immunization policy, research and development, and communication.</p>
+    <div class="meta"><span id="generated-at"></span><span id="item-count"></span></div>
+  </div></header>
+  <main class="wrap layout">
+    <section class="panel filters">
+      <h2>Filters</h2>
+      <label>Search <input id="search" type="text" placeholder="Search title, summary, source"></label>
+      <label>Topic <select id="topic-filter"><option value="">All</option><option value="policy">Policy</option><option value="research">Research</option><option value="communication">Communication</option><option value="other">Other</option></select></label>
+      <label>Policy tag <select id="policy-filter"><option value="">All</option><option value="recommendation">Recommendation</option><option value="schedule">Schedule</option><option value="approval">Approval</option><option value="financing">Financing</option><option value="safety">Safety</option><option value="outbreak_response">Outbreak response</option><option value="communication">Communication</option></select></label>
+      <label>Vaccine <select id="vaccine-filter"><option value="">All</option><option value="covid">COVID-19</option><option value="influenza">Influenza</option><option value="rsv">RSV</option><option value="measles">Measles</option><option value="polio">Polio</option><option value="hpv">HPV</option><option value="pneumococcal">Pneumococcal</option><option value="pertussis">Pertussis</option><option value="dengue">Dengue</option><option value="mpox">Mpox</option></select></label>
+      <label>Source tier <select id="tier-filter"><option value="">All</option><option value="Tier 1">Tier 1</option><option value="Tier 2">Tier 2</option><option value="Tier 3">Tier 3</option></select></label>
+      <label>Map plot <select id="plot-mode"><option value="source">Source origin</option><option value="target">Target country</option></select></label>
+      <label class="checkbox"><input id="official-only" type="checkbox"> Tier 1 only</label>
+    </section>
+    <section class="panel map-panel"><div class="panel-head"><h2>Global map</h2><div class="small">Default: source origin of the news item</div></div><div id="map"></div></section>
+    <section class="panel feed-panel"><h2>Feed status</h2><div id="feed-status"></div></section>
+    <section class="panel list-panel"><div class="panel-head"><h2>Latest items</h2><div id="visible-count" class="small"></div></div><div id="cards"></div></section>
+  </main>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="./assets/app.js"></script>
 </body>
 </html>

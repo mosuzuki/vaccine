@@ -1,107 +1,16 @@
 let allItems = [];
 let map;
 let markersLayer;
-
-function fmtDate(s){try{return new Date(s).toLocaleString('ja-JP');}catch{return s;}}
-function el(id){return document.getElementById(id);}
-
-async function loadData(){
-  const res = await fetch('data/news.json?ts=' + Date.now());
-  const data = await res.json();
-  el('title').textContent = data.title;
-  el('description').textContent = data.description;
-  el('generatedAt').textContent = '更新: ' + fmtDate(data.generated_at);
-  el('itemCount').textContent = '件数: ' + data.item_count;
-  allItems = data.items || [];
-  const mode = data.map_default_mode || 'source';
-  el('mapMode').value = mode;
-  buildPolicyFilter();
-  renderFeedStatus(data.feed_status || []);
-  render();
-}
-
-function buildPolicyFilter(){
-  const set = new Set();
-  allItems.forEach(i => (i.policy_tags || []).forEach(t => set.add(t)));
-  const sel = el('policyFilter');
-  [...set].sort().forEach(t => {
-    const opt = document.createElement('option');
-    opt.value = t; opt.textContent = t; sel.appendChild(opt);
-  });
-}
-
-function filteredItems(){
-  const tier = el('tierFilter').value;
-  const policy = el('policyFilter').value;
-  const q = el('searchInput').value.trim().toLowerCase();
-  return allItems.filter(i => {
-    if(tier !== 'all' && String(i.tier) !== tier) return false;
-    if(policy !== 'all' && !(i.policy_tags || []).includes(policy)) return false;
-    if(q){
-      const text = [i.title,i.summary,i.title_original,i.summary_original,i.country,i.source,(i.policy_tags||[]).join(' ')].join(' ').toLowerCase();
-      if(!text.includes(q)) return false;
-    }
-    return true;
-  });
-}
-
-function renderCards(items){
-  const box = el('cards');
-  box.innerHTML = '';
-  items.forEach(i => {
-    const card = document.createElement('article');
-    card.className = 'card';
-    const tags = [...(i.policy_tags||[]), ...(i.topics||[]).slice(0,2), 'Tier ' + i.tier].map(t => `<span class="tag">${t}</span>`).join('');
-    card.innerHTML = `
-      <h3><a href="${i.link}" target="_blank" rel="noopener">${i.title || i.title_original}</a></h3>
-      <div class="muted">${fmtDate(i.published_at)} / ${i.source} / 発信元: ${i.source_location?.name_ja || '不明'} / 対象国: ${i.target_location?.name_ja || '不明'}</div>
-      <div class="tags">${tags}</div>
-      <p>${i.summary || ''}</p>
-      <details><summary>原文</summary><p>${i.title_original || ''}</p><p>${i.summary_original || ''}</p></details>
-    `;
-    box.appendChild(card);
-  });
-}
-
-function renderFeedStatus(feedStatus){
-  const box = el('feedStatus');
-  box.innerHTML = '';
-  feedStatus.forEach(f => {
-    const d = document.createElement('div');
-    d.className = 'status';
-    d.innerHTML = `<strong>${f.name}</strong><div class="muted">Tier ${f.tier || '-'} / ${f.status}${f.items !== undefined ? ' / ' + f.items + '件' : ''}</div>`;
-    box.appendChild(d);
-  });
-}
-
-function ensureMap(){
-  if(map) return;
-  map = L.map('map').setView([20, 0], 2);
-  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {maxZoom: 18, attribution: '&copy; OpenStreetMap'}).addTo(map);
-  markersLayer = L.layerGroup().addTo(map);
-}
-
-function renderMap(items){
-  ensureMap();
-  markersLayer.clearLayers();
-  const mode = el('mapMode').value;
-  items.forEach(i => {
-    const loc = mode === 'target' ? (i.target_location || {}) : (i.source_location || {});
-    const lat = mode === 'target' ? i.target_location?.lat : i.source_location?.lat;
-    const lng = mode === 'target' ? i.target_location?.lng : i.source_location?.lng;
-    if(lat == null || lng == null) return;
-    const popup = `<strong>${i.title || i.title_original}</strong><br>${i.source}<br>${mode === 'target' ? '対象国' : '発信元'}: ${loc.name_ja || '不明'}<br><a href="${i.link}" target="_blank" rel="noopener">記事を開く</a>`;
-    L.marker([lat,lng]).bindPopup(popup).addTo(markersLayer);
-  });
-}
-
-function render(){
-  const items = filteredItems();
-  renderCards(items);
-  renderMap(items);
-}
-
-['mapMode','tierFilter','policyFilter','searchInput'].forEach(id => {
-  window.addEventListener('DOMContentLoaded', () => el(id).addEventListener(id==='searchInput'?'input':'change', render));
-});
-window.addEventListener('DOMContentLoaded', loadData);
+const byId = (id) => document.getElementById(id);
+function fmtDate(iso){try{return new Date(iso).toLocaleString('ja-JP')}catch{return iso}}
+function escapeHtml(str=''){return str.replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]))}
+function badge(label, cls=''){return `<span class="badge ${cls}">${escapeHtml(label)}</span>`}
+function renderHeader(data){byId('site-title').textContent=data.title||'Vaccine and Immunization Monitoring';byId('site-desc').textContent=data.description||'';byId('generated-at').textContent=`Updated: ${fmtDate(data.generated_at)}`;byId('item-count').textContent=`Items: ${data.item_count??0}`;byId('plot-mode').value=data.plot_mode_default||'source'}
+function renderFeedStatus(feedStatus=[]){const el=byId('feed-status');if(!feedStatus.length){el.innerHTML='<div class="small">No feed status available.</div>';return}el.innerHTML=feedStatus.map(f=>`<div class="feed-item"><div><strong>${escapeHtml(f.name||'')}</strong></div><div>${badge(f.tier||'',(f.tier||'').toLowerCase().replace(/\s+/g,''))}</div><div class="${f.status==='ok'?'status-ok':'status-error'}">${escapeHtml(f.status||'')}</div><div class="small">${f.items!=null?`${f.items} items`:escapeHtml(f.error||'')}</div></div>`).join('')}
+function passesFilters(item){const q=byId('search').value.trim().toLowerCase();const topic=byId('topic-filter').value;const policy=byId('policy-filter').value;const vaccine=byId('vaccine-filter').value;const tier=byId('tier-filter').value;const officialOnly=byId('official-only').checked;const hay=[item.title,item.summary,item.title_original,item.summary_original,item.source,item.target_country,item.source_location?.label].join(' ').toLowerCase();if(q&&!hay.includes(q))return false;if(topic&&!(item.topics||[]).includes(topic))return false;if(policy&&!(item.policy_tags||[]).includes(policy))return false;if(vaccine&&!(item.vaccines||[]).includes(vaccine))return false;if(tier&&item.source_tier!==tier)return false;if(officialOnly&&item.source_tier!=='Tier 1')return false;return true}
+function renderCards(items){const el=byId('cards');byId('visible-count').textContent=`Visible: ${items.length}`;if(!items.length){el.innerHTML='<div class="small">No items match the current filters.</div>';return}el.innerHTML=items.map(item=>{const topicBadges=(item.topics||[]).map(t=>badge(t[0].toUpperCase()+t.slice(1),t)).join('');const policyBadges=(item.policy_tags||[]).map(t=>badge(t.replace('_',' '))).join('');const vaccineBadges=(item.vaccines||[]).map(v=>badge(v)).join('');const variantBadges=(item.variants||[]).map(v=>badge(v)).join('');const tierClass=(item.source_tier||'').toLowerCase().replace(/\s+/g,'');return `<article class="card"><div class="badges">${topicBadges}${badge(item.source_tier||'',tierClass)}${item.duplicate_count>1?badge(`dedup ${item.duplicate_count}`):''}</div><h3><a href="${item.link}" target="_blank" rel="noopener noreferrer">${escapeHtml(item.title||item.title_original||'')}</a></h3><div class="sub">${fmtDate(item.published_at)} · ${escapeHtml(item.source||'')}</div><p><strong>AI summary:</strong> ${escapeHtml(item.summary_ai||'')}</p><p>${escapeHtml(item.summary||'')}</p><div class="badges">${policyBadges}${vaccineBadges}${variantBadges}</div><div class="meta-grid"><div><strong>Target country:</strong> ${escapeHtml(item.target_country||'不明')}</div><div><strong>Source origin:</strong> ${escapeHtml(item.source_location?.label||item.source_location?.name_ja||'不明')}</div><div><strong>Original title:</strong> ${escapeHtml(item.title_original||'')}</div><div><strong>Tier:</strong> ${escapeHtml(item.source_tier||'')}</div></div></article>`}).join('')}
+function setupMap(){map=L.map('map',{worldCopyJump:true}).setView([20,0],2);L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:6,attribution:'&copy; OpenStreetMap contributors'}).addTo(map);markersLayer=L.layerGroup().addTo(map)}
+function renderMap(items){if(!map)setupMap();markersLayer.clearLayers();const mode=byId('plot-mode').value||'source';const pts=[];items.forEach(item=>{const plot=item.plot?.[mode];if(!plot||plot.lat==null||plot.lng==null)return;const marker=L.marker([plot.lat,plot.lng]);marker.bindPopup(`<strong>${escapeHtml(item.title||'')}</strong><br>${escapeHtml(item.source||'')}<br>${escapeHtml(plot.label||'')}<br>${escapeHtml((item.topics||[]).join(', '))}<br><a href="${item.link}" target="_blank" rel="noopener noreferrer">Open article</a>`);marker.addTo(markersLayer);pts.push([plot.lat,plot.lng])});if(pts.length){map.fitBounds(pts,{padding:[20,20],maxZoom:4})}else{map.setView([20,0],2)}}
+function updateView(){const filtered=allItems.filter(passesFilters);renderCards(filtered);renderMap(filtered)}
+async function init(){const res=await fetch('./data/news.json',{cache:'no-store'});const data=await res.json();allItems=(data.items||[]).sort((a,b)=>(b.published_at||'').localeCompare(a.published_at||''));renderHeader(data);renderFeedStatus(data.feed_status||[]);setupMap();updateView();['search','topic-filter','policy-filter','vaccine-filter','tier-filter','plot-mode','official-only'].forEach(id=>byId(id).addEventListener('input',updateView));byId('plot-mode').addEventListener('change',updateView)}
+init().catch(err=>{byId('cards').innerHTML=`<div class="small">Failed to load dashboard data: ${escapeHtml(String(err))}</div>`})
