@@ -1,18 +1,58 @@
-let allItems = [];
-let map;
-let markersLayer;
-const byId = (id) => document.getElementById(id);
-function fmtDate(iso){try{return new Date(iso).toLocaleString('ja-JP')}catch{return iso}}
-function escapeHtml(str=''){return str.replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]))}
-function badge(label, cls=''){return `<span class="badge ${cls}">${escapeHtml(label)}</span>`}
-function topicJa(topic){return ({policy:'政策',research:'研究開発',communication:'コミュニケーション',other:'その他'})[topic]||topic}
-function policyJa(tag){return ({recommendation:'勧告',schedule:'接種スケジュール',approval:'承認・適応',financing:'財政・調達',safety:'安全性',outbreak_response:'流行対応',communication:'広報・啓発'})[tag]||tag}
-function renderHeader(data){byId('site-title').textContent=data.title||'Vaccine and Immunization Monitoring';byId('site-desc').textContent=data.description||'';byId('generated-at').textContent=`更新: ${fmtDate(data.generated_at)}`;byId('item-count').textContent=`件数: ${data.item_count??0}`;byId('plot-mode').value=data.plot_mode_default||'source'}
-function renderFeedStatus(feedStatus=[]){const el=byId('feed-status');if(!feedStatus.length){el.innerHTML='<div class="small">feed status はありません。</div>';return}el.innerHTML=feedStatus.map(f=>`<div class="feed-item"><span class="feed-name">${escapeHtml(f.name||'')}</span><span class="small">${escapeHtml(f.tier||'')}</span><span class="${f.status==='ok'?'status-ok':'status-error'}">${escapeHtml(f.status||'')}</span><span class="small">seen ${f.seen??0} / kept ${f.kept??0}</span></div>`).join('')}
-function passesFilters(item){const q=byId('search').value.trim().toLowerCase();const topic=byId('topic-filter').value;const policy=byId('policy-filter').value;const vaccine=byId('vaccine-filter').value;const tier=byId('tier-filter').value;const officialOnly=byId('official-only').checked;const hay=[item.title,item.summary,item.title_original,item.summary_original,item.source,item.target_country,item.source_location?.label].join(' ').toLowerCase();if(q&&!hay.includes(q))return false;if(topic&&!(item.topics||[]).includes(topic))return false;if(policy&&!(item.policy_tags||[]).includes(policy))return false;if(vaccine&&!(item.vaccines||[]).includes(vaccine))return false;if(tier&&item.source_tier!==tier)return false;if(officialOnly&&item.source_tier!=='Tier 1')return false;return true}
-function renderCards(items){const el=byId('cards');byId('visible-count').textContent=`表示件数: ${items.length}`;if(!items.length){el.innerHTML='<div class="small">条件に合う記事はありません。</div>';return}el.innerHTML=items.map(item=>{const topicBadges=(item.topics||[]).map(t=>badge(topicJa(t),t)).join('');const policyBadges=(item.policy_tags||[]).map(t=>badge(policyJa(t))).join('');const vaccineBadges=(item.vaccines||[]).map(v=>badge(v)).join('');const variantBadges=(item.variants||[]).map(v=>badge(v)).join('');const tierClass=(item.source_tier||'').toLowerCase().replace(/\s+/g,'');return `<article class="card"><div class="badges">${topicBadges}${badge(item.source_tier||'',tierClass)}${item.duplicate_count>1?badge(`重複統合 ${item.duplicate_count}`):''}</div><h3><a href="${item.link}" target="_blank" rel="noopener noreferrer">${escapeHtml(item.title||item.title_original||'')}</a></h3><div class="sub">${fmtDate(item.published_at)} · ${escapeHtml(item.source||'')}</div><p><strong>要点:</strong> ${escapeHtml(item.summary_ai||'')}</p><p>${escapeHtml(item.summary||'')}</p><div class="badges">${policyBadges}${vaccineBadges}${variantBadges}</div><div class="meta-grid"><div><strong>対象国:</strong> ${escapeHtml(item.target_country||'不明')}</div><div><strong>発信元:</strong> ${escapeHtml(item.source_location?.label||item.source_location?.name_ja||'不明')}</div><div><strong>原題:</strong> ${escapeHtml(item.title_original||'')}</div><div><strong>情報源:</strong> ${escapeHtml(item.source_tier||'')}</div></div></article>`}).join('')}
-function setupMap(){map=L.map('map',{worldCopyJump:true}).setView([20,0],2);L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:6,attribution:'&copy; OpenStreetMap contributors'}).addTo(map);markersLayer=L.layerGroup().addTo(map)}
-function renderMap(items){if(!map)setupMap();markersLayer.clearLayers();const mode=byId('plot-mode').value||'source';const pts=[];items.forEach(item=>{const plot=item.plot?.[mode];if(!plot||plot.lat==null||plot.lng==null)return;const marker=L.marker([plot.lat,plot.lng]);marker.bindPopup(`<strong>${escapeHtml(item.title||'')}</strong><br>${escapeHtml(item.source||'')}<br>${escapeHtml(plot.label||'')}<br>${escapeHtml((item.topics||[]).map(topicJa).join(', '))}<br><a href="${item.link}" target="_blank" rel="noopener noreferrer">記事を開く</a>`);marker.addTo(markersLayer);pts.push([plot.lat,plot.lng])});if(pts.length){map.fitBounds(pts,{padding:[20,20],maxZoom:4})}else{map.setView([20,0],2)}}
-function updateView(){const filtered=allItems.filter(passesFilters);renderCards(filtered);renderMap(filtered)}
-async function init(){const res=await fetch('./data/news.json',{cache:'no-store'});const data=await res.json();allItems=(data.items||[]).sort((a,b)=>(b.published_at||'').localeCompare(a.published_at||''));renderHeader(data);renderFeedStatus(data.feed_status||[]);setupMap();updateView();['search','topic-filter','policy-filter','vaccine-filter','tier-filter','plot-mode','official-only'].forEach(id=>byId(id).addEventListener('input',updateView));byId('plot-mode').addEventListener('change',updateView)}
-init().catch(err=>{byId('cards').innerHTML=`<div class="small">データを読み込めませんでした: ${escapeHtml(String(err))}</div>`})
+async function loadNews() {
+  const res = await fetch('./data/news.json?' + Date.now());
+  const data = await res.json();
+
+  document.getElementById('title').textContent = data.title || 'Vaccine and Immunization Monitoring';
+  document.getElementById('description').textContent = data.description || '';
+
+  const container = document.getElementById('cards');
+  container.innerHTML = '';
+
+  for (const item of data.items || []) {
+    const el = document.createElement('article');
+    el.className = 'card';
+
+    const topics = (item.topics || []).map(t => `<span class="badge">${topicJa(t)}</span>`).join(' ');
+    const vaccines = (item.vaccines || []).map(v => `<span class="badge subtle">${v}</span>`).join(' ');
+    const variants = (item.variants || []).map(v => `<span class="badge subtle">${v}</span>`).join(' ');
+    const dup = item.duplicate_count > 1 ? `<div class="meta small">重複統合: ${item.duplicate_count}件</div>` : '';
+
+    el.innerHTML = `
+      <h3><a href="${item.link}" target="_blank" rel="noopener noreferrer">${escapeHtml(item.title || '')}</a></h3>
+      <div class="meta">${fmtDate(item.published_at)} · ${escapeHtml(item.source || '')}</div>
+      <div class="badges">${topics} ${vaccines} ${variants}</div>
+      <p><strong>要点:</strong> ${escapeHtml(item.summary_ai || item.summary || '')}</p>
+      ${dup}
+    `;
+    container.appendChild(el);
+  }
+
+  const feed = document.getElementById('feed-status');
+  if (feed) {
+    feed.innerHTML = (data.feed_status || []).map(f => {
+      const status = f.status === 'ok' ? 'OK' : 'ERR';
+      const counts = f.status === 'ok' ? ` / seen ${f.seen ?? 0} / kept ${f.kept ?? 0}` : ` / ${escapeHtml(f.error || '')}`;
+      return `<div>${escapeHtml(f.name || '')}: ${status}${counts}</div>`;
+    }).join('');
+  }
+}
+
+function topicJa(t) {
+  const map = { policy: '政策', research: '研究開発', communication: 'コミュニケーション', other: 'その他' };
+  return map[t] || t;
+}
+
+function fmtDate(v) {
+  try { return new Date(v).toLocaleString('ja-JP'); } catch { return v || ''; }
+}
+
+function escapeHtml(s) {
+  return String(s)
+    .replaceAll('&', '&amp;')
+    .replaceAll('<', '&lt;')
+    .replaceAll('>', '&gt;')
+    .replaceAll('"', '&quot;')
+    .replaceAll("'", '&#39;');
+}
+
+loadNews();
