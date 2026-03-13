@@ -6,7 +6,7 @@ on:
     - cron: '10 21 * * *'
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -37,6 +37,18 @@ jobs:
 
       - name: Fetch and build data
         run: python scripts/fetch_news.py
+
+      - name: Persist updated data files
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add data/news.json data/archive.json data/translation_cache.json data/article_text_cache.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Update monitoring data"
+            git push
+          else
+            echo "No data changes to commit"
+          fi
 
       - name: Configure Pages
         uses: actions/configure-pages@v5
