@@ -1,53 +1,140 @@
 <!doctype html>
 <html lang="ja">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>Vaccine & Immunization News Dashboard</title>
-  <link rel="stylesheet" href="assets/style.css">
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>EBS Research Dashboard</title>
+  <meta name="description" content="研究機関向け Event-Based Surveillance ダッシュボード" />
+  <link rel="preconnect" href="https://unpkg.com">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin=""/>
+  <link rel="stylesheet" href="assets/style.css" />
 </head>
 <body>
-  <header class="hero">
-    <div class="container">
-      <p class="eyebrow">GitHub Pages dashboard</p>
-      <h1>Vaccine &amp; Immunization News Dashboard</h1>
-      <p class="lead">公式ソース中心に、ワクチン・予防接種ニュースを毎日自動更新する軽量ダッシュボード</p>
-      <div id="metaLine" class="meta-line">読み込み中…</div>
+  <header class="topbar">
+    <div>
+      <h1>EBS Research Dashboard</h1>
+      <p class="subtitle">ワクチン・変異株・アウトブレイクの公開情報モニタリング</p>
+    </div>
+    <div class="header-actions">
+      <span id="lastUpdatedBadge" class="badge">Loading…</span>
+      <a class="ghost-btn" href="data/news.json" target="_blank" rel="noopener">JSON</a>
     </div>
   </header>
 
-  <main class="container">
-    <section class="stats" id="stats"></section>
+  <main class="layout">
+    <aside class="sidebar">
+      <section class="panel">
+        <h2>Filters</h2>
+        <div class="field">
+          <label for="searchInput">検索</label>
+          <input id="searchInput" type="search" placeholder="日本語でも英語でも検索可" />
+        </div>
+        <div class="field-grid">
+          <div class="field">
+            <label for="regionFilter">Region</label>
+            <select id="regionFilter"></select>
+          </div>
+          <div class="field">
+            <label for="countryFilter">Country</label>
+            <select id="countryFilter"></select>
+          </div>
+        </div>
+        <div class="field-grid three-up">
+          <div class="field">
+            <label for="classificationFilter">Auto class</label>
+            <select id="classificationFilter"></select>
+          </div>
+          <div class="field">
+            <label for="topicFilter">Topic</label>
+            <select id="topicFilter"></select>
+          </div>
+          <div class="field">
+            <label for="eventTypeFilter">Event type</label>
+            <select id="eventTypeFilter"></select>
+          </div>
+        </div>
+        <div class="field-grid">
+          <div class="field">
+            <label for="signalFilter">Signal level</label>
+            <select id="signalFilter"></select>
+          </div>
+          <div class="field">
+            <label for="daysFilter">Period</label>
+            <select id="daysFilter">
+              <option value="7">Last 7 days</option>
+              <option value="14" selected>Last 14 days</option>
+              <option value="30">Last 30 days</option>
+              <option value="90">Last 90 days</option>
+              <option value="3650">All</option>
+            </select>
+          </div>
+        </div>
+        <div class="checkbox-row">
+          <label><input id="officialOnly" type="checkbox" /> 一次情報のみ</label>
+        </div>
+        <div class="checkbox-row">
+          <label><input id="asiaPriorityOnly" type="checkbox" /> アジア優先のみ</label>
+        </div>
+        <div class="button-row">
+          <button id="resetBtn" class="primary-btn">Reset</button>
+        </div>
+      </section>
 
-    <section class="panel filters">
-      <div class="filter-row">
-        <input id="q" type="search" placeholder="キーワード検索（例: RSV, HPV, approval, Japan）">
-        <select id="region"></select>
-        <select id="topic"></select>
-        <select id="sourceType"></select>
-        <button id="resetBtn">リセット</button>
-      </div>
-    </section>
+      <section class="panel">
+        <h2>Summary</h2>
+        <div id="summaryStats" class="stats-grid"></div>
+      </section>
 
-    <section class="panel">
-      <div class="panel-head">
-        <h2>Latest items</h2>
-        <div id="countLabel"></div>
-      </div>
-      <div id="newsList" class="news-list"></div>
-    </section>
+      <section class="panel">
+        <h2>Feed status</h2>
+        <div id="feedStatus"></div>
+      </section>
+    </aside>
 
-    <section class="panel">
-      <h2>Sources</h2>
-      <ul id="sourcesList" class="sources-list"></ul>
-    </section>
+    <section class="content">
+      <section class="panel">
+        <div class="section-head">
+          <h2>Map</h2>
+          <span id="resultCount" class="muted"></span>
+        </div>
+        <div id="map"></div>
+      </section>
 
-    <section class="panel">
-      <h2>Feed errors</h2>
-      <div id="errorsBox" class="errors-box">なし</div>
+      <section class="panel">
+        <div class="section-head">
+          <h2>Signals</h2>
+          <div id="activeFilters" class="chip-row"></div>
+        </div>
+        <div id="newsList" class="news-list"></div>
+      </section>
     </section>
   </main>
 
+  <template id="newsCardTemplate">
+    <article class="news-card">
+      <div class="news-card-top">
+        <div class="news-meta-left">
+          <span class="tag tag-signal"></span>
+          <span class="tag tag-classification"></span>
+          <span class="tag tag-topic"></span>
+          <span class="tag tag-event"></span>
+          <span class="tag tag-region"></span>
+        </div>
+        <div class="news-date"></div>
+      </div>
+      <h3 class="news-title"><a target="_blank" rel="noopener"></a></h3>
+      <div class="news-source-line"></div>
+      <p class="news-summary"></p>
+      <details class="original-block">
+        <summary>Original</summary>
+        <div class="news-original-title"></div>
+        <div class="news-original-summary"></div>
+      </details>
+      <div class="news-footer"></div>
+    </article>
+  </template>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
   <script src="assets/app.js"></script>
 </body>
 </html>
