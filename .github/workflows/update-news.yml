@@ -6,7 +6,7 @@ on:
     - cron: '10 21 * * *'
 
 permissions:
-  contents: write
+  contents: read
   pages: write
   id-token: write
 
@@ -20,6 +20,7 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -36,14 +37,6 @@ jobs:
 
       - name: Fetch and build data
         run: python scripts/fetch_news.py
-
-      - name: Commit updated data files
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add data/news.json data/translation_cache.json || true
-          git diff --cached --quiet || git commit -m "Update dashboard data"
-          git push
 
       - name: Configure Pages
         uses: actions/configure-pages@v5
