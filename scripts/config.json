@@ -2,15 +2,20 @@
   "title": "Vaccine and Immunization Monitoring",
   "description": "過去14日間の信頼できる一次ソースに基づき、ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
   "days_back": 14,
-  "max_items": 250,
+  "max_items": 120,
   "default_language": "ja",
-  "default_plot_mode": "source",
+  "plot_mode_default": "source",
+  "pickup_source_types": [
+    "official",
+    "academic",
+    "preprint"
+  ],
   "feeds": [
     {
       "name": "WHO News",
       "url": "https://www.who.int/feeds/entity/news-room/rss/en.xml",
       "source_type": "official",
-      "tier": "Tier 1",
+      "source_tier": "Tier 1",
       "priority": 10,
       "origin_key": "switzerland",
       "origin_label": "WHO / Geneva"
@@ -19,7 +24,7 @@
       "name": "WHO Disease Outbreak News",
       "url": "https://www.who.int/feeds/entity/emergencies/disease-outbreak-news/rss.xml",
       "source_type": "official",
-      "tier": "Tier 1",
+      "source_tier": "Tier 1",
       "priority": 10,
       "origin_key": "switzerland",
       "origin_label": "WHO / Geneva"
@@ -28,7 +33,7 @@
       "name": "CDC Newsroom",
       "url": "https://tools.cdc.gov/api/v2/resources/media/316422.rss",
       "source_type": "official",
-      "tier": "Tier 1",
+      "source_tier": "Tier 1",
       "priority": 9,
       "origin_key": "united states",
       "origin_label": "CDC / Atlanta"
@@ -37,7 +42,7 @@
       "name": "CDC Media Releases",
       "url": "https://tools.cdc.gov/api/v2/resources/media/403372.rss",
       "source_type": "official",
-      "tier": "Tier 1",
+      "source_tier": "Tier 1",
       "priority": 9,
       "origin_key": "united states",
       "origin_label": "CDC / Atlanta"
@@ -46,7 +51,7 @@
       "name": "ECDC News",
       "url": "https://www.ecdc.europa.eu/en/news-events/rss.xml",
       "source_type": "official",
-      "tier": "Tier 1",
+      "source_tier": "Tier 1",
       "priority": 9,
       "origin_key": "sweden",
       "origin_label": "ECDC / Stockholm"
@@ -55,142 +60,70 @@
       "name": "FDA Vaccines / Biologics",
       "url": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/biologics/rss.xml",
       "source_type": "official",
-      "tier": "Tier 1",
+      "source_tier": "Tier 1",
       "priority": 9,
       "origin_key": "united states",
       "origin_label": "FDA / Silver Spring"
     },
     {
-      "name": "Reuters Vaccines / Immunization",
-      "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
-      "source_type": "media",
-      "tier": "Tier 2",
+      "name": "EMA News",
+      "url": "https://www.ema.europa.eu/en/news-rss",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "priority": 8,
+      "origin_key": "belgium",
+      "origin_label": "EMA / Amsterdam"
+    },
+    {
+      "name": "MHRA",
+      "url": "https://www.gov.uk/government/organisations/medicines-and-healthcare-products-regulatory-agency.atom",
+      "source_type": "official",
+      "source_tier": "Tier 1",
       "priority": 8,
       "origin_key": "united kingdom",
-      "origin_label": "Reuters / global"
+      "origin_label": "MHRA / London"
     },
     {
-      "name": "AP Vaccines / Immunization",
-      "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen",
-      "source_type": "media",
-      "tier": "Tier 2",
+      "name": "Health Canada Recalls and Safety Alerts",
+      "url": "https://recalls-rappels.canada.ca/en/rss.xml",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "priority": 8,
+      "origin_key": "canada",
+      "origin_label": "Health Canada / Ottawa"
+    },
+    {
+      "name": "TGA News",
+      "url": "https://www.tga.gov.au/news/rss.xml",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "priority": 8,
+      "origin_key": "australia",
+      "origin_label": "TGA / Canberra"
+    },
+    {
+      "name": "Africa CDC News",
+      "url": "https://africacdc.org/feed/",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "priority": 8,
+      "origin_key": "ethiopia",
+      "origin_label": "Africa CDC / Addis Ababa"
+    },
+    {
+      "name": "PAHO News",
+      "url": "https://www.paho.org/en/rss.xml",
+      "source_type": "official",
+      "source_tier": "Tier 1",
       "priority": 8,
       "origin_key": "united states",
-      "origin_label": "AP / global"
-    },
-    {
-      "name": "BBC Vaccines / Immunization",
-      "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
-      "source_type": "media",
-      "tier": "Tier 2",
-      "priority": 8,
-      "origin_key": "united kingdom",
-      "origin_label": "BBC / London"
-    },
-    {
-      "name": "Financial Times Vaccines / Immunization",
-      "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial)%20site%3Aft.com&hl=en-US&gl=GB&ceid=GB%3Aen",
-      "source_type": "media",
-      "tier": "Tier 2",
-      "priority": 7,
-      "origin_key": "united kingdom",
-      "origin_label": "Financial Times / London"
-    },
-    {
-      "name": "STAT Vaccines / Immunization",
-      "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen",
-      "source_type": "media",
-      "tier": "Tier 2",
-      "priority": 7,
-      "origin_key": "united states",
-      "origin_label": "STAT / Boston"
-    },
-    {
-      "name": "Nature News Vaccines / Immunization",
-      "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
-      "source_type": "media",
-      "tier": "Tier 2",
-      "priority": 7,
-      "origin_key": "united kingdom",
-      "origin_label": "Nature / London"
-    },
-    {
-      "name": "Science Vaccines / Immunization",
-      "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial)%20site%3Ascience.org&hl=en-US&gl=US&ceid=US%3Aen",
-      "source_type": "media",
-      "tier": "Tier 2",
-      "priority": 7,
-      "origin_key": "united states",
-      "origin_label": "Science / Washington"
-    },
-    {
-      "name": "NHK Vaccines / 予防接種",
-      "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール)%20site%3Anhk.or.jp&hl=ja&gl=JP&ceid=JP%3Aja",
-      "source_type": "media",
-      "tier": "Tier 2",
-      "priority": 7,
-      "origin_key": "japan",
-      "origin_label": "NHK / Tokyo"
-    },
-    {
-      "name": "Nikkei Vaccines / 予防接種",
-      "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
-      "source_type": "media",
-      "tier": "Tier 2",
-      "priority": 7,
-      "origin_key": "japan",
-      "origin_label": "Nikkei / Tokyo"
-    },
-    {
-      "name": "Kyodo Vaccines / 予防接種",
-      "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール)%20site%3Akyodonews.jp&hl=ja&gl=JP&ceid=JP%3Aja",
-      "source_type": "media",
-      "tier": "Tier 2",
-      "priority": 7,
-      "origin_key": "japan",
-      "origin_label": "Kyodo / Tokyo"
-    },
-    {
-      "name": "Lancet Vaccine / Immunization",
-      "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Athelancet.com&hl=en-US&gl=GB&ceid=GB%3Aen",
-      "source_type": "academic",
-      "tier": "Tier 3",
-      "priority": 6,
-      "origin_key": "united kingdom",
-      "origin_label": "Lancet / London"
-    },
-    {
-      "name": "NEJM Vaccine / Immunization",
-      "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Anejm.org&hl=en-US&gl=US&ceid=US%3Aen",
-      "source_type": "academic",
-      "tier": "Tier 3",
-      "priority": 6,
-      "origin_key": "united states",
-      "origin_label": "NEJM / Boston"
-    },
-    {
-      "name": "BMJ Vaccine / Immunization",
-      "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abmj.com&hl=en-US&gl=GB&ceid=GB%3Aen",
-      "source_type": "academic",
-      "tier": "Tier 3",
-      "priority": 6,
-      "origin_key": "united kingdom",
-      "origin_label": "BMJ / London"
-    },
-    {
-      "name": "npj Vaccines",
-      "url": "https://news.google.com/rss/search?q=%22npj%20Vaccines%22%20OR%20(vaccine%20site%3Anature.com%2Fnpjvaccines)&hl=en-US&gl=GB&ceid=GB%3Aen",
-      "source_type": "academic",
-      "tier": "Tier 3",
-      "priority": 6,
-      "origin_key": "united kingdom",
-      "origin_label": "npj Vaccines / London"
+      "origin_label": "PAHO / Washington DC"
     },
     {
       "name": "The Lancet series",
-      "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(site%3Athelancet.com)%20(trial%20OR%20policy%20OR%20effectiveness%20OR%20safety)&hl=en-US&gl=GB&ceid=GB%3Aen",
+      "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Athelancet.com%20(trial%20OR%20policy%20OR%20effectiveness%20OR%20safety)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "source_type": "academic",
-      "tier": "Tier 3",
+      "source_tier": "Tier 3",
       "priority": 8,
       "origin_key": "united kingdom",
       "origin_label": "The Lancet / London"
@@ -199,25 +132,16 @@
       "name": "Lancet Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Athelancet.com%2Fjournals%2Flaninf&hl=en-US&gl=GB&ceid=GB%3Aen",
       "source_type": "academic",
-      "tier": "Tier 3",
+      "source_tier": "Tier 3",
       "priority": 8,
       "origin_key": "united kingdom",
       "origin_label": "Lancet Infectious Diseases / London"
     },
     {
-      "name": "Lancet Regional Health",
-      "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Athelancet.com%2Fjournals%2Clanwpc%20OR%20site%3Athelancet.com%2Fjournals%2Clansea%20OR%20site%3Athelancet.com%2Fjournals%2Clana&hl=en-US&gl=GB&ceid=GB%3Aen",
-      "source_type": "academic",
-      "tier": "Tier 3",
-      "priority": 7,
-      "origin_key": "united kingdom",
-      "origin_label": "Lancet Regional Health"
-    },
-    {
       "name": "NEJM",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Anejm.org%20(trial%20OR%20effectiveness%20OR%20policy%20OR%20safety)&hl=en-US&gl=US&ceid=US%3Aen",
       "source_type": "academic",
-      "tier": "Tier 3",
+      "source_tier": "Tier 3",
       "priority": 8,
       "origin_key": "united states",
       "origin_label": "NEJM / Boston"
@@ -226,7 +150,7 @@
       "name": "BMJ",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abmj.com%20(policy%20OR%20trial%20OR%20effectiveness%20OR%20communication)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "source_type": "academic",
-      "tier": "Tier 3",
+      "source_tier": "Tier 3",
       "priority": 8,
       "origin_key": "united kingdom",
       "origin_label": "BMJ / London"
@@ -235,43 +159,43 @@
       "name": "Vaccine journal",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Asciencedirect.com%2Fjournal%2Fvaccine&hl=en-US&gl=US&ceid=US%3Aen",
       "source_type": "academic",
-      "tier": "Tier 3",
+      "source_tier": "Tier 3",
       "priority": 8,
       "origin_key": "netherlands",
       "origin_label": "Vaccine / Elsevier"
     },
     {
-      "name": "Human Vaccines & Immunotherapeutics",
-      "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Atandfonline.com%20%22Human%20Vaccines%20%26%20Immunotherapeutics%22&hl=en-US&gl=US&ceid=US%3Aen",
+      "name": "npj Vaccines",
+      "url": "https://news.google.com/rss/search?q=%22npj%20Vaccines%22%20OR%20(vaccine%20site%3Anature.com%2Fnpjvaccines)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "source_type": "academic",
-      "tier": "Tier 3",
-      "priority": 7,
-      "origin_key": "united states",
-      "origin_label": "HV&I / Taylor & Francis"
+      "source_tier": "Tier 3",
+      "priority": 8,
+      "origin_key": "united kingdom",
+      "origin_label": "npj Vaccines / London"
     },
     {
       "name": "Eurosurveillance",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Aeurosurveillance.org&hl=en-US&gl=EU&ceid=EU%3Aen",
       "source_type": "academic",
-      "tier": "Tier 3",
+      "source_tier": "Tier 3",
       "priority": 8,
-      "origin_key": "france",
-      "origin_label": "Eurosurveillance / Europe"
+      "origin_key": "sweden",
+      "origin_label": "Eurosurveillance / Stockholm"
     },
     {
-      "name": "Nature Medicine",
-      "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Anature.com%2Fnm&hl=en-US&gl=GB&ceid=GB%3Aen",
+      "name": "Human Vaccines & Immunotherapeutics",
+      "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Atandfonline.com%20%22Human%20Vaccines%20%26%20Immunotherapeutics%22&hl=en-US&gl=US&ceid=US%3Aen",
       "source_type": "academic",
-      "tier": "Tier 3",
-      "priority": 7,
-      "origin_key": "united kingdom",
-      "origin_label": "Nature Medicine / London"
+      "source_tier": "Tier 3",
+      "priority": 8,
+      "origin_key": "united states",
+      "origin_label": "HV&I"
     },
     {
       "name": "medRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Amedrxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "source_type": "preprint",
-      "tier": "Tier 3",
+      "source_tier": "Tier 3",
       "priority": 7,
       "origin_key": "united states",
       "origin_label": "medRxiv"
@@ -280,8 +204,8 @@
       "name": "bioRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abiorxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "source_type": "preprint",
-      "tier": "Tier 3",
-      "priority": 6,
+      "source_tier": "Tier 3",
+      "priority": 7,
       "origin_key": "united states",
       "origin_label": "bioRxiv"
     }
@@ -293,9 +217,6 @@
       "guideline",
       "committee",
       "advisory",
-      "acip",
-      "sage",
-      "nitag",
       "schedule",
       "program",
       "programme",
@@ -303,17 +224,20 @@
       "approval",
       "authorization",
       "authorisation",
-      "regulation",
       "regulatory",
-      "funding",
-      "procurement",
-      "coverage",
-      "immunization program",
+      "regulation",
+      "public consultation",
+      "acip",
+      "nitag",
+      "jcvi",
+      "sage",
+      "minister",
+      "ministry of health",
       "予防接種政策",
-      "接種方針",
       "勧告",
-      "定期接種",
       "承認",
+      "接種スケジュール",
+      "基本計画",
       "審議会"
     ],
     "research": [
@@ -322,21 +246,22 @@
       "phase 1",
       "phase 2",
       "phase 3",
+      "phase iii",
       "study",
       "research",
       "effectiveness",
       "efficacy",
-      "safety study",
       "immunogenicity",
-      "vaccine development",
+      "safety study",
       "candidate vaccine",
       "platform",
-      "mrna",
-      "vector vaccine",
-      "protein vaccine",
+      "pipeline",
+      "r&d",
+      "research and development",
       "preprint",
-      "peer review",
-      "研究",
+      "systematic review",
+      "meta-analysis",
+      "研究開発",
       "臨床試験",
       "有効性",
       "安全性",
@@ -345,154 +270,181 @@
     "communication": [
       "campaign",
       "communication",
-      "public health messaging",
-      "awareness",
-      "vaccine hesitancy",
-      "confidence",
-      "outreach",
-      "education campaign",
-      "promotion",
-      "information campaign",
-      "misinformation",
+      "public messaging",
       "risk communication",
+      "vaccine confidence",
+      "vaccine hesitancy",
+      "public information",
+      "awareness",
+      "uptake",
+      "myth",
+      "misinformation",
+      "disinformation",
+      "community engagement",
       "啓発",
       "広報",
-      "接種勧奨",
-      "ワクチンコミュニケーション",
-      "ワクチン忌避"
+      "コミュニケーション",
+      "ワクチン忌避",
+      "信頼",
+      "誤情報"
     ]
   },
   "policy_tags": {
     "recommendation": [
       "recommendation",
-      "recommended",
+      "guideline",
       "advisory",
       "acip",
-      "sage",
       "nitag",
-      "guidance",
-      "guideline",
+      "sage",
+      "committee",
       "勧告",
-      "推奨"
+      "指針",
+      "審議"
     ],
     "schedule": [
       "schedule",
-      "immunization schedule",
-      "vaccination schedule",
-      "dose interval",
-      "catch-up",
-      "定期接種",
-      "接種間隔",
-      "スケジュール"
+      "booster schedule",
+      "childhood immunization schedule",
+      "adult immunization schedule",
+      "接種スケジュール"
     ],
     "approval": [
       "approval",
       "approved",
       "authorization",
       "authorisation",
-      "regulatory",
-      "label expansion",
+      "authorized",
+      "authorised",
+      "licensure",
       "承認",
-      "適応拡大",
       "許可"
     ],
     "financing": [
-      "funding",
-      "financing",
       "procurement",
-      "tender",
+      "funding",
       "budget",
-      "price",
-      "affordability",
-      "財政",
+      "tender",
+      "gavi",
+      "procure",
       "調達",
-      "予算"
+      "予算",
+      "財政"
     ],
     "safety": [
       "safety",
       "adverse event",
       "pharmacovigilance",
       "signal",
-      "安全性",
-      "副反応"
+      "副反応",
+      "安全性"
     ],
     "outbreak_response": [
-      "outbreak response",
+      "outbreak",
       "campaign",
-      "ring vaccination",
-      "supplementary immunization",
-      "緊急接種",
-      "流行対応"
+      "catch-up",
+      "emergency",
+      "measles",
+      "polio",
+      "h5n1",
+      "mpox",
+      "outbreak response",
+      "流行",
+      "緊急",
+      "対応"
     ],
     "communication": [
       "communication",
-      "awareness",
       "hesitancy",
       "confidence",
-      "messaging",
+      "awareness",
       "misinformation",
-      "啓発",
+      "disinformation",
       "広報",
+      "啓発",
       "信頼"
     ]
   },
   "vaccine_keywords": {
     "covid": [
-      "covid",
-      "sars-cov-2",
-      "covid-19"
+      "covid vaccine",
+      "covid-19 vaccine",
+      "sars-cov-2 vaccine",
+      "mrna vaccine"
     ],
     "influenza": [
-      "influenza",
-      "flu",
-      "h5n1"
+      "influenza vaccine",
+      "flu vaccine",
+      "influenza virus vaccine",
+      "avian influenza vaccine",
+      "h5n1 vaccine"
     ],
     "rsv": [
-      "rsv",
-      "respiratory syncytial"
+      "rsv vaccine",
+      "respiratory syncytial virus vaccine",
+      "maternal rsv vaccine",
+      "nirsevimab"
     ],
     "measles": [
-      "measles"
+      "measles vaccine",
+      "mmr vaccine",
+      "麻疹ワクチン"
     ],
     "polio": [
-      "polio",
-      "poliovirus"
+      "polio vaccine",
+      "ipv",
+      "opv",
+      "ポリオワクチン"
     ],
     "hpv": [
-      "hpv",
-      "human papillomavirus"
+      "hpv vaccine",
+      "human papillomavirus vaccine"
     ],
     "pneumococcal": [
-      "pneumococcal",
-      "pcv"
+      "pneumococcal vaccine",
+      "pcv20",
+      "pcv15",
+      "pcv13",
+      "ppsv23"
     ],
     "pertussis": [
-      "pertussis",
-      "whooping cough"
+      "pertussis vaccine",
+      "whooping cough vaccine",
+      "百日咳ワクチン"
     ],
     "dengue": [
-      "dengue"
+      "dengue vaccine"
     ],
     "mpox": [
-      "mpox",
-      "monkeypox"
-    ],
-    "ebola": [
-      "ebola"
+      "mpox vaccine",
+      "monkeypox vaccine",
+      "mva-bn",
+      "jynneos",
+      "lc16"
     ],
     "cholera": [
-      "cholera"
+      "cholera vaccine",
+      "ocv"
+    ],
+    "ebola": [
+      "ebola vaccine"
     ],
     "rotavirus": [
-      "rotavirus"
+      "rotavirus vaccine"
     ],
     "meningococcal": [
-      "meningococcal"
+      "meningococcal vaccine"
     ],
     "hepatitis": [
-      "hepatitis a vaccine",
       "hepatitis b vaccine",
-      "hepatitis e vaccine"
+      "hepatitis a vaccine",
+      "hep b vaccine",
+      "hep a vaccine"
+    ],
+    "malaria": [
+      "malaria vaccine",
+      "r21",
+      "rts,s"
     ]
   },
   "variant_patterns": [
@@ -513,6 +465,106 @@
     "clade i",
     "clade ii"
   ],
+  "strict_filters": {
+    "exclude_title_patterns": [
+      "quick guide",
+      "web resources",
+      "data files",
+      "questions about vaccines",
+      "what’s new for biologics",
+      "what's new for biologics",
+      "vaccines research",
+      "safety and availability communications",
+      "transfusion",
+      "reproductive tissue",
+      "plasma-derived",
+      "babesia assay",
+      "wnv assay",
+      "drugs@fda",
+      "artificial intelligence and machine learning",
+      "ai/ml",
+      "recall",
+      "warning",
+      "donation",
+      "blood products",
+      "device",
+      "assay",
+      "archive",
+      "archived"
+    ],
+    "exclude_url_patterns": [
+      "/blood-blood-products/",
+      "/international-activities/",
+      "/drugs/",
+      "/reproductive-tissue",
+      "/transfusion",
+      "/procleix-",
+      "/whats-new-biologics",
+      "/questions-about-vaccines",
+      "/quick-guide-",
+      "/recalls-alerts/"
+    ],
+    "exclude_text_patterns": [
+      "latest news from the center for biologics evaluation and research",
+      "items related to biologics will be added",
+      "listing of 2026 safety and availability communications",
+      "downloadable data file",
+      "notification process for transfusion related fatalities",
+      "recipient of donated sperm",
+      "undeclared sildenafil",
+      "risk of vcjd",
+      "public with important information about the safety and availability of biological products"
+    ],
+    "require_any_keywords": [
+      "vaccine",
+      "vaccination",
+      "immunization",
+      "immunisation",
+      "booster",
+      "ワクチン",
+      "予防接種",
+      "接種"
+    ],
+    "require_topic_keywords": [
+      "policy",
+      "recommendation",
+      "guideline",
+      "committee",
+      "schedule",
+      "approval",
+      "authorization",
+      "authorisation",
+      "trial",
+      "study",
+      "effectiveness",
+      "immunogenicity",
+      "communication",
+      "confidence",
+      "hesitancy",
+      "campaign",
+      "public trust",
+      "勧告",
+      "承認",
+      "接種スケジュール",
+      "研究",
+      "臨床試験",
+      "有効性",
+      "免疫原性",
+      "広報",
+      "啓発",
+      "信頼"
+    ],
+    "hub_markers": [
+      "list of",
+      "latest news from",
+      "items will be added",
+      "supporting documents",
+      "older than",
+      "quick guide",
+      "download file",
+      "product information supporting documents"
+    ]
+  },
   "country_map": {
     "japan": {
       "name_ja": "日本",
@@ -550,28 +602,10 @@
       "lng": 121.5654,
       "region": "Asia"
     },
-    "india": {
-      "name_ja": "インド",
-      "lat": 28.6139,
-      "lng": 77.209,
-      "region": "Asia"
-    },
-    "indonesia": {
-      "name_ja": "インドネシア",
-      "lat": -6.2088,
-      "lng": 106.8456,
-      "region": "Asia"
-    },
-    "philippines": {
-      "name_ja": "フィリピン",
-      "lat": 14.5995,
-      "lng": 120.9842,
-      "region": "Asia"
-    },
-    "thailand": {
-      "name_ja": "タイ",
-      "lat": 13.7563,
-      "lng": 100.5018,
+    "mongolia": {
+      "name_ja": "モンゴル",
+      "lat": 47.8864,
+      "lng": 106.9057,
       "region": "Asia"
     },
     "vietnam": {
@@ -580,28 +614,10 @@
       "lng": 105.8342,
       "region": "Asia"
     },
-    "malaysia": {
-      "name_ja": "マレーシア",
-      "lat": 3.139,
-      "lng": 101.6869,
-      "region": "Asia"
-    },
-    "singapore": {
-      "name_ja": "シンガポール",
-      "lat": 1.3521,
-      "lng": 103.8198,
-      "region": "Asia"
-    },
-    "bangladesh": {
-      "name_ja": "バングラデシュ",
-      "lat": 23.8103,
-      "lng": 90.4125,
-      "region": "Asia"
-    },
-    "pakistan": {
-      "name_ja": "パキスタン",
-      "lat": 33.6844,
-      "lng": 73.0479,
+    "thailand": {
+      "name_ja": "タイ",
+      "lat": 13.7563,
+      "lng": 100.5018,
       "region": "Asia"
     },
     "cambodia": {
@@ -622,16 +638,58 @@
       "lng": 96.1951,
       "region": "Asia"
     },
-    "nepal": {
-      "name_ja": "ネパール",
-      "lat": 27.7172,
-      "lng": 85.324,
+    "malaysia": {
+      "name_ja": "マレーシア",
+      "lat": 3.139,
+      "lng": 101.6869,
+      "region": "Asia"
+    },
+    "singapore": {
+      "name_ja": "シンガポール",
+      "lat": 1.3521,
+      "lng": 103.8198,
+      "region": "Asia"
+    },
+    "indonesia": {
+      "name_ja": "インドネシア",
+      "lat": -6.2088,
+      "lng": 106.8456,
+      "region": "Asia"
+    },
+    "philippines": {
+      "name_ja": "フィリピン",
+      "lat": 14.5995,
+      "lng": 120.9842,
+      "region": "Asia"
+    },
+    "india": {
+      "name_ja": "インド",
+      "lat": 28.6139,
+      "lng": 77.209,
+      "region": "Asia"
+    },
+    "pakistan": {
+      "name_ja": "パキスタン",
+      "lat": 33.6844,
+      "lng": 73.0479,
+      "region": "Asia"
+    },
+    "bangladesh": {
+      "name_ja": "バングラデシュ",
+      "lat": 23.8103,
+      "lng": 90.4125,
       "region": "Asia"
     },
     "sri lanka": {
       "name_ja": "スリランカ",
       "lat": 6.9271,
       "lng": 79.8612,
+      "region": "Asia"
+    },
+    "nepal": {
+      "name_ja": "ネパール",
+      "lat": 27.7172,
+      "lng": 85.324,
       "region": "Asia"
     },
     "australia": {
@@ -820,6 +878,12 @@
       "lng": -0.187,
       "region": "Africa"
     },
+    "rwanda": {
+      "name_ja": "ルワンダ",
+      "lat": -1.9441,
+      "lng": 30.0619,
+      "region": "Africa"
+    },
     "drc": {
       "name_ja": "コンゴ民主共和国",
       "lat": -4.4419,
@@ -831,54 +895,12 @@
       "lat": -4.4419,
       "lng": 15.2663,
       "region": "Africa"
+    },
+    "zambia": {
+      "name_ja": "ザンビア",
+      "lat": -15.3875,
+      "lng": 28.3228,
+      "region": "Africa"
     }
-  },
-  "pickup_tiers": [
-    "Tier 1",
-    "Tier 3"
-  ],
-  "purpose_topics": [
-    "policy",
-    "research",
-    "communication"
-  ],
-  "required_vaccine_terms": [
-    "vaccine",
-    "vaccination",
-    "vaccinated",
-    "vaccines",
-    "vaccinology",
-    "immunization",
-    "immunisation",
-    "booster",
-    "dose",
-    "immunogenicity",
-    "vaccine effectiveness",
-    "vaccine safety",
-    "予防接種",
-    "ワクチン",
-    "接種"
-  ],
-  "exclude_terms": [
-    "peanut",
-    "nut allergy",
-    "allergy shot",
-    "food allergy",
-    "pollen allergy",
-    "commentary",
-    "opinion",
-    "editorial",
-    "podcast",
-    "webinar",
-    "letters to the editor",
-    "stock market",
-    "share price",
-    "sports vaccine",
-    "pet vaccine",
-    "veterinary vaccine",
-    "animal vaccine",
-    "comment section",
-    "reader comments",
-    "obituary"
-  ]
+  }
 }

@@ -15,18 +15,16 @@
   </div></header>
   <main class="wrap layout">
     <section class="panel filters">
-      <h2>絞り込み</h2>
-      <label>検索 <input id="search" type="text" placeholder="タイトル・要約・情報源を検索"></label>
-      <label>分類 <select id="topic-filter"><option value="">すべて</option><option value="policy">政策</option><option value="research">研究開発</option><option value="communication">コミュニケーション</option><option value="other">その他</option></select></label>
-      <label>政策タグ <select id="policy-filter"><option value="">すべて</option><option value="recommendation">勧告</option><option value="schedule">接種スケジュール</option><option value="approval">承認・適応</option><option value="financing">財政・調達</option><option value="safety">安全性</option><option value="outbreak_response">流行対応</option><option value="communication">広報・啓発</option></select></label>
-      <label>ワクチン <select id="vaccine-filter"><option value="">すべて</option><option value="covid">COVID-19</option><option value="influenza">インフルエンザ</option><option value="rsv">RSV</option><option value="measles">麻疹</option><option value="polio">ポリオ</option><option value="hpv">HPV</option><option value="pneumococcal">肺炎球菌</option><option value="pertussis">百日咳</option><option value="rotavirus">ロタウイルス</option><option value="meningococcal">髄膜炎菌</option><option value="dengue">デング</option><option value="mpox">mpox</option></select></label>
-      <label>情報源 <select id="tier-filter"><option value="">すべて</option><option value="Tier 1">Tier 1（公的機関）</option><option value="Tier 3">Tier 3（学術誌・プレプリント）</option></select></label>
-      <label>地図表示 <select id="plot-mode"><option value="source">発信元</option><option value="target">対象国</option></select></label>
-      <label class="checkbox"><input id="official-only" type="checkbox"> Tier 1 のみ表示</label>
+      <h2>フィルター</h2>
+      <label>検索<input id="search" type="text" placeholder="タイトル・要点・情報源で検索"></label>
+      <label>分類<select id="topic-filter"><option value="">すべて</option><option value="policy">政策</option><option value="research">研究開発</option><option value="communication">コミュニケーション</option></select></label>
+      <label>政策タグ<select id="policy-filter"><option value="">すべて</option><option value="recommendation">勧告</option><option value="schedule">接種スケジュール</option><option value="approval">承認・適応</option><option value="financing">財政・調達</option><option value="safety">安全性</option><option value="outbreak_response">流行対応</option><option value="communication">コミュニケーション</option></select></label>
+      <label>ワクチン<select id="vaccine-filter"><option value="">すべて</option><option value="covid">COVID-19</option><option value="influenza">インフルエンザ</option><option value="rsv">RSV</option><option value="measles">麻疹</option><option value="polio">ポリオ</option><option value="hpv">HPV</option><option value="pneumococcal">肺炎球菌</option><option value="pertussis">百日咳</option><option value="dengue">デング</option><option value="mpox">mpox</option><option value="cholera">コレラ</option><option value="ebola">エボラ</option></select></label>
+      <label>地図表示<select id="plot-mode"><option value="source">発信元で表示</option><option value="target">対象国で表示</option></select></label>
     </section>
-    <section class="panel map-panel"><div class="panel-head"><h2>地図</h2><div class="small">既定はニュースの発信元を表示</div></div><div id="map"></div></section>
-    <section class="panel list-panel"><div class="panel-head"><h2>ピックアップ記事</h2><div id="visible-count" class="small"></div></div><div id="cards"></div></section>
-    <section class="panel feed-panel subtle"><h2>Feed status</h2><div id="feed-status"></div></section>
+    <section class="panel map-panel"><div class="panel-head"><h2>地図</h2><div class="small">既定は発信元で表示。切り替えると対象国で表示します。</div></div><div id="map"></div></section>
+    <section class="panel list-panel"><div class="panel-head"><h2>最新記事</h2><div id="visible-count" class="small"></div></div><div id="cards"></div></section>
+    <section class="panel feed-panel"><div class="small">Feed Status</div><div id="feed-status"></div></section>
   </main>
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
   <script src="./assets/app.js"></script>

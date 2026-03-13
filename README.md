@@ -1,28 +1,19 @@
 # Vaccine and Immunization Monitoring
 
-GitHub Pages + GitHub Actions で動く、ワクチン・予防接種の政策、研究開発、コミュニケーションに関するグローバル監視ダッシュボードです。
+GitHub Pages + GitHub Actions で動くダッシュボードです。
 
-## 目的
-最新のワクチン・予防接種関連情報を、次の3領域でピックアップします。
-- Policy
-- Research and development
-- Communication
+## 今回の更新
+- タイトルを `Vaccine and Immunization Monitoring` に統一
+- 直近14日間に限定
+- 対象を **研究開発 / 予防接種政策 / ワクチンコミュニケーション** に限定
+- 信頼できる一次ソース中心（official / academic / preprint）
+- 記事全文取得 (`trafilatura`) を優先し、取得できない場合はRSS summaryにフォールバック
+- AI要約を日本語表示
+- 目的外ページ（ハブ、一覧、血液製剤・機器・一般FAQ等）を厳格除外
+- タイトル・要約の重複除外を強化
+- Feed Status を画面下部に小さく表示
 
-## 情報源
-- Tier 1: WHO, CDC, ECDC, FDA などの国際機関・保健当局の公式情報
-- Tier 2: Reuters, AP, BBC, Financial Times, STAT, Nature News, Science, NHK, 日経, 共同 など
-- Tier 3: Lancet, NEJM, BMJ, Nature / npj Vaccines など
-
-## 使い方
-1. GitHub の `Settings > Pages` で Source を **GitHub Actions** にする
-2. `Actions > Update dashboard and deploy Pages > Run workflow` を実行
-3. 公開サイトを開く
-
-## 主な機能
-- 記事の日本語表示
-- Policy / Research / Communication 自動分類
-- policy tag 自動分類
-- vaccine type 自動分類
-- variant 抽出
-- 類似タイトル重複除去
-- 地図表示（既定は source origin、切替で target country）
+## 反映方法
+1. 既存リポジトリにこのZIPの中身を上書きアップロード
+2. `Actions` → `Update dashboard and deploy Pages` → `Run workflow`
+3. 必要なら公開ページを `Ctrl+F5` で強制再読み込み
