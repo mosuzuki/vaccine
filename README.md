@@ -1,40 +1,23 @@
-# EBS Research Dashboard v2
+# Vaccine & Immunization Policy Monitor
 
-GitHub Pages + GitHub Actions で動く、研究機関向け Event-Based Surveillance ダッシュボードです。
+GitHub Pages + GitHub Actions で動く、世界各国のワクチン・予防接種政策ニュース監視ダッシュボードです。
 
-## 今回追加した機能
+## この版での主な変更
+- Daily report と同系統の発想で、一次情報と高信頼メディアを中心に収集
+- ワクチン／予防接種 + 政策キーワードで記事を絞り込み
+- 日本語自動翻訳
+- 地図表示は「ニュース対象国」を優先し、国が特定できない場合は情報発信元所在地を表示
+- 発信元所在地に切り替えて表示することも可能
+- policy tag を自動分類（推奨、スケジュール、承認、財政、安全性、流行対応など）
+- 類似タイトル重複を統合
 
-- 記事タイトルと要約の日本語訳表示
-- 地図表示
-- `variant / vaccine / outbreak` の自動分類
-- 類似タイトルの重複統合
-- 統合件数と統合元ソースの表示
-- 原文確認用の `Original` 折りたたみ表示
+## デプロイ
+1. 中身を既存リポジトリに上書き
+2. `.github/workflows/update-news.yml` が存在することを確認
+3. GitHub の `Settings > Pages` で `Source = GitHub Actions`
+4. `Actions > Update dashboard and deploy Pages > Run workflow`
 
-## ファイル構成
-
-```text
-.github/workflows/update-news.yml   GitHub Actions
-assets/app.js                       フロントエンド
-assets/style.css                    スタイル
-scripts/fetch_news.py               RSS取得・翻訳・分類・重複除去
-scripts/config.json                 監視対象設定
-data/news.json                      公開用データ
-data/translation_cache.json         翻訳キャッシュ
-index.html                          ダッシュボード本体
-```
-
-## GitHubで更新する方法
-
-1. 既存のリポジトリのファイルをこのZIPの内容で上書きする
-2. `.github/workflows/update-news.yml` が存在することを確認する
-3. `Actions` タブを開く
-4. `Update dashboard and deploy Pages` を選ぶ
-5. `Run workflow` を押す
-
-## メモ
-
-- 日本語訳は GitHub Actions 実行時に自動生成します。翻訳に失敗した記事は原文のまま表示されます。
-- 翻訳結果は `data/translation_cache.json` に保持されるため、毎回すべてを再翻訳しません。
-- 重複除去は、国・分類・タイトル類似度をもとにしたルールベースです。
-- 地図は `country_centroids` を使うため、都市単位の位置ではなく国・地域の代表点表示です。
+## 注意
+- 収集元は RSS / Google News RSS ベースなので、将来 URL 変更の可能性があります
+- 翻訳は自動処理なので、固有名詞などにぎこちなさが残る場合があります
+- 「Daily report と完全に同じ」ソース一覧が別途ある場合は、`scripts/config.json` の `feeds` をその一覧に差し替えればそのまま使えます
