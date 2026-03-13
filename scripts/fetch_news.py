@@ -284,6 +284,14 @@ def should_keep_item(title: str, summary: str, article_text: str, link: str, sou
         if len(article_l) >= 120:
             return True
         return any(k.lower() in title_l for k in strict.get("require_topic_keywords", []))
+    if source_type == "media":
+        # Be stricter for media: require a substantive title/summary and avoid thin index/commentary pages.
+        substantive = len(normalize_space(f"{title} {summary} {article_text}")) >= 90
+        if not substantive:
+            return False
+        if re.search(r"\b(opinion|editorial|podcast|audio|commentary|newsletter|live blog|live updates)\b", combined):
+            return False
+        return True
     return True
 
 

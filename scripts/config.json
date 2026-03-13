@@ -8,7 +8,8 @@
   "pickup_source_types": [
     "official",
     "academic",
-    "preprint"
+    "preprint",
+    "media"
   ],
   "feeds": [
     {
@@ -208,6 +209,150 @@
       "priority": 7,
       "origin_key": "united states",
       "origin_label": "bioRxiv"
+    },
+    {
+      "name": "CIDRAP Vaccines & Immunization",
+      "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "priority": 8,
+      "origin_key": "united states",
+      "origin_label": "CIDRAP / Minnesota"
+    },
+    {
+      "name": "Reuters Vaccines / Immunization",
+      "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "priority": 7,
+      "origin_key": "united kingdom",
+      "origin_label": "Reuters"
+    },
+    {
+      "name": "AP Vaccines / Immunization",
+      "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "priority": 7,
+      "origin_key": "united states",
+      "origin_label": "AP"
+    },
+    {
+      "name": "BBC Vaccines / Immunization",
+      "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "priority": 7,
+      "origin_key": "united kingdom",
+      "origin_label": "BBC"
+    },
+    {
+      "name": "Financial Times Vaccines / Immunization",
+      "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aft.com&hl=en-US&gl=GB&ceid=GB%3Aen",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "priority": 7,
+      "origin_key": "united kingdom",
+      "origin_label": "Financial Times"
+    },
+    {
+      "name": "STAT Vaccines / Immunization",
+      "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "priority": 7,
+      "origin_key": "united states",
+      "origin_label": "STAT"
+    },
+    {
+      "name": "Nature News Vaccines / Immunization",
+      "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "priority": 7,
+      "origin_key": "united kingdom",
+      "origin_label": "Nature News"
+    },
+    {
+      "name": "Science Vaccines / Immunization",
+      "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Ascience.org&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "priority": 7,
+      "origin_key": "united states",
+      "origin_label": "Science"
+    },
+    {
+      "name": "New York Times Vaccines / Immunization",
+      "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "priority": 7,
+      "origin_key": "united states",
+      "origin_label": "New York Times"
+    },
+    {
+      "name": "Guardian Vaccines / Immunization",
+      "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "priority": 7,
+      "origin_key": "united kingdom",
+      "origin_label": "The Guardian"
+    },
+    {
+      "name": "Washington Post Vaccines / Immunization",
+      "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "priority": 7,
+      "origin_key": "united states",
+      "origin_label": "Washington Post"
+    },
+    {
+      "name": "NHK ワクチン / 予防接種",
+      "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anhk.or.jp&hl=ja&gl=JP&ceid=JP%3Aja",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "priority": 7,
+      "origin_key": "japan",
+      "origin_label": "NHK"
+    },
+    {
+      "name": "日経 ワクチン / 予防接種",
+      "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "priority": 7,
+      "origin_key": "japan",
+      "origin_label": "日本経済新聞"
+    },
+    {
+      "name": "朝日新聞 ワクチン / 予防接種",
+      "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Aasahi.com&hl=ja&gl=JP&ceid=JP%3Aja",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "priority": 7,
+      "origin_key": "japan",
+      "origin_label": "朝日新聞"
+    },
+    {
+      "name": "読売新聞 ワクチン / 予防接種",
+      "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "priority": 7,
+      "origin_key": "japan",
+      "origin_label": "読売新聞"
+    },
+    {
+      "name": "毎日新聞 ワクチン / 予防接種",
+      "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "priority": 7,
+      "origin_key": "japan",
+      "origin_label": "毎日新聞"
     }
   ],
   "topic_keywords": {
@@ -490,7 +635,16 @@
       "device",
       "assay",
       "archive",
-      "archived"
+      "archived",
+      "opinion",
+      "editorial",
+      "podcast",
+      "audio",
+      "commentary",
+      "newsletter",
+      "letters to the editor",
+      "op-ed",
+      "video"
     ],
     "exclude_url_patterns": [
       "/blood-blood-products/",
@@ -502,7 +656,11 @@
       "/whats-new-biologics",
       "/questions-about-vaccines",
       "/quick-guide-",
-      "/recalls-alerts/"
+      "/recalls-alerts/",
+      "/opinion/",
+      "/podcasts/",
+      "/audio/",
+      "/video/"
     ],
     "exclude_text_patterns": [
       "latest news from the center for biologics evaluation and research",

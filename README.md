@@ -1,9 +1,9 @@
-# Vaccine and Immunization Monitoring
+# ワクチン・予防接種ダッシュボード（試行版）
 
 GitHub Pages + GitHub Actions で動くダッシュボードです。
 
 ## 今回の更新
-- タイトルを `Vaccine and Immunization Monitoring` に統一
+- タイトルを `ワクチン・予防接種ダッシュボード（試行版）` に変更
 - 直近14日間に限定
 - 対象を **研究開発 / 予防接種政策 / ワクチンコミュニケーション** に限定
 - 信頼できる一次ソース中心（official / academic / preprint）
@@ -17,3 +17,5 @@ GitHub Pages + GitHub Actions で動くダッシュボードです。
 1. 既存リポジトリにこのZIPの中身を上書きアップロード
 2. `Actions` → `Update dashboard and deploy Pages` → `Run workflow`
 3. 必要なら公開ページを `Ctrl+F5` で強制再読み込み
+
+- ソースに CIDRAP、New York Times、The Guardian、Washington Post、NHK、日経、朝日、読売、毎日などの主要メディア監視を追加

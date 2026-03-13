@@ -39,7 +39,7 @@ function ja(v){return JA[v] || v}
 function badge(label, cls=''){return `<span class="badge ${cls}">${esc(label)}</span>`}
 
 function renderHeader(data, archiveCount=0){
-  byId('site-title').textContent = data.title || 'Vaccine and Immunization Monitoring';
+  byId('site-title').textContent = data.title || 'ワクチン・予防接種ダッシュボード（試行版）';
   byId('site-desc').textContent = data.description || '';
   byId('generated-at').textContent = `更新: ${fmtDate(data.generated_at)}`;
   byId('item-count').textContent = `直近${data.days_back || 14}日: ${data.item_count || 0}件`;
