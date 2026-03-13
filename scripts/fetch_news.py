@@ -18,6 +18,7 @@ ROOT = Path(__file__).resolve().parents[1]
 CONFIG_PATH = ROOT / "scripts" / "config.json"
 DATA_DIR = ROOT / "data"
 NEWS_PATH = DATA_DIR / "news.json"
+ARCHIVE_PATH = DATA_DIR / "archive.json"
 CACHE_PATH = DATA_DIR / "translation_cache.json"
 TEXT_CACHE_PATH = DATA_DIR / "article_text_cache.json"
 
@@ -277,16 +278,12 @@ def should_keep_item(title: str, summary: str, article_text: str, link: str, sou
     if not set(topics).intersection({"policy", "research", "communication"}):
         return False
 
-    # keep academic/preprint items with concise but clearly relevant title even if article text is not available
     if source_type in {"academic", "preprint"}:
         return bool(topics)
-
-    # official items should include either a policy/research/communication signal in title or substantial article text
     if source_type == "official":
         if len(article_l) >= 120:
             return True
         return any(k.lower() in title_l for k in strict.get("require_topic_keywords", []))
-
     return True
 
 
@@ -322,13 +319,39 @@ def dedupe_items(items):
     return deduped
 
 
+def merge_archive(existing_items, new_items):
+    merged = {item.get("id"): item for item in existing_items if item.get("id")}
+    for item in new_items:
+        item_id = item.get("id")
+        if not item_id:
+            continue
+        if item_id in merged:
+            prev = merged[item_id]
+            # keep latest metadata while preserving first_seen
+            first_seen = prev.get("first_seen_at") or item.get("published_at")
+            prev.update(item)
+            prev["first_seen_at"] = first_seen
+            prev["last_seen_at"] = datetime.now(timezone.utc).isoformat()
+            merged[item_id] = prev
+        else:
+            item = dict(item)
+            item["first_seen_at"] = item.get("published_at")
+            item["last_seen_at"] = datetime.now(timezone.utc).isoformat()
+            merged[item_id] = item
+    items = list(merged.values())
+    items = dedupe_items(items)
+    items.sort(key=lambda x: x.get("published_at", ""), reverse=True)
+    return items
+
+
 def main():
     config = load_json(CONFIG_PATH, {})
     cache = load_json(CACHE_PATH, {})
     text_cache = load_json(TEXT_CACHE_PATH, {})
+    archive = load_json(ARCHIVE_PATH, {"items": []})
     now_utc = datetime.now(timezone.utc)
     since = now_utc - timedelta(days=int(config.get("days_back", 14)))
-    all_items = []
+    current_items = []
     feed_status = []
 
     for feed in config.get("feeds", []):
@@ -390,29 +413,43 @@ def main():
                     "lat": target_loc["lat"],
                     "lng": target_loc["lng"]
                 }
-                all_items.append(item)
+                current_items.append(item)
                 kept += 1
             feed_status.append({"name": name, "url": url, "status": "ok", "seen": seen, "kept": kept})
         except Exception as exc:
             feed_status.append({"name": name, "url": url, "status": "error", "error": str(exc)})
 
-    all_items.sort(key=lambda x: (x.get("published_at", ""), x.get("source_priority", 0)), reverse=True)
-    all_items = dedupe_items(all_items)
-    all_items = all_items[: int(config.get("max_items", 120))]
+    current_items.sort(key=lambda x: (x.get("published_at", ""), x.get("source_priority", 0)), reverse=True)
+    current_items = dedupe_items(current_items)
+    current_items = current_items[: int(config.get("max_items", 120))]
+
+    archive_items = merge_archive(archive.get("items", []), current_items)
 
     news = {
         "title": config.get("title", "Vaccine and Immunization Monitoring"),
         "description": config.get("description", ""),
         "generated_at": now_utc.isoformat(),
-        "item_count": len(all_items),
+        "item_count": len(current_items),
+        "archive_count": len(archive_items),
+        "days_back": int(config.get("days_back", 14)),
         "plot_mode_default": config.get("plot_mode_default", "source"),
         "feed_status": feed_status,
-        "items": all_items,
+        "items": current_items,
+    }
+    archive_obj = {
+        "title": config.get("title", "Vaccine and Immunization Monitoring"),
+        "description": config.get("description", ""),
+        "generated_at": now_utc.isoformat(),
+        "archive_count": len(archive_items),
+        "days_back": int(config.get("days_back", 14)),
+        "items": archive_items,
     }
     save_json(NEWS_PATH, news)
+    save_json(ARCHIVE_PATH, archive_obj)
     save_json(CACHE_PATH, cache)
     save_json(TEXT_CACHE_PATH, text_cache)
-    print(f"Wrote {NEWS_PATH} with {len(all_items)} items")
+    print(f"Wrote {NEWS_PATH} with {len(current_items)} items")
+    print(f"Wrote {ARCHIVE_PATH} with {len(archive_items)} items")
 
 
 if __name__ == "__main__":

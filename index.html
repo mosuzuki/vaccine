@@ -11,7 +11,7 @@
   <header class="hero"><div class="wrap">
     <h1 id="site-title">Vaccine and Immunization Monitoring</h1>
     <p id="site-desc">過去14日間の信頼できる一次ソースに基づき、ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。</p>
-    <div class="meta"><span id="generated-at"></span><span id="item-count"></span></div>
+    <div class="meta"><span id="generated-at"></span><span id="item-count"></span><span id="archive-count"></span></div>
   </div></header>
   <main class="wrap layout">
     <section class="panel filters">
@@ -20,6 +20,7 @@
       <label>分類<select id="topic-filter"><option value="">すべて</option><option value="policy">政策</option><option value="research">研究開発</option><option value="communication">コミュニケーション</option></select></label>
       <label>政策タグ<select id="policy-filter"><option value="">すべて</option><option value="recommendation">勧告</option><option value="schedule">接種スケジュール</option><option value="approval">承認・適応</option><option value="financing">財政・調達</option><option value="safety">安全性</option><option value="outbreak_response">流行対応</option><option value="communication">コミュニケーション</option></select></label>
       <label>ワクチン<select id="vaccine-filter"><option value="">すべて</option><option value="covid">COVID-19</option><option value="influenza">インフルエンザ</option><option value="rsv">RSV</option><option value="measles">麻疹</option><option value="polio">ポリオ</option><option value="hpv">HPV</option><option value="pneumococcal">肺炎球菌</option><option value="pertussis">百日咳</option><option value="dengue">デング</option><option value="mpox">mpox</option><option value="cholera">コレラ</option><option value="ebola">エボラ</option></select></label>
+      <label>期間<select id="period-filter"><option value="14">過去14日</option><option value="30">過去30日</option><option value="90">過去90日</option><option value="all">全期間</option></select></label>
       <label>地図表示<select id="plot-mode"><option value="source">発信元で表示</option><option value="target">対象国で表示</option></select></label>
     </section>
     <section class="panel map-panel"><div class="panel-head"><h2>地図</h2><div class="small">既定は発信元で表示。切り替えると対象国で表示します。</div></div><div id="map"></div></section>

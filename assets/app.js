@@ -1,5 +1,6 @@
 const byId = id => document.getElementById(id);
 let allItems = [];
+let recentItems = [];
 let map, markersLayer;
 
 const JA = {
@@ -37,11 +38,13 @@ function fmtDate(v){try{return new Date(v).toLocaleString('ja-JP')}catch{return 
 function ja(v){return JA[v] || v}
 function badge(label, cls=''){return `<span class="badge ${cls}">${esc(label)}</span>`}
 
-function renderHeader(data){
+function renderHeader(data, archiveCount=0){
   byId('site-title').textContent = data.title || 'Vaccine and Immunization Monitoring';
   byId('site-desc').textContent = data.description || '';
   byId('generated-at').textContent = `更新: ${fmtDate(data.generated_at)}`;
-  byId('item-count').textContent = `件数: ${data.item_count || 0}`;
+  byId('item-count').textContent = `直近${data.days_back || 14}日: ${data.item_count || 0}件`;
+  const archiveEl = byId('archive-count');
+  if (archiveEl) archiveEl.textContent = `累積アーカイブ: ${archiveCount || 0}件`;
   const plot = byId('plot-mode');
   if (data.plot_mode_default) plot.value = data.plot_mode_default;
 }
@@ -55,6 +58,16 @@ function renderFeedStatus(feedStatus=[]){
   }).join('');
 }
 
+function passesPeriod(item){
+  const period = byId('period-filter').value;
+  if (period === 'all') return true;
+  const days = Number(period || 14);
+  const published = new Date(item.published_at || 0).getTime();
+  if (!published) return false;
+  const cutoff = Date.now() - days * 24 * 60 * 60 * 1000;
+  return published >= cutoff;
+}
+
 function passesFilters(item){
   const q = byId('search').value.trim().toLowerCase();
   const topic = byId('topic-filter').value;
@@ -62,6 +75,7 @@ function passesFilters(item){
   const vaccine = byId('vaccine-filter').value;
   const mode = byId('plot-mode').value;
   const hay = [item.title, item.summary_ai, item.title_original, item.summary_ai_original, item.source, item.target_country, item.source_location?.label].join(' ').toLowerCase();
+  if (!passesPeriod(item)) return false;
   if (q && !hay.includes(q)) return false;
   if (topic && !(item.topics || []).includes(topic)) return false;
   if (policy && !(item.policy_tags || []).includes(policy)) return false;
@@ -95,7 +109,7 @@ function renderCards(items){
         <div class="meta-grid">
           <div><strong>対象国:</strong> ${esc(item.target_country || '不明')}</div>
           <div><strong>発信元:</strong> ${esc(item.source_location?.label || '不明')}</div>
-          <div><strong>原題:</strong> ${esc(item.title_original || '')}</div>
+          <div><strong>初回収載:</strong> ${esc(fmtDate(item.first_seen_at || item.published_at || ''))}</div>
         </div>
       </article>`;
   }).join('');
@@ -125,20 +139,26 @@ function renderMap(items){
 }
 
 function updateView(){
-  const filtered = allItems.filter(passesFilters);
+  const filtered = allItems.filter(passesFilters).sort((a,b) => (b.published_at || '').localeCompare(a.published_at || ''));
   renderCards(filtered);
   renderMap(filtered);
 }
 
 async function init(){
-  const res = await fetch('./data/news.json', {cache:'no-store'});
-  const data = await res.json();
-  allItems = (data.items || []).sort((a,b) => (b.published_at || '').localeCompare(a.published_at || ''));
-  renderHeader(data);
-  renderFeedStatus(data.feed_status || []);
+  const [newsRes, archiveRes] = await Promise.all([
+    fetch('./data/news.json', {cache:'no-store'}),
+    fetch('./data/archive.json', {cache:'no-store'}).catch(() => null)
+  ]);
+  const newsData = await newsRes.json();
+  let archiveData = { items: newsData.items || [], archive_count: (newsData.items || []).length };
+  if (archiveRes && archiveRes.ok) archiveData = await archiveRes.json();
+  recentItems = newsData.items || [];
+  allItems = (archiveData.items || recentItems).sort((a,b) => (b.published_at || '').localeCompare(a.published_at || ''));
+  renderHeader(newsData, archiveData.archive_count || allItems.length);
+  renderFeedStatus(newsData.feed_status || []);
   setupMap();
   updateView();
-  ['search','topic-filter','policy-filter','vaccine-filter','plot-mode'].forEach(id => byId(id).addEventListener('input', updateView));
+  ['search','topic-filter','policy-filter','vaccine-filter','plot-mode','period-filter'].forEach(id => byId(id).addEventListener('input', updateView));
   byId('plot-mode').addEventListener('change', updateView);
 }
 
