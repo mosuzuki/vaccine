@@ -1,312 +1,321 @@
-from __future__ import annotations
-
-import hashlib
-import html
+#!/usr/bin/env python3
 import json
 import re
-import time
-from datetime import datetime, timezone
+import hashlib
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
-from typing import Any, Dict, List, Tuple
-from urllib.parse import urlparse
+from email.utils import parsedate_to_datetime
+from html import unescape
 
 import feedparser
-import requests
 from deep_translator import GoogleTranslator
 from rapidfuzz import fuzz
 
+
 ROOT = Path(__file__).resolve().parents[1]
 CONFIG_PATH = ROOT / "scripts" / "config.json"
-OUTPUT_PATH = ROOT / "data" / "news.json"
-CACHE_PATH = ROOT / "data" / "translation_cache.json"
-USER_AGENT = "ebs-research-dashboard/2.0 (+https://github.com/)"
-MAX_ITEMS_PER_FEED = 25
-MAX_TOTAL_ITEMS = 250
-TRANSLATION_SLEEP_SEC = 0.2
+DATA_DIR = ROOT / "data"
+NEWS_PATH = DATA_DIR / "news.json"
+CACHE_PATH = DATA_DIR / "translation_cache.json"
 
 
-def load_config() -> Dict[str, Any]:
-    return json.loads(CONFIG_PATH.read_text(encoding="utf-8"))
+def load_json(path: Path, default):
+    if not path.exists():
+        return default
+    with path.open("r", encoding="utf-8") as f:
+        return json.load(f)
 
 
-def load_translation_cache() -> Dict[str, str]:
-    if CACHE_PATH.exists():
-        try:
-            return json.loads(CACHE_PATH.read_text(encoding="utf-8"))
-        except Exception:
-            return {}
-    return {}
-
-
-def save_translation_cache(cache: Dict[str, str]) -> None:
-    CACHE_PATH.write_text(json.dumps(cache, ensure_ascii=False, indent=2), encoding="utf-8")
+def save_json(path: Path, obj):
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with path.open("w", encoding="utf-8") as f:
+        json.dump(obj, f, ensure_ascii=False, indent=2)
 
 
 def normalize_space(text: str) -> str:
-    return re.sub(r"\s+", " ", (text or "")).strip()
+    return re.sub(r"\s+", " ", text or "").strip()
 
 
 def strip_html(text: str) -> str:
-    text = html.unescape(text or "")
+    if not text:
+        return ""
+    text = re.sub(r"<script.*?>.*?</script>", " ", text, flags=re.I | re.S)
+    text = re.sub(r"<style.*?>.*?</style>", " ", text, flags=re.I | re.S)
     text = re.sub(r"<[^>]+>", " ", text)
+    text = unescape(text)
     return normalize_space(text)
 
 
-def parse_datetime(entry: Any) -> str:
-    if hasattr(entry, "published_parsed") and entry.published_parsed:
-        return datetime(*entry.published_parsed[:6], tzinfo=timezone.utc).isoformat()
-    if hasattr(entry, "updated_parsed") and entry.updated_parsed:
-        return datetime(*entry.updated_parsed[:6], tzinfo=timezone.utc).isoformat()
-    return datetime.now(timezone.utc).isoformat()
+def parse_date(entry):
+    candidates = [
+        entry.get("published"),
+        entry.get("updated"),
+        entry.get("created")
+    ]
+    for raw in candidates:
+        if not raw:
+            continue
+        try:
+            dt = parsedate_to_datetime(raw)
+            if dt.tzinfo is None:
+                dt = dt.replace(tzinfo=timezone.utc)
+            return dt.astimezone(timezone.utc)
+        except Exception:
+            pass
+        try:
+            dt = datetime.fromisoformat(raw.replace("Z", "+00:00"))
+            if dt.tzinfo is None:
+                dt = dt.replace(tzinfo=timezone.utc)
+            return dt.astimezone(timezone.utc)
+        except Exception:
+            pass
+    return datetime.now(timezone.utc)
 
 
-def normalized_title(title: str) -> str:
-    title = strip_html(title).lower()
-    title = re.sub(r"[^a-z0-9]+", " ", title)
-    return normalize_space(title)
+def extract_summary(entry):
+    for key in ["summary", "description"]:
+        if entry.get(key):
+            return strip_html(entry.get(key))
+    if entry.get("content"):
+        try:
+            if isinstance(entry["content"], list) and entry["content"]:
+                return strip_html(entry["content"][0].get("value", ""))
+        except Exception:
+            pass
+    return ""
 
 
-def tokenize(text: str) -> List[str]:
-    text = normalized_title(text)
-    tokens = [t for t in text.split() if len(t) > 2 and t not in {"the", "and", "for", "with", "from", "that", "this", "into", "after", "about", "your", "their", "new", "news"}]
-    return tokens
+def classify_topics(text: str, config: dict):
+    text_l = (text or "").lower()
+    topic_keywords = config.get("topic_keywords", {})
+    topics = []
+    for topic, words in topic_keywords.items():
+        if any(word.lower() in text_l for word in words):
+            topics.append(topic)
+    if not topics:
+        topics = ["other"]
+    return topics
 
 
-def short_fingerprint(title: str) -> str:
-    tokens = tokenize(title)[:8]
-    return " ".join(tokens)
+def extract_variants(text: str, config: dict):
+    text_l = (text or "").lower()
+    found = []
+    for pat in config.get("variant_patterns", []):
+        if pat.lower() in text_l:
+            found.append(pat)
+    return sorted(set(found))
 
 
-def make_dedup_key(title: str, country: str, primary_classification: str) -> str:
-    base = f"{short_fingerprint(title)}|{country}|{primary_classification}"
-    return hashlib.sha1(base.encode("utf-8")).hexdigest()
+def detect_country(text: str, config: dict):
+    text_l = f" {text.lower()} "
+    country_map = config.get("country_map", {})
+    matches = []
+    for key, info in country_map.items():
+        pattern = rf"(?<![a-z]){re.escape(key.lower())}(?![a-z])"
+        if re.search(pattern, text_l):
+            matches.append({
+                "key": key,
+                "name_ja": info["name_ja"],
+                "lat": info["lat"],
+                "lng": info["lng"],
+                "region": info["region"]
+            })
+    if not matches:
+        return {
+            "key": "unknown",
+            "name_ja": "不明",
+            "lat": 20.0,
+            "lng": 0.0,
+            "region": "Unknown"
+        }
+    asia_matches = [m for m in matches if m["region"] == "Asia"]
+    if asia_matches:
+        return asia_matches[0]
+    return matches[0]
 
 
-def make_cache_key(text: str) -> str:
-    return hashlib.sha1(normalize_space(text).encode("utf-8")).hexdigest()
+def is_japanese_text(text: str) -> bool:
+    return bool(re.search(r"[\u3040-\u30ff\u4e00-\u9fff]", text or ""))
 
 
-def infer_topic(text: str, config: Dict[str, Any]) -> str:
-    text_l = text.lower()
-    scores: List[Tuple[str, int]] = []
-    for topic, keywords in config["topic_keywords"].items():
-        score = sum(1 for kw in keywords if kw in text_l)
-        scores.append((topic, score))
-    best_topic, best_score = max(scores, key=lambda x: x[1])
-    return best_topic if best_score > 0 else "general"
-
-
-def infer_event_type(text: str, config: Dict[str, Any]) -> str:
-    text_l = text.lower()
-    scores: List[Tuple[str, int]] = []
-    for event_type, keywords in config["event_type_keywords"].items():
-        score = sum(1 for kw in keywords if kw in text_l)
-        scores.append((event_type, score))
-    best_type, best_score = max(scores, key=lambda x: x[1])
-    return best_type if best_score > 0 else "general_update"
-
-
-def infer_classifications(text: str, config: Dict[str, Any]) -> List[str]:
-    text_l = text.lower()
-    classifications = []
-    for label, keywords in config.get("auto_classification_keywords", {}).items():
-        if any(kw in text_l for kw in keywords):
-            classifications.append(label)
-    return classifications or ["general"]
-
-
-def infer_country(text: str, feed: Dict[str, Any], config: Dict[str, Any]) -> str:
-    text_l = text.lower()
-    for country, patterns in config["country_patterns"].items():
-        for pat in patterns:
-            if pat in text_l:
-                return country
-    return feed.get("default_country", "Global")
-
-
-def infer_region(country: str, feed: Dict[str, Any], config: Dict[str, Any]) -> str:
-    return config.get("region_by_country", {}).get(country) or feed.get("region") or "Global"
-
-
-def infer_signal_level(classifications: List[str], topic: str, event_type: str, text: str, is_official: bool) -> str:
-    text_l = text.lower()
-    if event_type in {"outbreak_report", "safety_update"} or "outbreak" in classifications:
-        return "high"
-    if topic in {"variant", "supply_access"} or "variant" in classifications:
-        return "medium"
-    if any(term in text_l for term in ["emergency", "death", "hospital", "hospitalization", "fatal"]):
-        return "high"
-    return "medium" if is_official else "low"
-
-
-def summarize(text: str, max_len: int = 280) -> str:
-    text = normalize_space(text)
-    if len(text) <= max_len:
-        return text
-    return text[: max_len - 1].rstrip() + "…"
-
-
-def fetch_feed(url: str) -> requests.Response:
-    return requests.get(url, timeout=30, headers={"User-Agent": USER_AGENT})
-
-
-def choose_better_item(current: Dict[str, Any], candidate: Dict[str, Any]) -> Dict[str, Any]:
-    score_map = {"high": 3, "medium": 2, "low": 1}
-    current_score = (
-        (2 if current.get("is_official") else 0),
-        score_map.get(current.get("signal_level"), 0),
-        current.get("published", "")
-    )
-    candidate_score = (
-        (2 if candidate.get("is_official") else 0),
-        score_map.get(candidate.get("signal_level"), 0),
-        candidate.get("published", "")
-    )
-    return candidate if candidate_score > current_score else current
-
-
-def deduplicate_items(items: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
-    deduped: List[Dict[str, Any]] = []
-    for item in sorted(items, key=lambda x: x["published"], reverse=True):
-        matched_index = None
-        for idx, existing in enumerate(deduped):
-            same_country = existing.get("country") == item.get("country")
-            class_overlap = bool(set(existing.get("classifications", [])) & set(item.get("classifications", [])))
-            title_similarity = fuzz.token_set_ratio(existing.get("title", ""), item.get("title", ""))
-            fp_similarity = fuzz.token_set_ratio(existing.get("title_fingerprint", ""), item.get("title_fingerprint", ""))
-            same_link = existing.get("link") == item.get("link")
-            if same_link or ((same_country or existing.get("country") == "Global" or item.get("country") == "Global") and (class_overlap or existing.get("topic") == item.get("topic")) and (title_similarity >= 92 or fp_similarity >= 95)):
-                matched_index = idx
-                break
-        if matched_index is None:
-            item["duplicate_count"] = 1
-            item["merged_sources"] = [item.get("source_name")]
-            deduped.append(item)
-        else:
-            existing = deduped[matched_index]
-            chosen = choose_better_item(existing, item)
-            chosen["duplicate_count"] = existing.get("duplicate_count", 1) + 1
-            merged = list(dict.fromkeys((existing.get("merged_sources") or [existing.get("source_name")]) + [item.get("source_name")]))
-            chosen["merged_sources"] = merged
-            chosen["dedup_notes"] = f"Merged {chosen['duplicate_count']} similar items"
-            deduped[matched_index] = chosen
-    return deduped
-
-
-def build_translator() -> GoogleTranslator | None:
-    try:
-        return GoogleTranslator(source="auto", target="ja")
-    except Exception:
-        return None
-
-
-def translate_text(text: str, translator: GoogleTranslator | None, cache: Dict[str, str]) -> str:
+def translate_text(text: str, cache: dict, target_lang: str = "ja") -> str:
     text = normalize_space(text)
     if not text:
         return ""
-    key = make_cache_key(text)
+    if is_japanese_text(text):
+        return text
+
+    key = hashlib.sha256(f"{target_lang}:{text}".encode("utf-8")).hexdigest()
     if key in cache:
         return cache[key]
-    translated = text
-    if translator is not None:
-        try:
-            translated = translator.translate(text)
-            time.sleep(TRANSLATION_SLEEP_SEC)
-        except Exception:
-            translated = text
-    cache[key] = translated
-    return translated
+
+    try:
+        translated = GoogleTranslator(source="auto", target=target_lang).translate(text)
+        translated = normalize_space(translated)
+        if translated:
+            cache[key] = translated
+            return translated
+    except Exception:
+        pass
+
+    cache[key] = text
+    return text
 
 
-def collect() -> Dict[str, Any]:
-    config = load_config()
-    cache = load_translation_cache()
-    translator = build_translator()
-    items: List[Dict[str, Any]] = []
-    feed_status: List[Dict[str, Any]] = []
+def make_item_id(link: str, title: str) -> str:
+    base = f"{link}|{title}".encode("utf-8")
+    return hashlib.sha256(base).hexdigest()[:16]
 
-    for feed in config["feeds"]:
-        try:
-            response = fetch_feed(feed["url"])
-            response.raise_for_status()
-            parsed = feedparser.parse(response.content)
-            if getattr(parsed, "bozo", False) and not parsed.entries:
-                raise ValueError(getattr(parsed, "bozo_exception", "Invalid feed"))
 
-            count = 0
-            for entry in parsed.entries[:MAX_ITEMS_PER_FEED]:
-                title = strip_html(getattr(entry, "title", "Untitled"))
-                link = getattr(entry, "link", feed["url"])
-                summary_raw = strip_html(getattr(entry, "summary", "") or getattr(entry, "description", ""))
-                if not title:
-                    continue
-                text = f"{title} {summary_raw}"
-                topic = infer_topic(text, config)
-                event_type = infer_event_type(text, config)
-                classifications = infer_classifications(text, config)
-                primary_classification = next((c for c in ["outbreak", "variant", "vaccine"] if c in classifications), classifications[0])
-                country = infer_country(text, feed, config)
-                region = infer_region(country, feed, config)
-                is_official = feed.get("source_type") == "official"
-                signal_level = infer_signal_level(classifications, topic, event_type, text, is_official)
-                latlon = config.get("country_centroids", {}).get(country) or config.get("country_centroids", {}).get("Global")
-                tags = list(dict.fromkeys([topic, event_type, region, *classifications]))
-                dedup_key = make_dedup_key(title, country, primary_classification)
-                source_domain = urlparse(link).netloc or urlparse(feed["url"]).netloc
-                title_ja = translate_text(title, translator, cache)
-                summary_ja = translate_text(summarize(summary_raw or title), translator, cache)
-                items.append(
-                    {
-                        "title": title,
-                        "title_ja": title_ja,
-                        "link": link,
-                        "summary": summarize(summary_raw or title),
-                        "summary_ja": summary_ja,
-                        "published": parse_datetime(entry),
-                        "discovered_at": datetime.now(timezone.utc).isoformat(),
-                        "source_name": feed["name"],
-                        "source_domain": source_domain,
-                        "source_type": feed.get("source_type", "unknown"),
-                        "is_official": is_official,
-                        "country": country,
-                        "region": region,
-                        "topic": topic,
-                        "event_type": event_type,
-                        "classifications": classifications,
-                        "primary_classification": primary_classification,
-                        "signal_level": signal_level,
-                        "is_asia_priority": country in config.get("asia_priority_countries", []),
-                        "lat": latlon[0] if latlon else None,
-                        "lon": latlon[1] if latlon else None,
-                        "tags": tags,
-                        "dedup_key": dedup_key,
-                        "title_fingerprint": short_fingerprint(title),
-                    }
-                )
-                count += 1
-            feed_status.append({"name": feed["name"], "url": feed["url"], "status": "ok", "items": count})
-        except Exception as exc:  # noqa: BLE001
-            feed_status.append({"name": feed["name"], "url": feed["url"], "status": "error", "error": str(exc)})
+def dedupe_items(items):
+    deduped = []
+    used = set()
 
-    final_items = deduplicate_items(items)
-    final_items.sort(key=lambda x: x["published"], reverse=True)
-    final_items = final_items[:MAX_TOTAL_ITEMS]
-    save_translation_cache(cache)
+    for i, item in enumerate(items):
+        if i in used:
+            continue
 
+        group = [item]
+        used.add(i)
+
+        title_a = (item.get("title_original") or item.get("title") or "").lower()
+        url_a = item.get("link", "")
+
+        for j in range(i + 1, len(items)):
+            if j in used:
+                continue
+            other = items[j]
+            title_b = (other.get("title_original") or other.get("title") or "").lower()
+            url_b = other.get("link", "")
+
+            title_score = fuzz.token_set_ratio(title_a, title_b)
+            same_url = (url_a == url_b and url_a != "")
+
+            if same_url or title_score >= 92:
+                group.append(other)
+                used.add(j)
+
+        group = sorted(group, key=lambda x: (x.get("published_at", ""), x.get("source_priority", 0)), reverse=True)
+        primary = dict(group[0])
+        primary["duplicate_count"] = len(group)
+        primary["duplicate_sources"] = sorted(set(x.get("source", "") for x in group if x.get("source")))
+        deduped.append(primary)
+
+    deduped.sort(key=lambda x: x.get("published_at", ""), reverse=True)
+    return deduped
+
+
+def build_empty_news(config, now_utc):
     return {
-        "title": config["title"],
-        "description": config["description"],
-        "generated_at": datetime.now(timezone.utc).isoformat(),
-        "item_count": len(final_items),
-        "feed_status": feed_status,
-        "items": final_items,
+        "title": config.get("title", "EBS Research Dashboard"),
+        "description": config.get("description", ""),
+        "generated_at": now_utc.isoformat(),
+        "item_count": 0,
+        "feed_status": [],
+        "items": []
     }
 
 
-def main() -> None:
-    payload = collect()
-    OUTPUT_PATH.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"Wrote {OUTPUT_PATH} with {payload['item_count']} items")
+def main():
+    config = load_json(CONFIG_PATH, {})
+    cache = load_json(CACHE_PATH, {})
+    now_utc = datetime.now(timezone.utc)
+    since = now_utc - timedelta(days=int(config.get("days_back", 30)))
+
+    feeds = config.get("feeds", [])
+    news = build_empty_news(config, now_utc)
+
+    if not feeds:
+        save_json(NEWS_PATH, news)
+        save_json(CACHE_PATH, cache)
+        print("No feeds configured. Wrote empty news.json")
+        return
+
+    all_items = []
+    feed_status = []
+
+    for feed in feeds:
+        name = feed.get("name", "Unknown Feed")
+        url = feed.get("url", "")
+        source_type = feed.get("source_type", "unknown")
+        priority = int(feed.get("priority", 0))
+
+        try:
+            parsed = feedparser.parse(url)
+            if getattr(parsed, "bozo", False) and not parsed.entries:
+                raise RuntimeError(str(getattr(parsed, "bozo_exception", "Feed parse error")))
+
+            count = 0
+            for entry in parsed.entries:
+                published = parse_date(entry)
+                if published < since:
+                    continue
+
+                title_original = normalize_space(entry.get("title", ""))
+                summary_original = extract_summary(entry)
+                link = entry.get("link", "")
+
+                merged_text = f"{title_original} {summary_original}"
+                topics = classify_topics(merged_text, config)
+                variants = extract_variants(merged_text, config)
+                location = detect_country(merged_text, config)
+
+                title_ja = translate_text(title_original, cache, config.get("default_language", "ja"))
+                summary_ja = translate_text(summary_original, cache, config.get("default_language", "ja"))
+
+                item = {
+                    "id": make_item_id(link, title_original),
+                    "title": title_ja,
+                    "summary": summary_ja,
+                    "title_original": title_original,
+                    "summary_original": summary_original,
+                    "link": link,
+                    "source": name,
+                    "source_type": source_type,
+                    "source_priority": priority,
+                    "published_at": published.isoformat(),
+                    "topics": topics,
+                    "variants": variants,
+                    "location": location,
+                    "region": location["region"],
+                    "country": location["name_ja"],
+                    "lat": location["lat"],
+                    "lng": location["lng"]
+                }
+                all_items.append(item)
+                count += 1
+
+            feed_status.append({
+                "name": name,
+                "url": url,
+                "status": "ok",
+                "items": count
+            })
+
+        except Exception as exc:
+            feed_status.append({
+                "name": name,
+                "url": url,
+                "status": "error",
+                "error": str(exc)
+            })
+
+    all_items.sort(key=lambda x: (x.get("published_at", ""), x.get("source_priority", 0)), reverse=True)
+    all_items = dedupe_items(all_items)
+    all_items = all_items[: int(config.get("max_items", 200))]
+
+    news = {
+        "title": config.get("title", "EBS Research Dashboard"),
+        "description": config.get("description", ""),
+        "generated_at": now_utc.isoformat(),
+        "item_count": len(all_items),
+        "feed_status": feed_status,
+        "items": all_items
+    }
+
+    save_json(NEWS_PATH, news)
+    save_json(CACHE_PATH, cache)
+    print(f"Wrote {NEWS_PATH} with {len(all_items)} items")
 
 
 if __name__ == "__main__":
