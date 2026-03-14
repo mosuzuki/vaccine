@@ -1,10 +1,82 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-03-13T21:46:37.183802+00:00",
-  "archive_count": 31,
+  "generated_at": "2026-03-14T21:37:50.454981+00:00",
+  "archive_count": 33,
   "days_back": 14,
   "items": [
+    {
+      "id": "161a9f0eae81ba40",
+      "title": "PAHO、南米の一部で黄熱病の感染が継続していると報告",
+      "summary": "PAHO、南米の一部で黄熱病の感染が継続していると報告 オスカー・レイエス 2026年3月13日",
+      "summary_ai": "ワシントン D.C.、2026 年 3 月 13 日 (PAHO) — 汎米保健機関 (PAHO) は、南米の一部地域で黄熱の持続的な感染を警告する新たな疫学警報を発令し、2026 年も症例が報告され続け、一部の地域で黄熱の検出が発生していると警告しました。",
+      "title_original": "PAHO reports sustained yellow fever transmission in parts of South America",
+      "summary_original": "PAHO reports sustained yellow fever transmission in parts of South America Oscar Reyes 13 Mar 2026",
+      "summary_ai_original": "Washington, D.C., March 13, 2026 (PAHO) — The Pan American Health Organization (PAHO) has issued a new epidemiological alert cautioning of sustained yellow fever transmission in parts of South America, with cases continuing to be reported in 2026 and detection occurring in areas ",
+      "article_text_original": "Washington, D.C., March 13, 2026 (PAHO) — The Pan American Health Organization (PAHO) has issued a new epidemiological alert cautioning of sustained yellow fever transmission in parts of South America, with cases continuing to be reported in 2026 and detection occurring in areas beyond the traditional hotspots of the Amazon basin. Since September 2024, yellow fever cases have been reported in areas where they had not previously been recorded in the Region, including some locations outside the Amazon. In response, PAHO is reinforcing the call for Member States to strengthen epidemiological surveillance, intensify vaccination campaigns among populations at risk, and take the necessary measures to ensure that travelers heading to areas where vaccination is recommended are properly informed and protected. The Organization also recommended reinforcing the capacity of health services for the early detection and timely clinical management of severe cases, as well as maintaining strategic vaccine stockpiles to enable a rapid response to potential outbreaks. In 2025, a total of 346 confirmed yellow fever cases and 143 deaths were reported across seven countries in the Region: Bolivia (8 cases, 2 deaths), Brazil (120 cases, 48 deaths), Colombia (125 cases, 46 deaths), Ecuador (11 cases, 8 deaths), Guyana (1 death), Peru (49 cases, 19 deaths), and Venezuela (32 cases, 19 deaths). During the first seven weeks of 2026, 34 human cases and 15 deaths have already been confirmed in Bolivia, Colombia, Peru, and Venezuela. PAHO noted that the sylvatic transmission cycle of yellow fever, involving mosquito vectors and nonhuman primates as hosts, —that is, transmission of the virus between wild mosquitoes and nonhuman primates (such as monkeys)— reactivates periodically in the region, which is an expected phenomenon. However, since late 2025, human cases have been detected in geographic areas without recent transmission and outside previously considered risk zones, such as São Paulo state in Brazil and the department of Tolima in Colombia. The detection of cases in areas near urban centers increases the risk of urban transmission of yellow fever, in which the virus spreads between people through the mosquito Aedes aegypti, which can lead to rapidly spreading outbreaks. In May 2025, PAHO classified the overall public health risk in the Americas as high, due to the increase in cases, elevated case-fatality rates (41% in 2025), and the detection of cases in new areas. The current situation maintains a similar level of risk. Yellow fever is a mosquito-borne viral disease that can cause severe illness with a high fatality rate. There is no specific treatment, but vaccination is the most effective measure to prevent the disease. A single dose of the vaccine provides lifelong protection. Most confirmed cases in 2025 and 2026 were reported in people who were not vaccinated. PAHO reminds countries with risk areas to maintain vaccination coverage of at least 95% among exposed populations, while also strengthening epidemiological surveillance and surveillance of epizootics in nonhuman primates —that is, the occurrence of the disease in animals— which can serve as an early signal of virus circulation, as well as strengthening mosquito control measures. Travelers are also advised to get vaccinated at least 10 days before visiting areas where the disease circulates regularly, in accordance with international health recommendations. PAHO will continue monitoring the epidemiological situation and supporting countries in surveillance, prevention, and response actions related to this disease.",
+      "link": "https://www.paho.org/en/news/13-3-2026-paho-reports-sustained-yellow-fever-transmission-parts-south-america",
+      "source": "PAHO News",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 8,
+      "published_at": "2026-03-13T21:37:57+00:00",
+      "topics": [
+        "communication",
+        "policy"
+      ],
+      "policy_tags": [
+        "outbreak_response",
+        "recommendation",
+        "safety"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "ブラジル",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "PAHO / Washington DC"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "PAHO / Washington DC"
+        },
+        "target": {
+          "key": "brazil",
+          "name_ja": "ブラジル",
+          "lat": -15.7939,
+          "lng": -47.8828,
+          "region": "South America",
+          "label": "ブラジル"
+        }
+      },
+      "location": {
+        "key": "brazil",
+        "name_ja": "ブラジル",
+        "lat": -15.7939,
+        "lng": -47.8828,
+        "region": "South America",
+        "label": "ブラジル"
+      },
+      "region": "South America",
+      "country": "ブラジル",
+      "lat": -15.7939,
+      "lng": -47.8828,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "PAHO News"
+      ],
+      "first_seen_at": "2026-03-13T21:37:57+00:00",
+      "last_seen_at": "2026-03-14T21:39:23.963412+00:00"
+    },
     {
       "id": "a7483bf27153cfc6",
       "title": "インフルエンザワクチンの季節情報",
@@ -75,7 +147,7 @@
         "FDA Vaccines / Biologics"
       ],
       "first_seen_at": "2026-03-13T18:34:40+00:00",
-      "last_seen_at": "2026-03-13T21:48:11.616238+00:00"
+      "last_seen_at": "2026-03-14T21:39:23.963432+00:00"
     },
     {
       "id": "c1547c8b515abd0e",
@@ -147,7 +219,7 @@
         "FDA Vaccines / Biologics"
       ],
       "first_seen_at": "2026-03-13T18:33:14+00:00",
-      "last_seen_at": "2026-03-13T21:48:11.616258+00:00"
+      "last_seen_at": "2026-03-14T21:39:23.963440+00:00"
     },
     {
       "id": "3c3049acea464b9d",
@@ -220,7 +292,7 @@
         "FDA Vaccines / Biologics"
       ],
       "first_seen_at": "2026-03-13T14:26:04+00:00",
-      "last_seen_at": "2026-03-13T21:48:11.616260+00:00"
+      "last_seen_at": "2026-03-14T21:39:23.963460+00:00"
     },
     {
       "id": "78766c02f39bd3ad",
@@ -293,7 +365,7 @@
         "FDA Vaccines / Biologics"
       ],
       "first_seen_at": "2026-03-13T12:09:52+00:00",
-      "last_seen_at": "2026-03-13T21:48:11.616262+00:00"
+      "last_seen_at": "2026-03-14T21:39:23.963466+00:00"
     },
     {
       "id": "18b680c81f6f0a21",
@@ -364,7 +436,76 @@
         "Reuters Vaccines / Immunization"
       ],
       "first_seen_at": "2026-03-13T11:03:34+00:00",
-      "last_seen_at": "2026-03-13T21:48:11.616264+00:00"
+      "last_seen_at": "2026-03-14T21:39:23.963471+00:00"
+    },
+    {
+      "id": "60849c4d46cd01ad",
+      "title": "病気 X の発生時のワクチン治験の加速: リング治験デザインに対する病原体の超蔓延の影響 - medRxiv",
+      "summary": "病気 X の発生時のワクチン治験の加速: 病原体の超蔓延がリング治験デザインに及ぼす影響 medRxiv",
+      "summary_ai": "病気 X の発生時のワクチン治験の加速: 病原体の超蔓延がリング治験デザインに及ぼす影響 medRxiv",
+      "title_original": "Accelerating vaccine trials during an outbreak of Disease-X: the effect of pathogen super-spreading on ring-trial design - medRxiv",
+      "summary_original": "Accelerating vaccine trials during an outbreak of Disease-X: the effect of pathogen super-spreading on ring-trial design medRxiv",
+      "summary_ai_original": "Accelerating vaccine trials during an outbreak of Disease-X: the effect of pathogen super-spreading on ring-trial design medRxiv",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9BOWVtMTBlWjhEbXdsd192eTJLUXpaSmp6aUVyQWpMTnhBb3ZXT0lWOVp5NXJ4UmZnZ2Q5RWtUTmpZdjdFWE96N3JESVo5M3d1TFZNVXJHaHhJMFhsSTR1bzktVlZKQ3d2QUtQcHdmbURnWk54ODl2RjRmcw?oc=5",
+      "source": "medRxiv vaccines",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-03-12T22:09:51+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [
+        "outbreak_response"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "medRxiv"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "medRxiv"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "medRxiv vaccines"
+      ],
+      "first_seen_at": "2026-03-12T22:09:51+00:00",
+      "last_seen_at": "2026-03-14T21:39:23.963474+00:00"
     },
     {
       "id": "aae6efcd2bacabc3",
@@ -437,7 +578,7 @@
         "FDA Vaccines / Biologics"
       ],
       "first_seen_at": "2026-03-12T12:54:34+00:00",
-      "last_seen_at": "2026-03-13T21:48:11.616276+00:00"
+      "last_seen_at": "2026-03-14T21:39:23.963482+00:00"
     },
     {
       "id": "bb9e42d31ccb51f9",
@@ -506,7 +647,7 @@
         "Nature News Vaccines / Immunization"
       ],
       "first_seen_at": "2026-03-12T10:18:40+00:00",
-      "last_seen_at": "2026-03-13T21:48:11.616279+00:00"
+      "last_seen_at": "2026-03-14T21:39:23.963488+00:00"
     },
     {
       "id": "bff7dba698a0dd64",
@@ -573,7 +714,7 @@
         "Guardian Vaccines / Immunization"
       ],
       "first_seen_at": "2026-03-11T11:00:00+00:00",
-      "last_seen_at": "2026-03-13T21:48:11.616287+00:00"
+      "last_seen_at": "2026-03-14T21:39:23.963493+00:00"
     },
     {
       "id": "007ebd97328e9553",
@@ -640,7 +781,7 @@
         "STAT Vaccines / Immunization"
       ],
       "first_seen_at": "2026-03-10T16:42:11+00:00",
-      "last_seen_at": "2026-03-13T21:48:11.616294+00:00"
+      "last_seen_at": "2026-03-14T21:39:23.963497+00:00"
     },
     {
       "id": "6cd4fd1e23a0ca37",
@@ -711,7 +852,7 @@
         "Lancet Infectious Diseases"
       ],
       "first_seen_at": "2026-03-10T08:22:27+00:00",
-      "last_seen_at": "2026-03-13T21:48:11.616300+00:00"
+      "last_seen_at": "2026-03-14T21:39:23.963503+00:00"
     },
     {
       "id": "c92889c5ca9ff4da",
@@ -782,7 +923,7 @@
         "Lancet Infectious Diseases"
       ],
       "first_seen_at": "2026-03-10T01:40:38+00:00",
-      "last_seen_at": "2026-03-13T21:48:11.616305+00:00"
+      "last_seen_at": "2026-03-14T21:39:23.963508+00:00"
     },
     {
       "id": "06b316c6a3b082cb",
@@ -854,7 +995,7 @@
         "Lancet Infectious Diseases"
       ],
       "first_seen_at": "2026-03-10T00:30:18+00:00",
-      "last_seen_at": "2026-03-13T21:48:11.616311+00:00"
+      "last_seen_at": "2026-03-14T21:39:23.963512+00:00"
     },
     {
       "id": "14f1566d19187dec",
@@ -921,7 +1062,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-03-09T18:09:05+00:00",
-      "last_seen_at": "2026-03-13T21:48:11.616317+00:00"
+      "last_seen_at": "2026-03-14T21:39:23.963516+00:00"
     },
     {
       "id": "c4ea7fcf40c8a36b",
@@ -990,7 +1131,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-03-09T01:46:54+00:00",
-      "last_seen_at": "2026-03-13T21:48:11.616321+00:00"
+      "last_seen_at": "2026-03-14T21:39:23.963520+00:00"
     },
     {
       "id": "b5f6cd241477fc34",
@@ -1059,7 +1200,7 @@
         "bioRxiv vaccines"
       ],
       "first_seen_at": "2026-03-07T08:00:00+00:00",
-      "last_seen_at": "2026-03-13T21:48:11.616325+00:00"
+      "last_seen_at": "2026-03-14T21:39:23.963524+00:00"
     },
     {
       "id": "2267202e464b59bc",
@@ -1130,7 +1271,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-03-06T16:41:23+00:00",
-      "last_seen_at": "2026-03-13T21:48:11.616329+00:00"
+      "last_seen_at": "2026-03-14T21:39:23.963529+00:00"
     },
     {
       "id": "5da4cc51c5fa53b9",
@@ -1199,7 +1340,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-03-06T01:51:01+00:00",
-      "last_seen_at": "2026-03-13T21:48:11.616333+00:00"
+      "last_seen_at": "2026-03-14T21:39:23.963533+00:00"
     },
     {
       "id": "6a4fcd8803c16621",
@@ -1266,7 +1407,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-03-05T21:19:27+00:00",
-      "last_seen_at": "2026-03-13T21:48:11.616336+00:00"
+      "last_seen_at": "2026-03-14T21:39:23.963537+00:00"
     },
     {
       "id": "58f00a8183fa8a31",
@@ -1402,7 +1543,7 @@
         "CIDRAP Vaccines & Immunization"
       ],
       "first_seen_at": "2026-03-05T21:25:01+00:00",
-      "last_seen_at": "2026-03-13T21:48:11.616353+00:00"
+      "last_seen_at": "2026-03-14T21:39:23.963546+00:00"
     },
     {
       "id": "349129134579785c",
@@ -1471,7 +1612,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-03-05T08:00:00+00:00",
-      "last_seen_at": "2026-03-13T21:48:11.616349+00:00"
+      "last_seen_at": "2026-03-14T21:39:23.963541+00:00"
     },
     {
       "id": "5ef8a4710c348d44",
@@ -1538,7 +1679,7 @@
         "BBC Vaccines / Immunization"
       ],
       "first_seen_at": "2026-03-05T06:06:42+00:00",
-      "last_seen_at": "2026-03-13T21:48:11.616358+00:00"
+      "last_seen_at": "2026-03-14T21:39:23.963550+00:00"
     },
     {
       "id": "41a125ab7c860957",
@@ -1605,7 +1746,7 @@
         "Reuters Vaccines / Immunization"
       ],
       "first_seen_at": "2026-03-04T08:00:00+00:00",
-      "last_seen_at": "2026-03-13T21:48:11.616362+00:00"
+      "last_seen_at": "2026-03-14T21:39:23.963554+00:00"
     },
     {
       "id": "54dd3b0852eb073f",
@@ -1676,7 +1817,7 @@
         "PAHO News"
       ],
       "first_seen_at": "2026-03-03T20:44:14+00:00",
-      "last_seen_at": "2026-03-13T21:48:11.616368+00:00"
+      "last_seen_at": "2026-03-14T21:39:23.963558+00:00"
     },
     {
       "id": "38204b66c841d5c9",
@@ -1745,7 +1886,7 @@
         "読売新聞 ワクチン / 予防接種"
       ],
       "first_seen_at": "2026-03-03T08:00:00+00:00",
-      "last_seen_at": "2026-03-13T21:48:11.616373+00:00"
+      "last_seen_at": "2026-03-14T21:39:23.963563+00:00"
     },
     {
       "id": "3236e6cf41c223e7",
@@ -1817,7 +1958,7 @@
         "PAHO News"
       ],
       "first_seen_at": "2026-03-03T04:35:49+00:00",
-      "last_seen_at": "2026-03-13T21:48:11.616379+00:00"
+      "last_seen_at": "2026-03-14T21:39:23.963568+00:00"
     },
     {
       "id": "60fd65e7bbff310b",
@@ -1889,7 +2030,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-03-02T13:26:37+00:00",
-      "last_seen_at": "2026-03-13T21:48:11.616384+00:00"
+      "last_seen_at": "2026-03-14T21:39:23.963571+00:00"
     },
     {
       "id": "d188915d10bb12cb",
@@ -1953,7 +2094,7 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "duplicate_sources": [
         "BMJ"
       ],

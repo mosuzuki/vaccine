@@ -1,9 +1,9 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-03-13T21:46:37.183802+00:00",
-  "item_count": 27,
-  "archive_count": 31,
+  "generated_at": "2026-03-14T21:37:50.454981+00:00",
+  "item_count": 29,
+  "archive_count": 33,
   "days_back": 14,
   "plot_mode_default": "source",
   "feed_status": [
@@ -17,7 +17,7 @@
       "name": "WHO Disease Outbreak News",
       "url": "https://www.who.int/feeds/entity/emergencies/disease-outbreak-news/rss.xml",
       "status": "error",
-      "error": "404 Client Error: Not Found for url: https://www.who.int/feeds/entity/emergencies/disease-outbreak-news/rss.xml"
+      "error": "400 Client Error: Bad Request for url: https://www.who.int/feeds/entity/emergencies/disease-outbreak-news/rss.xml"
     },
     {
       "name": "CDC Newsroom",
@@ -82,14 +82,14 @@
       "name": "PAHO News",
       "url": "https://www.paho.org/en/rss.xml",
       "status": "ok",
-      "seen": 9,
-      "kept": 2
+      "seen": 10,
+      "kept": 3
     },
     {
       "name": "The Lancet series",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Athelancet.com%20(trial%20OR%20policy%20OR%20effectiveness%20OR%20safety)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
@@ -110,7 +110,7 @@
       "name": "BMJ",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abmj.com%20(policy%20OR%20trial%20OR%20effectiveness%20OR%20communication)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 12,
+      "seen": 11,
       "kept": 8
     },
     {
@@ -145,42 +145,42 @@
       "name": "medRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Amedrxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
-      "kept": 0
+      "seen": 2,
+      "kept": 1
     },
     {
       "name": "bioRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abiorxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 8,
+      "seen": 13,
       "kept": 2
     },
     {
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 22,
+      "seen": 25,
       "kept": 1
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 28,
+      "seen": 24,
       "kept": 2
     },
     {
       "name": "AP Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 1,
       "kept": 0
     },
     {
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 7,
+      "seen": 4,
       "kept": 1
     },
     {
@@ -194,42 +194,42 @@
       "name": "STAT Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 26,
+      "seen": 20,
       "kept": 1
     },
     {
       "name": "Nature News Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 17,
+      "seen": 18,
       "kept": 1
     },
     {
       "name": "Science Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Ascience.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 4,
+      "seen": 3,
       "kept": 0
     },
     {
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 14,
+      "seen": 16,
       "kept": 0
     },
     {
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 17,
+      "seen": 14,
       "kept": 1
     },
     {
       "name": "Washington Post Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 11,
+      "seen": 12,
       "kept": 0
     },
     {
@@ -243,32 +243,102 @@
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 26,
+      "seen": 20,
       "kept": 0
     },
     {
       "name": "朝日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Aasahi.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 20,
+      "seen": 16,
       "kept": 0
     },
     {
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 24,
+      "seen": 22,
       "kept": 1
     },
     {
       "name": "毎日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 33,
+      "seen": 29,
       "kept": 0
     }
   ],
   "items": [
+    {
+      "id": "161a9f0eae81ba40",
+      "title": "PAHO、南米の一部で黄熱病の感染が継続していると報告",
+      "summary": "PAHO、南米の一部で黄熱病の感染が継続していると報告 オスカー・レイエス 2026年3月13日",
+      "summary_ai": "ワシントン D.C.、2026 年 3 月 13 日 (PAHO) — 汎米保健機関 (PAHO) は、南米の一部地域で黄熱の持続的な感染を警告する新たな疫学警報を発令し、2026 年も症例が報告され続け、一部の地域で黄熱の検出が発生していると警告しました。",
+      "title_original": "PAHO reports sustained yellow fever transmission in parts of South America",
+      "summary_original": "PAHO reports sustained yellow fever transmission in parts of South America Oscar Reyes 13 Mar 2026",
+      "summary_ai_original": "Washington, D.C., March 13, 2026 (PAHO) — The Pan American Health Organization (PAHO) has issued a new epidemiological alert cautioning of sustained yellow fever transmission in parts of South America, with cases continuing to be reported in 2026 and detection occurring in areas ",
+      "article_text_original": "Washington, D.C., March 13, 2026 (PAHO) — The Pan American Health Organization (PAHO) has issued a new epidemiological alert cautioning of sustained yellow fever transmission in parts of South America, with cases continuing to be reported in 2026 and detection occurring in areas beyond the traditional hotspots of the Amazon basin. Since September 2024, yellow fever cases have been reported in areas where they had not previously been recorded in the Region, including some locations outside the Amazon. In response, PAHO is reinforcing the call for Member States to strengthen epidemiological surveillance, intensify vaccination campaigns among populations at risk, and take the necessary measures to ensure that travelers heading to areas where vaccination is recommended are properly informed and protected. The Organization also recommended reinforcing the capacity of health services for the early detection and timely clinical management of severe cases, as well as maintaining strategic vaccine stockpiles to enable a rapid response to potential outbreaks. In 2025, a total of 346 confirmed yellow fever cases and 143 deaths were reported across seven countries in the Region: Bolivia (8 cases, 2 deaths), Brazil (120 cases, 48 deaths), Colombia (125 cases, 46 deaths), Ecuador (11 cases, 8 deaths), Guyana (1 death), Peru (49 cases, 19 deaths), and Venezuela (32 cases, 19 deaths). During the first seven weeks of 2026, 34 human cases and 15 deaths have already been confirmed in Bolivia, Colombia, Peru, and Venezuela. PAHO noted that the sylvatic transmission cycle of yellow fever, involving mosquito vectors and nonhuman primates as hosts, —that is, transmission of the virus between wild mosquitoes and nonhuman primates (such as monkeys)— reactivates periodically in the region, which is an expected phenomenon. However, since late 2025, human cases have been detected in geographic areas without recent transmission and outside previously considered risk zones, such as São Paulo state in Brazil and the department of Tolima in Colombia. The detection of cases in areas near urban centers increases the risk of urban transmission of yellow fever, in which the virus spreads between people through the mosquito Aedes aegypti, which can lead to rapidly spreading outbreaks. In May 2025, PAHO classified the overall public health risk in the Americas as high, due to the increase in cases, elevated case-fatality rates (41% in 2025), and the detection of cases in new areas. The current situation maintains a similar level of risk. Yellow fever is a mosquito-borne viral disease that can cause severe illness with a high fatality rate. There is no specific treatment, but vaccination is the most effective measure to prevent the disease. A single dose of the vaccine provides lifelong protection. Most confirmed cases in 2025 and 2026 were reported in people who were not vaccinated. PAHO reminds countries with risk areas to maintain vaccination coverage of at least 95% among exposed populations, while also strengthening epidemiological surveillance and surveillance of epizootics in nonhuman primates —that is, the occurrence of the disease in animals— which can serve as an early signal of virus circulation, as well as strengthening mosquito control measures. Travelers are also advised to get vaccinated at least 10 days before visiting areas where the disease circulates regularly, in accordance with international health recommendations. PAHO will continue monitoring the epidemiological situation and supporting countries in surveillance, prevention, and response actions related to this disease.",
+      "link": "https://www.paho.org/en/news/13-3-2026-paho-reports-sustained-yellow-fever-transmission-parts-south-america",
+      "source": "PAHO News",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 8,
+      "published_at": "2026-03-13T21:37:57+00:00",
+      "topics": [
+        "communication",
+        "policy"
+      ],
+      "policy_tags": [
+        "outbreak_response",
+        "recommendation",
+        "safety"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "ブラジル",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "PAHO / Washington DC"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "PAHO / Washington DC"
+        },
+        "target": {
+          "key": "brazil",
+          "name_ja": "ブラジル",
+          "lat": -15.7939,
+          "lng": -47.8828,
+          "region": "South America",
+          "label": "ブラジル"
+        }
+      },
+      "location": {
+        "key": "brazil",
+        "name_ja": "ブラジル",
+        "lat": -15.7939,
+        "lng": -47.8828,
+        "region": "South America",
+        "label": "ブラジル"
+      },
+      "region": "South America",
+      "country": "ブラジル",
+      "lat": -15.7939,
+      "lng": -47.8828,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "PAHO News"
+      ]
+    },
     {
       "id": "a7483bf27153cfc6",
       "title": "インフルエンザワクチンの季節情報",
@@ -618,6 +688,73 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "Reuters Vaccines / Immunization"
+      ]
+    },
+    {
+      "id": "60849c4d46cd01ad",
+      "title": "病気 X の発生時のワクチン治験の加速: リング治験デザインに対する病原体の超蔓延の影響 - medRxiv",
+      "summary": "病気 X の発生時のワクチン治験の加速: 病原体の超蔓延がリング治験デザインに及ぼす影響 medRxiv",
+      "summary_ai": "病気 X の発生時のワクチン治験の加速: 病原体の超蔓延がリング治験デザインに及ぼす影響 medRxiv",
+      "title_original": "Accelerating vaccine trials during an outbreak of Disease-X: the effect of pathogen super-spreading on ring-trial design - medRxiv",
+      "summary_original": "Accelerating vaccine trials during an outbreak of Disease-X: the effect of pathogen super-spreading on ring-trial design medRxiv",
+      "summary_ai_original": "Accelerating vaccine trials during an outbreak of Disease-X: the effect of pathogen super-spreading on ring-trial design medRxiv",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9BOWVtMTBlWjhEbXdsd192eTJLUXpaSmp6aUVyQWpMTnhBb3ZXT0lWOVp5NXJ4UmZnZ2Q5RWtUTmpZdjdFWE96N3JESVo5M3d1TFZNVXJHaHhJMFhsSTR1bzktVlZKQ3d2QUtQcHdmbURnWk54ODl2RjRmcw?oc=5",
+      "source": "medRxiv vaccines",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-03-12T22:09:51+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [
+        "outbreak_response"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "medRxiv"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "medRxiv"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "medRxiv vaccines"
       ]
     },
     {
@@ -2035,20 +2172,20 @@
       ]
     },
     {
-      "id": "d188915d10bb12cb",
-      "title": "ワクチン接種時の年齢および接種回数別の HPV ワクチンの有効性: 集団ベースの一致する症例対照群のプロトコール - BMJ Open",
-      "summary": "ワクチン接種時の年齢および接種回数別の HPV ワクチンの有効性: 集団ベースの一致する症例対照のプロトコール BMJ Open",
-      "summary_ai": "ワクチン接種時の年齢および接種回数別の HPV ワクチンの有効性: 集団ベースの一致する症例対照のプロトコール BMJ Open",
-      "title_original": "Effectiveness of HPV vaccine by age at vaccination and number of doses: protocol for a population-based matched case–control s - BMJ Open",
-      "summary_original": "Effectiveness of HPV vaccine by age at vaccination and number of doses: protocol for a population-based matched case–control s BMJ Open",
-      "summary_ai_original": "Effectiveness of HPV vaccine by age at vaccination and number of doses: protocol for a population-based matched case–control s BMJ Open",
+      "id": "751bda81cea519d3",
+      "title": "ワクチン接種時の年齢および接種回数別の HPV ワクチンの有効性: 集団ベースの適合症例対照研究のプロトコール - BMJ Open",
+      "summary": "ワクチン接種時の年齢および接種回数別の HPV ワクチンの有効性: 集団ベースの適合症例対照研究のプロトコール BMJ Open",
+      "summary_ai": "ワクチン接種時の年齢および接種回数別の HPV ワクチンの有効性: 集団ベースの適合症例対照研究のプロトコール BMJ Open",
+      "title_original": "Effectiveness of HPV vaccine by age at vaccination and number of doses: protocol for a population- based matched case–control study - BMJ Open",
+      "summary_original": "Effectiveness of HPV vaccine by age at vaccination and number of doses: protocol for a population- based matched case–control study BMJ Open",
+      "summary_ai_original": "Effectiveness of HPV vaccine by age at vaccination and number of doses: protocol for a population- based matched case–control study BMJ Open",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1VcV8zSlVHLVRmWmRGYjFkX2RWWmNUZ0NVMEtBNG8xWWJ0d1lMZXYxcnBuSHN3eGE0YXF5U2RuMUdndU52cWhLSlBKU1FtaUxoaXJuREFCUkVibWM5NlZMWjR3RVVYZXBDV2RLUzg4dw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83Z3M2bjBHRE8wbVZNMW9JZlhZTFBReDdCNFF2UlNLX0p2NWcycmRORzRtV2pGOHJON3MyNlNZbU5aRGpuc0I5aHpNSWVxQS1lSVlZRjNjZU92V3htNVpFNllzUWNKN1RFblhUS3F3?oc=5",
       "source": "BMJ",
       "source_type": "academic",
       "source_tier": "Tier 3",
       "source_priority": 8,
-      "published_at": "2026-03-01T23:40:55+00:00",
+      "published_at": "2026-02-28T23:33:11+00:00",
       "topics": [
         "research"
       ],
