@@ -1,9 +1,9 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-03-14T21:37:50.454981+00:00",
-  "item_count": 29,
-  "archive_count": 33,
+  "generated_at": "2026-03-15T21:39:00.882657+00:00",
+  "item_count": 30,
+  "archive_count": 37,
   "days_back": 14,
   "plot_mode_default": "source",
   "feed_status": [
@@ -17,7 +17,7 @@
       "name": "WHO Disease Outbreak News",
       "url": "https://www.who.int/feeds/entity/emergencies/disease-outbreak-news/rss.xml",
       "status": "error",
-      "error": "400 Client Error: Bad Request for url: https://www.who.int/feeds/entity/emergencies/disease-outbreak-news/rss.xml"
+      "error": "404 Client Error: Not Found for url: https://www.who.int/feeds/entity/emergencies/disease-outbreak-news/rss.xml"
     },
     {
       "name": "CDC Newsroom",
@@ -110,14 +110,14 @@
       "name": "BMJ",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abmj.com%20(policy%20OR%20trial%20OR%20effectiveness%20OR%20communication)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 11,
+      "seen": 10,
       "kept": 8
     },
     {
       "name": "Vaccine journal",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Asciencedirect.com%2Fjournal%2Fvaccine&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 4,
+      "seen": 3,
       "kept": 0
     },
     {
@@ -131,7 +131,7 @@
       "name": "Eurosurveillance",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Aeurosurveillance.org&hl=en-US&gl=EU&ceid=EU%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -145,7 +145,7 @@
       "name": "medRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Amedrxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 3,
       "kept": 1
     },
     {
@@ -159,77 +159,77 @@
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 25,
-      "kept": 1
+      "seen": 27,
+      "kept": 2
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 24,
+      "seen": 23,
       "kept": 2
     },
     {
       "name": "AP Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 4,
+      "seen": 2,
       "kept": 1
     },
     {
       "name": "Financial Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aft.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 4,
+      "seen": 5,
       "kept": 0
     },
     {
       "name": "STAT Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 20,
+      "seen": 15,
       "kept": 1
     },
     {
       "name": "Nature News Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 18,
+      "seen": 20,
       "kept": 1
     },
     {
       "name": "Science Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Ascience.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 5,
       "kept": 0
     },
     {
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 16,
+      "seen": 13,
       "kept": 0
     },
     {
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 14,
+      "seen": 17,
       "kept": 1
     },
     {
       "name": "Washington Post Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 12,
+      "seen": 13,
       "kept": 0
     },
     {
@@ -243,7 +243,7 @@
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 20,
+      "seen": 16,
       "kept": 0
     },
     {
@@ -257,18 +257,84 @@
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 22,
+      "seen": 20,
       "kept": 1
     },
     {
       "name": "毎日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 29,
+      "seen": 27,
       "kept": 0
     }
   ],
   "items": [
+    {
+      "id": "d469f1119213a3fc",
+      "title": "医療従事者における新型コロナウイルス感染症とコレラのワクチン摂取パターン：ヤウンデ・カメルーンにおける横断研究 - medRxiv",
+      "summary": "医療従事者における新型コロナウイルス感染症とコレラのワクチン摂取パターン：ヤウンデとカメルーンの横断研究 medRxiv",
+      "summary_ai": "医療従事者における新型コロナウイルス感染症とコレラのワクチン摂取パターン：ヤウンデとカメルーンの横断研究 medRxiv",
+      "title_original": "Vaccine uptake patterns for COVID-19 and cholera among healthcare workers: a cross-sectional study in Yaounde-Cameroon - medRxiv",
+      "summary_original": "Vaccine uptake patterns for COVID-19 and cholera among healthcare workers: a cross-sectional study in Yaounde-Cameroon medRxiv",
+      "summary_ai_original": "Vaccine uptake patterns for COVID-19 and cholera among healthcare workers: a cross-sectional study in Yaounde-Cameroon medRxiv",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9iUndPeFF1MW5wSjhxODlBRHBrckR1ZGd6R3lsa3NuVjJ0LUdvdUZ0UGZJUXl1RmMzcFpmbUVRNWZORVI4MHlnekZtcjlWTlIxTG01SWp1R2FZZmNzWmVJNDNWanYwQ0N2SnNOQkUwTQ?oc=5",
+      "source": "medRxiv vaccines",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-03-14T02:42:51+00:00",
+      "topics": [
+        "communication",
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "medRxiv"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "medRxiv"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "medRxiv vaccines"
+      ]
+    },
     {
       "id": "161a9f0eae81ba40",
       "title": "PAHO、南米の一部で黄熱病の感染が継続していると報告",
@@ -691,73 +757,6 @@
       ]
     },
     {
-      "id": "60849c4d46cd01ad",
-      "title": "病気 X の発生時のワクチン治験の加速: リング治験デザインに対する病原体の超蔓延の影響 - medRxiv",
-      "summary": "病気 X の発生時のワクチン治験の加速: 病原体の超蔓延がリング治験デザインに及ぼす影響 medRxiv",
-      "summary_ai": "病気 X の発生時のワクチン治験の加速: 病原体の超蔓延がリング治験デザインに及ぼす影響 medRxiv",
-      "title_original": "Accelerating vaccine trials during an outbreak of Disease-X: the effect of pathogen super-spreading on ring-trial design - medRxiv",
-      "summary_original": "Accelerating vaccine trials during an outbreak of Disease-X: the effect of pathogen super-spreading on ring-trial design medRxiv",
-      "summary_ai_original": "Accelerating vaccine trials during an outbreak of Disease-X: the effect of pathogen super-spreading on ring-trial design medRxiv",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9BOWVtMTBlWjhEbXdsd192eTJLUXpaSmp6aUVyQWpMTnhBb3ZXT0lWOVp5NXJ4UmZnZ2Q5RWtUTmpZdjdFWE96N3JESVo5M3d1TFZNVXJHaHhJMFhsSTR1bzktVlZKQ3d2QUtQcHdmbURnWk54ODl2RjRmcw?oc=5",
-      "source": "medRxiv vaccines",
-      "source_type": "preprint",
-      "source_tier": "Tier 3",
-      "source_priority": 7,
-      "published_at": "2026-03-12T22:09:51+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [
-        "outbreak_response"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "medRxiv"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "medRxiv"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "medRxiv vaccines"
-      ]
-    },
-    {
       "id": "aae6efcd2bacabc3",
       "title": "ワクチンおよび関連生物由来製品諮問委員会 2026 年 3 月 12 日会議のお知らせ - 03/12/2026",
       "summary": "2026年3月12日、委員会は公開セッションで会合し、2026年から2027年のインフルエンザシーズン中に米国で使用されるインフルエンザウイルスワクチンの株組成について議論し、勧告を行う予定です。",
@@ -958,6 +957,73 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "Guardian Vaccines / Immunization"
+      ]
+    },
+    {
+      "id": "f491e761e1c98044",
+      "title": "ピクセルを超えたプロモーション: ナイジェリア、プラトー州におけるワクチンコミュニケーション戦略の混合法分析 - BMJ Open",
+      "summary": "ピクセルを超えたプロモーション: ナイジェリアのプラトー州におけるワクチンコミュニケーション戦略の混合法分析 BMJ Open",
+      "summary_ai": "ピクセルを超えたプロモーション: ナイジェリアのプラトー州におけるワクチンコミュニケーション戦略の混合法分析 BMJ Open",
+      "title_original": "Promotion over pixels: a mixed- methods analysis of vaccine communication strategies in Plateau State, Nigeria - BMJ Open",
+      "summary_original": "Promotion over pixels: a mixed- methods analysis of vaccine communication strategies in Plateau State, Nigeria BMJ Open",
+      "summary_ai_original": "Promotion over pixels: a mixed- methods analysis of vaccine communication strategies in Plateau State, Nigeria BMJ Open",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE96eFNYeHBtZWlDNmtCUzFBV2ZiTXk1Unhncmt4Z01Ed2o4RFJQQU9iU19TWjI1VVlseU8yR2JhbVZGMEEzNlpZNzVBVy1rWHIxam9teDRsTlNBUFNOV3BtckNXampVTVBSY2kyUE9n?oc=5",
+      "source": "BMJ",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-03-11T03:59:50+00:00",
+      "topics": [
+        "communication"
+      ],
+      "policy_tags": [
+        "communication"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "ナイジェリア",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BMJ / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BMJ / London"
+        },
+        "target": {
+          "key": "nigeria",
+          "name_ja": "ナイジェリア",
+          "lat": 9.0765,
+          "lng": 7.3986,
+          "region": "Africa",
+          "label": "ナイジェリア"
+        }
+      },
+      "location": {
+        "key": "nigeria",
+        "name_ja": "ナイジェリア",
+        "lat": 9.0765,
+        "lng": 7.3986,
+        "region": "Africa",
+        "label": "ナイジェリア"
+      },
+      "region": "Africa",
+      "country": "ナイジェリア",
+      "lat": 9.0765,
+      "lng": 7.3986,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "BMJ"
       ]
     },
     {
@@ -1433,13 +1499,82 @@
       ]
     },
     {
-      "id": "2267202e464b59bc",
-      "title": "ニルセビマブ、母親用 RSV ワクチン、高齢者用 RSV ワクチンの現実世界の有効性と安全性: 生きた系統的研究 - thorax.bmj.com",
-      "summary": "ニルセビマブ、母体用 RSV ワクチン、高齢者用 RSV ワクチンの現実世界の有効性と安全性: 生きた体系的な r thorax.bmj.com",
-      "summary_ai": "ニルセビマブ、母体用 RSV ワクチン、高齢者用 RSV ワクチンの現実世界の有効性と安全性: 生きた体系的な r thorax.bmj.com",
-      "title_original": "Real-world effectiveness and safety of nirsevimab, RSV maternal vaccine and RSV vaccines for older adults: a living systematic r - thorax.bmj.com",
-      "summary_original": "Real-world effectiveness and safety of nirsevimab, RSV maternal vaccine and RSV vaccines for older adults: a living systematic r thorax.bmj.com",
-      "summary_ai_original": "Real-world effectiveness and safety of nirsevimab, RSV maternal vaccine and RSV vaccines for older adults: a living systematic r thorax.bmj.com",
+      "id": "06f8d58e3d33443a",
+      "title": "長期療養入居者におけるオミクロン変異体に対する新型コロナウイルス感染症（Covid-19）mRNAワクチンの4回目の投与の有効性 - BMJ",
+      "summary": "長期療養入居者におけるオミクロン変異体に対する新型コロナウイルス感染症（Covid-19）mRNAワクチンの4回目の投与の有効性 The BMJ",
+      "summary_ai": "長期療養入居者におけるオミクロン変異体に対する新型コロナウイルス感染症（Covid-19）mRNAワクチンの4回目の投与の有効性 The BMJ",
+      "title_original": "Effectiveness of a fourth dose of covid-19 mRNA vaccine against the omicron variant among long term care residents - The BMJ",
+      "summary_original": "Effectiveness of a fourth dose of covid-19 mRNA vaccine against the omicron variant among long term care residents The BMJ",
+      "summary_ai_original": "Effectiveness of a fourth dose of covid-19 mRNA vaccine against the omicron variant among long term care residents The BMJ",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13UVpuZWJobDVsQlUtVFNrVU9yUDNtODVUOEFjMTVpMlhHU3FsRkZ1SHJjclpMSlBzbzFIcGxaamJHRW0wcTFRVndWQ0dDOUo0VlZhT1Fmak5FQ2t3THd4QkZlcVcySmV1Y2V2SA?oc=5",
+      "source": "BMJ",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-03-07T01:52:36+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "covid"
+      ],
+      "variants": [
+        "omicron"
+      ],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BMJ / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BMJ / London"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "BMJ"
+      ]
+    },
+    {
+      "id": "c33f5af7d5f766e2",
+      "title": "ニルセビマブ、母親用 RSV ワクチン、高齢者用 RSV ワクチンの現実世界の有効性と安全性: 生きた系統的研究 - Thorax Journal",
+      "summary": "ニルセビマブ、母親用 RSV ワクチン、高齢者用 RSV ワクチンの現実世界の有効性と安全性: 生きた体系的な r Thorax Journal",
+      "summary_ai": "ニルセビマブ、母親用 RSV ワクチン、高齢者用 RSV ワクチンの現実世界の有効性と安全性: 生きた体系的な r Thorax Journal",
+      "title_original": "Real-world effectiveness and safety of nirsevimab, RSV maternal vaccine and RSV vaccines for older adults: a living systematic r - Thorax Journal",
+      "summary_original": "Real-world effectiveness and safety of nirsevimab, RSV maternal vaccine and RSV vaccines for older adults: a living systematic r Thorax Journal",
+      "summary_ai_original": "Real-world effectiveness and safety of nirsevimab, RSV maternal vaccine and RSV vaccines for older adults: a living systematic r Thorax Journal",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16b1dwUEg0SnlPLTQxS3NzQUlZbHlRZVFwME03N2JDbDhEdUdUbFROS2VjcVE1SVdsZFhDUEtONXFOLVBvN3JLcHM3ZDVETXRxUENRVXQ5WFdXcllpcTNEbnFwOExocmhOR29N?oc=5",
       "source": "BMJ",
@@ -1499,6 +1634,75 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "BMJ"
+      ]
+    },
+    {
+      "id": "283efb2d33fb371c",
+      "title": "要点：2カ国でのポリオ、スーダンのコレラ流行終結、英国での鳥インフルエンザワクチン治験 - CIDRAP",
+      "summary": "要点: 2か国でのポリオ、スーダンのコレラ流行終結、英国での鳥インフルエンザワクチン治験 CIDRAP",
+      "summary_ai": "要点: 2か国でのポリオ、スーダンのコレラ流行終結、英国での鳥インフルエンザワクチン治験 CIDRAP",
+      "title_original": "Quick takes: Polio in 2 nations, Sudan’s cholera outbreak ends, avian flu vaccine trials in UK - CIDRAP",
+      "summary_original": "Quick takes: Polio in 2 nations, Sudan’s cholera outbreak ends, avian flu vaccine trials in UK CIDRAP",
+      "summary_ai_original": "Quick takes: Polio in 2 nations, Sudan’s cholera outbreak ends, avian flu vaccine trials in UK CIDRAP",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPU0pCb3FyRHNKWFFOaDB4eTNvU1h5Tm5TMFhUeV85LWgtMzdrWGRldFIyeG8xVVRTdE1ESTV5cjBsWFhvSmU3dlFwTWM5QkJVaUM1ZnZPRVc5b3hoMmxNVDRTZHhqSjJTUENVa1ppT1dRc2Q3b2ZBd0hjZ2Q4UFFacmdHX1g4M0hGTWFoVklzYVd5bm1mYXBDRS1OM3Z0WEY4Sl9tWkJadWtoZHNJNHhQOGQ3clRXWWpzSktUTg?oc=5",
+      "source": "CIDRAP Vaccines & Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 8,
+      "published_at": "2026-03-06T08:00:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [
+        "outbreak_response"
+      ],
+      "vaccines": [
+        "influenza"
+      ],
+      "variants": [],
+      "target_country": "英国",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "CIDRAP / Minnesota"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "CIDRAP / Minnesota"
+        },
+        "target": {
+          "key": "uk",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "英国"
+        }
+      },
+      "location": {
+        "key": "uk",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "英国"
+      },
+      "region": "Europe",
+      "country": "英国",
+      "lat": 51.5074,
+      "lng": -0.1278,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "CIDRAP Vaccines & Immunization"
       ]
     },
     {
@@ -1766,71 +1970,6 @@
       ]
     },
     {
-      "id": "5ef8a4710c348d44",
-      "title": "ブラッドフォード末期がん患者、ワクチン治験での役割を誇り - BBC",
-      "summary": "ブラッドフォード末期がん患者、ワクチン治験での役割を誇り BBC",
-      "summary_ai": "ブラッドフォード末期がん患者、ワクチン治験での役割を誇り BBC",
-      "title_original": "Bradford terminal cancer patient proud of role in vaccine trial - BBC",
-      "summary_original": "Bradford terminal cancer patient proud of role in vaccine trial BBC",
-      "summary_ai_original": "Bradford terminal cancer patient proud of role in vaccine trial BBC",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FXzc1SGltQTJtelFUMGk4aDRQTTBIZWdDVldmNzJxSmlEN1BNZGlvWmdpenlQRlMyYUVIM3BORmtpX0pEUHA2cGZ3dWtuekFMVkFhcU91OWZnQQ?oc=5",
-      "source": "BBC Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-03-05T06:06:42+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BBC"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BBC"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "BBC Vaccines / Immunization"
-      ]
-    },
-    {
       "id": "41a125ab7c860957",
       "title": "ＲＦＫジュニア氏にはワクチン政策を再構築する「審査不能」権限があると司法省弁護士が判事に告げる - ロイター",
       "summary": "ＲＦＫジュニア氏にはワクチン政策を再編する「審査不能」権限がある、司法省弁護士が判事に告げる ロイター",
@@ -1893,6 +2032,71 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "Reuters Vaccines / Immunization"
+      ]
+    },
+    {
+      "id": "5ef8a4710c348d44",
+      "title": "ブラッドフォード末期がん患者、ワクチン治験での役割を誇り - BBC",
+      "summary": "ブラッドフォード末期がん患者、ワクチン治験での役割を誇り BBC",
+      "summary_ai": "ブラッドフォード末期がん患者、ワクチン治験での役割を誇り BBC",
+      "title_original": "Bradford terminal cancer patient proud of role in vaccine trial - BBC",
+      "summary_original": "Bradford terminal cancer patient proud of role in vaccine trial BBC",
+      "summary_ai_original": "Bradford terminal cancer patient proud of role in vaccine trial BBC",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FXzc1SGltQTJtelFUMGk4aDRQTTBIZWdDVldmNzJxSmlEN1BNZGlvWmdpenlQRlMyYUVIM3BORmtpX0pEUHA2cGZ3dWtuekFMVkFhcU91OWZnQQ?oc=5",
+      "source": "BBC Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-03-04T08:00:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BBC"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BBC"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "BBC Vaccines / Immunization"
       ]
     },
     {
@@ -2099,143 +2303,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "PAHO News"
-      ]
-    },
-    {
-      "id": "60fd65e7bbff310b",
-      "title": "ノーミクロン優勢時の重篤な新型コロナウイルス感染症に対する異種3回目ワクチン接種スケジュールの有効性の比較 - The BMJ",
-      "summary": "ノーのオミクロン優勢期間における重篤な covid-19 に対する異種 3 回目の接種スケジュールの有効性の比較 The BMJ",
-      "summary_ai": "ノーのオミクロン優勢期間における重篤な covid-19 に対する異種 3 回目の接種スケジュールの有効性の比較 The BMJ",
-      "title_original": "Comparative effectiveness of heterologous third dose vaccine schedules against severe covid-19 during omicron predominance in No - The BMJ",
-      "summary_original": "Comparative effectiveness of heterologous third dose vaccine schedules against severe covid-19 during omicron predominance in No The BMJ",
-      "summary_ai_original": "Comparative effectiveness of heterologous third dose vaccine schedules against severe covid-19 during omicron predominance in No The BMJ",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XMlUyRHlxQXRaUnFGNjhNcGJqNFVMNlBaQlo2bzNoMHhTSzNsS0dFMVJFamxSOHIyaFJGaE5IVmFYaXNudFo5WFlsSHVYbm9SVDRQUGVHNWJ1aXFrQkJUejdNYzNtVVhuZ191NQ?oc=5",
-      "source": "BMJ",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-03-02T13:26:37+00:00",
-      "topics": [
-        "policy",
-        "research"
-      ],
-      "policy_tags": [
-        "schedule"
-      ],
-      "vaccines": [],
-      "variants": [
-        "omicron"
-      ],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BMJ / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BMJ / London"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "BMJ"
-      ]
-    },
-    {
-      "id": "751bda81cea519d3",
-      "title": "ワクチン接種時の年齢および接種回数別の HPV ワクチンの有効性: 集団ベースの適合症例対照研究のプロトコール - BMJ Open",
-      "summary": "ワクチン接種時の年齢および接種回数別の HPV ワクチンの有効性: 集団ベースの適合症例対照研究のプロトコール BMJ Open",
-      "summary_ai": "ワクチン接種時の年齢および接種回数別の HPV ワクチンの有効性: 集団ベースの適合症例対照研究のプロトコール BMJ Open",
-      "title_original": "Effectiveness of HPV vaccine by age at vaccination and number of doses: protocol for a population- based matched case–control study - BMJ Open",
-      "summary_original": "Effectiveness of HPV vaccine by age at vaccination and number of doses: protocol for a population- based matched case–control study BMJ Open",
-      "summary_ai_original": "Effectiveness of HPV vaccine by age at vaccination and number of doses: protocol for a population- based matched case–control study BMJ Open",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83Z3M2bjBHRE8wbVZNMW9JZlhZTFBReDdCNFF2UlNLX0p2NWcycmRORzRtV2pGOHJON3MyNlNZbU5aRGpuc0I5aHpNSWVxQS1lSVlZRjNjZU92V3htNVpFNllzUWNKN1RFblhUS3F3?oc=5",
-      "source": "BMJ",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-02-28T23:33:11+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "hpv"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BMJ / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BMJ / London"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "BMJ"
       ]
     }
   ]
