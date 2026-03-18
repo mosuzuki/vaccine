@@ -1,9 +1,9 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-03-17T21:51:29.783926+00:00",
-  "item_count": 30,
-  "archive_count": 49,
+  "generated_at": "2026-03-18T21:47:29.045378+00:00",
+  "item_count": 29,
+  "archive_count": 53,
   "days_back": 14,
   "plot_mode_default": "source",
   "feed_status": [
@@ -23,7 +23,7 @@
       "name": "CDC Newsroom",
       "url": "https://tools.cdc.gov/api/v2/resources/media/316422.rss",
       "status": "ok",
-      "seen": 3,
+      "seen": 4,
       "kept": 0
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/biologics/rss.xml",
       "status": "ok",
       "seen": 20,
-      "kept": 1
+      "kept": 2
     },
     {
       "name": "EMA News",
@@ -103,7 +103,7 @@
       "name": "NEJM",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Anejm.org%20(trial%20OR%20effectiveness%20OR%20policy%20OR%20safety)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
@@ -145,78 +145,78 @@
       "name": "medRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Amedrxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 3,
-      "kept": 1
+      "seen": 2,
+      "kept": 0
     },
     {
       "name": "bioRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abiorxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 10,
+      "seen": 8,
       "kept": 2
     },
     {
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 21,
-      "kept": 3
+      "seen": 22,
+      "kept": 2
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 72,
-      "kept": 4
+      "seen": 95,
+      "kept": 3
     },
     {
       "name": "AP Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 100,
+      "seen": 96,
       "kept": 1
     },
     {
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 71,
-      "kept": 2
+      "seen": 58,
+      "kept": 1
     },
     {
       "name": "Financial Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aft.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 6,
+      "seen": 7,
       "kept": 0
     },
     {
       "name": "STAT Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 17,
+      "seen": 19,
       "kept": 2
     },
     {
       "name": "Nature News Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 19,
+      "seen": 22,
       "kept": 1
     },
     {
       "name": "Science Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Ascience.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 6,
-      "kept": 0
+      "seen": 16,
+      "kept": 1
     },
     {
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 39,
-      "kept": 0
+      "seen": 43,
+      "kept": 1
     },
     {
       "name": "Guardian Vaccines / Immunization",
@@ -229,46 +229,184 @@
       "name": "Washington Post Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 18,
+      "seen": 20,
       "kept": 0
     },
     {
       "name": "NHK ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anhk.or.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 0,
+      "seen": 1,
       "kept": 0
     },
     {
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 90,
+      "seen": 66,
       "kept": 0
     },
     {
       "name": "朝日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Aasahi.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 29,
+      "seen": 58,
       "kept": 0
     },
     {
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 28,
+      "seen": 74,
       "kept": 0
     },
     {
       "name": "毎日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 20,
+      "seen": 21,
       "kept": 0
     }
   ],
   "items": [
+    {
+      "id": "8b92ff3f6ecb53c7",
+      "title": "ワークショップ、会議、カンファレンス (生物製剤)",
+      "summary": "一般の人々を教育し、利害関係者の意見を求める目的で、CBER が主催または共催するさまざまな生物製剤に関する会議、カンファレンス、ワークショップに関する情報。",
+      "summary_ai": "FDA の生物製剤評価研究センター (CBER) は、一般の人々を教育し、利害関係者の意見を求めるために、さまざまな生物製剤に関する会議、カンファレンス、ワークショップを後援または共催しています。今後のワークショップ、ミーティング、カンファレンス - FDA CBER OTP Publ",
+      "title_original": "Workshops, Meetings & Conferences (Biologics)",
+      "summary_original": "Information on CBER sponsored or co-sponsored meetings, conferences and workshops about various biologics in order to educate the public and seek the opinion of interested parties.",
+      "summary_ai_original": "FDA's Center for Biologics Evaluation and Research (CBER) sponsors or co-sponsors meetings, conferences and workshops about various biologics in order to educate the public and seek the opinion of interested parties. Upcoming Workshops, Meetings, & Conferences - FDA CBER OTP Publ",
+      "article_text_original": "FDA's Center for Biologics Evaluation and Research (CBER) sponsors or co-sponsors meetings, conferences and workshops about various biologics in order to educate the public and seek the opinion of interested parties. Minutes, transcripts, summaries and/or presentations for CBER sponsored or co-sponsored meetings and workshops are made available as soon after the meeting as possible. Presentations are in chronological order, with the most recent event at the top of the list. Most will be removed after one year. If you want to keep the slides for future reference, they may be downloaded and saved. Slides that have been removed from the web site may be requested by submitting a written request to FDA's Freedom of Information staff. View FDA Archive for past meetings and materials: 2011-2015; 2016-2020. Upcoming Workshops, Meetings, & Conferences - FDA CBER OTP Public Listening Meeting: Leveraging Knowledge for Facilitating the Development and Review of Cell and Gene Therapies September 18, 2025 - FDA Public Meeting: Onshoring Manufacturing of Drugs and Biological Products September 30, 2025 - OTP Town Hall: Gene Therapy Manufacturing CMC and Facility Readiness for BLAs and Post-licensure Changes October 22, 2025 - Approval of New Patch Tests for the Diagnosis of Allergic Contact Dermatitis; Public Workshop October 23, 2025 - Live Biotherapeutic Products to Prevent Necrotizing Enterocolitis in Very Low Birth Weight Infants October 25, 2024 - 2024 Center for Biologics Evaluation and Research (CBER) Science Symposium September 16 - 18, 2024 - Biomarker-driven Drug Development for Allergic Diseases and Asthma; Public Workshop February 22, 2024 - WCBP Symposium 2024 January 23 - 25, 2024 - Workshop for the Identification and Standardization of Methods for Assessing Gene Therapy Product Activity and Comparability and the Evaluation of T-Cell Therapies November 16, 2023 - November 17, 2023 - Warrior Families: Advancing Regenerative Medicine Through Science October 5, 2023 - OTP Town Hall: Nonclinical Assessment of Cell and Gene Therapy Products August 30, 2023 - OTP Town Hall: Cell Therapy Chemistry, Manufacturing, and Controls – June 2023 June 8, 2023 - RDEA Pilot Program 2023 Public Workshop June 7 - 8, 2023 - Regulatory Education for Industry (REdI) Annual Conference 2023 June 5 - 9, 2023 - Methods and Approaches for Capturing Post-Approval Safety and Efficacy Data on Cell and Gene Therapy Products April 27, 2023 - Recombinant Protein-Based COVID-19 Vaccines Workshop April 27, 2023 - OTP Town Hall: Gene Therapy Chemistry, Manufacturing, and Controls – April 2023 April 25, 2023 - Clinical Trials: The Patient Experience APRIL 13, 2023 - Electronic Submission of Adverse Event Reports to FDA Adverse Event Reporting System (FAERS) using International Council for Harmonisation (ICH) E2B(R3) Standards April 4, 2023 - November 7, 2023 - Immune Globulin Hypersensitivity Reactions: Root Causes and Mitigation; Public Workshop March 30, 2023 - FDA CBER Office of Therapeutic Products (OTP) Advanced Manufacturing and Analytical Technologies (AMAT) for Regenerative Medicine Therapies (RMT) Workshop March 14, 2023 - OTAT Town Hall: Clinical Development of Gene Therapy Products for Rare Diseases February 7, 2023 - Assessing Genetic Heterogeneity in the Context of Genome Editing Off-Targets in Gene Therapy Products December 16, 2022 - FDA Clinical Investigator Training Course (CITC) 2022 December 7 - 8, 2022 - OTAT Town Hall: Cell Therapy Chemistry, Manufacturing, and Controls December 7, 2022 - FDA/PQRI Workshop on the Regulatory Framework for Distributed and Point of Care Pharmaceutical Manufacturing: An Opportunity for DM/POC Stakeholder Engagement November 14 - 16, 2022 - FDA CBER OTAT Patient-Focused Drug Development Listening Meeting — Patient Perspectives on Gene Therapy Products November 15, 2022 - Natural History Studies to Support Regenerative Medicine: A How-To Webinar October 27, 2022 - FDA NanoDay Symposium 2022 October 11, 2022 - OTAT Town Hall: Gene Therapy Chemistry, Manufacturing, and Controls September 29, 2022 - 2022 Center for Biologics Evaluation and Research (CBER) Science Symposium September 20-22, 2022 - Regulatory Education for Industry (REdI) Annual Conference 2022 June 6 - 10, 2022 - Annual Patient Engagement & Regenerative Medicine Meeting 2022: An FDA CBER Workshop for Patient Advocates May 24, 2022 - RegenMedEd Webinar: The Critical Role of Patients in Advancing Gene Therapy Treatments for Rare Diseases March 9, 2022 - Regenerative Medicine 101 Webinar: Information for Patients, Caregivers & Advocates November 16, 2021 - Science and Regulation of Bacteriophage Therapy Workshop August 30 - September 1, 2021 - Regulatory Education for Industry (REdI) Annual Conference 2021 July 19 - 23, 2021 - Model Informed Drug Development Approaches for Immunogenicity Assessments June 9, 2021 - Patient Engagement & Regenerative Medicine: An FDA CBER Workshop for Patient Advocates May 6, 2021 Follow CBER Division of Communication and Consumer Affairs Office of Communication, Outreach and Development Center for Biologics Evaluation and Research Food and Drug Administration 10903 New Hampshire Ave WO71-3103 Silver Spring, MD 20993-0002 (800) 835-4709 (240) 402-8010 For Updates on Twitter, follow @fdacber",
+      "link": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/workshops-meetings-conferences-biologics",
+      "source": "FDA Vaccines / Biologics",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 9,
+      "published_at": "2026-03-18T16:04:33+00:00",
+      "topics": [
+        "communication",
+        "policy",
+        "research"
+      ],
+      "policy_tags": [
+        "approval",
+        "communication",
+        "safety"
+      ],
+      "vaccines": [
+        "covid"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "FDA / Silver Spring"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "FDA / Silver Spring"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "FDA Vaccines / Biologics"
+      ]
+    },
+    {
+      "id": "e56cadb536428353",
+      "title": "RFKジュニアのワクチン政策変更に関する判決で医療団体は混乱 - ニューヨーク・タイムズ",
+      "summary": "RFKジュニアのワクチン政策変更に関する判決で、保健団体がニューヨーク・タイムズ紙を争う",
+      "summary_ai": "RFKジュニアのワクチン政策変更に関する判決で、保健団体がニューヨーク・タイムズ紙を争う",
+      "title_original": "Ruling on RFK Jr.’s Vaccine Policy Changes Leaves Health Groups Scrambling - The New York Times",
+      "summary_original": "Ruling on RFK Jr.’s Vaccine Policy Changes Leaves Health Groups Scrambling The New York Times",
+      "summary_ai_original": "Ruling on RFK Jr.’s Vaccine Policy Changes Leaves Health Groups Scrambling The New York Times",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNek8zZ3Nvdnl6Vm54ZXNKQ0RDNk1hQlVQcjhpMm1fbXZQbHBEcWhQTWRFcVltQnZvbWk1Zkw4Y2lFamI2UWZBN0VQZHRWanZRYmhUeDcwcF9pc0N6MXhEZXZCVVpRU2lLb29KTDlNa0NWcXdNNEwxS2xtdEU2NVJPTndtbkFaalRyNHJoZDY3Tng3eGc?oc=5",
+      "source": "New York Times Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-03-17T20:37:13+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "New York Times"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "New York Times"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "New York Times Vaccines / Immunization"
+      ]
+    },
     {
       "id": "82dc289339474657",
       "title": "米国のワクチン政策の現状: 特別版 — 2026 年 3 月 17 日 - CIDRAP",
@@ -332,6 +470,138 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "CIDRAP Vaccines & Immunization"
+      ]
+    },
+    {
+      "id": "ecef33622bcf5f1c",
+      "title": "ケネディ大統領のワクチン政策変更は阻止されたが、いつまで続くのか？ - 科学 | AAAS",
+      "summary": "ケネディ大統領のワクチン政策変更は阻止されたが、いつまで続くのか？科学 | AAAS",
+      "summary_ai": "ケネディ大統領のワクチン政策変更は阻止されたが、いつまで続くのか？",
+      "title_original": "Kennedy’s vaccine policy changes blocked—but for how long? - Science | AAAS",
+      "summary_original": "Kennedy’s vaccine policy changes blocked—but for how long? Science | AAAS",
+      "summary_ai_original": "Kennedy’s vaccine policy changes blocked—but for how long?",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ3FwS1pBdHRPWWRPVWRiX2RFa09LY3Z2TE5RdktGVW1XRDBpaE0yMTVmczNJWVI0ZzdNQkpEVHdNSjRDb2xYQUhVSTk1RThrb0puZzFYX0FtMGduNzVhdDN3QjVhc0dZbWV3QzJOemxTcHJNblctX0pFbmJFY1NxQndHbnZYQ1Y0bUNiNHhLcmtRdk0?oc=5",
+      "source": "Science Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-03-17T17:44:41+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "Science"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "Science"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Science Vaccines / Immunization"
+      ]
+    },
+    {
+      "id": "f22735fb8d8d8eba",
+      "title": "連邦判事、RFKジュニアによるワクチン推奨の全面見直しを阻止 |ロバート・F・ケネディ・ジュニア - ガーディアン紙",
+      "summary": "連邦判事、RFKジュニアによるワクチン推奨の全面見直しを阻止 |ロバート・F・ケネディ・ジュニア ガーディアン紙",
+      "summary_ai": "連邦判事、RFKジュニアによるワクチン推奨の全面見直しを阻止 |ロバート・F・ケネディ・ジュニア ガーディアン紙",
+      "title_original": "Federal judge blocks RFK Jr’s overhaul of vaccine recommendations | Robert F Kennedy Jr - The Guardian",
+      "summary_original": "Federal judge blocks RFK Jr’s overhaul of vaccine recommendations | Robert F Kennedy Jr The Guardian",
+      "summary_ai_original": "Federal judge blocks RFK Jr’s overhaul of vaccine recommendations | Robert F Kennedy Jr The Guardian",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQR19TM1NORlpFV21uOE42SlRwYnpLVTdVS1lzWDNFZ3hfYVdGdG9jQXdNZWt6bDRGaFV1blVMY0VZSzFUbG5tUlJ5RVhNdXo3TFpNZFdhdnN3NXVwdm9xbHBJMlIxRjhtM3hVNzh3dzhhLWh0Yng3bVdycmdnUDl3TXdlZnNwQkR2eVJIaEkwLVJMWXVx?oc=5",
+      "source": "Guardian Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-03-17T17:00:00+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [
+        "recommendation"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "The Guardian"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "The Guardian"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Guardian Vaccines / Immunization"
       ]
     },
     {
@@ -735,73 +1005,6 @@
       ]
     },
     {
-      "id": "f22735fb8d8d8eba",
-      "title": "連邦判事、RFKジュニアによるワクチン推奨の全面見直しを阻止 |ロバート・F・ケネディ・ジュニア - ガーディアン紙",
-      "summary": "連邦判事、RFKジュニアによるワクチン推奨の全面見直しを阻止 |ロバート・F・ケネディ・ジュニア ガーディアン紙",
-      "summary_ai": "連邦判事、RFKジュニアによるワクチン推奨の全面見直しを阻止 |ロバート・F・ケネディ・ジュニア ガーディアン紙",
-      "title_original": "Federal judge blocks RFK Jr’s overhaul of vaccine recommendations | Robert F Kennedy Jr - The Guardian",
-      "summary_original": "Federal judge blocks RFK Jr’s overhaul of vaccine recommendations | Robert F Kennedy Jr The Guardian",
-      "summary_ai_original": "Federal judge blocks RFK Jr’s overhaul of vaccine recommendations | Robert F Kennedy Jr The Guardian",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQR19TM1NORlpFV21uOE42SlRwYnpLVTdVS1lzWDNFZ3hfYVdGdG9jQXdNZWt6bDRGaFV1blVMY0VZSzFUbG5tUlJ5RVhNdXo3TFpNZFdhdnN3NXVwdm9xbHBJMlIxRjhtM3hVNzh3dzhhLWh0Yng3bVdycmdnUDl3TXdlZnNwQkR2eVJIaEkwLVJMWXVx?oc=5",
-      "source": "Guardian Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-03-16T20:37:00+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [
-        "recommendation"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "The Guardian"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "The Guardian"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Guardian Vaccines / Immunization"
-      ]
-    },
-    {
       "id": "b06abcd8c4d4eab0",
       "title": "連邦判事、RFKジュニア保健長官のワクチン政策見直しを阻止 - statnews.com",
       "summary": "連邦判事、RFKジュニア保健長官によるワクチン政策の全面見直しを阻止 statnews.com",
@@ -998,72 +1201,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "BMJ"
-      ]
-    },
-    {
-      "id": "d469f1119213a3fc",
-      "title": "医療従事者における新型コロナウイルス感染症とコレラのワクチン摂取パターン：ヤウンデ・カメルーンにおける横断研究 - medRxiv",
-      "summary": "医療従事者における新型コロナウイルス感染症とコレラのワクチン摂取パターン：ヤウンデとカメルーンの横断研究 medRxiv",
-      "summary_ai": "医療従事者における新型コロナウイルス感染症とコレラのワクチン摂取パターン：ヤウンデとカメルーンの横断研究 medRxiv",
-      "title_original": "Vaccine uptake patterns for COVID-19 and cholera among healthcare workers: a cross-sectional study in Yaounde-Cameroon - medRxiv",
-      "summary_original": "Vaccine uptake patterns for COVID-19 and cholera among healthcare workers: a cross-sectional study in Yaounde-Cameroon medRxiv",
-      "summary_ai_original": "Vaccine uptake patterns for COVID-19 and cholera among healthcare workers: a cross-sectional study in Yaounde-Cameroon medRxiv",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9iUndPeFF1MW5wSjhxODlBRHBrckR1ZGd6R3lsa3NuVjJ0LUdvdUZ0UGZJUXl1RmMzcFpmbUVRNWZORVI4MHlnekZtcjlWTlIxTG01SWp1R2FZZmNzWmVJNDNWanYwQ0N2SnNOQkUwTQ?oc=5",
-      "source": "medRxiv vaccines",
-      "source_type": "preprint",
-      "source_tier": "Tier 3",
-      "source_priority": 7,
-      "published_at": "2026-03-14T02:42:51+00:00",
-      "topics": [
-        "communication",
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "medRxiv"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "medRxiv"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "medRxiv vaccines"
       ]
     },
     {
@@ -1405,71 +1542,6 @@
       ]
     },
     {
-      "id": "007ebd97328e9553",
-      "title": "RFKジュニアのMAHA同盟者はワクチン政策に関して次は何をするのでしょうか? - statnews.com",
-      "summary": "RFKジュニアのMAHA同盟者はワクチン政策に関して次は何をするのでしょうか?統計ニュース.com",
-      "summary_ai": "RFKジュニアのMAHA同盟者はワクチン政策に関して次は何をするのでしょうか?",
-      "title_original": "What’s next for RFK Jr.’s MAHA allies on vaccine policy? - statnews.com",
-      "summary_original": "What’s next for RFK Jr.’s MAHA allies on vaccine policy? statnews.com",
-      "summary_ai_original": "What’s next for RFK Jr.’s MAHA allies on vaccine policy?",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPV1NDX056N0xlRXhMNU5oSWZBYk96QWZUNVIzR2xvdDFaR3kwRnFISGs5UThaeVBPNXYwM0E2eG5Oak1oOGlTWHAwaXFENGdlT3lMQncyc0JNMFVpeGJ1blpoWGc3cWtXaFpWY2dZaGNiY0h0blhJdDR1R3J3OC01Q2JfQk03T2xxM0ZSbUlwYm8yb01XQmJiNm9zNjM1QQ?oc=5",
-      "source": "STAT Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-03-10T16:42:11+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "STAT"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "STAT"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "STAT Vaccines / Immunization"
-      ]
-    },
-    {
       "id": "6cd4fd1e23a0ca37",
       "title": "コンゴ民主共和国の医療従事者におけるMVA-BNワクチンの安全性：前向きコホート研究 - The Lancet",
       "summary": "コンゴ民主共和国の医療従事者におけるMVA-BNワクチンの安全性：前向きコホート研究 The Lancet",
@@ -1536,6 +1608,71 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "Lancet Infectious Diseases"
+      ]
+    },
+    {
+      "id": "007ebd97328e9553",
+      "title": "RFKジュニアのMAHA同盟者はワクチン政策に関して次は何をするのでしょうか? - statnews.com",
+      "summary": "RFKジュニアのMAHA同盟者はワクチン政策に関して次は何をするのでしょうか?統計ニュース.com",
+      "summary_ai": "RFKジュニアのMAHA同盟者はワクチン政策に関して次は何をするのでしょうか?",
+      "title_original": "What’s next for RFK Jr.’s MAHA allies on vaccine policy? - statnews.com",
+      "summary_original": "What’s next for RFK Jr.’s MAHA allies on vaccine policy? statnews.com",
+      "summary_ai_original": "What’s next for RFK Jr.’s MAHA allies on vaccine policy?",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPV1NDX056N0xlRXhMNU5oSWZBYk96QWZUNVIzR2xvdDFaR3kwRnFISGs5UThaeVBPNXYwM0E2eG5Oak1oOGlTWHAwaXFENGdlT3lMQncyc0JNMFVpeGJ1blpoWGc3cWtXaFpWY2dZaGNiY0h0blhJdDR1R3J3OC01Q2JfQk03T2xxM0ZSbUlwYm8yb01XQmJiNm9zNjM1QQ?oc=5",
+      "source": "STAT Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-03-10T07:00:00+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "STAT"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "STAT"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "STAT Vaccines / Immunization"
       ]
     },
     {
@@ -1810,82 +1947,13 @@
       ]
     },
     {
-      "id": "06f8d58e3d33443a",
-      "title": "長期療養入居者におけるオミクロン変異体に対する新型コロナウイルス感染症（Covid-19）mRNAワクチンの4回目の投与の有効性 - BMJ",
-      "summary": "長期療養入居者におけるオミクロン変異体に対する新型コロナウイルス感染症（Covid-19）mRNAワクチンの4回目の投与の有効性 The BMJ",
-      "summary_ai": "長期療養入居者におけるオミクロン変異体に対する新型コロナウイルス感染症（Covid-19）mRNAワクチンの4回目の投与の有効性 The BMJ",
-      "title_original": "Effectiveness of a fourth dose of covid-19 mRNA vaccine against the omicron variant among long term care residents - The BMJ",
-      "summary_original": "Effectiveness of a fourth dose of covid-19 mRNA vaccine against the omicron variant among long term care residents The BMJ",
-      "summary_ai_original": "Effectiveness of a fourth dose of covid-19 mRNA vaccine against the omicron variant among long term care residents The BMJ",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13UVpuZWJobDVsQlUtVFNrVU9yUDNtODVUOEFjMTVpMlhHU3FsRkZ1SHJjclpMSlBzbzFIcGxaamJHRW0wcTFRVndWQ0dDOUo0VlZhT1Fmak5FQ2t3THd4QkZlcVcySmV1Y2V2SA?oc=5",
-      "source": "BMJ",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-03-07T01:52:36+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "covid"
-      ],
-      "variants": [
-        "omicron"
-      ],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BMJ / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BMJ / London"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "BMJ"
-      ]
-    },
-    {
-      "id": "c33f5af7d5f766e2",
-      "title": "ニルセビマブ、母親用 RSV ワクチン、高齢者用 RSV ワクチンの現実世界の有効性と安全性: 生きた系統的研究 - Thorax Journal",
-      "summary": "ニルセビマブ、母親用 RSV ワクチン、高齢者用 RSV ワクチンの現実世界の有効性と安全性: 生きた体系的な r Thorax Journal",
-      "summary_ai": "ニルセビマブ、母親用 RSV ワクチン、高齢者用 RSV ワクチンの現実世界の有効性と安全性: 生きた体系的な r Thorax Journal",
-      "title_original": "Real-world effectiveness and safety of nirsevimab, RSV maternal vaccine and RSV vaccines for older adults: a living systematic r - Thorax Journal",
-      "summary_original": "Real-world effectiveness and safety of nirsevimab, RSV maternal vaccine and RSV vaccines for older adults: a living systematic r Thorax Journal",
-      "summary_ai_original": "Real-world effectiveness and safety of nirsevimab, RSV maternal vaccine and RSV vaccines for older adults: a living systematic r Thorax Journal",
+      "id": "2267202e464b59bc",
+      "title": "ニルセビマブ、母親用 RSV ワクチン、高齢者用 RSV ワクチンの現実世界の有効性と安全性: 生きた系統的研究 - thorax.bmj.com",
+      "summary": "ニルセビマブ、母体用 RSV ワクチン、高齢者用 RSV ワクチンの現実世界の有効性と安全性: 生きた体系的な r thorax.bmj.com",
+      "summary_ai": "ニルセビマブ、母体用 RSV ワクチン、高齢者用 RSV ワクチンの現実世界の有効性と安全性: 生きた体系的な r thorax.bmj.com",
+      "title_original": "Real-world effectiveness and safety of nirsevimab, RSV maternal vaccine and RSV vaccines for older adults: a living systematic r - thorax.bmj.com",
+      "summary_original": "Real-world effectiveness and safety of nirsevimab, RSV maternal vaccine and RSV vaccines for older adults: a living systematic r thorax.bmj.com",
+      "summary_ai_original": "Real-world effectiveness and safety of nirsevimab, RSV maternal vaccine and RSV vaccines for older adults: a living systematic r thorax.bmj.com",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16b1dwUEg0SnlPLTQxS3NzQUlZbHlRZVFwME03N2JDbDhEdUdUbFROS2VjcVE1SVdsZFhDUEtONXFOLVBvN3JLcHM3ZDVETXRxUENRVXQ5WFdXcllpcTNEbnFwOExocmhOR29N?oc=5",
       "source": "BMJ",
@@ -2015,6 +2083,71 @@
       ]
     },
     {
+      "id": "b685b896d6eceb0e",
+      "title": "男性と性行為をした若い男性の肛門HPV-16およびHPV-18感染に対するヒトパピローマウイルス（HPV）ワクチンの有効性 - BMJ Open",
+      "summary": "BMJ と性行為をした若い男性の肛門 HPV-16 および HPV-18 感染に対するヒトパピローマウイルス (HPV) ワクチンの有効性 Open",
+      "summary_ai": "BMJ と性行為をした若い男性の肛門 HPV-16 および HPV-18 感染に対するヒトパピローマウイルス (HPV) ワクチンの有効性 Open",
+      "title_original": "Human papillomavirus (HPV) vaccine effectiveness against anal HPV- 16 and HPV- 18 infections among young men who have sex with m - BMJ Open",
+      "summary_original": "Human papillomavirus (HPV) vaccine effectiveness against anal HPV- 16 and HPV- 18 infections among young men who have sex with m BMJ Open",
+      "summary_ai_original": "Human papillomavirus (HPV) vaccine effectiveness against anal HPV- 16 and HPV- 18 infections among young men who have sex with m BMJ Open",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9FY1A2U1FFSHlCNl96a3lub3ZSUHpVcGhNczBhU1hic3ZUZXlReW1NVnNxVlhzRUpJQVpTUHp6TFU1M2RLM0dudGwzM0RnaGtXSDY3RGhpMm53b1RDLVJ4LXhuSTNTM3dBNlliYUhR?oc=5",
+      "source": "BMJ",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-03-05T19:11:47+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BMJ / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BMJ / London"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "BMJ"
+      ]
+    },
+    {
       "id": "349129134579785c",
       "title": "気候変動下におけるザンビアにおけるマラリアワクチンの州別階層化と資本加重の費用対効果 - BMJ Public Health",
       "summary": "気候変動下におけるザンビアにおけるマラリアワクチンの州の階層化と資本加重の費用対効果 BMJ Public Health",
@@ -2079,201 +2212,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "BMJ"
-      ]
-    },
-    {
-      "id": "d9f382ea80943a77",
-      "title": "米国のワクチン政策の現状 — 2026 年 3 月 5 日 - CIDRAP",
-      "summary": "米国のワクチン政策の現状 — 2026 年 3 月 5 日 CIDRAP",
-      "summary_ai": "米国のワクチン政策の現状 — 2026 年 3 月 5 日 CIDRAP",
-      "title_original": "The State of US Vaccine Policy — Mar 5, 2026 - CIDRAP",
-      "summary_original": "The State of US Vaccine Policy — Mar 5, 2026 CIDRAP",
-      "summary_ai_original": "The State of US Vaccine Policy — Mar 5, 2026 CIDRAP",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRjZHU3JoNTZFWEk2bEhEWEtvU0VqZ0JEMHlGUVdpZGZvem1ibWVqUW1XUW96blFZWVlxS1hrMXhsbkpzVU5RMlRucTduVFFDemtMMkJXTW83T2JCaXpWTDViYy1UVnBOYU5hbThiZENsOEhZcWJ4cXgyS2pjRkdpRjFLSERoWjQ?oc=5",
-      "source": "CIDRAP Vaccines & Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 8,
-      "published_at": "2026-03-05T08:00:00+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "CIDRAP / Minnesota"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "CIDRAP / Minnesota"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "CIDRAP Vaccines & Immunization"
-      ]
-    },
-    {
-      "id": "41a125ab7c860957",
-      "title": "ＲＦＫジュニア氏にはワクチン政策を再構築する「審査不能」権限があると司法省弁護士が判事に告げる - ロイター",
-      "summary": "ＲＦＫジュニア氏にはワクチン政策を再編する「審査不能」権限がある、司法省弁護士が判事に告げる ロイター",
-      "summary_ai": "ＲＦＫジュニア氏にはワクチン政策を再編する「審査不能」権限がある、司法省弁護士が判事に告げる ロイター",
-      "title_original": "RFK Jr has 'unreviewable' authority to reshape vaccine policy, DOJ lawyer tells judge - Reuters",
-      "summary_original": "RFK Jr has 'unreviewable' authority to reshape vaccine policy, DOJ lawyer tells judge Reuters",
-      "summary_ai_original": "RFK Jr has 'unreviewable' authority to reshape vaccine policy, DOJ lawyer tells judge Reuters",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNN25oNERjOWZTY3BiM3ZnVE5GNkJpa2xTM0ZldTA4TFBMa1Y0ay10UFdwQkpRZm1uY3p2c24wMk1pcTJUcGtmMVZqS2dYUlBjS0hfSktEeUtJdXF5a2NQVXZtY19sSzRtTW9PREN0VWd5bmE0TlJKVmplRTZ3b3pRNV93Z2dQUG5BUzhBcXBjVFIwZTZTdEJVWDZJalIyRG42NEVRdHZKeEIwNFA4SGcwSnBsSjZrT0RuYVJCdm9kNnBCVWxwdllLbkxWOU0?oc=5",
-      "source": "Reuters Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-03-04T08:00:00+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "Reuters"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "Reuters"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Reuters Vaccines / Immunization"
-      ]
-    },
-    {
-      "id": "5ef8a4710c348d44",
-      "title": "ブラッドフォード末期がん患者、ワクチン治験での役割を誇り - BBC",
-      "summary": "ブラッドフォード末期がん患者、ワクチン治験での役割を誇り BBC",
-      "summary_ai": "ブラッドフォード末期がん患者、ワクチン治験での役割を誇り BBC",
-      "title_original": "Bradford terminal cancer patient proud of role in vaccine trial - BBC",
-      "summary_original": "Bradford terminal cancer patient proud of role in vaccine trial BBC",
-      "summary_ai_original": "Bradford terminal cancer patient proud of role in vaccine trial BBC",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FXzc1SGltQTJtelFUMGk4aDRQTTBIZWdDVldmNzJxSmlEN1BNZGlvWmdpenlQRlMyYUVIM3BORmtpX0pEUHA2cGZ3dWtuekFMVkFhcU91OWZnQQ?oc=5",
-      "source": "BBC Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-03-04T08:00:00+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BBC"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BBC"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "BBC Vaccines / Immunization"
       ]
     }
   ]
