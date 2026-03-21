@@ -1,9 +1,9 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-03-20T21:41:44.666469+00:00",
-  "item_count": 30,
-  "archive_count": 61,
+  "generated_at": "2026-03-21T21:36:52.251342+00:00",
+  "item_count": 32,
+  "archive_count": 62,
   "days_back": 14,
   "plot_mode_default": "source",
   "feed_status": [
@@ -82,7 +82,7 @@
       "name": "PAHO News",
       "url": "https://www.paho.org/en/rss.xml",
       "status": "ok",
-      "seen": 7,
+      "seen": 6,
       "kept": 1
     },
     {
@@ -111,7 +111,7 @@
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abmj.com%20(policy%20OR%20trial%20OR%20effectiveness%20OR%20communication)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
       "seen": 9,
-      "kept": 5
+      "kept": 4
     },
     {
       "name": "Vaccine journal",
@@ -145,91 +145,91 @@
       "name": "medRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Amedrxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
-      "kept": 1
+      "seen": 4,
+      "kept": 4
     },
     {
       "name": "bioRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abiorxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 6,
-      "kept": 2
+      "seen": 3,
+      "kept": 0
     },
     {
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
       "seen": 26,
-      "kept": 3
+      "kept": 4
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 98,
-      "kept": 2
+      "seen": 75,
+      "kept": 4
     },
     {
       "name": "AP Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 13,
+      "seen": 14,
       "kept": 1
     },
     {
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 72,
+      "seen": 66,
       "kept": 1
     },
     {
       "name": "Financial Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aft.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 5,
+      "seen": 7,
       "kept": 0
     },
     {
       "name": "STAT Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 23,
+      "seen": 26,
       "kept": 3
     },
     {
       "name": "Nature News Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 16,
+      "seen": 15,
       "kept": 1
     },
     {
       "name": "Science Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Ascience.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 29,
-      "kept": 1
+      "seen": 23,
+      "kept": 0
     },
     {
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 45,
+      "seen": 35,
       "kept": 1
     },
     {
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 98,
-      "kept": 4
+      "seen": 100,
+      "kept": 3
     },
     {
       "name": "Washington Post Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 12,
+      "seen": 11,
       "kept": 0
     },
     {
@@ -243,28 +243,28 @@
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 23,
+      "seen": 15,
       "kept": 0
     },
     {
       "name": "朝日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Aasahi.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 37,
+      "seen": 31,
       "kept": 0
     },
     {
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 40,
+      "seen": 33,
       "kept": 0
     },
     {
       "name": "毎日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 8,
+      "seen": 11,
       "kept": 0
     }
   ],
@@ -468,6 +468,73 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "Guardian Vaccines / Immunization"
+      ]
+    },
+    {
+      "id": "2d5032c78f2d99d2",
+      "title": "デンマークの大学、物議を醸すギニアビサウでのB型肝炎ワクチン研究を保留 - CIDRAP",
+      "summary": "デンマークの大学、物議を醸しているギニアビサウでのB型肝炎ワクチン研究を保留 CIDRAP",
+      "summary_ai": "デンマークの大学、物議を醸しているギニアビサウでのB型肝炎ワクチン研究を保留 CIDRAP",
+      "title_original": "Danish university places hold on controversial hepatitis B vaccine study in Guinea-Bissau - CIDRAP",
+      "summary_original": "Danish university places hold on controversial hepatitis B vaccine study in Guinea-Bissau CIDRAP",
+      "summary_ai_original": "Danish university places hold on controversial hepatitis B vaccine study in Guinea-Bissau CIDRAP",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSDBEYmZjX1R4Zlc2OF93akxWQ0lBeHNOc0Voa0RpSnZRTGVDdGFiV01KclZtRzVvTUhZNFczNllrSHNPRTdHQnNCVlBCT0c1RmlFSDdLT1J4aF9DaDZnOTVnNU93Q0ZnU25BTzZxYndiWnZWNjVNMlkyR2tnbzFMVThtOVFkTXQ2Uno1Ni0td3hvWS1ZZ1ZWcEEtU3NrUzJKd2ItS3BPbzUxTlZ3d0MybzFPRWZHUUNmY0xWYQ?oc=5",
+      "source": "CIDRAP Vaccines & Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 8,
+      "published_at": "2026-03-19T19:44:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "hepatitis"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "CIDRAP / Minnesota"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "CIDRAP / Minnesota"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "CIDRAP Vaccines & Immunization"
       ]
     },
     {
@@ -875,71 +942,6 @@
       ]
     },
     {
-      "id": "ecef33622bcf5f1c",
-      "title": "ケネディ大統領のワクチン政策変更は阻止されたが、いつまで続くのか？ - 科学 | AAAS",
-      "summary": "ケネディ大統領のワクチン政策変更は阻止されたが、いつまで続くのか？科学 | AAAS",
-      "summary_ai": "ケネディ大統領のワクチン政策変更は阻止されたが、いつまで続くのか？",
-      "title_original": "Kennedy’s vaccine policy changes blocked—but for how long? - Science | AAAS",
-      "summary_original": "Kennedy’s vaccine policy changes blocked—but for how long? Science | AAAS",
-      "summary_ai_original": "Kennedy’s vaccine policy changes blocked—but for how long?",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ3FwS1pBdHRPWWRPVWRiX2RFa09LY3Z2TE5RdktGVW1XRDBpaE0yMTVmczNJWVI0ZzdNQkpEVHdNSjRDb2xYQUhVSTk1RThrb0puZzFYX0FtMGduNzVhdDN3QjVhc0dZbWV3QzJOemxTcHJNblctX0pFbmJFY1NxQndHbnZYQ1Y0bUNiNHhLcmtRdk0?oc=5",
-      "source": "Science Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-03-17T18:05:00+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "Science"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "Science"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Science Vaccines / Immunization"
-      ]
-    },
-    {
       "id": "f22735fb8d8d8eba",
       "title": "連邦判事、RFKジュニアによるワクチン推奨の全面見直しを阻止 |ロバート・F・ケネディ・ジュニア - ガーディアン紙",
       "summary": "連邦判事、RFKジュニアによるワクチン推奨の全面見直しを阻止 |ロバート・F・ケネディ・ジュニア ガーディアン紙",
@@ -1142,6 +1144,71 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "FDA Vaccines / Biologics"
+      ]
+    },
+    {
+      "id": "ea4da49d4b46fdf6",
+      "title": "米国のワクチン政策再編に向けたRFKジュニアの入札を判事が阻止 - ロイター",
+      "summary": "米ワクチン政策再編に向けRFKジュニアの入札を判事が阻止 Reuters",
+      "summary_ai": "米ワクチン政策再編に向けRFKジュニアの入札を判事が阻止 Reuters",
+      "title_original": "Judge blocks RFK Jr bid to reshape US vaccine policy - Reuters",
+      "summary_original": "Judge blocks RFK Jr bid to reshape US vaccine policy Reuters",
+      "summary_ai_original": "Judge blocks RFK Jr bid to reshape US vaccine policy Reuters",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHeUdhelVsbUw1QkVnVkxuXzk3MDVYeEtwRnNYakJnU3RPNHBySVp0UWczM3hFOXp0WVJ5eUhXd2o5SExHYVYzOTgzN2l0LXExdmNmVHZfNk1ENE0xN3J2RWMxNEM3YmM?oc=5",
+      "source": "Reuters Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-03-17T04:19:40+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Reuters"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Reuters"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Reuters Vaccines / Immunization"
       ]
     },
     {
@@ -1543,43 +1610,46 @@
       ]
     },
     {
-      "id": "6a4fcd8803c16621",
-      "title": "CDC長官がワクチン政策をめぐって解任され、上級科学者4人が辞任 - BMJ",
-      "summary": "CDC長官がワクチン政策をめぐって解任、上級科学者4人が辞任 BMJ",
-      "summary_ai": "CDC長官がワクチン政策をめぐって解任、上級科学者4人が辞任 BMJ",
-      "title_original": "CDC director is forced out over vaccine policy, and four senior scientists resign - The BMJ",
-      "summary_original": "CDC director is forced out over vaccine policy, and four senior scientists resign The BMJ",
-      "summary_ai_original": "CDC director is forced out over vaccine policy, and four senior scientists resign The BMJ",
+      "id": "d979931ec7970b8b",
+      "title": "多様な環境における腸チフス結合型ワクチンスケジュールの影響と費用対効果の評価 - medRxiv",
+      "summary": "多様な設定における腸チフス結合型ワクチンスケジュールの影響と費用対効果の評価 medRxiv",
+      "summary_ai": "多様な設定における腸チフス結合型ワクチンスケジュールの影響と費用対効果の評価 medRxiv",
+      "title_original": "Evaluating the Impact and Cost-Effectiveness of Typhoid Conjugate Vaccine Schedules Across Diverse Settings - medRxiv",
+      "summary_original": "Evaluating the Impact and Cost-Effectiveness of Typhoid Conjugate Vaccine Schedules Across Diverse Settings medRxiv",
+      "summary_ai_original": "Evaluating the Impact and Cost-Effectiveness of Typhoid Conjugate Vaccine Schedules Across Diverse Settings medRxiv",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zcEdRNnZFUXQwQmdXUm9nUFJiak1BbHlWQlZvV2ZqczZSY0dlc1VORlFYdHBnQ1hFaEp6R0VON2RaYUFKQ0tYVWoxUGZEQVg0YVFva3YzNnBOT2hxdm13?oc=5",
-      "source": "BMJ",
-      "source_type": "academic",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBuMU1IVF9DZkhPYkxqNnhnYjhGN3ROWExyeFMtaUIwMEt5WnlwUXM0Um9PbkZMTXF3YXhFNWMwbHBSRXpXWGYzemhabFZmb050YjZySWx0RXg3TGZKeVpXaERhaXZiSGZoYzNnUHJNZVYwak5UN0tqTVBNYw?oc=5",
+      "source": "medRxiv vaccines",
+      "source_type": "preprint",
       "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-03-15T19:51:14+00:00",
+      "source_priority": 7,
+      "published_at": "2026-03-14T07:00:00+00:00",
       "topics": [
-        "policy"
+        "policy",
+        "research"
       ],
-      "policy_tags": [],
+      "policy_tags": [
+        "schedule"
+      ],
       "vaccines": [],
       "variants": [],
       "target_country": "不明",
       "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BMJ / London"
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "medRxiv"
       },
       "plot": {
         "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BMJ / London"
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "medRxiv"
         },
         "target": {
           "key": "unknown",
@@ -1604,31 +1674,29 @@
       "lng": 0.0,
       "duplicate_count": 1,
       "duplicate_sources": [
-        "BMJ"
+        "medRxiv vaccines"
       ]
     },
     {
-      "id": "d979931ec7970b8b",
-      "title": "多様な環境における腸チフス結合型ワクチンスケジュールの影響と費用対効果の評価 - medRxiv",
-      "summary": "多様な設定における腸チフス結合型ワクチンスケジュールの影響と費用対効果の評価 medRxiv",
-      "summary_ai": "多様な設定における腸チフス結合型ワクチンスケジュールの影響と費用対効果の評価 medRxiv",
-      "title_original": "Evaluating the Impact and Cost-Effectiveness of Typhoid Conjugate Vaccine Schedules Across Diverse Settings - medRxiv",
-      "summary_original": "Evaluating the Impact and Cost-Effectiveness of Typhoid Conjugate Vaccine Schedules Across Diverse Settings medRxiv",
-      "summary_ai_original": "Evaluating the Impact and Cost-Effectiveness of Typhoid Conjugate Vaccine Schedules Across Diverse Settings medRxiv",
+      "id": "d469f1119213a3fc",
+      "title": "医療従事者における新型コロナウイルス感染症とコレラのワクチン摂取パターン：ヤウンデ・カメルーンにおける横断研究 - medRxiv",
+      "summary": "医療従事者における新型コロナウイルス感染症とコレラのワクチン摂取パターン：ヤウンデとカメルーンの横断研究 medRxiv",
+      "summary_ai": "医療従事者における新型コロナウイルス感染症とコレラのワクチン摂取パターン：ヤウンデとカメルーンの横断研究 medRxiv",
+      "title_original": "Vaccine uptake patterns for COVID-19 and cholera among healthcare workers: a cross-sectional study in Yaounde-Cameroon - medRxiv",
+      "summary_original": "Vaccine uptake patterns for COVID-19 and cholera among healthcare workers: a cross-sectional study in Yaounde-Cameroon medRxiv",
+      "summary_ai_original": "Vaccine uptake patterns for COVID-19 and cholera among healthcare workers: a cross-sectional study in Yaounde-Cameroon medRxiv",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBuMU1IVF9DZkhPYkxqNnhnYjhGN3ROWExyeFMtaUIwMEt5WnlwUXM0Um9PbkZMTXF3YXhFNWMwbHBSRXpXWGYzemhabFZmb050YjZySWx0RXg3TGZKeVpXaERhaXZiSGZoYzNnUHJNZVYwak5UN0tqTVBNYw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9iUndPeFF1MW5wSjhxODlBRHBrckR1ZGd6R3lsa3NuVjJ0LUdvdUZ0UGZJUXl1RmMzcFpmbUVRNWZORVI4MHlnekZtcjlWTlIxTG01SWp1R2FZZmNzWmVJNDNWanYwQ0N2SnNOQkUwTQ?oc=5",
       "source": "medRxiv vaccines",
       "source_type": "preprint",
       "source_tier": "Tier 3",
       "source_priority": 7,
-      "published_at": "2026-03-14T07:00:00+00:00",
+      "published_at": "2026-03-14T02:42:51+00:00",
       "topics": [
-        "policy",
+        "communication",
         "research"
       ],
-      "policy_tags": [
-        "schedule"
-      ],
+      "policy_tags": [],
       "vaccines": [],
       "variants": [],
       "target_country": "不明",
@@ -1746,6 +1814,142 @@
       ]
     },
     {
+      "id": "18b680c81f6f0a21",
+      "title": "ＧＳＫ、ＲＳＶワクチンの使用拡大で米食品医薬品局の承認を取得 - ロイター",
+      "summary": "ＧＳＫ、ＲＳＶワクチンの使用拡大で米食品医薬品局の承認を得る ロイター",
+      "summary_ai": "ＧＳＫ、ＲＳＶワクチンの使用拡大で米食品医薬品局の承認を得る ロイター",
+      "title_original": "GSK gets US FDA approval for expanded use of RSV vaccine - Reuters",
+      "summary_original": "GSK gets US FDA approval for expanded use of RSV vaccine Reuters",
+      "summary_ai_original": "GSK gets US FDA approval for expanded use of RSV vaccine Reuters",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNa3dESTA0MXRkd1VSYVQtLXc3RVo5UkhkemdSU3VoLW9FajJTTkZQcm1aRm9BMmxQcHQ2M1gxLWVKT3FOeUJlTkRFeGhCdnNfMC1lM0pvUUE2cGZFNlZTTm83QXZORk5XLUpjdmxldWk4Q2VNUFFzZDhZTXZlcHZ6aHQxR2FTdmoxRldJUE5PUy01Si1rLWtKbDVuRVVJWWJhU1U2UlJpS19oNlhMNHNKMy0zaWdfb1dhUm5CVjRB?oc=5",
+      "source": "Reuters Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-03-13T07:00:00+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [
+        "approval"
+      ],
+      "vaccines": [
+        "rsv"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Reuters"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Reuters"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Reuters Vaccines / Immunization"
+      ]
+    },
+    {
+      "id": "60849c4d46cd01ad",
+      "title": "病気 X の発生時のワクチン治験の加速: リング治験デザインに対する病原体の超蔓延の影響 - medRxiv",
+      "summary": "病気 X の発生時のワクチン治験の加速: 病原体の超蔓延がリング治験デザインに及ぼす影響 medRxiv",
+      "summary_ai": "病気 X の発生時のワクチン治験の加速: 病原体の超蔓延がリング治験デザインに及ぼす影響 medRxiv",
+      "title_original": "Accelerating vaccine trials during an outbreak of Disease-X: the effect of pathogen super-spreading on ring-trial design - medRxiv",
+      "summary_original": "Accelerating vaccine trials during an outbreak of Disease-X: the effect of pathogen super-spreading on ring-trial design medRxiv",
+      "summary_ai_original": "Accelerating vaccine trials during an outbreak of Disease-X: the effect of pathogen super-spreading on ring-trial design medRxiv",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9BOWVtMTBlWjhEbXdsd192eTJLUXpaSmp6aUVyQWpMTnhBb3ZXT0lWOVp5NXJ4UmZnZ2Q5RWtUTmpZdjdFWE96N3JESVo5M3d1TFZNVXJHaHhJMFhsSTR1bzktVlZKQ3d2QUtQcHdmbURnWk54ODl2RjRmcw?oc=5",
+      "source": "medRxiv vaccines",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-03-12T22:09:51+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [
+        "outbreak_response"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "medRxiv"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "medRxiv"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "medRxiv vaccines"
+      ]
+    },
+    {
       "id": "bb9e42d31ccb51f9",
       "title": "健康な成人を対象としたニパウイルスに対する構造に基づくmRNAワクチン：第1相試験 - Nature",
       "summary": "健康な成人を対象としたニパウイルスに対する構造に基づくmRNAワクチン：第1相試験 Nature",
@@ -1759,7 +1963,7 @@
       "source_type": "media",
       "source_tier": "Tier 2",
       "source_priority": 7,
-      "published_at": "2026-03-12T10:18:40+00:00",
+      "published_at": "2026-03-12T07:00:00+00:00",
       "topics": [
         "research"
       ],
@@ -1810,71 +2014,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "Nature News Vaccines / Immunization"
-      ]
-    },
-    {
-      "id": "bff7dba698a0dd64",
-      "title": "専門家らはアフリカでの「非倫理的」ワクチン治験はRFKジュニアのもとでの米国研究の「原型」であると懸念 - ガーディアン紙",
-      "summary": "専門家らはアフリカでの「非倫理的」ワクチン治験はRFKジュニアの下での米国研究の「原型」であると懸念 ガーディアン紙",
-      "summary_ai": "専門家らはアフリカでの「非倫理的」ワクチン治験はRFKジュニアの下での米国研究の「原型」であると懸念 ガーディアン紙",
-      "title_original": "Experts fear ‘unethical’ vaccine trial in Africa is ‘prototype’ for US studies under RFK Jr - The Guardian",
-      "summary_original": "Experts fear ‘unethical’ vaccine trial in Africa is ‘prototype’ for US studies under RFK Jr The Guardian",
-      "summary_ai_original": "Experts fear ‘unethical’ vaccine trial in Africa is ‘prototype’ for US studies under RFK Jr The Guardian",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeGQ5MTJZanNqTDBaZlZFN3ZIOThLTUlWS19XZlUtdW85WEZtYjdKdkx1VUE3aldLTWNlNHlUamJrSnRZVGoxRmRtWUNkU1NUUnRkNGg5WnFjbmJSX1hYa2xnMDZJTGh6bEFLZm1DVXR6bGxnY1JHeGl5X0pvbU02ZlVWaTJVckE?oc=5",
-      "source": "Guardian Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-03-11T07:00:00+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "The Guardian"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "The Guardian"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Guardian Vaccines / Immunization"
       ]
     },
     {
@@ -2151,6 +2290,73 @@
       ]
     },
     {
+      "id": "8778ab30e443a00d",
+      "title": "1 標準と比較した組換えインフルエンザワクチンの費用対効果 - medRxiv",
+      "summary": "1 標準的な medRxiv と比較した組換えインフルエンザワクチンの費用対効果",
+      "summary_ai": "1 標準的な medRxiv と比較した組換えインフルエンザワクチンの費用対効果",
+      "title_original": "1 Cost-effectiveness of recombinant influenza vaccine compared with standard - medRxiv",
+      "summary_original": "1 Cost-effectiveness of recombinant influenza vaccine compared with standard medRxiv",
+      "summary_ai_original": "1 Cost-effectiveness of recombinant influenza vaccine compared with standard medRxiv",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE92cnhGRlE5UlIySEgzTmVTZ0M2dWNTbWZlRlN1TmZrMFIxWVRPa1gxbkpaY0MzMWpVZDh2SEdFRjdyTHhWSmRvMldLVlkxT2otdG9weldWM0xxVjV0RFBQdG42dW9QbUNNR2hCU0tkOTdxVE9CMWhsWnU4dw?oc=5",
+      "source": "medRxiv vaccines",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-03-10T00:20:20+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "influenza"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "medRxiv"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "medRxiv"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "medRxiv vaccines"
+      ]
+    },
+    {
       "id": "14f1566d19187dec",
       "title": "ワクチン政策と国民の信頼に関する物語を再考する - BMJ",
       "summary": "ワクチン政策と国民の信頼に関する物語を再考する The BMJ",
@@ -2213,73 +2419,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "BMJ"
-      ]
-    },
-    {
-      "id": "d81e9b34ba6ba488",
-      "title": "ダーティマウスはヒトで観察されたmRNAワクチン免疫原性の主要な特徴をよりよく再現する - bioRxiv",
-      "summary": "ダーティマウスはヒトで観察された mRNA ワクチンの免疫原性の主要な特徴をよりよく再現する bioRxiv",
-      "summary_ai": "ダーティマウスはヒトで観察された mRNA ワクチンの免疫原性の主要な特徴をよりよく再現する bioRxiv",
-      "title_original": "Dirty mice better recapitulate key features of mRNA vaccine immunogenicity observed in humans - bioRxiv",
-      "summary_original": "Dirty mice better recapitulate key features of mRNA vaccine immunogenicity observed in humans bioRxiv",
-      "summary_ai_original": "Dirty mice better recapitulate key features of mRNA vaccine immunogenicity observed in humans bioRxiv",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13alYwRGRIOTNHa2ZoMnhIV041emNMMktvZlltaXppVHFQVVFmRmxFczN2REpmbGhtYUxBYnUwMGQ1MU15ZEJpb0x4NUlLeDk3bHpyMldFUTY5aVBSVDlKUHYtZ3JEamo5X2NUQw?oc=5",
-      "source": "bioRxiv vaccines",
-      "source_type": "preprint",
-      "source_tier": "Tier 3",
-      "source_priority": 7,
-      "published_at": "2026-03-07T08:00:00+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "covid"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "bioRxiv"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "bioRxiv"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 2,
-      "duplicate_sources": [
-        "bioRxiv vaccines"
       ]
     }
   ]
