@@ -1,10 +1,150 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-03-21T21:36:52.251342+00:00",
-  "archive_count": 62,
+  "generated_at": "2026-03-22T21:37:47.251934+00:00",
+  "archive_count": 65,
   "days_back": 14,
   "items": [
+    {
+      "id": "749b91e9242d3a3d",
+      "title": "非ランダム化研究における新型コロナウイルス感染症ワクチンの推定有効性に影響を与える要因 - BMJ Evidence-Based Medicine",
+      "summary": "非ランダム化研究における新型コロナウイルス感染症ワクチンの推定有効性に影響を与える要因 BMJ Evidence-Based Medicine",
+      "summary_ai": "非ランダム化研究における新型コロナウイルス感染症ワクチンの推定有効性に影響を与える要因 BMJ Evidence-Based Medicine",
+      "title_original": "Factors influencing estimated effectiveness of COVID-19 vaccines in non-randomised studies - BMJ Evidence-Based Medicine",
+      "summary_original": "Factors influencing estimated effectiveness of COVID-19 vaccines in non-randomised studies BMJ Evidence-Based Medicine",
+      "summary_ai_original": "Factors influencing estimated effectiveness of COVID-19 vaccines in non-randomised studies BMJ Evidence-Based Medicine",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Jb3Vqalh5RlNDN1NPMXNwZ0VOMXJqQ1lkcWFnVmhvSmNneW5RTEVXczU5SDBoYjZtY0lEd3lMaVpZa1BTWnBHZVRFZExFVUpFUW0tZWVpelBrdDRMSDBtSQ?oc=5",
+      "source": "BMJ",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-03-22T11:09:14+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "covid"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BMJ / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BMJ / London"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "BMJ"
+      ],
+      "first_seen_at": "2026-03-22T11:09:14+00:00",
+      "last_seen_at": "2026-03-22T21:39:15.346208+00:00"
+    },
+    {
+      "id": "c66e7cbac541dc23",
+      "title": "2017/2018年の流行に対するユービコールと経口コレラワクチンの2回接種の有効性 - BMJ Open",
+      "summary": "2017/2018年の流行に対するユービコールと経口コレラワクチンの2回接種の有効性 BMJ Open",
+      "summary_ai": "2017/2018年の流行に対するユービコールと経口コレラワクチンの2回接種の有効性 BMJ Open",
+      "title_original": "Effectiveness of two doses of Euvichol- plus oral cholera vaccine in response to the 2017/2018 outbreak - BMJ Open",
+      "summary_original": "Effectiveness of two doses of Euvichol- plus oral cholera vaccine in response to the 2017/2018 outbreak BMJ Open",
+      "summary_ai_original": "Effectiveness of two doses of Euvichol- plus oral cholera vaccine in response to the 2017/2018 outbreak BMJ Open",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GRXo0VXBjVURvV2xSM3BMMEVwVURJSTRKNkdob0lUazc3VHRyNnpLTm9reGlIdHZNU0lQeklGZFN5YjRVbEhNRlFrdjl5U3JMVkVUMTNjWUk0SzlUbVozOFNpVjhVeFRYQjVfeXlpaw?oc=5",
+      "source": "BMJ",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-03-21T20:12:40+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [
+        "outbreak_response"
+      ],
+      "vaccines": [
+        "cholera"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BMJ / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BMJ / London"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "BMJ"
+      ],
+      "first_seen_at": "2026-03-21T20:12:40+00:00",
+      "last_seen_at": "2026-03-22T21:39:15.346229+00:00"
+    },
     {
       "id": "3c4d79ac3f9e657c",
       "title": "ACIP紛争はRFKジュニアのワクチン政策見直しに対するトランプ大統領の支持の試金石 - statnews.com",
@@ -72,7 +212,7 @@
         "STAT Vaccines / Immunization"
       ],
       "first_seen_at": "2026-03-20T17:41:11+00:00",
-      "last_seen_at": "2026-03-21T21:38:24.949712+00:00"
+      "last_seen_at": "2026-03-22T21:39:15.346238+00:00"
     },
     {
       "id": "8d5e51ccce25baca",
@@ -141,7 +281,7 @@
         "Reuters Vaccines / Immunization"
       ],
       "first_seen_at": "2026-03-20T13:58:34+00:00",
-      "last_seen_at": "2026-03-21T21:38:24.949725+00:00"
+      "last_seen_at": "2026-03-22T21:39:15.346244+00:00"
     },
     {
       "id": "9b9775fe0be074b6",
@@ -210,7 +350,7 @@
         "Guardian Vaccines / Immunization"
       ],
       "first_seen_at": "2026-03-20T12:32:00+00:00",
-      "last_seen_at": "2026-03-21T21:38:24.949731+00:00"
+      "last_seen_at": "2026-03-22T21:39:15.346248+00:00"
     },
     {
       "id": "2d5032c78f2d99d2",
@@ -274,12 +414,12 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicate_sources": [
         "CIDRAP Vaccines & Immunization"
       ],
       "first_seen_at": "2026-03-19T19:44:00+00:00",
-      "last_seen_at": "2026-03-21T21:38:24.949734+00:00"
+      "last_seen_at": "2026-03-22T21:39:15.346253+00:00"
     },
     {
       "id": "bde45c9f57a2e501",
@@ -346,7 +486,7 @@
         "CIDRAP Vaccines & Immunization"
       ],
       "first_seen_at": "2026-03-19T19:24:52+00:00",
-      "last_seen_at": "2026-03-21T21:38:24.949739+00:00"
+      "last_seen_at": "2026-03-22T21:39:15.346257+00:00"
     },
     {
       "id": "a661e1de7d05fcf4",
@@ -413,7 +553,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-03-19T00:51:35+00:00",
-      "last_seen_at": "2026-03-21T21:38:24.949744+00:00"
+      "last_seen_at": "2026-03-22T21:39:15.346264+00:00"
     },
     {
       "id": "c4ea7fcf40c8a36b",
@@ -482,7 +622,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-03-09T01:46:54+00:00",
-      "last_seen_at": "2026-03-21T21:38:24.949749+00:00"
+      "last_seen_at": "2026-03-22T21:39:15.346268+00:00"
     },
     {
       "id": "8b92ff3f6ecb53c7",
@@ -557,7 +697,7 @@
         "FDA Vaccines / Biologics"
       ],
       "first_seen_at": "2026-03-18T16:04:33+00:00",
-      "last_seen_at": "2026-03-21T21:38:24.949756+00:00"
+      "last_seen_at": "2026-03-22T21:39:15.346273+00:00"
     },
     {
       "id": "2d21f50ae6b6d52f",
@@ -623,12 +763,12 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicate_sources": [
         "BMJ"
       ],
       "first_seen_at": "2026-03-18T07:58:25+00:00",
-      "last_seen_at": "2026-03-19T21:49:18.679112+00:00"
+      "last_seen_at": "2026-03-22T21:39:15.346277+00:00"
     },
     {
       "id": "e56cadb536428353",
@@ -762,7 +902,7 @@
         "CIDRAP Vaccines & Immunization"
       ],
       "first_seen_at": "2026-03-17T19:11:48+00:00",
-      "last_seen_at": "2026-03-21T21:38:24.949764+00:00"
+      "last_seen_at": "2026-03-22T21:39:15.346281+00:00"
     },
     {
       "id": "ecef33622bcf5f1c",
@@ -829,76 +969,7 @@
         "Science Vaccines / Immunization"
       ],
       "first_seen_at": "2026-03-17T17:44:41+00:00",
-      "last_seen_at": "2026-03-20T21:43:31.445726+00:00"
-    },
-    {
-      "id": "f22735fb8d8d8eba",
-      "title": "連邦判事、RFKジュニアによるワクチン推奨の全面見直しを阻止 |ロバート・F・ケネディ・ジュニア - ガーディアン紙",
-      "summary": "連邦判事、RFKジュニアによるワクチン推奨の全面見直しを阻止 |ロバート・F・ケネディ・ジュニア ガーディアン紙",
-      "summary_ai": "連邦判事、RFKジュニアによるワクチン推奨の全面見直しを阻止 |ロバート・F・ケネディ・ジュニア ガーディアン紙",
-      "title_original": "Federal judge blocks RFK Jr’s overhaul of vaccine recommendations | Robert F Kennedy Jr - The Guardian",
-      "summary_original": "Federal judge blocks RFK Jr’s overhaul of vaccine recommendations | Robert F Kennedy Jr The Guardian",
-      "summary_ai_original": "Federal judge blocks RFK Jr’s overhaul of vaccine recommendations | Robert F Kennedy Jr The Guardian",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQR19TM1NORlpFV21uOE42SlRwYnpLVTdVS1lzWDNFZ3hfYVdGdG9jQXdNZWt6bDRGaFV1blVMY0VZSzFUbG5tUlJ5RVhNdXo3TFpNZFdhdnN3NXVwdm9xbHBJMlIxRjhtM3hVNzh3dzhhLWh0Yng3bVdycmdnUDl3TXdlZnNwQkR2eVJIaEkwLVJMWXVx?oc=5",
-      "source": "Guardian Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-03-17T17:00:00+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [
-        "recommendation"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "The Guardian"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "The Guardian"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Guardian Vaccines / Immunization"
-      ],
-      "first_seen_at": "2026-03-16T20:37:00+00:00",
-      "last_seen_at": "2026-03-21T21:38:24.949769+00:00"
+      "last_seen_at": "2026-03-22T21:39:15.346285+00:00"
     },
     {
       "id": "de32948a202c3772",
@@ -967,7 +1038,7 @@
         "BBC Vaccines / Immunization"
       ],
       "first_seen_at": "2026-03-17T15:36:28+00:00",
-      "last_seen_at": "2026-03-21T21:38:24.949774+00:00"
+      "last_seen_at": "2026-03-22T21:39:15.346289+00:00"
     },
     {
       "id": "3c3049acea464b9d",
@@ -1040,7 +1111,7 @@
         "FDA Vaccines / Biologics"
       ],
       "first_seen_at": "2026-03-13T14:26:04+00:00",
-      "last_seen_at": "2026-03-21T21:38:24.949780+00:00"
+      "last_seen_at": "2026-03-22T21:39:15.346293+00:00"
     },
     {
       "id": "ea4da49d4b46fdf6",
@@ -1107,7 +1178,7 @@
         "Reuters Vaccines / Immunization"
       ],
       "first_seen_at": "2026-03-17T04:19:40+00:00",
-      "last_seen_at": "2026-03-21T21:38:24.949784+00:00"
+      "last_seen_at": "2026-03-22T21:39:15.346297+00:00"
     },
     {
       "id": "4aa34c63c117688a",
@@ -1176,7 +1247,7 @@
         "AP Vaccines / Immunization"
       ],
       "first_seen_at": "2026-03-16T20:39:00+00:00",
-      "last_seen_at": "2026-03-21T21:38:24.949788+00:00"
+      "last_seen_at": "2026-03-22T21:39:15.346300+00:00"
     },
     {
       "id": "457a29507e07af55",
@@ -1243,7 +1314,7 @@
         "CIDRAP Vaccines & Immunization"
       ],
       "first_seen_at": "2026-03-16T22:22:12+00:00",
-      "last_seen_at": "2026-03-21T21:38:24.949792+00:00"
+      "last_seen_at": "2026-03-22T21:39:15.346304+00:00"
     },
     {
       "id": "0130f103688acc4c",
@@ -1310,7 +1381,7 @@
         "Reuters Vaccines / Immunization"
       ],
       "first_seen_at": "2026-03-16T21:10:05+00:00",
-      "last_seen_at": "2026-03-21T21:38:24.949796+00:00"
+      "last_seen_at": "2026-03-22T21:39:15.346307+00:00"
     },
     {
       "id": "c9136742a68acbe8",
@@ -1380,6 +1451,75 @@
       "last_seen_at": "2026-03-16T21:54:52.879006+00:00"
     },
     {
+      "id": "f22735fb8d8d8eba",
+      "title": "連邦判事、RFKジュニアによるワクチン推奨の全面見直しを阻止 |ロバート・F・ケネディ・ジュニア - ガーディアン紙",
+      "summary": "連邦判事、RFKジュニアによるワクチン推奨の全面見直しを阻止 |ロバート・F・ケネディ・ジュニア ガーディアン紙",
+      "summary_ai": "連邦判事、RFKジュニアによるワクチン推奨の全面見直しを阻止 |ロバート・F・ケネディ・ジュニア ガーディアン紙",
+      "title_original": "Federal judge blocks RFK Jr’s overhaul of vaccine recommendations | Robert F Kennedy Jr - The Guardian",
+      "summary_original": "Federal judge blocks RFK Jr’s overhaul of vaccine recommendations | Robert F Kennedy Jr The Guardian",
+      "summary_ai_original": "Federal judge blocks RFK Jr’s overhaul of vaccine recommendations | Robert F Kennedy Jr The Guardian",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQR19TM1NORlpFV21uOE42SlRwYnpLVTdVS1lzWDNFZ3hfYVdGdG9jQXdNZWt6bDRGaFV1blVMY0VZSzFUbG5tUlJ5RVhNdXo3TFpNZFdhdnN3NXVwdm9xbHBJMlIxRjhtM3hVNzh3dzhhLWh0Yng3bVdycmdnUDl3TXdlZnNwQkR2eVJIaEkwLVJMWXVx?oc=5",
+      "source": "Guardian Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-03-16T20:37:00+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [
+        "recommendation"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "The Guardian"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "The Guardian"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Guardian Vaccines / Immunization"
+      ],
+      "first_seen_at": "2026-03-16T20:37:00+00:00",
+      "last_seen_at": "2026-03-22T21:39:15.346311+00:00"
+    },
+    {
       "id": "b06abcd8c4d4eab0",
       "title": "連邦判事、RFKジュニア保健長官のワクチン政策見直しを阻止 - statnews.com",
       "summary": "連邦判事、RFKジュニア保健長官によるワクチン政策の全面見直しを阻止 statnews.com",
@@ -1444,7 +1584,7 @@
         "STAT Vaccines / Immunization"
       ],
       "first_seen_at": "2026-03-16T20:26:10+00:00",
-      "last_seen_at": "2026-03-21T21:38:24.949800+00:00"
+      "last_seen_at": "2026-03-22T21:39:15.346314+00:00"
     },
     {
       "id": "49c223869de3b128",
@@ -1577,7 +1717,7 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "duplicate_sources": [
         "Guardian Vaccines / Immunization"
       ],
@@ -1788,7 +1928,7 @@
         "medRxiv vaccines"
       ],
       "first_seen_at": "2026-03-14T07:00:00+00:00",
-      "last_seen_at": "2026-03-21T21:38:24.949814+00:00"
+      "last_seen_at": "2026-03-22T21:39:15.346322+00:00"
     },
     {
       "id": "d469f1119213a3fc",
@@ -1856,7 +1996,7 @@
         "medRxiv vaccines"
       ],
       "first_seen_at": "2026-03-14T02:42:51+00:00",
-      "last_seen_at": "2026-03-21T21:38:24.949818+00:00"
+      "last_seen_at": "2026-03-22T21:39:15.346326+00:00"
     },
     {
       "id": "161a9f0eae81ba40",
@@ -1928,7 +2068,7 @@
         "PAHO News"
       ],
       "first_seen_at": "2026-03-13T21:37:57+00:00",
-      "last_seen_at": "2026-03-21T21:38:24.949823+00:00"
+      "last_seen_at": "2026-03-22T21:39:15.346330+00:00"
     },
     {
       "id": "a7483bf27153cfc6",
@@ -2216,7 +2356,7 @@
         "Reuters Vaccines / Immunization"
       ],
       "first_seen_at": "2026-03-13T11:03:34+00:00",
-      "last_seen_at": "2026-03-21T21:38:24.949827+00:00"
+      "last_seen_at": "2026-03-22T21:39:15.346335+00:00"
     },
     {
       "id": "60849c4d46cd01ad",
@@ -2285,7 +2425,7 @@
         "medRxiv vaccines"
       ],
       "first_seen_at": "2026-03-12T22:09:51+00:00",
-      "last_seen_at": "2026-03-21T21:38:24.949831+00:00"
+      "last_seen_at": "2026-03-22T21:39:15.346338+00:00"
     },
     {
       "id": "aae6efcd2bacabc3",
@@ -2427,7 +2567,74 @@
         "Nature News Vaccines / Immunization"
       ],
       "first_seen_at": "2026-03-12T10:18:40+00:00",
-      "last_seen_at": "2026-03-21T21:38:24.949836+00:00"
+      "last_seen_at": "2026-03-22T21:39:15.346343+00:00"
+    },
+    {
+      "id": "bb78ec97fd30354a",
+      "title": "クロストリディオイデス・ディフィシルワクチン試験の統合分析により、ワクチン反応のベースライン予測因子が特定される - Nature",
+      "summary": "クロストリディオイデス・ディフィシルワクチン試験の統合解析により、ワクチン反応のベースライン予測因子が特定される Nature",
+      "summary_ai": "クロストリディオイデス・ディフィシルワクチン試験の統合解析により、ワクチン反応のベースライン予測因子が特定される Nature",
+      "title_original": "Pooled analyses of Clostridioides difficile vaccine trials identify baseline predictors for vaccine response - Nature",
+      "summary_original": "Pooled analyses of Clostridioides difficile vaccine trials identify baseline predictors for vaccine response Nature",
+      "summary_ai_original": "Pooled analyses of Clostridioides difficile vaccine trials identify baseline predictors for vaccine response Nature",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGN2VrSUhweU4xX01aUFNBZnFvd280aWN2WDdjckxEbk5xVGR6MDJaa3BQaUJ1YXFTRGRwUEp4b0Vmb052Y19OMlRRU3FQLW9Tc0psSzdOLUFzTHlJSkZn?oc=5",
+      "source": "Nature News Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-03-12T07:00:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Nature News"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Nature News"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Nature News Vaccines / Immunization"
+      ],
+      "first_seen_at": "2026-03-12T07:00:00+00:00",
+      "last_seen_at": "2026-03-22T21:39:15.346345+00:00"
     },
     {
       "id": "bff7dba698a0dd64",
@@ -2563,7 +2770,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-03-11T03:59:50+00:00",
-      "last_seen_at": "2026-03-18T21:49:47.166293+00:00"
+      "last_seen_at": "2026-03-22T21:39:15.346349+00:00"
     },
     {
       "id": "09f0fe7140db0eb4",
@@ -2701,7 +2908,7 @@
         "Lancet Infectious Diseases"
       ],
       "first_seen_at": "2026-03-10T08:22:27+00:00",
-      "last_seen_at": "2026-03-21T21:38:24.949841+00:00"
+      "last_seen_at": "2026-03-22T21:39:15.346353+00:00"
     },
     {
       "id": "007ebd97328e9553",
@@ -2768,7 +2975,7 @@
         "STAT Vaccines / Immunization"
       ],
       "first_seen_at": "2026-03-10T16:42:11+00:00",
-      "last_seen_at": "2026-03-21T21:38:24.949845+00:00"
+      "last_seen_at": "2026-03-22T21:39:15.346357+00:00"
     },
     {
       "id": "c92889c5ca9ff4da",
@@ -2839,7 +3046,7 @@
         "Lancet Infectious Diseases"
       ],
       "first_seen_at": "2026-03-10T01:40:38+00:00",
-      "last_seen_at": "2026-03-21T21:38:24.949850+00:00"
+      "last_seen_at": "2026-03-22T21:39:15.346360+00:00"
     },
     {
       "id": "06b316c6a3b082cb",
@@ -2911,7 +3118,7 @@
         "Lancet Infectious Diseases"
       ],
       "first_seen_at": "2026-03-10T00:30:18+00:00",
-      "last_seen_at": "2026-03-21T21:38:24.949854+00:00"
+      "last_seen_at": "2026-03-22T21:39:15.346365+00:00"
     },
     {
       "id": "8778ab30e443a00d",
@@ -3047,7 +3254,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-03-09T18:09:05+00:00",
-      "last_seen_at": "2026-03-21T21:38:24.949860+00:00"
+      "last_seen_at": "2026-03-22T21:39:15.346368+00:00"
     },
     {
       "id": "b5f6cd241477fc34",
