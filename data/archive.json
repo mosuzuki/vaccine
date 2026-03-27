@@ -1,25 +1,235 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-03-26T21:43:38.316251+00:00",
-  "archive_count": 82,
+  "generated_at": "2026-03-27T21:49:26.808079+00:00",
+  "archive_count": 85,
   "days_back": 14,
   "items": [
     {
-      "id": "dd39d4fa809b8b80",
-      "title": "臨床検査でインフルエンザが確認された外来患者急性呼吸器疾患に対するインフルエンザワクチンの有効性、米国、2024-25シーズン - medRxiv",
-      "summary": "臨床検査でインフルエンザが確認された外来急性呼吸器疾患に対するインフルエンザワクチンの有効性、米国、2024-25シーズン medRxiv",
-      "summary_ai": "臨床検査でインフルエンザが確認された外来急性呼吸器疾患に対するインフルエンザワクチンの有効性、米国、2024-25シーズン medRxiv",
-      "title_original": "Influenza vaccine effectiveness against outpatient acute respiratory illness with laboratory-confirmed influenza, United States, 2024-25 season - medRxiv",
-      "summary_original": "Influenza vaccine effectiveness against outpatient acute respiratory illness with laboratory-confirmed influenza, United States, 2024-25 season medRxiv",
-      "summary_ai_original": "Influenza vaccine effectiveness against outpatient acute respiratory illness with laboratory-confirmed influenza, United States, 2024-25 season medRxiv",
+      "id": "cb2aee9baaff7f24",
+      "title": "新しい臨床ガイドラインは、アメリカ大陸における重度の黄熱患者のケアを改善することを目的としています",
+      "summary": "新しい臨床ガイドラインは、アメリカ大陸における重度の黄熱患者のケア改善を目指す クリスティーナ・ミッチェル 2026年3月27日",
+      "summary_ai": "「このガイドラインは、意思決定をサポートし、重篤な黄熱病患者の治療を改善するための証拠に基づいた臨床推奨事項を提供します」とPAHOの新興疾患の臨床管理アドバイザー、アンヘル・ロドリゲスは述べた。 「それは備えを強化するための重要なツールとしても機能します",
+      "title_original": "New clinical guidelines aim to improve care for severe yellow fever patients in the Americas",
+      "summary_original": "New clinical guidelines aim to improve care for severe yellow fever patients in the Americas Cristina Mitchell 27 Mar 2026",
+      "summary_ai_original": "“This guideline provides evidence-based clinical recommendations to support decision-making and improve the care of severe yellow fever cases,” said Ángel Rodríguez, PAHO advisor on clinical management of emerging diseases. “It also serves as a key tool to strengthen preparedness",
+      "article_text_original": "Washington, D.C., March 27, 2026 (PAHO) – The Pan American Health Organization (PAHO) has released new clinical guidelines for the management of patients with severe yellow fever. The guidelines aim to strengthen the capacity of health workers and support timely, life-saving care. Yellow fever is a mosquito-borne viral disease that can cause outbreaks with a high number of cases and deaths in a short period of time. As there is no specific treatment, early detection of suspected cases, identification and close monitoring of patients at higher risk of severe disease, and timely referral to intensive care units are critical to reducing complications and saving lives. “This guideline provides evidence-based clinical recommendations to support decision-making and improve the care of severe yellow fever cases,” said Ángel Rodríguez, PAHO advisor on clinical management of emerging diseases. “It also serves as a key tool to strengthen preparedness and response across health services in the Americas.” The new guidance complements PAHO’s 2023 clinical management guidelines and is part of the Organization’s regional response to the public health emergency recorded between 2024 and 2025, when the average case fatality rate for yellow fever reached 45%. It brings together updated clinical and epidemiological information, along with practical recommendations on case detection, diagnosis, initial management, severity classification, and comprehensive patient care. Yellow fever is caused by a virus of the Flavivirus genus and is transmitted through mosquito bites. In the Region, the sylvatic (jungle) cycle primarily involves mosquitoes of the Haemagogus and Sabethes genera, while urban transmission can occur through Aedes aegypti and Aedes albopictus. Severe cases can rapidly progress to serious complications such as acute liver failure, requiring specialized intensive care. In recent years, the disease has re-emerged as a growing public health concern in the Americas. Since 2024, outbreaks have been reported in several South American countries, including in areas outside the traditional Amazon basin, confirming an expansion of risk zones. In 2025, a total of 346 confirmed cases and 143 deaths were reported across seven countries in the Region: Bolivia, Brazil, Colombia, Ecuador, Guyana, Peru, and Venezuela. In the first seven weeks of 2026, 34 human cases and 15 deaths have already been confirmed in Bolivia, Colombia, Peru, and Venezuela. While there is no specific treatment for yellow fever, vaccination remains the most effective preventive measure. A single dose provides lifelong immunity. Most confirmed cases and deaths reported in 2025 and 2026 occurred among unvaccinated individuals. PAHO continues to support countries in strengthening epidemiological surveillance, expanding vaccination coverage among at-risk populations, and improving the capacity of health services for early detection and timely clinical management of severe cases. The new guidelines aim to contribute to these efforts by providing health teams with a practical, evidence-based tool to deliver safe, standardized care and reduce mortality associated with the disease.",
+      "link": "https://www.paho.org/en/news/27-3-2026-new-clinical-guidelines-aim-improve-care-severe-yellow-fever-patients-americas",
+      "source": "PAHO News",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 8,
+      "published_at": "2026-03-27T19:45:08+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [
+        "outbreak_response",
+        "recommendation"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "ブラジル",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "PAHO / Washington DC"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "PAHO / Washington DC"
+        },
+        "target": {
+          "key": "brazil",
+          "name_ja": "ブラジル",
+          "lat": -15.7939,
+          "lng": -47.8828,
+          "region": "South America",
+          "label": "ブラジル"
+        }
+      },
+      "location": {
+        "key": "brazil",
+        "name_ja": "ブラジル",
+        "lat": -15.7939,
+        "lng": -47.8828,
+        "region": "South America",
+        "label": "ブラジル"
+      },
+      "region": "South America",
+      "country": "ブラジル",
+      "lat": -15.7939,
+      "lng": -47.8828,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "PAHO News"
+      ],
+      "first_seen_at": "2026-03-27T19:45:08+00:00",
+      "last_seen_at": "2026-03-27T21:51:08.838660+00:00"
+    },
+    {
+      "id": "8ac78da3afba15ca",
+      "title": "GnRH mRNA 免疫去勢ワクチンの構築とマウスおよび猫におけるその免疫原性と安全性の評価 - bioRxiv",
+      "summary": "GnRH mRNA 免疫去勢ワクチンの構築とマウスおよび猫におけるその免疫原性と安全性の評価 bioRxiv",
+      "summary_ai": "GnRH mRNA 免疫去勢ワクチンの構築とマウスおよび猫におけるその免疫原性と安全性の評価 bioRxiv",
+      "title_original": "Construction of a GnRH mRNA Immunocastration Vaccine and Evaluation of Its Immunogenicity and Safety in Mice and Cats - bioRxiv",
+      "summary_original": "Construction of a GnRH mRNA Immunocastration Vaccine and Evaluation of Its Immunogenicity and Safety in Mice and Cats bioRxiv",
+      "summary_ai_original": "Construction of a GnRH mRNA Immunocastration Vaccine and Evaluation of Its Immunogenicity and Safety in Mice and Cats bioRxiv",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lUUdEUWFpZUw1YWh1YVpOUW5nU3U2TDM3SEVGVHFxcWFnOG5iSkFFVElBN1BnR3BYZjRqTkZNMUJkV0N3ZFN3SGJLLVlMS1pMZXItTmJLUWkzU1F3Rm4wTEZsRDJzWUo0WUgySEY5MA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oeUpMa0RaaHNfSGZrazFSOEtVVE9laUFmemNXVWplQWFyZUUyRi1rWkJNT3haY2J2aEQtNW9TS3dDQlpjSElvOU85bEhOTU5mM1p6VndlVjlWQV9mVkRfYVpFZEpvbVRlMHJJNQ?oc=5",
+      "source": "bioRxiv vaccines",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-03-27T04:52:03+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [
+        "safety"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "bioRxiv"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "bioRxiv"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "bioRxiv vaccines"
+      ],
+      "first_seen_at": "2026-03-27T04:52:03+00:00",
+      "last_seen_at": "2026-03-27T21:51:08.838674+00:00"
+    },
+    {
+      "id": "8212936e4e7117bb",
+      "title": "FDA、重度白血球接着不全I型に対する初の遺伝子治療を承認",
+      "summary": "米国食品医薬品局は本日、重度の白血球接着不全I型（LAD-I）の治療のための初の遺伝子治療であるクレスラディ（マルネテグラジェン・オートテムセル）を承認した。",
+      "summary_ai": "「今日の迅速承認は、重度の白血球接着不全 I 型の小児患者に対する画期的な治療法を提供します。これは、この疾患を治療するための初の FDA 承認の遺伝子治療です」と首席医療科学責任者兼ディレクターのビナイ・プラサド医学博士、医学博士は述べています。",
+      "title_original": "FDA Approves First Gene Therapy for Severe Leukocyte Adhesion Deficiency Type I",
+      "summary_original": "The U.S. Food and Drug Administration today approved Kresladi (marnetegragene autotemcel), the first gene therapy for the treatment of severe Leukocyte Adhesion Deficiency Type I (LAD-I).",
+      "summary_ai_original": "“Today’s accelerated approval provides a breakthrough treatment for pediatric patients with severe Leukocyte Adhesion Deficiency Type I—the first FDA-approved gene therapy to treat this disease,” said Vinay Prasad, M.D., M.P.H., Chief Medical and Scientific Officer and Director o",
+      "article_text_original": "- For Immediate Release: The U.S. Food and Drug Administration today approved Kresladi (marnetegragene autotemcel), the first gene therapy for the treatment of severe Leukocyte Adhesion Deficiency Type I (LAD-I). Kresladi is indicated for the treatment of pediatric patients with severe leukocyte adhesion deficiency I (LAD-I) due to biallelic variants in ITGB2 without an available human leukocyte antigen (HLA)-matched sibling donor for allogeneic hematopoietic stem cell transplant. “Today’s accelerated approval provides a breakthrough treatment for pediatric patients with severe Leukocyte Adhesion Deficiency Type I—the first FDA-approved gene therapy to treat this disease,” said Vinay Prasad, M.D., M.P.H., Chief Medical and Scientific Officer and Director of the FDA’s Center for Biologics Evaluation and Research. “The FDA continues to exercise significant regulatory flexibilities as applicable, during both Chemistry, Manufacturing and Control (CMC) and Clinical review of licensing applications. For rare diseases, the FDA considers small patient populations in clinical trials and all available sources of evidence to advance life-changing treatments while still meeting its rigorous scientific standards.” Severe LAD-I is a rare, inherited immune deficiency caused by mutations in the ITGB2 gene, which prevent white blood cells from effectively fighting infections. Patients with severe LAD-I experience recurrent, life-threatening bacterial and fungal infections with substantial morbidity and mortality in the first decade of life. Allogeneic hematopoietic stem cell transplant is considered in some patients but is associated with significant morbidity and mortality, especially in patients without an HLA-matched sibling donor. Kresladi consists of the patient’s own hematopoietic (blood) stem cells (HSCs), which are genetically modified to introduce functional copies of the ITGB2 gene. Following conditioning, a single dose of Kresladi is infused intravenously to address the underlying cause of severe LAD-I by restoring CD18 and CD11a cell surface expression in white blood cells, including neutrophils. The safety and effectiveness of Kresladi were established in one open-label, single-arm, multicenter study based on increases in neutrophil CD18 and CD11a cell surface expression (disease-specific biomarkers indicative of improved immune activity), at month 12 with sustained effect through month 24 post-infusion. Increases in neutrophil CD18 and CD11a cell surface expression reflect improved function of a protein complex of the two biomarkers on the surface of neutrophils which is used as a surrogate endpoint that is reasonably likely to predict clinical benefit in LAD-I for accelerated approval. The clinical benefit of Kresladi will be confirmed in patients with severe LAD-I through post-marketing requirements. The most common side effects identified in the clinical study included anemia, low platelet and white blood cell counts, mouth sores, upper respiratory infections, viral infections, fever, febrile neutropenia, nausea, vomiting, skin infection, rash, vascular device-related infection, and increased liver enzymes. “Kresladi offers a potentially transformative treatment option that targets the root cause (pathophysiology) of this serious condition. Our office and FDA remain committed to advancing innovative gene therapies for rare pediatric diseases and making them available to patients as quickly as possible, via accelerated approval pathway supported by use of novel surrogate endpoints,\" said Megha Kaushal M.D., M.S., Acting Deputy Director of the CBER Office of Therapeutic Products and pediatric hematologist. \"For children with severe LAD-I and their families, this treatment allows them to participate in day-to-day activities and hopefully experience a better quality of life.\" The application was granted Orphan Drug, Rare Pediatric Disease, Regenerative Medicine Advanced Therapy and Fast Track designations. The FDA granted accelerated approval of Kresladi, as well as a Rare Pediatric Disease Priority Review Voucher, to Rocket Pharmaceuticals, Inc. As a condition of accelerated approval, Rocket Pharmaceuticals, Inc., is required to conduct post-approval studies to verify and describe the clinical benefit of Kresladi. Continued approval may be contingent upon verification of clinical benefit in confirmatory trials. ### The FDA, an agency within the U.S. Department of Health and Human Services, protects the public health by assuring the safety, effectiveness, and security of human and veterinary drugs, vaccines and other biological products for human use, and medical devices. The agency also is responsible for the safety and security of our nation’s food supply, cosmetics, dietary supplements, radiation-emitting electronic products, and for regulating tobacco products.",
+      "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-severe-leukocyte-adhesion-deficiency-type-i",
+      "source": "FDA Vaccines / Biologics",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 9,
+      "published_at": "2026-03-26T22:47:15+00:00",
+      "topics": [
+        "policy",
+        "research"
+      ],
+      "policy_tags": [
+        "approval",
+        "safety"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "FDA / Silver Spring"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "FDA / Silver Spring"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "FDA Vaccines / Biologics"
+      ],
+      "first_seen_at": "2026-03-26T22:47:15+00:00",
+      "last_seen_at": "2026-03-27T21:51:08.838676+00:00"
+    },
+    {
+      "id": "3066a23f1140d7eb",
+      "title": "臨床検査でインフルエンザが確認された外来急性呼吸器疾患に対するインフルエンザワクチンの有効性、米国 - medRxiv",
+      "summary": "臨床検査でインフルエンザが確認された外来急性呼吸器疾患に対するインフルエンザワクチンの有効性、米国、medRxiv",
+      "summary_ai": "臨床検査でインフルエンザが確認された外来急性呼吸器疾患に対するインフルエンザワクチンの有効性、米国、medRxiv",
+      "title_original": "Influenza vaccine effectiveness against outpatient acute respiratory illness with laboratory-confirmed influenza, United States, - medRxiv",
+      "summary_original": "Influenza vaccine effectiveness against outpatient acute respiratory illness with laboratory-confirmed influenza, United States, medRxiv",
+      "summary_ai_original": "Influenza vaccine effectiveness against outpatient acute respiratory illness with laboratory-confirmed influenza, United States, medRxiv",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9RVEo5NGZxNnk0Q2VZOW9BcGZ4OXJ1VGZJdExCUndRRm9ZYUtvcUZlNHViUmZkdzNjZmQxVEJNX2dRRnJzdEZGcXR6Z0ExTVFyZ3BLeWhtZFF6dWtUSThWZTh1MFVaUFl4ZjhDT2xXRkdiMG14VkdNa3pCMA?oc=5",
       "source": "medRxiv vaccines",
       "source_type": "preprint",
       "source_tier": "Tier 3",
       "source_priority": 7,
-      "published_at": "2026-03-26T18:27:30+00:00",
+      "published_at": "2026-03-26T19:06:47+00:00",
       "topics": [
         "research"
       ],
@@ -67,12 +277,12 @@
       "country": "米国",
       "lat": 38.9072,
       "lng": -77.0369,
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "duplicate_sources": [
         "medRxiv vaccines"
       ],
-      "first_seen_at": "2026-03-26T18:27:30+00:00",
-      "last_seen_at": "2026-03-26T21:45:41.400378+00:00"
+      "first_seen_at": "2026-03-26T19:06:47+00:00",
+      "last_seen_at": "2026-03-27T21:51:08.838679+00:00"
     },
     {
       "id": "12d29f3972ea305a",
@@ -145,7 +355,7 @@
         "FDA Vaccines / Biologics"
       ],
       "first_seen_at": "2026-03-24T17:36:37+00:00",
-      "last_seen_at": "2026-03-26T21:45:41.400404+00:00"
+      "last_seen_at": "2026-03-27T21:51:08.838689+00:00"
     },
     {
       "id": "f8ce717e76129169",
@@ -212,7 +422,7 @@
         "medRxiv vaccines"
       ],
       "first_seen_at": "2026-03-25T20:27:15+00:00",
-      "last_seen_at": "2026-03-26T21:45:41.400409+00:00"
+      "last_seen_at": "2026-03-27T21:51:08.838694+00:00"
     },
     {
       "id": "8b92ff3f6ecb53c7",
@@ -287,7 +497,7 @@
         "FDA Vaccines / Biologics"
       ],
       "first_seen_at": "2026-03-18T16:04:33+00:00",
-      "last_seen_at": "2026-03-26T21:45:41.400417+00:00"
+      "last_seen_at": "2026-03-27T21:51:08.838700+00:00"
     },
     {
       "id": "0b21a9d6271c98f0",
@@ -359,7 +569,7 @@
         "MHRA"
       ],
       "first_seen_at": "2026-03-25T16:54:53+00:00",
-      "last_seen_at": "2026-03-26T21:45:41.400423+00:00"
+      "last_seen_at": "2026-03-27T21:51:08.838706+00:00"
     },
     {
       "id": "478518699f84668f",
@@ -431,7 +641,7 @@
         "MHRA"
       ],
       "first_seen_at": "2026-03-25T10:37:22+00:00",
-      "last_seen_at": "2026-03-26T21:45:41.400429+00:00"
+      "last_seen_at": "2026-03-27T21:51:08.838712+00:00"
     },
     {
       "id": "40c37d1ea513278a",
@@ -498,7 +708,7 @@
         "CIDRAP Vaccines & Immunization"
       ],
       "first_seen_at": "2026-03-24T21:16:55+00:00",
-      "last_seen_at": "2026-03-26T21:45:41.400435+00:00"
+      "last_seen_at": "2026-03-27T21:51:08.838716+00:00"
     },
     {
       "id": "5b5f4d3de40478bb",
@@ -715,7 +925,76 @@
         "BMJ"
       ],
       "first_seen_at": "2026-03-24T04:01:03+00:00",
-      "last_seen_at": "2026-03-26T21:45:41.400452+00:00"
+      "last_seen_at": "2026-03-27T21:51:08.838721+00:00"
+    },
+    {
+      "id": "f491e761e1c98044",
+      "title": "ピクセルを超えたプロモーション: ナイジェリア、プラトー州におけるワクチンコミュニケーション戦略の混合法分析 - BMJ Open",
+      "summary": "ピクセルを超えたプロモーション: ナイジェリアのプラトー州におけるワクチンコミュニケーション戦略の混合法分析 BMJ Open",
+      "summary_ai": "ピクセルを超えたプロモーション: ナイジェリアのプラトー州におけるワクチンコミュニケーション戦略の混合法分析 BMJ Open",
+      "title_original": "Promotion over pixels: a mixed- methods analysis of vaccine communication strategies in Plateau State, Nigeria - BMJ Open",
+      "summary_original": "Promotion over pixels: a mixed- methods analysis of vaccine communication strategies in Plateau State, Nigeria BMJ Open",
+      "summary_ai_original": "Promotion over pixels: a mixed- methods analysis of vaccine communication strategies in Plateau State, Nigeria BMJ Open",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE96eFNYeHBtZWlDNmtCUzFBV2ZiTXk1Unhncmt4Z01Ed2o4RFJQQU9iU19TWjI1VVlseU8yR2JhbVZGMEEzNlpZNzVBVy1rWHIxam9teDRsTlNBUFNOV3BtckNXampVTVBSY2kyUE9n?oc=5",
+      "source": "BMJ",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-03-24T03:39:57+00:00",
+      "topics": [
+        "communication"
+      ],
+      "policy_tags": [
+        "communication"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "ナイジェリア",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BMJ / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BMJ / London"
+        },
+        "target": {
+          "key": "nigeria",
+          "name_ja": "ナイジェリア",
+          "lat": 9.0765,
+          "lng": 7.3986,
+          "region": "Africa",
+          "label": "ナイジェリア"
+        }
+      },
+      "location": {
+        "key": "nigeria",
+        "name_ja": "ナイジェリア",
+        "lat": 9.0765,
+        "lng": 7.3986,
+        "region": "Africa",
+        "label": "ナイジェリア"
+      },
+      "region": "Africa",
+      "country": "ナイジェリア",
+      "lat": 9.0765,
+      "lng": 7.3986,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "BMJ"
+      ],
+      "first_seen_at": "2026-03-11T03:59:50+00:00",
+      "last_seen_at": "2026-03-27T21:51:08.838727+00:00"
     },
     {
       "id": "6000b3b89835a574",
@@ -782,7 +1061,7 @@
         "Science Vaccines / Immunization"
       ],
       "first_seen_at": "2026-03-23T21:42:51+00:00",
-      "last_seen_at": "2026-03-26T21:45:41.400457+00:00"
+      "last_seen_at": "2026-03-27T21:51:08.838731+00:00"
     },
     {
       "id": "f504a0d4dd093042",
@@ -851,7 +1130,7 @@
         "CIDRAP Vaccines & Immunization"
       ],
       "first_seen_at": "2026-03-23T19:32:00+00:00",
-      "last_seen_at": "2026-03-25T21:53:47.264632+00:00"
+      "last_seen_at": "2026-03-27T21:51:08.838734+00:00"
     },
     {
       "id": "14f1566d19187dec",
@@ -918,7 +1197,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-03-09T18:09:05+00:00",
-      "last_seen_at": "2026-03-26T21:45:41.400462+00:00"
+      "last_seen_at": "2026-03-27T21:51:08.838739+00:00"
     },
     {
       "id": "6a4fcd8803c16621",
@@ -1054,7 +1333,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-03-22T11:09:14+00:00",
-      "last_seen_at": "2026-03-26T21:45:41.400473+00:00"
+      "last_seen_at": "2026-03-27T21:51:08.838743+00:00"
     },
     {
       "id": "203e08b445d307b9",
@@ -1121,7 +1400,7 @@
         "Financial Times Vaccines / Immunization"
       ],
       "first_seen_at": "2026-03-23T10:45:00+00:00",
-      "last_seen_at": "2026-03-26T21:45:41.400478+00:00"
+      "last_seen_at": "2026-03-27T21:51:08.838747+00:00"
     },
     {
       "id": "8a4c1254b6ff56de",
@@ -1330,7 +1609,7 @@
         "Reuters Vaccines / Immunization"
       ],
       "first_seen_at": "2026-03-20T13:58:34+00:00",
-      "last_seen_at": "2026-03-26T21:45:41.400489+00:00"
+      "last_seen_at": "2026-03-27T21:51:08.838751+00:00"
     },
     {
       "id": "3c4d79ac3f9e657c",
@@ -1346,7 +1625,7 @@
       "source_type": "media",
       "source_tier": "Tier 2",
       "source_priority": 7,
-      "published_at": "2026-03-20T17:41:11+00:00",
+      "published_at": "2026-03-20T17:41:17+00:00",
       "topics": [
         "policy"
       ],
@@ -1399,7 +1678,7 @@
         "STAT Vaccines / Immunization"
       ],
       "first_seen_at": "2026-03-20T17:41:11+00:00",
-      "last_seen_at": "2026-03-26T21:45:41.400495+00:00"
+      "last_seen_at": "2026-03-27T21:51:08.838755+00:00"
     },
     {
       "id": "9b9775fe0be074b6",
@@ -1468,7 +1747,7 @@
         "Guardian Vaccines / Immunization"
       ],
       "first_seen_at": "2026-03-20T12:32:00+00:00",
-      "last_seen_at": "2026-03-26T21:45:41.400500+00:00"
+      "last_seen_at": "2026-03-27T21:51:08.838758+00:00"
     },
     {
       "id": "00e62986e4d014be",
@@ -1538,7 +1817,7 @@
         "Lancet Infectious Diseases"
       ],
       "first_seen_at": "2026-03-20T00:27:41+00:00",
-      "last_seen_at": "2026-03-26T21:45:41.400506+00:00"
+      "last_seen_at": "2026-03-27T21:51:08.838762+00:00"
     },
     {
       "id": "2d5032c78f2d99d2",
@@ -1607,7 +1886,7 @@
         "CIDRAP Vaccines & Immunization"
       ],
       "first_seen_at": "2026-03-19T19:44:00+00:00",
-      "last_seen_at": "2026-03-26T21:45:41.400511+00:00"
+      "last_seen_at": "2026-03-27T21:51:08.838766+00:00"
     },
     {
       "id": "bde45c9f57a2e501",
@@ -1743,7 +2022,7 @@
         "Lancet Infectious Diseases"
       ],
       "first_seen_at": "2026-03-19T09:03:21+00:00",
-      "last_seen_at": "2026-03-26T21:45:41.400517+00:00"
+      "last_seen_at": "2026-03-27T21:51:08.838770+00:00"
     },
     {
       "id": "a661e1de7d05fcf4",
@@ -1810,7 +2089,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-03-19T00:51:35+00:00",
-      "last_seen_at": "2026-03-26T21:45:41.400523+00:00"
+      "last_seen_at": "2026-03-27T21:51:08.838774+00:00"
     },
     {
       "id": "c4ea7fcf40c8a36b",
@@ -1879,7 +2158,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-03-09T01:46:54+00:00",
-      "last_seen_at": "2026-03-26T21:45:41.400528+00:00"
+      "last_seen_at": "2026-03-27T21:51:08.838777+00:00"
     },
     {
       "id": "2d21f50ae6b6d52f",
@@ -2157,7 +2436,7 @@
         "Science Vaccines / Immunization"
       ],
       "first_seen_at": "2026-03-17T17:44:41+00:00",
-      "last_seen_at": "2026-03-26T21:45:41.400554+00:00"
+      "last_seen_at": "2026-03-27T21:51:08.838794+00:00"
     },
     {
       "id": "82dc289339474657",
@@ -2224,7 +2503,7 @@
         "CIDRAP Vaccines & Immunization"
       ],
       "first_seen_at": "2026-03-17T19:11:48+00:00",
-      "last_seen_at": "2026-03-26T21:45:41.400539+00:00"
+      "last_seen_at": "2026-03-27T21:51:08.838783+00:00"
     },
     {
       "id": "de32948a202c3772",
@@ -2293,7 +2572,7 @@
         "BBC Vaccines / Immunization"
       ],
       "first_seen_at": "2026-03-17T15:36:28+00:00",
-      "last_seen_at": "2026-03-26T21:45:41.400549+00:00"
+      "last_seen_at": "2026-03-27T21:51:08.838790+00:00"
     },
     {
       "id": "ea4da49d4b46fdf6",
@@ -2360,7 +2639,76 @@
         "Reuters Vaccines / Immunization"
       ],
       "first_seen_at": "2026-03-17T04:19:40+00:00",
-      "last_seen_at": "2026-03-26T21:45:41.400545+00:00"
+      "last_seen_at": "2026-03-27T21:51:08.838787+00:00"
+    },
+    {
+      "id": "f22735fb8d8d8eba",
+      "title": "連邦判事、RFKジュニアによるワクチン推奨の全面見直しを阻止 |ロバート・F・ケネディ・ジュニア - ガーディアン紙",
+      "summary": "連邦判事、RFKジュニアによるワクチン推奨の全面見直しを阻止 |ロバート・F・ケネディ・ジュニア ガーディアン紙",
+      "summary_ai": "連邦判事、RFKジュニアによるワクチン推奨の全面見直しを阻止 |ロバート・F・ケネディ・ジュニア ガーディアン紙",
+      "title_original": "Federal judge blocks RFK Jr’s overhaul of vaccine recommendations | Robert F Kennedy Jr - The Guardian",
+      "summary_original": "Federal judge blocks RFK Jr’s overhaul of vaccine recommendations | Robert F Kennedy Jr The Guardian",
+      "summary_ai_original": "Federal judge blocks RFK Jr’s overhaul of vaccine recommendations | Robert F Kennedy Jr The Guardian",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQR19TM1NORlpFV21uOE42SlRwYnpLVTdVS1lzWDNFZ3hfYVdGdG9jQXdNZWt6bDRGaFV1blVMY0VZSzFUbG5tUlJ5RVhNdXo3TFpNZFdhdnN3NXVwdm9xbHBJMlIxRjhtM3hVNzh3dzhhLWh0Yng3bVdycmdnUDl3TXdlZnNwQkR2eVJIaEkwLVJMWXVx?oc=5",
+      "source": "Guardian Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-03-17T07:00:00+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [
+        "recommendation"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "The Guardian"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "The Guardian"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Guardian Vaccines / Immunization"
+      ],
+      "first_seen_at": "2026-03-16T20:37:00+00:00",
+      "last_seen_at": "2026-03-27T21:51:08.838798+00:00"
     },
     {
       "id": "c9136742a68acbe8",
@@ -2428,73 +2776,6 @@
       ],
       "first_seen_at": "2026-03-16T20:37:55+00:00",
       "last_seen_at": "2026-03-16T21:54:52.879006+00:00"
-    },
-    {
-      "id": "b06abcd8c4d4eab0",
-      "title": "連邦判事、RFKジュニア保健長官のワクチン政策見直しを阻止 - statnews.com",
-      "summary": "連邦判事、RFKジュニア保健長官によるワクチン政策の全面見直しを阻止 statnews.com",
-      "summary_ai": "連邦判事、RFKジュニア保健長官によるワクチン政策の全面見直しを阻止 statnews.com",
-      "title_original": "Federal judge stalls health secretary RFK Jr.’s overhaul of vaccine policy - statnews.com",
-      "summary_original": "Federal judge stalls health secretary RFK Jr.’s overhaul of vaccine policy statnews.com",
-      "summary_ai_original": "Federal judge stalls health secretary RFK Jr.’s overhaul of vaccine policy statnews.com",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZ3lhc2ttQm1YYVVrSkhxSnAwel9sODlKMHNreldDSTlBMlVFdnFLZk9aNVMzdVczRUpMcGFWSHBYOGczNjVXVWtMaDFBczdLdGUzVjRsQ2FiYWM5cHA2aVBTWjhPSFN5Y25nYkJ0SlBjNXlwTUNTbUk0VnA0b0k1bTV5UjhxWXc0V3pxQg?oc=5",
-      "source": "STAT Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-03-16T20:26:10+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "STAT"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "STAT"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "STAT Vaccines / Immunization"
-      ],
-      "first_seen_at": "2026-03-16T20:26:10+00:00",
-      "last_seen_at": "2026-03-26T21:45:41.400561+00:00"
     },
     {
       "id": "49c223869de3b128",
@@ -2635,6 +2916,73 @@
       "last_seen_at": "2026-03-21T21:38:24.949806+00:00"
     },
     {
+      "id": "b06abcd8c4d4eab0",
+      "title": "連邦判事、RFKジュニア保健長官のワクチン政策見直しを阻止 - statnews.com",
+      "summary": "連邦判事、RFKジュニア保健長官によるワクチン政策の全面見直しを阻止 statnews.com",
+      "summary_ai": "連邦判事、RFKジュニア保健長官によるワクチン政策の全面見直しを阻止 statnews.com",
+      "title_original": "Federal judge stalls health secretary RFK Jr.’s overhaul of vaccine policy - statnews.com",
+      "summary_original": "Federal judge stalls health secretary RFK Jr.’s overhaul of vaccine policy statnews.com",
+      "summary_ai_original": "Federal judge stalls health secretary RFK Jr.’s overhaul of vaccine policy statnews.com",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZ3lhc2ttQm1YYVVrSkhxSnAwel9sODlKMHNreldDSTlBMlVFdnFLZk9aNVMzdVczRUpMcGFWSHBYOGczNjVXVWtMaDFBczdLdGUzVjRsQ2FiYWM5cHA2aVBTWjhPSFN5Y25nYkJ0SlBjNXlwTUNTbUk0VnA0b0k1bTV5UjhxWXc0V3pxQg?oc=5",
+      "source": "STAT Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-03-16T07:00:00+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "STAT"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "STAT"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "STAT Vaccines / Immunization"
+      ],
+      "first_seen_at": "2026-03-16T20:26:10+00:00",
+      "last_seen_at": "2026-03-27T21:51:08.838821+00:00"
+    },
+    {
       "id": "0130f103688acc4c",
       "title": "インスタントビュー：ワクチン政策阻止の米裁判所命令で公衆衛生の勝利に変化、専門家ら指摘 - ロイター",
       "summary": "インスタントビュー：ワクチン政策阻止の米裁判所命令で公衆衛生の勝利に変化、専門家ら指摘 Reuters",
@@ -2699,7 +3047,7 @@
         "Reuters Vaccines / Immunization"
       ],
       "first_seen_at": "2026-03-16T21:10:05+00:00",
-      "last_seen_at": "2026-03-26T21:45:41.400578+00:00"
+      "last_seen_at": "2026-03-27T21:51:08.838810+00:00"
     },
     {
       "id": "4aa34c63c117688a",
@@ -2768,7 +3116,7 @@
         "AP Vaccines / Immunization"
       ],
       "first_seen_at": "2026-03-16T20:39:00+00:00",
-      "last_seen_at": "2026-03-26T21:45:41.400581+00:00"
+      "last_seen_at": "2026-03-27T21:51:08.838817+00:00"
     },
     {
       "id": "457a29507e07af55",
@@ -2835,76 +3183,7 @@
         "CIDRAP Vaccines & Immunization"
       ],
       "first_seen_at": "2026-03-16T22:22:12+00:00",
-      "last_seen_at": "2026-03-26T21:45:41.400567+00:00"
-    },
-    {
-      "id": "f22735fb8d8d8eba",
-      "title": "連邦判事、RFKジュニアによるワクチン推奨の全面見直しを阻止 |ロバート・F・ケネディ・ジュニア - ガーディアン紙",
-      "summary": "連邦判事、RFKジュニアによるワクチン推奨の全面見直しを阻止 |ロバート・F・ケネディ・ジュニア ガーディアン紙",
-      "summary_ai": "連邦判事、RFKジュニアによるワクチン推奨の全面見直しを阻止 |ロバート・F・ケネディ・ジュニア ガーディアン紙",
-      "title_original": "Federal judge blocks RFK Jr’s overhaul of vaccine recommendations | Robert F Kennedy Jr - The Guardian",
-      "summary_original": "Federal judge blocks RFK Jr’s overhaul of vaccine recommendations | Robert F Kennedy Jr The Guardian",
-      "summary_ai_original": "Federal judge blocks RFK Jr’s overhaul of vaccine recommendations | Robert F Kennedy Jr The Guardian",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQR19TM1NORlpFV21uOE42SlRwYnpLVTdVS1lzWDNFZ3hfYVdGdG9jQXdNZWt6bDRGaFV1blVMY0VZSzFUbG5tUlJ5RVhNdXo3TFpNZFdhdnN3NXVwdm9xbHBJMlIxRjhtM3hVNzh3dzhhLWh0Yng3bVdycmdnUDl3TXdlZnNwQkR2eVJIaEkwLVJMWXVx?oc=5",
-      "source": "Guardian Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-03-16T07:00:00+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [
-        "recommendation"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "The Guardian"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "The Guardian"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Guardian Vaccines / Immunization"
-      ],
-      "first_seen_at": "2026-03-16T20:37:00+00:00",
-      "last_seen_at": "2026-03-26T21:45:41.400585+00:00"
+      "last_seen_at": "2026-03-27T21:51:08.838802+00:00"
     },
     {
       "id": "72850f6e4c816cf8",
@@ -2973,7 +3252,7 @@
         "medRxiv vaccines"
       ],
       "first_seen_at": "2026-03-16T07:00:00+00:00",
-      "last_seen_at": "2026-03-26T21:45:41.400573+00:00"
+      "last_seen_at": "2026-03-27T21:51:08.838806+00:00"
     },
     {
       "id": "b3db7d71d6209008",
@@ -3040,7 +3319,7 @@
         "Reuters Vaccines / Immunization"
       ],
       "first_seen_at": "2026-03-16T07:00:00+00:00",
-      "last_seen_at": "2026-03-25T21:53:47.264718+00:00"
+      "last_seen_at": "2026-03-27T21:51:08.838814+00:00"
     },
     {
       "id": "62191af95dc95d7d",
@@ -3104,7 +3383,7 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "duplicate_sources": [
         "New York Times Vaccines / Immunization"
       ],
@@ -3179,7 +3458,7 @@
         "medRxiv vaccines"
       ],
       "first_seen_at": "2026-03-14T07:00:00+00:00",
-      "last_seen_at": "2026-03-26T21:45:41.400594+00:00"
+      "last_seen_at": "2026-03-27T21:51:08.838827+00:00"
     },
     {
       "id": "d469f1119213a3fc",
@@ -3242,7 +3521,7 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicate_sources": [
         "medRxiv vaccines"
       ],
@@ -3953,75 +4232,6 @@
       ],
       "first_seen_at": "2026-03-11T11:00:00+00:00",
       "last_seen_at": "2026-03-24T21:52:34.908038+00:00"
-    },
-    {
-      "id": "f491e761e1c98044",
-      "title": "ピクセルを超えたプロモーション: ナイジェリア、プラトー州におけるワクチンコミュニケーション戦略の混合法分析 - BMJ Open",
-      "summary": "ピクセルを超えたプロモーション: ナイジェリアのプラトー州におけるワクチンコミュニケーション戦略の混合法分析 BMJ Open",
-      "summary_ai": "ピクセルを超えたプロモーション: ナイジェリアのプラトー州におけるワクチンコミュニケーション戦略の混合法分析 BMJ Open",
-      "title_original": "Promotion over pixels: a mixed- methods analysis of vaccine communication strategies in Plateau State, Nigeria - BMJ Open",
-      "summary_original": "Promotion over pixels: a mixed- methods analysis of vaccine communication strategies in Plateau State, Nigeria BMJ Open",
-      "summary_ai_original": "Promotion over pixels: a mixed- methods analysis of vaccine communication strategies in Plateau State, Nigeria BMJ Open",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE96eFNYeHBtZWlDNmtCUzFBV2ZiTXk1Unhncmt4Z01Ed2o4RFJQQU9iU19TWjI1VVlseU8yR2JhbVZGMEEzNlpZNzVBVy1rWHIxam9teDRsTlNBUFNOV3BtckNXampVTVBSY2kyUE9n?oc=5",
-      "source": "BMJ",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-03-11T03:59:50+00:00",
-      "topics": [
-        "communication"
-      ],
-      "policy_tags": [
-        "communication"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "ナイジェリア",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BMJ / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BMJ / London"
-        },
-        "target": {
-          "key": "nigeria",
-          "name_ja": "ナイジェリア",
-          "lat": 9.0765,
-          "lng": 7.3986,
-          "region": "Africa",
-          "label": "ナイジェリア"
-        }
-      },
-      "location": {
-        "key": "nigeria",
-        "name_ja": "ナイジェリア",
-        "lat": 9.0765,
-        "lng": 7.3986,
-        "region": "Africa",
-        "label": "ナイジェリア"
-      },
-      "region": "Africa",
-      "country": "ナイジェリア",
-      "lat": 9.0765,
-      "lng": 7.3986,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "BMJ"
-      ],
-      "first_seen_at": "2026-03-11T03:59:50+00:00",
-      "last_seen_at": "2026-03-22T21:39:15.346349+00:00"
     },
     {
       "id": "09f0fe7140db0eb4",
