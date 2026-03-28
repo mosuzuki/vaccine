@@ -1,9 +1,9 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-03-27T21:49:26.808079+00:00",
-  "item_count": 39,
-  "archive_count": 85,
+  "generated_at": "2026-03-28T21:41:17.100798+00:00",
+  "item_count": 38,
+  "archive_count": 87,
   "days_back": 14,
   "plot_mode_default": "source",
   "feed_status": [
@@ -23,7 +23,7 @@
       "name": "CDC Newsroom",
       "url": "https://tools.cdc.gov/api/v2/resources/media/316422.rss",
       "status": "ok",
-      "seen": 7,
+      "seen": 8,
       "kept": 0
     },
     {
@@ -89,7 +89,7 @@
       "name": "The Lancet series",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Athelancet.com%20(trial%20OR%20policy%20OR%20effectiveness%20OR%20safety)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
@@ -103,14 +103,14 @@
       "name": "NEJM",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Anejm.org%20(trial%20OR%20effectiveness%20OR%20policy%20OR%20safety)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 4,
+      "seen": 3,
       "kept": 0
     },
     {
       "name": "BMJ",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abmj.com%20(policy%20OR%20trial%20OR%20effectiveness%20OR%20communication)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 8,
+      "seen": 9,
       "kept": 7
     },
     {
@@ -159,49 +159,49 @@
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 23,
-      "kept": 5
+      "seen": 22,
+      "kept": 3
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 32,
+      "seen": 24,
       "kept": 4
     },
     {
       "name": "AP Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 26,
+      "seen": 12,
       "kept": 1
     },
     {
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 50,
+      "seen": 36,
       "kept": 1
     },
     {
       "name": "Financial Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aft.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 6,
+      "seen": 5,
       "kept": 1
     },
     {
       "name": "STAT Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 22,
+      "seen": 17,
       "kept": 2
     },
     {
       "name": "Nature News Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 10,
+      "seen": 9,
       "kept": 0
     },
     {
@@ -215,21 +215,21 @@
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 66,
+      "seen": 53,
       "kept": 1
     },
     {
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 33,
-      "kept": 2
+      "seen": 32,
+      "kept": 3
     },
     {
       "name": "Washington Post Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 21,
+      "seen": 20,
       "kept": 1
     },
     {
@@ -250,25 +250,92 @@
       "name": "朝日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Aasahi.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 21,
+      "seen": 20,
       "kept": 0
     },
     {
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 9,
+      "seen": 11,
       "kept": 0
     },
     {
       "name": "毎日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 13,
+      "seen": 10,
       "kept": 0
     }
   ],
   "items": [
+    {
+      "id": "6c76c17c39f852fd",
+      "title": "マラウイにおける2022年から2023年にかけてのコレラの発生率と重症度の減少に対する経口コレラワクチンの単回投与の有効性。横断研究 - medRxiv",
+      "summary": "マラウイにおける2022年から2023年にかけてのコレラの発生率と重症度の減少に対する経口コレラワクチンの単回投与の有効性。横断研究 medRxiv",
+      "summary_ai": "マラウイにおける2022年から2023年にかけてのコレラの発生率と重症度の減少に対する経口コレラワクチンの単回投与の有効性。横断研究 medRxiv",
+      "title_original": "Effectiveness of single-dose use of oral cholera vaccine towards reducing cholera incidence and severity during the 2022-2023 in Malawi; A cross-sectional study - medRxiv",
+      "summary_original": "Effectiveness of single-dose use of oral cholera vaccine towards reducing cholera incidence and severity during the 2022-2023 in Malawi; A cross-sectional study medRxiv",
+      "summary_ai_original": "Effectiveness of single-dose use of oral cholera vaccine towards reducing cholera incidence and severity during the 2022-2023 in Malawi; A cross-sectional study medRxiv",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ScVBrX3ZJY3A4V2lqdUVsc2Vqd2kyMl9heklodENIWml6cWk0NkpPby1CTzYtQjdLb2xHWlVDRVlBZkJpMERQZ3VKSWNRYk5qMW1mTmVWWEJDbmo3UTNGY1dxbHZsbW9lQUVtS3J4cw?oc=5",
+      "source": "medRxiv vaccines",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-03-28T03:23:52+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "cholera"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "medRxiv"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "medRxiv"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "medRxiv vaccines"
+      ]
+    },
     {
       "id": "cb2aee9baaff7f24",
       "title": "新しい臨床ガイドラインは、アメリカ大陸における重度の黄熱患者のケアを改善することを目的としています",
@@ -541,6 +608,71 @@
       ]
     },
     {
+      "id": "52653fbd9d6834de",
+      "title": "研究室から臨床試験まで – 肺がん予防ワクチンがすぐに実現できる理由 - ガーディアン紙",
+      "summary": "研究室から臨床試験まで - なぜ肺がん予防ワクチンがすぐに実現できるのか ガーディアン紙",
+      "summary_ai": "研究室から臨床試験まで - なぜ肺がん予防ワクチンがすぐに実現できるのか ガーディアン紙",
+      "title_original": "From the lab to clinical trials – why a preventative lung cancer vaccine could soon be a reality - The Guardian",
+      "summary_original": "From the lab to clinical trials – why a preventative lung cancer vaccine could soon be a reality The Guardian",
+      "summary_ai_original": "From the lab to clinical trials – why a preventative lung cancer vaccine could soon be a reality The Guardian",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPU2Z5dzkzLU9ac09MV2tFempaQjh0LUVMd3UzRG82cHNTMkItV1NtamxyVHRaTmhKeFBQQm5rQnpFSkZiRk5FU0NJbVljS2p6WXJmd3U2RHdFckNxXzVYQ0RvZVFseVdMdjJvNXFyUnA0U21IdktWMUhyNTNEVllPVlR2SlNGTmNtRnFfc2lRaXowNWZ3bjZkcXVPTUZ4WXhtUUpYR0NiejNjeGtfT3gtV2VYWEhYbE1lWTZsT0FoSDNlNEcz?oc=5",
+      "source": "Guardian Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-03-26T16:22:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "The Guardian"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "The Guardian"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Guardian Vaccines / Immunization"
+      ]
+    },
+    {
       "id": "12d29f3972ea305a",
       "title": "産業向け規制教育 (REdI) 年次会議 2026: 医療製品を前進させるための革新的な規制戦略 - 2026 年 5 月 19 日",
       "summary": "医薬品、機器、生物製剤などの医療製品センターの FDA 規制専門家から直接学びましょう。",
@@ -609,71 +741,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "FDA Vaccines / Biologics"
-      ]
-    },
-    {
-      "id": "f8ce717e76129169",
-      "title": "スペインの高齢者を対象とした高用量ワクチンとアジュバント添加四価ワクチンによるインフルエンザワクチン接種の費用対効果分析 - medRxiv",
-      "summary": "スペインにおける高齢者を対象とした高用量ワクチンとアジュバント添加四価ワクチンによるインフルエンザワクチン接種の費用対効果分析 medRxiv",
-      "summary_ai": "スペインにおける高齢者を対象とした高用量ワクチンとアジュバント添加四価ワクチンによるインフルエンザワクチン接種の費用対効果分析 medRxiv",
-      "title_original": "Cost-effectiveness analysis of influenza vaccination with a high-dose vaccine versus an adjuvanted quadrivalent vaccine in older adults in Spain - medRxiv",
-      "summary_original": "Cost-effectiveness analysis of influenza vaccination with a high-dose vaccine versus an adjuvanted quadrivalent vaccine in older adults in Spain medRxiv",
-      "summary_ai_original": "Cost-effectiveness analysis of influenza vaccination with a high-dose vaccine versus an adjuvanted quadrivalent vaccine in older adults in Spain medRxiv",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1TZ1htWXZNLVJqVGg1TklWekFiejQyc3JOOW14T2lVdHU4S09UcHVfY3VXM195WTJaMlV1RzVqeFh2NTQyZUt3N0FTY2JrcGg3ZEI3UnZUYWpiS1RmRGMxTlZ3d1k1bjNlQS0wRFdENA?oc=5",
-      "source": "medRxiv vaccines",
-      "source_type": "preprint",
-      "source_tier": "Tier 3",
-      "source_priority": 7,
-      "published_at": "2026-03-25T20:27:15+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "スペイン",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "medRxiv"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "medRxiv"
-        },
-        "target": {
-          "key": "spain",
-          "name_ja": "スペイン",
-          "lat": 40.4168,
-          "lng": -3.7038,
-          "region": "Europe",
-          "label": "スペイン"
-        }
-      },
-      "location": {
-        "key": "spain",
-        "name_ja": "スペイン",
-        "lat": 40.4168,
-        "lng": -3.7038,
-        "region": "Europe",
-        "label": "スペイン"
-      },
-      "region": "Europe",
-      "country": "スペイン",
-      "lat": 40.4168,
-      "lng": -3.7038,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "medRxiv vaccines"
       ]
     },
     {
@@ -1154,80 +1221,13 @@
       ]
     },
     {
-      "id": "f504a0d4dd093042",
-      "title": "新型コロナウイルスワクチンは突然死のリスクと関連していないことが研究で判明 - CIDRAP",
-      "summary": "新型コロナウイルスワクチンは突然死のリスクと結びついていない、研究結果CIDRAP",
-      "summary_ai": "新型コロナウイルスワクチンは突然死のリスクと結びついていない、研究結果CIDRAP",
-      "title_original": "COVID vaccines not tied to risk of sudden death, study shows - CIDRAP",
-      "summary_original": "COVID vaccines not tied to risk of sudden death, study shows CIDRAP",
-      "summary_ai_original": "COVID vaccines not tied to risk of sudden death, study shows CIDRAP",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcnV3Y0hHajJQOThvZkppaWdRWi1MN3pfeWtHeElnOW5mZDRSTUI4MDRsREFfZG1ybUswOVU1Tk1nZVlISVAwTmtrLWR0TXdKSTJfVk5yQXBMWUtPY1pmajRIdjdBbW10YUtXRWNNM190OUx1QlZPLVZWRS0xTWJnbVV4Q0NIbjZuZEtxOU9BbXE1UUU?oc=5",
-      "source": "CIDRAP Vaccines & Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 8,
-      "published_at": "2026-03-23T19:32:00+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "covid"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "CIDRAP / Minnesota"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "CIDRAP / Minnesota"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "CIDRAP Vaccines & Immunization"
-      ]
-    },
-    {
-      "id": "14f1566d19187dec",
-      "title": "ワクチン政策と国民の信頼に関する物語を再考する - BMJ",
-      "summary": "ワクチン政策と国民の信頼に関する物語を再考する The BMJ",
-      "summary_ai": "ワクチン政策と国民の信頼に関する物語を再考する The BMJ",
-      "title_original": "Rethinking the narrative on vaccine policy and public trust - The BMJ",
-      "summary_original": "Rethinking the narrative on vaccine policy and public trust The BMJ",
-      "summary_ai_original": "Rethinking the narrative on vaccine policy and public trust The BMJ",
+      "id": "9efd83ff247d0a96",
+      "title": "ワクチン政策と国民の信頼に関する物語を再考する - bmj.com",
+      "summary": "ワクチン政策と国民の信頼に関する物語を再考する bmj.com",
+      "summary_ai": "ワクチン政策と国民の信頼に関する物語を再考する bmj.com",
+      "title_original": "Rethinking the narrative on vaccine policy and public trust - bmj.com",
+      "summary_original": "Rethinking the narrative on vaccine policy and public trust bmj.com",
+      "summary_ai_original": "Rethinking the narrative on vaccine policy and public trust bmj.com",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Wb1JLcW1YUlotNHB4ZzZGTDh6TFYzbGZvS0x4eHVScWpiaklUTmVaMUtqOGRrUGUtQ2VLSVl2M0JleUhKZHJmMEVaQXRnSllCaWgwREJMbm5mUkJWY0tn?oc=5",
       "source": "BMJ",
@@ -1286,13 +1286,13 @@
       ]
     },
     {
-      "id": "749b91e9242d3a3d",
-      "title": "非ランダム化研究における新型コロナウイルス感染症ワクチンの推定有効性に影響を与える要因 - BMJ Evidence-Based Medicine",
-      "summary": "非ランダム化研究における新型コロナウイルス感染症ワクチンの推定有効性に影響を与える要因 BMJ Evidence-Based Medicine",
-      "summary_ai": "非ランダム化研究における新型コロナウイルス感染症ワクチンの推定有効性に影響を与える要因 BMJ Evidence-Based Medicine",
-      "title_original": "Factors influencing estimated effectiveness of COVID-19 vaccines in non-randomised studies - BMJ Evidence-Based Medicine",
-      "summary_original": "Factors influencing estimated effectiveness of COVID-19 vaccines in non-randomised studies BMJ Evidence-Based Medicine",
-      "summary_ai_original": "Factors influencing estimated effectiveness of COVID-19 vaccines in non-randomised studies BMJ Evidence-Based Medicine",
+      "id": "932e33720bd3fa7b",
+      "title": "非ランダム化研究における新型コロナウイルス感染症ワクチンの推定有効性に影響を与える要因 - ebm.bmj.com",
+      "summary": "非ランダム化研究における新型コロナウイルス感染症ワクチンの推定有効性に影響を与える要因 ebm.bmj.com",
+      "summary_ai": "非ランダム化研究における新型コロナウイルス感染症ワクチンの推定有効性に影響を与える要因 ebm.bmj.com",
+      "title_original": "Factors influencing estimated effectiveness of COVID-19 vaccines in non-randomised studies - ebm.bmj.com",
+      "summary_original": "Factors influencing estimated effectiveness of COVID-19 vaccines in non-randomised studies ebm.bmj.com",
+      "summary_ai_original": "Factors influencing estimated effectiveness of COVID-19 vaccines in non-randomised studies ebm.bmj.com",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Jb3Vqalh5RlNDN1NPMXNwZ0VOMXJqQ1lkcWFnVmhvSmNneW5RTEVXczU5SDBoYjZtY0lEd3lMaVpZa1BTWnBHZVRFZExFVUpFUW0tZWVpelBrdDRMSDBtSQ?oc=5",
       "source": "BMJ",
@@ -1418,13 +1418,13 @@
       ]
     },
     {
-      "id": "8d5e51ccce25baca",
-      "title": "ケント髄膜炎の流行で英国ワクチン需要急増、政策議論 - ロイター",
-      "summary": "ケント髄膜炎流行で英国ワクチン需要急増、政策議論も Reuters",
-      "summary_ai": "ケント髄膜炎流行で英国ワクチン需要急増、政策議論も Reuters",
-      "title_original": "Kent meningitis outbreak triggers surge in UK vaccine demand, policy debate - Reuters",
-      "summary_original": "Kent meningitis outbreak triggers surge in UK vaccine demand, policy debate Reuters",
-      "summary_ai_original": "Kent meningitis outbreak triggers surge in UK vaccine demand, policy debate Reuters",
+      "id": "b84b53bdee1a6ff6",
+      "title": "ケント髄膜炎の流行で英国のワクチン需要急増、政策議論 - ロイター",
+      "summary": "ケント髄膜炎の流行で英国のワクチン需要急増、政策議論も ロイター",
+      "summary_ai": "ケント髄膜炎の流行で英国のワクチン需要急増、政策議論も ロイター",
+      "title_original": "Kent meningitis outbreak triggers surge in UK vaccine demand, policy debate - reuters.com",
+      "summary_original": "Kent meningitis outbreak triggers surge in UK vaccine demand, policy debate reuters.com",
+      "summary_ai_original": "Kent meningitis outbreak triggers surge in UK vaccine demand, policy debate reuters.com",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWjNmOTlpNjVPZERzcGo1Tlh5dXFoaTlRNVY5YmFiaHdLSExFRl9TMmVVemE0T2hDSHB3VVhtbTFXcnNwd2Jna0M5anhxVWEyZ3U5eTZRSWdJSWVjNGlNbkFyckk4cFJhUzZBR1ZNX293RmlGS04wSWM2RlhyYnJVM0FfQS1uR2s1cTV6RmJ4bEMzMjVpSXA0a3ozZGFLam02bEdLMVpuMV9zc3F4Yk1jQjE0Ynd3ajJnWW5oRE9hVTF6ZGdEb3JJbHgycm5tbkE4bDJfNF9vX00xUm8?oc=5",
       "source": "Reuters Vaccines / Immunization",
@@ -1565,7 +1565,7 @@
       "source_type": "media",
       "source_tier": "Tier 2",
       "source_priority": 7,
-      "published_at": "2026-03-20T12:32:00+00:00",
+      "published_at": "2026-03-20T07:00:00+00:00",
       "topics": [
         "policy"
       ],
@@ -1619,6 +1619,73 @@
       ]
     },
     {
+      "id": "8e4bf287e0c46acf",
+      "title": "米国の50歳以上の健康な成人を対象とした31価肺炎球菌複合体ワクチン（VAX-31）の安全性、忍容性、免疫原性：第1/2相、二重盲検、実薬対照、並行群間、用量設定ランダム化臨床試験 - The Lancet",
+      "summary": "米国の50歳以上の健康な成人を対象とした31価肺炎球菌複合体ワクチン（VAX-31）の安全性、忍容性、免疫原性：第1/2相、二重盲検、実薬対照、並行群間、用量設定ランダム化臨床試験 The Lancet",
+      "summary_ai": "米国の50歳以上の健康な成人を対象とした31価肺炎球菌複合体ワクチン（VAX-31）の安全性、忍容性、免疫原性：第1/2相、二重盲検、実薬対照、並行群間、用量設定ランダム化臨床試験 The Lancet",
+      "title_original": "Safety, tolerability, and immunogenicity of a 31-valent pneumococcal conjugate vaccine (VAX-31) in healthy adults aged 50 years and older from the USA: a phase 1/2, double-blinded, active-controlled, parallel-group, dose-finding randomised clinical trial - The Lancet",
+      "summary_original": "Safety, tolerability, and immunogenicity of a 31-valent pneumococcal conjugate vaccine (VAX-31) in healthy adults aged 50 years and older from the USA: a phase 1/2, double-blinded, active-controlled, parallel-group, dose-finding randomised clinical trial The Lancet",
+      "summary_ai_original": "Safety, tolerability, and immunogenicity of a 31-valent pneumococcal conjugate vaccine (VAX-31) in healthy adults aged 50 years and older from the USA: a phase 1/2, double-blinded, active-controlled, parallel-group, dose-finding randomised clinical trial The Lancet",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeElsQXE2cmNjdzdrOTdiQmtxcXcxQ2RxaVVrQkswSGFuYzFSRnFELTZ1NVI0Z0N1d1JzajFYQWJGZzFjZWlGN0U5ZzZYM0JKX1J3UHl6dUpHUlVHU1ppX1JEN1JUcHNVSjlheDZ4bWxteFg4aFFNNzJLOFJZWWwwUG1QTUhmZ3Bnc1g4?oc=5",
+      "source": "Lancet Infectious Diseases",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-03-19T09:11:24+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [
+        "safety"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "米国",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Lancet Infectious Diseases / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Lancet Infectious Diseases / London"
+        },
+        "target": {
+          "key": "usa",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "米国"
+        }
+      },
+      "location": {
+        "key": "usa",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "米国"
+      },
+      "region": "North America",
+      "country": "米国",
+      "lat": 38.9072,
+      "lng": -77.0369,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Lancet Infectious Diseases"
+      ]
+    },
+    {
       "id": "00e62986e4d014be",
       "title": "ウガンダとネパールにおけるDTwP含有ワクチン乳児予防接種スケジュールの最適化（OptImms）：2つの非盲検、非劣性、ランダム化比較試験 - The Lancet",
       "summary": "ウガンダとネパールにおけるDTwP含有ワクチン乳児予防接種スケジュールの最適化（OptImms）：2つの非盲検非劣性ランダム化比較試験 The Lancet",
@@ -1632,7 +1699,7 @@
       "source_type": "academic",
       "source_tier": "Tier 3",
       "source_priority": 8,
-      "published_at": "2026-03-20T00:27:41+00:00",
+      "published_at": "2026-03-19T07:00:00+00:00",
       "topics": [
         "policy",
         "research"
@@ -1681,140 +1748,6 @@
       "country": "ネパール",
       "lat": 27.7172,
       "lng": 85.324,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Lancet Infectious Diseases"
-      ]
-    },
-    {
-      "id": "2d5032c78f2d99d2",
-      "title": "デンマークの大学、物議を醸すギニアビサウでのB型肝炎ワクチン研究を保留 - CIDRAP",
-      "summary": "デンマークの大学、物議を醸しているギニアビサウでのB型肝炎ワクチン研究を保留 CIDRAP",
-      "summary_ai": "デンマークの大学、物議を醸しているギニアビサウでのB型肝炎ワクチン研究を保留 CIDRAP",
-      "title_original": "Danish university places hold on controversial hepatitis B vaccine study in Guinea-Bissau - CIDRAP",
-      "summary_original": "Danish university places hold on controversial hepatitis B vaccine study in Guinea-Bissau CIDRAP",
-      "summary_ai_original": "Danish university places hold on controversial hepatitis B vaccine study in Guinea-Bissau CIDRAP",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSDBEYmZjX1R4Zlc2OF93akxWQ0lBeHNOc0Voa0RpSnZRTGVDdGFiV01KclZtRzVvTUhZNFczNllrSHNPRTdHQnNCVlBCT0c1RmlFSDdLT1J4aF9DaDZnOTVnNU93Q0ZnU25BTzZxYndiWnZWNjVNMlkyR2tnbzFMVThtOVFkTXQ2Uno1Ni0td3hvWS1ZZ1ZWcEEtU3NrUzJKd2ItS3BPbzUxTlZ3d0MybzFPRWZHUUNmY0xWYQ?oc=5",
-      "source": "CIDRAP Vaccines & Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 8,
-      "published_at": "2026-03-19T19:44:00+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "hepatitis"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "CIDRAP / Minnesota"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "CIDRAP / Minnesota"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "CIDRAP Vaccines & Immunization"
-      ]
-    },
-    {
-      "id": "a926a706c7454edf",
-      "title": "米国の50歳以上の健康な成人を対象とした31価肺炎球菌複合体ワクチン（VAX-31）の安全性、忍容性、免疫原性：第1/2相、二重盲検、実薬対照、並行群間、用量設定ランダム化臨床試験 - The Lancet",
-      "summary": "米国の50歳以上の健康な成人を対象とした31価肺炎球菌複合体ワクチン（VAX-31）の安全性、忍容性、免疫原性：第1/2相、二重盲検、実薬対照、並行群間、用量設定ランダム化臨床試験 The Lancet",
-      "summary_ai": "米国の50歳以上の健康な成人を対象とした31価肺炎球菌複合体ワクチン（VAX-31）の安全性、忍容性、免疫原性：第1/2相、二重盲検、実薬対照、並行群間、用量設定ランダム化臨床試験 The Lancet",
-      "title_original": "Safety, tolerability, and immunogenicity of a 31-valent pneumococcal conjugate vaccine (VAX-31) in healthy adults aged 50 years and older from the USA: a phase 1/2, double-blinded, active-controlled, parallel-group, dose-finding randomised clinical trial - The Lancet",
-      "summary_original": "Safety, tolerability, and immunogenicity of a 31-valent pneumococcal conjugate vaccine (VAX-31) in healthy adults aged 50 years and older from the USA: a phase 1/2, double-blinded, active-controlled, parallel-group, dose-finding randomised clinical trial The Lancet",
-      "summary_ai_original": "Safety, tolerability, and immunogenicity of a 31-valent pneumococcal conjugate vaccine (VAX-31) in healthy adults aged 50 years and older from the USA: a phase 1/2, double-blinded, active-controlled, parallel-group, dose-finding randomised clinical trial The Lancet",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaGpkRDgxOVNwWTR3UE1WTUdKXzFCLUxPQ3hjS1kwMEdNV29KcGVrbDdNY1RtTk9zZDllRkRlOEJrdnF0T21XQlJqUFNiNHlQTmQ3TGtvT2hmMmVwVnJwVF93djI4OWhSMk9UeDZRZ01QZVZMZzk0LVUwNi1MdEM5bjRFWHVGT3VLME5n?oc=5",
-      "source": "Lancet Infectious Diseases",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-03-19T09:03:21+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [
-        "safety"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "米国",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "Lancet Infectious Diseases / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "Lancet Infectious Diseases / London"
-        },
-        "target": {
-          "key": "usa",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "米国"
-        }
-      },
-      "location": {
-        "key": "usa",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "米国"
-      },
-      "region": "North America",
-      "country": "米国",
-      "lat": 38.9072,
-      "lng": -77.0369,
       "duplicate_count": 1,
       "duplicate_sources": [
         "Lancet Infectious Diseases"
@@ -1886,13 +1819,13 @@
       ]
     },
     {
-      "id": "c4ea7fcf40c8a36b",
-      "title": "新型コロナウイルス感染症ワクチン臨床試験の透明性: データなしの決定 - BMJ Evidence-Based Medicine",
-      "summary": "新型コロナウイルス感染症ワクチン臨床試験の透明性: データなしの決定 BMJ Evidence-Based Medicine",
-      "summary_ai": "新型コロナウイルス感染症ワクチン臨床試験の透明性: データなしの決定 BMJ Evidence-Based Medicine",
-      "title_original": "Transparency of COVID-19 vaccine trials: decisions without data - BMJ Evidence-Based Medicine",
-      "summary_original": "Transparency of COVID-19 vaccine trials: decisions without data BMJ Evidence-Based Medicine",
-      "summary_ai_original": "Transparency of COVID-19 vaccine trials: decisions without data BMJ Evidence-Based Medicine",
+      "id": "6de2c28044c4f9a8",
+      "title": "COVID-19 ワクチン治験の透明性: データなしの決定 - ebm.bmj.com",
+      "summary": "新型コロナウイルス感染症ワクチン臨床試験の透明性: データなしの決定 ebm.bmj.com",
+      "summary_ai": "新型コロナウイルス感染症ワクチン臨床試験の透明性: データなしの決定 ebm.bmj.com",
+      "title_original": "Transparency of COVID-19 vaccine trials: decisions without data - ebm.bmj.com",
+      "summary_original": "Transparency of COVID-19 vaccine trials: decisions without data ebm.bmj.com",
+      "summary_ai_original": "Transparency of COVID-19 vaccine trials: decisions without data ebm.bmj.com",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZOUVpY2xBOWdWTEtvX0Z0X3J5cGZtdlBuVkdVYmE2UWtvNVZyN2xSSXlVOTlmdGtMblM0V1hwUHZwZ0xxWGgtTFQxU3JMRURpaXMtR1M0ckdKdnlETF94MA?oc=5",
       "source": "BMJ",
@@ -2087,13 +2020,13 @@
       ]
     },
     {
-      "id": "ea4da49d4b46fdf6",
-      "title": "米国のワクチン政策再編に向けたRFKジュニアの入札を判事が阻止 - ロイター",
-      "summary": "米ワクチン政策再編に向けRFKジュニアの入札を判事が阻止 Reuters",
-      "summary_ai": "米ワクチン政策再編に向けRFKジュニアの入札を判事が阻止 Reuters",
-      "title_original": "Judge blocks RFK Jr bid to reshape US vaccine policy - Reuters",
-      "summary_original": "Judge blocks RFK Jr bid to reshape US vaccine policy Reuters",
-      "summary_ai_original": "Judge blocks RFK Jr bid to reshape US vaccine policy Reuters",
+      "id": "99a04f4064a75fd3",
+      "title": "米国のワクチン政策を再構築するRFKジュニアの入札を判事が阻止 - ロイター",
+      "summary": "米国のワクチン政策再編を目指すRFKジュニアの入札を判事が阻止 ロイター",
+      "summary_ai": "米国のワクチン政策再編を目指すRFKジュニアの入札を判事が阻止 ロイター",
+      "title_original": "Judge blocks RFK Jr bid to reshape US vaccine policy - reuters.com",
+      "summary_original": "Judge blocks RFK Jr bid to reshape US vaccine policy reuters.com",
+      "summary_ai_original": "Judge blocks RFK Jr bid to reshape US vaccine policy reuters.com",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHeUdhelVsbUw1QkVnVkxuXzk3MDVYeEtwRnNYakJnU3RPNHBySVp0UWczM3hFOXp0WVJ5eUhXd2o5SExHYVYzOTgzN2l0LXExdmNmVHZfNk1ENE0xN3J2RWMxNEM3YmM?oc=5",
       "source": "Reuters Vaccines / Immunization",
@@ -2483,13 +2416,13 @@
       ]
     },
     {
-      "id": "0130f103688acc4c",
-      "title": "インスタントビュー：ワクチン政策阻止の米裁判所命令で公衆衛生の勝利に変化、専門家ら指摘 - ロイター",
-      "summary": "インスタントビュー：ワクチン政策阻止の米裁判所命令で公衆衛生の勝利に変化、専門家ら指摘 Reuters",
-      "summary_ai": "インスタントビュー：ワクチン政策阻止の米裁判所命令で公衆衛生の勝利に変化、専門家ら指摘 Reuters",
-      "title_original": "Instant View: US court order blocking vaccine policy changes a win for public health, experts say - Reuters",
-      "summary_original": "Instant View: US court order blocking vaccine policy changes a win for public health, experts say Reuters",
-      "summary_ai_original": "Instant View: US court order blocking vaccine policy changes a win for public health, experts say Reuters",
+      "id": "06214f60227f7ada",
+      "title": "インスタントビュー：ワクチン政策を阻止する米国の裁判所命令は公衆衛生の勝利を変えると専門家が語る - ロイター.com",
+      "summary": "インスタントビュー：ワクチン政策を阻止する米国の裁判所命令は公衆衛生の勝利を変える、専門家がロイター通信",
+      "summary_ai": "インスタントビュー：ワクチン政策を阻止する米国の裁判所命令は公衆衛生の勝利を変える、専門家がロイター通信",
+      "title_original": "Instant View: US court order blocking vaccine policy changes a win for public health, experts say - reuters.com",
+      "summary_original": "Instant View: US court order blocking vaccine policy changes a win for public health, experts say reuters.com",
+      "summary_ai_original": "Instant View: US court order blocking vaccine policy changes a win for public health, experts say reuters.com",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPM1VRU0tCU240R1pDZE9VUEZSNlJyeGJrRDJTOU1vMmEyYXZsOHRMYWMybjd4NXN6MjRKaTNqZmFBX2VqM0dHUUZIVFZnUGFldHVCV2NGLUktLXJuS1B0T2NNczF4VDBIMHJ3OTFDVXhGQnpSSVZod05IbWZwbTZCeU82b1UzTDNid2xqc2xYS21MVU1jVWlKa3hyOUpDeWt0WDB0NE1mYVBkN0RwOEFPTE1oVzN6T0NiYks1QnVxYXN4RWlUTkZ6UE8xMmNvWngtQjVaY1VuVjVYcnpaVlJLbm81NA?oc=5",
       "source": "Reuters Vaccines / Immunization",
@@ -2548,13 +2481,13 @@
       ]
     },
     {
-      "id": "b3db7d71d6209008",
-      "title": "ケネディ米保健長官のワクチン対策と政策的立場 - ロイター",
-      "summary": "ケネディ米保健長官のワクチンへの取り組みと政策的立場 ロイター",
-      "summary_ai": "ケネディ米保健長官のワクチンへの取り組みと政策的立場 ロイター",
-      "title_original": "US Health Secretary Kennedy's vaccine actions and policy positions - Reuters",
-      "summary_original": "US Health Secretary Kennedy's vaccine actions and policy positions Reuters",
-      "summary_ai_original": "US Health Secretary Kennedy's vaccine actions and policy positions Reuters",
+      "id": "561c350a89f90cb1",
+      "title": "ケネディ米国保健長官のワクチンへの取り組みと政策的立場 - ロイター.com",
+      "summary": "ケネディ米国保健長官のワクチンへの取り組みと政策的立場 ロイター.com",
+      "summary_ai": "ケネディ米国保健長官のワクチンへの取り組みと政策的立場 ロイター.com",
+      "title_original": "US Health Secretary Kennedy's vaccine actions and policy positions - reuters.com",
+      "summary_original": "US Health Secretary Kennedy's vaccine actions and policy positions reuters.com",
+      "summary_ai_original": "US Health Secretary Kennedy's vaccine actions and policy positions reuters.com",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYzNRQ0t0TXhvdnRCUXE2b0ZpRjFKOGhjUGZIUjlpWDFyUTZONlZoQTlfdGp6V1FibEwxR0RiS0pka0lXNU0xS0hmSko3TFFESmpIa2tUeC1WV0NNM3F6cHhlZUx2aDBGM2h6ekc4NWVYZjkydzBtcGVqUjhOMTFjVndWTFc4MzZqamVSbmFwb2Z5M3ZLM1JGNV9nUXVDZ1ZEaTVJYkpNWXMtRnV3NkhmenZURHpUT1JhV0Y0cWxBejFySUdyc1pfU0VkTnZYQQ?oc=5",
       "source": "Reuters Vaccines / Immunization",
@@ -2746,13 +2679,13 @@
       ]
     },
     {
-      "id": "d687c289ac271c71",
-      "title": "予防接種の実施に関する諮問委員会 - ページ 8 - nytimes.com",
-      "summary": "予防接種の実施に関する諮問委員会 - ページ 8 nytimes.com",
-      "summary_ai": "予防接種の実施に関する諮問委員会 - ページ 8 nytimes.com",
-      "title_original": "Advisory Committee on Immunization Practices - Page 8 - nytimes.com",
-      "summary_original": "Advisory Committee on Immunization Practices - Page 8 nytimes.com",
-      "summary_ai_original": "Advisory Committee on Immunization Practices - Page 8 nytimes.com",
+      "id": "62191af95dc95d7d",
+      "title": "予防接種の実施に関する諮問委員会 - ページ 8 - ニューヨーク・タイムズ",
+      "summary": "予防接種の実施に関する諮問委員会 - ページ 8 ニューヨーク・タイムズ",
+      "summary_ai": "予防接種の実施に関する諮問委員会 - ページ 8 ニューヨーク・タイムズ",
+      "title_original": "Advisory Committee on Immunization Practices - Page 8 - The New York Times",
+      "summary_original": "Advisory Committee on Immunization Practices - Page 8 The New York Times",
+      "summary_ai_original": "Advisory Committee on Immunization Practices - Page 8 The New York Times",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONUtydlNIZG1ScnhCSkhIbzZvcHVPNWJHdDc2T2phaVQydUg1Vkw2M0E1bHVXTEFFcGtQVG41WmN1ekV1eWxYdUlxSmM2UXVnLUdHSUF4cGRSUDQ1YUd3WUc0QS0wR0dhWGN1dTVyY3lVaEdlZGhkVjREeFdGMlNpb1FmcVVEOTQt?oc=5",
       "source": "New York Times Vaccines / Immunization",
@@ -2813,20 +2746,20 @@
       ]
     },
     {
-      "id": "d979931ec7970b8b",
-      "title": "多様な環境における腸チフス結合型ワクチンスケジュールの影響と費用対効果の評価 - medRxiv",
-      "summary": "多様な設定における腸チフス結合型ワクチンスケジュールの影響と費用対効果の評価 medRxiv",
-      "summary_ai": "多様な設定における腸チフス結合型ワクチンスケジュールの影響と費用対効果の評価 medRxiv",
-      "title_original": "Evaluating the Impact and Cost-Effectiveness of Typhoid Conjugate Vaccine Schedules Across Diverse Settings - medRxiv",
-      "summary_original": "Evaluating the Impact and Cost-Effectiveness of Typhoid Conjugate Vaccine Schedules Across Diverse Settings medRxiv",
-      "summary_ai_original": "Evaluating the Impact and Cost-Effectiveness of Typhoid Conjugate Vaccine Schedules Across Diverse Settings medRxiv",
+      "id": "70a7d6844487be6f",
+      "title": "多様な設定における腸チフス結合型ワクチンスケジュールの影響と費用対効果の評価: マルチモデルの比較 - medRxiv",
+      "summary": "多様な設定における腸チフス結合型ワクチンスケジュールの影響と費用対効果の評価: マルチモデルの比較 medRxiv",
+      "summary_ai": "多様な設定における腸チフス結合型ワクチンスケジュールの影響と費用対効果の評価: マルチモデルの比較 medRxiv",
+      "title_original": "Evaluating the Impact and Cost-Effectiveness of Typhoid Conjugate Vaccine Schedules Across Diverse Settings: A Multi-Model Comparison - medRxiv",
+      "summary_original": "Evaluating the Impact and Cost-Effectiveness of Typhoid Conjugate Vaccine Schedules Across Diverse Settings: A Multi-Model Comparison medRxiv",
+      "summary_ai_original": "Evaluating the Impact and Cost-Effectiveness of Typhoid Conjugate Vaccine Schedules Across Diverse Settings: A Multi-Model Comparison medRxiv",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBuMU1IVF9DZkhPYkxqNnhnYjhGN3ROWExyeFMtaUIwMEt5WnlwUXM0Um9PbkZMTXF3YXhFNWMwbHBSRXpXWGYzemhabFZmb050YjZySWx0RXg3TGZKeVpXaERhaXZiSGZoYzNnUHJNZVYwak5UN0tqTVBNYw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1SUJ0S0RVZFU1bmlNU0pfb201SlAzdkszcy1DUENWdUkyQ1d2aWtPY0dudkFWRk53cDdFc1dXQXVZcm9qaElaSEN6NVlPX0tmcDc4WUZzR0tBSTdlNk9Fam00T09DZTR2eXc4cmx5Yw?oc=5",
       "source": "medRxiv vaccines",
       "source_type": "preprint",
       "source_tier": "Tier 3",
       "source_priority": 7,
-      "published_at": "2026-03-14T07:00:00+00:00",
+      "published_at": "2026-03-15T02:44:12+00:00",
       "topics": [
         "policy",
         "research"
