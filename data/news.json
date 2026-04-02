@@ -1,9 +1,9 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-04-01T21:54:55.020061+00:00",
-  "item_count": 35,
-  "archive_count": 96,
+  "generated_at": "2026-04-02T21:50:49.443575+00:00",
+  "item_count": 33,
+  "archive_count": 101,
   "days_back": 14,
   "plot_mode_default": "source",
   "feed_status": [
@@ -44,7 +44,7 @@
       "url": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/biologics/rss.xml",
       "status": "ok",
       "seen": 20,
-      "kept": 3
+      "kept": 2
     },
     {
       "name": "EMA News",
@@ -82,36 +82,36 @@
       "name": "PAHO News",
       "url": "https://www.paho.org/en/rss.xml",
       "status": "ok",
-      "seen": 6,
+      "seen": 5,
       "kept": 1
     },
     {
       "name": "The Lancet series",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Athelancet.com%20(trial%20OR%20policy%20OR%20effectiveness%20OR%20safety)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 0,
-      "kept": 0
+      "seen": 1,
+      "kept": 1
     },
     {
       "name": "Lancet Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Athelancet.com%2Fjournals%2Flaninf&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 3,
-      "kept": 2
+      "seen": 1,
+      "kept": 0
     },
     {
       "name": "NEJM",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Anejm.org%20(trial%20OR%20effectiveness%20OR%20policy%20OR%20safety)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 1,
       "kept": 0
     },
     {
       "name": "BMJ",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abmj.com%20(policy%20OR%20trial%20OR%20effectiveness%20OR%20communication)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 15,
-      "kept": 14
+      "seen": 11,
+      "kept": 10
     },
     {
       "name": "Vaccine journal",
@@ -145,50 +145,50 @@
       "name": "medRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Amedrxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 3,
-      "kept": 3
+      "seen": 8,
+      "kept": 8
     },
     {
       "name": "bioRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abiorxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 9,
+      "seen": 12,
       "kept": 1
     },
     {
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 18,
-      "kept": 2
+      "seen": 23,
+      "kept": 3
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 99,
-      "kept": 1
+      "seen": 59,
+      "kept": 2
     },
     {
       "name": "AP Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 1,
       "kept": 0
     },
     {
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 12,
+      "seen": 10,
       "kept": 0
     },
     {
       "name": "Financial Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aft.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 8,
-      "kept": 3
+      "seen": 7,
+      "kept": 2
     },
     {
       "name": "STAT Vaccines / Immunization",
@@ -201,35 +201,35 @@
       "name": "Nature News Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 5,
+      "seen": 6,
       "kept": 0
     },
     {
       "name": "Science Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Ascience.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 28,
+      "seen": 29,
       "kept": 1
     },
     {
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 27,
+      "seen": 26,
       "kept": 0
     },
     {
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 27,
+      "seen": 25,
       "kept": 2
     },
     {
       "name": "Washington Post Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 13,
+      "seen": 10,
       "kept": 0
     },
     {
@@ -243,32 +243,438 @@
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 16,
+      "seen": 12,
       "kept": 0
     },
     {
       "name": "朝日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Aasahi.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 30,
+      "seen": 26,
       "kept": 0
     },
     {
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 13,
-      "kept": 0
+      "seen": 12,
+      "kept": 1
     },
     {
       "name": "毎日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 13,
+      "seen": 11,
       "kept": 0
     }
   ],
   "items": [
+    {
+      "id": "981da869c0655230",
+      "title": "６５歳定期接種の肺炎球菌ワクチンが新タイプに切り替え 柳沢慎吾さんが啓発アンバサダー - 読売新聞オンライン",
+      "summary": "６５歳定期接種の肺炎球菌ワクチンが新タイプに切り替え 柳沢慎吾さんが啓発アンバサダー 読売新聞オンライン",
+      "summary_ai": "６５歳定期接種の肺炎球菌ワクチンが新タイプに切り替え 柳沢慎吾さんが啓発アンバサダー 読売新聞オンライン",
+      "title_original": "６５歳定期接種の肺炎球菌ワクチンが新タイプに切り替え 柳沢慎吾さんが啓発アンバサダー - 読売新聞オンライン",
+      "summary_original": "６５歳定期接種の肺炎球菌ワクチンが新タイプに切り替え 柳沢慎吾さんが啓発アンバサダー 読売新聞オンライン",
+      "summary_ai_original": "６５歳定期接種の肺炎球菌ワクチンが新タイプに切り替え 柳沢慎吾さんが啓発アンバサダー 読売新聞オンライン",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBzeG90NGt6bmhETnFIOXNEcmpsRHhqeFlGSE4tcG9rQkNoU1ptOFU4a1NNcVk4Z05iaG9xSTg1akhuaTY5RFBIZlJ1UXlSczhoc0s1ZXlUWDhjQUo1aVh3SnVXNy1RdDhQbHZYempB?oc=5",
+      "source": "読売新聞 ワクチン / 予防接種",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-04-02T20:00:30+00:00",
+      "topics": [
+        "communication"
+      ],
+      "policy_tags": [
+        "communication"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "japan",
+        "name_ja": "日本",
+        "lat": 35.6762,
+        "lng": 139.6503,
+        "region": "Asia",
+        "label": "読売新聞"
+      },
+      "plot": {
+        "source": {
+          "key": "japan",
+          "name_ja": "日本",
+          "lat": 35.6762,
+          "lng": 139.6503,
+          "region": "Asia",
+          "label": "読売新聞"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "読売新聞 ワクチン / 予防接種"
+      ]
+    },
+    {
+      "id": "c9571c05f69b3071",
+      "title": "米国成人におけるインフルエンザA型関連入院と重篤な入院転帰に対するインフルエンザワクチンの有効性、2024～2025年 - medRxiv",
+      "summary": "米国成人におけるインフルエンザA型関連入院および重度の入院転帰に対するインフルエンザワクチンの有効性、2024～2025年 medRxiv",
+      "summary_ai": "米国成人におけるインフルエンザA型関連入院および重度の入院転帰に対するインフルエンザワクチンの有効性、2024～2025年 medRxiv",
+      "title_original": "Influenza vaccine effectiveness against influenza A-associated hospitalization and severe in-hospital outcomes among adults in the United States, 2024-2025 - medRxiv",
+      "summary_original": "Influenza vaccine effectiveness against influenza A-associated hospitalization and severe in-hospital outcomes among adults in the United States, 2024-2025 medRxiv",
+      "summary_ai_original": "Influenza vaccine effectiveness against influenza A-associated hospitalization and severe in-hospital outcomes among adults in the United States, 2024-2025 medRxiv",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9hMGIyb0JVU3lvbkFfYjd2QkhybmxjTmdOQ1JSU0tZRzhya0V1cVU2dXVMN1Z6VWxGYnFobVFnamg2RzBjOWpEOV9vTThrMV9FSFhDcGJXcEdPeTl3QmhFR1h6cWJZTE5JQ3lCVWVIdw?oc=5",
+      "source": "medRxiv vaccines",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-04-02T19:31:14+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "influenza"
+      ],
+      "variants": [],
+      "target_country": "米国",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "medRxiv"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "medRxiv"
+        },
+        "target": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "米国"
+        }
+      },
+      "location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "米国"
+      },
+      "region": "North America",
+      "country": "米国",
+      "lat": 38.9072,
+      "lng": -77.0369,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "medRxiv vaccines"
+      ]
+    },
+    {
+      "id": "7368e3327131844c",
+      "title": "米国のワクチン政策の現状 — 2026 年 4 月 2 日 - CIDRAP",
+      "summary": "米国のワクチン政策の現状 — 2026 年 4 月 2 日 CIDRAP",
+      "summary_ai": "米国のワクチン政策の現状 — 2026 年 4 月 2 日 CIDRAP",
+      "title_original": "The State of US Vaccine Policy — Apr 2, 2026 - CIDRAP",
+      "summary_original": "The State of US Vaccine Policy — Apr 2, 2026 CIDRAP",
+      "summary_ai_original": "The State of US Vaccine Policy — Apr 2, 2026 CIDRAP",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPa0JWTGRlVUw5djZZVjhRRVVPNy16T0N4YW1KbDZqSWdTcGRvcGotZ2lvRGtJU3dhUkVRRHA5elR5UmVjbTRTUGxqekRiRlVqM3V4enVjbnA1QmE2ZUp4V1hyNXh6VDJ3VUNTbExMemNfb0ZQLWV1RHVJTkZNTEk4VQ?oc=5",
+      "source": "CIDRAP Vaccines & Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 8,
+      "published_at": "2026-04-02T19:04:03+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "CIDRAP / Minnesota"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "CIDRAP / Minnesota"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "CIDRAP Vaccines & Immunization"
+      ]
+    },
+    {
+      "id": "3c3049acea464b9d",
+      "title": "生物製剤手順 (SOPP)",
+      "summary": "これらの標準運用手順および方針 (SOPP) は、FDA 生物製剤研究審査センター (CBER) のスタッフが職務を遂行する際に使用します。 CBER はその運用方法について可能な限り透明性を保つよう努めているため、ここで一般に公開されています。",
+      "summary_ai": "これらの標準運用手順および方針 (SOPP) は、FDA 生物製剤研究審査センター (CBER) のスタッフが職務を遂行する際に使用します。標準運用方針および手順 (SOPP) 8001: SOPP 8001.2 の確認: FDA の失格リストへのアクセス",
+      "title_original": "Biologics Procedures (SOPPs)",
+      "summary_original": "These Standard Operating Procedures and Policies (SOPPs) are used by staff in FDA's Center for Biologics Research and Review (CBER) in the performance of their duties. They are made available here to the public because CBER is committed to being as transparent as possible in how it operates.",
+      "summary_ai_original": "These Standard Operating Procedures and Policies (SOPPs) are used by staff in FDA's Center for Biologics Research and Review (CBER) in the performance of their duties. Standard Operating Policies & Procedures (SOPPs) 8001: Review SOPP 8001.2: Accessing the FDA Lists of Disqualifi",
+      "article_text_original": "These Standard Operating Procedures and Policies (SOPPs) are used by staff in FDA's Center for Biologics Research and Review (CBER) in the performance of their duties. They are made available here to the public because CBER is committed to being as transparent as possible in how it operates. These SOPPs are organized by area of activity. Standard Operating Policies & Procedures (SOPPs) 8001: Review SOPP 8001.2: Accessing the FDA Lists of Disqualified and Restricted Clinical Investigators, Debarred Individuals, and Firms Under the FDA Application Integrity Policy Effective Date: February 25, 2020 SOPP 8001.4: Review of Proprietary Names for CBER Regulated Products Effective Date: December 13, 2023 SOPP 8001.6: Procedures for Parallel Scientific Advice with European Medicines Agency (EMA) Effective Date: January 12, 2023 SOPP 8004: Tissue Reference Group Effective Date: February 27, 2023 SOPP 8005: Formal Dispute Resolution Process Effective Date: February 27, 2023 SOPP 8006: Resolution of Differences in Scientific Judgement in the Review Process Effective Date: January 15, 2009 8101: Meetings SOPP 8101.1: Regulatory Meetings with Sponsors and Applicants for Drugs and Biological Products Effective Date: December 11, 2025 SOPP 8101.2: Scheduling and Documentation of Liaison Meetings With Industry Trade Organizations Effective Date: April 15, 2024 SOPP 8101.3: Participation in or Planning of Outside Regulatory and Scientific Events Effective Date: November 27, 2019 SOPP 8103: Headquarters Contacts with Regulated Manufacturers during Agency Inspections Effective Date: July 31, 2022 SOPP 8104: Documentation of Telephone Contacts with Regulated Industry Effective Date: December 11, 2020 SOPP 8110: Submission of Regulatory Applications -- Exempt from eCTD Requirements Effective Date: March 9, 2026 SOPP 8113: Handling of Regulatory Faxes in CBER Effective Date: December 11, 2020 SOPP 8114: Administrative Processing of Documents Received Prior to Submitting Investigational or Marketing Applications (Pre-Application) Effective Date: December 11, 2020 SOPP 8116: Use of Electronic Signatures for Regulatory Documents Effective Date: December 11, 2020 SOPP 8117: Issuing Tracking Numbers in Advance of Electronic Submissions in eCTD Format Effective Date: October 30, 2025 SOPP 8119: Use of Email for Regulatory Communications Effective Date: April 9, 2024 SOPP 8201: Administrative Processing of Clinical Holds for Investigational New Drug Applications Effective Date: January 14, 2026 SOPP 8203: Evaluation of Cost Recovery Requests for Investigational New Drugs and Investigational Device Exemptions Effective Date: December 11, 2020 SOPP 8212: Breakthrough Therapy Products - Designation and Management Effective Date: August 1, 2023 SOPP 8215: Management of Regenerative Medicine Advanced Therapy Products: Request for Designation, Sponsor Interactions, and Status Assessment Effective Date: January 8, 2026 SOPP 8216: Fast Track Development Programs - Designation and Management Effective Date: February 27, 2023 SOPP 8217: Administrative Processing and Review Management Procedures for Investigational New Drug Applications Effective Date: January 14, 2026 SOPP 8401: Administrative Processing of Original Biologics License Applications (BLA) and New Drug Applications (NDA) Effective Date: January 15, 2025 SOPP 8401.1: Issuance of and Review of Responses to Information Request Communications to Pending Applications Effective Date: October 1, 2022 SOPP 8401.2: Administrative Processing of BLA and NDA Supplements Effective Date: March 10, 2026 SOPP 8401.4: Review Responsibilities for the CMC Section of Biologic License Applications, New Drug Applications and Supplements Effective Date: October 1, 2022 SOPP 8401.7 - Action Package for Posting Effective Date: February 27, 2022 SOPP 8402: Designation of Amendments as Major Effective Date: October 10, 2024 SOPP 8403: Issuance, Reissuance, and Voluntary Revocation of Biological Products Licenses Effective Date: February 27, 2023 SOPP 8404: Refusal to File Procedures Effective Date: December 15, 2025 SOPP 8404.1: Procedures for Filing an Application When the Applicant Protests a Refusal to File Action (File Over Protest) Effective Date: September 7, 2023 SOPP 8405.1: Procedures for Resubmissions to an Application or Supplement Effective Date: November 13, 2022 SOPP 8406: CBER Processing of PDUFA Application Payments Effective Date: October 1, 2022 SOPP 8407: Compliance Status Checks Effective Date: December 11, 2020 SOPP 8408.1: Development of Laboratory Quality Product Testing Plans and Release of Lots as Part of the BLA Approval Process Effective Date: August 24, 2022 SOPP 8408.3: Lot Release Activities for Licensed Biological Products Effective Date: September 25, 2019 SOPP 8410: Determining When Pre-License / Pre-Approval Inspections are Necessary Effective Date: January 6, 2020 SOPP 8411.1: Administrative Handling and Review of Annual Reports for Approved Biologics License Applications (BLAs) Effective Date: December 11, 2020 SOPP 8412: Review of Product Labeling Effective Date: January 31, 2025 SOPP 8413: Postmarketing Requirement/Commitment Related Submissions - Administrative Handling, Review, and CBER Reporting Effective Date: February 15, 2024 SOPP 8415: Procedures for Developing Postmarketing Requirements and Commitments Effective Date: February 15, 2024 SOPP 8417: Implementation and Management of Risk Evaluation and Mitigation Strategies (REMS) Effective Date: October 1, 2022 SOPP 8419: Section 505(o)(4) Required Safety Labeling Changes (SLCs) Effective Date: February 12, 2024 SOPP 8420: FDAAA Section 921 - Posting of Potential Signals of Serious Risk Effective Date: February 27, 2022 SOPP 8421: Complying with Requirements under the Pediatric Research Equity Act (PREA) Effective Date: February 27, 2023 SOPP 8422: Processing and Review of Trans-BLA Submissions Effective Date: January 2, 2025 SOPP 8426: Assignment of Biological and Drug Product Proper Names and Biological Suffixes Effective Date: July 31, 2024 SOPP 8503.2: Review of Import for Export Requests Under F D & C Act Section 801(d)(4) Removed for Revision: September 1, 2009 8503: Import and Export Requests SOPP 8504: Release of Establishment Inspection Reports to the Inspected Establishments Pursuant to Field Management Directive 145 Effective Date: December 11, 2020 SOPP 8506: Management of Shortages of CBER-Regulated Products Effective Date: October 7, 2025 SOPP 8507: Procedures for Responding to an Illegitimate Product Notification and Request for Termination of Notification Effective Date: February 27, 2022 SOPP 8508: Procedures for Handling Adverse Reaction Reports Related to \"361\" Human Cells, Tissues, and Cellular and Tissue-Based Products (HCT/Ps) Effective Date: March 26, 2008 SOPP 8508.2: Procedures for the Vaccine Safety Team Effective Date: May 9, 2008 SOPP 8704: Managing MDUFA User Fee Payments and Billing Activities Effective Date: March 21, 2024 SOPP 8795: Posting and Announcement of Premarket Approval Application and Humanitarian Device Exemption Approvals and Denials Effective Date: June 3, 2024 Follow CBER Division of Communication and Consumer Affairs Office of Communication, Outreach and Development Center for Biologics Evaluation and Research Food and Drug Administration 10903 New Hampshire Ave WO71-3103 Silver Spring, MD 20993-0002 (800) 835-4709 (240) 402-8010 For Updates on Twitter, follow @fdacber",
+      "link": "http://www.fda.gov/vaccines-blood-biologics/guidance-compliance-regulatory-information-biologics/biologics-procedures-sopps",
+      "source": "FDA Vaccines / Biologics",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 9,
+      "published_at": "2026-04-02T15:24:01+00:00",
+      "topics": [
+        "communication",
+        "policy",
+        "research"
+      ],
+      "policy_tags": [
+        "approval",
+        "communication",
+        "safety"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "FDA / Silver Spring"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "FDA / Silver Spring"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "FDA Vaccines / Biologics"
+      ]
+    },
+    {
+      "id": "d84842dd92649790",
+      "title": "2 + 1 から 1 + 1 スケジュールへの変更前後のイギリスにおける小児用肺炎球菌結合型ワクチン摂取量の不平等: 縦断的研究 - The Lancet",
+      "summary": "2 + 1 スケジュールから 1 + 1 スケジュールへの変更前後の英国における小児用肺炎球菌結合型ワクチン摂取量の不平等: 縦断的研究 The Lancet",
+      "summary_ai": "2 + 1 スケジュールから 1 + 1 スケジュールへの変更前後の英国における小児用肺炎球菌結合型ワクチン摂取量の不平等: 縦断的研究 The Lancet",
+      "title_original": "Inequalities in childhood pneumococcal conjugate vaccine uptake in England before and after the change from a 2 + 1 to 1 + 1 schedule: a longitudinal study - The Lancet",
+      "summary_original": "Inequalities in childhood pneumococcal conjugate vaccine uptake in England before and after the change from a 2 + 1 to 1 + 1 schedule: a longitudinal study The Lancet",
+      "summary_ai_original": "Inequalities in childhood pneumococcal conjugate vaccine uptake in England before and after the change from a 2 + 1 to 1 + 1 schedule: a longitudinal study The Lancet",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRnM4eFBiWnBmSDdielRwRU1MTkFNYmJLREVNUXhUSTZ2M2RvdFFHRDJ1VlB1TU5sTG0zUnZkUkNzODdHSHJCRF81NkwxVkFCbkRYSXk0T1MtcC1pXzhKNzNDM2ttR3ZhM0lKbFZpTER0enU3ODUwMG8tcnJMZlZLSDFTWFhCZlJNVGV3?oc=5",
+      "source": "The Lancet series",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-04-01T23:51:44+00:00",
+      "topics": [
+        "communication",
+        "policy",
+        "research"
+      ],
+      "policy_tags": [
+        "schedule"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "The Lancet / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "The Lancet / London"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "The Lancet series"
+      ]
+    },
+    {
+      "id": "e49c4e6085281537",
+      "title": "ワクチンへの躊躇が高まる中、ビタミンK注射を拒否する親が増えている - CIDRAP",
+      "summary": "ワクチンへの躊躇が高まる中、ビタミンKワクチン接種を拒否する親が増加 CIDRAP",
+      "summary_ai": "ワクチンへの躊躇が高まる中、ビタミンKワクチン接種を拒否する親が増加 CIDRAP",
+      "title_original": "Amid rising vaccine hesitancy, more parents reject vitamin K shots - CIDRAP",
+      "summary_original": "Amid rising vaccine hesitancy, more parents reject vitamin K shots CIDRAP",
+      "summary_ai_original": "Amid rising vaccine hesitancy, more parents reject vitamin K shots CIDRAP",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeVVveDNUWlVaNEhHZWVfNTZsZjNRbHJHSmc0Z2JZb3h5QXZKU2Zvcjh3eURSVGFVbmtJcGpJQjlsRGUzVVJIQmJ6TXZqNC1manZ1cU5XQzV3YlFyNlZ5ZktUeFlRZ3lRMTUwZzd3N2lWUU85X2xFSUlzVFd4SnVCMjVjSUlSUFF1aG1TYnpfZkVBdlhieGN0dWQxOE9Zamk1dllIZTFQS3BwUQ?oc=5",
+      "source": "CIDRAP Vaccines & Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 8,
+      "published_at": "2026-04-01T16:53:43+00:00",
+      "topics": [
+        "communication"
+      ],
+      "policy_tags": [
+        "communication"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "CIDRAP / Minnesota"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "CIDRAP / Minnesota"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "CIDRAP Vaccines & Immunization"
+      ]
+    },
     {
       "id": "2bdcf972456a8a5e",
       "title": "独占：ファイザーとBioNTech、採用争いを受けて米国の新型コロナウイルスワクチン研究を中止 - ロイター",
@@ -283,7 +689,7 @@
       "source_type": "media",
       "source_tier": "Tier 2",
       "source_priority": 7,
-      "published_at": "2026-04-01T17:38:34+00:00",
+      "published_at": "2026-04-01T15:39:00+00:00",
       "topics": [
         "research"
       ],
@@ -337,69 +743,70 @@
       ]
     },
     {
-      "id": "fead8373325c3615",
-      "title": "米国における新型コロナウイルス感染症ワクチン接種の普及に対する移動ワクチンクリニックの効果：観察研究 - bmjpublichealth.bmj.com",
-      "summary": "米国における新型コロナウイルス感染症ワクチン接種の普及に対する移動ワクチンクリニックの効果：観察研究 bmjpublichealth.bmj.com",
-      "summary_ai": "米国における新型コロナウイルス感染症ワクチン接種の普及に対する移動ワクチンクリニックの効果：観察研究 bmjpublichealth.bmj.com",
-      "title_original": "Effectiveness of mobile vaccine clinics on COVID-19 vaccination uptake in the USA: an observational study - bmjpublichealth.bmj.com",
-      "summary_original": "Effectiveness of mobile vaccine clinics on COVID-19 vaccination uptake in the USA: an observational study bmjpublichealth.bmj.com",
-      "summary_ai_original": "Effectiveness of mobile vaccine clinics on COVID-19 vaccination uptake in the USA: an observational study bmjpublichealth.bmj.com",
+      "id": "8b9af73591d72e4a",
+      "title": "資源が少ない状況での流行時のワクチン有効性推定の改善: 経口コレラワクチン接種のケーススタディ - medRxiv",
+      "summary": "資源が乏しい環境での流行時のワクチン有効性推定の改善: 経口コレラワクチン接種 medRxiv のケーススタディ",
+      "summary_ai": "資源が乏しい環境での流行時のワクチン有効性推定の改善: 経口コレラワクチン接種 medRxiv のケーススタディ",
+      "title_original": "Improving estimation of vaccine effectiveness during outbreaks in low-resource settings: A case study of oral cholera vaccinatio - medRxiv",
+      "summary_original": "Improving estimation of vaccine effectiveness during outbreaks in low-resource settings: A case study of oral cholera vaccinatio medRxiv",
+      "summary_ai_original": "Improving estimation of vaccine effectiveness during outbreaks in low-resource settings: A case study of oral cholera vaccinatio medRxiv",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uNHRmdnU3aUVZV09kNm9fRVJldXNwSnRaTWxtOFNIOS1SejNwLUxNeExQV09tUld6REc2S3V0a2lTTkZfX1lsOUNzUzhSdlN5NW9lX0lDejlWNVI0SldfYg?oc=5",
-      "source": "BMJ",
-      "source_type": "academic",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBONnMybGFTLW9XbXVzdjBaR0k2bFdnbEZLY1M4T2NDek1OOWdzYnQxSDM5b1cwLWp3clQwdTBVYWRNQl9CS2dWYkZuR1FweXJhUWdGemxvRTNlY2Y3OG5KQUpqNTlWOEZMcVFRZnVmZF9CNVpjOGczVWYwcw?oc=5",
+      "source": "medRxiv vaccines",
+      "source_type": "preprint",
       "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-04-01T09:34:13+00:00",
+      "source_priority": 7,
+      "published_at": "2026-04-01T03:29:09+00:00",
       "topics": [
-        "communication",
         "research"
       ],
-      "policy_tags": [],
+      "policy_tags": [
+        "outbreak_response"
+      ],
       "vaccines": [],
       "variants": [],
-      "target_country": "米国",
+      "target_country": "不明",
       "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BMJ / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BMJ / London"
-        },
-        "target": {
-          "key": "usa",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "米国"
-        }
-      },
-      "location": {
-        "key": "usa",
+        "key": "united states",
         "name_ja": "米国",
         "lat": 38.9072,
         "lng": -77.0369,
         "region": "North America",
-        "label": "米国"
+        "label": "medRxiv"
       },
-      "region": "North America",
-      "country": "米国",
-      "lat": 38.9072,
-      "lng": -77.0369,
-      "duplicate_count": 1,
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "medRxiv"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 2,
       "duplicate_sources": [
-        "BMJ"
+        "medRxiv vaccines"
       ]
     },
     {
@@ -541,20 +948,20 @@
       ]
     },
     {
-      "id": "0e217c2569317df6",
-      "title": "BioNTech/ファイザー 新型コロナウイルスとインフルエンザの混合ワクチン、後期試験で難航 - フィナンシャル・タイムズ",
-      "summary": "BioNTech/ファイザー 新型コロナウイルスとインフルエンザの混合ワクチン、後期治験で難航 フィナンシャル・タイムズ",
-      "summary_ai": "BioNTech/ファイザー 新型コロナウイルスとインフルエンザの混合ワクチン、後期治験で難航 フィナンシャル・タイムズ",
-      "title_original": "BioNTech/Pfizer Covid and flu combo vaccine falters in late-stage trial - Financial Times",
-      "summary_original": "BioNTech/Pfizer Covid and flu combo vaccine falters in late-stage trial Financial Times",
-      "summary_ai_original": "BioNTech/Pfizer Covid and flu combo vaccine falters in late-stage trial Financial Times",
+      "id": "d4adf954adb54e6a",
+      "title": "英国における妊婦および乳児および幼児の母親の間での母体性呼吸器合胞体ウイルス (RSV) ワクチンに対する認識: 定性的研究 - medRxiv",
+      "summary": "英国における妊婦と乳児および幼児の母親の間での母体性呼吸器合胞体ウイルス（RSV）ワクチンに対する認識：定性的研究 medRxiv",
+      "summary_ai": "英国における妊婦と乳児および幼児の母親の間での母体性呼吸器合胞体ウイルス（RSV）ワクチンに対する認識：定性的研究 medRxiv",
+      "title_original": "Maternal respiratory syncytial virus (RSV) vaccine perceptions amongst pregnant women and mothers of infants and toddlers in England: a qualitative study - medRxiv",
+      "summary_original": "Maternal respiratory syncytial virus (RSV) vaccine perceptions amongst pregnant women and mothers of infants and toddlers in England: a qualitative study medRxiv",
+      "summary_ai_original": "Maternal respiratory syncytial virus (RSV) vaccine perceptions amongst pregnant women and mothers of infants and toddlers in England: a qualitative study medRxiv",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcWN5YlNDUmJ5WlNnNXdzTXpyMkFYN1pJZ2tCVkZIT3luRVlKMmdCNnMtbUlDbEowaGtJdU42dC1hcmZzZVVFLURUWnVkblRxUWI4UC1RZUJ4Q3F3STI0SEpJaU1LNXBTazlKOGM1VnhvRFRpUlMtR2pnUm9KTzMzZzBWeWo?oc=5",
-      "source": "Financial Times Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE01MkZGSnlpdTBqMlJ1VVVDcC10SVRqUkVObkZVSFNMdnJMb2pnb0dOSVFfV2tYcmtlOWduNnNodVZaLVlvbmsxZ2JnWGFaTFlNS2F1cUo1bnpNNjJFdzVxdmRkcVQybV9QNGFoWkZydw?oc=5",
+      "source": "medRxiv vaccines",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
       "source_priority": 7,
-      "published_at": "2026-03-31T02:06:18+00:00",
+      "published_at": "2026-03-30T18:59:38+00:00",
       "topics": [
         "research"
       ],
@@ -563,21 +970,21 @@
       "variants": [],
       "target_country": "不明",
       "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "Financial Times"
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "medRxiv"
       },
       "plot": {
         "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "Financial Times"
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "medRxiv"
         },
         "target": {
           "key": "unknown",
@@ -600,9 +1007,9 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "duplicate_sources": [
-        "Financial Times Vaccines / Immunization"
+        "medRxiv vaccines"
       ]
     },
     {
@@ -810,13 +1217,13 @@
       ]
     },
     {
-      "id": "a9851190226aa687",
-      "title": "「私ならこのワクチンを手に入れるために火の中を歩くだろう」：英国の性的健康サービス利用者の淋病ワクチンプログラムに対する態度と認識を調査する混合法研究 - bmjpublichealth.bmj.com",
-      "summary": "「私ならこのワクチンを手に入れるために火の中を歩くだろう」：英国の性的健康サービス利用者の淋病ワクチンプログラムに対する態度と認識を調査する混合法研究 bmjpublichealth.bmj.com",
-      "summary_ai": "「私ならこのワクチンを手に入れるために火の中を歩くだろう」：英国の性的健康サービス利用者の淋病ワクチンプログラムに対する態度と認識を調査する混合法研究 bmjpublichealth.bmj.com",
-      "title_original": "“I would walk through fire to get this vaccine”: a mixed-methods study examining attitudes and perceptions of a gonorrhoea vaccine programme among UK sexual health service users - bmjpublichealth.bmj.com",
-      "summary_original": "“I would walk through fire to get this vaccine”: a mixed-methods study examining attitudes and perceptions of a gonorrhoea vaccine programme among UK sexual health service users bmjpublichealth.bmj.com",
-      "summary_ai_original": "“I would walk through fire to get this vaccine”: a mixed-methods study examining attitudes and perceptions of a gonorrhoea vaccine programme among UK sexual health service users bmjpublichealth.bmj.com",
+      "id": "eece3785784e3e6c",
+      "title": "「私ならこのワクチンを手に入れるために火の中を歩くだろう」：英国の性的医療サービス利用者の淋病ワクチンプログラムに対する態度と認識を調査する混合法研究 - BMJ Public Health",
+      "summary": "「私ならこのワクチンを手に入れるために火の中を歩くだろう」：英国の性的医療サービス利用者の淋病ワクチンプログラムに対する態度と認識を調査する混合法研究 BMJ Public Health",
+      "summary_ai": "「私ならこのワクチンを手に入れるために火の中を歩くだろう」：英国の性的医療サービス利用者の淋病ワクチンプログラムに対する態度と認識を調査する混合法研究 BMJ Public Health",
+      "title_original": "“I would walk through fire to get this vaccine”: a mixed-methods study examining attitudes and perceptions of a gonorrhoea vaccine programme among UK sexual health service users - BMJ Public Health",
+      "summary_original": "“I would walk through fire to get this vaccine”: a mixed-methods study examining attitudes and perceptions of a gonorrhoea vaccine programme among UK sexual health service users BMJ Public Health",
+      "summary_ai_original": "“I would walk through fire to get this vaccine”: a mixed-methods study examining attitudes and perceptions of a gonorrhoea vaccine programme among UK sexual health service users BMJ Public Health",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52al9MSTZtV2Q3RFZtUmxhbThNeWtRMzBodktFUjkyODJGeVlXLWdTenBoRS1mZzRkSUl6aFpTNlN1WjJFV3RFV0Z5dm9ManhjRkNKcVhYSlNEZHhfcjYweQ?oc=5",
       "source": "BMJ",
@@ -1076,13 +1483,13 @@
       ]
     },
     {
-      "id": "88c49484f0b68eb3",
-      "title": "北欧バイエルン州、2歳から11歳までの小児へのMPXと天然痘ワクチンの承認を延長するためEMAにデータを提出 - Financial Times",
-      "summary": "北欧バイエルン州、2歳から11歳の子供へのMPOXと天然痘ワクチンの承認を延長するためEMAにデータを提出 Financial Times",
-      "summary_ai": "北欧バイエルン州、2歳から11歳の子供へのMPOXと天然痘ワクチンの承認を延長するためEMAにデータを提出 Financial Times",
-      "title_original": "Bavarian Nordic Submits Data to EMA to Extend Mpox and Smallpox Vaccine Approval to Children Aged 2-11 Years - Financial Times",
-      "summary_original": "Bavarian Nordic Submits Data to EMA to Extend Mpox and Smallpox Vaccine Approval to Children Aged 2-11 Years Financial Times",
-      "summary_ai_original": "Bavarian Nordic Submits Data to EMA to Extend Mpox and Smallpox Vaccine Approval to Children Aged 2-11 Years Financial Times",
+      "id": "f3f855d4138480e6",
+      "title": "北欧バイエルン州、Mpoxと天然痘ワクチンの承認を2～11歳の子供に拡大するためEMAにデータを提出 - マーケット.ft.com",
+      "summary": "北欧バイエルン州、2～11歳の子供へのMPOXと天然痘ワクチンの承認を延長するためEMAにデータを提出markets.ft.com",
+      "summary_ai": "北欧バイエルン州、2～11歳の子供へのMPOXと天然痘ワクチンの承認を延長するためEMAにデータを提出markets.ft.com",
+      "title_original": "Bavarian Nordic Submits Data to EMA to Extend Mpox and Smallpox Vaccine Approval to Children Aged 2-11 Years - markets.ft.com",
+      "summary_original": "Bavarian Nordic Submits Data to EMA to Extend Mpox and Smallpox Vaccine Approval to Children Aged 2-11 Years markets.ft.com",
+      "summary_ai_original": "Bavarian Nordic Submits Data to EMA to Extend Mpox and Smallpox Vaccine Approval to Children Aged 2-11 Years markets.ft.com",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZEhvYk5mR3dUV1V1ZkN1NWVaNm9RNWxEWTBqd2dZLVprdjZ4alJRc3Y4YlZaZUx2S3hXV01xWm9sWExSYmZtckNsX1J1MmZfTjc5M25MZ1EydlJraTEyeTZHSEJZS3BBZ011TlRGNThkVWk0dzRtR1NLZUVsZ0pEbU9HMW5sSU5DZGJZOTM4MURQVDl1YjdrVA?oc=5",
       "source": "Financial Times Vaccines / Immunization",
@@ -1141,6 +1548,73 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "Financial Times Vaccines / Immunization"
+      ]
+    },
+    {
+      "id": "8ac78da3afba15ca",
+      "title": "GnRH mRNA 免疫去勢ワクチンの構築とマウスおよび猫におけるその免疫原性と安全性の評価 - bioRxiv",
+      "summary": "GnRH mRNA 免疫去勢ワクチンの構築とマウスおよび猫におけるその免疫原性と安全性の評価 bioRxiv",
+      "summary_ai": "GnRH mRNA 免疫去勢ワクチンの構築とマウスおよび猫におけるその免疫原性と安全性の評価 bioRxiv",
+      "title_original": "Construction of a GnRH mRNA Immunocastration Vaccine and Evaluation of Its Immunogenicity and Safety in Mice and Cats - bioRxiv",
+      "summary_original": "Construction of a GnRH mRNA Immunocastration Vaccine and Evaluation of Its Immunogenicity and Safety in Mice and Cats bioRxiv",
+      "summary_ai_original": "Construction of a GnRH mRNA Immunocastration Vaccine and Evaluation of Its Immunogenicity and Safety in Mice and Cats bioRxiv",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oeUpMa0RaaHNfSGZrazFSOEtVVE9laUFmemNXVWplQWFyZUUyRi1rWkJNT3haY2J2aEQtNW9TS3dDQlpjSElvOU85bEhOTU5mM1p6VndlVjlWQV9mVkRfYVpFZEpvbVRlMHJJNQ?oc=5",
+      "source": "bioRxiv vaccines",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-03-27T04:52:03+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [
+        "safety"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "bioRxiv"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "bioRxiv"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "bioRxiv vaccines"
       ]
     },
     {
@@ -1274,230 +1748,19 @@
       "country": "米国",
       "lat": 38.9072,
       "lng": -77.0369,
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "duplicate_sources": [
         "medRxiv vaccines"
       ]
     },
     {
-      "id": "591b264846a36484",
-      "title": "GnRH mRNA 免疫去勢ワクチンの構築とマウスおよび猫におけるその免疫原性と安全性の評価 - biorxiv.org",
-      "summary": "GnRH mRNA 免疫去勢ワクチンの構築とマウスおよび猫におけるその免疫原性と安全性の評価 biorxiv.org",
-      "summary_ai": "GnRH mRNA 免疫去勢ワクチンの構築とマウスおよび猫におけるその免疫原性と安全性の評価 biorxiv.org",
-      "title_original": "Construction of a GnRH mRNA Immunocastration Vaccine and Evaluation of Its Immunogenicity and Safety in Mice and Cats - biorxiv.org",
-      "summary_original": "Construction of a GnRH mRNA Immunocastration Vaccine and Evaluation of Its Immunogenicity and Safety in Mice and Cats biorxiv.org",
-      "summary_ai_original": "Construction of a GnRH mRNA Immunocastration Vaccine and Evaluation of Its Immunogenicity and Safety in Mice and Cats biorxiv.org",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZjZMZDFIdUR0RHhKWWIzR2lDNVI4TjJRUlhTR242VkkxeDFRSW1faExGSXlGR0xDcjB1dmVlNDljODlMTnFpSzVsREVBaWdadDlGOFlTN3BQbWJPMUVPRXMzc1JhSzRodDQ3NHpBLVFQUWVuLURhdVhjOWRZSHpOUlFQY2NkdTlYYUJF?oc=5",
-      "source": "bioRxiv vaccines",
-      "source_type": "preprint",
-      "source_tier": "Tier 3",
-      "source_priority": 7,
-      "published_at": "2026-03-26T07:00:00+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [
-        "safety"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "bioRxiv"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "bioRxiv"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "bioRxiv vaccines"
-      ]
-    },
-    {
-      "id": "12d29f3972ea305a",
-      "title": "産業向け規制教育 (REdI) 年次会議 2026: 医療製品を前進させるための革新的な規制戦略 - 2026 年 5 月 19 日",
-      "summary": "医薬品、機器、生物製剤などの医療製品センターの FDA 規制専門家から直接学びましょう。",
-      "summary_ai": "対象読者 医薬品 - 新薬申請の開発と準備、医薬品の安全性、IT に取り組む規制関係者およびその他の専門家 - スポンサー、申請者、メーカー、臨床研究者、および insi の取得を希望する規制関係専門家",
-      "title_original": "Regulatory Education for Industry (REdI) Annual Conference 2026: Innovative Regulatory Strategies to Advance Medical Products - 05/19/2026",
-      "summary_original": "Learn directly from the FDA’s regulatory experts in medical product centers: drugs, devices, and biologics.",
-      "summary_ai_original": "Intended Audience Drugs - Regulatory affairs and other professionals working on the development and preparation of new drug submissions, drug safety and IT - Sponsors, applicant holders, manufacturers, clinical researchers and regulatory affairs professionals wishing to gain insi",
-      "article_text_original": "- Date: - May 19 - 20, 2026 - Day1: - Tue, May 19 9:00 a.m. - 04:50 p.m. ET - Day2: - Wed, May 20 9:00 a.m. - 03:50 p.m. ET - Location: - Event LocationAttend In Person or Online Virtual: Via Adobe Connect In Person: FDA White Oak Campus 10903 New Hampshire Ave, Building 31 The Great Room Silver Spring, MD 20903 United States Save the Date Agenda Coming Soon Drugs, Devices, and Biologics Tracks will Offer an Opportunity for 1:1 Questions Learn directly from the FDA’s regulatory experts in medical product centers: drugs, devices, and biologics. This course is designed to provide participants with a strong, basic foundation in the FDA’s regulatory requirements, and also create awareness of current activities. Intended Audience Drugs - Regulatory affairs and other professionals working on the development and preparation of new drug submissions, drug safety and IT - Sponsors, applicant holders, manufacturers, clinical researchers and regulatory affairs professionals wishing to gain insight on INDs, NDAs and BLAs - Industry professionals at all levels of expertise Devices - A new regulatory affairs specialist wanting to learn some basics and best practices for getting started with FDA’s regulation of medical devices. - A researcher of a medical device seeking to learn about the valid scientific evidence requirements needed to support new medical device regulatory submissions. - An establishment seeking to understand their regulatory responsibilities for maintaining their quality system to ensure their device is stay and effective after it’s legally marketed and in commercial distribution. Biologics - Biotechnology product manufacturers, academic sponsors, and other stakeholders working on the development of biological products - Regulatory affairs and other professionals working with submissions of INDs, IDEs, and BLAs, and PMAs to the Center for Biologics Evaluation and Research - Industry and consulting professionals working with advanced therapies, allergenics, blood and vaccine products, and devices used with biological products Topics Covered - Advanced Drug Manufacturing in CDER - Use of AI to Advance Drug Development - FDA’s Quality Management System Regulation (QMSR) - Small Business Determination Program Updates - Use of Digital Health Technologies for Data Collection in Clinical Trials - Benefit-Risk Framework and Analytical Methods to Inform Benefit-Risk - …Many others Continuing Education (CE) Real-time attendance is required for the certificate of attendance which can be used in support of CEs for the following professional organizations. Certificates are only available during the two weeks post-event. This course has been pre-approved by: - RAPS as eligible for a maximum of 12 credits for a two-day event (appropriate to real-time attendance) towards a participant’s RAC recertification upon full completion. - SOCRA who accepts documentation of candidate participation in continuing education programs for re-certification if the program is applicable to clinical research regulations, operations or management, or to the candidate's clinical research therapeutic area. - SQA as eligible for 1 non-GCP or non-GLP unit for every 1 hour of instructional time towards a participant’s RQAP re-registration. - ACRP for continuing education in clinical research. ACRP will provide 1 ACRP contact hour for every 45-60 minutes of qualified material. FDA Resources Drugs - CDER SBIA Learn: Webinars, Conferences, Trainings - Search for Regulatory References | Drugs - Guidance Documents for Drug Applications Devices Biologics More Information Food and Drink - Public meeting attendees may bring their own food and drink as campus access is restricted to the immediate meeting area - For this event, light refreshments, sandwiches/wraps/salads are available for pre-order during the registration process. Payment will be made when the order is picked up on site - Lunch selections must be made at time of registration. Changes cannot be accommodated after registration is complete. REdI Lunch Menu - Restaurants near the FDA White Oak campus are available. Before leaving, meeting attendees should consider the amount of time needed to return to campus and go through security screening.",
-      "link": "http://www.fda.gov/news-events/regulatory-education-industry-redi-annual-conference-2026-innovative-regulatory-strategies-advance",
-      "source": "FDA Vaccines / Biologics",
-      "source_type": "official",
-      "source_tier": "Tier 1",
-      "source_priority": 9,
-      "published_at": "2026-03-25T20:51:39+00:00",
-      "topics": [
-        "communication",
-        "policy",
-        "research"
-      ],
-      "policy_tags": [
-        "approval",
-        "communication",
-        "safety"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "米国",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "FDA / Silver Spring"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "FDA / Silver Spring"
-        },
-        "target": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "米国"
-        }
-      },
-      "location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "米国"
-      },
-      "region": "North America",
-      "country": "米国",
-      "lat": 38.9072,
-      "lng": -77.0369,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "FDA Vaccines / Biologics"
-      ]
-    },
-    {
-      "id": "8b92ff3f6ecb53c7",
-      "title": "ワークショップ、会議、カンファレンス (生物製剤)",
-      "summary": "一般の人々を教育し、利害関係者の意見を求める目的で、CBER が主催または共催するさまざまな生物製剤に関する会議、カンファレンス、ワークショップに関する情報。",
-      "summary_ai": "FDA の生物製剤評価研究センター (CBER) は、一般の人々を教育し、利害関係者の意見を求めるために、さまざまな生物製剤に関する会議、カンファレンス、ワークショップを後援または共催しています。今後のワークショップ、ミーティング、カンファレンス - FDA CBER OTP Publ",
-      "title_original": "Workshops, Meetings & Conferences (Biologics)",
-      "summary_original": "Information on CBER sponsored or co-sponsored meetings, conferences and workshops about various biologics in order to educate the public and seek the opinion of interested parties.",
-      "summary_ai_original": "FDA's Center for Biologics Evaluation and Research (CBER) sponsors or co-sponsors meetings, conferences and workshops about various biologics in order to educate the public and seek the opinion of interested parties. Upcoming Workshops, Meetings, & Conferences - FDA CBER OTP Publ",
-      "article_text_original": "FDA's Center for Biologics Evaluation and Research (CBER) sponsors or co-sponsors meetings, conferences and workshops about various biologics in order to educate the public and seek the opinion of interested parties. Minutes, transcripts, summaries and/or presentations for CBER sponsored or co-sponsored meetings and workshops are made available as soon after the meeting as possible. Presentations are in chronological order, with the most recent event at the top of the list. Most will be removed after one year. If you want to keep the slides for future reference, they may be downloaded and saved. Slides that have been removed from the web site may be requested by submitting a written request to FDA's Freedom of Information staff. View FDA Archive for past meetings and materials: 2011-2015; 2016-2020. Upcoming Workshops, Meetings, & Conferences - FDA CBER OTP Public Listening Meeting: Leveraging Knowledge for Facilitating the Development and Review of Cell and Gene Therapies September 18, 2025 - FDA Public Meeting: Onshoring Manufacturing of Drugs and Biological Products September 30, 2025 - OTP Town Hall: Gene Therapy Manufacturing CMC and Facility Readiness for BLAs and Post-licensure Changes October 22, 2025 - Approval of New Patch Tests for the Diagnosis of Allergic Contact Dermatitis; Public Workshop October 23, 2025 - Live Biotherapeutic Products to Prevent Necrotizing Enterocolitis in Very Low Birth Weight Infants October 25, 2024 - 2024 Center for Biologics Evaluation and Research (CBER) Science Symposium September 16 - 18, 2024 - Biomarker-driven Drug Development for Allergic Diseases and Asthma; Public Workshop February 22, 2024 - WCBP Symposium 2024 January 23 - 25, 2024 - Workshop for the Identification and Standardization of Methods for Assessing Gene Therapy Product Activity and Comparability and the Evaluation of T-Cell Therapies November 16, 2023 - November 17, 2023 - Warrior Families: Advancing Regenerative Medicine Through Science October 5, 2023 - OTP Town Hall: Nonclinical Assessment of Cell and Gene Therapy Products August 30, 2023 - OTP Town Hall: Cell Therapy Chemistry, Manufacturing, and Controls – June 2023 June 8, 2023 - RDEA Pilot Program 2023 Public Workshop June 7 - 8, 2023 - Regulatory Education for Industry (REdI) Annual Conference 2023 June 5 - 9, 2023 - Methods and Approaches for Capturing Post-Approval Safety and Efficacy Data on Cell and Gene Therapy Products April 27, 2023 - Recombinant Protein-Based COVID-19 Vaccines Workshop April 27, 2023 - OTP Town Hall: Gene Therapy Chemistry, Manufacturing, and Controls – April 2023 April 25, 2023 - Clinical Trials: The Patient Experience APRIL 13, 2023 - Electronic Submission of Adverse Event Reports to FDA Adverse Event Reporting System (FAERS) using International Council for Harmonisation (ICH) E2B(R3) Standards April 4, 2023 - November 7, 2023 - Immune Globulin Hypersensitivity Reactions: Root Causes and Mitigation; Public Workshop March 30, 2023 - FDA CBER Office of Therapeutic Products (OTP) Advanced Manufacturing and Analytical Technologies (AMAT) for Regenerative Medicine Therapies (RMT) Workshop March 14, 2023 - OTAT Town Hall: Clinical Development of Gene Therapy Products for Rare Diseases February 7, 2023 - Assessing Genetic Heterogeneity in the Context of Genome Editing Off-Targets in Gene Therapy Products December 16, 2022 - FDA Clinical Investigator Training Course (CITC) 2022 December 7 - 8, 2022 - OTAT Town Hall: Cell Therapy Chemistry, Manufacturing, and Controls December 7, 2022 - FDA/PQRI Workshop on the Regulatory Framework for Distributed and Point of Care Pharmaceutical Manufacturing: An Opportunity for DM/POC Stakeholder Engagement November 14 - 16, 2022 - FDA CBER OTAT Patient-Focused Drug Development Listening Meeting — Patient Perspectives on Gene Therapy Products November 15, 2022 - Natural History Studies to Support Regenerative Medicine: A How-To Webinar October 27, 2022 - FDA NanoDay Symposium 2022 October 11, 2022 - OTAT Town Hall: Gene Therapy Chemistry, Manufacturing, and Controls September 29, 2022 - 2022 Center for Biologics Evaluation and Research (CBER) Science Symposium September 20-22, 2022 - Regulatory Education for Industry (REdI) Annual Conference 2022 June 6 - 10, 2022 - Annual Patient Engagement & Regenerative Medicine Meeting 2022: An FDA CBER Workshop for Patient Advocates May 24, 2022 - RegenMedEd Webinar: The Critical Role of Patients in Advancing Gene Therapy Treatments for Rare Diseases March 9, 2022 - Regenerative Medicine 101 Webinar: Information for Patients, Caregivers & Advocates November 16, 2021 - Science and Regulation of Bacteriophage Therapy Workshop August 30 - September 1, 2021 - Regulatory Education for Industry (REdI) Annual Conference 2021 July 19 - 23, 2021 - Model Informed Drug Development Approaches for Immunogenicity Assessments June 9, 2021 - Patient Engagement & Regenerative Medicine: An FDA CBER Workshop for Patient Advocates May 6, 2021 Follow CBER Division of Communication and Consumer Affairs Office of Communication, Outreach and Development Center for Biologics Evaluation and Research Food and Drug Administration 10903 New Hampshire Ave WO71-3103 Silver Spring, MD 20993-0002 (800) 835-4709 (240) 402-8010 For Updates on Twitter, follow @fdacber",
-      "link": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/workshops-meetings-conferences-biologics",
-      "source": "FDA Vaccines / Biologics",
-      "source_type": "official",
-      "source_tier": "Tier 1",
-      "source_priority": 9,
-      "published_at": "2026-03-25T17:42:28+00:00",
-      "topics": [
-        "communication",
-        "policy",
-        "research"
-      ],
-      "policy_tags": [
-        "approval",
-        "communication",
-        "safety"
-      ],
-      "vaccines": [
-        "covid"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "FDA / Silver Spring"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "FDA / Silver Spring"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "FDA Vaccines / Biologics"
-      ]
-    },
-    {
-      "id": "6e336d760c787785",
-      "title": "ライム病ワクチン、第3相試験で70％以上の有効性を示す - cidrap.umn.edu",
-      "summary": "ライム病ワクチン、第3相試験で70％以上の有効性を示す cidrap.umn.edu",
-      "summary_ai": "ライム病ワクチン、第3相試験で70％以上の有効性を示す cidrap.umn.edu",
-      "title_original": "Lyme disease vaccine shows over 70% efficacy in phase 3 trial - cidrap.umn.edu",
-      "summary_original": "Lyme disease vaccine shows over 70% efficacy in phase 3 trial cidrap.umn.edu",
-      "summary_ai_original": "Lyme disease vaccine shows over 70% efficacy in phase 3 trial cidrap.umn.edu",
+      "id": "40c37d1ea513278a",
+      "title": "ライム病ワクチン、第3相試験で70％以上の有効性を示す - CIDRAP",
+      "summary": "ライム病ワクチン、第3相試験CIDRAPで70％以上の有効性を示す",
+      "summary_ai": "ライム病ワクチン、第3相試験CIDRAPで70％以上の有効性を示す",
+      "title_original": "Lyme disease vaccine shows over 70% efficacy in phase 3 trial - CIDRAP",
+      "summary_original": "Lyme disease vaccine shows over 70% efficacy in phase 3 trial CIDRAP",
+      "summary_ai_original": "Lyme disease vaccine shows over 70% efficacy in phase 3 trial CIDRAP",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQb0psUzc2bkJ4Z0JaZnphcHVwRlFWT0J4X3NfMXZWRUxGQ3F4OGFqN3FHczc1SjJMdmdjbGt5OUdYX003b2pKaG1lUEFnMThGVmR0Z0VEYmE3Rlk4eEJBalZUdWdwdS10UXlPZXVMVndYd3dSOE9OOTRUOUVicDlYeEsydG5BTUwxallWYi1hWnZHWTRwVi1HOHB2YXo4UQ?oc=5",
       "source": "CIDRAP Vaccines & Immunization",
@@ -1553,71 +1816,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "CIDRAP Vaccines & Immunization"
-      ]
-    },
-    {
-      "id": "16e658ceb206de34",
-      "title": "ナイジェリア、バウチ州における小児予防接種に関する宗教指導者の見解: 定性的研究 - medRxiv",
-      "summary": "ナイジェリア、バウチ州における小児予防接種に関する宗教指導者の視点: 定性的研究 medRxiv",
-      "summary_ai": "ナイジェリア、バウチ州における小児予防接種に関する宗教指導者の視点: 定性的研究 medRxiv",
-      "title_original": "Religious leaders’ perspectives on childhood immunization in Bauchi State, Nigeria: A Qualitative Study - medRxiv",
-      "summary_original": "Religious leaders’ perspectives on childhood immunization in Bauchi State, Nigeria: A Qualitative Study medRxiv",
-      "summary_ai_original": "Religious leaders’ perspectives on childhood immunization in Bauchi State, Nigeria: A Qualitative Study medRxiv",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9oZGR4M1UtUWU3cF9xRjdpSHRLQnVCUGttcFFuckFTSnlnTXFlMEplN2ZwQVd2VzlSLTNGdG1ueENaNTFOWmttS3ZfMEE1bzI2S28zLU94VXJ6QnNuWWViQlUyM2pXOHh4YnQta004ME1iZ0tkOG56RDRaYw?oc=5",
-      "source": "medRxiv vaccines",
-      "source_type": "preprint",
-      "source_tier": "Tier 3",
-      "source_priority": 7,
-      "published_at": "2026-03-24T06:49:07+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "ナイジェリア",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "medRxiv"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "medRxiv"
-        },
-        "target": {
-          "key": "nigeria",
-          "name_ja": "ナイジェリア",
-          "lat": 9.0765,
-          "lng": 7.3986,
-          "region": "Africa",
-          "label": "ナイジェリア"
-        }
-      },
-      "location": {
-        "key": "nigeria",
-        "name_ja": "ナイジェリア",
-        "lat": 9.0765,
-        "lng": 7.3986,
-        "region": "Africa",
-        "label": "ナイジェリア"
-      },
-      "region": "Africa",
-      "country": "ナイジェリア",
-      "lat": 9.0765,
-      "lng": 7.3986,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "medRxiv vaccines"
       ]
     },
     {
@@ -1755,13 +1953,13 @@
       ]
     },
     {
-      "id": "95dae7fce10d7a21",
-      "title": "新しいライム病ワクチンは予防効果をもたらしますが、試験目標には達していません -science.org",
-      "summary": "新しいライム病ワクチンは予防効果をもたらしますが、試験目標には達していませんscience.org",
-      "summary_ai": "新しいライム病ワクチンは予防効果をもたらしますが、試験目標には達していませんscience.org",
-      "title_original": "New Lyme disease vaccine offers protection—but falls short of trial goals - science.org",
-      "summary_original": "New Lyme disease vaccine offers protection—but falls short of trial goals science.org",
-      "summary_ai_original": "New Lyme disease vaccine offers protection—but falls short of trial goals science.org",
+      "id": "6000b3b89835a574",
+      "title": "新しいライム病ワクチンは予防効果をもたらしますが、試験目標には達していません - Science | News AAAS",
+      "summary": "新しいライム病ワクチンは予防効果をもたらしますが、試験目標には達していません。 AAAS",
+      "summary_ai": "新しいライム病ワクチンは予防効果をもたらしますが、試験目標には達していません。 AAAS",
+      "title_original": "New Lyme disease vaccine offers protection—but falls short of trial goals - Science | AAAS",
+      "summary_original": "New Lyme disease vaccine offers protection—but falls short of trial goals Science | AAAS",
+      "summary_ai_original": "New Lyme disease vaccine offers protection—but falls short of trial goals Science | AAAS",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTEhrNUdxVDdPS1pmdjFSMWYtVmtTNzdZTmREQ01ZdWFhU2xVdk5xTF81V0h5TWJ6cHZPeUx5R1o1RG5jb1ZkWW9XNkpwb2YxTFJzZmI2S0xQMlVuQ2FTS3dBbFNMaDc2eTZxZmpCa1lPek5TUHJlTTE2UFlZM0hEb3ZXZkRRU2xMNm5iVldNcWFXYlM0MFVqSE9sUWoxT0hXWXd6RzhlaHlnQQ?oc=5",
       "source": "Science Vaccines / Immunization",
@@ -1885,71 +2083,6 @@
       ]
     },
     {
-      "id": "6a4fcd8803c16621",
-      "title": "CDC長官がワクチン政策をめぐって解任され、上級科学者4人が辞任 - BMJ",
-      "summary": "CDC長官がワクチン政策をめぐって解任、上級科学者4人が辞任 BMJ",
-      "summary_ai": "CDC長官がワクチン政策をめぐって解任、上級科学者4人が辞任 BMJ",
-      "title_original": "CDC director is forced out over vaccine policy, and four senior scientists resign - The BMJ",
-      "summary_original": "CDC director is forced out over vaccine policy, and four senior scientists resign The BMJ",
-      "summary_ai_original": "CDC director is forced out over vaccine policy, and four senior scientists resign The BMJ",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zcEdRNnZFUXQwQmdXUm9nUFJiak1BbHlWQlZvV2ZqczZSY0dlc1VORlFYdHBnQ1hFaEp6R0VON2RaYUFKQ0tYVWoxUGZEQVg0YVFva3YzNnBOT2hxdm13?oc=5",
-      "source": "BMJ",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-03-23T14:42:00+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BMJ / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BMJ / London"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "BMJ"
-      ]
-    },
-    {
       "id": "749b91e9242d3a3d",
       "title": "非ランダム化研究における新型コロナウイルス感染症ワクチンの推定有効性に影響を与える要因 - BMJ Evidence-Based Medicine",
       "summary": "非ランダム化研究における新型コロナウイルス感染症ワクチンの推定有効性に影響を与える要因 BMJ Evidence-Based Medicine",
@@ -2017,13 +2150,13 @@
       ]
     },
     {
-      "id": "203e08b445d307b9",
-      "title": "ファイザーとヴァルネバ、ライム病ワクチン候補が第3相VALOR試験で強力な有効性を実証したと発表 - Financial Times",
-      "summary": "ファイザーとヴァルネバ、ライム病ワクチン候補が第3相VALOR試験で強力な有効性を実証したと発表 Financial Times",
-      "summary_ai": "ファイザーとヴァルネバ、ライム病ワクチン候補が第3相VALOR試験で強力な有効性を実証したと発表 Financial Times",
-      "title_original": "Pfizer and Valneva Announce Lyme Disease Vaccine Candidate Demonstrates Strong Efficacy in Phase 3 VALOR Trial - Financial Times",
-      "summary_original": "Pfizer and Valneva Announce Lyme Disease Vaccine Candidate Demonstrates Strong Efficacy in Phase 3 VALOR Trial Financial Times",
-      "summary_ai_original": "Pfizer and Valneva Announce Lyme Disease Vaccine Candidate Demonstrates Strong Efficacy in Phase 3 VALOR Trial Financial Times",
+      "id": "be25b01c9acbd09e",
+      "title": "ファイザーとヴァルネバ、ライム病ワクチン候補が第3相VALOR試験で強力な有効性を実証したと発表 - マーケット.ft.com",
+      "summary": "ファイザーとヴァルネバ、ライム病ワクチン候補が第 3 相 VALOR 試験で強力な有効性を実証したと発表markets.ft.com",
+      "summary_ai": "ファイザーとヴァルネバ、ライム病ワクチン候補が第 3 相 VALOR 試験で強力な有効性を実証したと発表markets.ft.com",
+      "title_original": "Pfizer and Valneva Announce Lyme Disease Vaccine Candidate Demonstrates Strong Efficacy in Phase 3 VALOR Trial - markets.ft.com",
+      "summary_original": "Pfizer and Valneva Announce Lyme Disease Vaccine Candidate Demonstrates Strong Efficacy in Phase 3 VALOR Trial markets.ft.com",
+      "summary_ai_original": "Pfizer and Valneva Announce Lyme Disease Vaccine Candidate Demonstrates Strong Efficacy in Phase 3 VALOR Trial markets.ft.com",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdmdrTmU5a0NxcWNVY1g2UHl4cTdRbW1vTVRmdWVDSFVaZFhaSEZOeUNpVjNjaGZEVXdrdks2bnB2WHl3SXV6M0RjSldMMXViUHlZY3llTURpVHEySVhMMjdtTWdQb1lmazNrcndWUFdYYlNKTkpxSjFCa25PeWw3Nk9pRnFvTVVwX2FWcF9mUVB0UUhEMVg2eGJELWNzN2p5Szc4QVln?oc=5",
       "source": "Financial Times Vaccines / Immunization",
@@ -2079,73 +2212,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "Financial Times Vaccines / Immunization"
-      ]
-    },
-    {
-      "id": "e7a7fdc3c6220c2d",
-      "title": "新型コロナウイルスワクチンは突然死のリスクと関連していないことが研究で判明 - cidrap.umn.edu",
-      "summary": "新型コロナウイルスワクチンは突然死のリスクと関連していないことが研究で判明 cidrap.umn.edu",
-      "summary_ai": "新型コロナウイルスワクチンは突然死のリスクと関連していないことが研究で判明 cidrap.umn.edu",
-      "title_original": "COVID vaccines not tied to risk of sudden death, study shows - cidrap.umn.edu",
-      "summary_original": "COVID vaccines not tied to risk of sudden death, study shows cidrap.umn.edu",
-      "summary_ai_original": "COVID vaccines not tied to risk of sudden death, study shows cidrap.umn.edu",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcnV3Y0hHajJQOThvZkppaWdRWi1MN3pfeWtHeElnOW5mZDRSTUI4MDRsREFfZG1ybUswOVU1Tk1nZVlISVAwTmtrLWR0TXdKSTJfVk5yQXBMWUtPY1pmajRIdjdBbW10YUtXRWNNM190OUx1QlZPLVZWRS0xTWJnbVV4Q0NIbjZuZEtxOU9BbXE1UUU?oc=5",
-      "source": "CIDRAP Vaccines & Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 8,
-      "published_at": "2026-03-23T07:00:00+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "covid"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "CIDRAP / Minnesota"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "CIDRAP / Minnesota"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "CIDRAP Vaccines & Immunization"
       ]
     },
     {
@@ -2215,6 +2281,73 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "BMJ"
+      ]
+    },
+    {
+      "id": "8d5e51ccce25baca",
+      "title": "ケント髄膜炎の流行で英国ワクチン需要急増、政策議論 - ロイター",
+      "summary": "ケント髄膜炎流行で英国ワクチン需要急増、政策議論も Reuters",
+      "summary_ai": "ケント髄膜炎流行で英国ワクチン需要急増、政策議論も Reuters",
+      "title_original": "Kent meningitis outbreak triggers surge in UK vaccine demand, policy debate - Reuters",
+      "summary_original": "Kent meningitis outbreak triggers surge in UK vaccine demand, policy debate Reuters",
+      "summary_ai_original": "Kent meningitis outbreak triggers surge in UK vaccine demand, policy debate Reuters",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWjNmOTlpNjVPZERzcGo1Tlh5dXFoaTlRNVY5YmFiaHdLSExFRl9TMmVVemE0T2hDSHB3VVhtbTFXcnNwd2Jna0M5anhxVWEyZ3U5eTZRSWdJSWVjNGlNbkFyckk4cFJhUzZBR1ZNX293RmlGS04wSWM2RlhyYnJVM0FfQS1uR2s1cTV6RmJ4bEMzMjVpSXA0a3ozZGFLam02bEdLMVpuMV9zc3F4Yk1jQjE0Ynd3ajJnWW5oRE9hVTF6ZGdEb3JJbHgycm5tbkE4bDJfNF9vX00xUm8?oc=5",
+      "source": "Reuters Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-03-21T07:00:00+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [
+        "outbreak_response"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "英国",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Reuters"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Reuters"
+        },
+        "target": {
+          "key": "uk",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "英国"
+        }
+      },
+      "location": {
+        "key": "uk",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "英国"
+      },
+      "region": "Europe",
+      "country": "英国",
+      "lat": 51.5074,
+      "lng": -0.1278,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Reuters Vaccines / Immunization"
       ]
     },
     {
@@ -2349,273 +2482,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "Guardian Vaccines / Immunization"
-      ]
-    },
-    {
-      "id": "5ed7b8424ce5c7ec",
-      "title": "米国の50歳以上の健康な成人を対象とした31価肺炎球菌複合体ワクチン（VAX-31）の安全性、忍容性、免疫原性：第1/2相、二重盲検、実薬対照、並行群間、用量設定ランダム化臨床試験 - thelancet.com",
-      "summary": "米国の50歳以上の健康な成人を対象とした31価肺炎球菌複合体ワクチン（VAX-31）の安全性、忍容性、免疫原性：第1/2相、二重盲検、実薬対照、並行群間、用量設定ランダム化臨床試験 thelancet.com",
-      "summary_ai": "米国の50歳以上の健康な成人を対象とした31価肺炎球菌複合体ワクチン（VAX-31）の安全性、忍容性、免疫原性：第1/2相、二重盲検、実薬対照、並行群間、用量設定ランダム化臨床試験 thelancet.com",
-      "title_original": "Safety, tolerability, and immunogenicity of a 31-valent pneumococcal conjugate vaccine (VAX-31) in healthy adults aged 50 years and older from the USA: a phase 1/2, double-blinded, active-controlled, parallel-group, dose-finding randomised clinical trial - thelancet.com",
-      "summary_original": "Safety, tolerability, and immunogenicity of a 31-valent pneumococcal conjugate vaccine (VAX-31) in healthy adults aged 50 years and older from the USA: a phase 1/2, double-blinded, active-controlled, parallel-group, dose-finding randomised clinical trial thelancet.com",
-      "summary_ai_original": "Safety, tolerability, and immunogenicity of a 31-valent pneumococcal conjugate vaccine (VAX-31) in healthy adults aged 50 years and older from the USA: a phase 1/2, double-blinded, active-controlled, parallel-group, dose-finding randomised clinical trial thelancet.com",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaGpkRDgxOVNwWTR3UE1WTUdKXzFCLUxPQ3hjS1kwMEdNV29KcGVrbDdNY1RtTk9zZDllRkRlOEJrdnF0T21XQlJqUFNiNHlQTmQ3TGtvT2hmMmVwVnJwVF93djI4OWhSMk9UeDZRZ01QZVZMZzk0LVUwNi1MdEM5bjRFWHVGT3VLME5n?oc=5",
-      "source": "Lancet Infectious Diseases",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-03-19T09:03:21+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [
-        "safety"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "米国",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "Lancet Infectious Diseases / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "Lancet Infectious Diseases / London"
-        },
-        "target": {
-          "key": "usa",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "米国"
-        }
-      },
-      "location": {
-        "key": "usa",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "米国"
-      },
-      "region": "North America",
-      "country": "米国",
-      "lat": 38.9072,
-      "lng": -77.0369,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Lancet Infectious Diseases"
-      ]
-    },
-    {
-      "id": "f10d7464451ba36c",
-      "title": "ウガンダとネパールにおける DTwP 含有ワクチン乳児予防接種スケジュールの最適化 (OptImms): 2 件の非盲検、非劣性、ランダム化比較試験 - thelancet.com",
-      "summary": "ウガンダとネパールにおける DTwP 含有ワクチンの乳児予防接種スケジュールの最適化 (OptImms): 2 つの非盲検、非劣性、ランダム化比較試験 thelancet.com",
-      "summary_ai": "ウガンダとネパールにおける DTwP 含有ワクチンの乳児予防接種スケジュールの最適化 (OptImms): 2 つの非盲検、非劣性、ランダム化比較試験 thelancet.com",
-      "title_original": "Optimising DTwP-containing vaccine infant immunisation schedules in Uganda and Nepal (OptImms): two open-label, non-inferiority, randomised controlled trials - thelancet.com",
-      "summary_original": "Optimising DTwP-containing vaccine infant immunisation schedules in Uganda and Nepal (OptImms): two open-label, non-inferiority, randomised controlled trials thelancet.com",
-      "summary_ai_original": "Optimising DTwP-containing vaccine infant immunisation schedules in Uganda and Nepal (OptImms): two open-label, non-inferiority, randomised controlled trials thelancet.com",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTVJwSWFjc1YxcFF2aEQzZkJ6S3lrZkIwck5vUGlGU2tpTXBQVTJ1a3UwT2hoRVVzeWRyTGRraTQ0YjJqZmE5U2tZZGVkVDZ1dWc5TS1YT1R4UkRJTExWY0RFTmRqZE1MRFBROHVqY1c3QUd5SjBxMmc2c1hhMTJoOWMzTVFLcElDYUU4?oc=5",
-      "source": "Lancet Infectious Diseases",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-03-19T07:00:00+00:00",
-      "topics": [
-        "policy",
-        "research"
-      ],
-      "policy_tags": [
-        "schedule"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "ネパール",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "Lancet Infectious Diseases / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "Lancet Infectious Diseases / London"
-        },
-        "target": {
-          "key": "nepal",
-          "name_ja": "ネパール",
-          "lat": 27.7172,
-          "lng": 85.324,
-          "region": "Asia",
-          "label": "ネパール"
-        }
-      },
-      "location": {
-        "key": "nepal",
-        "name_ja": "ネパール",
-        "lat": 27.7172,
-        "lng": 85.324,
-        "region": "Asia",
-        "label": "ネパール"
-      },
-      "region": "Asia",
-      "country": "ネパール",
-      "lat": 27.7172,
-      "lng": 85.324,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Lancet Infectious Diseases"
-      ]
-    },
-    {
-      "id": "751bda81cea519d3",
-      "title": "ワクチン接種時の年齢および接種回数別の HPV ワクチンの有効性: 集団ベースの適合症例対照研究のプロトコール - BMJ Open",
-      "summary": "ワクチン接種時の年齢および接種回数別の HPV ワクチンの有効性: 集団ベースの適合症例対照研究のプロトコール BMJ Open",
-      "summary_ai": "ワクチン接種時の年齢および接種回数別の HPV ワクチンの有効性: 集団ベースの適合症例対照研究のプロトコール BMJ Open",
-      "title_original": "Effectiveness of HPV vaccine by age at vaccination and number of doses: protocol for a population- based matched case–control study - BMJ Open",
-      "summary_original": "Effectiveness of HPV vaccine by age at vaccination and number of doses: protocol for a population- based matched case–control study BMJ Open",
-      "summary_ai_original": "Effectiveness of HPV vaccine by age at vaccination and number of doses: protocol for a population- based matched case–control study BMJ Open",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83Z3M2bjBHRE8wbVZNMW9JZlhZTFBReDdCNFF2UlNLX0p2NWcycmRORzRtV2pGOHJON3MyNlNZbU5aRGpuc0I5aHpNSWVxQS1lSVlZRjNjZU92V3htNVpFNllzUWNKN1RFblhUS3F3?oc=5",
-      "source": "BMJ",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-03-19T04:48:49+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "hpv"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BMJ / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BMJ / London"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "BMJ"
-      ]
-    },
-    {
-      "id": "a661e1de7d05fcf4",
-      "title": "スリランカにおけるBBIBP-CorV Sinopharm COVID-19ワクチンの有効性の評価：検査陰性症例対照研究 - BMJ Open",
-      "summary": "スリランカにおける BBIBP-CorV Sinopharm COVID-19 ワクチンの有効性の評価: 検査陰性症例対照研究 BMJ Open",
-      "summary_ai": "スリランカにおける BBIBP-CorV Sinopharm COVID-19 ワクチンの有効性の評価: 検査陰性症例対照研究 BMJ Open",
-      "title_original": "Evaluation of BBIBP- CorV Sinopharm COVID- 19 vaccine effectiveness in Sri Lanka: a test- negative case control study - BMJ Open",
-      "summary_original": "Evaluation of BBIBP- CorV Sinopharm COVID- 19 vaccine effectiveness in Sri Lanka: a test- negative case control study BMJ Open",
-      "summary_ai_original": "Evaluation of BBIBP- CorV Sinopharm COVID- 19 vaccine effectiveness in Sri Lanka: a test- negative case control study BMJ Open",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE01cEhSeEMzQkFIamREc2I4YkdnUUlEbTN6dDBvZmVqQU14WkhpX1hSRHJSVXJfaGNZNEhlOHAxMmxjY0YwaUEyYl9VZjFuaGVNYk5fSXp4VlFSdVdGUzdCdzJVTTVwVFhZVHhURTBCNA?oc=5",
-      "source": "BMJ",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-03-19T00:51:35+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "スリランカ",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BMJ / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BMJ / London"
-        },
-        "target": {
-          "key": "sri lanka",
-          "name_ja": "スリランカ",
-          "lat": 6.9271,
-          "lng": 79.8612,
-          "region": "Asia",
-          "label": "スリランカ"
-        }
-      },
-      "location": {
-        "key": "sri lanka",
-        "name_ja": "スリランカ",
-        "lat": 6.9271,
-        "lng": 79.8612,
-        "region": "Asia",
-        "label": "スリランカ"
-      },
-      "region": "Asia",
-      "country": "スリランカ",
-      "lat": 6.9271,
-      "lng": 79.8612,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "BMJ"
       ]
     }
   ]
