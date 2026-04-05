@@ -1,10 +1,146 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-04-04T21:43:46.335684+00:00",
-  "archive_count": 107,
+  "generated_at": "2026-04-05T21:45:08.070631+00:00",
+  "archive_count": 109,
   "days_back": 14,
   "items": [
+    {
+      "id": "b3be7153aee6a9da",
+      "title": "バングラデシュ、麻疹流行拡大を受けて緊急ワクチン接種キャンペーンを開始 - ロイター",
+      "summary": "バングラデシュ、麻疹流行拡大で緊急ワクチン接種キャンペーン開​​始 ロイター",
+      "summary_ai": "バングラデシュ、麻疹流行拡大で緊急ワクチン接種キャンペーン開​​始 ロイター",
+      "title_original": "Bangladesh launches emergency vaccination campaign as measles outbreak spreads - Reuters",
+      "summary_original": "Bangladesh launches emergency vaccination campaign as measles outbreak spreads Reuters",
+      "summary_ai_original": "Bangladesh launches emergency vaccination campaign as measles outbreak spreads Reuters",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSFhGcUV4bHVVV203UmZscTh4TlNkaXVGeFd4RzZ3cmgyLTVMckdRcmdyNXpkdEtpZXlUVzRyeHFtODBNVi1INncwNG4zLTU1cmRNOF9RM0txWFRWdXpBMzNwMW5BY2xWZndNQ3F0OGo3cmZYTkU1TVlrV1J1VWh2VTNQNjRyMjZSTFVSdHlKcUlrUW95U2p6TGFvQkRBVkFkTEF5VjVDZ1A3RDZUQzRqdVhhaEQyTDlZSTFNUl9jU2hDOE9KRVRXNVRGVDdrZXpQNEFuZHFhMC1JWi1VSUZsYg?oc=5",
+      "source": "Reuters Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-04-05T16:06:52+00:00",
+      "topics": [
+        "communication"
+      ],
+      "policy_tags": [
+        "outbreak_response"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "バングラデシュ",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Reuters"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Reuters"
+        },
+        "target": {
+          "key": "bangladesh",
+          "name_ja": "バングラデシュ",
+          "lat": 23.8103,
+          "lng": 90.4125,
+          "region": "Asia",
+          "label": "バングラデシュ"
+        }
+      },
+      "location": {
+        "key": "bangladesh",
+        "name_ja": "バングラデシュ",
+        "lat": 23.8103,
+        "lng": 90.4125,
+        "region": "Asia",
+        "label": "バングラデシュ"
+      },
+      "region": "Asia",
+      "country": "バングラデシュ",
+      "lat": 23.8103,
+      "lng": 90.4125,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Reuters Vaccines / Immunization"
+      ],
+      "first_seen_at": "2026-04-05T16:06:52+00:00",
+      "last_seen_at": "2026-04-05T21:46:44.313015+00:00"
+    },
+    {
+      "id": "5231a31bd94aac73",
+      "title": "ナイジェリア、バウチ州における小児予防接種に関する宗教指導者の見解: 定性的研究 - medRxiv",
+      "summary": "ナイジェリア、バウチ州における小児予防接種に関する宗教指導者の視点: 定性的研究 medRxiv",
+      "summary_ai": "ナイジェリア、バウチ州における小児予防接種に関する宗教指導者の視点: 定性的研究 medRxiv",
+      "title_original": "Religious leaders' perspectives on childhood immunization in Bauchi State, Nigeria: A Qualitative Study - medRxiv",
+      "summary_original": "Religious leaders' perspectives on childhood immunization in Bauchi State, Nigeria: A Qualitative Study medRxiv",
+      "summary_ai_original": "Religious leaders' perspectives on childhood immunization in Bauchi State, Nigeria: A Qualitative Study medRxiv",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE81aVkxSlVNa3F1UGlNYktubUlCLU1hckZPUUJOYnBjMnNtYmw4UUtxVlVxaEFVOGFfWDhXVFVleFhwR2ZKaUFIQzY4Rjd3SjN6S1pBakhxSGFPdlJ6SlZLRVdfR0c4TFNsN2ZWbE9JRQ?oc=5",
+      "source": "medRxiv vaccines",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-04-04T23:55:56+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "ナイジェリア",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "medRxiv"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "medRxiv"
+        },
+        "target": {
+          "key": "nigeria",
+          "name_ja": "ナイジェリア",
+          "lat": 9.0765,
+          "lng": 7.3986,
+          "region": "Africa",
+          "label": "ナイジェリア"
+        }
+      },
+      "location": {
+        "key": "nigeria",
+        "name_ja": "ナイジェリア",
+        "lat": 9.0765,
+        "lng": 7.3986,
+        "region": "Africa",
+        "label": "ナイジェリア"
+      },
+      "region": "Africa",
+      "country": "ナイジェリア",
+      "lat": 9.0765,
+      "lng": 7.3986,
+      "duplicate_count": 2,
+      "duplicate_sources": [
+        "medRxiv vaccines"
+      ],
+      "first_seen_at": "2026-04-04T23:55:56+00:00",
+      "last_seen_at": "2026-04-05T21:46:44.313030+00:00"
+    },
     {
       "id": "693f6ce8e60f4321",
       "title": "高齢者の新型コロナウイルス感染症入院に対する2024/25シーズン終了時のKP.2ワクチンの有効性：カナダ・ケベック州での検査陰性研究 - medRxiv",
@@ -19,7 +155,7 @@
       "source_type": "preprint",
       "source_tier": "Tier 3",
       "source_priority": 7,
-      "published_at": "2026-04-04T19:28:05+00:00",
+      "published_at": "2026-04-04T19:28:06+00:00",
       "topics": [
         "research"
       ],
@@ -72,7 +208,7 @@
         "medRxiv vaccines"
       ],
       "first_seen_at": "2026-04-04T19:28:05+00:00",
-      "last_seen_at": "2026-04-04T21:45:07.431587+00:00"
+      "last_seen_at": "2026-04-05T21:46:44.313039+00:00"
     },
     {
       "id": "845b4c824b3e3cb2",
@@ -136,12 +272,12 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicate_sources": [
         "New York Times Vaccines / Immunization"
       ],
       "first_seen_at": "2026-04-03T19:17:50+00:00",
-      "last_seen_at": "2026-04-03T21:48:24.994112+00:00"
+      "last_seen_at": "2026-04-05T21:46:44.313046+00:00"
     },
     {
       "id": "e6a841a6e482c36e",
@@ -210,7 +346,76 @@
         "BMJ"
       ],
       "first_seen_at": "2026-04-03T10:46:15+00:00",
-      "last_seen_at": "2026-04-04T21:45:07.431599+00:00"
+      "last_seen_at": "2026-04-05T21:46:44.313052+00:00"
+    },
+    {
+      "id": "981da869c0655230",
+      "title": "６５歳定期接種の肺炎球菌ワクチンが新タイプに切り替え 柳沢慎吾さんが啓発アンバサダー - 読売新聞オンライン",
+      "summary": "６５歳定期接種の肺炎球菌ワクチンが新タイプに切り替え 柳沢慎吾さんが啓発アンバサダー 読売新聞オンライン",
+      "summary_ai": "６５歳定期接種の肺炎球菌ワクチンが新タイプに切り替え 柳沢慎吾さんが啓発アンバサダー 読売新聞オンライン",
+      "title_original": "６５歳定期接種の肺炎球菌ワクチンが新タイプに切り替え 柳沢慎吾さんが啓発アンバサダー - 読売新聞オンライン",
+      "summary_original": "６５歳定期接種の肺炎球菌ワクチンが新タイプに切り替え 柳沢慎吾さんが啓発アンバサダー 読売新聞オンライン",
+      "summary_ai_original": "６５歳定期接種の肺炎球菌ワクチンが新タイプに切り替え 柳沢慎吾さんが啓発アンバサダー 読売新聞オンライン",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBzeG90NGt6bmhETnFIOXNEcmpsRHhqeFlGSE4tcG9rQkNoU1ptOFU4a1NNcVk4Z05iaG9xSTg1akhuaTY5RFBIZlJ1UXlSczhoc0s1ZXlUWDhjQUo1aVh3SnVXNy1RdDhQbHZYempB?oc=5",
+      "source": "読売新聞 ワクチン / 予防接種",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-04-03T06:27:21+00:00",
+      "topics": [
+        "communication"
+      ],
+      "policy_tags": [
+        "communication"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "japan",
+        "name_ja": "日本",
+        "lat": 35.6762,
+        "lng": 139.6503,
+        "region": "Asia",
+        "label": "読売新聞"
+      },
+      "plot": {
+        "source": {
+          "key": "japan",
+          "name_ja": "日本",
+          "lat": 35.6762,
+          "lng": 139.6503,
+          "region": "Asia",
+          "label": "読売新聞"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "読売新聞 ワクチン / 予防接種"
+      ],
+      "first_seen_at": "2026-04-02T20:00:30+00:00",
+      "last_seen_at": "2026-04-05T21:46:44.313057+00:00"
     },
     {
       "id": "ecda92e577088541",
@@ -277,76 +482,7 @@
         "medRxiv vaccines"
       ],
       "first_seen_at": "2026-04-03T02:50:46+00:00",
-      "last_seen_at": "2026-04-04T21:45:07.431608+00:00"
-    },
-    {
-      "id": "981da869c0655230",
-      "title": "６５歳定期接種の肺炎球菌ワクチンが新タイプに切り替え 柳沢慎吾さんが啓発アンバサダー - 読売新聞オンライン",
-      "summary": "６５歳定期接種の肺炎球菌ワクチンが新タイプに切り替え 柳沢慎吾さんが啓発アンバサダー 読売新聞オンライン",
-      "summary_ai": "６５歳定期接種の肺炎球菌ワクチンが新タイプに切り替え 柳沢慎吾さんが啓発アンバサダー 読売新聞オンライン",
-      "title_original": "６５歳定期接種の肺炎球菌ワクチンが新タイプに切り替え 柳沢慎吾さんが啓発アンバサダー - 読売新聞オンライン",
-      "summary_original": "６５歳定期接種の肺炎球菌ワクチンが新タイプに切り替え 柳沢慎吾さんが啓発アンバサダー 読売新聞オンライン",
-      "summary_ai_original": "６５歳定期接種の肺炎球菌ワクチンが新タイプに切り替え 柳沢慎吾さんが啓発アンバサダー 読売新聞オンライン",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBzeG90NGt6bmhETnFIOXNEcmpsRHhqeFlGSE4tcG9rQkNoU1ptOFU4a1NNcVk4Z05iaG9xSTg1akhuaTY5RFBIZlJ1UXlSczhoc0s1ZXlUWDhjQUo1aVh3SnVXNy1RdDhQbHZYempB?oc=5",
-      "source": "読売新聞 ワクチン / 予防接種",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-04-02T20:00:30+00:00",
-      "topics": [
-        "communication"
-      ],
-      "policy_tags": [
-        "communication"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "japan",
-        "name_ja": "日本",
-        "lat": 35.6762,
-        "lng": 139.6503,
-        "region": "Asia",
-        "label": "読売新聞"
-      },
-      "plot": {
-        "source": {
-          "key": "japan",
-          "name_ja": "日本",
-          "lat": 35.6762,
-          "lng": 139.6503,
-          "region": "Asia",
-          "label": "読売新聞"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 2,
-      "duplicate_sources": [
-        "読売新聞 ワクチン / 予防接種"
-      ],
-      "first_seen_at": "2026-04-02T20:00:30+00:00",
-      "last_seen_at": "2026-04-03T21:48:24.994137+00:00"
+      "last_seen_at": "2026-04-05T21:46:44.313061+00:00"
     },
     {
       "id": "c9571c05f69b3071",
@@ -415,7 +551,7 @@
         "medRxiv vaccines"
       ],
       "first_seen_at": "2026-04-02T19:31:14+00:00",
-      "last_seen_at": "2026-04-04T21:45:07.431618+00:00"
+      "last_seen_at": "2026-04-05T21:46:44.313067+00:00"
     },
     {
       "id": "7368e3327131844c",
@@ -482,7 +618,7 @@
         "CIDRAP Vaccines & Immunization"
       ],
       "first_seen_at": "2026-04-02T19:04:03+00:00",
-      "last_seen_at": "2026-04-04T21:45:07.431623+00:00"
+      "last_seen_at": "2026-04-05T21:46:44.313072+00:00"
     },
     {
       "id": "0793120b52ec1a7d",
@@ -549,7 +685,7 @@
         "CIDRAP Vaccines & Immunization"
       ],
       "first_seen_at": "2026-04-02T17:03:03+00:00",
-      "last_seen_at": "2026-04-04T21:45:07.431631+00:00"
+      "last_seen_at": "2026-04-05T21:46:44.313076+00:00"
     },
     {
       "id": "3c3049acea464b9d",
@@ -622,7 +758,76 @@
         "FDA Vaccines / Biologics"
       ],
       "first_seen_at": "2026-03-13T14:26:04+00:00",
-      "last_seen_at": "2026-04-04T21:45:07.431637+00:00"
+      "last_seen_at": "2026-04-05T21:46:44.313081+00:00"
+    },
+    {
+      "id": "3bee37488b7709ba",
+      "title": "シンガポールのワクチン接種頻度の高いおよびまれな若年成人における高用量の組換えインフルエンザワクチンと標準用量の卵培養および細胞培養ワクチンの免疫原性：無作為化、対照、二重盲検、単施設、第4相臨床試験 - ランセット",
+      "summary": "シンガポールのワクチン接種頻度の高いおよびまれな若年成人における高用量の組換えインフルエンザワクチンと標準用量の卵培養および細胞培養ワクチンの免疫原性：無作為化、対照、二重盲検、単施設、第4相臨床試験 The Lancet",
+      "summary_ai": "シンガポールのワクチン接種頻度の高いおよびまれな若年成人における高用量の組換えインフルエンザワクチンと標準用量の卵培養および細胞培養ワクチンの免疫原性：無作為化、対照、二重盲検、単施設、第4相臨床試験 The Lancet",
+      "title_original": "Immunogenicity of high-dose recombinant influenza vaccine versus standard-dose egg-grown and cell-grown vaccines among frequently and infrequently vaccinated young adults in Singapore: a randomised, controlled, double-blind, single-centre, phase 4 cli - The Lancet",
+      "summary_original": "Immunogenicity of high-dose recombinant influenza vaccine versus standard-dose egg-grown and cell-grown vaccines among frequently and infrequently vaccinated young adults in Singapore: a randomised, controlled, double-blind, single-centre, phase 4 cli The Lancet",
+      "summary_ai_original": "Immunogenicity of high-dose recombinant influenza vaccine versus standard-dose egg-grown and cell-grown vaccines among frequently and infrequently vaccinated young adults in Singapore: a randomised, controlled, double-blind, single-centre, phase 4 cli The Lancet",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRkZRNlVoYXlEOWVzLVg0SklyOHB5clpJUzdRUFh5QXhuT2ozYkkzcFNvOHg5dTk0Qm1RUTNZa050NnhjaWtUazJEdzRxYUtjTmFuejVmdVY4Y3gtcnZITXctWDNoVG95dlhodUlBN05kbk1lWURxc2FsZWhhUkluRGQtUjlpOUY3NmQw?oc=5",
+      "source": "Lancet Infectious Diseases",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-04-02T07:00:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "influenza"
+      ],
+      "variants": [],
+      "target_country": "シンガポール",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Lancet Infectious Diseases / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Lancet Infectious Diseases / London"
+        },
+        "target": {
+          "key": "singapore",
+          "name_ja": "シンガポール",
+          "lat": 1.3521,
+          "lng": 103.8198,
+          "region": "Asia",
+          "label": "シンガポール"
+        }
+      },
+      "location": {
+        "key": "singapore",
+        "name_ja": "シンガポール",
+        "lat": 1.3521,
+        "lng": 103.8198,
+        "region": "Asia",
+        "label": "シンガポール"
+      },
+      "region": "Asia",
+      "country": "シンガポール",
+      "lat": 1.3521,
+      "lng": 103.8198,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Lancet Infectious Diseases"
+      ],
+      "first_seen_at": "2026-04-02T07:00:00+00:00",
+      "last_seen_at": "2026-04-05T21:46:44.313083+00:00"
     },
     {
       "id": "6a4fcd8803c16621",
@@ -689,7 +894,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-03-05T21:19:27+00:00",
-      "last_seen_at": "2026-04-04T21:45:07.431641+00:00"
+      "last_seen_at": "2026-04-05T21:46:44.313088+00:00"
     },
     {
       "id": "d84842dd92649790",
@@ -760,7 +965,7 @@
         "The Lancet series"
       ],
       "first_seen_at": "2026-04-01T23:51:44+00:00",
-      "last_seen_at": "2026-04-03T21:48:24.994173+00:00"
+      "last_seen_at": "2026-04-05T21:46:44.313092+00:00"
     },
     {
       "id": "2bdcf972456a8a5e",
@@ -829,7 +1034,7 @@
         "Reuters Vaccines / Immunization"
       ],
       "first_seen_at": "2026-04-01T17:38:34+00:00",
-      "last_seen_at": "2026-04-04T21:45:07.431646+00:00"
+      "last_seen_at": "2026-04-05T21:46:44.313097+00:00"
     },
     {
       "id": "e49c4e6085281537",
@@ -898,7 +1103,7 @@
         "CIDRAP Vaccines & Immunization"
       ],
       "first_seen_at": "2026-04-01T16:53:43+00:00",
-      "last_seen_at": "2026-04-04T21:45:07.431652+00:00"
+      "last_seen_at": "2026-04-05T21:46:44.313100+00:00"
     },
     {
       "id": "fead8373325c3615",
@@ -1033,7 +1238,7 @@
         "The Lancet series"
       ],
       "first_seen_at": "2026-04-01T04:16:22+00:00",
-      "last_seen_at": "2026-04-04T21:45:07.431657+00:00"
+      "last_seen_at": "2026-04-05T21:46:44.313104+00:00"
     },
     {
       "id": "8b9af73591d72e4a",
@@ -1097,7 +1302,7 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "duplicate_sources": [
         "medRxiv vaccines"
       ],
@@ -1175,7 +1380,7 @@
         "MHRA"
       ],
       "first_seen_at": "2026-03-31T13:01:53+00:00",
-      "last_seen_at": "2026-04-04T21:45:07.431667+00:00"
+      "last_seen_at": "2026-04-05T21:46:44.313111+00:00"
     },
     {
       "id": "6de2c28044c4f9a8",
@@ -1449,7 +1654,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-03-30T08:09:51+00:00",
-      "last_seen_at": "2026-04-04T21:45:07.431675+00:00"
+      "last_seen_at": "2026-04-05T21:46:44.313118+00:00"
     },
     {
       "id": "67cd4e618e65d2ce",
@@ -1511,12 +1716,12 @@
       "country": "ネパール",
       "lat": 27.7172,
       "lng": 85.324,
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicate_sources": [
         "BMJ"
       ],
       "first_seen_at": "2026-03-30T05:02:37+00:00",
-      "last_seen_at": "2026-04-03T21:48:24.994209+00:00"
+      "last_seen_at": "2026-04-05T21:46:44.313122+00:00"
     },
     {
       "id": "60fd65e7bbff310b",
@@ -1588,7 +1793,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-03-02T13:26:37+00:00",
-      "last_seen_at": "2026-04-04T21:45:07.431682+00:00"
+      "last_seen_at": "2026-04-05T21:46:44.313126+00:00"
     },
     {
       "id": "eece3785784e3e6c",
@@ -1651,12 +1856,12 @@
       "country": "英国",
       "lat": 51.5074,
       "lng": -0.1278,
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicate_sources": [
         "BMJ"
       ],
       "first_seen_at": "2026-03-28T07:14:23+00:00",
-      "last_seen_at": "2026-04-03T21:48:24.994219+00:00"
+      "last_seen_at": "2026-04-05T21:46:44.313132+00:00"
     },
     {
       "id": "6c76c17c39f852fd",
@@ -1725,7 +1930,7 @@
         "medRxiv vaccines"
       ],
       "first_seen_at": "2026-03-28T03:23:52+00:00",
-      "last_seen_at": "2026-04-04T21:45:07.431689+00:00"
+      "last_seen_at": "2026-04-05T21:46:44.313136+00:00"
     },
     {
       "id": "cb2aee9baaff7f24",
@@ -1795,7 +2000,7 @@
         "PAHO News"
       ],
       "first_seen_at": "2026-03-27T19:45:08+00:00",
-      "last_seen_at": "2026-04-04T21:45:07.431694+00:00"
+      "last_seen_at": "2026-04-05T21:46:44.313140+00:00"
     },
     {
       "id": "52653fbd9d6834de",
@@ -2001,7 +2206,7 @@
         "bioRxiv vaccines"
       ],
       "first_seen_at": "2026-03-27T04:52:03+00:00",
-      "last_seen_at": "2026-04-04T21:45:07.431701+00:00"
+      "last_seen_at": "2026-04-05T21:46:44.313147+00:00"
     },
     {
       "id": "8212936e4e7117bb",
@@ -2141,7 +2346,7 @@
         "medRxiv vaccines"
       ],
       "first_seen_at": "2026-03-26T19:06:47+00:00",
-      "last_seen_at": "2026-04-04T21:45:07.431705+00:00"
+      "last_seen_at": "2026-04-05T21:46:44.313151+00:00"
     },
     {
       "id": "12d29f3972ea305a",
@@ -2573,7 +2778,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-03-24T12:53:40+00:00",
-      "last_seen_at": "2026-03-26T21:45:41.400442+00:00"
+      "last_seen_at": "2026-04-05T21:46:44.313156+00:00"
     },
     {
       "id": "2dbfccfae8ce9415",
@@ -2715,74 +2920,7 @@
         "CIDRAP Vaccines & Immunization"
       ],
       "first_seen_at": "2026-03-24T21:16:55+00:00",
-      "last_seen_at": "2026-04-04T21:45:07.431711+00:00"
-    },
-    {
-      "id": "ee1816479d6ed3d1",
-      "title": "ナイジェリア、バウチ州における小児予防接種に関する宗教指導者の視点: 定性的研究 - medrxiv.org",
-      "summary": "ナイジェリア、バウチ州における小児予防接種に関する宗教指導者の視点: 定性的研究 medrxiv.org",
-      "summary_ai": "ナイジェリア、バウチ州における小児予防接種に関する宗教指導者の視点: 定性的研究 medrxiv.org",
-      "title_original": "Religious leaders’ perspectives on childhood immunization in Bauchi State, Nigeria: A Qualitative Study - medrxiv.org",
-      "summary_original": "Religious leaders’ perspectives on childhood immunization in Bauchi State, Nigeria: A Qualitative Study medrxiv.org",
-      "summary_ai_original": "Religious leaders’ perspectives on childhood immunization in Bauchi State, Nigeria: A Qualitative Study medrxiv.org",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9oZGR4M1UtUWU3cF9xRjdpSHRLQnVCUGttcFFuckFTSnlnTXFlMEplN2ZwQVd2VzlSLTNGdG1ueENaNTFOWmttS3ZfMEE1bzI2S28zLU94VXJ6QnNuWWViQlUyM2pXOHh4YnQta004ME1iZ0tkOG56RDRaYw?oc=5",
-      "source": "medRxiv vaccines",
-      "source_type": "preprint",
-      "source_tier": "Tier 3",
-      "source_priority": 7,
-      "published_at": "2026-03-24T06:49:07+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "ナイジェリア",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "medRxiv"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "medRxiv"
-        },
-        "target": {
-          "key": "nigeria",
-          "name_ja": "ナイジェリア",
-          "lat": 9.0765,
-          "lng": 7.3986,
-          "region": "Africa",
-          "label": "ナイジェリア"
-        }
-      },
-      "location": {
-        "key": "nigeria",
-        "name_ja": "ナイジェリア",
-        "lat": 9.0765,
-        "lng": 7.3986,
-        "region": "Africa",
-        "label": "ナイジェリア"
-      },
-      "region": "Africa",
-      "country": "ナイジェリア",
-      "lat": 9.0765,
-      "lng": 7.3986,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "medRxiv vaccines"
-      ],
-      "first_seen_at": "2026-03-24T06:49:07+00:00",
-      "last_seen_at": "2026-03-31T21:53:35.835379+00:00"
+      "last_seen_at": "2026-04-05T21:46:44.313161+00:00"
     },
     {
       "id": "baff36ef808ad474",
@@ -2846,12 +2984,12 @@
       "country": "カナダ",
       "lat": 45.4215,
       "lng": -75.6972,
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicate_sources": [
         "BMJ"
       ],
       "first_seen_at": "2026-03-24T04:01:03+00:00",
-      "last_seen_at": "2026-04-03T21:48:24.994258+00:00"
+      "last_seen_at": "2026-04-05T21:46:44.313165+00:00"
     },
     {
       "id": "f491e761e1c98044",
@@ -2915,12 +3053,12 @@
       "country": "ナイジェリア",
       "lat": 9.0765,
       "lng": 7.3986,
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicate_sources": [
         "BMJ"
       ],
       "first_seen_at": "2026-03-11T03:59:50+00:00",
-      "last_seen_at": "2026-04-02T21:52:29.207519+00:00"
+      "last_seen_at": "2026-04-05T21:46:44.313170+00:00"
     },
     {
       "id": "14f1566d19187dec",
@@ -2987,7 +3125,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-03-09T18:09:05+00:00",
-      "last_seen_at": "2026-04-04T21:45:07.431721+00:00"
+      "last_seen_at": "2026-04-05T21:46:44.313174+00:00"
     },
     {
       "id": "749b91e9242d3a3d",
@@ -3051,12 +3189,12 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicate_sources": [
         "BMJ"
       ],
       "first_seen_at": "2026-03-22T11:09:14+00:00",
-      "last_seen_at": "2026-04-03T21:48:24.994268+00:00"
+      "last_seen_at": "2026-04-05T21:46:44.313177+00:00"
     },
     {
       "id": "203e08b445d307b9",
@@ -3254,12 +3392,12 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicate_sources": [
         "Science Vaccines / Immunization"
       ],
       "first_seen_at": "2026-03-23T21:42:51+00:00",
-      "last_seen_at": "2026-04-03T21:48:24.994277+00:00"
+      "last_seen_at": "2026-04-05T21:46:44.313182+00:00"
     },
     {
       "id": "f504a0d4dd093042",
