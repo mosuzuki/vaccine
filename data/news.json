@@ -1,9 +1,9 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-04-05T21:45:08.070631+00:00",
-  "item_count": 36,
-  "archive_count": 109,
+  "generated_at": "2026-04-06T21:49:04.547522+00:00",
+  "item_count": 34,
+  "archive_count": 110,
   "days_back": 14,
   "plot_mode_default": "source",
   "feed_status": [
@@ -23,7 +23,7 @@
       "name": "CDC Newsroom",
       "url": "https://tools.cdc.gov/api/v2/resources/media/316422.rss",
       "status": "ok",
-      "seen": 10,
+      "seen": 7,
       "kept": 0
     },
     {
@@ -82,21 +82,21 @@
       "name": "PAHO News",
       "url": "https://www.paho.org/en/rss.xml",
       "status": "ok",
-      "seen": 4,
-      "kept": 1
+      "seen": 5,
+      "kept": 2
     },
     {
       "name": "The Lancet series",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Athelancet.com%20(trial%20OR%20policy%20OR%20effectiveness%20OR%20safety)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 2,
       "kept": 2
     },
     {
       "name": "Lancet Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Athelancet.com%2Fjournals%2Flaninf&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 2,
       "kept": 1
     },
     {
@@ -110,8 +110,8 @@
       "name": "BMJ",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abmj.com%20(policy%20OR%20trial%20OR%20effectiveness%20OR%20communication)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 12,
-      "kept": 11
+      "seen": 10,
+      "kept": 9
     },
     {
       "name": "Vaccine journal",
@@ -138,21 +138,21 @@
       "name": "Human Vaccines & Immunotherapeutics",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Atandfonline.com%20%22Human%20Vaccines%20%26%20Immunotherapeutics%22&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
       "name": "medRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Amedrxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 13,
+      "seen": 14,
       "kept": 12
     },
     {
       "name": "bioRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abiorxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 11,
+      "seen": 10,
       "kept": 1
     },
     {
@@ -166,7 +166,7 @@
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 9,
+      "seen": 19,
       "kept": 2
     },
     {
@@ -180,14 +180,14 @@
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 19,
+      "seen": 45,
       "kept": 0
     },
     {
       "name": "Financial Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aft.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 5,
+      "seen": 6,
       "kept": 1
     },
     {
@@ -201,74 +201,147 @@
       "name": "Nature News Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 7,
+      "seen": 6,
       "kept": 0
     },
     {
       "name": "Science Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Ascience.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 24,
-      "kept": 1
+      "seen": 22,
+      "kept": 0
     },
     {
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 22,
+      "seen": 18,
       "kept": 1
     },
     {
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 81,
+      "seen": 26,
       "kept": 0
     },
     {
       "name": "Washington Post Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 6,
+      "seen": 5,
       "kept": 0
     },
     {
       "name": "NHK ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anhk.or.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 16,
+      "seen": 14,
       "kept": 0
     },
     {
       "name": "朝日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Aasahi.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 17,
+      "seen": 13,
       "kept": 0
     },
     {
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 18,
+      "seen": 19,
       "kept": 2
     },
     {
       "name": "毎日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 20,
+      "seen": 21,
       "kept": 0
     }
   ],
   "items": [
+    {
+      "id": "5c103428141313fc",
+      "title": "2026 年世界保健デー: PAHO/WHO はすべての人々の健康増進に向けて科学への新たな取り組みを呼びかけ",
+      "summary": "2026 年世界保健デー：PAHO/WHO はすべての人の健康増進に向けて科学への新たな取り組みを呼びかけ クリスティーナ・ミッチェル 2026 年 4 月 6 日",
+      "summary_ai": "2026年4月6日、ジュネーブ/ワシントンDC--世界保健機関（WHO）と汎米保健機関（PAHO）は、2026年世界保健デーのテーマ「病気のために共に",
+      "title_original": "World Health Day 2026: PAHO/WHO calls for renewed commitment to science to drive better health for all",
+      "summary_original": "World Health Day 2026: PAHO/WHO calls for renewed commitment to science to drive better health for all Cristina Mitchell 6 Apr 2026",
+      "summary_ai_original": "6 April 2026, Geneva / Washington, DC-- The World Health Organization (WHO) and the Pan American Health Organization (PAHO) call on people everywhere to renew their commitment to science as the foundation for better health, under the World Health Day 2026 theme: “Together for hea",
+      "article_text_original": "6 April 2026, Geneva / Washington, DC-- The World Health Organization (WHO) and the Pan American Health Organization (PAHO) call on people everywhere to renew their commitment to science as the foundation for better health, under the World Health Day 2026 theme: “Together for health. Stand with science.” The campaign marks the anniversary of WHO’s founding on 7 April, launching a year-long public health campaign. Human health has been profoundly transformed over the past century, largely due to scientific progress and international collaboration. Global maternal mortality rate has fallen by more than 40% since 2000, and deaths among children under five have been reduced by over 50%. Advances in technology, scientific knowledge and skills continue to turn once-life-threatening health challenges—such as elevated blood pressure, cancer diagnoses or HIV infection—into manageable health issues, extending and improving lives worldwide. Yet, health threats continue to grow, fuelled by climate impacts, environmental degradation, geopolitical tensions and shifting demographics. These challenges include persistent diseases and strained health systems as well as emerging diseases with epidemic or pandemic potential. Across the globe, thousands of scientists—together with organizations such as WHO and PAHO—are accelerating research and developing policies, tools and innovations needed to protect communities today and safeguard the health of future generations. “Science is one of humanity’s most powerful tools for protecting and improving health,” said Tedros Adhanom Ghebreyesus, Director-General of the World Health Organization. “People in every country live longer and healthier lives on average today than their ancestors did, thanks to the power of science. Vaccines, penicillin, germ theory, MRI machines and the mapping of the human genome are just some of the achievements that science has delivered that have saved lives and transformed health for billions of people.” Science behind health progress Scientific innovations are most powerful when they are widely adopted and used. Every success in improving human health reflects the collective work and collaboration of scientific organizations and communities. For example: - Before modern anesthesia, surgery meant unimaginable pain. Today, safer drugs, simpler technologies and highly trained specialists allow life-saving operations to be performed while patients sleep comfortably. Scientific progress has helped democratize these advances, making safe surgical care accessible across the world, including in many resource-limited communities. - Over the past 50 years, global immunization efforts have saved over 154 million children from infectious diseases. Vaccines have contributed to a 40% reduction in infant mortality, with just one vaccine—the measles vaccine—saving nearly 59 million children. - Progress in early screening technologies is transforming health outcomes. From electronic blood pressure monitors to breast cancer screening through mammography, these tools have become life-saving interventions for millions. Progress in the Americas In the Americas, PAHO has stood at the forefront of health and scientific transformation for more than a century. For example: - The Americas was the first region in the world to eliminate wild poliovirus in 1994. PAHO has also driven the elimination of other vaccine-preventable diseases such as smallpox and rubella, expanding national schedules from 6 to over 16 vaccines. - Through its Disease Elimination Initiative, PAHO continues to play a central role in efforts to eliminate more than 30 diseases and related conditions by 2030, including malaria, tuberculosis and cervical cancer - Through its Regional Revolving Funds, PAHO has also transformed access to affordable vaccines and medicines, enabling countries of the region, regardless of income level, to secure high-quality immunizations and treatments. This mechanism has become a model for pooled procurement globally and has strengthened routine immunization systems across Latin America and the Caribbean. - From outbreaks of Zika to the COVID-19 pandemic, PAHO has coordinated surveillance, laboratory networks, and information-sharing across countries. During COVID-19, it provided technical guidance, supported vaccine rollout, and strengthened health system resilience. - On 9 April, PAHO will also present its Clinical Trial Accelerator Initiative, which seeks to enhance the efficiency of clinical trials in the Region. Projects will range from conceptual development to the design of artificial intelligence-based solutions. ”Science saves lives,” PAHO Director, Dr. Jarbas Barbosa, added. “It improves health and wellbeing and strengthens economies.” On World Health Day, “the Pan American Health Organization (PAHO) reaffirms its commitment to working together, collaboratively, to advance science, strengthen trust, and ensure that its benefits reach all people in our Region.” Stand with science for healthier future In line with the World Health Day 2026 theme, WHO and the G7 Presidency of France are convening a One Health Summit in Lyon, France, from 5–7 April, bringing together Heads of State, scientists and community leaders to strengthen coordinated action. WHO will host the Global Forum of Collaborating Centres from 7–9 April with representatives from over 800 organizations and more than 80 countries that support WHO’s research, technical assistance and capacity building worldwide. These include over 180 PAHO/WHO collaborating centers located in countries of the Region of the Americas. The PAHO Director will participate in this Forum, including as keynote speaker for an event on reducing infectious risks through the One Health approach. Science must continue to guide health decision-making at all levels. PAHO/WHO and their partners generate and translate evidence across a wide range of health priorities, from infectious diseases and chronic conditions to mental health, nutrition and environmental risks, supporting countries to deliver effective, equitable care. Achievements in global health show that when countries unite behind science, they not only respond to crises more effectively but also build stronger, more equitable health systems for the future.",
+      "link": "https://www.paho.org/en/news/6-4-2026-world-health-day-2026-pahowho-calls-renewed-commitment-science-drive-better-health",
+      "source": "PAHO News",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 8,
+      "published_at": "2026-04-06T19:04:52+00:00",
+      "topics": [
+        "communication",
+        "policy",
+        "research"
+      ],
+      "policy_tags": [
+        "financing",
+        "outbreak_response",
+        "schedule"
+      ],
+      "vaccines": [
+        "measles"
+      ],
+      "variants": [],
+      "target_country": "フランス",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "PAHO / Washington DC"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "PAHO / Washington DC"
+        },
+        "target": {
+          "key": "france",
+          "name_ja": "フランス",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "region": "Europe",
+          "label": "フランス"
+        }
+      },
+      "location": {
+        "key": "france",
+        "name_ja": "フランス",
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "region": "Europe",
+        "label": "フランス"
+      },
+      "region": "Europe",
+      "country": "フランス",
+      "lat": 48.8566,
+      "lng": 2.3522,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "PAHO News"
+      ]
+    },
     {
       "id": "b3be7153aee6a9da",
       "title": "バングラデシュ、麻疹流行拡大を受けて緊急ワクチン接種キャンペーンを開始 - ロイター",
@@ -337,7 +410,74 @@
       ]
     },
     {
-      "id": "5231a31bd94aac73",
+      "id": "0259f8558be912d7",
+      "title": "高齢者の新型コロナウイルス感染症入院に対する2024/25シーズン終了時のKP.2ワクチンの有効性 - medRxiv",
+      "summary": "2024/25シーズン終了時の高齢者の新型コロナウイルス感染症入院に対するKP.2ワクチンの有効性 medRxiv",
+      "summary_ai": "2024/25シーズン終了時の高齢者の新型コロナウイルス感染症入院に対するKP.2ワクチンの有効性 medRxiv",
+      "title_original": "2024/25 end-of-season KP.2 vaccine effectiveness against COVID-19 hospitalization in older adults - medRxiv",
+      "summary_original": "2024/25 end-of-season KP.2 vaccine effectiveness against COVID-19 hospitalization in older adults medRxiv",
+      "summary_ai_original": "2024/25 end-of-season KP.2 vaccine effectiveness against COVID-19 hospitalization in older adults medRxiv",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ySnVYbmIya1Q1Vy1DZHcwSC1ONzJjVzBualQzRkJrV3JFTnZoemFxdVhGTHZkRWtjRm4xS1o2RXhOYVowX0JOeGo1TUtVQi16R0p1ZUNUMTduM1BDckdueXRDNjdxTXFKM1J3TzN2TzB6SjZkMl85Y3ctQQ?oc=5",
+      "source": "medRxiv vaccines",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-04-05T06:03:59+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [
+        "kp.2"
+      ],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "medRxiv"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "medRxiv"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 2,
+      "duplicate_sources": [
+        "medRxiv vaccines"
+      ]
+    },
+    {
+      "id": "e449f82ead4bad9b",
       "title": "ナイジェリア、バウチ州における小児予防接種に関する宗教指導者の見解: 定性的研究 - medRxiv",
       "summary": "ナイジェリア、バウチ州における小児予防接種に関する宗教指導者の視点: 定性的研究 medRxiv",
       "summary_ai": "ナイジェリア、バウチ州における小児予防接種に関する宗教指導者の視点: 定性的研究 medRxiv",
@@ -345,12 +485,12 @@
       "summary_original": "Religious leaders' perspectives on childhood immunization in Bauchi State, Nigeria: A Qualitative Study medRxiv",
       "summary_ai_original": "Religious leaders' perspectives on childhood immunization in Bauchi State, Nigeria: A Qualitative Study medRxiv",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE81aVkxSlVNa3F1UGlNYktubUlCLU1hckZPUUJOYnBjMnNtYmw4UUtxVlVxaEFVOGFfWDhXVFVleFhwR2ZKaUFIQzY4Rjd3SjN6S1pBakhxSGFPdlJ6SlZLRVdfR0c4TFNsN2ZWbE9JRQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0yUXVSVmIyXzdibXJiVFlDdHY1cmQ5TzMyNVZ4RXNQNXowS0p1TEZ2REpOeEJJay0wcjJ5aDdBN3A3NnBzbFozZWZBdUY1NTgzdVpOY3JoUGdEM0xrcGwzWGZ0VThYNW52SmJJTG8yWTJnYklrcVZET2p3TQ?oc=5",
       "source": "medRxiv vaccines",
       "source_type": "preprint",
       "source_tier": "Tier 3",
       "source_priority": 7,
-      "published_at": "2026-04-04T23:55:56+00:00",
+      "published_at": "2026-04-05T00:12:20+00:00",
       "topics": [
         "research"
       ],
@@ -396,74 +536,7 @@
       "country": "ナイジェリア",
       "lat": 9.0765,
       "lng": 7.3986,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "medRxiv vaccines"
-      ]
-    },
-    {
-      "id": "693f6ce8e60f4321",
-      "title": "高齢者の新型コロナウイルス感染症入院に対する2024/25シーズン終了時のKP.2ワクチンの有効性：カナダ・ケベック州での検査陰性研究 - medRxiv",
-      "summary": "高齢者の新型コロナウイルス感染症入院に対する2024/25シーズン終了時のKP.2ワクチンの有効性：カナダ・ケベック州での検査陰性研究 medRxiv",
-      "summary_ai": "高齢者の新型コロナウイルス感染症入院に対する2024/25シーズン終了時のKP.2ワクチンの有効性：カナダ・ケベック州での検査陰性研究 medRxiv",
-      "title_original": "2024/25 end-of-season KP.2 vaccine effectiveness against COVID-19 hospitalization in older adults: a test-negative study in Quebec, Canada - medRxiv",
-      "summary_original": "2024/25 end-of-season KP.2 vaccine effectiveness against COVID-19 hospitalization in older adults: a test-negative study in Quebec, Canada medRxiv",
-      "summary_ai_original": "2024/25 end-of-season KP.2 vaccine effectiveness against COVID-19 hospitalization in older adults: a test-negative study in Quebec, Canada medRxiv",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GOHdCWmk4TXppbm0wNzRBbHU3bHpCWmd4OWpOZlNPdldWeFVxMTdMRjRObEtiaHpZMURzcmpROVFLZHlzS01lVTFQQ1hhUGZxZ2FmRHNubVNTeWM5UXlodnpHYXd2dFEzUGxjbE9pOA?oc=5",
-      "source": "medRxiv vaccines",
-      "source_type": "preprint",
-      "source_tier": "Tier 3",
-      "source_priority": 7,
-      "published_at": "2026-04-04T19:28:06+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [
-        "kp.2"
-      ],
-      "target_country": "カナダ",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "medRxiv"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "medRxiv"
-        },
-        "target": {
-          "key": "canada",
-          "name_ja": "カナダ",
-          "lat": 45.4215,
-          "lng": -75.6972,
-          "region": "North America",
-          "label": "カナダ"
-        }
-      },
-      "location": {
-        "key": "canada",
-        "name_ja": "カナダ",
-        "lat": 45.4215,
-        "lng": -75.6972,
-        "region": "North America",
-        "label": "カナダ"
-      },
-      "region": "North America",
-      "country": "カナダ",
-      "lat": 45.4215,
-      "lng": -75.6972,
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "duplicate_sources": [
         "medRxiv vaccines"
       ]
@@ -603,7 +676,7 @@
       ]
     },
     {
-      "id": "981da869c0655230",
+      "id": "9eab26646bf97482",
       "title": "６５歳定期接種の肺炎球菌ワクチンが新タイプに切り替え 柳沢慎吾さんが啓発アンバサダー - 読売新聞オンライン",
       "summary": "６５歳定期接種の肺炎球菌ワクチンが新タイプに切り替え 柳沢慎吾さんが啓発アンバサダー 読売新聞オンライン",
       "summary_ai": "６５歳定期接種の肺炎球菌ワクチンが新タイプに切り替え 柳沢慎吾さんが啓発アンバサダー 読売新聞オンライン",
@@ -611,12 +684,12 @@
       "summary_original": "６５歳定期接種の肺炎球菌ワクチンが新タイプに切り替え 柳沢慎吾さんが啓発アンバサダー 読売新聞オンライン",
       "summary_ai_original": "６５歳定期接種の肺炎球菌ワクチンが新タイプに切り替え 柳沢慎吾さんが啓発アンバサダー 読売新聞オンライン",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBzeG90NGt6bmhETnFIOXNEcmpsRHhqeFlGSE4tcG9rQkNoU1ptOFU4a1NNcVk4Z05iaG9xSTg1akhuaTY5RFBIZlJ1UXlSczhoc0s1ZXlUWDhjQUo1aVh3SnVXNy1RdDhQbHZYempB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNEp2LWlvUVloUnVQVElzdWFJMUZJWG0yTEFOV1ZTYW5USHYtTW1PaVhvdDZlMnkzRWp0VlhWSmlPTGhZQkg1V2U2S0VRQ2x0b0c5SHFVcFdKX2l6MENKNUNXZldhWXdPZlRJTFE3emhmd1dENklkSGZfcEZaWlRibkNVZVdnSFU3ZzQ1MVVuUQ?oc=5",
       "source": "読売新聞 ワクチン / 予防接種",
       "source_type": "media",
       "source_tier": "Tier 2",
       "source_priority": 7,
-      "published_at": "2026-04-03T06:27:21+00:00",
+      "published_at": "2026-04-03T04:52:11+00:00",
       "topics": [
         "communication"
       ],
@@ -683,7 +756,7 @@
       "source_type": "preprint",
       "source_tier": "Tier 3",
       "source_priority": 7,
-      "published_at": "2026-04-03T02:50:46+00:00",
+      "published_at": "2026-04-03T02:50:47+00:00",
       "topics": [
         "research"
       ],
@@ -730,73 +803,6 @@
       "lat": 20.0,
       "lng": 0.0,
       "duplicate_count": 1,
-      "duplicate_sources": [
-        "medRxiv vaccines"
-      ]
-    },
-    {
-      "id": "c9571c05f69b3071",
-      "title": "米国成人におけるインフルエンザA型関連入院と重篤な入院転帰に対するインフルエンザワクチンの有効性、2024～2025年 - medRxiv",
-      "summary": "米国成人におけるインフルエンザA型関連入院および重度の入院転帰に対するインフルエンザワクチンの有効性、2024～2025年 medRxiv",
-      "summary_ai": "米国成人におけるインフルエンザA型関連入院および重度の入院転帰に対するインフルエンザワクチンの有効性、2024～2025年 medRxiv",
-      "title_original": "Influenza vaccine effectiveness against influenza A-associated hospitalization and severe in-hospital outcomes among adults in the United States, 2024-2025 - medRxiv",
-      "summary_original": "Influenza vaccine effectiveness against influenza A-associated hospitalization and severe in-hospital outcomes among adults in the United States, 2024-2025 medRxiv",
-      "summary_ai_original": "Influenza vaccine effectiveness against influenza A-associated hospitalization and severe in-hospital outcomes among adults in the United States, 2024-2025 medRxiv",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9hMGIyb0JVU3lvbkFfYjd2QkhybmxjTmdOQ1JSU0tZRzhya0V1cVU2dXVMN1Z6VWxGYnFobVFnamg2RzBjOWpEOV9vTThrMV9FSFhDcGJXcEdPeTl3QmhFR1h6cWJZTE5JQ3lCVWVIdw?oc=5",
-      "source": "medRxiv vaccines",
-      "source_type": "preprint",
-      "source_tier": "Tier 3",
-      "source_priority": 7,
-      "published_at": "2026-04-02T19:31:15+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "influenza"
-      ],
-      "variants": [],
-      "target_country": "米国",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "medRxiv"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "medRxiv"
-        },
-        "target": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "米国"
-        }
-      },
-      "location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "米国"
-      },
-      "region": "North America",
-      "country": "米国",
-      "lat": 38.9072,
-      "lng": -77.0369,
-      "duplicate_count": 2,
       "duplicate_sources": [
         "medRxiv vaccines"
       ]
@@ -1067,6 +1073,73 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "Lancet Infectious Diseases"
+      ]
+    },
+    {
+      "id": "fdd247c3ff819ae9",
+      "title": "インフルエンザA型関連入院および成人における重篤な入院転帰に対するインフルエンザワクチンの有効性 - medRxiv",
+      "summary": "t medRxiv における成人におけるインフルエンザ A に関連した入院と重篤な院内転帰に対するインフルエンザワクチンの有効性",
+      "summary_ai": "t medRxiv における成人におけるインフルエンザ A に関連した入院と重篤な院内転帰に対するインフルエンザワクチンの有効性",
+      "title_original": "Influenza vaccine effectiveness against influenza A-associated hospitalization and severe in-hospital outcomes among adults in t - medRxiv",
+      "summary_original": "Influenza vaccine effectiveness against influenza A-associated hospitalization and severe in-hospital outcomes among adults in t medRxiv",
+      "summary_ai_original": "Influenza vaccine effectiveness against influenza A-associated hospitalization and severe in-hospital outcomes among adults in t medRxiv",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBwcDQ1QjhlXzRnMXdyMUhadE1jNlB4VS1qcXg5aHhTSUlWLXBwRTJ2UWxjTHBxY2FmdUlmY2Z2UFludk85T012TzdPLXlkdjlDNWRyYklPNUdOVVNLZEJuZ09fYXlJSGh1aV9FWHoybWhyYVF4Z1FjektOQQ?oc=5",
+      "source": "medRxiv vaccines",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-04-02T07:00:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "influenza"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "medRxiv"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "medRxiv"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "medRxiv vaccines"
       ]
     },
     {
@@ -1403,73 +1476,6 @@
       ]
     },
     {
-      "id": "1cb7dce2a51553e8",
-      "title": "資源が乏しい状況での流行時のワクチン有効性推定の改善: 2022年から2023年のマラウイでのコレラ流行時の経口コレラワクチン接種のケーススタディ - medRxiv",
-      "summary": "資源が乏しい状況での流行時のワクチン有効性推定の改善: 2022～2023年のマラウイにおけるコレラ流行時の経口コレラワクチン接種のケーススタディ medRxiv",
-      "summary_ai": "資源が乏しい状況での流行時のワクチン有効性推定の改善: 2022～2023年のマラウイにおけるコレラ流行時の経口コレラワクチン接種のケーススタディ medRxiv",
-      "title_original": "Improving estimation of vaccine effectiveness during outbreaks in low-resource settings: A case study of oral cholera vaccination during the 2022-2023 cholera outbreak in Malawi - medRxiv",
-      "summary_original": "Improving estimation of vaccine effectiveness during outbreaks in low-resource settings: A case study of oral cholera vaccination during the 2022-2023 cholera outbreak in Malawi medRxiv",
-      "summary_ai_original": "Improving estimation of vaccine effectiveness during outbreaks in low-resource settings: A case study of oral cholera vaccination during the 2022-2023 cholera outbreak in Malawi medRxiv",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE85RXNXRTRDYkRRSXpyOWYyQkZ5TW0zU29PV2ZUc1JnbWQ5T2d6R25YWWl5Y0puYmRmUGF4RnhyeTNDOEZfR2c0SlB1bnZraXoyajU3b1FLVFV4N2E3aTlpYzNSMUY5ZGFrMW40VWxBWQ?oc=5",
-      "source": "medRxiv vaccines",
-      "source_type": "preprint",
-      "source_tier": "Tier 3",
-      "source_priority": 7,
-      "published_at": "2026-04-01T03:08:40+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [
-        "outbreak_response"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "medRxiv"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "medRxiv"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 2,
-      "duplicate_sources": [
-        "medRxiv vaccines"
-      ]
-    },
-    {
       "id": "f978238a0604bfec",
       "title": "MHRA 安全性総括: 2026 年 3 月",
       "summary": "医薬品および医療機器のユーザーに対する最新の安全性に関するアドバイスの概要",
@@ -1538,6 +1544,73 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "MHRA"
+      ]
+    },
+    {
+      "id": "59f5f1bdb905c5dc",
+      "title": "資源が乏しい状況での流行時のワクチン有効性推定の改善: 2022年から2023年のマラウイでのコレラ流行時の経口コレラワクチン接種のケーススタディ - medRxiv",
+      "summary": "資源が乏しい状況での流行時のワクチン有効性推定の改善: 2022～2023年のマラウイにおけるコレラ流行時の経口コレラワクチン接種のケーススタディ medRxiv",
+      "summary_ai": "資源が乏しい状況での流行時のワクチン有効性推定の改善: 2022～2023年のマラウイにおけるコレラ流行時の経口コレラワクチン接種のケーススタディ medRxiv",
+      "title_original": "Improving estimation of vaccine effectiveness during outbreaks in low-resource settings: A case study of oral cholera vaccination during the 2022-2023 cholera outbreak in Malawi - medRxiv",
+      "summary_original": "Improving estimation of vaccine effectiveness during outbreaks in low-resource settings: A case study of oral cholera vaccination during the 2022-2023 cholera outbreak in Malawi medRxiv",
+      "summary_ai_original": "Improving estimation of vaccine effectiveness during outbreaks in low-resource settings: A case study of oral cholera vaccination during the 2022-2023 cholera outbreak in Malawi medRxiv",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9tR3p0VG9sWXRnLURTQ25qVllOYzRQVUViSDZFSkhHR3JVY29xci0tMkF0OUhnTzJPVnd0YXkxRXVna201cU9IZ1R5Y1BpcWlsTTREZF9iN3NfZE5xVC1WcGp4X0QzLUt2Wm1Gb3VaMGV4WDNuQWc?oc=5",
+      "source": "medRxiv vaccines",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-03-31T07:00:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [
+        "outbreak_response"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "medRxiv"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "medRxiv"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "medRxiv vaccines"
       ]
     },
     {
@@ -1810,72 +1883,6 @@
       ]
     },
     {
-      "id": "eece3785784e3e6c",
-      "title": "「私ならこのワクチンを手に入れるために火の中を歩くだろう」：英国の性的医療サービス利用者の淋病ワクチンプログラムに対する態度と認識を調査する混合法研究 - BMJ Public Health",
-      "summary": "「私ならこのワクチンを手に入れるために火の中を歩くだろう」：英国の性的医療サービス利用者の淋病ワクチンプログラムに対する態度と認識を調査する混合法研究 BMJ Public Health",
-      "summary_ai": "「私ならこのワクチンを手に入れるために火の中を歩くだろう」：英国の性的医療サービス利用者の淋病ワクチンプログラムに対する態度と認識を調査する混合法研究 BMJ Public Health",
-      "title_original": "“I would walk through fire to get this vaccine”: a mixed-methods study examining attitudes and perceptions of a gonorrhoea vaccine programme among UK sexual health service users - BMJ Public Health",
-      "summary_original": "“I would walk through fire to get this vaccine”: a mixed-methods study examining attitudes and perceptions of a gonorrhoea vaccine programme among UK sexual health service users BMJ Public Health",
-      "summary_ai_original": "“I would walk through fire to get this vaccine”: a mixed-methods study examining attitudes and perceptions of a gonorrhoea vaccine programme among UK sexual health service users BMJ Public Health",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52al9MSTZtV2Q3RFZtUmxhbThNeWtRMzBodktFUjkyODJGeVlXLWdTenBoRS1mZzRkSUl6aFpTNlN1WjJFV3RFV0Z5dm9ManhjRkNKcVhYSlNEZHhfcjYweQ?oc=5",
-      "source": "BMJ",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-03-28T07:14:23+00:00",
-      "topics": [
-        "policy",
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "英国",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BMJ / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BMJ / London"
-        },
-        "target": {
-          "key": "uk",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "英国"
-        }
-      },
-      "location": {
-        "key": "uk",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "英国"
-      },
-      "region": "Europe",
-      "country": "英国",
-      "lat": 51.5074,
-      "lng": -0.1278,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "BMJ"
-      ]
-    },
-    {
       "id": "6c76c17c39f852fd",
       "title": "マラウイにおける2022年から2023年にかけてのコレラの発生率と重症度の減少に対する経口コレラワクチンの単回投与の有効性。横断研究 - medRxiv",
       "summary": "マラウイにおける2022年から2023年にかけてのコレラの発生率と重症度の減少に対する経口コレラワクチンの単回投与の有効性。横断研究 medRxiv",
@@ -2011,13 +2018,79 @@
       ]
     },
     {
-      "id": "f3f855d4138480e6",
-      "title": "北欧バイエルン州、Mpoxと天然痘ワクチンの承認を2～11歳の子供に拡大するためEMAにデータを提出 - マーケット.ft.com",
-      "summary": "北欧バイエルン州、2～11歳の子供へのMPOXと天然痘ワクチンの承認を延長するためEMAにデータを提出markets.ft.com",
-      "summary_ai": "北欧バイエルン州、2～11歳の子供へのMPOXと天然痘ワクチンの承認を延長するためEMAにデータを提出markets.ft.com",
-      "title_original": "Bavarian Nordic Submits Data to EMA to Extend Mpox and Smallpox Vaccine Approval to Children Aged 2-11 Years - markets.ft.com",
-      "summary_original": "Bavarian Nordic Submits Data to EMA to Extend Mpox and Smallpox Vaccine Approval to Children Aged 2-11 Years markets.ft.com",
-      "summary_ai_original": "Bavarian Nordic Submits Data to EMA to Extend Mpox and Smallpox Vaccine Approval to Children Aged 2-11 Years markets.ft.com",
+      "id": "eece3785784e3e6c",
+      "title": "「私ならこのワクチンを手に入れるために火の中を歩くだろう」：英国の性的医療サービス利用者の淋病ワクチンプログラムに対する態度と認識を調査する混合法研究 - BMJ Public Health",
+      "summary": "「私ならこのワクチンを手に入れるために火の中を歩くだろう」：英国の性的医療サービス利用者の淋病ワクチンプログラムに対する態度と認識を調査する混合法研究 BMJ Public Health",
+      "summary_ai": "「私ならこのワクチンを手に入れるために火の中を歩くだろう」：英国の性的医療サービス利用者の淋病ワクチンプログラムに対する態度と認識を調査する混合法研究 BMJ Public Health",
+      "title_original": "“I would walk through fire to get this vaccine”: a mixed-methods study examining attitudes and perceptions of a gonorrhoea vaccine programme among UK sexual health service users - BMJ Public Health",
+      "summary_original": "“I would walk through fire to get this vaccine”: a mixed-methods study examining attitudes and perceptions of a gonorrhoea vaccine programme among UK sexual health service users BMJ Public Health",
+      "summary_ai_original": "“I would walk through fire to get this vaccine”: a mixed-methods study examining attitudes and perceptions of a gonorrhoea vaccine programme among UK sexual health service users BMJ Public Health",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52al9MSTZtV2Q3RFZtUmxhbThNeWtRMzBodktFUjkyODJGeVlXLWdTenBoRS1mZzRkSUl6aFpTNlN1WjJFV3RFV0Z5dm9ManhjRkNKcVhYSlNEZHhfcjYweQ?oc=5",
+      "source": "BMJ",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-03-27T07:00:00+00:00",
+      "topics": [
+        "policy",
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "英国",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BMJ / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BMJ / London"
+        },
+        "target": {
+          "key": "uk",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "英国"
+        }
+      },
+      "location": {
+        "key": "uk",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "英国"
+      },
+      "region": "Europe",
+      "country": "英国",
+      "lat": 51.5074,
+      "lng": -0.1278,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "BMJ"
+      ]
+    },
+    {
+      "id": "88c49484f0b68eb3",
+      "title": "北欧バイエルン州、2歳から11歳までの小児へのMPXと天然痘ワクチンの承認を延長するためEMAにデータを提出 - Financial Times",
+      "summary": "北欧バイエルン州、2歳から11歳の子供へのMPOXと天然痘ワクチンの承認を延長するためEMAにデータを提出 Financial Times",
+      "summary_ai": "北欧バイエルン州、2歳から11歳の子供へのMPOXと天然痘ワクチンの承認を延長するためEMAにデータを提出 Financial Times",
+      "title_original": "Bavarian Nordic Submits Data to EMA to Extend Mpox and Smallpox Vaccine Approval to Children Aged 2-11 Years - Financial Times",
+      "summary_original": "Bavarian Nordic Submits Data to EMA to Extend Mpox and Smallpox Vaccine Approval to Children Aged 2-11 Years Financial Times",
+      "summary_ai_original": "Bavarian Nordic Submits Data to EMA to Extend Mpox and Smallpox Vaccine Approval to Children Aged 2-11 Years Financial Times",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZEhvYk5mR3dUV1V1ZkN1NWVaNm9RNWxEWTBqd2dZLVprdjZ4alJRc3Y4YlZaZUx2S3hXV01xWm9sWExSYmZtckNsX1J1MmZfTjc5M25MZ1EydlJraTEyeTZHSEJZS3BBZ011TlRGNThkVWk0dzRtR1NLZUVsZ0pEbU9HMW5sSU5DZGJZOTM4MURQVDl1YjdrVA?oc=5",
       "source": "Financial Times Vaccines / Immunization",
@@ -2076,73 +2149,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "Financial Times Vaccines / Immunization"
-      ]
-    },
-    {
-      "id": "8ac78da3afba15ca",
-      "title": "GnRH mRNA 免疫去勢ワクチンの構築とマウスおよび猫におけるその免疫原性と安全性の評価 - bioRxiv",
-      "summary": "GnRH mRNA 免疫去勢ワクチンの構築とマウスおよび猫におけるその免疫原性と安全性の評価 bioRxiv",
-      "summary_ai": "GnRH mRNA 免疫去勢ワクチンの構築とマウスおよび猫におけるその免疫原性と安全性の評価 bioRxiv",
-      "title_original": "Construction of a GnRH mRNA Immunocastration Vaccine and Evaluation of Its Immunogenicity and Safety in Mice and Cats - bioRxiv",
-      "summary_original": "Construction of a GnRH mRNA Immunocastration Vaccine and Evaluation of Its Immunogenicity and Safety in Mice and Cats bioRxiv",
-      "summary_ai_original": "Construction of a GnRH mRNA Immunocastration Vaccine and Evaluation of Its Immunogenicity and Safety in Mice and Cats bioRxiv",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oeUpMa0RaaHNfSGZrazFSOEtVVE9laUFmemNXVWplQWFyZUUyRi1rWkJNT3haY2J2aEQtNW9TS3dDQlpjSElvOU85bEhOTU5mM1p6VndlVjlWQV9mVkRfYVpFZEpvbVRlMHJJNQ?oc=5",
-      "source": "bioRxiv vaccines",
-      "source_type": "preprint",
-      "source_tier": "Tier 3",
-      "source_priority": 7,
-      "published_at": "2026-03-27T04:52:03+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [
-        "safety"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "bioRxiv"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "bioRxiv"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "bioRxiv vaccines"
       ]
     },
     {
@@ -2210,6 +2216,73 @@
       "duplicate_count": 2,
       "duplicate_sources": [
         "medRxiv vaccines"
+      ]
+    },
+    {
+      "id": "8ac78da3afba15ca",
+      "title": "GnRH mRNA 免疫去勢ワクチンの構築とマウスおよび猫におけるその免疫原性と安全性の評価 - bioRxiv",
+      "summary": "GnRH mRNA 免疫去勢ワクチンの構築とマウスおよび猫におけるその免疫原性と安全性の評価 bioRxiv",
+      "summary_ai": "GnRH mRNA 免疫去勢ワクチンの構築とマウスおよび猫におけるその免疫原性と安全性の評価 bioRxiv",
+      "title_original": "Construction of a GnRH mRNA Immunocastration Vaccine and Evaluation of Its Immunogenicity and Safety in Mice and Cats - bioRxiv",
+      "summary_original": "Construction of a GnRH mRNA Immunocastration Vaccine and Evaluation of Its Immunogenicity and Safety in Mice and Cats bioRxiv",
+      "summary_ai_original": "Construction of a GnRH mRNA Immunocastration Vaccine and Evaluation of Its Immunogenicity and Safety in Mice and Cats bioRxiv",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oeUpMa0RaaHNfSGZrazFSOEtVVE9laUFmemNXVWplQWFyZUUyRi1rWkJNT3haY2J2aEQtNW9TS3dDQlpjSElvOU85bEhOTU5mM1p6VndlVjlWQV9mVkRfYVpFZEpvbVRlMHJJNQ?oc=5",
+      "source": "bioRxiv vaccines",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-03-26T07:00:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [
+        "safety"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "bioRxiv"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "bioRxiv"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "bioRxiv vaccines"
       ]
     },
     {
@@ -2480,203 +2553,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "BMJ"
-      ]
-    },
-    {
-      "id": "14f1566d19187dec",
-      "title": "ワクチン政策と国民の信頼に関する物語を再考する - BMJ",
-      "summary": "ワクチン政策と国民の信頼に関する物語を再考する The BMJ",
-      "summary_ai": "ワクチン政策と国民の信頼に関する物語を再考する The BMJ",
-      "title_original": "Rethinking the narrative on vaccine policy and public trust - The BMJ",
-      "summary_original": "Rethinking the narrative on vaccine policy and public trust The BMJ",
-      "summary_ai_original": "Rethinking the narrative on vaccine policy and public trust The BMJ",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Wb1JLcW1YUlotNHB4ZzZGTDh6TFYzbGZvS0x4eHVScWpiaklUTmVaMUtqOGRrUGUtQ2VLSVl2M0JleUhKZHJmMEVaQXRnSllCaWgwREJMbm5mUkJWY0tn?oc=5",
-      "source": "BMJ",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-03-23T18:54:53+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BMJ / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BMJ / London"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "BMJ"
-      ]
-    },
-    {
-      "id": "749b91e9242d3a3d",
-      "title": "非ランダム化研究における新型コロナウイルス感染症ワクチンの推定有効性に影響を与える要因 - BMJ Evidence-Based Medicine",
-      "summary": "非ランダム化研究における新型コロナウイルス感染症ワクチンの推定有効性に影響を与える要因 BMJ Evidence-Based Medicine",
-      "summary_ai": "非ランダム化研究における新型コロナウイルス感染症ワクチンの推定有効性に影響を与える要因 BMJ Evidence-Based Medicine",
-      "title_original": "Factors influencing estimated effectiveness of COVID-19 vaccines in non-randomised studies - BMJ Evidence-Based Medicine",
-      "summary_original": "Factors influencing estimated effectiveness of COVID-19 vaccines in non-randomised studies BMJ Evidence-Based Medicine",
-      "summary_ai_original": "Factors influencing estimated effectiveness of COVID-19 vaccines in non-randomised studies BMJ Evidence-Based Medicine",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Jb3Vqalh5RlNDN1NPMXNwZ0VOMXJqQ1lkcWFnVmhvSmNneW5RTEVXczU5SDBoYjZtY0lEd3lMaVpZa1BTWnBHZVRFZExFVUpFUW0tZWVpelBrdDRMSDBtSQ?oc=5",
-      "source": "BMJ",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-03-23T14:01:38+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "covid"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BMJ / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BMJ / London"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "BMJ"
-      ]
-    },
-    {
-      "id": "6000b3b89835a574",
-      "title": "新しいライム病ワクチンは予防効果をもたらしますが、試験目標には達していません - Science | News AAAS",
-      "summary": "新しいライム病ワクチンは予防効果をもたらしますが、試験目標には達していません。 AAAS",
-      "summary_ai": "新しいライム病ワクチンは予防効果をもたらしますが、試験目標には達していません。 AAAS",
-      "title_original": "New Lyme disease vaccine offers protection—but falls short of trial goals - Science | AAAS",
-      "summary_original": "New Lyme disease vaccine offers protection—but falls short of trial goals Science | AAAS",
-      "summary_ai_original": "New Lyme disease vaccine offers protection—but falls short of trial goals Science | AAAS",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTEhrNUdxVDdPS1pmdjFSMWYtVmtTNzdZTmREQ01ZdWFhU2xVdk5xTF81V0h5TWJ6cHZPeUx5R1o1RG5jb1ZkWW9XNkpwb2YxTFJzZmI2S0xQMlVuQ2FTS3dBbFNMaDc2eTZxZmpCa1lPek5TUHJlTTE2UFlZM0hEb3ZXZkRRU2xMNm5iVldNcWFXYlM0MFVqSE9sUWoxT0hXWXd6RzhlaHlnQQ?oc=5",
-      "source": "Science Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-03-23T07:00:00+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "Science"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "Science"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Science Vaccines / Immunization"
       ]
     }
   ]
