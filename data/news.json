@@ -1,9 +1,9 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-04-08T21:56:33.793552+00:00",
-  "item_count": 33,
-  "archive_count": 112,
+  "generated_at": "2026-04-09T21:55:13.969817+00:00",
+  "item_count": 30,
+  "archive_count": 114,
   "days_back": 14,
   "plot_mode_default": "source",
   "feed_status": [
@@ -23,7 +23,7 @@
       "name": "CDC Newsroom",
       "url": "https://tools.cdc.gov/api/v2/resources/media/316422.rss",
       "status": "ok",
-      "seen": 7,
+      "seen": 8,
       "kept": 0
     },
     {
@@ -89,29 +89,29 @@
       "name": "The Lancet series",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Athelancet.com%20(trial%20OR%20policy%20OR%20effectiveness%20OR%20safety)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 2,
       "kept": 2
     },
     {
       "name": "Lancet Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Athelancet.com%2Fjournals%2Flaninf&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 4,
+      "seen": 1,
       "kept": 1
     },
     {
       "name": "NEJM",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Anejm.org%20(trial%20OR%20effectiveness%20OR%20policy%20OR%20safety)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
-      "kept": 0
+      "seen": 4,
+      "kept": 2
     },
     {
       "name": "BMJ",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abmj.com%20(policy%20OR%20trial%20OR%20effectiveness%20OR%20communication)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 8,
-      "kept": 7
+      "seen": 7,
+      "kept": 6
     },
     {
       "name": "Vaccine journal",
@@ -145,91 +145,91 @@
       "name": "medRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Amedrxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 13,
-      "kept": 11
+      "seen": 12,
+      "kept": 10
     },
     {
       "name": "bioRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abiorxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 9,
-      "kept": 1
+      "seen": 7,
+      "kept": 0
     },
     {
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 18,
+      "seen": 21,
       "kept": 3
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 51,
+      "seen": 32,
       "kept": 2
     },
     {
       "name": "AP Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 4,
       "kept": 0
     },
     {
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 19,
+      "seen": 13,
       "kept": 0
     },
     {
       "name": "Financial Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aft.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 7,
+      "seen": 4,
       "kept": 1
     },
     {
       "name": "STAT Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 8,
+      "seen": 9,
       "kept": 0
     },
     {
       "name": "Nature News Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 8,
+      "seen": 6,
       "kept": 0
     },
     {
       "name": "Science Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Ascience.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 25,
+      "seen": 19,
       "kept": 0
     },
     {
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 10,
-      "kept": 1
+      "seen": 11,
+      "kept": 2
     },
     {
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 25,
+      "seen": 30,
       "kept": 0
     },
     {
       "name": "Washington Post Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 5,
+      "seen": 13,
       "kept": 0
     },
     {
@@ -243,32 +243,237 @@
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 14,
+      "seen": 16,
       "kept": 0
     },
     {
       "name": "朝日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Aasahi.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 14,
+      "seen": 13,
       "kept": 0
     },
     {
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 30,
-      "kept": 3
+      "seen": 23,
+      "kept": 1
     },
     {
       "name": "毎日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 22,
+      "seen": 21,
       "kept": 0
     }
   ],
   "items": [
+    {
+      "id": "8e0b751249dc4247",
+      "title": "新憲章でケネディ大統領、ワクチン委員会を再設計、裁判所の判決を回避する可能性も - ニューヨーク・タイムズ",
+      "summary": "新憲章でケネディ大統領、ワクチン委員会を再設計、ニューヨーク・タイムズの判決を回避する可能性も",
+      "summary_ai": "新憲章でケネディ大統領、ワクチン委員会を再設計、ニューヨーク・タイムズの判決を回避する可能性も",
+      "title_original": "With New Charter, Kennedy Redesigns Vaccine Committee and May Sidestep Court Ruling - The New York Times",
+      "summary_original": "With New Charter, Kennedy Redesigns Vaccine Committee and May Sidestep Court Ruling The New York Times",
+      "summary_ai_original": "With New Charter, Kennedy Redesigns Vaccine Committee and May Sidestep Court Ruling The New York Times",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcDUxWVNkMFg3NXNHRF82cnB0MUw3NVVjR3VWNFQ3cEdGWFVfYmpCd084QkN6cDJ5Vm1CSjVpWkhKejZoSDRlM1E3LUt4bEp1Q3BobjNYWEx0U29ieXFJdjJ5T3dFaWlvNjdPc2hob3V0eTM5ZHEzcHhEd3c1TEpCQkxRc3BxcnJYNmc?oc=5",
+      "source": "New York Times Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-04-09T21:29:34+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [
+        "recommendation"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "New York Times"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "New York Times"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "New York Times Vaccines / Immunization"
+      ]
+    },
+    {
+      "id": "3c3049acea464b9d",
+      "title": "生物製剤手順 (SOPP)",
+      "summary": "これらの標準運用手順および方針 (SOPP) は、FDA 生物製剤研究審査センター (CBER) のスタッフが職務を遂行する際に使用します。 CBER はその運用方法について可能な限り透明性を保つよう努めているため、ここで一般に公開されています。",
+      "summary_ai": "これらの標準運用手順および方針 (SOPP) は、FDA 生物製剤研究審査センター (CBER) のスタッフが職務を遂行する際に使用します。標準運用方針および手順 (SOPP) 8001: SOPP 8001.2 の確認: FDA の失格リストへのアクセス",
+      "title_original": "Biologics Procedures (SOPPs)",
+      "summary_original": "These Standard Operating Procedures and Policies (SOPPs) are used by staff in FDA's Center for Biologics Research and Review (CBER) in the performance of their duties. They are made available here to the public because CBER is committed to being as transparent as possible in how it operates.",
+      "summary_ai_original": "These Standard Operating Procedures and Policies (SOPPs) are used by staff in FDA's Center for Biologics Research and Review (CBER) in the performance of their duties. Standard Operating Policies & Procedures (SOPPs) 8001: Review SOPP 8001.2: Accessing the FDA Lists of Disqualifi",
+      "article_text_original": "These Standard Operating Procedures and Policies (SOPPs) are used by staff in FDA's Center for Biologics Research and Review (CBER) in the performance of their duties. They are made available here to the public because CBER is committed to being as transparent as possible in how it operates. These SOPPs are organized by area of activity. Standard Operating Policies & Procedures (SOPPs) 8001: Review SOPP 8001.2: Accessing the FDA Lists of Disqualified and Restricted Clinical Investigators, Debarred Individuals, and Firms Under the FDA Application Integrity Policy Effective Date: February 25, 2020 SOPP 8001.4: Review of Proprietary Names for CBER Regulated Products Effective Date: December 13, 2023 SOPP 8001.6: Procedures for Parallel Scientific Advice with European Medicines Agency (EMA) Effective Date: January 12, 2023 SOPP 8004: Tissue Reference Group Effective Date: February 27, 2023 SOPP 8005: Formal Dispute Resolution Process Effective Date: February 27, 2023 SOPP 8006: Resolution of Differences in Scientific Judgement in the Review Process Effective Date: January 15, 2009 8101: Meetings SOPP 8101.1: Regulatory Meetings with Sponsors and Applicants for Drugs and Biological Products Effective Date: December 11, 2025 SOPP 8101.2: Scheduling and Documentation of Liaison Meetings With Industry Trade Organizations Effective Date: April 15, 2024 SOPP 8101.3: Participation in or Planning of Outside Regulatory and Scientific Events Effective Date: November 27, 2019 SOPP 8103: Headquarters Contacts with Regulated Manufacturers during Agency Inspections Effective Date: July 31, 2022 SOPP 8104: Documentation of Telephone Contacts with Regulated Industry Effective Date: December 11, 2020 SOPP 8110: Submission of Regulatory Applications -- Exempt from eCTD Requirements Effective Date: March 9, 2026 SOPP 8113: Handling of Regulatory Faxes in CBER Effective Date: December 11, 2020 SOPP 8114: Administrative Processing of Documents Received Prior to Submitting Investigational or Marketing Applications (Pre-Application) Effective Date: December 11, 2020 SOPP 8116: Use of Electronic Signatures for Regulatory Documents Effective Date: December 11, 2020 SOPP 8117: Issuing Tracking Numbers in Advance of Electronic Submissions in eCTD Format Effective Date: October 30, 2025 SOPP 8119: Use of Email for Regulatory Communications Effective Date: April 9, 2024 SOPP 8201: Administrative Processing of Clinical Holds for Investigational New Drug Applications Effective Date: January 14, 2026 SOPP 8203: Evaluation of Cost Recovery Requests for Investigational New Drugs and Investigational Device Exemptions Effective Date: December 11, 2020 SOPP 8212: Breakthrough Therapy Products - Designation and Management Effective Date: August 1, 2023 SOPP 8215: Management of Regenerative Medicine Advanced Therapy Products: Request for Designation, Sponsor Interactions, and Status Assessment Effective Date: January 8, 2026 SOPP 8216: Fast Track Development Programs - Designation and Management Effective Date: February 27, 2023 SOPP 8217: Administrative Processing and Review Management Procedures for Investigational New Drug Applications Effective Date: January 14, 2026 SOPP 8401: Administrative Processing of Original Biologics License Applications (BLA) and New Drug Applications (NDA) Effective Date: January 15, 2025 SOPP 8401.1: Issuance of and Review of Responses to Information Request Communications to Pending Applications Effective Date: October 1, 2022 SOPP 8401.2: Administrative Processing of BLA and NDA Supplements Effective Date: March 10, 2026 SOPP 8401.4: Review Responsibilities for the CMC Section of Biologic License Applications, New Drug Applications and Supplements Effective Date: October 1, 2022 SOPP 8401.7 - Action Package for Posting Effective Date: February 27, 2022 SOPP 8402: Designation of Amendments as Major Effective Date: October 10, 2024 SOPP 8403: Issuance, Reissuance, and Voluntary Revocation of Biological Products Licenses Effective Date: February 27, 2023 SOPP 8404: Refusal to File Procedures Effective Date: December 15, 2025 SOPP 8404.1: Procedures for Filing an Application When the Applicant Protests a Refusal to File Action (File Over Protest) Effective Date: September 7, 2023 SOPP 8405.1: Procedures for Resubmissions to an Application or Supplement Effective Date: November 13, 2022 SOPP 8406: CBER Processing of PDUFA Application Payments Effective Date: October 1, 2022 SOPP 8407: Compliance Status Checks Effective Date: December 11, 2020 SOPP 8408.1: Development of Laboratory Quality Product Testing Plans and Release of Lots as Part of the BLA Approval Process Effective Date: August 24, 2022 SOPP 8408.3: Lot Release Activities for Licensed Biological Products Effective Date: September 25, 2019 SOPP 8410: Determining When Pre-License / Pre-Approval Inspections are Necessary Effective Date: January 6, 2020 SOPP 8411.1: Administrative Handling and Review of Annual Reports for Approved Biologics License Applications (BLAs) Effective Date: December 11, 2020 SOPP 8412: Review of Product Labeling Effective Date: January 31, 2025 SOPP 8413: Postmarketing Requirement/Commitment Related Submissions - Administrative Handling, Review, and CBER Reporting Effective Date: February 15, 2024 SOPP 8415: Procedures for Developing Postmarketing Requirements and Commitments Effective Date: February 15, 2024 SOPP 8417: Implementation and Management of Risk Evaluation and Mitigation Strategies (REMS) Effective Date: October 1, 2022 SOPP 8419: Section 505(o)(4) Required Safety Labeling Changes (SLCs) Effective Date: February 12, 2024 SOPP 8420: FDAAA Section 921 - Posting of Potential Signals of Serious Risk Effective Date: February 27, 2022 SOPP 8421: Complying with Requirements under the Pediatric Research Equity Act (PREA) Effective Date: February 27, 2023 SOPP 8422: Processing and Review of Trans-BLA Submissions Effective Date: January 2, 2025 SOPP 8426: Assignment of Biological and Drug Product Proper Names and Biological Suffixes Effective Date: July 31, 2024 SOPP 8503.2: Review of Import for Export Requests Under F D & C Act Section 801(d)(4) Removed for Revision: September 1, 2009 8503: Import and Export Requests SOPP 8504: Release of Establishment Inspection Reports to the Inspected Establishments Pursuant to Field Management Directive 145 Effective Date: December 11, 2020 SOPP 8506: Management of Shortages of CBER-Regulated Products Effective Date: October 7, 2025 SOPP 8507: Procedures for Responding to an Illegitimate Product Notification and Request for Termination of Notification Effective Date: February 27, 2022 SOPP 8508: Procedures for Handling Adverse Reaction Reports Related to \"361\" Human Cells, Tissues, and Cellular and Tissue-Based Products (HCT/Ps) Effective Date: March 26, 2008 SOPP 8508.2: Procedures for the Vaccine Safety Team Effective Date: May 9, 2008 SOPP 8704: Managing MDUFA User Fee Payments and Billing Activities Effective Date: March 21, 2024 SOPP 8795: Posting and Announcement of Premarket Approval Application and Humanitarian Device Exemption Approvals and Denials Effective Date: June 3, 2024 Follow CBER Division of Communication and Consumer Affairs Office of Communication, Outreach and Development Center for Biologics Evaluation and Research Food and Drug Administration 10903 New Hampshire Ave WO71-3103 Silver Spring, MD 20993-0002 (800) 835-4709 (240) 402-8010 For Updates on Twitter, follow @fdacber",
+      "link": "http://www.fda.gov/vaccines-blood-biologics/guidance-compliance-regulatory-information-biologics/biologics-procedures-sopps",
+      "source": "FDA Vaccines / Biologics",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 9,
+      "published_at": "2026-04-09T19:34:37+00:00",
+      "topics": [
+        "communication",
+        "policy",
+        "research"
+      ],
+      "policy_tags": [
+        "approval",
+        "communication",
+        "safety"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "FDA / Silver Spring"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "FDA / Silver Spring"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "FDA Vaccines / Biologics"
+      ]
+    },
+    {
+      "id": "61ee21f1c9f72d97",
+      "title": "黄熱病ワクチンである vYF の免疫原性と安全性 - 第 2 相試験 - NEJM",
+      "summary": "黄熱病ワクチンである vYF の免疫原性と安全性 - 第 2 相試験 NEJM",
+      "summary_ai": "黄熱病ワクチンである vYF の免疫原性と安全性 - 第 2 相試験 NEJM",
+      "title_original": "Immunogenicity and Safety of vYF, a Yellow Fever Vaccine — A Phase 2 Trial - NEJM",
+      "summary_original": "Immunogenicity and Safety of vYF, a Yellow Fever Vaccine — A Phase 2 Trial NEJM",
+      "summary_ai_original": "Immunogenicity and Safety of vYF, a Yellow Fever Vaccine — A Phase 2 Trial NEJM",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qU3dOX2NmVnhkSzlXNmxPdG96dFc0Tk9qa0VBR1BxOE11ZUQ4ZEhzVXhYT19ILXJxNnlIWE9YVXJZRGViUnd3cklZelNBREx0OXRyMlFUVGg0bExaNXNJ?oc=5",
+      "source": "NEJM",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-04-09T01:40:09+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [
+        "safety"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "NEJM / Boston"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "NEJM / Boston"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 2,
+      "duplicate_sources": [
+        "NEJM"
+      ]
+    },
     {
       "id": "8213a2bbe384d776",
       "title": "FDA主任研究員デニス・ヒントンによるプロフェッショナルサービス評議会FedHealthカンファレンスでの発言 - 2021年3月11日",
@@ -489,13 +694,13 @@
       ]
     },
     {
-      "id": "9efd83ff247d0a96",
-      "title": "ワクチン政策と国民の信頼に関する物語を再考する - bmj.com",
-      "summary": "ワクチン政策と国民の信頼に関する物語を再考する bmj.com",
-      "summary_ai": "ワクチン政策と国民の信頼に関する物語を再考する bmj.com",
-      "title_original": "Rethinking the narrative on vaccine policy and public trust - bmj.com",
-      "summary_original": "Rethinking the narrative on vaccine policy and public trust bmj.com",
-      "summary_ai_original": "Rethinking the narrative on vaccine policy and public trust bmj.com",
+      "id": "14f1566d19187dec",
+      "title": "ワクチン政策と国民の信頼に関する物語を再考する - BMJ",
+      "summary": "ワクチン政策と国民の信頼に関する物語を再考する The BMJ",
+      "summary_ai": "ワクチン政策と国民の信頼に関する物語を再考する The BMJ",
+      "title_original": "Rethinking the narrative on vaccine policy and public trust - The BMJ",
+      "summary_original": "Rethinking the narrative on vaccine policy and public trust The BMJ",
+      "summary_ai_original": "Rethinking the narrative on vaccine policy and public trust The BMJ",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Wb1JLcW1YUlotNHB4ZzZGTDh6TFYzbGZvS0x4eHVScWpiaklUTmVaMUtqOGRrUGUtQ2VLSVl2M0JleUhKZHJmMEVaQXRnSllCaWgwREJMbm5mUkJWY0tn?oc=5",
       "source": "BMJ",
@@ -621,13 +826,13 @@
       ]
     },
     {
-      "id": "5656583fb9c40e3b",
-      "title": "2024/25シーズン終了時の高齢者の新型コロナウイルス感染症入院に対するKP.2ワクチンの有効性 - medrxiv.org",
-      "summary": "2024/25シーズン終了時の高齢者の新型コロナウイルス感染症入院に対するKP.2ワクチンの有効性 medrxiv.org",
-      "summary_ai": "2024/25シーズン終了時の高齢者の新型コロナウイルス感染症入院に対するKP.2ワクチンの有効性 medrxiv.org",
-      "title_original": "2024/25 end-of-season KP.2 vaccine effectiveness against COVID-19 hospitalization in older adults - medrxiv.org",
-      "summary_original": "2024/25 end-of-season KP.2 vaccine effectiveness against COVID-19 hospitalization in older adults medrxiv.org",
-      "summary_ai_original": "2024/25 end-of-season KP.2 vaccine effectiveness against COVID-19 hospitalization in older adults medrxiv.org",
+      "id": "0259f8558be912d7",
+      "title": "高齢者の新型コロナウイルス感染症入院に対する2024/25シーズン終了時のKP.2ワクチンの有効性 - medRxiv",
+      "summary": "2024/25シーズン終了時の高齢者の新型コロナウイルス感染症入院に対するKP.2ワクチンの有効性 medRxiv",
+      "summary_ai": "2024/25シーズン終了時の高齢者の新型コロナウイルス感染症入院に対するKP.2ワクチンの有効性 medRxiv",
+      "title_original": "2024/25 end-of-season KP.2 vaccine effectiveness against COVID-19 hospitalization in older adults - medRxiv",
+      "summary_original": "2024/25 end-of-season KP.2 vaccine effectiveness against COVID-19 hospitalization in older adults medRxiv",
+      "summary_ai_original": "2024/25 end-of-season KP.2 vaccine effectiveness against COVID-19 hospitalization in older adults medRxiv",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ySnVYbmIya1Q1Vy1DZHcwSC1ONzJjVzBualQzRkJrV3JFTnZoemFxdVhGTHZkRWtjRm4xS1o2RXhOYVowX0JOeGo1TUtVQi16R0p1ZUNUMTduM1BDckdueXRDNjdxTXFKM1J3TzN2TzB6SjZkMl85Y3ctQQ?oc=5",
       "source": "medRxiv vaccines",
@@ -688,13 +893,13 @@
       ]
     },
     {
-      "id": "bdc07d9ef5be3d63",
-      "title": "ナイジェリア、バウチ州における小児予防接種に関する宗教指導者の見解: 定性的研究 - medrxiv.org",
-      "summary": "ナイジェリア、バウチ州における小児予防接種に関する宗教指導者の視点: 定性的研究 medrxiv.org",
-      "summary_ai": "ナイジェリア、バウチ州における小児予防接種に関する宗教指導者の視点: 定性的研究 medrxiv.org",
-      "title_original": "Religious leaders' perspectives on childhood immunization in Bauchi State, Nigeria: A Qualitative Study - medrxiv.org",
-      "summary_original": "Religious leaders' perspectives on childhood immunization in Bauchi State, Nigeria: A Qualitative Study medrxiv.org",
-      "summary_ai_original": "Religious leaders' perspectives on childhood immunization in Bauchi State, Nigeria: A Qualitative Study medrxiv.org",
+      "id": "e449f82ead4bad9b",
+      "title": "ナイジェリア、バウチ州における小児予防接種に関する宗教指導者の見解: 定性的研究 - medRxiv",
+      "summary": "ナイジェリア、バウチ州における小児予防接種に関する宗教指導者の視点: 定性的研究 medRxiv",
+      "summary_ai": "ナイジェリア、バウチ州における小児予防接種に関する宗教指導者の視点: 定性的研究 medRxiv",
+      "title_original": "Religious leaders' perspectives on childhood immunization in Bauchi State, Nigeria: A Qualitative Study - medRxiv",
+      "summary_original": "Religious leaders' perspectives on childhood immunization in Bauchi State, Nigeria: A Qualitative Study medRxiv",
+      "summary_ai_original": "Religious leaders' perspectives on childhood immunization in Bauchi State, Nigeria: A Qualitative Study medRxiv",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0yUXVSVmIyXzdibXJiVFlDdHY1cmQ5TzMyNVZ4RXNQNXowS0p1TEZ2REpOeEJJay0wcjJ5aDdBN3A3NnBzbFozZWZBdUY1NTgzdVpOY3JoUGdEM0xrcGwzWGZ0VThYNW52SmJJTG8yWTJnYklrcVZET2p3TQ?oc=5",
       "source": "medRxiv vaccines",
@@ -820,13 +1025,13 @@
       ]
     },
     {
-      "id": "e70510cefa06244a",
-      "title": "症候性 SARS-CoV-2 感染症に対する BNT162b2 および mRNA-1273 covid-19 ワクチンの有効性 - bmj.com",
-      "summary": "症候性 SARS-CoV-2 感染症に対する BNT162b2 および mRNA-1273 covid-19 ワクチンの有効性 bmj.com",
-      "summary_ai": "症候性 SARS-CoV-2 感染症に対する BNT162b2 および mRNA-1273 covid-19 ワクチンの有効性 bmj.com",
-      "title_original": "Effectiveness of BNT162b2 and mRNA-1273 covid-19 vaccines against symptomatic SARS-CoV-2 infection - bmj.com",
-      "summary_original": "Effectiveness of BNT162b2 and mRNA-1273 covid-19 vaccines against symptomatic SARS-CoV-2 infection bmj.com",
-      "summary_ai_original": "Effectiveness of BNT162b2 and mRNA-1273 covid-19 vaccines against symptomatic SARS-CoV-2 infection bmj.com",
+      "id": "e6a841a6e482c36e",
+      "title": "症候性 SARS-CoV-2 感染症に対する BNT162b2 および mRNA-1273 covid-19 ワクチンの有効性 - The BMJ",
+      "summary": "症候性 SARS-CoV-2 感染症に対する BNT162b2 および mRNA-1273 covid-19 ワクチンの有効性",
+      "summary_ai": "症候性 SARS-CoV-2 感染症に対する BNT162b2 および mRNA-1273 covid-19 ワクチンの有効性",
+      "title_original": "Effectiveness of BNT162b2 and mRNA-1273 covid-19 vaccines against symptomatic SARS-CoV-2 infection - The BMJ",
+      "summary_original": "Effectiveness of BNT162b2 and mRNA-1273 covid-19 vaccines against symptomatic SARS-CoV-2 infection The BMJ",
+      "summary_ai_original": "Effectiveness of BNT162b2 and mRNA-1273 covid-19 vaccines against symptomatic SARS-CoV-2 infection The BMJ",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE81WEpPLVFZeFo5V0lHcG5oOHk2eVVzcEZiaC1hVjlBZWRlYVNpT2NVSGxjZnZYRHJZc3BRVFZyNmx0Q21kWUJYMDdXbTJzUnVfbXRDZUI3Nld3Y2o1bkRKWlR5aTc?oc=5",
       "source": "BMJ",
@@ -887,80 +1092,13 @@
       ]
     },
     {
-      "id": "9eab26646bf97482",
-      "title": "６５歳定期接種の肺炎球菌ワクチンが新タイプに切り替え 柳沢慎吾さんが啓発アンバサダー - 読売新聞オンライン",
-      "summary": "６５歳定期接種の肺炎球菌ワクチンが新タイプに切り替え 柳沢慎吾さんが啓発アンバサダー 読売新聞オンライン",
-      "summary_ai": "６５歳定期接種の肺炎球菌ワクチンが新タイプに切り替え 柳沢慎吾さんが啓発アンバサダー 読売新聞オンライン",
-      "title_original": "６５歳定期接種の肺炎球菌ワクチンが新タイプに切り替え 柳沢慎吾さんが啓発アンバサダー - 読売新聞オンライン",
-      "summary_original": "６５歳定期接種の肺炎球菌ワクチンが新タイプに切り替え 柳沢慎吾さんが啓発アンバサダー 読売新聞オンライン",
-      "summary_ai_original": "６５歳定期接種の肺炎球菌ワクチンが新タイプに切り替え 柳沢慎吾さんが啓発アンバサダー 読売新聞オンライン",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNEp2LWlvUVloUnVQVElzdWFJMUZJWG0yTEFOV1ZTYW5USHYtTW1PaVhvdDZlMnkzRWp0VlhWSmlPTGhZQkg1V2U2S0VRQ2x0b0c5SHFVcFdKX2l6MENKNUNXZldhWXdPZlRJTFE3emhmd1dENklkSGZfcEZaWlRibkNVZVdnSFU3ZzQ1MVVuUQ?oc=5",
-      "source": "読売新聞 ワクチン / 予防接種",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-04-03T04:52:11+00:00",
-      "topics": [
-        "communication"
-      ],
-      "policy_tags": [
-        "communication"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "japan",
-        "name_ja": "日本",
-        "lat": 35.6762,
-        "lng": 139.6503,
-        "region": "Asia",
-        "label": "読売新聞"
-      },
-      "plot": {
-        "source": {
-          "key": "japan",
-          "name_ja": "日本",
-          "lat": 35.6762,
-          "lng": 139.6503,
-          "region": "Asia",
-          "label": "読売新聞"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 2,
-      "duplicate_sources": [
-        "読売新聞 ワクチン / 予防接種"
-      ]
-    },
-    {
-      "id": "53d952e517cb8a91",
-      "title": "紛争の影響を受けたダルフールへの国境を越えたワクチン供給: チャドを通じた人道的ライフライン - 導入事例 - medrxiv.org",
-      "summary": "紛争の影響を受けたダルフールへの国境を越えたワクチン供給: チャドを通じた人道的ライフライン - 導入事例 medrxiv.org",
-      "summary_ai": "紛争の影響を受けたダルフールへの国境を越えたワクチン供給: チャドを通じた人道的ライフライン - 導入事例 medrxiv.org",
-      "title_original": "Cross-Border Vaccine Supply to Conflict-Affected Darfur: A Humanitarian Lifeline through Chad - An Implementation Case Study - medrxiv.org",
-      "summary_original": "Cross-Border Vaccine Supply to Conflict-Affected Darfur: A Humanitarian Lifeline through Chad - An Implementation Case Study medrxiv.org",
-      "summary_ai_original": "Cross-Border Vaccine Supply to Conflict-Affected Darfur: A Humanitarian Lifeline through Chad - An Implementation Case Study medrxiv.org",
+      "id": "ecda92e577088541",
+      "title": "紛争の影響を受けたダルフールへの国境を越えたワクチン供給: チャドを通じた人道的ライフライン - 導入事例 - medRxiv",
+      "summary": "紛争の影響を受けたダルフールへの国境を越えたワクチン供給: チャドを通じた人道的ライフライン - 導入事例 medRxiv",
+      "summary_ai": "紛争の影響を受けたダルフールへの国境を越えたワクチン供給: チャドを通じた人道的ライフライン - 導入事例 medRxiv",
+      "title_original": "Cross-Border Vaccine Supply to Conflict-Affected Darfur: A Humanitarian Lifeline through Chad - An Implementation Case Study - medRxiv",
+      "summary_original": "Cross-Border Vaccine Supply to Conflict-Affected Darfur: A Humanitarian Lifeline through Chad - An Implementation Case Study medRxiv",
+      "summary_ai_original": "Cross-Border Vaccine Supply to Conflict-Affected Darfur: A Humanitarian Lifeline through Chad - An Implementation Case Study medRxiv",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96cjg2OXByT09wU01CdVZORXVSQlNCMWFRdnVPMHlicnpFeFNmb1V6TVlOckpoYi1fYW1WS0Qta00tV05RMlRmNDFPU0xKNEI0dEYweTdWaW5LMHFISWpXRDZJMWNscVBJbW5admd5RQ?oc=5",
       "source": "medRxiv vaccines",
@@ -1016,6 +1154,73 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "medRxiv vaccines"
+      ]
+    },
+    {
+      "id": "981da869c0655230",
+      "title": "６５歳定期接種の肺炎球菌ワクチンが新タイプに切り替え 柳沢慎吾さんが啓発アンバサダー - 読売新聞オンライン",
+      "summary": "６５歳定期接種の肺炎球菌ワクチンが新タイプに切り替え 柳沢慎吾さんが啓発アンバサダー 読売新聞オンライン",
+      "summary_ai": "６５歳定期接種の肺炎球菌ワクチンが新タイプに切り替え 柳沢慎吾さんが啓発アンバサダー 読売新聞オンライン",
+      "title_original": "６５歳定期接種の肺炎球菌ワクチンが新タイプに切り替え 柳沢慎吾さんが啓発アンバサダー - 読売新聞オンライン",
+      "summary_original": "６５歳定期接種の肺炎球菌ワクチンが新タイプに切り替え 柳沢慎吾さんが啓発アンバサダー 読売新聞オンライン",
+      "summary_ai_original": "６５歳定期接種の肺炎球菌ワクチンが新タイプに切り替え 柳沢慎吾さんが啓発アンバサダー 読売新聞オンライン",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBzeG90NGt6bmhETnFIOXNEcmpsRHhqeFlGSE4tcG9rQkNoU1ptOFU4a1NNcVk4Z05iaG9xSTg1akhuaTY5RFBIZlJ1UXlSczhoc0s1ZXlUWDhjQUo1aVh3SnVXNy1RdDhQbHZYempB?oc=5",
+      "source": "読売新聞 ワクチン / 予防接種",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-04-02T20:00:30+00:00",
+      "topics": [
+        "communication"
+      ],
+      "policy_tags": [
+        "communication"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "japan",
+        "name_ja": "日本",
+        "lat": 35.6762,
+        "lng": 139.6503,
+        "region": "Asia",
+        "label": "読売新聞"
+      },
+      "plot": {
+        "source": {
+          "key": "japan",
+          "name_ja": "日本",
+          "lat": 35.6762,
+          "lng": 139.6503,
+          "region": "Asia",
+          "label": "読売新聞"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "読売新聞 ワクチン / 予防接種"
       ]
     },
     {
@@ -1149,77 +1354,6 @@
       ]
     },
     {
-      "id": "3c3049acea464b9d",
-      "title": "生物製剤手順 (SOPP)",
-      "summary": "これらの標準運用手順および方針 (SOPP) は、FDA 生物製剤研究審査センター (CBER) のスタッフが職務を遂行する際に使用します。 CBER はその運用方法について可能な限り透明性を保つよう努めているため、ここで一般に公開されています。",
-      "summary_ai": "これらの標準運用手順および方針 (SOPP) は、FDA 生物製剤研究審査センター (CBER) のスタッフが職務を遂行する際に使用します。標準運用方針および手順 (SOPP) 8001: SOPP 8001.2 の確認: FDA の失格リストへのアクセス",
-      "title_original": "Biologics Procedures (SOPPs)",
-      "summary_original": "These Standard Operating Procedures and Policies (SOPPs) are used by staff in FDA's Center for Biologics Research and Review (CBER) in the performance of their duties. They are made available here to the public because CBER is committed to being as transparent as possible in how it operates.",
-      "summary_ai_original": "These Standard Operating Procedures and Policies (SOPPs) are used by staff in FDA's Center for Biologics Research and Review (CBER) in the performance of their duties. Standard Operating Policies & Procedures (SOPPs) 8001: Review SOPP 8001.2: Accessing the FDA Lists of Disqualifi",
-      "article_text_original": "These Standard Operating Procedures and Policies (SOPPs) are used by staff in FDA's Center for Biologics Research and Review (CBER) in the performance of their duties. They are made available here to the public because CBER is committed to being as transparent as possible in how it operates. These SOPPs are organized by area of activity. Standard Operating Policies & Procedures (SOPPs) 8001: Review SOPP 8001.2: Accessing the FDA Lists of Disqualified and Restricted Clinical Investigators, Debarred Individuals, and Firms Under the FDA Application Integrity Policy Effective Date: February 25, 2020 SOPP 8001.4: Review of Proprietary Names for CBER Regulated Products Effective Date: December 13, 2023 SOPP 8001.6: Procedures for Parallel Scientific Advice with European Medicines Agency (EMA) Effective Date: January 12, 2023 SOPP 8004: Tissue Reference Group Effective Date: February 27, 2023 SOPP 8005: Formal Dispute Resolution Process Effective Date: February 27, 2023 SOPP 8006: Resolution of Differences in Scientific Judgement in the Review Process Effective Date: January 15, 2009 8101: Meetings SOPP 8101.1: Regulatory Meetings with Sponsors and Applicants for Drugs and Biological Products Effective Date: December 11, 2025 SOPP 8101.2: Scheduling and Documentation of Liaison Meetings With Industry Trade Organizations Effective Date: April 15, 2024 SOPP 8101.3: Participation in or Planning of Outside Regulatory and Scientific Events Effective Date: November 27, 2019 SOPP 8103: Headquarters Contacts with Regulated Manufacturers during Agency Inspections Effective Date: July 31, 2022 SOPP 8104: Documentation of Telephone Contacts with Regulated Industry Effective Date: December 11, 2020 SOPP 8110: Submission of Regulatory Applications -- Exempt from eCTD Requirements Effective Date: March 9, 2026 SOPP 8113: Handling of Regulatory Faxes in CBER Effective Date: December 11, 2020 SOPP 8114: Administrative Processing of Documents Received Prior to Submitting Investigational or Marketing Applications (Pre-Application) Effective Date: December 11, 2020 SOPP 8116: Use of Electronic Signatures for Regulatory Documents Effective Date: December 11, 2020 SOPP 8117: Issuing Tracking Numbers in Advance of Electronic Submissions in eCTD Format Effective Date: October 30, 2025 SOPP 8119: Use of Email for Regulatory Communications Effective Date: April 9, 2024 SOPP 8201: Administrative Processing of Clinical Holds for Investigational New Drug Applications Effective Date: January 14, 2026 SOPP 8203: Evaluation of Cost Recovery Requests for Investigational New Drugs and Investigational Device Exemptions Effective Date: December 11, 2020 SOPP 8212: Breakthrough Therapy Products - Designation and Management Effective Date: August 1, 2023 SOPP 8215: Management of Regenerative Medicine Advanced Therapy Products: Request for Designation, Sponsor Interactions, and Status Assessment Effective Date: January 8, 2026 SOPP 8216: Fast Track Development Programs - Designation and Management Effective Date: February 27, 2023 SOPP 8217: Administrative Processing and Review Management Procedures for Investigational New Drug Applications Effective Date: January 14, 2026 SOPP 8401: Administrative Processing of Original Biologics License Applications (BLA) and New Drug Applications (NDA) Effective Date: January 15, 2025 SOPP 8401.1: Issuance of and Review of Responses to Information Request Communications to Pending Applications Effective Date: October 1, 2022 SOPP 8401.2: Administrative Processing of BLA and NDA Supplements Effective Date: March 10, 2026 SOPP 8401.4: Review Responsibilities for the CMC Section of Biologic License Applications, New Drug Applications and Supplements Effective Date: October 1, 2022 SOPP 8401.7 - Action Package for Posting Effective Date: February 27, 2022 SOPP 8402: Designation of Amendments as Major Effective Date: October 10, 2024 SOPP 8403: Issuance, Reissuance, and Voluntary Revocation of Biological Products Licenses Effective Date: February 27, 2023 SOPP 8404: Refusal to File Procedures Effective Date: December 15, 2025 SOPP 8404.1: Procedures for Filing an Application When the Applicant Protests a Refusal to File Action (File Over Protest) Effective Date: September 7, 2023 SOPP 8405.1: Procedures for Resubmissions to an Application or Supplement Effective Date: November 13, 2022 SOPP 8406: CBER Processing of PDUFA Application Payments Effective Date: October 1, 2022 SOPP 8407: Compliance Status Checks Effective Date: December 11, 2020 SOPP 8408.1: Development of Laboratory Quality Product Testing Plans and Release of Lots as Part of the BLA Approval Process Effective Date: August 24, 2022 SOPP 8408.3: Lot Release Activities for Licensed Biological Products Effective Date: September 25, 2019 SOPP 8410: Determining When Pre-License / Pre-Approval Inspections are Necessary Effective Date: January 6, 2020 SOPP 8411.1: Administrative Handling and Review of Annual Reports for Approved Biologics License Applications (BLAs) Effective Date: December 11, 2020 SOPP 8412: Review of Product Labeling Effective Date: January 31, 2025 SOPP 8413: Postmarketing Requirement/Commitment Related Submissions - Administrative Handling, Review, and CBER Reporting Effective Date: February 15, 2024 SOPP 8415: Procedures for Developing Postmarketing Requirements and Commitments Effective Date: February 15, 2024 SOPP 8417: Implementation and Management of Risk Evaluation and Mitigation Strategies (REMS) Effective Date: October 1, 2022 SOPP 8419: Section 505(o)(4) Required Safety Labeling Changes (SLCs) Effective Date: February 12, 2024 SOPP 8420: FDAAA Section 921 - Posting of Potential Signals of Serious Risk Effective Date: February 27, 2022 SOPP 8421: Complying with Requirements under the Pediatric Research Equity Act (PREA) Effective Date: February 27, 2023 SOPP 8422: Processing and Review of Trans-BLA Submissions Effective Date: January 2, 2025 SOPP 8426: Assignment of Biological and Drug Product Proper Names and Biological Suffixes Effective Date: July 31, 2024 SOPP 8503.2: Review of Import for Export Requests Under F D & C Act Section 801(d)(4) Removed for Revision: September 1, 2009 8503: Import and Export Requests SOPP 8504: Release of Establishment Inspection Reports to the Inspected Establishments Pursuant to Field Management Directive 145 Effective Date: December 11, 2020 SOPP 8506: Management of Shortages of CBER-Regulated Products Effective Date: October 7, 2025 SOPP 8507: Procedures for Responding to an Illegitimate Product Notification and Request for Termination of Notification Effective Date: February 27, 2022 SOPP 8508: Procedures for Handling Adverse Reaction Reports Related to \"361\" Human Cells, Tissues, and Cellular and Tissue-Based Products (HCT/Ps) Effective Date: March 26, 2008 SOPP 8508.2: Procedures for the Vaccine Safety Team Effective Date: May 9, 2008 SOPP 8704: Managing MDUFA User Fee Payments and Billing Activities Effective Date: March 21, 2024 SOPP 8795: Posting and Announcement of Premarket Approval Application and Humanitarian Device Exemption Approvals and Denials Effective Date: June 3, 2024 Follow CBER Division of Communication and Consumer Affairs Office of Communication, Outreach and Development Center for Biologics Evaluation and Research Food and Drug Administration 10903 New Hampshire Ave WO71-3103 Silver Spring, MD 20993-0002 (800) 835-4709 (240) 402-8010 For Updates on Twitter, follow @fdacber",
-      "link": "http://www.fda.gov/vaccines-blood-biologics/guidance-compliance-regulatory-information-biologics/biologics-procedures-sopps",
-      "source": "FDA Vaccines / Biologics",
-      "source_type": "official",
-      "source_tier": "Tier 1",
-      "source_priority": 9,
-      "published_at": "2026-04-02T15:24:01+00:00",
-      "topics": [
-        "communication",
-        "policy",
-        "research"
-      ],
-      "policy_tags": [
-        "approval",
-        "communication",
-        "safety"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "FDA / Silver Spring"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "FDA / Silver Spring"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "FDA Vaccines / Biologics"
-      ]
-    },
-    {
       "id": "3bee37488b7709ba",
       "title": "シンガポールのワクチン接種頻度の高いおよびまれな若年成人における高用量の組換えインフルエンザワクチンと標準用量の卵培養および細胞培養ワクチンの免疫原性：無作為化、対照、二重盲検、単施設、第4相臨床試験 - ランセット",
       "summary": "シンガポールのワクチン接種頻度の高いおよびまれな若年成人における高用量の組換えインフルエンザワクチンと標準用量の卵培養および細胞培養ワクチンの免疫原性：無作為化、対照、二重盲検、単施設、第4相臨床試験 The Lancet",
@@ -1287,13 +1421,13 @@
       ]
     },
     {
-      "id": "3443c12791d3480f",
-      "title": "成人におけるインフルエンザ A に関連した入院と重篤な入院転帰に対するインフルエンザワクチンの有効性 - medrxiv.org",
-      "summary": "medrxiv.org における成人におけるインフルエンザ A に関連した入院と重度の入院転帰に対するインフルエンザ ワクチンの有効性",
-      "summary_ai": "medrxiv.org における成人におけるインフルエンザ A に関連した入院と重度の入院転帰に対するインフルエンザ ワクチンの有効性",
-      "title_original": "Influenza vaccine effectiveness against influenza A-associated hospitalization and severe in-hospital outcomes among adults in t - medrxiv.org",
-      "summary_original": "Influenza vaccine effectiveness against influenza A-associated hospitalization and severe in-hospital outcomes among adults in t medrxiv.org",
-      "summary_ai_original": "Influenza vaccine effectiveness against influenza A-associated hospitalization and severe in-hospital outcomes among adults in t medrxiv.org",
+      "id": "fdd247c3ff819ae9",
+      "title": "インフルエンザA型関連入院および成人における重篤な入院転帰に対するインフルエンザワクチンの有効性 - medRxiv",
+      "summary": "t medRxiv における成人におけるインフルエンザ A に関連した入院と重篤な院内転帰に対するインフルエンザワクチンの有効性",
+      "summary_ai": "t medRxiv における成人におけるインフルエンザ A に関連した入院と重篤な院内転帰に対するインフルエンザワクチンの有効性",
+      "title_original": "Influenza vaccine effectiveness against influenza A-associated hospitalization and severe in-hospital outcomes among adults in t - medRxiv",
+      "summary_original": "Influenza vaccine effectiveness against influenza A-associated hospitalization and severe in-hospital outcomes among adults in t medRxiv",
+      "summary_ai_original": "Influenza vaccine effectiveness against influenza A-associated hospitalization and severe in-hospital outcomes among adults in t medRxiv",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBwcDQ1QjhlXzRnMXdyMUhadE1jNlB4VS1qcXg5aHhTSUlWLXBwRTJ2UWxjTHBxY2FmdUlmY2Z2UFludk85T012TzdPLXlkdjlDNWRyYklPNUdOVVNLZEJuZ09fYXlJSGh1aV9FWHoybWhyYVF4Z1FjektOQQ?oc=5",
       "source": "medRxiv vaccines",
@@ -1351,138 +1485,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "medRxiv vaccines"
-      ]
-    },
-    {
-      "id": "a69536e6d07d00a9",
-      "title": "肺炎による死亡者の９７．８％が高齢者 ＲＳウイルス、肺炎球菌…４月以降のワクチン接種スケジュールは？ - 読売新聞オンライン",
-      "summary": "肺炎による死亡者の９７．８％が高齢者 ＲＳウイルス、肺炎球菌…４月以降のワクチン接種スケジュールは？ 読売新聞オンライン",
-      "summary_ai": "肺炎による死亡者の９７．８％が高齢者 ＲＳウイルス、肺炎球菌…４月以降のワクチン接種スケジュールは？",
-      "title_original": "肺炎による死亡者の９７．８％が高齢者 ＲＳウイルス、肺炎球菌…４月以降のワクチン接種スケジュールは？ - 読売新聞オンライン",
-      "summary_original": "肺炎による死亡者の９７．８％が高齢者 ＲＳウイルス、肺炎球菌…４月以降のワクチン接種スケジュールは？ 読売新聞オンライン",
-      "summary_ai_original": "肺炎による死亡者の９７．８％が高齢者 ＲＳウイルス、肺炎球菌…４月以降のワクチン接種スケジュールは？",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcnNDZUVxSWhBWXN2N3U5Q1dISVZKWVRmWFkzRnN0bXl5ZThEekV0b3ZfMXgxeWpGaE9lTmNmcXFab2tuT2pSaXNsdy1BZjc5dEFGTVBSMEI5UjhGWkNlaDZvbldnR2tnMi1lM2UzX3NLTlBCaHlPY3h0czduOVVobk5ZNnpCdjlHbDZFbC02MA?oc=5",
-      "source": "読売新聞 ワクチン / 予防接種",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-04-02T07:00:00+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [
-        "schedule"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "japan",
-        "name_ja": "日本",
-        "lat": 35.6762,
-        "lng": 139.6503,
-        "region": "Asia",
-        "label": "読売新聞"
-      },
-      "plot": {
-        "source": {
-          "key": "japan",
-          "name_ja": "日本",
-          "lat": 35.6762,
-          "lng": 139.6503,
-          "region": "Asia",
-          "label": "読売新聞"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "読売新聞 ワクチン / 予防接種"
-      ]
-    },
-    {
-      "id": "c3e52e0d05a6d3b9",
-      "title": "CDC長官がワクチン政策をめぐって解任され、上級科学者4人が辞任 - bmj.com",
-      "summary": "CDC長官がワクチン政策をめぐって解任され、上級科学者4人が辞任 bmj.com",
-      "summary_ai": "CDC長官がワクチン政策をめぐって解任され、上級科学者4人が辞任 bmj.com",
-      "title_original": "CDC director is forced out over vaccine policy, and four senior scientists resign - bmj.com",
-      "summary_original": "CDC director is forced out over vaccine policy, and four senior scientists resign bmj.com",
-      "summary_ai_original": "CDC director is forced out over vaccine policy, and four senior scientists resign bmj.com",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zcEdRNnZFUXQwQmdXUm9nUFJiak1BbHlWQlZvV2ZqczZSY0dlc1VORlFYdHBnQ1hFaEp6R0VON2RaYUFKQ0tYVWoxUGZEQVg0YVFva3YzNnBOT2hxdm13?oc=5",
-      "source": "BMJ",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-04-02T02:44:02+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BMJ / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BMJ / London"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "BMJ"
       ]
     },
     {
@@ -1689,6 +1691,73 @@
       ]
     },
     {
+      "id": "8b9af73591d72e4a",
+      "title": "資源が少ない状況での流行時のワクチン有効性推定の改善: 経口コレラワクチン接種のケーススタディ - medRxiv",
+      "summary": "資源が乏しい環境での流行時のワクチン有効性推定の改善: 経口コレラワクチン接種 medRxiv のケーススタディ",
+      "summary_ai": "資源が乏しい環境での流行時のワクチン有効性推定の改善: 経口コレラワクチン接種 medRxiv のケーススタディ",
+      "title_original": "Improving estimation of vaccine effectiveness during outbreaks in low-resource settings: A case study of oral cholera vaccinatio - medRxiv",
+      "summary_original": "Improving estimation of vaccine effectiveness during outbreaks in low-resource settings: A case study of oral cholera vaccinatio medRxiv",
+      "summary_ai_original": "Improving estimation of vaccine effectiveness during outbreaks in low-resource settings: A case study of oral cholera vaccinatio medRxiv",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBONnMybGFTLW9XbXVzdjBaR0k2bFdnbEZLY1M4T2NDek1OOWdzYnQxSDM5b1cwLWp3clQwdTBVYWRNQl9CS2dWYkZuR1FweXJhUWdGemxvRTNlY2Y3OG5KQUpqNTlWOEZMcVFRZnVmZF9CNVpjOGczVWYwcw?oc=5",
+      "source": "medRxiv vaccines",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-04-01T04:53:46+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [
+        "outbreak_response"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "medRxiv"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "medRxiv"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 2,
+      "duplicate_sources": [
+        "medRxiv vaccines"
+      ]
+    },
+    {
       "id": "c0c8a93482a2a1a0",
       "title": "高齢者の入院に対する二価RSウイルス融合前ワクチンの有効性：イングランド、ウェールズ、スコットランド、北アイルランドにおける症例対照研究のメタ分析 - ランセット",
       "summary": "高齢者の入院に対する二価RSウイルス融合前ワクチンの有効性：イングランド、ウェールズ、スコットランド、北アイルランドにおける症例対照研究のメタアナリシス The Lancet",
@@ -1754,80 +1823,13 @@
       ]
     },
     {
-      "id": "e32b17ad00d5d7a9",
-      "title": "資源が乏しい状況での流行時のワクチン有効性推定の改善: 2022～2023年のマラウイでのコレラ流行時の経口コレラワクチン接種のケーススタディ - medrxiv.org",
-      "summary": "資源が乏しい状況での流行時のワクチン有効性推定の改善: 2022～2023年のマラウイにおけるコレラ流行時の経口コレラワクチン接種のケーススタディ medrxiv.org",
-      "summary_ai": "資源が乏しい状況での流行時のワクチン有効性推定の改善: 2022～2023年のマラウイにおけるコレラ流行時の経口コレラワクチン接種のケーススタディ medrxiv.org",
-      "title_original": "Improving estimation of vaccine effectiveness during outbreaks in low-resource settings: A case study of oral cholera vaccination during the 2022-2023 cholera outbreak in Malawi - medrxiv.org",
-      "summary_original": "Improving estimation of vaccine effectiveness during outbreaks in low-resource settings: A case study of oral cholera vaccination during the 2022-2023 cholera outbreak in Malawi medrxiv.org",
-      "summary_ai_original": "Improving estimation of vaccine effectiveness during outbreaks in low-resource settings: A case study of oral cholera vaccination during the 2022-2023 cholera outbreak in Malawi medrxiv.org",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9tR3p0VG9sWXRnLURTQ25qVllOYzRQVUViSDZFSkhHR3JVY29xci0tMkF0OUhnTzJPVnd0YXkxRXVna201cU9IZ1R5Y1BpcWlsTTREZF9iN3NfZE5xVC1WcGp4X0QzLUt2Wm1Gb3VaMGV4WDNuQWc?oc=5",
-      "source": "medRxiv vaccines",
-      "source_type": "preprint",
-      "source_tier": "Tier 3",
-      "source_priority": 7,
-      "published_at": "2026-03-31T07:00:00+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [
-        "outbreak_response"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "medRxiv"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "medRxiv"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "medRxiv vaccines"
-      ]
-    },
-    {
-      "id": "562df466cc68f883",
-      "title": "英国における妊婦および乳児および幼児の母親の間での母体性呼吸器合胞体ウイルス (RSV) ワクチンに対する認識: 定性的研究 - medrxiv.org",
-      "summary": "英国における妊婦および乳児および幼児の母親の間での母体性呼吸器合胞体ウイルス (RSV) ワクチンに対する認識: 定性的研究 medrxiv.org",
-      "summary_ai": "英国における妊婦および乳児および幼児の母親の間での母体性呼吸器合胞体ウイルス (RSV) ワクチンに対する認識: 定性的研究 medrxiv.org",
-      "title_original": "Maternal respiratory syncytial virus (RSV) vaccine perceptions amongst pregnant women and mothers of infants and toddlers in England: a qualitative study - medrxiv.org",
-      "summary_original": "Maternal respiratory syncytial virus (RSV) vaccine perceptions amongst pregnant women and mothers of infants and toddlers in England: a qualitative study medrxiv.org",
-      "summary_ai_original": "Maternal respiratory syncytial virus (RSV) vaccine perceptions amongst pregnant women and mothers of infants and toddlers in England: a qualitative study medrxiv.org",
+      "id": "d4adf954adb54e6a",
+      "title": "英国における妊婦および乳児および幼児の母親の間での母体性呼吸器合胞体ウイルス (RSV) ワクチンに対する認識: 定性的研究 - medRxiv",
+      "summary": "英国における妊婦と乳児および幼児の母親の間での母体性呼吸器合胞体ウイルス（RSV）ワクチンに対する認識：定性的研究 medRxiv",
+      "summary_ai": "英国における妊婦と乳児および幼児の母親の間での母体性呼吸器合胞体ウイルス（RSV）ワクチンに対する認識：定性的研究 medRxiv",
+      "title_original": "Maternal respiratory syncytial virus (RSV) vaccine perceptions amongst pregnant women and mothers of infants and toddlers in England: a qualitative study - medRxiv",
+      "summary_original": "Maternal respiratory syncytial virus (RSV) vaccine perceptions amongst pregnant women and mothers of infants and toddlers in England: a qualitative study medRxiv",
+      "summary_ai_original": "Maternal respiratory syncytial virus (RSV) vaccine perceptions amongst pregnant women and mothers of infants and toddlers in England: a qualitative study medRxiv",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE01MkZGSnlpdTBqMlJ1VVVDcC10SVRqUkVObkZVSFNMdnJMb2pnb0dOSVFfV2tYcmtlOWduNnNodVZaLVlvbmsxZ2JnWGFaTFlNS2F1cUo1bnpNNjJFdzVxdmRkcVQybV9QNGFoWkZydw?oc=5",
       "source": "medRxiv vaccines",
@@ -2020,13 +2022,13 @@
       ]
     },
     {
-      "id": "dbce53d5dc7ea045",
-      "title": "ノーミクロン優勢時の重篤な covid-19 に対する異種 3 回目の接種スケジュールの有効性の比較 - bmj.com",
-      "summary": "No bmj.com におけるオミクロン優勢時の重篤な covid-19 に対する異種 3 回目の接種スケジュールの有効性の比較",
-      "summary_ai": "No bmj.com におけるオミクロン優勢時の重篤な covid-19 に対する異種 3 回目の接種スケジュールの有効性の比較",
-      "title_original": "Comparative effectiveness of heterologous third dose vaccine schedules against severe covid-19 during omicron predominance in No - bmj.com",
-      "summary_original": "Comparative effectiveness of heterologous third dose vaccine schedules against severe covid-19 during omicron predominance in No bmj.com",
-      "summary_ai_original": "Comparative effectiveness of heterologous third dose vaccine schedules against severe covid-19 during omicron predominance in No bmj.com",
+      "id": "60fd65e7bbff310b",
+      "title": "ノーミクロン優勢時の重篤な新型コロナウイルス感染症に対する異種3回目ワクチン接種スケジュールの有効性の比較 - The BMJ",
+      "summary": "ノーのオミクロン優勢期間における重篤な covid-19 に対する異種 3 回目の接種スケジュールの有効性の比較 The BMJ",
+      "summary_ai": "ノーのオミクロン優勢期間における重篤な covid-19 に対する異種 3 回目の接種スケジュールの有効性の比較 The BMJ",
+      "title_original": "Comparative effectiveness of heterologous third dose vaccine schedules against severe covid-19 during omicron predominance in No - The BMJ",
+      "summary_original": "Comparative effectiveness of heterologous third dose vaccine schedules against severe covid-19 during omicron predominance in No The BMJ",
+      "summary_ai_original": "Comparative effectiveness of heterologous third dose vaccine schedules against severe covid-19 during omicron predominance in No The BMJ",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XMlUyRHlxQXRaUnFGNjhNcGJqNFVMNlBaQlo2bzNoMHhTSzNsS0dFMVJFamxSOHIyaFJGaE5IVmFYaXNudFo5WFlsSHVYbm9SVDRQUGVHNWJ1aXFrQkJUejdNYzNtVVhuZ191NQ?oc=5",
       "source": "BMJ",
@@ -2087,73 +2089,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "BMJ"
-      ]
-    },
-    {
-      "id": "3838957877749cf9",
-      "title": "マラウイにおける2022年から2023年にかけてのコレラの発生率と重症度の減少に対する経口コレラワクチンの単回投与の有効性。横断的研究 - medrxiv.org",
-      "summary": "マラウイにおける2022年から2023年にかけてのコレラの発生率と重症度の減少に対する経口コレラワクチンの単回投与の有効性。横断的研究 medrxiv.org",
-      "summary_ai": "マラウイにおける2022年から2023年にかけてのコレラの発生率と重症度の減少に対する経口コレラワクチンの単回投与の有効性。横断的研究 medrxiv.org",
-      "title_original": "Effectiveness of single-dose use of oral cholera vaccine towards reducing cholera incidence and severity during the 2022-2023 in Malawi; A cross-sectional study - medrxiv.org",
-      "summary_original": "Effectiveness of single-dose use of oral cholera vaccine towards reducing cholera incidence and severity during the 2022-2023 in Malawi; A cross-sectional study medrxiv.org",
-      "summary_ai_original": "Effectiveness of single-dose use of oral cholera vaccine towards reducing cholera incidence and severity during the 2022-2023 in Malawi; A cross-sectional study medrxiv.org",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ScVBrX3ZJY3A4V2lqdUVsc2Vqd2kyMl9heklodENIWml6cWk0NkpPby1CTzYtQjdLb2xHWlVDRVlBZkJpMERQZ3VKSWNRYk5qMW1mTmVWWEJDbmo3UTNGY1dxbHZsbW9lQUVtS3J4cw?oc=5",
-      "source": "medRxiv vaccines",
-      "source_type": "preprint",
-      "source_tier": "Tier 3",
-      "source_priority": 7,
-      "published_at": "2026-03-28T03:23:52+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "cholera"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "medRxiv"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "medRxiv"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "medRxiv vaccines"
       ]
     },
     {
@@ -2356,140 +2291,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "Financial Times Vaccines / Immunization"
-      ]
-    },
-    {
-      "id": "e4c803fe3b85418e",
-      "title": "臨床検査でインフルエンザが確認された外来急性呼吸器疾患に対するインフルエンザワクチンの有効性、米国、2024～25年シーズン - medrxiv.org",
-      "summary": "臨床検査でインフルエンザが確認された外来急性呼吸器疾患に対するインフルエンザワクチンの有効性、米国、2024～25 シーズン medrxiv.org",
-      "summary_ai": "臨床検査でインフルエンザが確認された外来急性呼吸器疾患に対するインフルエンザワクチンの有効性、米国、2024～25 シーズン medrxiv.org",
-      "title_original": "Influenza vaccine effectiveness against outpatient acute respiratory illness with laboratory-confirmed influenza, United States, 2024–25 season - medrxiv.org",
-      "summary_original": "Influenza vaccine effectiveness against outpatient acute respiratory illness with laboratory-confirmed influenza, United States, 2024–25 season medrxiv.org",
-      "summary_ai_original": "Influenza vaccine effectiveness against outpatient acute respiratory illness with laboratory-confirmed influenza, United States, 2024–25 season medrxiv.org",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lUUdEUWFpZUw1YWh1YVpOUW5nU3U2TDM3SEVGVHFxcWFnOG5iSkFFVElBN1BnR3BYZjRqTkZNMUJkV0N3ZFN3SGJLLVlMS1pMZXItTmJLUWkzU1F3Rm4wTEZsRDJzWUo0WUgySEY5MA?oc=5",
-      "source": "medRxiv vaccines",
-      "source_type": "preprint",
-      "source_tier": "Tier 3",
-      "source_priority": 7,
-      "published_at": "2026-03-26T18:27:30+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "influenza"
-      ],
-      "variants": [],
-      "target_country": "米国",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "medRxiv"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "medRxiv"
-        },
-        "target": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "米国"
-        }
-      },
-      "location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "米国"
-      },
-      "region": "North America",
-      "country": "米国",
-      "lat": 38.9072,
-      "lng": -77.0369,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "medRxiv vaccines"
-      ]
-    },
-    {
-      "id": "8ac78da3afba15ca",
-      "title": "GnRH mRNA 免疫去勢ワクチンの構築とマウスおよび猫におけるその免疫原性と安全性の評価 - bioRxiv",
-      "summary": "GnRH mRNA 免疫去勢ワクチンの構築とマウスおよび猫におけるその免疫原性と安全性の評価 bioRxiv",
-      "summary_ai": "GnRH mRNA 免疫去勢ワクチンの構築とマウスおよび猫におけるその免疫原性と安全性の評価 bioRxiv",
-      "title_original": "Construction of a GnRH mRNA Immunocastration Vaccine and Evaluation of Its Immunogenicity and Safety in Mice and Cats - bioRxiv",
-      "summary_original": "Construction of a GnRH mRNA Immunocastration Vaccine and Evaluation of Its Immunogenicity and Safety in Mice and Cats bioRxiv",
-      "summary_ai_original": "Construction of a GnRH mRNA Immunocastration Vaccine and Evaluation of Its Immunogenicity and Safety in Mice and Cats bioRxiv",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oeUpMa0RaaHNfSGZrazFSOEtVVE9laUFmemNXVWplQWFyZUUyRi1rWkJNT3haY2J2aEQtNW9TS3dDQlpjSElvOU85bEhOTU5mM1p6VndlVjlWQV9mVkRfYVpFZEpvbVRlMHJJNQ?oc=5",
-      "source": "bioRxiv vaccines",
-      "source_type": "preprint",
-      "source_tier": "Tier 3",
-      "source_priority": 7,
-      "published_at": "2026-03-26T07:00:00+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [
-        "safety"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "bioRxiv"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "bioRxiv"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "bioRxiv vaccines"
       ]
     }
   ]
