@@ -1,9 +1,9 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-04-11T21:46:26.100816+00:00",
-  "item_count": 27,
-  "archive_count": 115,
+  "generated_at": "2026-04-12T21:48:26.282708+00:00",
+  "item_count": 30,
+  "archive_count": 118,
   "days_back": 14,
   "plot_mode_default": "source",
   "feed_status": [
@@ -110,8 +110,8 @@
       "name": "BMJ",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abmj.com%20(policy%20OR%20trial%20OR%20effectiveness%20OR%20communication)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 6,
-      "kept": 5
+      "seen": 8,
+      "kept": 7
     },
     {
       "name": "Vaccine journal",
@@ -152,28 +152,28 @@
       "name": "bioRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abiorxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 10,
+      "seen": 6,
       "kept": 0
     },
     {
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 24,
+      "seen": 26,
       "kept": 2
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 20,
+      "seen": 13,
       "kept": 2
     },
     {
       "name": "AP Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 33,
+      "seen": 17,
       "kept": 0
     },
     {
@@ -188,13 +188,13 @@
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aft.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
       "seen": 3,
-      "kept": 0
+      "kept": 1
     },
     {
       "name": "STAT Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 12,
+      "seen": 16,
       "kept": 0
     },
     {
@@ -208,42 +208,42 @@
       "name": "Science Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Ascience.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 16,
+      "seen": 11,
       "kept": 0
     },
     {
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 13,
+      "seen": 15,
       "kept": 2
     },
     {
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 47,
+      "seen": 30,
       "kept": 0
     },
     {
       "name": "Washington Post Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 11,
+      "seen": 12,
       "kept": 0
     },
     {
       "name": "NHK ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anhk.or.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 0,
+      "seen": 1,
       "kept": 0
     },
     {
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 15,
+      "seen": 19,
       "kept": 0
     },
     {
@@ -257,18 +257,153 @@
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 23,
+      "seen": 25,
       "kept": 1
     },
     {
       "name": "毎日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 16,
+      "seen": 14,
       "kept": 0
     }
   ],
   "items": [
+    {
+      "id": "0ff4543d6c8b8a3d",
+      "title": "ブラジルにおけるチクングニア熱に対するワクチン政策の指針：生弱毒化ワクチンと組換えワクチンの費用対効果分析 - BMJ Public Health",
+      "summary": "ブラジルにおけるチクングニア熱ワクチン政策の指針：弱毒生BMJと組換えBMJの費用対効果分析 公衆衛生",
+      "summary_ai": "ブラジルにおけるチクングニア熱ワクチン政策の指針：弱毒生BMJと組換えBMJの費用対効果分析 公衆衛生",
+      "title_original": "Guiding vaccine policy for chikungunya in Brazil: a cost- effectiveness analysis of live- attenuated versus recombin - BMJ Public Health",
+      "summary_original": "Guiding vaccine policy for chikungunya in Brazil: a cost- effectiveness analysis of live- attenuated versus recombin BMJ Public Health",
+      "summary_ai_original": "Guiding vaccine policy for chikungunya in Brazil: a cost- effectiveness analysis of live- attenuated versus recombin BMJ Public Health",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtRy1wZmZQLWY0cGE1RFAwc1BYdmNBU2pudFVrdWhqWGxxUFlRT0U4bURxZERVS2s1SEhxdkVMa29ZbFF1RGJzeFZsaFdZc2QxdloyV25PZ1FESlpxNFlOUllZSVoxbWFSeDE2QQ?oc=5",
+      "source": "BMJ",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-04-11T23:52:48+00:00",
+      "topics": [
+        "policy",
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "ブラジル",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BMJ / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BMJ / London"
+        },
+        "target": {
+          "key": "brazil",
+          "name_ja": "ブラジル",
+          "lat": -15.7939,
+          "lng": -47.8828,
+          "region": "South America",
+          "label": "ブラジル"
+        }
+      },
+      "location": {
+        "key": "brazil",
+        "name_ja": "ブラジル",
+        "lat": -15.7939,
+        "lng": -47.8828,
+        "region": "South America",
+        "label": "ブラジル"
+      },
+      "region": "South America",
+      "country": "ブラジル",
+      "lat": -15.7939,
+      "lng": -47.8828,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "BMJ"
+      ]
+    },
+    {
+      "id": "2267202e464b59bc",
+      "title": "ニルセビマブ、母親用 RSV ワクチン、高齢者用 RSV ワクチンの現実世界の有効性と安全性: 生きた系統的研究 - thorax.bmj.com",
+      "summary": "ニルセビマブ、母体用 RSV ワクチン、高齢者用 RSV ワクチンの現実世界の有効性と安全性: 生きた体系的な r thorax.bmj.com",
+      "summary_ai": "ニルセビマブ、母体用 RSV ワクチン、高齢者用 RSV ワクチンの現実世界の有効性と安全性: 生きた体系的な r thorax.bmj.com",
+      "title_original": "Real-world effectiveness and safety of nirsevimab, RSV maternal vaccine and RSV vaccines for older adults: a living systematic r - thorax.bmj.com",
+      "summary_original": "Real-world effectiveness and safety of nirsevimab, RSV maternal vaccine and RSV vaccines for older adults: a living systematic r thorax.bmj.com",
+      "summary_ai_original": "Real-world effectiveness and safety of nirsevimab, RSV maternal vaccine and RSV vaccines for older adults: a living systematic r thorax.bmj.com",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16b1dwUEg0SnlPLTQxS3NzQUlZbHlRZVFwME03N2JDbDhEdUdUbFROS2VjcVE1SVdsZFhDUEtONXFOLVBvN3JLcHM3ZDVETXRxUENRVXQ5WFdXcllpcTNEbnFwOExocmhOR29N?oc=5",
+      "source": "BMJ",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-04-11T13:46:45+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [
+        "safety"
+      ],
+      "vaccines": [
+        "rsv"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BMJ / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BMJ / London"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "BMJ"
+      ]
+    },
     {
       "id": "3c3049acea464b9d",
       "title": "生物製剤手順 (SOPP)",
@@ -408,13 +543,79 @@
       ]
     },
     {
-      "id": "517338554285c715",
-      "title": "新しい憲章により、裁判所の判決にもかかわらずRFKジュニアがワクチン政策を取り戻すことが可能に - ニューヨーク・タイムズ",
-      "summary": "裁判所の判決にもかかわらず、新憲章によりRFKジュニアはワクチン政策を取り戻すことが可能に ニューヨーク・タイムズ",
-      "summary_ai": "裁判所の判決にもかかわらず、新憲章によりRFKジュニアはワクチン政策を取り戻すことが可能に ニューヨーク・タイムズ",
-      "title_original": "New Charter Allows RFK Jr. to Reclaim Vaccine Policy Despite Court Ruling - The New York Times",
-      "summary_original": "New Charter Allows RFK Jr. to Reclaim Vaccine Policy Despite Court Ruling The New York Times",
-      "summary_ai_original": "New Charter Allows RFK Jr. to Reclaim Vaccine Policy Despite Court Ruling The New York Times",
+      "id": "3f4798793e58f4fa",
+      "title": "ブラジルにおけるチクングニア熱に対するワクチン政策の指針：18歳以上のブラジル人成人を対象とした弱毒化生ワクチンと組換えチクングニア熱ワクチンの費用対効果分析 - BMJ公衆衛生",
+      "summary": "ブラジルにおけるチクングニア熱に対するワクチン政策の指針：18歳以上のブラジル成人を対象とした弱毒化生ワクチンと組換えチクングニア熱ワクチンの費用対効果分析 BMJ Public Health",
+      "summary_ai": "ブラジルにおけるチクングニア熱に対するワクチン政策の指針：18歳以上のブラジル成人を対象とした弱毒化生ワクチンと組換えチクングニア熱ワクチンの費用対効果分析 BMJ Public Health",
+      "title_original": "Guiding vaccine policy for chikungunya in Brazil: a cost-effectiveness analysis of live-attenuated versus recombinant chikungunya vaccines in Brazilian adults ≥18 years - BMJ Public Health",
+      "summary_original": "Guiding vaccine policy for chikungunya in Brazil: a cost-effectiveness analysis of live-attenuated versus recombinant chikungunya vaccines in Brazilian adults ≥18 years BMJ Public Health",
+      "summary_ai_original": "Guiding vaccine policy for chikungunya in Brazil: a cost-effectiveness analysis of live-attenuated versus recombinant chikungunya vaccines in Brazilian adults ≥18 years BMJ Public Health",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95enJkLTdfSGZLOERBd1QyNjR2c3R4MXk1RFF5WkpKQWR1b0Z6Um5ZcW5paHNTTC1MQ3A2aUVuZnMzTmhBUkc1aFIxcVZDcnBla0luZ3ZNMGkxRVhiZEZDWA?oc=5",
+      "source": "BMJ",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-04-10T07:00:00+00:00",
+      "topics": [
+        "policy",
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "ブラジル",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BMJ / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BMJ / London"
+        },
+        "target": {
+          "key": "brazil",
+          "name_ja": "ブラジル",
+          "lat": -15.7939,
+          "lng": -47.8828,
+          "region": "South America",
+          "label": "ブラジル"
+        }
+      },
+      "location": {
+        "key": "brazil",
+        "name_ja": "ブラジル",
+        "lat": -15.7939,
+        "lng": -47.8828,
+        "region": "South America",
+        "label": "ブラジル"
+      },
+      "region": "South America",
+      "country": "ブラジル",
+      "lat": -15.7939,
+      "lng": -47.8828,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "BMJ"
+      ]
+    },
+    {
+      "id": "8e0b751249dc4247",
+      "title": "新憲章でケネディ大統領、ワクチン委員会を再設計、裁判所の判決を回避する可能性も - ニューヨーク・タイムズ",
+      "summary": "新憲章でケネディ大統領、ワクチン委員会を再設計、ニューヨーク・タイムズの判決を回避する可能性も",
+      "summary_ai": "新憲章でケネディ大統領、ワクチン委員会を再設計、ニューヨーク・タイムズの判決を回避する可能性も",
+      "title_original": "With New Charter, Kennedy Redesigns Vaccine Committee and May Sidestep Court Ruling - The New York Times",
+      "summary_original": "With New Charter, Kennedy Redesigns Vaccine Committee and May Sidestep Court Ruling The New York Times",
+      "summary_ai_original": "With New Charter, Kennedy Redesigns Vaccine Committee and May Sidestep Court Ruling The New York Times",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcDUxWVNkMFg3NXNHRF82cnB0MUw3NVVjR3VWNFQ3cEdGWFVfYmpCd084QkN6cDJ5Vm1CSjVpWkhKejZoSDRlM1E3LUt4bEp1Q3BobjNYWEx0U29ieXFJdjJ5T3dFaWlvNjdPc2hob3V0eTM5ZHEzcHhEd3c1TEpCQkxRc3BxcnJYNmc?oc=5",
       "source": "New York Times Vaccines / Immunization",
@@ -425,7 +626,9 @@
       "topics": [
         "policy"
       ],
-      "policy_tags": [],
+      "policy_tags": [
+        "recommendation"
+      ],
       "vaccines": [],
       "variants": [],
       "target_country": "不明",
@@ -683,6 +886,71 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "FDA Vaccines / Biologics"
+      ]
+    },
+    {
+      "id": "0f068bab45a1a076",
+      "title": "エヴァクシオン、個別化がんワクチンEVX-01の第2相試験1年延長で最後の患者訪問を発表 - フィナンシャル・タイムズ",
+      "summary": "エヴァクシオン、個別化がんワクチンEVX-01の第2相試験1年延長で最後の患者訪問を発表 フィナンシャル・タイムズ",
+      "summary_ai": "エヴァクシオン、個別化がんワクチンEVX-01の第2相試験1年延長で最後の患者訪問を発表 フィナンシャル・タイムズ",
+      "title_original": "Evaxion announces last patient visit in one-year extension of phase 2 trial with personalized cancer vaccine EVX-01 - Financial Times",
+      "summary_original": "Evaxion announces last patient visit in one-year extension of phase 2 trial with personalized cancer vaccine EVX-01 Financial Times",
+      "summary_ai_original": "Evaxion announces last patient visit in one-year extension of phase 2 trial with personalized cancer vaccine EVX-01 Financial Times",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN3RKcDYxUnVSSkFPTUR5dFdtSWpmejk1ZzZobTJydmZ3bmRwc2hIWFAxMGJ1eW55Z3NyemlGellqaGExSFhtYVJDdmZ1SzVMQWxLMkp6RHZIOHlFNzBVLUo4Q2dncGx0Zko1aHIxeTJseFUyTUhaOW5BSnZZdmUtUHVOcUJQTTJGb0ZFeWQwdEhPWDFhYzdHTA?oc=5",
+      "source": "Financial Times Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-04-07T10:00:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Financial Times"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Financial Times"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Financial Times Vaccines / Immunization"
       ]
     },
     {
@@ -1350,7 +1618,7 @@
       "country": "米国",
       "lat": 38.9072,
       "lng": -77.0369,
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicate_sources": [
         "medRxiv vaccines"
       ]
@@ -1689,6 +1957,73 @@
       ]
     },
     {
+      "id": "efb330f89045cbfd",
+      "title": "資源が乏しい状況での流行時のワクチン有効性推定の改善: 2022年から2023年のマラウイでのコレラ流行時の経口コレラワクチン接種のケーススタディ - medRxiv",
+      "summary": "資源が乏しい状況での流行時のワクチン有効性推定の改善: 2022～2023年のマラウイにおけるコレラ流行時の経口コレラワクチン接種のケーススタディ medRxiv",
+      "summary_ai": "資源が乏しい状況での流行時のワクチン有効性推定の改善: 2022～2023年のマラウイにおけるコレラ流行時の経口コレラワクチン接種のケーススタディ medRxiv",
+      "title_original": "Improving estimation of vaccine effectiveness during outbreaks in low-resource settings: A case study of oral cholera vaccination during the 2022-2023 cholera outbreak in Malawi - medRxiv",
+      "summary_original": "Improving estimation of vaccine effectiveness during outbreaks in low-resource settings: A case study of oral cholera vaccination during the 2022-2023 cholera outbreak in Malawi medRxiv",
+      "summary_ai_original": "Improving estimation of vaccine effectiveness during outbreaks in low-resource settings: A case study of oral cholera vaccination during the 2022-2023 cholera outbreak in Malawi medRxiv",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83Y0p6ekN3UGx4SU9WN2FFWFpsbHgxOXFtZ0tyNHBaakVRMWFUYm00TjY0VVMyRWJSVF84TkthaWxkX2hkcnpCQ0NQUFE5Vm53X19NZFE5bDJQbTFtUWVFa25LWlU0NFFTcTNzYQ?oc=5",
+      "source": "medRxiv vaccines",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-04-01T10:08:56+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [
+        "outbreak_response"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "medRxiv"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "medRxiv"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 3,
+      "duplicate_sources": [
+        "medRxiv vaccines"
+      ]
+    },
+    {
       "id": "e49c4e6085281537",
       "title": "ワクチンへの躊躇が高まる中、ビタミンK注射を拒否する親が増えている - CIDRAP",
       "summary": "ワクチンへの躊躇が高まる中、ビタミンKワクチン接種を拒否する親が増加 CIDRAP",
@@ -1756,73 +2091,6 @@
       ]
     },
     {
-      "id": "8b9af73591d72e4a",
-      "title": "資源が少ない状況での流行時のワクチン有効性推定の改善: 経口コレラワクチン接種のケーススタディ - medRxiv",
-      "summary": "資源が乏しい環境での流行時のワクチン有効性推定の改善: 経口コレラワクチン接種 medRxiv のケーススタディ",
-      "summary_ai": "資源が乏しい環境での流行時のワクチン有効性推定の改善: 経口コレラワクチン接種 medRxiv のケーススタディ",
-      "title_original": "Improving estimation of vaccine effectiveness during outbreaks in low-resource settings: A case study of oral cholera vaccinatio - medRxiv",
-      "summary_original": "Improving estimation of vaccine effectiveness during outbreaks in low-resource settings: A case study of oral cholera vaccinatio medRxiv",
-      "summary_ai_original": "Improving estimation of vaccine effectiveness during outbreaks in low-resource settings: A case study of oral cholera vaccinatio medRxiv",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBONnMybGFTLW9XbXVzdjBaR0k2bFdnbEZLY1M4T2NDek1OOWdzYnQxSDM5b1cwLWp3clQwdTBVYWRNQl9CS2dWYkZuR1FweXJhUWdGemxvRTNlY2Y3OG5KQUpqNTlWOEZMcVFRZnVmZF9CNVpjOGczVWYwcw?oc=5",
-      "source": "medRxiv vaccines",
-      "source_type": "preprint",
-      "source_tier": "Tier 3",
-      "source_priority": 7,
-      "published_at": "2026-04-01T04:53:46+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [
-        "outbreak_response"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "medRxiv"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "medRxiv"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 2,
-      "duplicate_sources": [
-        "medRxiv vaccines"
-      ]
-    },
-    {
       "id": "c0c8a93482a2a1a0",
       "title": "高齢者の入院に対する二価RSウイルス融合前ワクチンの有効性：イングランド、ウェールズ、スコットランド、北アイルランドにおける症例対照研究のメタ分析 - ランセット",
       "summary": "高齢者の入院に対する二価RSウイルス融合前ワクチンの有効性：イングランド、ウェールズ、スコットランド、北アイルランドにおける症例対照研究のメタアナリシス The Lancet",
@@ -1885,75 +2153,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "The Lancet series"
-      ]
-    },
-    {
-      "id": "273493c75414a811",
-      "title": "ニルセビマブ、母体用 RSV ワクチン、高齢者用 RSV ワクチンの実際の有効性と安全性 - thorax.bmj.com",
-      "summary": "ニルセビマブ、母体用 RSV ワクチン、高齢者用 RSV ワクチンの実際の有効性と安全性 thorax.bmj.com",
-      "summary_ai": "ニルセビマブ、母体用 RSV ワクチン、高齢者用 RSV ワクチンの実際の有効性と安全性 thorax.bmj.com",
-      "title_original": "Real-world effectiveness and safety of nirsevimab, RSV maternal vaccine and RSV vaccines for older adults - thorax.bmj.com",
-      "summary_original": "Real-world effectiveness and safety of nirsevimab, RSV maternal vaccine and RSV vaccines for older adults thorax.bmj.com",
-      "summary_ai_original": "Real-world effectiveness and safety of nirsevimab, RSV maternal vaccine and RSV vaccines for older adults thorax.bmj.com",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16b1dwUEg0SnlPLTQxS3NzQUlZbHlRZVFwME03N2JDbDhEdUdUbFROS2VjcVE1SVdsZFhDUEtONXFOLVBvN3JLcHM3ZDVETXRxUENRVXQ5WFdXcllpcTNEbnFwOExocmhOR29N?oc=5",
-      "source": "BMJ",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-03-30T08:09:51+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [
-        "safety"
-      ],
-      "vaccines": [
-        "rsv"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BMJ / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BMJ / London"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "BMJ"
       ]
     },
     {
