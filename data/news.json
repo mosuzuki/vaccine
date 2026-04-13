@@ -1,9 +1,9 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-04-12T21:48:26.282708+00:00",
-  "item_count": 30,
-  "archive_count": 118,
+  "generated_at": "2026-04-13T21:58:46.726803+00:00",
+  "item_count": 27,
+  "archive_count": 120,
   "days_back": 14,
   "plot_mode_default": "source",
   "feed_status": [
@@ -44,7 +44,7 @@
       "url": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/biologics/rss.xml",
       "status": "ok",
       "seen": 20,
-      "kept": 3
+      "kept": 2
     },
     {
       "name": "EMA News",
@@ -82,7 +82,7 @@
       "name": "PAHO News",
       "url": "https://www.paho.org/en/rss.xml",
       "status": "ok",
-      "seen": 4,
+      "seen": 6,
       "kept": 1
     },
     {
@@ -110,8 +110,8 @@
       "name": "BMJ",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abmj.com%20(policy%20OR%20trial%20OR%20effectiveness%20OR%20communication)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 8,
-      "kept": 7
+      "seen": 7,
+      "kept": 6
     },
     {
       "name": "Vaccine journal",
@@ -146,90 +146,90 @@
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Amedrxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
       "seen": 13,
-      "kept": 10
+      "kept": 9
     },
     {
       "name": "bioRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abiorxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 6,
+      "seen": 7,
       "kept": 0
     },
     {
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 26,
-      "kept": 2
+      "seen": 27,
+      "kept": 4
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 13,
-      "kept": 2
+      "seen": 82,
+      "kept": 1
     },
     {
       "name": "AP Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 17,
+      "seen": 12,
       "kept": 0
     },
     {
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 11,
+      "seen": 9,
       "kept": 0
     },
     {
       "name": "Financial Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aft.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 5,
       "kept": 1
     },
     {
       "name": "STAT Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 16,
+      "seen": 14,
       "kept": 0
     },
     {
       "name": "Nature News Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 11,
+      "seen": 7,
       "kept": 0
     },
     {
       "name": "Science Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Ascience.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 11,
+      "seen": 15,
       "kept": 0
     },
     {
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 15,
+      "seen": 11,
       "kept": 2
     },
     {
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 30,
+      "seen": 26,
       "kept": 0
     },
     {
       "name": "Washington Post Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 12,
+      "seen": 13,
       "kept": 0
     },
     {
@@ -243,32 +243,170 @@
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 19,
+      "seen": 23,
       "kept": 0
     },
     {
       "name": "朝日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Aasahi.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 20,
+      "seen": 17,
       "kept": 0
     },
     {
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 25,
-      "kept": 1
+      "seen": 99,
+      "kept": 0
     },
     {
       "name": "毎日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 14,
+      "seen": 8,
       "kept": 0
     }
   ],
   "items": [
+    {
+      "id": "457293e7299d8084",
+      "title": "結核ワクチン候補の第3相試験での防御効果は限定的 - CIDRAP",
+      "summary": "結核ワクチン候補は第 3 相試験 CIDRAP で限定的な予防効果を提供",
+      "summary_ai": "結核ワクチン候補は第 3 相試験 CIDRAP で限定的な予防効果を提供",
+      "title_original": "TB vaccine candidates offer limited protection in phase 3 trial - CIDRAP",
+      "summary_original": "TB vaccine candidates offer limited protection in phase 3 trial CIDRAP",
+      "summary_ai_original": "TB vaccine candidates offer limited protection in phase 3 trial CIDRAP",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTWl1SEFGZlBlZzUySDdVTGNwTlB3MjE4MVVZX0k0bWNnWm5lN0hDSjgzLVZIc25IS2ZLeG9aYWFEeE9CQnVTYkFXNUY0MHlJZm5Vd0pZRU9yWm55b2pXLXJFMFNlSFY4ajU0MkNndUFWYTFpVUNNUkcxX255Rkx3WTNVVVFaNl90MklsT0hZQ1pEVl84MFV2UC1hUnA4LUtkS1E?oc=5",
+      "source": "CIDRAP Vaccines & Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 8,
+      "published_at": "2026-04-13T17:43:56+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "CIDRAP / Minnesota"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "CIDRAP / Minnesota"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "CIDRAP Vaccines & Immunization"
+      ]
+    },
+    {
+      "id": "8b92ff3f6ecb53c7",
+      "title": "ワークショップ、会議、カンファレンス (生物製剤)",
+      "summary": "一般の人々を教育し、利害関係者の意見を求める目的で、CBER が主催または共催するさまざまな生物製剤に関する会議、カンファレンス、ワークショップに関する情報。",
+      "summary_ai": "FDA の生物製剤評価研究センター (CBER) は、一般の人々を教育し、利害関係者の意見を求めるために、さまざまな生物製剤に関する会議、カンファレンス、ワークショップを後援または共催しています。今後のワークショップ、ミーティング、カンファレンス - FDA CBER OTP Publ",
+      "title_original": "Workshops, Meetings & Conferences (Biologics)",
+      "summary_original": "Information on CBER sponsored or co-sponsored meetings, conferences and workshops about various biologics in order to educate the public and seek the opinion of interested parties.",
+      "summary_ai_original": "FDA's Center for Biologics Evaluation and Research (CBER) sponsors or co-sponsors meetings, conferences and workshops about various biologics in order to educate the public and seek the opinion of interested parties. Upcoming Workshops, Meetings, & Conferences - FDA CBER OTP Publ",
+      "article_text_original": "FDA's Center for Biologics Evaluation and Research (CBER) sponsors or co-sponsors meetings, conferences and workshops about various biologics in order to educate the public and seek the opinion of interested parties. Minutes, transcripts, summaries and/or presentations for CBER sponsored or co-sponsored meetings and workshops are made available as soon after the meeting as possible. Presentations are in chronological order, with the most recent event at the top of the list. Most will be removed after one year. If you want to keep the slides for future reference, they may be downloaded and saved. Slides that have been removed from the web site may be requested by submitting a written request to FDA's Freedom of Information staff. View FDA Archive for past meetings and materials: 2011-2015; 2016-2020. Upcoming Workshops, Meetings, & Conferences - FDA CBER OTP Public Listening Meeting: Leveraging Knowledge for Facilitating the Development and Review of Cell and Gene Therapies September 18, 2025 - FDA Public Meeting: Onshoring Manufacturing of Drugs and Biological Products September 30, 2025 - OTP Town Hall: Gene Therapy Manufacturing CMC and Facility Readiness for BLAs and Post-licensure Changes October 22, 2025 - Approval of New Patch Tests for the Diagnosis of Allergic Contact Dermatitis; Public Workshop October 23, 2025 - Live Biotherapeutic Products to Prevent Necrotizing Enterocolitis in Very Low Birth Weight Infants October 25, 2024 - 2024 Center for Biologics Evaluation and Research (CBER) Science Symposium September 16 - 18, 2024 - Biomarker-driven Drug Development for Allergic Diseases and Asthma; Public Workshop February 22, 2024 - WCBP Symposium 2024 January 23 - 25, 2024 - Workshop for the Identification and Standardization of Methods for Assessing Gene Therapy Product Activity and Comparability and the Evaluation of T-Cell Therapies November 16, 2023 - November 17, 2023 - Warrior Families: Advancing Regenerative Medicine Through Science October 5, 2023 - OTP Town Hall: Nonclinical Assessment of Cell and Gene Therapy Products August 30, 2023 - OTP Town Hall: Cell Therapy Chemistry, Manufacturing, and Controls – June 2023 June 8, 2023 - RDEA Pilot Program 2023 Public Workshop June 7 - 8, 2023 - Regulatory Education for Industry (REdI) Annual Conference 2023 June 5 - 9, 2023 - Methods and Approaches for Capturing Post-Approval Safety and Efficacy Data on Cell and Gene Therapy Products April 27, 2023 - Recombinant Protein-Based COVID-19 Vaccines Workshop April 27, 2023 - OTP Town Hall: Gene Therapy Chemistry, Manufacturing, and Controls – April 2023 April 25, 2023 - Clinical Trials: The Patient Experience APRIL 13, 2023 - Electronic Submission of Adverse Event Reports to FDA Adverse Event Reporting System (FAERS) using International Council for Harmonisation (ICH) E2B(R3) Standards April 4, 2023 - November 7, 2023 - Immune Globulin Hypersensitivity Reactions: Root Causes and Mitigation; Public Workshop March 30, 2023 - FDA CBER Office of Therapeutic Products (OTP) Advanced Manufacturing and Analytical Technologies (AMAT) for Regenerative Medicine Therapies (RMT) Workshop March 14, 2023 - OTAT Town Hall: Clinical Development of Gene Therapy Products for Rare Diseases February 7, 2023 - Assessing Genetic Heterogeneity in the Context of Genome Editing Off-Targets in Gene Therapy Products December 16, 2022 - FDA Clinical Investigator Training Course (CITC) 2022 December 7 - 8, 2022 - OTAT Town Hall: Cell Therapy Chemistry, Manufacturing, and Controls December 7, 2022 - FDA/PQRI Workshop on the Regulatory Framework for Distributed and Point of Care Pharmaceutical Manufacturing: An Opportunity for DM/POC Stakeholder Engagement November 14 - 16, 2022 - FDA CBER OTAT Patient-Focused Drug Development Listening Meeting — Patient Perspectives on Gene Therapy Products November 15, 2022 - Natural History Studies to Support Regenerative Medicine: A How-To Webinar October 27, 2022 - FDA NanoDay Symposium 2022 October 11, 2022 - OTAT Town Hall: Gene Therapy Chemistry, Manufacturing, and Controls September 29, 2022 - 2022 Center for Biologics Evaluation and Research (CBER) Science Symposium September 20-22, 2022 - Regulatory Education for Industry (REdI) Annual Conference 2022 June 6 - 10, 2022 - Annual Patient Engagement & Regenerative Medicine Meeting 2022: An FDA CBER Workshop for Patient Advocates May 24, 2022 - RegenMedEd Webinar: The Critical Role of Patients in Advancing Gene Therapy Treatments for Rare Diseases March 9, 2022 - Regenerative Medicine 101 Webinar: Information for Patients, Caregivers & Advocates November 16, 2021 - Science and Regulation of Bacteriophage Therapy Workshop August 30 - September 1, 2021 - Regulatory Education for Industry (REdI) Annual Conference 2021 July 19 - 23, 2021 - Model Informed Drug Development Approaches for Immunogenicity Assessments June 9, 2021 - Patient Engagement & Regenerative Medicine: An FDA CBER Workshop for Patient Advocates May 6, 2021 Follow CBER Division of Communication and Consumer Affairs Office of Communication, Outreach and Development Center for Biologics Evaluation and Research Food and Drug Administration 10903 New Hampshire Ave WO71-3103 Silver Spring, MD 20993-0002 (800) 835-4709 (240) 402-8010 For Updates on Twitter, follow @fdacber",
+      "link": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/workshops-meetings-conferences-biologics",
+      "source": "FDA Vaccines / Biologics",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 9,
+      "published_at": "2026-04-13T13:44:59+00:00",
+      "topics": [
+        "communication",
+        "policy",
+        "research"
+      ],
+      "policy_tags": [
+        "approval",
+        "communication",
+        "safety"
+      ],
+      "vaccines": [
+        "covid"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "FDA / Silver Spring"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "FDA / Silver Spring"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "FDA Vaccines / Biologics"
+      ]
+    },
     {
       "id": "0ff4543d6c8b8a3d",
       "title": "ブラジルにおけるチクングニア熱に対するワクチン政策の指針：生弱毒化ワクチンと組換えワクチンの費用対効果分析 - BMJ Public Health",
@@ -743,35 +881,28 @@
       ]
     },
     {
-      "id": "8213a2bbe384d776",
-      "title": "FDA主任研究員デニス・ヒントンによるプロフェッショナルサービス評議会FedHealthカンファレンスでの発言 - 2021年3月11日",
-      "summary": "2020年3月11日、プロフェッショナルサービス評議会フェドヘルスカンファレンスでのFDA主任研究員デニス・ヒントンの発言",
-      "summary_ai": "公平性の確保は、臨床試験へのアクセスから治療の利用可能性まで、あらゆる分野において、FDA が科学的取り組みを通じて優先し続ける目標です。私たちが国立疾病管理予防センターと緊密に連携できたことを嬉しく思います。",
-      "title_original": "Remarks by FDA Chief Scientist Denise Hinton to the Professional Services Council FedHealth Conference - 03/11/2021",
-      "summary_original": "Remarks by FDA Chief Scientist Denise Hinton to the Professional Services Council FedHealth Conference, March 11, 2020",
-      "summary_ai_original": "Ensuring equity is a goal that the FDA continues to prioritize throughout our scientific work, in everything from access to clinical trials to the availability of treatments. I’m pleased that we have worked closely with the Centers for Disease Control and Prevention, the National",
-      "article_text_original": "Speech by Denise Hinton Chief Scientist - Office of the Chief Scientist ( July 2017 - October 2021 ) (Remarks as prepared for delivery) I’m delighted to be with you for this important meeting. Your agenda encompasses many of the critical public health issues we face today, and I’m pleased to be part of the conversation. It’s especially appropriate that I have the opportunity to follow Dr. Nunez-Smith’s insightful talk. Her work underscores so many of the challenges in public health today. Ensuring equity is a goal that the FDA continues to prioritize throughout our scientific work, in everything from access to clinical trials to the availability of treatments. It is an issue with special resonance as we search for treatments to new diseases like COVID-19 in which certain segments of the population, including older adults, pregnant women, children, and racial and ethnic minorities, have been affected differently. I’m also pleased to see several of FDA’s sister agencies at HHS on the agenda. The pandemic has reaffirmed the importance of a cross-government response. I’m pleased that we have worked closely with the Centers for Disease Control and Prevention, the National Institutes of Health and other HHS and government agencies to fulfill our responsibilities to the public. As we all understand, the SARS-CoV-2 virus has reshaped our lives and, to some degree, health policy. It’s now been a little over a year since our society was forced to shut down or reconfigure how we live and work. During that year, we’ve seen enormous economic hardships, incredible disruption of families and communities, and profound personal pain and tragedy. There is cause for optimism, however. We’ve made and continue to make important scientific progress. Each day brings greater knowledge and understanding of this novel virus, and with it increased promise of meaningful treatments and preventive measures that will keep us safer. Certainly, the development and authorization of now three vaccines was an important step forward. I’ll talk about that and some of the other scientific developments shortly. But at the outset I think it’s important to emphasize that even with a potential return to something approaching normalcy on the horizon, we must remain vigilant in our response to this disease. We must continue to meet this challenge with responsible behaviors and actions that keep us safe. At the FDA, we’ve been working non-stop since the beginning of this pandemic to gain greater understanding of COVID-19, and to support the development of treatments and tools to respond to this unprecedented public health emergency. That work has included expediting access to COVID-19 medical countermeasures for the diagnosis, prevention, and treatment of COVID-19, supporting the stability and quality of medical product and food supply chains, and ensuring that the Agency’s decisions are guided firmly by science, using open and transparent processes to ensure continued public confidence. We’ve responded to the need for personal protective equipment, ventilators, and other essential medical devices and products. We’ve worked to combat the sale of fraudulent COVID-related products. And, of course, we’ve been engaged in efforts to support the development of therapeutic products, tests, and vaccines. I want to call out our FDA staff, who have demonstrated extraordinary effort and resilience in responding to this public health crisis, in many cases working, quite literally, 24-7. Equally impressive and important, while taking on this all-encompassing work, they have remained focused on meeting the Agency’s wide-ranging, ongoing public health responsibilities. This means continuing to review and approve or clear new medical devices, approve safe and effective new drugs and biological products, respond to health crises like the opioid epidemic, ensure our continuing oversight of tobacco products, (including e-cigarettes), and maintain our high standards of food safety and food-supply continuity, to name just a few. I can think of a number of reasons why the FDA workforce has managed to so effectively steer two ships at the same time. One reason is training and dedication. And I can’t say enough about our staff in that regard. But there is an important second reason, which involves the role, mission, and mandate of the Agency, which make us uniquely prepared to respond to public health crises like this one. While the COVID-19 pandemic is unprecedented in many ways, it’s certainly not the first significant international public health emergency the FDA has dealt with. We’ve responded effectively to crises as wide-ranging as the Ebola, H1N1, and Zika viruses, a number of horrific natural disasters both domestically and internationally, expansive and dangerous outbreaks from foodborne illnesses, and dangerously tainted medical products. Over time, we’ve developed and been provided a range of tools and approaches to help us respond effectively to public health emergencies. For example, since the very beginning of this pandemic, we have worked to make our regulatory response more nimble. We’ve streamlined processes to make it easier for developers and scientists to send us inquiries and requests, and we’ve developed guidance documents for industry to provide greater clarity, transparency, and regulatory flexibility on a wide variety of topics, from diagnostics to the conduct of clinical trials. We’ve responded with appropriate flexibility when necessary and possible to address public health needs. One example is the Coronavirus Treatment Acceleration Program (CTAP), a special emergency program initiated by our Centers for Drug Evaluation and Research (CDER) and Biologics Evaluation and Research (CBER) that increases coordination for moving new treatments to patients as quickly as possible, while maintaining our focus on safety. When CTAP was launched, 72 clinical trials of potential therapies for COVID-19 were underway with FDA oversight. As of January 31, more than 600 drug development programs were in planning stages. In addition, FDA has reviewed over 420 trials, and authorized 8 COVID-19 treatments for emergency use, and approved 1 treatment for use in COVID-19. We’ve continued to build on the pre-pandemic work we were doing, taking a fresh look at how clinical trials can be designed and conducted, as well as the data sources that can aid in our evaluation of medical products, such as digital health data. The use of real-world data – data collected outside of traditional clinical trials-- can help accelerate FDA’s understanding of how COVID-19 is affecting patients and help FDA advise product developers on how to optimize the design of clinical trials. And we’ve collaborated with our partners in federal and state government, as well as with external stakeholders representing industry, academia, patients, and the health care community. Experience has shown us that these collaborations are an essential ingredient in this kind of response, and they have made an important difference in the health and lives of millions of Americans every day. Let me give you one quick example of where this has been so important – supporting food safety and security. The FDA has worked closely with our federal, state, and local partners throughout the pandemic, as well as with industry, to help ensure a safe and adequate food supply for both people and animals. One tool that we have used to great effect during this pandemic is the Emergency Use Authorization (or EUA), created by Congress specifically to provide us with the means to respond quickly during a public health emergency. As you may recall, Congress developed the EUA after the terrorist attacks of 9/11 to ensure that potentially lifesaving medical products could be available to people in medical need when there is not an adequate, approved and available alternative. Since the start of this emergency, the FDA has used the EUA mechanism to provide a speedy response to the nation’s unprecedented demand for diagnostic tests, PPE, and other medical products, including authorizing three vaccines for emergency use. For instance, in recent weeks we have issued an EUA for the first over-the-counter COVID-19 diagnostic test for self-testing at home that provides rapid results, and EUAs authorizing the use of monoclonal antibodies for COVID-19 treatment, which is designed to block the virus’ attachment and entry into human cells. Overall, during the pandemic, we’ve authorized more than 350 EUAs enabling access to more than 700 products. That’s more than 10 times the number of products previously available under EUA for all previous public health emergencies combined. One area that I know everyone has been closely following in this regard is our work to facilitate expedited vaccine development and to provide rapid feedback and technical advice to sponsors and researchers regarding the data needed to support the manufacturing, clinical development, and approval or authorization of COVID-19 vaccines. As I mentioned, we’ve now authorized three vaccines for use in preventing COVID-19. Others continue to move through the pipeline. The EUA pathway, as it was intended, allowed us to rapidly review and authorize use of these vaccines. But in each case, the data and information on safety, effectiveness and manufacturing quality were assessed by FDA’s career scientists and physicians in our customary way. All the authorized vaccines were shown to satisfy the relevant statutory standards, and FDA scientists carefully considered the known and potential benefits and risks. The other important aspect to understand about the EUA process is our commitment to transparency about the scientific basis for authorization of COVID-19 vaccines. We need and want to promote public confidence in the process and, ultimately, in ensuring that the authorized products are used appropriately. One way we have advanced this transparency is to make clear, through several guidances, the information a vaccine developer should provide to us so that we can review and approve or authorize a COVID-19 vaccine. Another way is that each vaccine submitted for authorization is reviewed by the FDA’s Vaccines and Related Biological Products Advisory Committee (VRBPAC), a group of external experts who provide non-binding recommendations to FDA related to data concerning the safety and effectiveness of vaccines and other biological products. The Committee meets in open session to discuss each EUA vaccine request. Finally, I want to point out another important way the FDA is flexible and responsive – and that is in the way we are able to quickly address ongoing scientific developments such as the emergence of new variants of SARS-COV-2. The FDA had anticipated the possible emergence of SARS-CoV-2 variants and was prepared to address changes in the virus. We were informed in our work because of our previous work with evolving infectious diseases like influenza and HIV. Late last month, shortly after discovery of these variants, the FDA issued four guidances for medical product developers, specifically covering vaccines, diagnostics and therapeutics products, to address the emergence and potential future emergence of variants of the virus.These guidances provide FDA’s recommendations for developers of medical products that either are in the pipeline or have been authorized for emergency use to efficiently address emerging variants. And we will continue to develop new answers and pivot as the virus adapts. The vaccine guidance, which supplemented our ongoing communications with individual vaccine manufacturers, outlined FDA’s scientific recommendations for modifications to authorized vaccines. For instance, the guidance clarified that the FDA expects that manufacturing information will remain generally the same for an authorized vaccine and a modified vaccine candidate from the same manufacturer. For clinical data, the guidance recommends that a determination of effectiveness be supported by data from clinical immunogenicity studies, which would compare a recipient’s immune response to virus variants induced by the modified vaccine against the immune response to the authorized vaccine. And it outlines our recommendations for assessments of safety to support an EUA for a modified vaccine. The testing guidance on variants similarly outlines FDA’s recommendations to test developers, and our work to monitor the impact the new variants are having on test performance. The FDA has already issued a safety alert to caution that the presence of viral genetic mutations in a patient sample can potentially change the performance of a diagnostic test. And we have identified a few tests that may be impacted by emerging viral mutations, though at this time the impact does not appear to be significant. And the therapeutics guidances on variants provide recommendations for developers targeting monoclonal antibodies as they may seek to make adjustments in response to variants, as well as other drugs or biological products targeting SARS-CoV-2. In short, we continue to apply what we have learned in previous crises as well as the current one – preparing, adapting, and strengthening our approaches as needed, rather than being simply reactive. As you can see, the FDA’s responsibilities and activities in response the COVID-19 pandemic are wide-ranging. In fact, I’ve only touched the surface of the many different aspects of that response. But before I close, I want to mention one final important way we are working to protect and promote the public health, both in the current COVID era, and in the future, and it’s one that you can play a role in. It relates to the confidence the public has in the FDA and our review process. Ensuring this confidence is essential for any product we authorize or approve, but particularly so in the context of a national vaccination campaign for COVID-19. The development of vaccines and therapeutics to prevent and treat COVID-19 holds the promise to alter the course of this pandemic. People need to have full trust in the FDA’s review process and take the vaccine when it is available. They need to understand that the FDA applies the best science and most rigorous review of the data to support the most well-informed decisions. I look forward to working with all of you to disseminate this understanding. In this way, we can move ever faster to the resolution of the current public health emergency and a return to a more normal, safer, and healthier daily life. Thank you.",
-      "link": "http://www.fda.gov/news-events/speeches-fda-officials/remarks-fda-chief-scientist-denise-hinton-professional-services-council-fedhealth-conference",
-      "source": "FDA Vaccines / Biologics",
-      "source_type": "official",
-      "source_tier": "Tier 1",
-      "source_priority": 9,
-      "published_at": "2026-04-07T15:36:02+00:00",
+      "id": "bcd651bb77d43fc6",
+      "title": "早期のHPVワクチン接種はワクチンへの躊躇を増加させないことを研究が示唆 - CIDRAP",
+      "summary": "早期のHPVワクチン接種はワクチンへの躊躇を増加させない、研究はCIDRAPを示唆",
+      "summary_ai": "早期のHPVワクチン接種はワクチンへの躊躇を増加させない、研究はCIDRAPを示唆",
+      "title_original": "Earlier-life HPV vaccination doesn’t increase vaccine hesitancy, study suggests - CIDRAP",
+      "summary_original": "Earlier-life HPV vaccination doesn’t increase vaccine hesitancy, study suggests CIDRAP",
+      "summary_ai_original": "Earlier-life HPV vaccination doesn’t increase vaccine hesitancy, study suggests CIDRAP",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUS0wc1JsZFIxcEhBaEM4MGhEeENDT01UYzNFMDZ4RFVxdE1qNEpCdFYwcWRMY25tb2ZtVjE3YjNSY1BoSnc0X2ZGaVRJMmRQNHQzNTBJOXpPZXprYWZCcHhyNS1tRXo1UFpaOGRvYkRXZVVQbmNsSHVOR2R1bzBzY0lOUmIwR1hQSW5vR0Z3WTVKWVFIYnFxbDBnVkRBcjN5VjIwcExmZ0RYaFBrbWlTVE1Kd05EUzVyX2tfYlpB?oc=5",
+      "source": "CIDRAP Vaccines & Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 8,
+      "published_at": "2026-04-07T19:48:12+00:00",
       "topics": [
         "communication",
-        "policy",
         "research"
       ],
       "policy_tags": [
-        "approval",
-        "communication",
-        "outbreak_response",
-        "recommendation",
-        "safety"
+        "communication"
       ],
-      "vaccines": [
-        "covid"
-      ],
+      "vaccines": [],
       "variants": [],
       "target_country": "不明",
       "source_location": {
@@ -780,7 +911,7 @@
         "lat": 38.9072,
         "lng": -77.0369,
         "region": "North America",
-        "label": "FDA / Silver Spring"
+        "label": "CIDRAP / Minnesota"
       },
       "plot": {
         "source": {
@@ -789,7 +920,7 @@
           "lat": 38.9072,
           "lng": -77.0369,
           "region": "North America",
-          "label": "FDA / Silver Spring"
+          "label": "CIDRAP / Minnesota"
         },
         "target": {
           "key": "unknown",
@@ -814,78 +945,7 @@
       "lng": 0.0,
       "duplicate_count": 1,
       "duplicate_sources": [
-        "FDA Vaccines / Biologics"
-      ]
-    },
-    {
-      "id": "aae6efcd2bacabc3",
-      "title": "ワクチンおよび関連生物由来製品諮問委員会 2026 年 3 月 12 日会議のお知らせ - 03/12/2026",
-      "summary": "2026年3月12日、委員会は公開セッションで会合し、2026年から2027年のインフルエンザシーズン中に米国で使用されるインフルエンザウイルスワクチンの株組成について議論し、勧告を行う予定です。",
-      "summary_ai": "すべての会議参加者は、オンライン電話会議および/またはビデオ会議プラットフォームを通じてこの諮問委員会会議に参加することにご注意ください。 FDA が会議前に背景資料を Web サイトに掲載できない場合、背景資料は",
-      "title_original": "Vaccines and Related Biological Products Advisory Committee March 12, 2026 Meeting Announcement - 03/12/2026",
-      "summary_original": "On March 12, 2026, the Committee will meet in open session to discuss and make recommendations on the strain composition of influenza virus vaccines for use in United States during the 2026-2027 influenza season.",
-      "summary_ai_original": "Please note that all meeting participants will be joining this advisory committee meeting through an online teleconferencing and/or video conferencing platform. If FDA is unable to post the background material on its website prior to the meeting, the background material will be m",
-      "article_text_original": "- Date: - March 12, 2026 - Time: - 9:00 a.m. - 3:30 p.m. ET What is an advisory committee? Advisory committees provide independent expert advice to the FDA on broad scientific topics or on certain products to help the agency make sound decisions based on the available science. Advisory committees make non-binding recommendations to the FDA, which generally follows the recommendations but is not legally bound to do so. Please see, \"Advisory Committees Give FDA Critical Advice and the Public a Voice,\" for more information. Please note that all meeting participants will be joining this advisory committee meeting through an online teleconferencing and/or video conferencing platform. How to Attend CBER plans to provide a free of charge live webcast of the Vaccines and Related Biological Products Advisory Committee Meeting. If there are instances where the webcast transmission is not successful, staff will work to re-establish the transmission as soon as possible. Agenda The meeting presentations will be heard, viewed, captioned, and recorded through an online teleconferencing and/or video conferencing platform. On March 12, 2026, the Committee will meet in open session to discuss and make recommendations on the strain composition of influenza virus vaccines for use in United States during the 2026-2027 influenza season. Meeting Materials FDA intends to make background material available to the public no later than 2 business days before the meeting. If FDA is unable to post the background material on its website prior to the meeting, the background material will be made publicly available at the time of the advisory committee meeting, and the background material will be posted on FDA’s website after the meeting. Background material is available at the Advisory Committee Calendar. Scroll down to the appropriate advisory committee meeting link. The meeting will include slide presentations with audio components to allow the presentation of materials in a manner that most closely resembles an in-person advisory committee meeting. Public Participation Information Interested persons may present data, information, or views, orally or in writing, on issues pending before the committee. Oral presentations from the public will be scheduled between approximately 9:30 a.m. and 10:30 a.m. Eastern Time on March 12, 2026. FDA is establishing a docket for public comment on this meeting. The docket number is FDA-2026-N-0826. The docket will close on March 11, 2026. Submit either electronic or written comments on this public meeting on or before March 11, 2026. Please note that late, untimely filed comments will not be considered. Electronic comments must be submitted on or before March 11, 2026. The https://www.regulations.gov electronic filing system will accept comments until 11:59 p.m. Eastern Time at the end of March 11, 2026. Comments received by mail/hand delivery/courier (for written/paper submissions) will be considered timely if they are received on or before that date. Comments received on or before March 3, 2026, will be provided to the committee. Comments received after that date and on March 11, 2026, will be taken into consideration by FDA. In the event that the meeting is canceled, FDA will continue to evaluate any relevant applications or information, and consider any comments submitted to the docket, as appropriate. You may submit comments as follows: Electronic Submissions Submit electronic comments as follows: - Federal eRulemaking Portal: https://www.regulations.gov. Follow the instructions for submitting comments. Comments submitted electronically, including attachments, to https://www.regulations.gov will be posted to the docket unchanged. Because your comment will be made public, you are solely responsible for ensuring that your comment does not include any confidential information that you or a third party may not wish to be posted, such as medical information, your or anyone else’s Social Security number, or confidential business information, such as a manufacturing process. Please note that if you include your name, contact information, or other information that identifies you in the body of your comments, that information will be posted on https://www.regulations.gov. - If you want to submit a comment with confidential information that you do not wish to be made available to the public, submit the comment as a written/paper submission and in the manner detailed (see “Written/Paper Submissions” and “Instructions”). Written/Paper Submissions Submit written/paper submissions as follows: - Mail/Hand delivery/Courier (for written/paper submissions): Dockets Management Staff (HFA-305), Food and Drug Administration, 5630 Fishers Lane, Rm. 1061, Rockville, MD 20852. - For written/paper comments submitted to the Dockets Management Staff, FDA will post your comment, as well as any attachments, except for information submitted, marked and identified, as confidential, if submitted as detailed in “Instructions.” Instructions: All submissions received must include the Docket No. FDA-2026-N-0826 for “Vaccines and Related Biological Products Advisory Committee; Notice of Meeting; Establishment of a Public Docket; Request for Comments – United States (U.S.) 2026-2027 Influenza Vaccine Strain Composition”. Received comments, those filed in a timely manner (see ADDRESSES), will be placed in the docket and, except for those submitted as “Confidential Submissions,” publicly viewable at https://www.regulations.gov or at the Dockets Management Staff between 9 a.m. and 4 p.m., Monday through Friday, 240-402-7500. Confidential Submissions: To submit a comment with confidential information that you do not wish to be made publicly available, submit your comments only as a written/paper submission. You should submit two copies total. One copy will include the information you claim to be confidential with a heading or cover note that states “THIS DOCUMENT CONTAINS CONFIDENTIAL INFORMATION.” FDA will review this copy, including the claimed confidential information, in its consideration of comments. The second copy, which will have the claimed confidential information redacted/blacked out, will be available for public viewing and posted on https://www.regulations.gov. Submit both copies to the Dockets Management Staff. If you do not wish your name and contact information be made publicly available, you can provide this information on the cover sheet and not in the body of your comments and you must identify the information as “confidential.” Any information marked as “confidential” will not be disclosed except in accordance with 21 CFR 10.20 and other applicable disclosure law. For more information about FDA’s posting of comments to public dockets, see 80 FR 56469, September 18, 2015, or access the information at: https://www.govinfo.gov/content/pkg/FR-2015-09-18/pdf/2015-23389.pdf. Docket: For access to the docket to read background documents or the electronic and written/paper comments received, go to https://www.regulations.gov and insert the docket number, found in brackets in the heading of this document, into the “Search” box and follow the prompts and/or go to the Dockets Management Staff, 5630 Fishers Lane, Rm. 1061, Rockville, MD 20852, 240-402-7500. FOR FURTHER INFORMATION, CONTACT: Cicely Reese; Center for Biologics Evaluation and Research, Food and Drug Administration, 10903 New Hampshire Ave., Bldg. 71, Rm. 1232, Silver Spring, MD 20993-0002, 301-796-9025, email: CBERVRBPAC@fda.hhs.gov, or FDA Advisory Committee Information Line, 1-800-741-8138 (301-443-0572 in the Washington, DC area). Oral Presentations Oral presentations from the public will be scheduled between approximately 9:30 a.m. and 10:30 a.m. Eastern Time on March 12, 2026. Those individuals interested in making formal oral presentations should notify the contact person and submit a brief statement of the general nature of the evidence or arguments they wish to present, the names and addresses of proposed participants, and an indication of the approximate time requested to make their presentation on or before 12 p.m. Eastern Time on March 2, 2026. Time allotted for each presentation may be limited. If the number of registrants requesting to speak is greater than can be reasonably accommodated during the scheduled open public hearing session, FDA may conduct a lottery to determine the speakers for the scheduled open public hearing session. The contact person will notify interested persons regarding their request to speak by 6 p.m. Eastern Time on March 4, 2026. Webcast Information CBER plans to provide a free of charge live webcast of the Vaccines and Related Biological Products Advisory Committee meeting: The online web conference meeting will be available at the following link: If there are instances where the webcast transmission is not successful, staff will work to re-establish the transmission as soon as possible. Contact Information - Cicely Reese: CBERVRBPAC@fda.hhs.gov - FDA Advisory Committee Information Line: 1-800-741-8138 (301-443-0572 in the Washington, DC area). Please call the Information Line for up-to-date information on this meeting. - For press inquiries, please contact the HHS Press Room at www.hhs.gov/press-room/index.html or 202-690-6343. A notice in the Federal Register about last minute modifications that impact a previously announced advisory committee meeting cannot always be published quickly enough to provide timely notice. Therefore, you should always check the agency’s website or call the committee’s Designated Federal Officer (see Contact Information) to learn about possible modifications before coming to the meeting. Persons attending FDA’s advisory committee meetings are advised that the agency is not responsible for providing access to electrical outlets. FDA welcomes the attendance of the public at its advisory committee meetings and will make every effort to accommodate persons with disabilities. If you require accommodations due to a disability, please contact the committee’s Designated Federal Officer (see Contact Information) at least 7 days in advance of the meeting. Answers to commonly asked questions including information regarding special accommodations due to a disability may be accessed at: Common Questions and Answers about FDA Advisory Committee Meetings. FDA is committed to the orderly conduct of its advisory committee meetings. Please visit our Web site at Public Conduct During FDA Advisory Committee Meetings for procedures on public conduct during advisory committee meetings. Notice of this meeting is given under the Federal Advisory Committee Act (5 U.S.C. app.2).",
-      "link": "http://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-march-12-2026-meeting-announcement",
-      "source": "FDA Vaccines / Biologics",
-      "source_type": "official",
-      "source_tier": "Tier 1",
-      "source_priority": 9,
-      "published_at": "2026-04-07T15:00:42+00:00",
-      "topics": [
-        "policy",
-        "research"
-      ],
-      "policy_tags": [
-        "recommendation",
-        "schedule"
-      ],
-      "vaccines": [
-        "influenza"
-      ],
-      "variants": [],
-      "target_country": "米国",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "FDA / Silver Spring"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "FDA / Silver Spring"
-        },
-        "target": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "米国"
-        }
-      },
-      "location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "米国"
-      },
-      "region": "North America",
-      "country": "米国",
-      "lat": 38.9072,
-      "lng": -77.0369,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "FDA Vaccines / Biologics"
+        "CIDRAP Vaccines & Immunization"
       ]
     },
     {
@@ -1092,73 +1152,6 @@
       ]
     },
     {
-      "id": "b3be7153aee6a9da",
-      "title": "バングラデシュ、麻疹流行拡大を受けて緊急ワクチン接種キャンペーンを開始 - ロイター",
-      "summary": "バングラデシュ、麻疹流行拡大で緊急ワクチン接種キャンペーン開​​始 ロイター",
-      "summary_ai": "バングラデシュ、麻疹流行拡大で緊急ワクチン接種キャンペーン開​​始 ロイター",
-      "title_original": "Bangladesh launches emergency vaccination campaign as measles outbreak spreads - Reuters",
-      "summary_original": "Bangladesh launches emergency vaccination campaign as measles outbreak spreads Reuters",
-      "summary_ai_original": "Bangladesh launches emergency vaccination campaign as measles outbreak spreads Reuters",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSFhGcUV4bHVVV203UmZscTh4TlNkaXVGeFd4RzZ3cmgyLTVMckdRcmdyNXpkdEtpZXlUVzRyeHFtODBNVi1INncwNG4zLTU1cmRNOF9RM0txWFRWdXpBMzNwMW5BY2xWZndNQ3F0OGo3cmZYTkU1TVlrV1J1VWh2VTNQNjRyMjZSTFVSdHlKcUlrUW95U2p6TGFvQkRBVkFkTEF5VjVDZ1A3RDZUQzRqdVhhaEQyTDlZSTFNUl9jU2hDOE9KRVRXNVRGVDdrZXpQNEFuZHFhMC1JWi1VSUZsYg?oc=5",
-      "source": "Reuters Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-04-05T16:06:52+00:00",
-      "topics": [
-        "communication"
-      ],
-      "policy_tags": [
-        "outbreak_response"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "バングラデシュ",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "Reuters"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "Reuters"
-        },
-        "target": {
-          "key": "bangladesh",
-          "name_ja": "バングラデシュ",
-          "lat": 23.8103,
-          "lng": 90.4125,
-          "region": "Asia",
-          "label": "バングラデシュ"
-        }
-      },
-      "location": {
-        "key": "bangladesh",
-        "name_ja": "バングラデシュ",
-        "lat": 23.8103,
-        "lng": 90.4125,
-        "region": "Asia",
-        "label": "バングラデシュ"
-      },
-      "region": "Asia",
-      "country": "バングラデシュ",
-      "lat": 23.8103,
-      "lng": 90.4125,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Reuters Vaccines / Immunization"
-      ]
-    },
-    {
       "id": "0259f8558be912d7",
       "title": "高齢者の新型コロナウイルス感染症入院に対する2024/25シーズン終了時のKP.2ワクチンの有効性 - medRxiv",
       "summary": "2024/25シーズン終了時の高齢者の新型コロナウイルス感染症入院に対するKP.2ワクチンの有効性 medRxiv",
@@ -1291,73 +1284,6 @@
       ]
     },
     {
-      "id": "845b4c824b3e3cb2",
-      "title": "H.H.S.ワクチン諮問委員会の復活に向けて第一歩を踏み出す - ニューヨーク・タイムズ",
-      "summary": "H.H.S.ワクチン諮問委員会の復活に向けて第一歩を踏み出す ニューヨーク・タイムズ",
-      "summary_ai": "ワクチン諮問委員会の復活に向けて第一歩を踏み出す ニューヨーク・タイムズ",
-      "title_original": "H.H.S. Takes a First Step Toward Restoring Vaccine Advisory Committee - The New York Times",
-      "summary_original": "H.H.S. Takes a First Step Toward Restoring Vaccine Advisory Committee The New York Times",
-      "summary_ai_original": "Takes a First Step Toward Restoring Vaccine Advisory Committee The New York Times",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQODl4WHNNWk1HR3F1M3pFZ1VUY0FLaEl0dm5qRkpiNzAyU2s3dGJFSUxfQlpDNEZlVElodzVPUXB0OVdJNHNpd3N5VEEwc0NQN3FERmY2U01fY2RDLXQ3R1U5VFpMZk1ma01sRlVOX3VGSjFrTTZKVm1hYmxIUDRZYXh3?oc=5",
-      "source": "New York Times Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-04-03T19:17:50+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [
-        "recommendation"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "New York Times"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "New York Times"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "New York Times Vaccines / Immunization"
-      ]
-    },
-    {
       "id": "e6a841a6e482c36e",
       "title": "症候性 SARS-CoV-2 感染症に対する BNT162b2 および mRNA-1273 covid-19 ワクチンの有効性 - The BMJ",
       "summary": "症候性 SARS-CoV-2 感染症に対する BNT162b2 および mRNA-1273 covid-19 ワクチンの有効性",
@@ -1425,6 +1351,73 @@
       ]
     },
     {
+      "id": "845b4c824b3e3cb2",
+      "title": "H.H.S.ワクチン諮問委員会の復活に向けて第一歩を踏み出す - ニューヨーク・タイムズ",
+      "summary": "H.H.S.ワクチン諮問委員会の復活に向けて第一歩を踏み出す ニューヨーク・タイムズ",
+      "summary_ai": "ワクチン諮問委員会の復活に向けて第一歩を踏み出す ニューヨーク・タイムズ",
+      "title_original": "H.H.S. Takes a First Step Toward Restoring Vaccine Advisory Committee - The New York Times",
+      "summary_original": "H.H.S. Takes a First Step Toward Restoring Vaccine Advisory Committee The New York Times",
+      "summary_ai_original": "Takes a First Step Toward Restoring Vaccine Advisory Committee The New York Times",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQODl4WHNNWk1HR3F1M3pFZ1VUY0FLaEl0dm5qRkpiNzAyU2s3dGJFSUxfQlpDNEZlVElodzVPUXB0OVdJNHNpd3N5VEEwc0NQN3FERmY2U01fY2RDLXQ3R1U5VFpMZk1ma01sRlVOX3VGSjFrTTZKVm1hYmxIUDRZYXh3?oc=5",
+      "source": "New York Times Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-04-03T07:00:00+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [
+        "recommendation"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "New York Times"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "New York Times"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "New York Times Vaccines / Immunization"
+      ]
+    },
+    {
       "id": "ecda92e577088541",
       "title": "紛争の影響を受けたダルフールへの国境を越えたワクチン供給: チャドを通じた人道的ライフライン - 導入事例 - medRxiv",
       "summary": "紛争の影響を受けたダルフールへの国境を越えたワクチン供給: チャドを通じた人道的ライフライン - 導入事例 medRxiv",
@@ -1487,73 +1480,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "medRxiv vaccines"
-      ]
-    },
-    {
-      "id": "981da869c0655230",
-      "title": "６５歳定期接種の肺炎球菌ワクチンが新タイプに切り替え 柳沢慎吾さんが啓発アンバサダー - 読売新聞オンライン",
-      "summary": "６５歳定期接種の肺炎球菌ワクチンが新タイプに切り替え 柳沢慎吾さんが啓発アンバサダー 読売新聞オンライン",
-      "summary_ai": "６５歳定期接種の肺炎球菌ワクチンが新タイプに切り替え 柳沢慎吾さんが啓発アンバサダー 読売新聞オンライン",
-      "title_original": "６５歳定期接種の肺炎球菌ワクチンが新タイプに切り替え 柳沢慎吾さんが啓発アンバサダー - 読売新聞オンライン",
-      "summary_original": "６５歳定期接種の肺炎球菌ワクチンが新タイプに切り替え 柳沢慎吾さんが啓発アンバサダー 読売新聞オンライン",
-      "summary_ai_original": "６５歳定期接種の肺炎球菌ワクチンが新タイプに切り替え 柳沢慎吾さんが啓発アンバサダー 読売新聞オンライン",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBzeG90NGt6bmhETnFIOXNEcmpsRHhqeFlGSE4tcG9rQkNoU1ptOFU4a1NNcVk4Z05iaG9xSTg1akhuaTY5RFBIZlJ1UXlSczhoc0s1ZXlUWDhjQUo1aVh3SnVXNy1RdDhQbHZYempB?oc=5",
-      "source": "読売新聞 ワクチン / 予防接種",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-04-02T20:00:30+00:00",
-      "topics": [
-        "communication"
-      ],
-      "policy_tags": [
-        "communication"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "japan",
-        "name_ja": "日本",
-        "lat": 35.6762,
-        "lng": 139.6503,
-        "region": "Asia",
-        "label": "読売新聞"
-      },
-      "plot": {
-        "source": {
-          "key": "japan",
-          "name_ja": "日本",
-          "lat": 35.6762,
-          "lng": 139.6503,
-          "region": "Asia",
-          "label": "読売新聞"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "読売新聞 ワクチン / 予防接種"
       ]
     },
     {
@@ -1624,71 +1550,6 @@
       ]
     },
     {
-      "id": "0793120b52ec1a7d",
-      "title": "自由という観点からワクチンを説明すると、躊躇する一部の高齢者が新型コロナウイルスワクチン接種を受け入れるようになる可能性があることが研究で判明 - CIDRAP",
-      "summary": "自由という観点からワクチンを説明すると、躊躇する一部の高齢者が新型コロナウイルスのワクチン接種を受け入れるようになる可能性があることがCIDRAPの研究で判明",
-      "summary_ai": "自由という観点からワクチンを説明すると、躊躇する一部の高齢者が新型コロナウイルスのワクチン接種を受け入れるようになる可能性があることがCIDRAPの研究で判明",
-      "title_original": "Describing vaccines in terms of freedom can lead some hesitant older adults to accept COVID shots, study finds - CIDRAP",
-      "summary_original": "Describing vaccines in terms of freedom can lead some hesitant older adults to accept COVID shots, study finds CIDRAP",
-      "summary_ai_original": "Describing vaccines in terms of freedom can lead some hesitant older adults to accept COVID shots, study finds CIDRAP",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNGpNZ3FVUVMwbGxsQlEza3RFX0ZNYmQ1QUlkWDRreW4tdlBrLW5wTzFQdFpqa2ZpU3hrdHRVUzJaWGVLTUlabzZnRnpHRW85Z3JmUi03SllkdmRnOTNoTndYaFVFMTNDLUlHYWlPdE5JanNFYXZ3eU1rQmhxUmpqaHc1R19HQWhaeDJadlFMZ2QtTWpYTllHdHJ0dGgzSVlVRVhlRVd5QkhWc2RQNEdlNjBKWlZXV3lRd3QtZ0cxUTBzSms0?oc=5",
-      "source": "CIDRAP Vaccines & Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 8,
-      "published_at": "2026-04-02T17:03:03+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "CIDRAP / Minnesota"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "CIDRAP / Minnesota"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "CIDRAP Vaccines & Immunization"
-      ]
-    },
-    {
       "id": "3bee37488b7709ba",
       "title": "シンガポールのワクチン接種頻度の高いおよびまれな若年成人における高用量の組換えインフルエンザワクチンと標準用量の卵培養および細胞培養ワクチンの免疫原性：無作為化、対照、二重盲検、単施設、第4相臨床試験 - ランセット",
       "summary": "シンガポールのワクチン接種頻度の高いおよびまれな若年成人における高用量の組換えインフルエンザワクチンと標準用量の卵培養および細胞培養ワクチンの免疫原性：無作為化、対照、二重盲検、単施設、第4相臨床試験 The Lancet",
@@ -1753,6 +1614,71 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "Lancet Infectious Diseases"
+      ]
+    },
+    {
+      "id": "0793120b52ec1a7d",
+      "title": "自由という観点からワクチンを説明すると、躊躇する一部の高齢者が新型コロナウイルスワクチン接種を受け入れるようになる可能性があることが研究で判明 - CIDRAP",
+      "summary": "自由という観点からワクチンを説明すると、躊躇する一部の高齢者が新型コロナウイルスのワクチン接種を受け入れるようになる可能性があることがCIDRAPの研究で判明",
+      "summary_ai": "自由という観点からワクチンを説明すると、躊躇する一部の高齢者が新型コロナウイルスのワクチン接種を受け入れるようになる可能性があることがCIDRAPの研究で判明",
+      "title_original": "Describing vaccines in terms of freedom can lead some hesitant older adults to accept COVID shots, study finds - CIDRAP",
+      "summary_original": "Describing vaccines in terms of freedom can lead some hesitant older adults to accept COVID shots, study finds CIDRAP",
+      "summary_ai_original": "Describing vaccines in terms of freedom can lead some hesitant older adults to accept COVID shots, study finds CIDRAP",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNGpNZ3FVUVMwbGxsQlEza3RFX0ZNYmQ1QUlkWDRreW4tdlBrLW5wTzFQdFpqa2ZpU3hrdHRVUzJaWGVLTUlabzZnRnpHRW85Z3JmUi03SllkdmRnOTNoTndYaFVFMTNDLUlHYWlPdE5JanNFYXZ3eU1rQmhxUmpqaHc1R19HQWhaeDJadlFMZ2QtTWpYTllHdHJ0dGgzSVlVRVhlRVd5QkhWc2RQNEdlNjBKWlZXV3lRd3QtZ0cxUTBzSms0?oc=5",
+      "source": "CIDRAP Vaccines & Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 8,
+      "published_at": "2026-04-02T07:00:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "CIDRAP / Minnesota"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "CIDRAP / Minnesota"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "CIDRAP Vaccines & Immunization"
       ]
     },
     {
@@ -2153,136 +2079,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "The Lancet series"
-      ]
-    },
-    {
-      "id": "5989289f53308ee6",
-      "title": "英国における妊婦および乳児および幼児の母親の間での母体性呼吸器合胞体ウイルス (RSV) ワクチンに対する認識: 定性的研究 - medRxiv",
-      "summary": "英国における妊婦と乳児および幼児の母親の間での母体性呼吸器合胞体ウイルス（RSV）ワクチンに対する認識：定性的研究 medRxiv",
-      "summary_ai": "英国における妊婦と乳児および幼児の母親の間での母体性呼吸器合胞体ウイルス（RSV）ワクチンに対する認識：定性的研究 medRxiv",
-      "title_original": "Maternal respiratory syncytial virus (RSV) vaccine perceptions amongst pregnant women and mothers of infants and toddlers in England: a qualitative study - medRxiv",
-      "summary_original": "Maternal respiratory syncytial virus (RSV) vaccine perceptions amongst pregnant women and mothers of infants and toddlers in England: a qualitative study medRxiv",
-      "summary_ai_original": "Maternal respiratory syncytial virus (RSV) vaccine perceptions amongst pregnant women and mothers of infants and toddlers in England: a qualitative study medRxiv",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9UUS1adFJhbzdqcXBVZTJtejNfcXllWTE5SkIwdUI1RkgwY3QzS3VfbjlTZlhJWDE2bXBSWEZqWEp5Q2s0RklVMVIzT2lOWmNBeUdjRzBoSE5uazV1SzNILVgtY1VQZnJrZ2tkVE51ZXFiMTVHbVJ1ZU5Xd3E?oc=5",
-      "source": "medRxiv vaccines",
-      "source_type": "preprint",
-      "source_tier": "Tier 3",
-      "source_priority": 7,
-      "published_at": "2026-03-30T07:00:00+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "medRxiv"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "medRxiv"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "medRxiv vaccines"
-      ]
-    },
-    {
-      "id": "67cd4e618e65d2ce",
-      "title": "ネパールにおける新型コロナウイルス感染症（COVID-19）ワクチンの有効性と変異種：試験のための研究プロトコル - BMJ Open",
-      "summary": "ネパールにおける新型コロナウイルス感染症（COVID-19）ワクチンの有効性と変異種：試験のための研究プロトコル BMJ Open",
-      "summary_ai": "ネパールにおける新型コロナウイルス感染症（COVID-19）ワクチンの有効性と変異種：試験のための研究プロトコル BMJ Open",
-      "title_original": "COVID- 19 vaccine effectiveness and variants in Nepal: study protocol for a test - BMJ Open",
-      "summary_original": "COVID- 19 vaccine effectiveness and variants in Nepal: study protocol for a test BMJ Open",
-      "summary_ai_original": "COVID- 19 vaccine effectiveness and variants in Nepal: study protocol for a test BMJ Open",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBLVXRDVXJScnJTVGd1ZmZ0U29yRkZpeXdWZENaTkljdFdBR1p2ZXh5TS1ac3BaMTBpTXNoQ2tBdzdHT3JJcTdRWl9LbEw1eC1EbGl5NWR1UnE0WC1CRnh4TFVLMzlaUUJSbnJSSkV3?oc=5",
-      "source": "BMJ",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-03-30T05:02:37+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "ネパール",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BMJ / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BMJ / London"
-        },
-        "target": {
-          "key": "nepal",
-          "name_ja": "ネパール",
-          "lat": 27.7172,
-          "lng": 85.324,
-          "region": "Asia",
-          "label": "ネパール"
-        }
-      },
-      "location": {
-        "key": "nepal",
-        "name_ja": "ネパール",
-        "lat": 27.7172,
-        "lng": 85.324,
-        "region": "Asia",
-        "label": "ネパール"
-      },
-      "region": "Asia",
-      "country": "ネパール",
-      "lat": 27.7172,
-      "lng": 85.324,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "BMJ"
       ]
     }
   ]
