@@ -1,9 +1,9 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-04-13T21:58:46.726803+00:00",
-  "item_count": 27,
-  "archive_count": 120,
+  "generated_at": "2026-04-14T22:01:32.021925+00:00",
+  "item_count": 30,
+  "archive_count": 124,
   "days_back": 14,
   "plot_mode_default": "source",
   "feed_status": [
@@ -23,7 +23,7 @@
       "name": "CDC Newsroom",
       "url": "https://tools.cdc.gov/api/v2/resources/media/316422.rss",
       "status": "ok",
-      "seen": 5,
+      "seen": 6,
       "kept": 0
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/biologics/rss.xml",
       "status": "ok",
       "seen": 20,
-      "kept": 2
+      "kept": 4
     },
     {
       "name": "EMA News",
@@ -82,8 +82,8 @@
       "name": "PAHO News",
       "url": "https://www.paho.org/en/rss.xml",
       "status": "ok",
-      "seen": 6,
-      "kept": 1
+      "seen": 7,
+      "kept": 2
     },
     {
       "name": "The Lancet series",
@@ -110,8 +110,8 @@
       "name": "BMJ",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abmj.com%20(policy%20OR%20trial%20OR%20effectiveness%20OR%20communication)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 7,
-      "kept": 6
+      "seen": 11,
+      "kept": 7
     },
     {
       "name": "Vaccine journal",
@@ -131,133 +131,133 @@
       "name": "Eurosurveillance",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Aeurosurveillance.org&hl=en-US&gl=EU&ceid=EU%3Aen",
       "status": "ok",
-      "seen": 0,
-      "kept": 0
+      "seen": 1,
+      "kept": 1
     },
     {
       "name": "Human Vaccines & Immunotherapeutics",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Atandfonline.com%20%22Human%20Vaccines%20%26%20Immunotherapeutics%22&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 1,
       "kept": 0
     },
     {
       "name": "medRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Amedrxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 13,
-      "kept": 9
+      "seen": 11,
+      "kept": 7
     },
     {
       "name": "bioRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abiorxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 7,
+      "seen": 3,
       "kept": 0
     },
     {
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 27,
-      "kept": 4
+      "seen": 24,
+      "kept": 2
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 82,
+      "seen": 21,
       "kept": 1
     },
     {
       "name": "AP Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 12,
+      "seen": 9,
       "kept": 0
     },
     {
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 9,
+      "seen": 8,
       "kept": 0
     },
     {
       "name": "Financial Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aft.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 5,
+      "seen": 2,
       "kept": 1
     },
     {
       "name": "STAT Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 14,
+      "seen": 11,
       "kept": 0
     },
     {
       "name": "Nature News Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 7,
+      "seen": 4,
       "kept": 0
     },
     {
       "name": "Science Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Ascience.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 15,
+      "seen": 13,
       "kept": 0
     },
     {
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 11,
+      "seen": 12,
       "kept": 2
     },
     {
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 26,
+      "seen": 23,
       "kept": 0
     },
     {
       "name": "Washington Post Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 13,
+      "seen": 14,
       "kept": 0
     },
     {
       "name": "NHK ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anhk.or.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 23,
+      "seen": 24,
       "kept": 0
     },
     {
       "name": "朝日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Aasahi.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 17,
+      "seen": 23,
       "kept": 0
     },
     {
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 99,
+      "seen": 100,
       "kept": 0
     },
     {
@@ -269,6 +269,217 @@
     }
   ],
   "items": [
+    {
+      "id": "0f6d1eb0bd40165a",
+      "title": "CEPIとPAHOがパートナーシップを拡大し、南北アメリカ全土の規制制度とワクチンの安全性を強化",
+      "summary": "CEPIとPAHO、南北アメリカ全土で規制制度とワクチンの安全性を強化するためパートナーシップを拡大 クリスティーナ・ミッチェル 2026年4月14日",
+      "summary_ai": "私たちはこのパートナーシップを歓迎します。このパートナーシップは、地域諸国が健康上の緊急事態に直面した際に迅速に、集団的に、そして公平に行動できるよう、PAHOの取り組みを支援することになります。」新しい協定は、CEPIとPAHOの間の継続的な協力に基づいています。",
+      "title_original": "CEPI and PAHO expand partnership to strengthen regulatory systems and vaccine safety across the Americas",
+      "summary_original": "CEPI and PAHO expand partnership to strengthen regulatory systems and vaccine safety across the Americas Cristina Mitchell 14 Apr 2026",
+      "summary_ai_original": "We welcome this partnership, which will support PAHO’s work to ensure that countries in the Region are better equipped to act quickly, collectively and equitably in the face of health emergencies.” The new agreements build on ongoing collaboration between CEPI and PAHO, including",
+      "article_text_original": "The partnership will support more agile and aligned regulatory pathways, enabling countries to expedite the evaluation and approval of vaccines during outbreaks while ensuring their safety, oversight and active monitoring. Activities will include establishing convergence and reliance-based regulatory actions, identifying and addressing workforce training, and expanding collaboration among national regulatory authorities to support faster, coordinated decision-making. In parallel, strengthened pharmacovigilance systems will enhance the region’s ability to monitor vaccine safety. By improving signal detection, benefit-risk assessments, and evidence-based policy-making, these efforts will foster public trust and ensure the seamless deployment of vaccines during health emergencies. CEPI will provide up to $1 million over 12 months to support regulatory capacity strengthening, and up to $3 million over 24 months to enhance pharmacovigilance programs and strategies. The agreements build on a broader five-year Memorandum of Understanding, signed in 2024, and reflect the progressive implementation of multiple cooperation agreements under this framework, supporting the strengthening of regulatory systems in preparation for emergencies and for new vaccines developments in the Americas. Dr Richard Hatchett, Chief Executive Officer of CEPI, said: “Strong regulatory and pharmacovigilance systems are essential to enabling rapid and equitable access to vaccines during outbreaks. Through our partnership with PAHO, CEPI is supporting countries across the Americas to strengthen these critical capabilities — helping to ensure vaccines can be developed, assessed, delivered and safely managed at speed when they are needed most.” Dr. Jarbas Barbosa, Director of the Pan American Health Organization (PAHO), said: “The COVID‑19 pandemic demonstrated that regional health security depends on strong regulatory frameworks and timely local manufacturing. We welcome this partnership, which will support PAHO’s work to ensure that countries in the Region are better equipped to act quickly, collectively and equitably in the face of health emergencies.” The new agreements build on ongoing collaboration between CEPI and PAHO, including a $458,000 agreement signed in November 2025 to support AI-enabled clinical intelligence platform development and clinical trials capacity. Both organizations work closely in CEPI’s Global South Leaders in Epidemic Analytics and Response Network (GS LEARN), a multi‑regional network that aims to strengthen epidemic and pandemic analytics leadership within Global South institutions to enable locally led, evidence‑based decision‑making for outbreak preparedness and response. The partnership also supports the execution of PAHO’s 2026-2031 strategic plan and is aligned with CEPI’s 100 Days Mission—a goal to accelerate the development of safe and effective vaccines in response to a pandemic threat to within 100 days. Notes to Editors About CEPI CEPI is an innovative partnership between public, private, philanthropic and civil organisations. Its mission is to accelerate the development of vaccines and other biologic countermeasures against epidemic and pandemic threats so they can be accessible to all people in need. Central to CEPI’s pandemic-beating plan is the ‘100 Days Mission’ – its goal to develop safe, effective and accessible vaccines against new threats in just 100 days. CEPI is seeking $2.5 billion to execute CEPI 3.0, its 2027-2031 strategy, which will systematically reduce the likelihood, impact and cost of epidemics and pandemics by driving the 100 Days Mission towards an operational reality. Learn more at CEPI.net. About PAHO The Pan American Health Organization (PAHO) works with the countries of the Americas to improve the health and quality of life of its population. Founded in 1902, it is the world’s oldest international public health agency. It serves as the Regional Office of WHO for the Americas and is the specialized health agency of the Inter-American system (OAS). www.paho.org Contact CEPI: E: press@CEPI.net P: +447387055214 PAHO mediateam@paho.org",
+      "link": "https://www.paho.org/en/news/14-4-2026-cepi-and-paho-expand-partnership-strengthen-regulatory-systems-and-vaccine-safety",
+      "source": "PAHO News",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 8,
+      "published_at": "2026-04-14T14:03:06+00:00",
+      "topics": [
+        "policy",
+        "research"
+      ],
+      "policy_tags": [
+        "approval",
+        "outbreak_response",
+        "safety"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "PAHO / Washington DC"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "PAHO / Washington DC"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "PAHO News"
+      ]
+    },
+    {
+      "id": "53b5bc8cf3b97287",
+      "title": "FDA、遺伝子治療開発促進のためゲノム編集安全基準に関するガイダンス草案を発行",
+      "summary": "米国食品医薬品局は本日、ゲノム編集技術を含むヒト遺伝子治療製品の承認を求めるスポンサー向けのガイドライン草案を発表した。",
+      "summary_ai": "「次世代シーケンシングを使用したヒト遺伝子治療製品におけるゲノム編集の安全性評価」ガイダンスでは、シーケンシング戦略、サンプル選択、分析パラメーター、およびレポートに関する具体的な推奨事項が提供されています。ガイダンス草案は同庁の1月のガイダンスに基づいている",
+      "title_original": "FDA Issues Draft Guidance on Genome Editing Safety Standards to Advance Gene Therapy Development",
+      "summary_original": "The U.S. Food and Drug Administration today issued a draft guidance for sponsors seeking approval of human gene therapy products involving genome editing technologies.",
+      "summary_ai_original": "The \"Safety Assessment of Genome Editing in Human Gene Therapy Products Using Next-Generation Sequencing” guidance provides specific recommendations on sequencing strategies, sample selection, analysis parameters, and reporting. The draft guidance builds upon the agency's January",
+      "article_text_original": "- For Immediate Release: The U.S. Food and Drug Administration today issued a draft guidance for sponsors seeking approval of human gene therapy products involving genome editing technologies. When finalized, this guidance will provide recommendations for standardized methods for comprehensively assessing the safety of genome editing therapies to bring effective treatments to patients sooner. “Genome editing holds extraordinary promise for treating previously incurable genetic diseases, and today’s announcement represents the FDA's forward approach to drive innovation and advance the development of genome editing therapies,” said FDA Commissioner Marty Makary, M.D., M.P.H. “This guidance provides sponsors with clear, scientifically-grounded recommendations for evaluating off-target editing risks using state-of-the-art sequencing technologies. We are serious about moving this ball forward.” The draft guidance, issued by the Center for Biologics Evaluation and Research, supports the FDA’s framework for accelerating development of individualized therapies for ultra-rare diseases launched in February. The framework revolutionizes how the FDA engages with industry and promotes a path for transformative rare disease treatments. The \"Safety Assessment of Genome Editing in Human Gene Therapy Products Using Next-Generation Sequencing” guidance provides specific recommendations on sequencing strategies, sample selection, analysis parameters, and reporting. The draft guidance builds upon the agency's January 2024 guidance on human gene therapy products incorporating genome editing and focuses specifically on the use of next-generation sequencing (NGS)-based methods to evaluate potential safety risks associated with off-target editing and loss of genome integrity. The recommendations are intended to support nonclinical studies submitted with investigational new drug (IND) applications and Biologics License Applications (BLAs). The guidance applies to both ex vivo products, where cells are edited outside the body, and in vivo products, where gene editing occurs directly in the patient's tissues. “Next-generation sequencing not only detects off-target editing and assesses chromosomal integrity; it also requires science-based recommendations for its use. We're giving sponsors a roadmap for comprehensive safety assessment while supporting the efficient development of these promising therapies,” said Chief Medical and Scientific Officer and Center for Biologics Evaluation and Research Director Vinay Prasad, M.D., M.P.H. “Our goal is to work collaboratively with the scientific community to bring safe and effective genome editing therapies to patients who need them most.\" The FDA encourages sponsors to engage early in product development, even before submitting an IND application, for example through Initial Targeted Engagement for Regulatory Advice on CBER/CDER Products (INTERACT) and pre-IND meetings, to discuss their specific development strategies. The draft guidance is available for public comment. Comments must be submitted within 90 days of publication in the Federal Register at Regulations.gov. The agency will review and consider comments received before finalizing the guidance. ### The FDA, an agency within the U.S. Department of Health and Human Services, protects the public health by assuring the safety, effectiveness, and security of human and veterinary drugs, vaccines and other biological products for human use, and medical devices. The agency also is responsible for the safety and security of our nation’s food supply, cosmetics, dietary supplements, radiation-emitting electronic products, and for regulating tobacco products.",
+      "link": "http://www.fda.gov/news-events/press-announcements/fda-issues-draft-guidance-genome-editing-safety-standards-advance-gene-therapy-development",
+      "source": "FDA Vaccines / Biologics",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 9,
+      "published_at": "2026-04-14T13:00:05+00:00",
+      "topics": [
+        "policy",
+        "research"
+      ],
+      "policy_tags": [
+        "approval",
+        "recommendation",
+        "safety"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "FDA / Silver Spring"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "FDA / Silver Spring"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "FDA Vaccines / Biologics"
+      ]
+    },
+    {
+      "id": "f30c82399d52e7b1",
+      "title": "細胞および遺伝子治療のガイダンス",
+      "summary": "このページには、細胞療法および遺伝子療法のガイダンスのリストが含まれています。",
+      "summary_ai": "- 次世代シーケンスを使用したヒト遺伝子治療製品におけるゲノム編集の安全性評価。 Industry 4/2026 向けのドラフト ガイダンス - 特定の遺伝子疾患を対象とした個別の治療法を開発するための妥当なメカニズム フレームワークの使用に関する考慮事項",
+      "title_original": "Cellular & Gene Therapy Guidances",
+      "summary_original": "This page contains a listing of cellular and gene therapy guidances.",
+      "summary_ai_original": "- Safety Assessment of Genome Editing in Human Gene Therapy Products Using Next-Generation Sequencing; Draft Guidance for Industry 4/2026 - Considerations for the use of the Plausible Mechanism Framework to Develop Individualized Therapies that Target Specific Genetic Conditions ",
+      "article_text_original": "Should you find a link that does not work within any Guidance document, Rule or other document posted on the FDA Web site, please try searching for the document using the document title. If you need further assistance, please go to Contact FDA. - Safety Assessment of Genome Editing in Human Gene Therapy Products Using Next-Generation Sequencing; Draft Guidance for Industry 4/2026 - Considerations for the use of the Plausible Mechanism Framework to Develop Individualized Therapies that Target Specific Genetic Conditions with Known Biological Cause; Draft Guidance for Industry 2/2026 - Expedited Programs for Regenerative Medicine Therapies for Serious Conditions; Draft Guidance for Industry 9/2025 - Postapproval Methods to Capture Safety and Efficacy Data for Cell and Gene Therapy Products; Draft Guidance for Industry 9/2025 - Innovative Designs for Clinical Trials of Cellular and Gene Therapy Products in Small Populations; Draft Guidance for Industry 9/2025 - Frequently Asked Questions — Developing Potential Cellular and Gene Therapy Products; Draft Guidance for Industry 11/2024 - Safety Testing of Human Allogeneic Cells Expanded for Use in Cell-Based Medical Products; Draft Guidance for Industry 4/2024 - Considerations for the Use of Human-and Animal-Derived Materials in the Manufacture of Cell and Gene Therapy and Tissue-Engineered Medical Products; Draft Guidance for Industry 4/2024 - Human Gene Therapy Products Incorporating Human Genome Editing; Guidance for Industry 1/2024 - Considerations for the Development of Chimeric Antigen Receptor (CAR) T Cell Products; Guidance for Industry 1/2024 - Potency Assurance for Cellular and Gene Therapy Products; Draft Guidance for Industry 12/2023 For a high-level overview of this guidance document, please view this recorded webinar featuring Dr. Matthew Klinker, Cell Therapy Branch 2 Chief, Office of Cellular Therapy and Human Tissues, Office of Therapeutic Products, CBER. - Manufacturing Changes and Comparability for Human Cellular and Gene Therapy Products; Draft Guidance for Industry 7/2023 For a high-level overview of this guidance document, please view this recorded webinar featuring Dr. Andrew Byrnes, Gene Transfer & Immunogenicity Branch Chief, Office of Gene Therapy CMC, Office of Therapeutic Products, CBER. - Studying Multiple Versions of a Cellular or Gene Therapy Product in an Early-Phase Clinical Trial; Guidance for Industry 11/2022 - Human Gene Therapy for Neurodegenerative Diseases; Guidance for Industry 10/2022 - Interpreting Sameness of Gene Therapy Products Under the Orphan Drug Regulations; Guidance for Industry 9/2021 - Manufacturing Considerations for Licensed and Investigational Cellular and Gene Therapy Products During COVID-19 Public Health Emergency; Guidance for Industry 1/2021 - Chemistry, Manufacturing, and Control (CMC) Information for Human Gene Therapy Investigational New Drug Applications (INDs); Guidance for Industry 1/2020 - Long Term Follow-up After Administration of Human Gene Therapy Products; Guidance for Industry 1/2020 - Testing of Retroviral Vector-Based Human Gene Therapy Products for Replication Competent Retrovirus During Product Manufacture and Patient Follow-up; Guidance for Industry 1/2020 - Human Gene Therapy for Hemophilia; Guidance for Industry 1/2020 - Human Gene Therapy for Rare Diseases; Guidance for Industry 1/2020 - Human Gene Therapy for Retinal Disorders; Guidance for Industry 1/2020 - Evaluation of Devices Used with Regenerative Medicine Advanced Therapies; Guidance for Industry 2/2019 - Expedited Programs for Regenerative Medicine Therapies for Serious Conditions; Guidance for Industry 2/2019 - Regulatory Considerations for Human Cells, Tissues, and Cellular and Tissue-Based Products: Minimal Manipulation and Homologous Use; Guidance for Industry and Food and Drug Administration Staff Updated: 12/2017 - Same Surgical Procedure Exception under 21 CFR 1271.15(b): Questions and Answers Regarding the Scope of the Exception; Guidance for Industry 11/2017 - Deviation Reporting for Human Cells, Tissues, and Cellular and Tissue-Based Products Regulated Solely Under Section 361 of the Public Health Service Act and 21 CFR Part 1271; Guidance for Industry 9/2017 - Recommendations for Microbial Vectors Used for Gene Therapy; Guidance for Industry 9/2016 - Design and Analysis of Shedding Studies for Virus or Bacteria-Based Gene Therapy and Oncolytic Products; Guidance for Industry 8/2015 - Considerations for the Design of Early-Phase Clinical Trials of Cellular and Gene Therapy Products; Guidance for Industry 6/2015 - Determining the Need for and Content of Environmental Assessments for Gene Therapies, Vectored Vaccines, and Related Recombinant Viral or Microbial Products; Guidance for Industry 3/2015 - Guidance for Industry: BLA for Minimally Manipulated, Unrelated Allogeneic Placental/Umbilical Cord Blood Intended for Hematopoietic and Immunologic Reconstitution in Patients with Disorders Affecting the Hematopoietic System 3/2014. (This guidance finalizes the draft guidance of the same title dated June 2013.) - IND Applications for Minimally Manipulated, Unrelated Allogeneic Placental/Umbilical Cord Blood Intended for Hematopoietic and Immunologic Reconstitution in Patients with Disorders Affecting the Hematopoietic System - Guidance for Industry and FDA Staff 3/2014. (This guidance finalizes the draft guidance of the same title dated June 2013.) - Guidance for Industry: Preclinical Assessment of Investigational Cellular and Gene Therapy Products (This guidance finalizes the draft guidance entitled “Guidance for Industry: Preclinical Assessment of Investigational Cellular and Gene Therapy Products” dated November 2012) 11/2013 - Guidance for Industry: Preparation of IDEs and INDs for Products Intended to Repair or Replace Knee Cartilage 12/2011. (This guidance finalizes the draft guidance of the same title dated July 2007.) - Guidance for Industry: Clinical Considerations for Therapeutic Cancer Vaccines 10/2011. (This guidance finalizes the draft guidance of the same title dated September 2009.) - Guidance for Industry: Potency Tests for Cellular and Gene Therapy Products 1/2011. (This guidance finalizes the draft document of the same name, dated October 2008.) - Guidance for Industry: Cellular Therapy for Cardiac Disease (This guidance finalizes the draft guidance entitled “Guidance for Industry: Somatic Cell Therapy for Cardiac Disease” dated March 2009 (April 2, 2009, 74 FR 14992). 10/2010. - Guidance for Industry: Considerations for Allogeneic Pancreatic Islet Cell Products 9/2009 - Guidance for FDA Reviewers and Sponsors: Content and Review of Chemistry, Manufacturing, and Control (CMC) Information for Human Somatic Cell Therapy Investigational New Drug Applications (INDs) 4/2008 - Eligibility Determination for Donors of Human Cells, Tissues, and Cellular and Tissue-Based Products; Guidance for Industry 8/2007 - Guidance for Industry: Guidance for Human Somatic Cell Therapy and Gene Therapy 3/1998",
+      "link": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/cellular-gene-therapy-guidances",
+      "source": "FDA Vaccines / Biologics",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 9,
+      "published_at": "2026-04-14T12:52:18+00:00",
+      "topics": [
+        "policy",
+        "research"
+      ],
+      "policy_tags": [
+        "approval",
+        "outbreak_response",
+        "recommendation",
+        "safety"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "FDA / Silver Spring"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "FDA / Silver Spring"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "FDA Vaccines / Biologics"
+      ]
+    },
     {
       "id": "457293e7299d8084",
       "title": "結核ワクチン候補の第3相試験での防御効果は限定的 - CIDRAP",
@@ -614,13 +825,13 @@
       ]
     },
     {
-      "id": "9f3125246254e285",
-      "title": "重症疾患に対する新型コロナウイルスワクチンの有効性 - NEJM",
-      "summary": "重症疾患に対する新型コロナウイルスワクチンの有効性 NEJM",
-      "summary_ai": "重症疾患に対する新型コロナウイルスワクチンの有効性 NEJM",
-      "title_original": "Covid-19 Vaccine Effectiveness against Severe Disease - NEJM",
-      "summary_original": "Covid-19 Vaccine Effectiveness against Severe Disease NEJM",
-      "summary_ai_original": "Covid-19 Vaccine Effectiveness against Severe Disease NEJM",
+      "id": "20e20a315bcb209c",
+      "title": "重症疾患に対する新型コロナウイルスワクチンの有効性 - New England Journal of Medicine",
+      "summary": "重症疾患に対する新型コロナウイルスワクチンの有効性 New England Journal of Medicine",
+      "summary_ai": "重症疾患に対する新型コロナウイルスワクチンの有効性 New England Journal of Medicine",
+      "title_original": "Covid-19 Vaccine Effectiveness against Severe Disease - New England Journal of Medicine",
+      "summary_original": "Covid-19 Vaccine Effectiveness against Severe Disease New England Journal of Medicine",
+      "summary_ai_original": "Covid-19 Vaccine Effectiveness against Severe Disease New England Journal of Medicine",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB2NkYyeHZ5MERUNWZKUE1GMW1adUxYMjhqRGRUal91M2xtd0RuSldEaHpnY1dSSEc3R0RRdk8yUXZGOHdkU1h4WUlWREVwUDk3WElXTzdhRkM3b2QzQWc?oc=5",
       "source": "NEJM",
@@ -814,13 +1025,13 @@
       ]
     },
     {
-      "id": "61ee21f1c9f72d97",
-      "title": "黄熱病ワクチンである vYF の免疫原性と安全性 - 第 2 相試験 - NEJM",
-      "summary": "黄熱病ワクチンである vYF の免疫原性と安全性 - 第 2 相試験 NEJM",
-      "summary_ai": "黄熱病ワクチンである vYF の免疫原性と安全性 - 第 2 相試験 NEJM",
-      "title_original": "Immunogenicity and Safety of vYF, a Yellow Fever Vaccine — A Phase 2 Trial - NEJM",
-      "summary_original": "Immunogenicity and Safety of vYF, a Yellow Fever Vaccine — A Phase 2 Trial NEJM",
-      "summary_ai_original": "Immunogenicity and Safety of vYF, a Yellow Fever Vaccine — A Phase 2 Trial NEJM",
+      "id": "d68306877739bfe2",
+      "title": "黄熱病ワクチンである vYF の免疫原性と安全性 - 第 2 相試験 - New England Journal of Medicine",
+      "summary": "黄熱病ワクチンである vYF の免疫原性と安全性 — 第 2 相試験 New England Journal of Medicine",
+      "summary_ai": "黄熱病ワクチンである vYF の免疫原性と安全性 — 第 2 相試験 New England Journal of Medicine",
+      "title_original": "Immunogenicity and Safety of vYF, a Yellow Fever Vaccine — A Phase 2 Trial - New England Journal of Medicine",
+      "summary_original": "Immunogenicity and Safety of vYF, a Yellow Fever Vaccine — A Phase 2 Trial New England Journal of Medicine",
+      "summary_ai_original": "Immunogenicity and Safety of vYF, a Yellow Fever Vaccine — A Phase 2 Trial New England Journal of Medicine",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qU3dOX2NmVnhkSzlXNmxPdG96dFc0Tk9qa0VBR1BxOE11ZUQ4ZEhzVXhYT19ILXJxNnlIWE9YVXJZRGViUnd3cklZelNBREx0OXRyMlFUVGg0bExaNXNJ?oc=5",
       "source": "NEJM",
@@ -878,74 +1089,6 @@
       "duplicate_count": 3,
       "duplicate_sources": [
         "NEJM"
-      ]
-    },
-    {
-      "id": "bcd651bb77d43fc6",
-      "title": "早期のHPVワクチン接種はワクチンへの躊躇を増加させないことを研究が示唆 - CIDRAP",
-      "summary": "早期のHPVワクチン接種はワクチンへの躊躇を増加させない、研究はCIDRAPを示唆",
-      "summary_ai": "早期のHPVワクチン接種はワクチンへの躊躇を増加させない、研究はCIDRAPを示唆",
-      "title_original": "Earlier-life HPV vaccination doesn’t increase vaccine hesitancy, study suggests - CIDRAP",
-      "summary_original": "Earlier-life HPV vaccination doesn’t increase vaccine hesitancy, study suggests CIDRAP",
-      "summary_ai_original": "Earlier-life HPV vaccination doesn’t increase vaccine hesitancy, study suggests CIDRAP",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUS0wc1JsZFIxcEhBaEM4MGhEeENDT01UYzNFMDZ4RFVxdE1qNEpCdFYwcWRMY25tb2ZtVjE3YjNSY1BoSnc0X2ZGaVRJMmRQNHQzNTBJOXpPZXprYWZCcHhyNS1tRXo1UFpaOGRvYkRXZVVQbmNsSHVOR2R1bzBzY0lOUmIwR1hQSW5vR0Z3WTVKWVFIYnFxbDBnVkRBcjN5VjIwcExmZ0RYaFBrbWlTVE1Kd05EUzVyX2tfYlpB?oc=5",
-      "source": "CIDRAP Vaccines & Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 8,
-      "published_at": "2026-04-07T19:48:12+00:00",
-      "topics": [
-        "communication",
-        "research"
-      ],
-      "policy_tags": [
-        "communication"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "CIDRAP / Minnesota"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "CIDRAP / Minnesota"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "CIDRAP Vaccines & Immunization"
       ]
     },
     {
@@ -1284,6 +1427,73 @@
       ]
     },
     {
+      "id": "751bda81cea519d3",
+      "title": "ワクチン接種時の年齢および接種回数別の HPV ワクチンの有効性: 集団ベースの適合症例対照研究のプロトコール - BMJ Open",
+      "summary": "ワクチン接種時の年齢および接種回数別の HPV ワクチンの有効性: 集団ベースの適合症例対照研究のプロトコール BMJ Open",
+      "summary_ai": "ワクチン接種時の年齢および接種回数別の HPV ワクチンの有効性: 集団ベースの適合症例対照研究のプロトコール BMJ Open",
+      "title_original": "Effectiveness of HPV vaccine by age at vaccination and number of doses: protocol for a population- based matched case–control study - BMJ Open",
+      "summary_original": "Effectiveness of HPV vaccine by age at vaccination and number of doses: protocol for a population- based matched case–control study BMJ Open",
+      "summary_ai_original": "Effectiveness of HPV vaccine by age at vaccination and number of doses: protocol for a population- based matched case–control study BMJ Open",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83Z3M2bjBHRE8wbVZNMW9JZlhZTFBReDdCNFF2UlNLX0p2NWcycmRORzRtV2pGOHJON3MyNlNZbU5aRGpuc0I5aHpNSWVxQS1lSVlZRjNjZU92V3htNVpFNllzUWNKN1RFblhUS3F3?oc=5",
+      "source": "BMJ",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-04-04T18:46:04+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "hpv"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BMJ / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BMJ / London"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "BMJ"
+      ]
+    },
+    {
       "id": "e6a841a6e482c36e",
       "title": "症候性 SARS-CoV-2 感染症に対する BNT162b2 および mRNA-1273 covid-19 ワクチンの有効性 - The BMJ",
       "summary": "症候性 SARS-CoV-2 感染症に対する BNT162b2 および mRNA-1273 covid-19 ワクチンの有効性",
@@ -1617,6 +1827,71 @@
       ]
     },
     {
+      "id": "77a688f6a7e41402",
+      "title": "インフルエンザワクチン接種は、インフルエンザ感染後の急性心筋梗塞と脳卒中のリスクを軽減する：登録ベースの自己管理症例シリーズ研究、デンマーク、2014年から2025年 - Eurosurveillance",
+      "summary": "インフルエンザワクチン接種は、インフルエンザ感染後の急性心筋梗塞と脳卒中のリスクを軽減する：登録ベースの自己管理ケースシリーズ研究、デンマーク、2014年から2025年ユーロサーベイランス",
+      "summary_ai": "インフルエンザワクチン接種は、インフルエンザ感染後の急性心筋梗塞と脳卒中のリスクを軽減する：登録ベースの自己管理ケースシリーズ研究、デンマーク、2014年から2025年ユーロサーベイランス",
+      "title_original": "Influenza vaccination attenuates acute myocardial infarction and stroke risk following influenza infection: a register-based, self-controlled case series study, Denmark, 2014 to 2025 - Eurosurveillance",
+      "summary_original": "Influenza vaccination attenuates acute myocardial infarction and stroke risk following influenza infection: a register-based, self-controlled case series study, Denmark, 2014 to 2025 Eurosurveillance",
+      "summary_ai_original": "Influenza vaccination attenuates acute myocardial infarction and stroke risk following influenza infection: a register-based, self-controlled case series study, Denmark, 2014 to 2025 Eurosurveillance",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOV3UwOXdKdmxTSmRNTmlOeWhGUEozZTd2UVEyUUFEc2NGMUN0VFplSmpYZzhjXy1qeUY3T1Y2ZVlnNmxPMEF5Z1VfUFJ3WTl0Z2UyajJmNk52THB2dVdhUjZaOWo4OFpVbU10MkdyZkJQbkJNWmdUSXNXZUx2V19IRDFvZExrRFk?oc=5",
+      "source": "Eurosurveillance",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-04-02T07:00:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "デンマーク",
+      "source_location": {
+        "key": "sweden",
+        "name_ja": "スウェーデン",
+        "lat": 59.3293,
+        "lng": 18.0686,
+        "region": "Europe",
+        "label": "Eurosurveillance / Stockholm"
+      },
+      "plot": {
+        "source": {
+          "key": "sweden",
+          "name_ja": "スウェーデン",
+          "lat": 59.3293,
+          "lng": 18.0686,
+          "region": "Europe",
+          "label": "Eurosurveillance / Stockholm"
+        },
+        "target": {
+          "key": "denmark",
+          "name_ja": "デンマーク",
+          "lat": 55.6761,
+          "lng": 12.5683,
+          "region": "Europe",
+          "label": "デンマーク"
+        }
+      },
+      "location": {
+        "key": "denmark",
+        "name_ja": "デンマーク",
+        "lat": 55.6761,
+        "lng": 12.5683,
+        "region": "Europe",
+        "label": "デンマーク"
+      },
+      "region": "Europe",
+      "country": "デンマーク",
+      "lat": 55.6761,
+      "lng": 12.5683,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Eurosurveillance"
+      ]
+    },
+    {
       "id": "0793120b52ec1a7d",
       "title": "自由という観点からワクチンを説明すると、躊躇する一部の高齢者が新型コロナウイルスワクチン接種を受け入れるようになる可能性があることが研究で判明 - CIDRAP",
       "summary": "自由という観点からワクチンを説明すると、躊躇する一部の高齢者が新型コロナウイルスのワクチン接種を受け入れるようになる可能性があることがCIDRAPの研究で判明",
@@ -1944,76 +2219,9 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 3,
-      "duplicate_sources": [
-        "medRxiv vaccines"
-      ]
-    },
-    {
-      "id": "e49c4e6085281537",
-      "title": "ワクチンへの躊躇が高まる中、ビタミンK注射を拒否する親が増えている - CIDRAP",
-      "summary": "ワクチンへの躊躇が高まる中、ビタミンKワクチン接種を拒否する親が増加 CIDRAP",
-      "summary_ai": "ワクチンへの躊躇が高まる中、ビタミンKワクチン接種を拒否する親が増加 CIDRAP",
-      "title_original": "Amid rising vaccine hesitancy, more parents reject vitamin K shots - CIDRAP",
-      "summary_original": "Amid rising vaccine hesitancy, more parents reject vitamin K shots CIDRAP",
-      "summary_ai_original": "Amid rising vaccine hesitancy, more parents reject vitamin K shots CIDRAP",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeVVveDNUWlVaNEhHZWVfNTZsZjNRbHJHSmc0Z2JZb3h5QXZKU2Zvcjh3eURSVGFVbmtJcGpJQjlsRGUzVVJIQmJ6TXZqNC1manZ1cU5XQzV3YlFyNlZ5ZktUeFlRZ3lRMTUwZzd3N2lWUU85X2xFSUlzVFd4SnVCMjVjSUlSUFF1aG1TYnpfZkVBdlhieGN0dWQxOE9Zamk1dllIZTFQS3BwUQ?oc=5",
-      "source": "CIDRAP Vaccines & Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 8,
-      "published_at": "2026-04-01T07:00:00+00:00",
-      "topics": [
-        "communication"
-      ],
-      "policy_tags": [
-        "communication"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "CIDRAP / Minnesota"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "CIDRAP / Minnesota"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
       "duplicate_count": 1,
       "duplicate_sources": [
-        "CIDRAP Vaccines & Immunization"
+        "medRxiv vaccines"
       ]
     },
     {
