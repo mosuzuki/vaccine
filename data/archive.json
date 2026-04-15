@@ -1,10 +1,221 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-04-14T22:01:32.021925+00:00",
-  "archive_count": 124,
+  "generated_at": "2026-04-15T22:01:21.612097+00:00",
+  "archive_count": 127,
   "days_back": 14,
   "items": [
+    {
+      "id": "78766c02f39bd3ad",
+      "title": "FDALabel: 医薬品ラベルの全文検索",
+      "summary": "FDALabel データベースは、人間および動物の処方薬、市販薬、生物学的製品、医療機器など、FDA が承認した医薬品の 150,000 件を超えるラベル文書を含むデータベースのカスタマイズ可能な検索を実行できる Web ベースのアプリケーションです。",
+      "summary_ai": "データベース機能 ライブ クエリ 更新と統計 ユーザー ガイド 追加情報 その他のリソース 参考資料 連絡先情報 免責条項 FDALabel を使用するには、以下のリンクを選択するか、URL をブラウザにコピーしてください: FDALabel バージョン 2.10 フィードバックを提供するか、継続してサポートをリクエストしてください",
+      "title_original": "FDALabel: Full-Text Search of Drug Product Labeling",
+      "summary_original": "FDALabel Database is a web-based application that allows users to perform customizable searches of a database containing over 150,000 labeling documents for FDA-approved drug products, including human and animal prescription and over-the-counter drugs, biological products, and medical devices.",
+      "summary_ai_original": "Database Features Live Queries Updates and Statistics User Guides Additional Information Other Resources References Contact Information Disclaimer To use FDALabel, select the link below or copy URL into browser: FDALabel Version 2.10 Provide feedback or request assistance by cont",
+      "article_text_original": "Overview of FDALabel Database FDALabel Database Access Potential Users What is Included in Drug Labeling? Database Features Live Queries Updates and Statistics User Guides Additional Information Other Resources References Contact Information Disclaimer To use FDALabel, select the link below or copy URL into browser: FDALabel Version 2.10 Provide feedback or request assistance by contacting: The FDALabel Database is a web-based application used to perform customizable searches of over 155,000 human prescription, biological, over-the-counter (OTC), and animal drug labeling documents. The source of FDALabel's data is the FDA's Structured Product Labeling (SPL) archive,1-3 which stores labeling documents submitted by manufacturers. FDALabel is implemented as a secure three-tier application with an Oracle database. The following table lists the count of several common labeling types in FDALabel. * Includes Human OTC drugs approved for marketing through a New Drug Application (NDA), Abbreviated New Drug Application (ANDA), or the OTC monograph system. ** Includes drug products, therapeutic biologics, vaccines, plasma derivatives, allergenics (standardized and non-standardized), cellular therapy, and licensed minimally manipulated cells. You can use the wealth of information in the FDALabel Database in many cases including as a healthcare provider for quick access to drug indications and warnings, as a pharmaceutical company for drug development, or as a researcher studying drug safety. For example, recent publications describe how information in drug labeling can be used to aid and facilitate drug repurposing4 as well as applications in precision medicine, drug safety, and regulatory science.5-7 Another publication demonstrated how a systematic classification scheme using FDA-approved drug labeling was developed to assess a drug’s potential for drug-induced liver injury, thus illustrating the utility of FDALabel Database.8 The FDALabel Database includes the following types of labeling: - Human prescription drug and biological product labeling including prescribing information, patient labeling, and carton and container labeling: - Drug products - Therapeutic biologics and monoclonal antibodies - Vaccines - Other biological products (e.g., blood products, allergenics, cellular therapy) - Human over-the-counter (OTC) labeling: - Approved drugs - Products marketed under the monograph system - Unapproved homeopathic prescription and homeopathic OTC products - Animal prescription and animal OTC product labeling - Other types of labeling: - Medical devices - Dietary supplements - Cosmetics - Medical foods Prescribing information for approved human prescription drug and biological products contains a summary of the essential scientific information needed for the safe and effective use of the product. It includes indications, dosage and administration, contraindications, warnings and precautions, adverse reactions, drug interactions, information about use in specific populations, and other important information for healthcare providers9. Associated patient labeling (e.g., Patient Information, Medication Guide, Instructions for Use) are directed to the patient, family, or caregiver. Associated container and carton labeling communicate information that is critical to the safe use of a medication from the initial prescription, to procurement, to preparation and dispensing of the product, to the time it is given to the patient. Labeling for approved OTC drugs and OTC drugs under the monograph system is called Drug Facts. Drug Facts includes information about the purpose and use of the drug, warnings, directions for use, and other information. Homeopathic prescription and homeopathic OTC drugs are not approved by the FDA but are allowed to be marketed. There are minimal labeling requirements for these unapproved products. - Ability to conduct full text searches of the entire labeling or specific sections/subsections of labeling. - Perform complex queries with functions that allow searching for: - Document types - Marketing categories - Presence of, or text within, specific sections of the prescribing information (e.g., BOXED WARNING, INDICATIONS AND USAGE, DOSAGE AND ADMINISTRATION, WARNINGS AND PRECAUTIONS, ADVERSE REACTIONS, DRUG INTERACTIONS) - SPL identifiers (e.g., Product NDC Codes, UNIIs, SETIDs) - Market start/end date - Pharmacologic Classes - Results include direct links to the SPL document, DailyMed, Drugs@FDA, and Orange Book. - Export labeling results to a spreadsheet format to save and open in Excel. - Permanent links that allow users to save and share queries with colleagues. * Click the Query link to view, edit, and repeat the query ** Click the Result link to view labeling results, download full results, and view the query permanent link To use FDALabel, select the link below or copy URL into browser: Drug Labeling Data within FDALabel is updated weekly. - FDALabel Handout - FDALabel Quick Start Guide - Simple Search Guide - Advanced Search Guide - Query Logic Guide - FDALabel Demo (video) | 2021 Global Summit on Regulatory Science (GSRS) - FDALabel Presentation (PDF) | 2021 Global Summit on Regulatory Science (GSRS) - Drug Approvals and Databases - Drug Information for Consumers - Information for Industry | Drugs - Labeling Information | Drug Products - Postmarket Drug Safety Information for Patients and Providers - Prescription Drug Labeling Resources - Structured Product Labeling Resources - FDA Online Label Repository - DailyMed - Fang H., Harris S.C., Liu Z., Thakkar S., Yang J., Ingle T., Xu J., Lesko L., Rosario L., and Tong W. \"FDALabel for drug repurposing studies and beyond.\" Nature Biotechnology. 2020, 38:1378-1379. Abstract - Ying L., Liu Z., Fang H., Kusko R., Wu L., Harris S., and Tong W. \"Text summarization with ChatGPT for drug labeling documents.\" Drug Discovery Today. 2024, 29(6), 104018. Abstract - Mehta D., Uber R., Ingle T., Li C., Liu Z., Thakkar S., Ning B., Wu L., Yang J., Harris S.C., Zhou G., Xu J., Tong W., Lesko L., and Fang H. \"Study of Pharmacogenomic Information in FDA-approved Drug Labeling to Facilitate Application of Precision Medicine.\" Drug Discovery Today. 2020, 25(5), 813-820. Abstract - Wu L., Ingle T., Liu Z., Zhao-Wong A., Harris S.C., Thakkar S., Zhou G., Yang J., Xu J., Mehta D., Ge W., Tong W., ang Fang H. \"Study of serious adverse drug reactions using FDA-approved drug labeling and MedDRA.\" BMC Bioinformatics. 2019, 20(97). Abstract - Fang H., Harris S.C., Liu Z., Zhou G., Zhang G., Xu J., Rosario L., Howard P.C., and Tong W. “FDA Drug Labeling: Rich Resources to Facilitate Precision Medicine, Drug Safety, and Regulatory Science.” Drug Discovery Today. 2016, 21(10):1566-1570. Abstract - Chen M.J., Vijay V., Shi Q., Liu Z.C., Fang H., and Tong W.D. \"FDA-Approved Drug Labeling for the Study of Drug-Induced Liver Injury.\" Drug Discovery Today. 2011, 16(15-16):697-703. Abstract - 21 CFR 201.57 Data Source The source of FDALabel’s data is DailyMed's Structured Product Labeling (SPL) archive which contains the most recent labeling documents submitted by companies (\"in use\" labeling). The SPL documents found on FDALabel are also found on DailyMed and FDA Online Label Repository. Differences Between SPL and FDA-Approved Labeling The labeling in the SPL documents may not be identical to the most recent FDA-approved labeling available at Drugs@FDA, and the contents of the SPL documents (including data element entries in the SPL files) have not been verified by the FDA. For example: - The dosage form(s) listed in the output page are derived from the Data Standards Manual (DSM) terminology and may not be consistent with United States Pharmacopeia (USP) terminology or dosage forms terminology used in FDA-approved labeling. - The marketing date(s) listed may not always accurately represent the date that the product was first marketed. - Compared with the most recent FDA-approved labeling, the SPL document may contain minor changes (e.g., editorial changes such as adding a distributor’s name) or moderate changes that are undergoing FDA review (e.g., added or strengthening a warning or adverse reaction). For information regarding types of changes to labeling that may result in differences between the SPL labeling from the most recent FDA-approved labeling, see 21 CFR 314.70, 21 CFR 601.12, and the Guidance for Industry: Changes to an Approved NDA or ANDA. Because the SPL documents on FDALabel may not be identical to the most recent FDA-approved labeling, visit the following sites for the most current FDA-approved labeling: - Drugs@FDA for human prescription drug and biological products and for OTC drugs approved under an NDA or ANDA; - Biologics Products & Establishments for human blood and blood products; plasma derivatives; vaccine, allergenic, and cellular and gene therapy products; and products regulated by CBER under an NDA or ANDA (e.g., Plasma Volume Expanders). Limitations of Product Title Search of PLR Format Labeling Because of how SPL documents are structured, an FDALabel product title search of PLR format labeling (performed via the \"Product Title\" option in the Labeling Section(s) search box) may include some labeling for which the queried text is not in the product title. For example, the product title search may result in some labeling that have the queried text appearing in the Highlights Limitation Statement, the Initial U.S. Approval, or the biosimilarity statement for biosimilar products. Nonprescription Drugs Many nonprescription drugs (e.g., OTC drugs) are not reviewed and approved by the FDA (e.g., drugs marketed under a final monograph or a tentative final monograph); however, these OTC drugs may be marketed if they comply with applicable OTC monographs. The labeling for drugs marked \"OTC monograph final\" or \"OTC monograph not final\" in FDALabel are not checked for conformance to the monograph. A search for the \"Human OTC Drugs\" labeling in FDALabel retrieves nonprescription drugs that are OTC as well as nonprescription products available behind the pharmacy counter (e.g., nonprescription insulin products). MedDRA Terms Search and Report The Medical Dictionary for Regulatory Activities (MedDRA) is a standardized medical terminology developed by the International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use (ICH). The MedDRA features developed in FDALabel are intended to facilitate the study of adverse event (AE) occurrences in product labeling. It should be noted that MedDRA version updates, which occur on a biannual basis, may affect search results due to changes in mapping or promotion/demotion of MedDRA terms. FDALabel updates MedDRA terminology at least once a year during a new version release. The FDA does not require AEs to be described with MedDRA terminology in labeling. Thus, a MedDRA term search or report in FDALabel may not represent all AE concepts represented in labeling. Furthermore, the presence of a MedDRA term in labeling may not necessarily refer to an AE (e.g., MedDRA terms may correspond to indications or patient comorbidities). During the application of the MedDRA features in FDALabel, specific rules (see PDF) were defined for applying Natural Language Processing (NLP) using MedDRA. Labeling documents (SPL: Structured Product Labeling) are indexed by MedDRA Lowest Level Terms (LLTs) following the predefined MedDRA rules. MedDRA LLTs, extracted from a SPL, are mapped to Preferred Terms (PTs) for the MedDRA report.",
+      "link": "http://www.fda.gov/science-research/bioinformatics-tools/fdalabel-full-text-search-drug-product-labeling",
+      "source": "FDA Vaccines / Biologics",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 9,
+      "published_at": "2026-04-15T19:17:04+00:00",
+      "topics": [
+        "policy",
+        "research"
+      ],
+      "policy_tags": [
+        "approval",
+        "financing",
+        "recommendation",
+        "safety"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "米国",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "FDA / Silver Spring"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "FDA / Silver Spring"
+        },
+        "target": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "米国"
+        }
+      },
+      "location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "米国"
+      },
+      "region": "North America",
+      "country": "米国",
+      "lat": 38.9072,
+      "lng": -77.0369,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "FDA Vaccines / Biologics"
+      ],
+      "first_seen_at": "2026-03-13T12:09:52+00:00",
+      "last_seen_at": "2026-04-15T22:03:08.455998+00:00"
+    },
+    {
+      "id": "1c4a10bd2cf315b0",
+      "title": "ガイダンス: RSV ワクチン ファクトシート – 患者、親、介護者向けの情報",
+      "summary": "呼吸器合胞体ウイルス (RSV) および RSV ワクチン接種に関する情報を提供する患者のファクトシート。",
+      "summary_ai": "RSウイルスに感染したほとんどの人は軽度の症状しか経験しませんが、特に幼い赤ちゃん、高齢者、免疫力が低下している人では、Rウイルスは細気管支炎や肺炎などの重篤な病気を引き起こすことがあります。 RSV RSV ワクチン接種の概要と e",
+      "title_original": "Guidance: RSV Vaccine Factsheet – Information for Patients, Parents and Carers",
+      "summary_original": "Patient factsheet providing information on respiratory syncytial virus (RSV) and RSV vaccination.",
+      "summary_ai_original": "While most people who catch RSV experience only mild illness, RSV can sometimes lead to serious illness, such as bronchiolitis and pneumonia, particularly in young babies, older adults, and individuals with weakened immune systems. It covers: Overview of RSV RSV vaccination and e",
+      "article_text_original": "Respiratory syncytial virus (RSV) is a common respiratory virus that can cause coughs, colds, and chest infections. While most people who catch RSV experience only mild illness, RSV can sometimes lead to serious illness, such as bronchiolitis and pneumonia, particularly in young babies, older adults, and individuals with weakened immune systems. RSV infection is one of the most common reasons for young babies to be admitted to hospital. In older adults, RSV can also lead to severe lung infections and breathing difficulties. Vaccination is one of the safest and most effective ways to protect people who are at higher risk of becoming seriously unwell with RSV. RSV vaccines used in the UK have been rigorously assessed for safety, quality and effectiveness, and are continuously monitored through the Yellow Card scheme. This factsheet is designed to help patients, parents and carers understand the RSV vaccines used in the UK. It covers: Overview of RSV RSV vaccination and eligibility Getting RSV and COVID-19 vaccination at the same time",
+      "link": "https://www.gov.uk/government/publications/rsv-vaccine-factsheet-information-for-patients-parents-and-carers",
+      "source": "MHRA",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 8,
+      "published_at": "2026-04-15T13:00:18+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [
+        "safety"
+      ],
+      "vaccines": [
+        "rsv"
+      ],
+      "variants": [],
+      "target_country": "英国",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "MHRA / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "MHRA / London"
+        },
+        "target": {
+          "key": "uk",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "英国"
+        }
+      },
+      "location": {
+        "key": "uk",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "英国"
+      },
+      "region": "Europe",
+      "country": "英国",
+      "lat": 51.5074,
+      "lng": -0.1278,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "MHRA"
+      ],
+      "first_seen_at": "2026-04-15T13:00:18+00:00",
+      "last_seen_at": "2026-04-15T22:03:08.456011+00:00"
+    },
+    {
+      "id": "d6a3d4958047fc4a",
+      "title": "HPVワクチン接種により男性のがんリスクが約半分に減ることが研究で示唆-CIDRAP",
+      "summary": "HPVワクチン接種は男性のがんリスクを約半分に減らす、研究はCIDRAPを示唆",
+      "summary_ai": "HPVワクチン接種は男性のがんリスクを約半分に減らす、研究はCIDRAPを示唆",
+      "title_original": "HPV vaccination cuts cancer risk in men by about half, study suggests - CIDRAP",
+      "summary_original": "HPV vaccination cuts cancer risk in men by about half, study suggests CIDRAP",
+      "summary_ai_original": "HPV vaccination cuts cancer risk in men by about half, study suggests CIDRAP",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSWtkLXByVW8zMDYtbTJOM3M0Rm41QS1ZTWU4SXcxOThReDJZNnd6RXpSSnlBSE9WRDlGMUtrLTd0UEVweHpYd1BTSzJsWVl0QmRUNFc4WXVRNmFvSkw4TXVpME5pWFdpZ1dGUjhuWFE4MEs5bWFoM3RnWnMtVFNhMXJNQ3Y2cmFZTzZMR1ktdGh6dW5BaEE3LXhqM1JSU3JxR0Z5UVRlMW9iUWJjR3NQLTFnQ1g?oc=5",
+      "source": "CIDRAP Vaccines & Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 8,
+      "published_at": "2026-04-14T19:12:06+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "CIDRAP / Minnesota"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "CIDRAP / Minnesota"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "CIDRAP Vaccines & Immunization"
+      ],
+      "first_seen_at": "2026-04-14T19:12:06+00:00",
+      "last_seen_at": "2026-04-15T22:03:08.456014+00:00"
+    },
     {
       "id": "0f6d1eb0bd40165a",
       "title": "CEPIとPAHOがパートナーシップを拡大し、南北アメリカ全土の規制制度とワクチンの安全性を強化",
@@ -75,7 +286,7 @@
         "PAHO News"
       ],
       "first_seen_at": "2026-04-14T14:03:06+00:00",
-      "last_seen_at": "2026-04-14T22:03:09.596123+00:00"
+      "last_seen_at": "2026-04-15T22:03:08.456023+00:00"
     },
     {
       "id": "53b5bc8cf3b97287",
@@ -147,7 +358,7 @@
         "FDA Vaccines / Biologics"
       ],
       "first_seen_at": "2026-04-14T13:00:05+00:00",
-      "last_seen_at": "2026-04-14T22:03:09.596135+00:00"
+      "last_seen_at": "2026-04-15T22:03:08.456030+00:00"
     },
     {
       "id": "f30c82399d52e7b1",
@@ -220,7 +431,7 @@
         "FDA Vaccines / Biologics"
       ],
       "first_seen_at": "2026-04-14T12:52:18+00:00",
-      "last_seen_at": "2026-04-14T22:03:09.596138+00:00"
+      "last_seen_at": "2026-04-15T22:03:08.456037+00:00"
     },
     {
       "id": "457293e7299d8084",
@@ -287,7 +498,7 @@
         "CIDRAP Vaccines & Immunization"
       ],
       "first_seen_at": "2026-04-13T17:43:56+00:00",
-      "last_seen_at": "2026-04-14T22:03:09.596162+00:00"
+      "last_seen_at": "2026-04-15T22:03:08.456043+00:00"
     },
     {
       "id": "8b92ff3f6ecb53c7",
@@ -362,7 +573,7 @@
         "FDA Vaccines / Biologics"
       ],
       "first_seen_at": "2026-03-18T16:04:33+00:00",
-      "last_seen_at": "2026-04-14T22:03:09.596170+00:00"
+      "last_seen_at": "2026-04-15T22:03:08.456051+00:00"
     },
     {
       "id": "0ff4543d6c8b8a3d",
@@ -430,7 +641,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-04-11T23:52:48+00:00",
-      "last_seen_at": "2026-04-14T22:03:09.596176+00:00"
+      "last_seen_at": "2026-04-15T22:03:08.456057+00:00"
     },
     {
       "id": "2267202e464b59bc",
@@ -501,7 +712,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-03-30T08:09:51+00:00",
-      "last_seen_at": "2026-04-14T22:03:09.596181+00:00"
+      "last_seen_at": "2026-04-15T22:03:08.456063+00:00"
     },
     {
       "id": "3c3049acea464b9d",
@@ -574,7 +785,7 @@
         "FDA Vaccines / Biologics"
       ],
       "first_seen_at": "2026-03-13T14:26:04+00:00",
-      "last_seen_at": "2026-04-14T22:03:09.596189+00:00"
+      "last_seen_at": "2026-04-15T22:03:08.456068+00:00"
     },
     {
       "id": "9f3125246254e285",
@@ -638,12 +849,12 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicate_sources": [
         "NEJM"
       ],
       "first_seen_at": "2026-04-10T10:01:41+00:00",
-      "last_seen_at": "2026-04-13T22:00:42.002861+00:00"
+      "last_seen_at": "2026-04-15T22:03:08.456073+00:00"
     },
     {
       "id": "3f4798793e58f4fa",
@@ -711,7 +922,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-04-10T07:00:00+00:00",
-      "last_seen_at": "2026-04-14T22:03:09.596199+00:00"
+      "last_seen_at": "2026-04-15T22:03:08.456080+00:00"
     },
     {
       "id": "8e0b751249dc4247",
@@ -780,7 +991,78 @@
         "New York Times Vaccines / Immunization"
       ],
       "first_seen_at": "2026-04-09T21:29:34+00:00",
-      "last_seen_at": "2026-04-14T22:03:09.596205+00:00"
+      "last_seen_at": "2026-04-15T22:03:08.456085+00:00"
+    },
+    {
+      "id": "6f5371878b95247c",
+      "title": "5つのインフルエンザシーズンにわたる乳児および小児における細胞培養由来の4価インフルエンザワクチンの有効性、免疫原性、および安全性を非インフルエンザワクチンと比較：第3相、多国間、観察者盲検、ランダム化対照試験 - The Lancet",
+      "summary": "5つのインフルエンザシーズンにわたる乳児および小児における細胞培養由来の4価インフルエンザワクチンの有効性、免疫原性、および安全性を非インフルエンザワクチンと比較：第3相、多国間、観察者盲検、ランダム化対照試験 The Lancet",
+      "summary_ai": "5つのインフルエンザシーズンにわたる乳児および小児における細胞培養由来の4価インフルエンザワクチンの有効性、免疫原性、および安全性を非インフルエンザワクチンと比較：第3相、多国間、観察者盲検、ランダム化対照試験 The Lancet",
+      "title_original": "Efficacy, immunogenicity, and safety of a cell culture-derived quadrivalent influenza vaccine compared with a non-influenza vaccine in infants and children across five influenza seasons: a phase 3, multinational, observer-blind, randomised controlled trial - The Lancet",
+      "summary_original": "Efficacy, immunogenicity, and safety of a cell culture-derived quadrivalent influenza vaccine compared with a non-influenza vaccine in infants and children across five influenza seasons: a phase 3, multinational, observer-blind, randomised controlled trial The Lancet",
+      "summary_ai_original": "Efficacy, immunogenicity, and safety of a cell culture-derived quadrivalent influenza vaccine compared with a non-influenza vaccine in infants and children across five influenza seasons: a phase 3, multinational, observer-blind, randomised controlled trial The Lancet",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNckhhZkpRSnl1RXhSNEdoenAySmNleVVfNkhmbG42Mk52bFMycWp6SGVKQmRGQ0EtV3NCV3hFNWVzeTlrNXlseEYtcjlQUW5scE8yYUVKQnI0TWxWNFMwSWpEVDhjNHRNVmxQall4UmNRNGFwMlZaN0dseEotR1pfano2VTBPZElqVENF?oc=5",
+      "source": "The Lancet series",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-04-09T04:43:14+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [
+        "safety"
+      ],
+      "vaccines": [
+        "influenza"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "The Lancet / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "The Lancet / London"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "The Lancet series"
+      ],
+      "first_seen_at": "2026-04-09T04:43:14+00:00",
+      "last_seen_at": "2026-04-15T22:03:08.456087+00:00"
     },
     {
       "id": "61ee21f1c9f72d97",
@@ -844,12 +1126,12 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicate_sources": [
         "NEJM"
       ],
       "first_seen_at": "2026-04-09T01:40:09+00:00",
-      "last_seen_at": "2026-04-13T22:00:42.002882+00:00"
+      "last_seen_at": "2026-04-15T22:03:08.456093+00:00"
     },
     {
       "id": "bcd651bb77d43fc6",
@@ -1136,7 +1418,7 @@
         "Financial Times Vaccines / Immunization"
       ],
       "first_seen_at": "2026-04-07T10:00:00+00:00",
-      "last_seen_at": "2026-04-14T22:03:09.596212+00:00"
+      "last_seen_at": "2026-04-15T22:03:08.456098+00:00"
     },
     {
       "id": "5c103428141313fc",
@@ -1211,7 +1493,7 @@
         "PAHO News"
       ],
       "first_seen_at": "2026-04-06T19:04:52+00:00",
-      "last_seen_at": "2026-04-14T22:03:09.596218+00:00"
+      "last_seen_at": "2026-04-15T22:03:08.456103+00:00"
     },
     {
       "id": "9efd83ff247d0a96",
@@ -1416,7 +1698,7 @@
         "medRxiv vaccines"
       ],
       "first_seen_at": "2026-04-05T06:03:59+00:00",
-      "last_seen_at": "2026-04-14T22:03:09.596226+00:00"
+      "last_seen_at": "2026-04-15T22:03:08.456111+00:00"
     },
     {
       "id": "e449f82ead4bad9b",
@@ -1483,7 +1765,7 @@
         "medRxiv vaccines"
       ],
       "first_seen_at": "2026-04-05T00:12:20+00:00",
-      "last_seen_at": "2026-04-14T22:03:09.596231+00:00"
+      "last_seen_at": "2026-04-15T22:03:08.456115+00:00"
     },
     {
       "id": "751bda81cea519d3",
@@ -1552,7 +1834,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-03-19T04:48:49+00:00",
-      "last_seen_at": "2026-04-14T22:03:09.596237+00:00"
+      "last_seen_at": "2026-04-15T22:03:08.456119+00:00"
     },
     {
       "id": "e6a841a6e482c36e",
@@ -1690,7 +1972,7 @@
         "New York Times Vaccines / Immunization"
       ],
       "first_seen_at": "2026-04-03T19:17:50+00:00",
-      "last_seen_at": "2026-04-14T22:03:09.596247+00:00"
+      "last_seen_at": "2026-04-15T22:03:08.456124+00:00"
     },
     {
       "id": "ecda92e577088541",
@@ -1757,7 +2039,7 @@
         "medRxiv vaccines"
       ],
       "first_seen_at": "2026-04-03T02:50:46+00:00",
-      "last_seen_at": "2026-04-14T22:03:09.596251+00:00"
+      "last_seen_at": "2026-04-15T22:03:08.456128+00:00"
     },
     {
       "id": "981da869c0655230",
@@ -1895,7 +2177,7 @@
         "medRxiv vaccines"
       ],
       "first_seen_at": "2026-04-02T19:31:14+00:00",
-      "last_seen_at": "2026-04-14T22:03:09.596256+00:00"
+      "last_seen_at": "2026-04-15T22:03:08.456135+00:00"
     },
     {
       "id": "7368e3327131844c",
@@ -1911,7 +2193,7 @@
       "source_type": "media",
       "source_tier": "Tier 2",
       "source_priority": 8,
-      "published_at": "2026-04-02T19:04:03+00:00",
+      "published_at": "2026-04-02T07:00:00+00:00",
       "topics": [
         "policy"
       ],
@@ -1962,7 +2244,7 @@
         "CIDRAP Vaccines & Immunization"
       ],
       "first_seen_at": "2026-04-02T19:04:03+00:00",
-      "last_seen_at": "2026-04-10T21:53:35.016269+00:00"
+      "last_seen_at": "2026-04-15T22:03:08.456145+00:00"
     },
     {
       "id": "0793120b52ec1a7d",
@@ -2098,7 +2380,7 @@
         "Lancet Infectious Diseases"
       ],
       "first_seen_at": "2026-04-02T07:00:00+00:00",
-      "last_seen_at": "2026-04-14T22:03:09.596261+00:00"
+      "last_seen_at": "2026-04-15T22:03:08.456141+00:00"
     },
     {
       "id": "a69536e6d07d00a9",
@@ -2236,7 +2518,7 @@
         "Reuters Vaccines / Immunization"
       ],
       "first_seen_at": "2026-04-01T17:38:34+00:00",
-      "last_seen_at": "2026-04-14T22:03:09.596274+00:00"
+      "last_seen_at": "2026-04-15T22:03:08.456150+00:00"
     },
     {
       "id": "77a688f6a7e41402",
@@ -2441,7 +2723,7 @@
         "The Lancet series"
       ],
       "first_seen_at": "2026-04-01T23:51:44+00:00",
-      "last_seen_at": "2026-04-14T22:03:09.596283+00:00"
+      "last_seen_at": "2026-04-15T22:03:08.456155+00:00"
     },
     {
       "id": "efb330f89045cbfd",
@@ -6721,79 +7003,6 @@
       ],
       "first_seen_at": "2026-03-13T18:33:14+00:00",
       "last_seen_at": "2026-03-15T21:40:08.893849+00:00"
-    },
-    {
-      "id": "78766c02f39bd3ad",
-      "title": "FDALabel: 医薬品ラベルの全文検索",
-      "summary": "FDALabel データベースは、人間および動物の処方薬、市販薬、生物学的製品、医療機器など、FDA が承認した医薬品の 150,000 件を超えるラベル文書を含むデータベースのカスタマイズ可能な検索を実行できる Web ベースのアプリケーションです。",
-      "summary_ai": "データベース機能 ライブ クエリ 更新と統計 ユーザー ガイド 追加情報 その他のリソース 参考資料 連絡先情報 免責条項 FDALabel を使用するには、以下のリンクを選択するか、URL をブラウザにコピーしてください: FDALabel バージョン 2.10 フィードバックを提供するか、継続してサポートをリクエストしてください",
-      "title_original": "FDALabel: Full-Text Search of Drug Product Labeling",
-      "summary_original": "FDALabel Database is a web-based application that allows users to perform customizable searches of a database containing over 150,000 labeling documents for FDA-approved drug products, including human and animal prescription and over-the-counter drugs, biological products, and medical devices.",
-      "summary_ai_original": "Database Features Live Queries Updates and Statistics User Guides Additional Information Other Resources References Contact Information Disclaimer To use FDALabel, select the link below or copy URL into browser: FDALabel Version 2.10 Provide feedback or request assistance by cont",
-      "article_text_original": "Overview of FDALabel Database FDALabel Database Access Potential Users What is Included in Drug Labeling? Database Features Live Queries Updates and Statistics User Guides Additional Information Other Resources References Contact Information Disclaimer To use FDALabel, select the link below or copy URL into browser: FDALabel Version 2.10 Provide feedback or request assistance by contacting: The FDALabel Database is a web-based application used to perform customizable searches of over 155,000 human prescription, biological, over-the-counter (OTC), and animal drug labeling documents. The source of FDALabel's data is the FDA's Structured Product Labeling (SPL) archive,1-3 which stores labeling documents submitted by manufacturers. FDALabel is implemented as a secure three-tier application with an Oracle database. The following table lists the count of several common labeling types in FDALabel. * Includes Human OTC drugs approved for marketing through a New Drug Application (NDA), Abbreviated New Drug Application (ANDA), or the OTC monograph system. ** Includes drug products, therapeutic biologics, vaccines, plasma derivatives, allergenics (standardized and non-standardized), cellular therapy, and licensed minimally manipulated cells. You can use the wealth of information in the FDALabel Database in many cases including as a healthcare provider for quick access to drug indications and warnings, as a pharmaceutical company for drug development, or as a researcher studying drug safety. For example, recent publications describe how information in drug labeling can be used to aid and facilitate drug repurposing4 as well as applications in precision medicine, drug safety, and regulatory science.5-7 Another publication demonstrated how a systematic classification scheme using FDA-approved drug labeling was developed to assess a drug’s potential for drug-induced liver injury, thus illustrating the utility of FDALabel Database.8 The FDALabel Database includes the following types of labeling: - Human prescription drug and biological product labeling including prescribing information, patient labeling, and carton and container labeling: - Drug products - Therapeutic biologics and monoclonal antibodies - Vaccines - Other biological products (e.g., blood products, allergenics, cellular therapy) - Human over-the-counter (OTC) labeling: - Approved drugs - Products marketed under the monograph system - Unapproved homeopathic prescription and homeopathic OTC products - Animal prescription and animal OTC product labeling - Other types of labeling: - Medical devices - Dietary supplements - Cosmetics - Medical foods Prescribing information for approved human prescription drug and biological products contains a summary of the essential scientific information needed for the safe and effective use of the product. It includes indications, dosage and administration, contraindications, warnings and precautions, adverse reactions, drug interactions, information about use in specific populations, and other important information for healthcare providers9. Associated patient labeling (e.g., Patient Information, Medication Guide, Instructions for Use) are directed to the patient, family, or caregiver. Associated container and carton labeling communicate information that is critical to the safe use of a medication from the initial prescription, to procurement, to preparation and dispensing of the product, to the time it is given to the patient. Labeling for approved OTC drugs and OTC drugs under the monograph system is called Drug Facts. Drug Facts includes information about the purpose and use of the drug, warnings, directions for use, and other information. Homeopathic prescription and homeopathic OTC drugs are not approved by the FDA but are allowed to be marketed. There are minimal labeling requirements for these unapproved products. - Ability to conduct full text searches of the entire labeling or specific sections/subsections of labeling. - Perform complex queries with functions that allow searching for: - Document types - Marketing categories - Presence of, or text within, specific sections of the prescribing information (e.g., BOXED WARNING, INDICATIONS AND USAGE, DOSAGE AND ADMINISTRATION, WARNINGS AND PRECAUTIONS, ADVERSE REACTIONS, DRUG INTERACTIONS) - SPL identifiers (e.g., Product NDC Codes, UNIIs, SETIDs) - Market start/end date - Pharmacologic Classes - Results include direct links to the SPL document, DailyMed, Drugs@FDA, and Orange Book. - Export labeling results to a spreadsheet format to save and open in Excel. - Permanent links that allow users to save and share queries with colleagues. * Click the Query link to view, edit, and repeat the query ** Click the Result link to view labeling results, download full results, and view the query permanent link To use FDALabel, select the link below or copy URL into browser: Drug Labeling Data within FDALabel is updated weekly. - FDALabel Handout - FDALabel Quick Start Guide - Simple Search Guide - Advanced Search Guide - Query Logic Guide - FDALabel Demo (video) | 2021 Global Summit on Regulatory Science (GSRS) - FDALabel Presentation (PDF) | 2021 Global Summit on Regulatory Science (GSRS) - Drug Approvals and Databases - Drug Information for Consumers - Information for Industry | Drugs - Labeling Information | Drug Products - Postmarket Drug Safety Information for Patients and Providers - Prescription Drug Labeling Resources - Structured Product Labeling Resources - FDA Online Label Repository - DailyMed - Fang H., Harris S.C., Liu Z., Thakkar S., Yang J., Ingle T., Xu J., Lesko L., Rosario L., and Tong W. \"FDALabel for drug repurposing studies and beyond.\" Nature Biotechnology. 2020, 38:1378-1379. Abstract - Ying L., Liu Z., Fang H., Kusko R., Wu L., Harris S., and Tong W. \"Text summarization with ChatGPT for drug labeling documents.\" Drug Discovery Today. 2024, 29(6), 104018. Abstract - Mehta D., Uber R., Ingle T., Li C., Liu Z., Thakkar S., Ning B., Wu L., Yang J., Harris S.C., Zhou G., Xu J., Tong W., Lesko L., and Fang H. \"Study of Pharmacogenomic Information in FDA-approved Drug Labeling to Facilitate Application of Precision Medicine.\" Drug Discovery Today. 2020, 25(5), 813-820. Abstract - Wu L., Ingle T., Liu Z., Zhao-Wong A., Harris S.C., Thakkar S., Zhou G., Yang J., Xu J., Mehta D., Ge W., Tong W., ang Fang H. \"Study of serious adverse drug reactions using FDA-approved drug labeling and MedDRA.\" BMC Bioinformatics. 2019, 20(97). Abstract - Fang H., Harris S.C., Liu Z., Zhou G., Zhang G., Xu J., Rosario L., Howard P.C., and Tong W. “FDA Drug Labeling: Rich Resources to Facilitate Precision Medicine, Drug Safety, and Regulatory Science.” Drug Discovery Today. 2016, 21(10):1566-1570. Abstract - Chen M.J., Vijay V., Shi Q., Liu Z.C., Fang H., and Tong W.D. \"FDA-Approved Drug Labeling for the Study of Drug-Induced Liver Injury.\" Drug Discovery Today. 2011, 16(15-16):697-703. Abstract - 21 CFR 201.57 Data Source The source of FDALabel’s data is DailyMed's Structured Product Labeling (SPL) archive which contains the most recent labeling documents submitted by companies (\"in use\" labeling). The SPL documents found on FDALabel are also found on DailyMed and FDA Online Label Repository. Differences Between SPL and FDA-Approved Labeling The labeling in the SPL documents may not be identical to the most recent FDA-approved labeling available at Drugs@FDA, and the contents of the SPL documents (including data element entries in the SPL files) have not been verified by the FDA. For example: - The dosage form(s) listed in the output page are derived from the Data Standards Manual (DSM) terminology and may not be consistent with United States Pharmacopeia (USP) terminology or dosage forms terminology used in FDA-approved labeling. - The marketing date(s) listed may not always accurately represent the date that the product was first marketed. - Compared with the most recent FDA-approved labeling, the SPL document may contain minor changes (e.g., editorial changes such as adding a distributor’s name) or moderate changes that are undergoing FDA review (e.g., added or strengthening a warning or adverse reaction). For information regarding types of changes to labeling that may result in differences between the SPL labeling from the most recent FDA-approved labeling, see 21 CFR 314.70, 21 CFR 601.12, and the Guidance for Industry: Changes to an Approved NDA or ANDA. Because the SPL documents on FDALabel may not be identical to the most recent FDA-approved labeling, visit the following sites for the most current FDA-approved labeling: - Drugs@FDA for human prescription drug and biological products and for OTC drugs approved under an NDA or ANDA; - Biologics Products & Establishments for human blood and blood products; plasma derivatives; vaccine, allergenic, and cellular and gene therapy products; and products regulated by CBER under an NDA or ANDA (e.g., Plasma Volume Expanders). Limitations of Product Title Search of PLR Format Labeling Because of how SPL documents are structured, an FDALabel product title search of PLR format labeling (performed via the \"Product Title\" option in the Labeling Section(s) search box) may include some labeling for which the queried text is not in the product title. For example, the product title search may result in some labeling that have the queried text appearing in the Highlights Limitation Statement, the Initial U.S. Approval, or the biosimilarity statement for biosimilar products. Nonprescription Drugs Many nonprescription drugs (e.g., OTC drugs) are not reviewed and approved by the FDA (e.g., drugs marketed under a final monograph or a tentative final monograph); however, these OTC drugs may be marketed if they comply with applicable OTC monographs. The labeling for drugs marked \"OTC monograph final\" or \"OTC monograph not final\" in FDALabel are not checked for conformance to the monograph. A search for the \"Human OTC Drugs\" labeling in FDALabel retrieves nonprescription drugs that are OTC as well as nonprescription products available behind the pharmacy counter (e.g., nonprescription insulin products). MedDRA Terms Search and Report The Medical Dictionary for Regulatory Activities (MedDRA) is a standardized medical terminology developed by the International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use (ICH). The MedDRA features developed in FDALabel are intended to facilitate the study of adverse event (AE) occurrences in product labeling. It should be noted that MedDRA version updates, which occur on a biannual basis, may affect search results due to changes in mapping or promotion/demotion of MedDRA terms. FDALabel updates MedDRA terminology at least once a year during a new version release. The FDA does not require AEs to be described with MedDRA terminology in labeling. Thus, a MedDRA term search or report in FDALabel may not represent all AE concepts represented in labeling. Furthermore, the presence of a MedDRA term in labeling may not necessarily refer to an AE (e.g., MedDRA terms may correspond to indications or patient comorbidities). During the application of the MedDRA features in FDALabel, specific rules (see PDF) were defined for applying Natural Language Processing (NLP) using MedDRA. Labeling documents (SPL: Structured Product Labeling) are indexed by MedDRA Lowest Level Terms (LLTs) following the predefined MedDRA rules. MedDRA LLTs, extracted from a SPL, are mapped to Preferred Terms (PTs) for the MedDRA report.",
-      "link": "http://www.fda.gov/science-research/bioinformatics-tools/fdalabel-full-text-search-drug-product-labeling",
-      "source": "FDA Vaccines / Biologics",
-      "source_type": "official",
-      "source_tier": "Tier 1",
-      "source_priority": 9,
-      "published_at": "2026-03-13T12:09:52+00:00",
-      "topics": [
-        "policy",
-        "research"
-      ],
-      "policy_tags": [
-        "approval",
-        "financing",
-        "recommendation",
-        "safety"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "米国",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "FDA / Silver Spring"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "FDA / Silver Spring"
-        },
-        "target": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "米国"
-        }
-      },
-      "location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "米国"
-      },
-      "region": "North America",
-      "country": "米国",
-      "lat": 38.9072,
-      "lng": -77.0369,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "FDA Vaccines / Biologics"
-      ],
-      "first_seen_at": "2026-03-13T12:09:52+00:00",
-      "last_seen_at": "2026-03-15T21:40:08.893860+00:00"
     },
     {
       "id": "18b680c81f6f0a21",
