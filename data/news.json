@@ -1,9 +1,9 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-04-18T21:48:54.266813+00:00",
-  "item_count": 31,
-  "archive_count": 135,
+  "generated_at": "2026-04-19T21:48:52.021865+00:00",
+  "item_count": 27,
+  "archive_count": 136,
   "days_back": 14,
   "plot_mode_default": "source",
   "feed_status": [
@@ -103,8 +103,8 @@
       "name": "NEJM",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Anejm.org%20(trial%20OR%20effectiveness%20OR%20policy%20OR%20safety)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 4,
-      "kept": 2
+      "seen": 3,
+      "kept": 1
     },
     {
       "name": "BMJ",
@@ -117,7 +117,7 @@
       "name": "Vaccine journal",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Asciencedirect.com%2Fjournal%2Fvaccine&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 2,
       "kept": 0
     },
     {
@@ -145,8 +145,8 @@
       "name": "medRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Amedrxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 5,
-      "kept": 2
+      "seen": 3,
+      "kept": 0
     },
     {
       "name": "bioRxiv vaccines",
@@ -159,14 +159,14 @@
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 37,
+      "seen": 36,
       "kept": 3
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 11,
+      "seen": 9,
       "kept": 0
     },
     {
@@ -180,29 +180,29 @@
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 50,
+      "seen": 37,
       "kept": 0
     },
     {
       "name": "Financial Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aft.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 13,
+      "seen": 14,
       "kept": 2
     },
     {
       "name": "STAT Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 20,
+      "seen": 22,
       "kept": 0
     },
     {
       "name": "Nature News Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 14,
-      "kept": 3
+      "seen": 15,
+      "kept": 2
     },
     {
       "name": "Science Vaccines / Immunization",
@@ -222,14 +222,14 @@
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 21,
+      "seen": 22,
       "kept": 0
     },
     {
       "name": "Washington Post Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 16,
+      "seen": 17,
       "kept": 0
     },
     {
@@ -243,32 +243,97 @@
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 25,
+      "seen": 22,
       "kept": 1
     },
     {
       "name": "朝日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Aasahi.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 11,
+      "seen": 15,
       "kept": 0
     },
     {
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 31,
+      "seen": 26,
       "kept": 2
     },
     {
       "name": "毎日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 11,
+      "seen": 12,
       "kept": 0
     }
   ],
   "items": [
+    {
+      "id": "8f2401a6646d2538",
+      "title": "致死率高いニパウイルス感染症 ワクチン臨床試験へ…帝京大特任教授ら ベルギーで今月開始 - 読売新聞",
+      "summary": "致死率高いニパウイルス感染症 ワクチン臨床試験へ…帝京大特任教授ら ベルギーで今月開始 読売新聞",
+      "summary_ai": "致死率高いニパウイルス感染症 ワクチン臨床試験へ…帝京大特任教授ら ベルギーで今月開始 読売新聞",
+      "title_original": "致死率高いニパウイルス感染症 ワクチン臨床試験へ…帝京大特任教授ら ベルギーで今月開始 - 読売新聞",
+      "summary_original": "致死率高いニパウイルス感染症 ワクチン臨床試験へ…帝京大特任教授ら ベルギーで今月開始 読売新聞",
+      "summary_ai_original": "致死率高いニパウイルス感染症 ワクチン臨床試験へ…帝京大特任教授ら ベルギーで今月開始 読売新聞",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wQ3FLeWF1cHBWZ3JDRVMxTUczZDVST05SY0RyejYzUzdhbklIYUh0T0lRUVlsQTNVcll5clk5MVFkM3FPZHNMb0p2elpPZk1yYmN0amdpZnEyV2p5SEhublJGWVU?oc=5",
+      "source": "読売新聞 ワクチン / 予防接種",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-04-19T20:00:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "japan",
+        "name_ja": "日本",
+        "lat": 35.6762,
+        "lng": 139.6503,
+        "region": "Asia",
+        "label": "読売新聞"
+      },
+      "plot": {
+        "source": {
+          "key": "japan",
+          "name_ja": "日本",
+          "lat": 35.6762,
+          "lng": 139.6503,
+          "region": "Asia",
+          "label": "読売新聞"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "読売新聞 ワクチン / 予防接種"
+      ]
+    },
     {
       "id": "b423e4b334aced78",
       "title": "AZD1222ワクチンの第3相試験における重症コロナウイルスとデルタウイルス感染症の相関関係 - Nature",
@@ -401,71 +466,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "New York Times Vaccines / Immunization"
-      ]
-    },
-    {
-      "id": "85f60a30a36bd4e2",
-      "title": "SARS-CoV-2感染歴のある5～17歳を対象としたワクチン効果のエミュレーション試験 - Nature",
-      "summary": "SARS-CoV-2感染歴のある5～17歳を対象としたワクチンの有効性試験のエミュレーション Nature",
-      "summary_ai": "SARS-CoV-2感染歴のある5～17歳を対象としたワクチンの有効性試験のエミュレーション Nature",
-      "title_original": "Target Trial Emulation of Vaccine Effectiveness in 5- to 17-years-olds with Prior SARS-CoV-2 Infection - Nature",
-      "summary_original": "Target Trial Emulation of Vaccine Effectiveness in 5- to 17-years-olds with Prior SARS-CoV-2 Infection Nature",
-      "summary_ai_original": "Target Trial Emulation of Vaccine Effectiveness in 5- to 17-years-olds with Prior SARS-CoV-2 Infection Nature",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vSDRKMVRMckF5ajhWZHYwTUJvWWZSYjNqU2M0bjlEQXJjVmhmZ3pINlo0U2hLd1p4bXhvRVdPMmtyU0RXU0szUXFxaDB0T0trYVdUWWk5NmNqWU5JTzNN?oc=5",
-      "source": "Nature News Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-04-17T19:53:03+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "Nature News"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "Nature News"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Nature News Vaccines / Immunization"
       ]
     },
     {
@@ -1098,73 +1098,6 @@
       ],
       "policy_tags": [
         "communication"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "japan",
-        "name_ja": "日本",
-        "lat": 35.6762,
-        "lng": 139.6503,
-        "region": "Asia",
-        "label": "読売新聞"
-      },
-      "plot": {
-        "source": {
-          "key": "japan",
-          "name_ja": "日本",
-          "lat": 35.6762,
-          "lng": 139.6503,
-          "region": "Asia",
-          "label": "読売新聞"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "読売新聞 ワクチン / 予防接種"
-      ]
-    },
-    {
-      "id": "08fa027f0aece9ef",
-      "title": "肺炎による死亡者の９７．８％が高齢者 ＲＳウイルス、肺炎球菌…４月以降のワクチン接種スケジュールは？ - 読売新聞",
-      "summary": "肺炎による死亡者の９７．８％が高齢者 ＲＳウイルス、肺炎球菌…４月以降のワクチン接種スケジュールは？ 読売新聞",
-      "summary_ai": "肺炎による死亡者の９７．８％が高齢者 ＲＳウイルス、肺炎球菌…４月以降のワクチン接種スケジュールは？",
-      "title_original": "肺炎による死亡者の９７．８％が高齢者 ＲＳウイルス、肺炎球菌…４月以降のワクチン接種スケジュールは？ - 読売新聞",
-      "summary_original": "肺炎による死亡者の９７．８％が高齢者 ＲＳウイルス、肺炎球菌…４月以降のワクチン接種スケジュールは？ 読売新聞",
-      "summary_ai_original": "肺炎による死亡者の９７．８％が高齢者 ＲＳウイルス、肺炎球菌…４月以降のワクチン接種スケジュールは？",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcnNDZUVxSWhBWXN2N3U5Q1dISVZKWVRmWFkzRnN0bXl5ZThEekV0b3ZfMXgxeWpGaE9lTmNmcXFab2tuT2pSaXNsdy1BZjc5dEFGTVBSMEI5UjhGWkNlaDZvbldnR2tnMi1lM2UzX3NLTlBCaHlPY3h0czduOVVobk5ZNnpCdjlHbDZFbC02MA?oc=5",
-      "source": "読売新聞 ワクチン / 予防接種",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-04-15T07:00:00+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [
-        "schedule"
       ],
       "vaccines": [],
       "variants": [],
@@ -1961,73 +1894,6 @@
       ]
     },
     {
-      "id": "61ee21f1c9f72d97",
-      "title": "黄熱病ワクチンである vYF の免疫原性と安全性 - 第 2 相試験 - NEJM",
-      "summary": "黄熱病ワクチンである vYF の免疫原性と安全性 - 第 2 相試験 NEJM",
-      "summary_ai": "黄熱病ワクチンである vYF の免疫原性と安全性 - 第 2 相試験 NEJM",
-      "title_original": "Immunogenicity and Safety of vYF, a Yellow Fever Vaccine — A Phase 2 Trial - NEJM",
-      "summary_original": "Immunogenicity and Safety of vYF, a Yellow Fever Vaccine — A Phase 2 Trial NEJM",
-      "summary_ai_original": "Immunogenicity and Safety of vYF, a Yellow Fever Vaccine — A Phase 2 Trial NEJM",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qU3dOX2NmVnhkSzlXNmxPdG96dFc0Tk9qa0VBR1BxOE11ZUQ4ZEhzVXhYT19ILXJxNnlIWE9YVXJZRGViUnd3cklZelNBREx0OXRyMlFUVGg0bExaNXNJ?oc=5",
-      "source": "NEJM",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-04-09T01:40:09+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [
-        "safety"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "NEJM / Boston"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "NEJM / Boston"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "NEJM"
-      ]
-    },
-    {
       "id": "0f068bab45a1a076",
       "title": "エヴァクシオン、個別化がんワクチンEVX-01の第2相試験1年延長で最後の患者訪問を発表 - フィナンシャル・タイムズ",
       "summary": "エヴァクシオン、個別化がんワクチンEVX-01の第2相試験1年延長で最後の患者訪問を発表 フィナンシャル・タイムズ",
@@ -2228,138 +2094,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "BMJ"
-      ]
-    },
-    {
-      "id": "5656583fb9c40e3b",
-      "title": "2024/25シーズン終了時の高齢者の新型コロナウイルス感染症入院に対するKP.2ワクチンの有効性 - medrxiv.org",
-      "summary": "2024/25シーズン終了時の高齢者の新型コロナウイルス感染症入院に対するKP.2ワクチンの有効性 medrxiv.org",
-      "summary_ai": "2024/25シーズン終了時の高齢者の新型コロナウイルス感染症入院に対するKP.2ワクチンの有効性 medrxiv.org",
-      "title_original": "2024/25 end-of-season KP.2 vaccine effectiveness against COVID-19 hospitalization in older adults - medrxiv.org",
-      "summary_original": "2024/25 end-of-season KP.2 vaccine effectiveness against COVID-19 hospitalization in older adults medrxiv.org",
-      "summary_ai_original": "2024/25 end-of-season KP.2 vaccine effectiveness against COVID-19 hospitalization in older adults medrxiv.org",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ySnVYbmIya1Q1Vy1DZHcwSC1ONzJjVzBualQzRkJrV3JFTnZoemFxdVhGTHZkRWtjRm4xS1o2RXhOYVowX0JOeGo1TUtVQi16R0p1ZUNUMTduM1BDckdueXRDNjdxTXFKM1J3TzN2TzB6SjZkMl85Y3ctQQ?oc=5",
-      "source": "medRxiv vaccines",
-      "source_type": "preprint",
-      "source_tier": "Tier 3",
-      "source_priority": 7,
-      "published_at": "2026-04-05T06:03:59+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [
-        "kp.2"
-      ],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "medRxiv"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "medRxiv"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "medRxiv vaccines"
-      ]
-    },
-    {
-      "id": "bdc07d9ef5be3d63",
-      "title": "ナイジェリア、バウチ州における小児予防接種に関する宗教指導者の見解: 定性的研究 - medrxiv.org",
-      "summary": "ナイジェリア、バウチ州における小児予防接種に関する宗教指導者の視点: 定性的研究 medrxiv.org",
-      "summary_ai": "ナイジェリア、バウチ州における小児予防接種に関する宗教指導者の視点: 定性的研究 medrxiv.org",
-      "title_original": "Religious leaders' perspectives on childhood immunization in Bauchi State, Nigeria: A Qualitative Study - medrxiv.org",
-      "summary_original": "Religious leaders' perspectives on childhood immunization in Bauchi State, Nigeria: A Qualitative Study medrxiv.org",
-      "summary_ai_original": "Religious leaders' perspectives on childhood immunization in Bauchi State, Nigeria: A Qualitative Study medrxiv.org",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0yUXVSVmIyXzdibXJiVFlDdHY1cmQ5TzMyNVZ4RXNQNXowS0p1TEZ2REpOeEJJay0wcjJ5aDdBN3A3NnBzbFozZWZBdUY1NTgzdVpOY3JoUGdEM0xrcGwzWGZ0VThYNW52SmJJTG8yWTJnYklrcVZET2p3TQ?oc=5",
-      "source": "medRxiv vaccines",
-      "source_type": "preprint",
-      "source_tier": "Tier 3",
-      "source_priority": 7,
-      "published_at": "2026-04-05T00:12:20+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "ナイジェリア",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "medRxiv"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "medRxiv"
-        },
-        "target": {
-          "key": "nigeria",
-          "name_ja": "ナイジェリア",
-          "lat": 9.0765,
-          "lng": 7.3986,
-          "region": "Africa",
-          "label": "ナイジェリア"
-        }
-      },
-      "location": {
-        "key": "nigeria",
-        "name_ja": "ナイジェリア",
-        "lat": 9.0765,
-        "lng": 7.3986,
-        "region": "Africa",
-        "label": "ナイジェリア"
-      },
-      "region": "Africa",
-      "country": "ナイジェリア",
-      "lat": 9.0765,
-      "lng": 7.3986,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "medRxiv vaccines"
       ]
     }
   ]
