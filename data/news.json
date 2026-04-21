@@ -1,9 +1,9 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-04-20T21:58:26.350823+00:00",
+  "generated_at": "2026-04-21T21:56:13.142557+00:00",
   "item_count": 23,
-  "archive_count": 136,
+  "archive_count": 139,
   "days_back": 14,
   "plot_mode_default": "source",
   "feed_status": [
@@ -44,7 +44,7 @@
       "url": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/biologics/rss.xml",
       "status": "ok",
       "seen": 20,
-      "kept": 5
+      "kept": 3
     },
     {
       "name": "EMA News",
@@ -110,14 +110,14 @@
       "name": "BMJ",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abmj.com%20(policy%20OR%20trial%20OR%20effectiveness%20OR%20communication)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 5,
-      "kept": 2
+      "seen": 8,
+      "kept": 6
     },
     {
       "name": "Vaccine journal",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Asciencedirect.com%2Fjournal%2Fvaccine&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 3,
       "kept": 0
     },
     {
@@ -138,49 +138,49 @@
       "name": "Human Vaccines & Immunotherapeutics",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Atandfonline.com%20%22Human%20Vaccines%20%26%20Immunotherapeutics%22&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 1,
       "kept": 0
     },
     {
       "name": "medRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Amedrxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 2,
       "kept": 0
     },
     {
       "name": "bioRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abiorxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
-      "kept": 0
+      "seen": 2,
+      "kept": 1
     },
     {
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
       "seen": 34,
-      "kept": 3
+      "kept": 4
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 8,
+      "seen": 98,
       "kept": 0
     },
     {
       "name": "AP Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 7,
+      "seen": 6,
       "kept": 0
     },
     {
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 23,
+      "seen": 17,
       "kept": 0
     },
     {
@@ -188,7 +188,7 @@
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aft.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
       "seen": 8,
-      "kept": 1
+      "kept": 0
     },
     {
       "name": "STAT Vaccines / Immunization",
@@ -201,35 +201,35 @@
       "name": "Nature News Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 15,
-      "kept": 1
+      "seen": 18,
+      "kept": 2
     },
     {
       "name": "Science Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Ascience.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 22,
+      "seen": 20,
       "kept": 0
     },
     {
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 35,
+      "seen": 62,
       "kept": 2
     },
     {
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 24,
+      "seen": 23,
       "kept": 0
     },
     {
       "name": "Washington Post Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 17,
+      "seen": 22,
       "kept": 0
     },
     {
@@ -243,47 +243,186 @@
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 21,
+      "seen": 26,
       "kept": 1
     },
     {
       "name": "朝日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Aasahi.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 9,
+      "seen": 3,
       "kept": 0
     },
     {
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 34,
-      "kept": 3
+      "seen": 25,
+      "kept": 1
     },
     {
       "name": "毎日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 8,
+      "seen": 10,
       "kept": 0
     }
   ],
   "items": [
     {
-      "id": "8f2401a6646d2538",
-      "title": "致死率高いニパウイルス感染症 ワクチン臨床試験へ…帝京大特任教授ら ベルギーで今月開始 - 読売新聞",
-      "summary": "致死率高いニパウイルス感染症 ワクチン臨床試験へ…帝京大特任教授ら ベルギーで今月開始 読売新聞",
-      "summary_ai": "致死率高いニパウイルス感染症 ワクチン臨床試験へ…帝京大特任教授ら ベルギーで今月開始 読売新聞",
-      "title_original": "致死率高いニパウイルス感染症 ワクチン臨床試験へ…帝京大特任教授ら ベルギーで今月開始 - 読売新聞",
-      "summary_original": "致死率高いニパウイルス感染症 ワクチン臨床試験へ…帝京大特任教授ら ベルギーで今月開始 読売新聞",
-      "summary_ai_original": "致死率高いニパウイルス感染症 ワクチン臨床試験へ…帝京大特任教授ら ベルギーで今月開始 読売新聞",
+      "id": "12d29f3972ea305a",
+      "title": "産業向け規制教育 (REdI) 年次会議 2026: 医療製品を前進させるための革新的な規制戦略 - 2026 年 5 月 19 日",
+      "summary": "医薬品、機器、生物製剤などの医療製品センターの FDA 規制専門家から直接学びましょう。",
+      "summary_ai": "対象読者 医薬品 - 新薬申請の開発と準備、医薬品の安全性、IT に取り組む規制関係者およびその他の専門家 - スポンサー、申請者、メーカー、臨床研究者、および insi の取得を希望する規制関係専門家",
+      "title_original": "Regulatory Education for Industry (REdI) Annual Conference 2026: Innovative Regulatory Strategies to Advance Medical Products - 05/19/2026",
+      "summary_original": "Learn directly from the FDA’s regulatory experts in medical product centers: drugs, devices, and biologics.",
+      "summary_ai_original": "Intended Audience Drugs - Regulatory affairs and other professionals working on the development and preparation of new drug submissions, drug safety and IT - Sponsors, applicant holders, manufacturers, clinical researchers and regulatory affairs professionals wishing to gain insi",
+      "article_text_original": "- Date: - May 19 - 20, 2026 - Day1: - Tue, May 19 9:00 a.m. - 04:50 p.m. ET - Day2: - Wed, May 20 9:00 a.m. - 03:50 p.m. ET - Location: - Event LocationAttend In Person or Online Virtual: Via Adobe Connect In Person: FDA White Oak Campus 10903 New Hampshire Ave, Building 31 The Great Room Silver Spring, MD 20903 United States Save the Date Agenda Coming Soon Drugs, Devices, and Biologics Tracks will Offer an Opportunity for 1:1 Questions Learn directly from the FDA’s regulatory experts in medical product centers: drugs, devices, and biologics. This course is designed to provide participants with a strong, basic foundation in the FDA’s regulatory requirements, and also create awareness of current activities. Intended Audience Drugs - Regulatory affairs and other professionals working on the development and preparation of new drug submissions, drug safety and IT - Sponsors, applicant holders, manufacturers, clinical researchers and regulatory affairs professionals wishing to gain insight on INDs, NDAs and BLAs - Industry professionals at all levels of expertise Devices - A new regulatory affairs specialist wanting to learn some basics and best practices for getting started with FDA’s regulation of medical devices. - A researcher of a medical device seeking to learn about the valid scientific evidence requirements needed to support new medical device regulatory submissions. - An establishment seeking to understand their regulatory responsibilities for maintaining their quality system to ensure their device is stay and effective after it’s legally marketed and in commercial distribution. Biologics - Biotechnology product manufacturers, academic sponsors, and other stakeholders working on the development of biological products - Regulatory affairs and other professionals working with submissions of INDs, IDEs, and BLAs, and PMAs to the Center for Biologics Evaluation and Research - Industry and consulting professionals working with advanced therapies, allergenics, blood and vaccine products, and devices used with biological products Topics Covered - Advanced Drug Manufacturing in CDER - Use of AI to Advance Drug Development - FDA’s Quality Management System Regulation (QMSR) - Small Business Determination Program Updates - Use of Digital Health Technologies for Data Collection in Clinical Trials - Benefit-Risk Framework and Analytical Methods to Inform Benefit-Risk - …Many others Continuing Education (CE) Real-time attendance is required for the certificate of attendance which can be used in support of CEs for the following professional organizations. Certificates are only available during the two weeks post-event. This course has been pre-approved by: - RAPS as eligible for a maximum of 12 credits for a two-day event (appropriate to real-time attendance) towards a participant’s RAC recertification upon full completion. - SOCRA who accepts documentation of candidate participation in continuing education programs for re-certification if the program is applicable to clinical research regulations, operations or management, or to the candidate's clinical research therapeutic area. - SQA as eligible for 1 non-GCP or non-GLP unit for every 1 hour of instructional time towards a participant’s RQAP re-registration. - ACRP for continuing education in clinical research. ACRP will provide 1 ACRP contact hour for every 45-60 minutes of qualified material. FDA Resources Drugs - CDER SBIA Learn: Webinars, Conferences, Trainings - Search for Regulatory References | Drugs - Guidance Documents for Drug Applications Devices Biologics More Information Food and Drink - Public meeting attendees may bring their own food and drink as campus access is restricted to the immediate meeting area - For this event, light refreshments, sandwiches/wraps/salads are available for pre-order during the registration process. Payment will be made when the order is picked up on site - Lunch selections must be made at time of registration. Changes cannot be accommodated after registration is complete. REdI Lunch Menu - Restaurants near the FDA White Oak campus are available. Before leaving, meeting attendees should consider the amount of time needed to return to campus and go through security screening.",
+      "link": "http://www.fda.gov/news-events/regulatory-education-industry-redi-annual-conference-2026-innovative-regulatory-strategies-advance",
+      "source": "FDA Vaccines / Biologics",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 9,
+      "published_at": "2026-04-21T17:11:06+00:00",
+      "topics": [
+        "communication",
+        "policy",
+        "research"
+      ],
+      "policy_tags": [
+        "approval",
+        "communication",
+        "safety"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "米国",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "FDA / Silver Spring"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "FDA / Silver Spring"
+        },
+        "target": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "米国"
+        }
+      },
+      "location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "米国"
+      },
+      "region": "North America",
+      "country": "米国",
+      "lat": 38.9072,
+      "lng": -77.0369,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "FDA Vaccines / Biologics"
+      ]
+    },
+    {
+      "id": "5a9c4aa3a36ab98c",
+      "title": "法定ガイダンス: MHRA 手数料",
+      "summary": "2025 年から MHRA に料金が支払われます。",
+      "summary_ai": "支援技術 (スクリーン リーダーなど) を使用していて、よりアクセスしやすい形式のこの文書のバージョンが必要な場合は、webupdates@mhra.gov.uk まで電子メールでご連絡ください。支援技術 (スクリーン リーダーなど) を使用していて、よりアクセスしやすい形式のこのドキュメントのバージョンが必要な場合",
+      "title_original": "Statutory guidance: MHRA fees",
+      "summary_original": "Fees payable to the MHRA from 2025.",
+      "summary_ai_original": "If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email webupdates@mhra.gov.uk. If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible forma",
+      "article_text_original": "This file may not be suitable for users of assistive technology. Request an accessible format. If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email webupdates@mhra.gov.uk. Please tell us what format you need. It will help us if you say what assistive technology you use. This file may not be suitable for users of assistive technology. Request an accessible format. If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email webupdates@mhra.gov.uk. Please tell us what format you need. It will help us if you say what assistive technology you use. This file may not be suitable for users of assistive technology. Request an accessible format. If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email webupdates@mhra.gov.uk. Please tell us what format you need. It will help us if you say what assistive technology you use. Details The document attached lists MHRA fees from 2025 - 2027. Updates to add new information under Medical Device Fees section 7d Updated MHRA Fees document, point 6, notes, to reflect that there is no longer a phase IV notification scheme. Updated to correct the following figures in the MHRA fees document: 38. Wholesale distribution authorisations: fees - New Applications - Reduced application* plus full inspection fee (£5,216 changed to £5,128) (£1,080 changed to £992) application fee plus £4,136 inspection fee 38. Wholesale distribution authorisations: fees - New Applications - Reduced application plus reduced Inspection fee - General Sales List (GSL) only (£3,148 changed to £3,060) (£1,080 changed to £992) application fee plus £2,068 inspection fee Updated link to 'Apply for payment easement as an SME' form. Page layout updated to make the content more accessible to users. Updated the following fees sections to reflect increases from 16 July 2025: - 4. Blood banks: application fees for a Review Panel hearing - 5. Blood banks and other blood establishments: fees - 6. Blood facilities: contract laboratories fees - 9. Clinical investigations for devices: fees - 42. Medical Device Approved Body Fees - 44. Devices Regulatory Advice meeting (new section added) Also updated: Payment easements and waivers for small and medium companies Updated fees payable to the MHRA from 2025. Updated to include fees regarding International Recognition. Amendment fees added to our 'Current MHRA fees' webpage. Added links to Fees page: The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2023 & The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2023 Updated MHRA fees for 2023 - 2024 Added link to application form to 'apply for Small and Medium Company status'. CURRENT FEES UPDATED Changes to MHRA fees for 2021 - 2022 Published a new version of the 'Payment Easements and Waivers for Small and Medium Companies, as a HTML document. This replaces the 'Payment Easements for Small Companies' PDF. Update on the MHRA fees for Licence applications: marketing authorisations; Orphan Marketing Products: fees; Variations: licence variations application fees; Variations: licence variations applications groups fees; and Variations: Traditional Herbal Registration Scheme fees Added new information on fees following the end of the transition period. This includes new sections on orphan marketing products, Pharmacovigilance (PV) Safety Reviews, pre-assessment (rolling review) fees, PMF and Vaccine Antigen Master File certification. Amended text under 'Current MHRA fees' guidance. Section '13. Inspection: fees'. We have updated the years references to the periodic fees Update to confirm fee levels for 2020 to 2021 are remaining the same as 2019 to 2020 Minor amendment to the explanation of the Office Based Inspection Fee to include information that was left out by mistake. Information about 2017/18 fees added to the page. MHRA's fees changed on April 1 2016. MHRA's fees change on April 1 2016. Uploaded a PDF of the changed fees.",
+      "link": "https://www.gov.uk/government/publications/mhra-fees",
+      "source": "MHRA",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 8,
+      "published_at": "2026-04-21T09:21:01+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [
+        "approval",
+        "safety"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "英国",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "MHRA / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "MHRA / London"
+        },
+        "target": {
+          "key": "uk",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "英国"
+        }
+      },
+      "location": {
+        "key": "uk",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "英国"
+      },
+      "region": "Europe",
+      "country": "英国",
+      "lat": 51.5074,
+      "lng": -0.1278,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "MHRA"
+      ]
+    },
+    {
+      "id": "54aafed6eddf5900",
+      "title": "RSV：母親のワクチンにより乳児の入院が80％減少、研究結果 - The BMJ",
+      "summary": "RSV：母親のワクチンにより乳児の入院が80％減少、研究結果が判明 The BMJ",
+      "summary_ai": "RSV：母親のワクチンにより乳児の入院が80％減少、研究結果が判明 The BMJ",
+      "title_original": "RSV: Maternal vaccine cuts infant hospital admissions by 80%, study shows - The BMJ",
+      "summary_original": "RSV: Maternal vaccine cuts infant hospital admissions by 80%, study shows The BMJ",
+      "summary_ai_original": "RSV: Maternal vaccine cuts infant hospital admissions by 80%, study shows The BMJ",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wQ3FLeWF1cHBWZ3JDRVMxTUczZDVST05SY0RyejYzUzdhbklIYUh0T0lRUVlsQTNVcll5clk5MVFkM3FPZHNMb0p2elpPZk1yYmN0amdpZnEyV2p5SEhublJGWVU?oc=5",
-      "source": "読売新聞 ワクチン / 予防接種",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-04-19T20:00:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBZN09UaWNabkx2Nk5xSk82WlE5V2hTU0xiVzI3cnVEMmItNjZhR2VlVW5VazRFcTZlcEdWOTNyMHl5c295dzE4bFhjem1TSWtKSDlJNXNUT1Y0MUlRYkE?oc=5",
+      "source": "BMJ",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-04-21T05:01:19+00:00",
       "topics": [
         "research"
       ],
@@ -292,21 +431,86 @@
       "variants": [],
       "target_country": "不明",
       "source_location": {
-        "key": "japan",
-        "name_ja": "日本",
-        "lat": 35.6762,
-        "lng": 139.6503,
-        "region": "Asia",
-        "label": "読売新聞"
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BMJ / London"
       },
       "plot": {
         "source": {
-          "key": "japan",
-          "name_ja": "日本",
-          "lat": 35.6762,
-          "lng": 139.6503,
-          "region": "Asia",
-          "label": "読売新聞"
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BMJ / London"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 2,
+      "duplicate_sources": [
+        "BMJ"
+      ]
+    },
+    {
+      "id": "4e6dd10ba82c4843",
+      "title": "RSVに対するアデノウイルスベクターワクチンによる新規口腔咽頭スプレー免疫の有効性に関する二重中心の非ヒト霊長類を対象とした確認的研究 — 得られた重要な教訓 - bioRxiv",
+      "summary": "RSVに対するアデノウイルスベクターワクチンによる新規口腔咽頭スプレー免疫の有効性に関する確認的な二重中心の非ヒト霊長類研究 — 得られた重要な教訓 bioRxiv",
+      "summary_ai": "RSVに対するアデノウイルスベクターワクチンによる新規口腔咽頭スプレー免疫の有効性に関する確認的な二重中心の非ヒト霊長類研究 — 得られた重要な教訓 bioRxiv",
+      "title_original": "A confirmatory, dual-centric non-human primate study on the efficacy of novel oropharyngeal spray immunization with an adenoviral vector vaccine against RSV — Important lessons learned - bioRxiv",
+      "summary_original": "A confirmatory, dual-centric non-human primate study on the efficacy of novel oropharyngeal spray immunization with an adenoviral vector vaccine against RSV — Important lessons learned bioRxiv",
+      "summary_ai_original": "A confirmatory, dual-centric non-human primate study on the efficacy of novel oropharyngeal spray immunization with an adenoviral vector vaccine against RSV — Important lessons learned bioRxiv",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hQWNfbkQ0RFZYZ29hY0hmbk5QdUZHSmZhUjhUQ2NVczF1VUNGUWxINDhnYTBJdE90LTVkZDV6MXJSWFlJa1h4LUluTS1oOVBHWUd1d3llUVJNcmFTSC0tbUNGSWh6Vnh0VEZIYg?oc=5",
+      "source": "bioRxiv vaccines",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-04-21T03:53:30+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "bioRxiv"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "bioRxiv"
         },
         "target": {
           "key": "unknown",
@@ -331,7 +535,74 @@
       "lng": 0.0,
       "duplicate_count": 1,
       "duplicate_sources": [
-        "読売新聞 ワクチン / 予防接種"
+        "bioRxiv vaccines"
+      ]
+    },
+    {
+      "id": "fc74321661533f29",
+      "title": "要点：カリフォルニア州、mpoxワクチン接種を促す、英国のmenBキャンペーン、ノースカロライナ州の在郷軍人会 - CIDRAP",
+      "summary": "要点：カリフォルニア州がmpoxワクチン接種を促す、英国のmenBキャンペーン、ノースカロライナ州の在郷軍人会 CIDRAP",
+      "summary_ai": "要点：カリフォルニア州がmpoxワクチン接種を促す、英国のmenBキャンペーン、ノースカロライナ州の在郷軍人会 CIDRAP",
+      "title_original": "Quick takes: California urges mpox vaccination, UK menB campaign, Legionnaires' in North Carolina - CIDRAP",
+      "summary_original": "Quick takes: California urges mpox vaccination, UK menB campaign, Legionnaires' in North Carolina CIDRAP",
+      "summary_ai_original": "Quick takes: California urges mpox vaccination, UK menB campaign, Legionnaires' in North Carolina CIDRAP",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTEthZERxTzMzUkJSLWpWaHdXcHFCV2xvNzd0N1Uyb3BGOUxkR3M5WFJLaEdBZGtYU0Zrc1VDOE9vMTJXSVBTOFlDdFQ0UkM1c3FNeG42Zk5SY1FaVjEwVHRDc0k4bl9CYXFlRENlTDRvbnlrVGt5MkF3ZXhhUmFKN09HdzBkSEFMZTEtWHNUYXZZQUxUUDhCRllvVVNFajhndmZzcDNUODJpcXlMRWJ0RlZZTmlVRVBINkF6TmQyZw?oc=5",
+      "source": "CIDRAP Vaccines & Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 8,
+      "published_at": "2026-04-20T19:14:00+00:00",
+      "topics": [
+        "communication"
+      ],
+      "policy_tags": [
+        "outbreak_response"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "英国",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "CIDRAP / Minnesota"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "CIDRAP / Minnesota"
+        },
+        "target": {
+          "key": "uk",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "英国"
+        }
+      },
+      "location": {
+        "key": "uk",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "英国"
+      },
+      "region": "Europe",
+      "country": "英国",
+      "lat": 51.5074,
+      "lng": -0.1278,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "CIDRAP Vaccines & Immunization"
       ]
     },
     {
@@ -466,6 +737,71 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "New York Times Vaccines / Immunization"
+      ]
+    },
+    {
+      "id": "85f60a30a36bd4e2",
+      "title": "SARS-CoV-2感染歴のある5～17歳を対象としたワクチン効果のエミュレーション試験 - Nature",
+      "summary": "SARS-CoV-2感染歴のある5～17歳を対象としたワクチンの有効性試験のエミュレーション Nature",
+      "summary_ai": "SARS-CoV-2感染歴のある5～17歳を対象としたワクチンの有効性試験のエミュレーション Nature",
+      "title_original": "Target Trial Emulation of Vaccine Effectiveness in 5- to 17-years-olds with Prior SARS-CoV-2 Infection - Nature",
+      "summary_original": "Target Trial Emulation of Vaccine Effectiveness in 5- to 17-years-olds with Prior SARS-CoV-2 Infection Nature",
+      "summary_ai_original": "Target Trial Emulation of Vaccine Effectiveness in 5- to 17-years-olds with Prior SARS-CoV-2 Infection Nature",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vSDRKMVRMckF5ajhWZHYwTUJvWWZSYjNqU2M0bjlEQXJjVmhmZ3pINlo0U2hLd1p4bXhvRVdPMmtyU0RXU0szUXFxaDB0T0trYVdUWWk5NmNqWU5JTzNN?oc=5",
+      "source": "Nature News Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-04-17T19:53:03+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Nature News"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Nature News"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Nature News Vaccines / Immunization"
       ]
     },
     {
@@ -671,74 +1007,6 @@
       ]
     },
     {
-      "id": "5a9c4aa3a36ab98c",
-      "title": "法定ガイダンス: MHRA 手数料",
-      "summary": "2025 年から MHRA に料金が支払われます。",
-      "summary_ai": "支援技術 (スクリーン リーダーなど) を使用していて、よりアクセスしやすい形式のこの文書のバージョンが必要な場合は、webupdates@mhra.gov.uk まで電子メールでご連絡ください。支援技術 (スクリーン リーダーなど) を使用していて、よりアクセスしやすい形式のこのドキュメントのバージョンが必要な場合",
-      "title_original": "Statutory guidance: MHRA fees",
-      "summary_original": "Fees payable to the MHRA from 2025.",
-      "summary_ai_original": "If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email webupdates@mhra.gov.uk. If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible forma",
-      "article_text_original": "This file may not be suitable for users of assistive technology. Request an accessible format. If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email webupdates@mhra.gov.uk. Please tell us what format you need. It will help us if you say what assistive technology you use. This file may not be suitable for users of assistive technology. Request an accessible format. If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email webupdates@mhra.gov.uk. Please tell us what format you need. It will help us if you say what assistive technology you use. This file may not be suitable for users of assistive technology. Request an accessible format. If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email webupdates@mhra.gov.uk. Please tell us what format you need. It will help us if you say what assistive technology you use. Details The document attached lists MHRA fees from 2025 - 2027. Updates to add new information under Medical Device Fees section 7d Updated MHRA Fees document, point 6, notes, to reflect that there is no longer a phase IV notification scheme. Updated to correct the following figures in the MHRA fees document: 38. Wholesale distribution authorisations: fees - New Applications - Reduced application* plus full inspection fee (£5,216 changed to £5,128) (£1,080 changed to £992) application fee plus £4,136 inspection fee 38. Wholesale distribution authorisations: fees - New Applications - Reduced application plus reduced Inspection fee - General Sales List (GSL) only (£3,148 changed to £3,060) (£1,080 changed to £992) application fee plus £2,068 inspection fee Updated link to 'Apply for payment easement as an SME' form. Page layout updated to make the content more accessible to users. Updated the following fees sections to reflect increases from 16 July 2025: - 4. Blood banks: application fees for a Review Panel hearing - 5. Blood banks and other blood establishments: fees - 6. Blood facilities: contract laboratories fees - 9. Clinical investigations for devices: fees - 42. Medical Device Approved Body Fees - 44. Devices Regulatory Advice meeting (new section added) Also updated: Payment easements and waivers for small and medium companies Updated fees payable to the MHRA from 2025. Updated to include fees regarding International Recognition. Amendment fees added to our 'Current MHRA fees' webpage. Added links to Fees page: The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2023 & The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2023 Updated MHRA fees for 2023 - 2024 Added link to application form to 'apply for Small and Medium Company status'. CURRENT FEES UPDATED Changes to MHRA fees for 2021 - 2022 Published a new version of the 'Payment Easements and Waivers for Small and Medium Companies, as a HTML document. This replaces the 'Payment Easements for Small Companies' PDF. Update on the MHRA fees for Licence applications: marketing authorisations; Orphan Marketing Products: fees; Variations: licence variations application fees; Variations: licence variations applications groups fees; and Variations: Traditional Herbal Registration Scheme fees Added new information on fees following the end of the transition period. This includes new sections on orphan marketing products, Pharmacovigilance (PV) Safety Reviews, pre-assessment (rolling review) fees, PMF and Vaccine Antigen Master File certification. Amended text under 'Current MHRA fees' guidance. Section '13. Inspection: fees'. We have updated the years references to the periodic fees Update to confirm fee levels for 2020 to 2021 are remaining the same as 2019 to 2020 Minor amendment to the explanation of the Office Based Inspection Fee to include information that was left out by mistake. Information about 2017/18 fees added to the page. MHRA's fees changed on April 1 2016. MHRA's fees change on April 1 2016. Uploaded a PDF of the changed fees.",
-      "link": "https://www.gov.uk/government/publications/mhra-fees",
-      "source": "MHRA",
-      "source_type": "official",
-      "source_tier": "Tier 1",
-      "source_priority": 8,
-      "published_at": "2026-04-16T13:34:30+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [
-        "approval",
-        "safety"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "英国",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "MHRA / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "MHRA / London"
-        },
-        "target": {
-          "key": "uk",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "英国"
-        }
-      },
-      "location": {
-        "key": "uk",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "英国"
-      },
-      "region": "Europe",
-      "country": "英国",
-      "lat": 51.5074,
-      "lng": -0.1278,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "MHRA"
-      ]
-    },
-    {
       "id": "aa78af9f636ee6da",
       "title": "子宮頸がんの原因となるウイルスの根絶に向けた新知見 HPVワクチン単回接種の有効性・安全性検証、男女接種拡大へ［学校法人近畿大学］ - 日本経済新聞",
       "summary": "子宮頸がんの原因となるウイルスの根絶に向けた新知見 HPVワクチン単回接種の有効性・安全性検証、男女接種拡大へ［学校法人近畿大学］ 日本経済新聞",
@@ -803,6 +1071,72 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "日経 ワクチン / 予防接種"
+      ]
+    },
+    {
+      "id": "df4d5f7dd518dc24",
+      "title": "ワクチン摂取量を増加させる介入の有効性: コンポーネントネットワークのメタ分析 - BMJ",
+      "summary": "ワクチン摂取量を増やすための介入の有効性: コンポーネントネットワークのメタ分析 The BMJ",
+      "summary_ai": "ワクチン摂取量を増やすための介入の有効性: コンポーネントネットワークのメタ分析 The BMJ",
+      "title_original": "Effectiveness of interventions to increase vaccine uptake: component network meta-analysis - The BMJ",
+      "summary_original": "Effectiveness of interventions to increase vaccine uptake: component network meta-analysis The BMJ",
+      "summary_ai_original": "Effectiveness of interventions to increase vaccine uptake: component network meta-analysis The BMJ",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PSERkX1J0SXNFVEQ2SUszdWhqQkU1cnhmM205cGx5d2dXc0RucGlBcjU0dnpkdmZuNElpNHQzb1RsdjRVV05SN1o3TjUydFIyb29pRVRNczZGbHc?oc=5",
+      "source": "BMJ",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-04-15T23:36:25+00:00",
+      "topics": [
+        "communication",
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BMJ / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BMJ / London"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 2,
+      "duplicate_sources": [
+        "BMJ"
       ]
     },
     {
@@ -1013,73 +1347,6 @@
       ]
     },
     {
-      "id": "08fa027f0aece9ef",
-      "title": "肺炎による死亡者の９７．８％が高齢者 ＲＳウイルス、肺炎球菌…４月以降のワクチン接種スケジュールは？ - 読売新聞",
-      "summary": "肺炎による死亡者の９７．８％が高齢者 ＲＳウイルス、肺炎球菌…４月以降のワクチン接種スケジュールは？ 読売新聞",
-      "summary_ai": "肺炎による死亡者の９７．８％が高齢者 ＲＳウイルス、肺炎球菌…４月以降のワクチン接種スケジュールは？",
-      "title_original": "肺炎による死亡者の９７．８％が高齢者 ＲＳウイルス、肺炎球菌…４月以降のワクチン接種スケジュールは？ - 読売新聞",
-      "summary_original": "肺炎による死亡者の９７．８％が高齢者 ＲＳウイルス、肺炎球菌…４月以降のワクチン接種スケジュールは？ 読売新聞",
-      "summary_ai_original": "肺炎による死亡者の９７．８％が高齢者 ＲＳウイルス、肺炎球菌…４月以降のワクチン接種スケジュールは？",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcnNDZUVxSWhBWXN2N3U5Q1dISVZKWVRmWFkzRnN0bXl5ZThEekV0b3ZfMXgxeWpGaE9lTmNmcXFab2tuT2pSaXNsdy1BZjc5dEFGTVBSMEI5UjhGWkNlaDZvbldnR2tnMi1lM2UzX3NLTlBCaHlPY3h0czduOVVobk5ZNnpCdjlHbDZFbC02MA?oc=5",
-      "source": "読売新聞 ワクチン / 予防接種",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-04-15T07:00:00+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [
-        "schedule"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "japan",
-        "name_ja": "日本",
-        "lat": 35.6762,
-        "lng": 139.6503,
-        "region": "Asia",
-        "label": "読売新聞"
-      },
-      "plot": {
-        "source": {
-          "key": "japan",
-          "name_ja": "日本",
-          "lat": 35.6762,
-          "lng": 139.6503,
-          "region": "Asia",
-          "label": "読売新聞"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "読売新聞 ワクチン / 予防接種"
-      ]
-    },
-    {
       "id": "d6a3d4958047fc4a",
       "title": "HPVワクチン接種により男性のがんリスクが約半分に減ることが研究で示唆-CIDRAP",
       "summary": "HPVワクチン接種は男性のがんリスクを約半分に減らす、研究はCIDRAPを示唆",
@@ -1215,147 +1482,6 @@
       ]
     },
     {
-      "id": "53b5bc8cf3b97287",
-      "title": "FDA、遺伝子治療開発促進のためゲノム編集安全基準に関するガイダンス草案を発行",
-      "summary": "米国食品医薬品局は本日、ゲノム編集技術を含むヒト遺伝子治療製品の承認を求めるスポンサー向けのガイドライン草案を発表した。",
-      "summary_ai": "「次世代シーケンシングを使用したヒト遺伝子治療製品におけるゲノム編集の安全性評価」ガイダンスでは、シーケンシング戦略、サンプル選択、分析パラメーター、およびレポートに関する具体的な推奨事項が提供されています。ガイダンス草案は同庁の1月のガイダンスに基づいている",
-      "title_original": "FDA Issues Draft Guidance on Genome Editing Safety Standards to Advance Gene Therapy Development",
-      "summary_original": "The U.S. Food and Drug Administration today issued a draft guidance for sponsors seeking approval of human gene therapy products involving genome editing technologies.",
-      "summary_ai_original": "The \"Safety Assessment of Genome Editing in Human Gene Therapy Products Using Next-Generation Sequencing” guidance provides specific recommendations on sequencing strategies, sample selection, analysis parameters, and reporting. The draft guidance builds upon the agency's January",
-      "article_text_original": "- For Immediate Release: The U.S. Food and Drug Administration today issued a draft guidance for sponsors seeking approval of human gene therapy products involving genome editing technologies. When finalized, this guidance will provide recommendations for standardized methods for comprehensively assessing the safety of genome editing therapies to bring effective treatments to patients sooner. “Genome editing holds extraordinary promise for treating previously incurable genetic diseases, and today’s announcement represents the FDA's forward approach to drive innovation and advance the development of genome editing therapies,” said FDA Commissioner Marty Makary, M.D., M.P.H. “This guidance provides sponsors with clear, scientifically-grounded recommendations for evaluating off-target editing risks using state-of-the-art sequencing technologies. We are serious about moving this ball forward.” The draft guidance, issued by the Center for Biologics Evaluation and Research, supports the FDA’s framework for accelerating development of individualized therapies for ultra-rare diseases launched in February. The framework revolutionizes how the FDA engages with industry and promotes a path for transformative rare disease treatments. The \"Safety Assessment of Genome Editing in Human Gene Therapy Products Using Next-Generation Sequencing” guidance provides specific recommendations on sequencing strategies, sample selection, analysis parameters, and reporting. The draft guidance builds upon the agency's January 2024 guidance on human gene therapy products incorporating genome editing and focuses specifically on the use of next-generation sequencing (NGS)-based methods to evaluate potential safety risks associated with off-target editing and loss of genome integrity. The recommendations are intended to support nonclinical studies submitted with investigational new drug (IND) applications and Biologics License Applications (BLAs). The guidance applies to both ex vivo products, where cells are edited outside the body, and in vivo products, where gene editing occurs directly in the patient's tissues. “Next-generation sequencing not only detects off-target editing and assesses chromosomal integrity; it also requires science-based recommendations for its use. We're giving sponsors a roadmap for comprehensive safety assessment while supporting the efficient development of these promising therapies,” said Chief Medical and Scientific Officer and Center for Biologics Evaluation and Research Director Vinay Prasad, M.D., M.P.H. “Our goal is to work collaboratively with the scientific community to bring safe and effective genome editing therapies to patients who need them most.\" The FDA encourages sponsors to engage early in product development, even before submitting an IND application, for example through Initial Targeted Engagement for Regulatory Advice on CBER/CDER Products (INTERACT) and pre-IND meetings, to discuss their specific development strategies. The draft guidance is available for public comment. Comments must be submitted within 90 days of publication in the Federal Register at Regulations.gov. The agency will review and consider comments received before finalizing the guidance. ### The FDA, an agency within the U.S. Department of Health and Human Services, protects the public health by assuring the safety, effectiveness, and security of human and veterinary drugs, vaccines and other biological products for human use, and medical devices. The agency also is responsible for the safety and security of our nation’s food supply, cosmetics, dietary supplements, radiation-emitting electronic products, and for regulating tobacco products.",
-      "link": "http://www.fda.gov/news-events/press-announcements/fda-issues-draft-guidance-genome-editing-safety-standards-advance-gene-therapy-development",
-      "source": "FDA Vaccines / Biologics",
-      "source_type": "official",
-      "source_tier": "Tier 1",
-      "source_priority": 9,
-      "published_at": "2026-04-14T13:00:05+00:00",
-      "topics": [
-        "policy",
-        "research"
-      ],
-      "policy_tags": [
-        "approval",
-        "recommendation",
-        "safety"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "FDA / Silver Spring"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "FDA / Silver Spring"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "FDA Vaccines / Biologics"
-      ]
-    },
-    {
-      "id": "f30c82399d52e7b1",
-      "title": "細胞および遺伝子治療のガイダンス",
-      "summary": "このページには、細胞療法および遺伝子療法のガイダンスのリストが含まれています。",
-      "summary_ai": "- 次世代シーケンスを使用したヒト遺伝子治療製品におけるゲノム編集の安全性評価。 Industry 4/2026 向けのドラフト ガイダンス - 特定の遺伝子疾患を対象とした個別の治療法を開発するための妥当なメカニズム フレームワークの使用に関する考慮事項",
-      "title_original": "Cellular & Gene Therapy Guidances",
-      "summary_original": "This page contains a listing of cellular and gene therapy guidances.",
-      "summary_ai_original": "- Safety Assessment of Genome Editing in Human Gene Therapy Products Using Next-Generation Sequencing; Draft Guidance for Industry 4/2026 - Considerations for the use of the Plausible Mechanism Framework to Develop Individualized Therapies that Target Specific Genetic Conditions ",
-      "article_text_original": "Should you find a link that does not work within any Guidance document, Rule or other document posted on the FDA Web site, please try searching for the document using the document title. If you need further assistance, please go to Contact FDA. - Safety Assessment of Genome Editing in Human Gene Therapy Products Using Next-Generation Sequencing; Draft Guidance for Industry 4/2026 - Considerations for the use of the Plausible Mechanism Framework to Develop Individualized Therapies that Target Specific Genetic Conditions with Known Biological Cause; Draft Guidance for Industry 2/2026 - Expedited Programs for Regenerative Medicine Therapies for Serious Conditions; Draft Guidance for Industry 9/2025 - Postapproval Methods to Capture Safety and Efficacy Data for Cell and Gene Therapy Products; Draft Guidance for Industry 9/2025 - Innovative Designs for Clinical Trials of Cellular and Gene Therapy Products in Small Populations; Draft Guidance for Industry 9/2025 - Frequently Asked Questions — Developing Potential Cellular and Gene Therapy Products; Draft Guidance for Industry 11/2024 - Safety Testing of Human Allogeneic Cells Expanded for Use in Cell-Based Medical Products; Draft Guidance for Industry 4/2024 - Considerations for the Use of Human-and Animal-Derived Materials in the Manufacture of Cell and Gene Therapy and Tissue-Engineered Medical Products; Draft Guidance for Industry 4/2024 - Human Gene Therapy Products Incorporating Human Genome Editing; Guidance for Industry 1/2024 - Considerations for the Development of Chimeric Antigen Receptor (CAR) T Cell Products; Guidance for Industry 1/2024 - Potency Assurance for Cellular and Gene Therapy Products; Draft Guidance for Industry 12/2023 For a high-level overview of this guidance document, please view this recorded webinar featuring Dr. Matthew Klinker, Cell Therapy Branch 2 Chief, Office of Cellular Therapy and Human Tissues, Office of Therapeutic Products, CBER. - Manufacturing Changes and Comparability for Human Cellular and Gene Therapy Products; Draft Guidance for Industry 7/2023 For a high-level overview of this guidance document, please view this recorded webinar featuring Dr. Andrew Byrnes, Gene Transfer & Immunogenicity Branch Chief, Office of Gene Therapy CMC, Office of Therapeutic Products, CBER. - Studying Multiple Versions of a Cellular or Gene Therapy Product in an Early-Phase Clinical Trial; Guidance for Industry 11/2022 - Human Gene Therapy for Neurodegenerative Diseases; Guidance for Industry 10/2022 - Interpreting Sameness of Gene Therapy Products Under the Orphan Drug Regulations; Guidance for Industry 9/2021 - Manufacturing Considerations for Licensed and Investigational Cellular and Gene Therapy Products During COVID-19 Public Health Emergency; Guidance for Industry 1/2021 - Chemistry, Manufacturing, and Control (CMC) Information for Human Gene Therapy Investigational New Drug Applications (INDs); Guidance for Industry 1/2020 - Long Term Follow-up After Administration of Human Gene Therapy Products; Guidance for Industry 1/2020 - Testing of Retroviral Vector-Based Human Gene Therapy Products for Replication Competent Retrovirus During Product Manufacture and Patient Follow-up; Guidance for Industry 1/2020 - Human Gene Therapy for Hemophilia; Guidance for Industry 1/2020 - Human Gene Therapy for Rare Diseases; Guidance for Industry 1/2020 - Human Gene Therapy for Retinal Disorders; Guidance for Industry 1/2020 - Evaluation of Devices Used with Regenerative Medicine Advanced Therapies; Guidance for Industry 2/2019 - Expedited Programs for Regenerative Medicine Therapies for Serious Conditions; Guidance for Industry 2/2019 - Regulatory Considerations for Human Cells, Tissues, and Cellular and Tissue-Based Products: Minimal Manipulation and Homologous Use; Guidance for Industry and Food and Drug Administration Staff Updated: 12/2017 - Same Surgical Procedure Exception under 21 CFR 1271.15(b): Questions and Answers Regarding the Scope of the Exception; Guidance for Industry 11/2017 - Deviation Reporting for Human Cells, Tissues, and Cellular and Tissue-Based Products Regulated Solely Under Section 361 of the Public Health Service Act and 21 CFR Part 1271; Guidance for Industry 9/2017 - Recommendations for Microbial Vectors Used for Gene Therapy; Guidance for Industry 9/2016 - Design and Analysis of Shedding Studies for Virus or Bacteria-Based Gene Therapy and Oncolytic Products; Guidance for Industry 8/2015 - Considerations for the Design of Early-Phase Clinical Trials of Cellular and Gene Therapy Products; Guidance for Industry 6/2015 - Determining the Need for and Content of Environmental Assessments for Gene Therapies, Vectored Vaccines, and Related Recombinant Viral or Microbial Products; Guidance for Industry 3/2015 - Guidance for Industry: BLA for Minimally Manipulated, Unrelated Allogeneic Placental/Umbilical Cord Blood Intended for Hematopoietic and Immunologic Reconstitution in Patients with Disorders Affecting the Hematopoietic System 3/2014. (This guidance finalizes the draft guidance of the same title dated June 2013.) - IND Applications for Minimally Manipulated, Unrelated Allogeneic Placental/Umbilical Cord Blood Intended for Hematopoietic and Immunologic Reconstitution in Patients with Disorders Affecting the Hematopoietic System - Guidance for Industry and FDA Staff 3/2014. (This guidance finalizes the draft guidance of the same title dated June 2013.) - Guidance for Industry: Preclinical Assessment of Investigational Cellular and Gene Therapy Products (This guidance finalizes the draft guidance entitled “Guidance for Industry: Preclinical Assessment of Investigational Cellular and Gene Therapy Products” dated November 2012) 11/2013 - Guidance for Industry: Preparation of IDEs and INDs for Products Intended to Repair or Replace Knee Cartilage 12/2011. (This guidance finalizes the draft guidance of the same title dated July 2007.) - Guidance for Industry: Clinical Considerations for Therapeutic Cancer Vaccines 10/2011. (This guidance finalizes the draft guidance of the same title dated September 2009.) - Guidance for Industry: Potency Tests for Cellular and Gene Therapy Products 1/2011. (This guidance finalizes the draft document of the same name, dated October 2008.) - Guidance for Industry: Cellular Therapy for Cardiac Disease (This guidance finalizes the draft guidance entitled “Guidance for Industry: Somatic Cell Therapy for Cardiac Disease” dated March 2009 (April 2, 2009, 74 FR 14992). 10/2010. - Guidance for Industry: Considerations for Allogeneic Pancreatic Islet Cell Products 9/2009 - Guidance for FDA Reviewers and Sponsors: Content and Review of Chemistry, Manufacturing, and Control (CMC) Information for Human Somatic Cell Therapy Investigational New Drug Applications (INDs) 4/2008 - Eligibility Determination for Donors of Human Cells, Tissues, and Cellular and Tissue-Based Products; Guidance for Industry 8/2007 - Guidance for Industry: Guidance for Human Somatic Cell Therapy and Gene Therapy 3/1998",
-      "link": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/cellular-gene-therapy-guidances",
-      "source": "FDA Vaccines / Biologics",
-      "source_type": "official",
-      "source_tier": "Tier 1",
-      "source_priority": 9,
-      "published_at": "2026-04-14T12:52:18+00:00",
-      "topics": [
-        "policy",
-        "research"
-      ],
-      "policy_tags": [
-        "approval",
-        "outbreak_response",
-        "recommendation",
-        "safety"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "FDA / Silver Spring"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "FDA / Silver Spring"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "FDA Vaccines / Biologics"
-      ]
-    },
-    {
       "id": "457293e7299d8084",
       "title": "結核ワクチン候補の第3相試験での防御効果は限定的 - CIDRAP",
       "summary": "結核ワクチン候補は第 3 相試験 CIDRAP で限定的な予防効果を提供",
@@ -1418,79 +1544,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "CIDRAP Vaccines & Immunization"
-      ]
-    },
-    {
-      "id": "8b92ff3f6ecb53c7",
-      "title": "ワークショップ、会議、カンファレンス (生物製剤)",
-      "summary": "一般の人々を教育し、利害関係者の意見を求める目的で、CBER が主催または共催するさまざまな生物製剤に関する会議、カンファレンス、ワークショップに関する情報。",
-      "summary_ai": "FDA の生物製剤評価研究センター (CBER) は、一般の人々を教育し、利害関係者の意見を求めるために、さまざまな生物製剤に関する会議、カンファレンス、ワークショップを後援または共催しています。今後のワークショップ、ミーティング、カンファレンス - FDA CBER OTP Publ",
-      "title_original": "Workshops, Meetings & Conferences (Biologics)",
-      "summary_original": "Information on CBER sponsored or co-sponsored meetings, conferences and workshops about various biologics in order to educate the public and seek the opinion of interested parties.",
-      "summary_ai_original": "FDA's Center for Biologics Evaluation and Research (CBER) sponsors or co-sponsors meetings, conferences and workshops about various biologics in order to educate the public and seek the opinion of interested parties. Upcoming Workshops, Meetings, & Conferences - FDA CBER OTP Publ",
-      "article_text_original": "FDA's Center for Biologics Evaluation and Research (CBER) sponsors or co-sponsors meetings, conferences and workshops about various biologics in order to educate the public and seek the opinion of interested parties. Minutes, transcripts, summaries and/or presentations for CBER sponsored or co-sponsored meetings and workshops are made available as soon after the meeting as possible. Presentations are in chronological order, with the most recent event at the top of the list. Most will be removed after one year. If you want to keep the slides for future reference, they may be downloaded and saved. Slides that have been removed from the web site may be requested by submitting a written request to FDA's Freedom of Information staff. View FDA Archive for past meetings and materials: 2011-2015; 2016-2020. Upcoming Workshops, Meetings, & Conferences - FDA CBER OTP Public Listening Meeting: Leveraging Knowledge for Facilitating the Development and Review of Cell and Gene Therapies September 18, 2025 - FDA Public Meeting: Onshoring Manufacturing of Drugs and Biological Products September 30, 2025 - OTP Town Hall: Gene Therapy Manufacturing CMC and Facility Readiness for BLAs and Post-licensure Changes October 22, 2025 - Approval of New Patch Tests for the Diagnosis of Allergic Contact Dermatitis; Public Workshop October 23, 2025 - Live Biotherapeutic Products to Prevent Necrotizing Enterocolitis in Very Low Birth Weight Infants October 25, 2024 - 2024 Center for Biologics Evaluation and Research (CBER) Science Symposium September 16 - 18, 2024 - Biomarker-driven Drug Development for Allergic Diseases and Asthma; Public Workshop February 22, 2024 - WCBP Symposium 2024 January 23 - 25, 2024 - Workshop for the Identification and Standardization of Methods for Assessing Gene Therapy Product Activity and Comparability and the Evaluation of T-Cell Therapies November 16, 2023 - November 17, 2023 - Warrior Families: Advancing Regenerative Medicine Through Science October 5, 2023 - OTP Town Hall: Nonclinical Assessment of Cell and Gene Therapy Products August 30, 2023 - OTP Town Hall: Cell Therapy Chemistry, Manufacturing, and Controls – June 2023 June 8, 2023 - RDEA Pilot Program 2023 Public Workshop June 7 - 8, 2023 - Regulatory Education for Industry (REdI) Annual Conference 2023 June 5 - 9, 2023 - Methods and Approaches for Capturing Post-Approval Safety and Efficacy Data on Cell and Gene Therapy Products April 27, 2023 - Recombinant Protein-Based COVID-19 Vaccines Workshop April 27, 2023 - OTP Town Hall: Gene Therapy Chemistry, Manufacturing, and Controls – April 2023 April 25, 2023 - Clinical Trials: The Patient Experience APRIL 13, 2023 - Electronic Submission of Adverse Event Reports to FDA Adverse Event Reporting System (FAERS) using International Council for Harmonisation (ICH) E2B(R3) Standards April 4, 2023 - November 7, 2023 - Immune Globulin Hypersensitivity Reactions: Root Causes and Mitigation; Public Workshop March 30, 2023 - FDA CBER Office of Therapeutic Products (OTP) Advanced Manufacturing and Analytical Technologies (AMAT) for Regenerative Medicine Therapies (RMT) Workshop March 14, 2023 - OTAT Town Hall: Clinical Development of Gene Therapy Products for Rare Diseases February 7, 2023 - Assessing Genetic Heterogeneity in the Context of Genome Editing Off-Targets in Gene Therapy Products December 16, 2022 - FDA Clinical Investigator Training Course (CITC) 2022 December 7 - 8, 2022 - OTAT Town Hall: Cell Therapy Chemistry, Manufacturing, and Controls December 7, 2022 - FDA/PQRI Workshop on the Regulatory Framework for Distributed and Point of Care Pharmaceutical Manufacturing: An Opportunity for DM/POC Stakeholder Engagement November 14 - 16, 2022 - FDA CBER OTAT Patient-Focused Drug Development Listening Meeting — Patient Perspectives on Gene Therapy Products November 15, 2022 - Natural History Studies to Support Regenerative Medicine: A How-To Webinar October 27, 2022 - FDA NanoDay Symposium 2022 October 11, 2022 - OTAT Town Hall: Gene Therapy Chemistry, Manufacturing, and Controls September 29, 2022 - 2022 Center for Biologics Evaluation and Research (CBER) Science Symposium September 20-22, 2022 - Regulatory Education for Industry (REdI) Annual Conference 2022 June 6 - 10, 2022 - Annual Patient Engagement & Regenerative Medicine Meeting 2022: An FDA CBER Workshop for Patient Advocates May 24, 2022 - RegenMedEd Webinar: The Critical Role of Patients in Advancing Gene Therapy Treatments for Rare Diseases March 9, 2022 - Regenerative Medicine 101 Webinar: Information for Patients, Caregivers & Advocates November 16, 2021 - Science and Regulation of Bacteriophage Therapy Workshop August 30 - September 1, 2021 - Regulatory Education for Industry (REdI) Annual Conference 2021 July 19 - 23, 2021 - Model Informed Drug Development Approaches for Immunogenicity Assessments June 9, 2021 - Patient Engagement & Regenerative Medicine: An FDA CBER Workshop for Patient Advocates May 6, 2021 Follow CBER Division of Communication and Consumer Affairs Office of Communication, Outreach and Development Center for Biologics Evaluation and Research Food and Drug Administration 10903 New Hampshire Ave WO71-3103 Silver Spring, MD 20993-0002 (800) 835-4709 (240) 402-8010 For Updates on Twitter, follow @fdacber",
-      "link": "http://www.fda.gov/vaccines-blood-biologics/news-events-biologics/workshops-meetings-conferences-biologics",
-      "source": "FDA Vaccines / Biologics",
-      "source_type": "official",
-      "source_tier": "Tier 1",
-      "source_priority": 9,
-      "published_at": "2026-04-13T13:44:59+00:00",
-      "topics": [
-        "communication",
-        "policy",
-        "research"
-      ],
-      "policy_tags": [
-        "approval",
-        "communication",
-        "safety"
-      ],
-      "vaccines": [
-        "covid"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "FDA / Silver Spring"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "FDA / Silver Spring"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "FDA Vaccines / Biologics"
       ]
     },
     {
@@ -1760,71 +1813,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "New York Times Vaccines / Immunization"
-      ]
-    },
-    {
-      "id": "0f068bab45a1a076",
-      "title": "エヴァクシオン、個別化がんワクチンEVX-01の第2相試験1年延長で最後の患者訪問を発表 - フィナンシャル・タイムズ",
-      "summary": "エヴァクシオン、個別化がんワクチンEVX-01の第2相試験1年延長で最後の患者訪問を発表 フィナンシャル・タイムズ",
-      "summary_ai": "エヴァクシオン、個別化がんワクチンEVX-01の第2相試験1年延長で最後の患者訪問を発表 フィナンシャル・タイムズ",
-      "title_original": "Evaxion announces last patient visit in one-year extension of phase 2 trial with personalized cancer vaccine EVX-01 - Financial Times",
-      "summary_original": "Evaxion announces last patient visit in one-year extension of phase 2 trial with personalized cancer vaccine EVX-01 Financial Times",
-      "summary_ai_original": "Evaxion announces last patient visit in one-year extension of phase 2 trial with personalized cancer vaccine EVX-01 Financial Times",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN3RKcDYxUnVSSkFPTUR5dFdtSWpmejk1ZzZobTJydmZ3bmRwc2hIWFAxMGJ1eW55Z3NyemlGellqaGExSFhtYVJDdmZ1SzVMQWxLMkp6RHZIOHlFNzBVLUo4Q2dncGx0Zko1aHIxeTJseFUyTUhaOW5BSnZZdmUtUHVOcUJQTTJGb0ZFeWQwdEhPWDFhYzdHTA?oc=5",
-      "source": "Financial Times Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-04-07T10:00:00+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "Financial Times"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "Financial Times"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Financial Times Vaccines / Immunization"
       ]
     }
   ]
