@@ -1,9 +1,9 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-04-21T21:56:13.142557+00:00",
-  "item_count": 23,
-  "archive_count": 139,
+  "generated_at": "2026-04-22T22:00:26.862078+00:00",
+  "item_count": 31,
+  "archive_count": 147,
   "days_back": 14,
   "plot_mode_default": "source",
   "feed_status": [
@@ -103,21 +103,21 @@
       "name": "NEJM",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Anejm.org%20(trial%20OR%20effectiveness%20OR%20policy%20OR%20safety)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 2,
       "kept": 1
     },
     {
       "name": "BMJ",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abmj.com%20(policy%20OR%20trial%20OR%20effectiveness%20OR%20communication)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 8,
-      "kept": 6
+      "seen": 9,
+      "kept": 7
     },
     {
       "name": "Vaccine journal",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Asciencedirect.com%2Fjournal%2Fvaccine&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 2,
       "kept": 0
     },
     {
@@ -152,85 +152,85 @@
       "name": "bioRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abiorxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
-      "kept": 1
+      "seen": 3,
+      "kept": 0
     },
     {
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 34,
-      "kept": 4
+      "seen": 37,
+      "kept": 5
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 98,
-      "kept": 0
+      "seen": 96,
+      "kept": 2
     },
     {
       "name": "AP Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 6,
+      "seen": 7,
       "kept": 0
     },
     {
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 17,
-      "kept": 0
+      "seen": 28,
+      "kept": 1
     },
     {
       "name": "Financial Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aft.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 8,
+      "seen": 5,
       "kept": 0
     },
     {
       "name": "STAT Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 18,
+      "seen": 17,
       "kept": 0
     },
     {
       "name": "Nature News Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 18,
+      "seen": 21,
       "kept": 2
     },
     {
       "name": "Science Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Ascience.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 20,
+      "seen": 11,
       "kept": 0
     },
     {
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 62,
-      "kept": 2
+      "seen": 82,
+      "kept": 3
     },
     {
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 23,
+      "seen": 22,
       "kept": 0
     },
     {
       "name": "Washington Post Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 22,
-      "kept": 0
+      "seen": 27,
+      "kept": 1
     },
     {
       "name": "NHK ワクチン / 予防接種",
@@ -243,32 +243,637 @@
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 26,
-      "kept": 1
+      "seen": 98,
+      "kept": 0
     },
     {
       "name": "朝日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Aasahi.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 3,
+      "seen": 5,
       "kept": 0
     },
     {
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 25,
-      "kept": 1
+      "seen": 28,
+      "kept": 3
     },
     {
       "name": "毎日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 10,
+      "seen": 8,
       "kept": 0
     }
   ],
   "items": [
+    {
+      "id": "2ea160edde6a7437",
+      "title": "米CDC、新型コロナウイルスワクチンの有効性を示す報告書を公表しない - ロイター",
+      "summary": "米CDC、新型コロナウイルスワクチンの有効性を示す報告書を公表しない ロイター",
+      "summary_ai": "米CDC、新型コロナウイルスワクチンの有効性を示す報告書を公表しない ロイター",
+      "title_original": "US CDC will not publish report showing COVID vaccine effectiveness - Reuters",
+      "summary_original": "US CDC will not publish report showing COVID vaccine effectiveness Reuters",
+      "summary_ai_original": "US CDC will not publish report showing COVID vaccine effectiveness Reuters",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQRlp2MWpqZlI3dndUSi0ybHRWYkx2VWZFTVhaQ0F6enJUVF9mbW9Bd0JnLWxFTV9mLUJQN0FfbE5kdnY4MVdDYXZHNm5aa3NkUUh6V2ZIVGhGUUpmYndVaUFvcnFxLTFta015alJ6R1VfZ1c5T0d3MnhGYkx6OUE5TTBMUVl1V1NMSDlmS0xFSlpPQ2pzdV9jT2VwZE9DOW1sUGdIMFZjUEM5bEVjbTNvRGg0NHkzc2c5SjRpSnhUeU1NNVVWV2JrQmQ4QXowTGFqdXVaNVJIV0RmNlNZcmJra1hxaw?oc=5",
+      "source": "Reuters Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-04-22T21:07:18+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "covid"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Reuters"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Reuters"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Reuters Vaccines / Immunization"
+      ]
+    },
+    {
+      "id": "491dfefc376a0f4d",
+      "title": "要点：アラバマ州における鳥インフルエンザワクチンの治験、抗真菌薬の発見、未治療の梅毒 - CIDRAP",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_ai": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_original": "Quick takes: Avian flu vaccine trial, antifungal drug discovery, untreated syphilis in Alabama - CIDRAP",
+      "summary_original": "Quick takes: Avian flu vaccine trial, antifungal drug discovery, untreated syphilis in Alabama CIDRAP",
+      "summary_ai_original": "Quick takes: Avian flu vaccine trial, antifungal drug discovery, untreated syphilis in Alabama CIDRAP",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU2dCMFRQR0NzbUJnUGR6REQwQzRiX3p4Zmg0Y3ZYQnBTTndJVURGWnZXczRQNndtSnh0RWdYcFBIejRyUFBJWU9hWUtjYWJvaDFUY1E1czAzSlU1MHZlZEFYRHJnMk5MQ1BSLUlVSXZpTVdaaXRYT0JSRkF0SVJ2ZjlRMlFnd0xmMTFfbXFvc3lIOU5wbUd5YW1uS1huZE5EZVZmOThlS05sZUhYX1VsWnZKbzRYUHNkcFcyRG1JUXg?oc=5",
+      "source": "CIDRAP Vaccines & Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 8,
+      "published_at": "2026-04-22T16:55:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "influenza"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "CIDRAP / Minnesota"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "CIDRAP / Minnesota"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "CIDRAP Vaccines & Immunization"
+      ]
+    },
+    {
+      "id": "48ab9b8566adfd44",
+      "title": "淋菌に対する髄膜炎菌ワクチンの有効性：ランダム化臨床試験（MenGO） - Nature",
+      "summary": "淋菌に対する髄膜炎菌ワクチンの有効性：ランダム化臨床試験（MenGO） Nature",
+      "summary_ai": "淋菌に対する髄膜炎菌ワクチンの有効性：ランダム化臨床試験（MenGO） Nature",
+      "title_original": "Efficacy of the meningococcal vaccine against Neisseria gonorrhoeae : a randomised clinical trial (MenGO) - Nature",
+      "summary_original": "Efficacy of the meningococcal vaccine against Neisseria gonorrhoeae : a randomised clinical trial (MenGO) Nature",
+      "summary_ai_original": "Efficacy of the meningococcal vaccine against Neisseria gonorrhoeae : a randomised clinical trial (MenGO) Nature",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8ySXJ3UjdqdjVrUUozMnEwUl9Sb1RfT3RJSHU3QmgtcjFyRl9ZSk13UENFY0drTTU0RE1vWmN0ZDB4UkpGWXhkME9TMjlvOEZtNXRUNnFhZ3h0MnNvUmZr?oc=5",
+      "source": "Nature News Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-04-22T15:13:41+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "meningococcal"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Nature News"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Nature News"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Nature News Vaccines / Immunization"
+      ]
+    },
+    {
+      "id": "4902950b114eb457",
+      "title": "CDC。新型コロナウイルスワクチンの利点を示す研究の出版を中止 - ニューヨーク・タイムズ",
+      "summary": "CDC。新型コロナワクチンの利点を示す研究の出版を中止 ニューヨーク・タイムズ",
+      "summary_ai": "新型コロナワクチンの利点を示す研究の出版を中止 ニューヨーク・タイムズ",
+      "title_original": "C.D.C. Cancels Publication of Study Showing Benefits of Covid Vaccines - The New York Times",
+      "summary_original": "C.D.C. Cancels Publication of Study Showing Benefits of Covid Vaccines The New York Times",
+      "summary_ai_original": "Cancels Publication of Study Showing Benefits of Covid Vaccines The New York Times",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUmtnRnNuUEhjVHR5cjEyUGNEdndnTWxQbHczNHUzWFR6aldhTjloRmxaQ3l6TC0tdFRCOGFKWFRSb1ljQmgtaUEtblpIS09LX2o4VEZhQ0pFaUc3TGJxdkJId3k5QWVmSHNZQm93Zml2WVZsaTdqbXNDV0hHeTFjUg?oc=5",
+      "source": "New York Times Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-04-22T15:08:16+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "covid"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "New York Times"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "New York Times"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "New York Times Vaccines / Immunization"
+      ]
+    },
+    {
+      "id": "982e9ae3b41472e3",
+      "title": "鳥インフルエンザ：英国でmRNAワクチンの治験が始まる - BMJ",
+      "summary": "鳥インフルエンザ：英国でmRNAワクチンの治験が始まる The BMJ",
+      "summary_ai": "鳥インフルエンザ：英国でmRNAワクチンの治験が始まる The BMJ",
+      "title_original": "Bird flu: mRNA vaccine trial begins in UK - The BMJ",
+      "summary_original": "Bird flu: mRNA vaccine trial begins in UK The BMJ",
+      "summary_ai_original": "Bird flu: mRNA vaccine trial begins in UK The BMJ",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56ZFNUTVRXb3M3TUE5aFY3VFRreEdmN0Z5NTlSend5WGRsMkF1TEkwZV94QVBvWHJMYVNXNEZKTWNVLUNFcnpYNUVLaGdHUC15S1E?oc=5",
+      "source": "BMJ",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-04-22T09:56:41+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "covid"
+      ],
+      "variants": [],
+      "target_country": "英国",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BMJ / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BMJ / London"
+        },
+        "target": {
+          "key": "uk",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "英国"
+        }
+      },
+      "location": {
+        "key": "uk",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "英国"
+      },
+      "region": "Europe",
+      "country": "英国",
+      "lat": 51.5074,
+      "lng": -0.1278,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "BMJ"
+      ]
+    },
+    {
+      "id": "3855eaf7201c6d68",
+      "title": "モデルナ、HHSの資金提供中止を受けてmRNA鳥インフルエンザワクチンの治験を開始 - ワシントン・ポスト",
+      "summary": "モデルナ、HHSの資金提供中止を受けてmRNA鳥インフルエンザワクチンの治験を開始 ワシントン・ポスト",
+      "summary_ai": "モデルナ、HHSの資金提供中止を受けてmRNA鳥インフルエンザワクチンの治験を開始 ワシントン・ポスト",
+      "title_original": "Moderna launches mRNA bird flu vaccine trial after HHS cancels funding - The Washington Post",
+      "summary_original": "Moderna launches mRNA bird flu vaccine trial after HHS cancels funding The Washington Post",
+      "summary_ai_original": "Moderna launches mRNA bird flu vaccine trial after HHS cancels funding The Washington Post",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMERNbDhzS0Q2SmFXci1vdm1OOF9YMWZONkNxbjYxQ3BxRWR6MkoxUjJNYmpORmx1RnRKY0ZwdVREc1VEUlpaMVd4SnNmYXpuVkl6emhQTkhnS2R3ckJuU21sQzhhWlJRUHdsX0MtNmRiYnI4TnBCaE41ZkliaDdVa0ItN1p6Q2dwQkt3OHhpSQ?oc=5",
+      "source": "Washington Post Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-04-22T06:01:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [
+        "financing"
+      ],
+      "vaccines": [
+        "influenza"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "Washington Post"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "Washington Post"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Washington Post Vaccines / Immunization"
+      ]
+    },
+    {
+      "id": "5da4cc51c5fa53b9",
+      "title": "免疫介在性炎症性疾患患者における SARS-CoV-2 mRNA ワクチンの有効性に対する免疫抑制療法の影響 - BMJ Open",
+      "summary": "免疫介在性炎症疾患患者における SARS-CoV-2 mRNA ワクチンの有効性に対する免疫抑制療法の影響 BMJ Open",
+      "summary_ai": "免疫介在性炎症疾患患者における SARS-CoV-2 mRNA ワクチンの有効性に対する免疫抑制療法の影響 BMJ Open",
+      "title_original": "Impact of immunosuppressive therapy on SARS- CoV- 2 mRNA vaccine effectiveness in patients with immune- mediated inflammatory diseases - BMJ Open",
+      "summary_original": "Impact of immunosuppressive therapy on SARS- CoV- 2 mRNA vaccine effectiveness in patients with immune- mediated inflammatory diseases BMJ Open",
+      "summary_ai_original": "Impact of immunosuppressive therapy on SARS- CoV- 2 mRNA vaccine effectiveness in patients with immune- mediated inflammatory diseases BMJ Open",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sTDJzVkVyamtLenduMEtQcVR6SWFtYUEwZnNEbXZWUk44UGtRR1U3UEpWQjBVSFF1UEZ2NEdwTGZJNWpOZ1dKYXdfQVVicWpCMjVHZmFxcVJqUF83WFR6MTM1dlFWS2p0QWJaaTBR?oc=5",
+      "source": "BMJ",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-04-22T00:19:56+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "covid"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BMJ / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BMJ / London"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "BMJ"
+      ]
+    },
+    {
+      "id": "190bdce1e1d8320a",
+      "title": "モデルナ、米国と英国で鳥インフルエンザワクチンの後期治験を開始 - ロイター",
+      "summary": "モデルナ、米国と英国で鳥インフルエンザワクチンの後期治験を開始 ロイター",
+      "summary_ai": "モデルナ、米国と英国で鳥インフルエンザワクチンの後期治験を開始 ロイター",
+      "title_original": "Moderna starts late-stage trial of bird flu vaccine in US, UK - Reuters",
+      "summary_original": "Moderna starts late-stage trial of bird flu vaccine in US, UK Reuters",
+      "summary_ai_original": "Moderna starts late-stage trial of bird flu vaccine in US, UK Reuters",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM1poSFNqbVphTEZJOC1ad1F1ZmRFVlQwXzZIbXVXd21vWE9INkJITTZWMWthZndKMUdZdURmYkFMMG5HcGI4UkEwTWY1NjlybG03R3JjZVV3cWYzQzJ5dDNENDV6QWZaZXFVcExxdGVXWkplMFpkekRRRkxvSTFQWEJjRG5kN3NnMnNVVFUtN2VPUHlVZjBQbk1kQ3hLNk1VX2RaVXVOT2RNYlU?oc=5",
+      "source": "Reuters Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-04-21T23:16:24+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "influenza"
+      ],
+      "variants": [],
+      "target_country": "英国",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Reuters"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Reuters"
+        },
+        "target": {
+          "key": "uk",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "英国"
+        }
+      },
+      "location": {
+        "key": "uk",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "英国"
+      },
+      "region": "Europe",
+      "country": "英国",
+      "lat": 51.5074,
+      "lng": -0.1278,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Reuters Vaccines / Immunization"
+      ]
+    },
+    {
+      "id": "55399a92e27d82d8",
+      "title": "潜在的なパンデミック株に対する鳥インフルエンザワクチンの治験が始まる - BBC",
+      "summary": "BBCがパンデミックの可能性のある株に対する鳥インフルエンザワクチンの治験を開始",
+      "summary_ai": "BBCがパンデミックの可能性のある株に対する鳥インフルエンザワクチンの治験を開始",
+      "title_original": "Bird flu vaccine trial against potential pandemic strain begins - BBC",
+      "summary_original": "Bird flu vaccine trial against potential pandemic strain begins BBC",
+      "summary_ai_original": "Bird flu vaccine trial against potential pandemic strain begins BBC",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xdnZTaDRCc0ZySjJLam83WlNNZm1lOTV1VC1mcGJlWkl2Zjd1cWF1S0J1MWl5X2VWSmhzZ2txblQ0X1NYZ0ZmczdfUVZ2TWZ2VEc3LU5UWWNTZw?oc=5",
+      "source": "BBC Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-04-21T23:00:08+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "influenza"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BBC"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BBC"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "BBC Vaccines / Immunization"
+      ]
+    },
     {
       "id": "12d29f3972ea305a",
       "title": "産業向け規制教育 (REdI) 年次会議 2026: 医療製品を前進させるための革新的な規制戦略 - 2026 年 5 月 19 日",
@@ -474,71 +1079,6 @@
       ]
     },
     {
-      "id": "4e6dd10ba82c4843",
-      "title": "RSVに対するアデノウイルスベクターワクチンによる新規口腔咽頭スプレー免疫の有効性に関する二重中心の非ヒト霊長類を対象とした確認的研究 — 得られた重要な教訓 - bioRxiv",
-      "summary": "RSVに対するアデノウイルスベクターワクチンによる新規口腔咽頭スプレー免疫の有効性に関する確認的な二重中心の非ヒト霊長類研究 — 得られた重要な教訓 bioRxiv",
-      "summary_ai": "RSVに対するアデノウイルスベクターワクチンによる新規口腔咽頭スプレー免疫の有効性に関する確認的な二重中心の非ヒト霊長類研究 — 得られた重要な教訓 bioRxiv",
-      "title_original": "A confirmatory, dual-centric non-human primate study on the efficacy of novel oropharyngeal spray immunization with an adenoviral vector vaccine against RSV — Important lessons learned - bioRxiv",
-      "summary_original": "A confirmatory, dual-centric non-human primate study on the efficacy of novel oropharyngeal spray immunization with an adenoviral vector vaccine against RSV — Important lessons learned bioRxiv",
-      "summary_ai_original": "A confirmatory, dual-centric non-human primate study on the efficacy of novel oropharyngeal spray immunization with an adenoviral vector vaccine against RSV — Important lessons learned bioRxiv",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hQWNfbkQ0RFZYZ29hY0hmbk5QdUZHSmZhUjhUQ2NVczF1VUNGUWxINDhnYTBJdE90LTVkZDV6MXJSWFlJa1h4LUluTS1oOVBHWUd1d3llUVJNcmFTSC0tbUNGSWh6Vnh0VEZIYg?oc=5",
-      "source": "bioRxiv vaccines",
-      "source_type": "preprint",
-      "source_tier": "Tier 3",
-      "source_priority": 7,
-      "published_at": "2026-04-21T03:53:30+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "bioRxiv"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "bioRxiv"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "bioRxiv vaccines"
-      ]
-    },
-    {
       "id": "fc74321661533f29",
       "title": "要点：カリフォルニア州、mpoxワクチン接種を促す、英国のmenBキャンペーン、ノースカロライナ州の在郷軍人会 - CIDRAP",
       "summary": "要点：カリフォルニア州がmpoxワクチン接種を促す、英国のmenBキャンペーン、ノースカロライナ州の在郷軍人会 CIDRAP",
@@ -603,6 +1143,71 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "CIDRAP Vaccines & Immunization"
+      ]
+    },
+    {
+      "id": "8f2401a6646d2538",
+      "title": "致死率高いニパウイルス感染症 ワクチン臨床試験へ…帝京大特任教授ら ベルギーで今月開始 - 読売新聞",
+      "summary": "致死率高いニパウイルス感染症 ワクチン臨床試験へ…帝京大特任教授ら ベルギーで今月開始 読売新聞",
+      "summary_ai": "致死率高いニパウイルス感染症 ワクチン臨床試験へ…帝京大特任教授ら ベルギーで今月開始 読売新聞",
+      "title_original": "致死率高いニパウイルス感染症 ワクチン臨床試験へ…帝京大特任教授ら ベルギーで今月開始 - 読売新聞",
+      "summary_original": "致死率高いニパウイルス感染症 ワクチン臨床試験へ…帝京大特任教授ら ベルギーで今月開始 読売新聞",
+      "summary_ai_original": "致死率高いニパウイルス感染症 ワクチン臨床試験へ…帝京大特任教授ら ベルギーで今月開始 読売新聞",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wQ3FLeWF1cHBWZ3JDRVMxTUczZDVST05SY0RyejYzUzdhbklIYUh0T0lRUVlsQTNVcll5clk5MVFkM3FPZHNMb0p2elpPZk1yYmN0amdpZnEyV2p5SEhublJGWVU?oc=5",
+      "source": "読売新聞 ワクチン / 予防接種",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-04-19T20:00:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "japan",
+        "name_ja": "日本",
+        "lat": 35.6762,
+        "lng": 139.6503,
+        "region": "Asia",
+        "label": "読売新聞"
+      },
+      "plot": {
+        "source": {
+          "key": "japan",
+          "name_ja": "日本",
+          "lat": 35.6762,
+          "lng": 139.6503,
+          "region": "Asia",
+          "label": "読売新聞"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "読売新聞 ワクチン / 予防接種"
       ]
     },
     {
@@ -737,71 +1342,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "New York Times Vaccines / Immunization"
-      ]
-    },
-    {
-      "id": "85f60a30a36bd4e2",
-      "title": "SARS-CoV-2感染歴のある5～17歳を対象としたワクチン効果のエミュレーション試験 - Nature",
-      "summary": "SARS-CoV-2感染歴のある5～17歳を対象としたワクチンの有効性試験のエミュレーション Nature",
-      "summary_ai": "SARS-CoV-2感染歴のある5～17歳を対象としたワクチンの有効性試験のエミュレーション Nature",
-      "title_original": "Target Trial Emulation of Vaccine Effectiveness in 5- to 17-years-olds with Prior SARS-CoV-2 Infection - Nature",
-      "summary_original": "Target Trial Emulation of Vaccine Effectiveness in 5- to 17-years-olds with Prior SARS-CoV-2 Infection Nature",
-      "summary_ai_original": "Target Trial Emulation of Vaccine Effectiveness in 5- to 17-years-olds with Prior SARS-CoV-2 Infection Nature",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vSDRKMVRMckF5ajhWZHYwTUJvWWZSYjNqU2M0bjlEQXJjVmhmZ3pINlo0U2hLd1p4bXhvRVdPMmtyU0RXU0szUXFxaDB0T0trYVdUWWk5NmNqWU5JTzNN?oc=5",
-      "source": "Nature News Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-04-17T19:53:03+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "Nature News"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "Nature News"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Nature News Vaccines / Immunization"
       ]
     },
     {
@@ -1007,73 +1547,6 @@
       ]
     },
     {
-      "id": "aa78af9f636ee6da",
-      "title": "子宮頸がんの原因となるウイルスの根絶に向けた新知見 HPVワクチン単回接種の有効性・安全性検証、男女接種拡大へ［学校法人近畿大学］ - 日本経済新聞",
-      "summary": "子宮頸がんの原因となるウイルスの根絶に向けた新知見 HPVワクチン単回接種の有効性・安全性検証、男女接種拡大へ［学校法人近畿大学］ 日本経済新聞",
-      "summary_ai": "子宮頸がんの原因となるウイルスの根絶に向けた新知見 HPVワクチン単回接種の有効性・安全性検証、男女接種拡大へ［学校法人近畿大学］ 日本経済新聞",
-      "title_original": "子宮頸がんの原因となるウイルスの根絶に向けた新知見 HPVワクチン単回接種の有効性・安全性検証、男女接種拡大へ［学校法人近畿大学］ - 日本経済新聞",
-      "summary_original": "子宮頸がんの原因となるウイルスの根絶に向けた新知見 HPVワクチン単回接種の有効性・安全性検証、男女接種拡大へ［学校法人近畿大学］ 日本経済新聞",
-      "summary_ai_original": "子宮頸がんの原因となるウイルスの根絶に向けた新知見 HPVワクチン単回接種の有効性・安全性検証、男女接種拡大へ［学校法人近畿大学］ 日本経済新聞",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjWHFVMWs3MkUxTVdiT0xzR3B2QWtaNk0zak9WYmRyenJkQzc1aE5IX3p1TFlBWEpqZFEwN0t0dnFKN0VkRGVGN2VvY0JIeFRRZ2FiN2toMlRzcWhNc21RTVV0WFhfYlUwZnJB?oc=5",
-      "source": "日経 ワクチン / 予防接種",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-04-16T05:56:48+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [
-        "safety"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "japan",
-        "name_ja": "日本",
-        "lat": 35.6762,
-        "lng": 139.6503,
-        "region": "Asia",
-        "label": "日本経済新聞"
-      },
-      "plot": {
-        "source": {
-          "key": "japan",
-          "name_ja": "日本",
-          "lat": 35.6762,
-          "lng": 139.6503,
-          "region": "Asia",
-          "label": "日本経済新聞"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "日経 ワクチン / 予防接種"
-      ]
-    },
-    {
       "id": "df4d5f7dd518dc24",
       "title": "ワクチン摂取量を増加させる介入の有効性: コンポーネントネットワークのメタ分析 - BMJ",
       "summary": "ワクチン摂取量を増やすための介入の有効性: コンポーネントネットワークのメタ分析 The BMJ",
@@ -1134,7 +1607,7 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicate_sources": [
         "BMJ"
       ]
@@ -1299,6 +1772,73 @@
       ],
       "policy_tags": [
         "communication"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "japan",
+        "name_ja": "日本",
+        "lat": 35.6762,
+        "lng": 139.6503,
+        "region": "Asia",
+        "label": "読売新聞"
+      },
+      "plot": {
+        "source": {
+          "key": "japan",
+          "name_ja": "日本",
+          "lat": 35.6762,
+          "lng": 139.6503,
+          "region": "Asia",
+          "label": "読売新聞"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "読売新聞 ワクチン / 予防接種"
+      ]
+    },
+    {
+      "id": "08fa027f0aece9ef",
+      "title": "肺炎による死亡者の９７．８％が高齢者 ＲＳウイルス、肺炎球菌…４月以降のワクチン接種スケジュールは？ - 読売新聞",
+      "summary": "肺炎による死亡者の９７．８％が高齢者 ＲＳウイルス、肺炎球菌…４月以降のワクチン接種スケジュールは？ 読売新聞",
+      "summary_ai": "肺炎による死亡者の９７．８％が高齢者 ＲＳウイルス、肺炎球菌…４月以降のワクチン接種スケジュールは？",
+      "title_original": "肺炎による死亡者の９７．８％が高齢者 ＲＳウイルス、肺炎球菌…４月以降のワクチン接種スケジュールは？ - 読売新聞",
+      "summary_original": "肺炎による死亡者の９７．８％が高齢者 ＲＳウイルス、肺炎球菌…４月以降のワクチン接種スケジュールは？ 読売新聞",
+      "summary_ai_original": "肺炎による死亡者の９７．８％が高齢者 ＲＳウイルス、肺炎球菌…４月以降のワクチン接種スケジュールは？",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcnNDZUVxSWhBWXN2N3U5Q1dISVZKWVRmWFkzRnN0bXl5ZThEekV0b3ZfMXgxeWpGaE9lTmNmcXFab2tuT2pSaXNsdy1BZjc5dEFGTVBSMEI5UjhGWkNlaDZvbldnR2tnMi1lM2UzX3NLTlBCaHlPY3h0czduOVVobk5ZNnpCdjlHbDZFbC02MA?oc=5",
+      "source": "読売新聞 ワクチン / 予防接種",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-04-15T07:00:00+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [
+        "schedule"
       ],
       "vaccines": [],
       "variants": [],
@@ -1616,73 +2156,6 @@
       ]
     },
     {
-      "id": "9f3125246254e285",
-      "title": "重症疾患に対する新型コロナウイルスワクチンの有効性 - NEJM",
-      "summary": "重症疾患に対する新型コロナウイルスワクチンの有効性 NEJM",
-      "summary_ai": "重症疾患に対する新型コロナウイルスワクチンの有効性 NEJM",
-      "title_original": "Covid-19 Vaccine Effectiveness against Severe Disease - NEJM",
-      "summary_original": "Covid-19 Vaccine Effectiveness against Severe Disease NEJM",
-      "summary_ai_original": "Covid-19 Vaccine Effectiveness against Severe Disease NEJM",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB2NkYyeHZ5MERUNWZKUE1GMW1adUxYMjhqRGRUal91M2xtd0RuSldEaHpnY1dSSEc3R0RRdk8yUXZGOHdkU1h4WUlWREVwUDk3WElXTzdhRkM3b2QzQWc?oc=5",
-      "source": "NEJM",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-04-10T10:01:41+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "covid"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "NEJM / Boston"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "NEJM / Boston"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "NEJM"
-      ]
-    },
-    {
       "id": "3f4798793e58f4fa",
       "title": "ブラジルにおけるチクングニア熱に対するワクチン政策の指針：18歳以上のブラジル人成人を対象とした弱毒化生ワクチンと組換えチクングニア熱ワクチンの費用対効果分析 - BMJ公衆衛生",
       "summary": "ブラジルにおけるチクングニア熱に対するワクチン政策の指針：18歳以上のブラジル成人を対象とした弱毒化生ワクチンと組換えチクングニア熱ワクチンの費用対効果分析 BMJ Public Health",
@@ -1813,6 +2286,73 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "New York Times Vaccines / Immunization"
+      ]
+    },
+    {
+      "id": "8476faced475e285",
+      "title": "黄熱病ワクチンである vYF の免疫原性と安全性 - 第 2 相試験 - NEJM",
+      "summary": "黄熱病ワクチンである vYF の免疫原性と安全性 - 第 2 相試験 NEJM",
+      "summary_ai": "黄熱病ワクチンである vYF の免疫原性と安全性 - 第 2 相試験 NEJM",
+      "title_original": "Immunogenicity and Safety of vYF, a Yellow Fever Vaccine — A Phase 2 Trial - NEJM",
+      "summary_original": "Immunogenicity and Safety of vYF, a Yellow Fever Vaccine — A Phase 2 Trial NEJM",
+      "summary_ai_original": "Immunogenicity and Safety of vYF, a Yellow Fever Vaccine — A Phase 2 Trial NEJM",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9IckhQNHJ4aTFGblAtQkFsT3hVdEEzYmo3Y212dTh5SVBDdF9lbUFkaXB0NmNweW1PZDRuRE4tdEVtQ1FLb2s0QzZZVk9MZENMREc2d2hwVGd4ZVZBOTRN?oc=5",
+      "source": "NEJM",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-04-08T22:36:04+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [
+        "safety"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "NEJM / Boston"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "NEJM / Boston"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "NEJM"
       ]
     }
   ]
