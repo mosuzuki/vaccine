@@ -1,10 +1,572 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-04-22T22:00:26.862078+00:00",
-  "archive_count": 147,
+  "generated_at": "2026-04-23T21:58:13.660883+00:00",
+  "archive_count": 158,
   "days_back": 14,
   "items": [
+    {
+      "id": "ab223e723b530bbe",
+      "title": "モデルナのインフルエンザと新型コロナウイルスの混合ワクチンが欧州の認可を取得 - CIDRAP",
+      "summary": "モデルナのインフルエンザと新型コロナウイルスの混合ワクチンが欧州の認可を取得 CIDRAP",
+      "summary_ai": "モデルナのインフルエンザと新型コロナウイルスの混合ワクチンが欧州の認可を取得 CIDRAP",
+      "title_original": "Moderna’s combo flu-COVID vaccine receives European authorization - CIDRAP",
+      "summary_original": "Moderna’s combo flu-COVID vaccine receives European authorization CIDRAP",
+      "summary_ai_original": "Moderna’s combo flu-COVID vaccine receives European authorization CIDRAP",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWWNULW5JOUNyZEw5SmtBWE81SWM1REZ0QjB4czkxbEVNOG5PRnIxMUtzdlFwMjcyOFVMTWJ6RHhaYlNLbEpNVzlGT2dONXMxMVJLRHRhZjZnMDQxSjE5eWFyVXozY29TYU5fMUJHUVp3NTBIdGduMGpPdHlxLXJqcVdzc2ZTYUxHZG5PbE5vY1oxRWNQUkhmSUcyRGZfZmE2Z3NZ?oc=5",
+      "source": "CIDRAP Vaccines & Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 8,
+      "published_at": "2026-04-23T19:44:00+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [
+        "approval"
+      ],
+      "vaccines": [
+        "covid"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "CIDRAP / Minnesota"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "CIDRAP / Minnesota"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "CIDRAP Vaccines & Immunization"
+      ],
+      "first_seen_at": "2026-04-23T19:44:00+00:00",
+      "last_seen_at": "2026-04-23T22:02:09.680826+00:00"
+    },
+    {
+      "id": "9500b0d322b2a825",
+      "title": "ケニア、シアヤ郡ウゲニャ準郡における生後6～59か月の子どもの養育者におけるマラリアワクチンへの躊躇に関連する要因：横断的混合研究 - medrxiv.org",
+      "summary": "ケニア、シアヤ郡ウゲニャ準郡における生後6～59か月の子どもの養育者におけるマラリアワクチン接種への躊躇に関連する要因：横断的混合研究 medrxiv.org",
+      "summary_ai": "ケニア、シアヤ郡ウゲニャ準郡における生後6～59か月の子どもの養育者におけるマラリアワクチン接種への躊躇に関連する要因：横断的混合研究 medrxiv.org",
+      "title_original": "Factors Associated with Malaria Vaccine Hesitancy Among Caregivers of Children 6-59 Months, In Ugenya Sub County, Siaya County, Kenya: A cross - Sectional Mixed Study - medrxiv.org",
+      "summary_original": "Factors Associated with Malaria Vaccine Hesitancy Among Caregivers of Children 6-59 Months, In Ugenya Sub County, Siaya County, Kenya: A cross - Sectional Mixed Study medrxiv.org",
+      "summary_ai_original": "Factors Associated with Malaria Vaccine Hesitancy Among Caregivers of Children 6-59 Months, In Ugenya Sub County, Siaya County, Kenya: A cross - Sectional Mixed Study medrxiv.org",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBiT1lTX2ZZRS1hRHNhejNwa3Qza3MtdklLT25PbWV4dWtYWHdwNnVzZDIxVGp4UVQ1TVFTWEQyWDBqOC1MeFROTWMwM1VWcjNEMVV1SncwazB6QXpVa0JQcHo3LUgzRElXT1kzTUo0Zw?oc=5",
+      "source": "medRxiv vaccines",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-04-23T19:07:23+00:00",
+      "topics": [
+        "communication",
+        "research"
+      ],
+      "policy_tags": [
+        "communication"
+      ],
+      "vaccines": [
+        "malaria"
+      ],
+      "variants": [],
+      "target_country": "ケニア",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "medRxiv"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "medRxiv"
+        },
+        "target": {
+          "key": "kenya",
+          "name_ja": "ケニア",
+          "lat": -1.2921,
+          "lng": 36.8219,
+          "region": "Africa",
+          "label": "ケニア"
+        }
+      },
+      "location": {
+        "key": "kenya",
+        "name_ja": "ケニア",
+        "lat": -1.2921,
+        "lng": 36.8219,
+        "region": "Africa",
+        "label": "ケニア"
+      },
+      "region": "Africa",
+      "country": "ケニア",
+      "lat": -1.2921,
+      "lng": 36.8219,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "medRxiv vaccines"
+      ],
+      "first_seen_at": "2026-04-23T19:07:23+00:00",
+      "last_seen_at": "2026-04-23T22:02:09.680838+00:00"
+    },
+    {
+      "id": "b55540ff14996adc",
+      "title": "欧州予防接種週間: 20 年にわたり意識を高め、今後の世界的なキャンペーンに向けた機運を高めてきた - Eurosurveillance",
+      "summary": "欧州予防接種週間: 20 年にわたって意識を高め、今後の世界的なキャンペーンに向けた機運を高めてきた Eurosurveillance",
+      "summary_ai": "欧州予防接種週間: 20 年にわたって意識を高め、今後の世界的なキャンペーンに向けた機運を高めてきた Eurosurveillance",
+      "title_original": "European Immunization Week: two decades of raising awareness and building momentum for the global campaign ahead - Eurosurveillance",
+      "summary_original": "European Immunization Week: two decades of raising awareness and building momentum for the global campaign ahead Eurosurveillance",
+      "summary_ai_original": "European Immunization Week: two decades of raising awareness and building momentum for the global campaign ahead Eurosurveillance",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd0tWb2J2Vk1rSHo0V0xqaHotQ1g4VVJhRFdUX1RLa2hnT2ZtalpQUHhjQVlGTmZIMmhzbTlMVF9GQlNIcGJqODhydWhtblMwbk9VVVc1N1dLeGtCM2dON2xDMktQYWNDcDJIZ0NrbnNZUXpCSlNFNDhodlZuVkx2UThZekZZOWs?oc=5",
+      "source": "Eurosurveillance",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-04-23T17:59:53+00:00",
+      "topics": [
+        "communication"
+      ],
+      "policy_tags": [
+        "communication",
+        "outbreak_response"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "sweden",
+        "name_ja": "スウェーデン",
+        "lat": 59.3293,
+        "lng": 18.0686,
+        "region": "Europe",
+        "label": "Eurosurveillance / Stockholm"
+      },
+      "plot": {
+        "source": {
+          "key": "sweden",
+          "name_ja": "スウェーデン",
+          "lat": 59.3293,
+          "lng": 18.0686,
+          "region": "Europe",
+          "label": "Eurosurveillance / Stockholm"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Eurosurveillance"
+      ],
+      "first_seen_at": "2026-04-23T17:59:53+00:00",
+      "last_seen_at": "2026-04-23T22:02:09.680841+00:00"
+    },
+    {
+      "id": "6d916833c894440b",
+      "title": "アメリカ大陸で麻疹症例が増加中、PAHOがワクチン接種の強化を呼びかけ",
+      "summary": "アメリカ大陸で麻疹症例が増加中、PAHO、ワクチン接種の強化を呼びかけ オスカー・レイエス 2026年4月23日",
+      "summary_ai": "アメリカ大陸のワクチン接種週間は、720万人以上の子供への追加ワクチン接種を含む、複数の病気に対する約9,000万回分のワクチンの供給を支援する予定 ワシントンD.C.、2026年4月23日（PAHO） – 汎米保健機構（PAHO）tod",
+      "title_original": "PAHO calls to strengthen vaccination amid rising measles cases in the Americas",
+      "summary_original": "PAHO calls to strengthen vaccination amid rising measles cases in the Americas Oscar Reyes 23 Apr 2026",
+      "summary_ai_original": "Vaccination Week in the Americas will support the delivery of around 90 million doses of vaccines against multiple diseases, including catch-up vaccination for more than 7.2 million children Washington, D.C., April 23, 2026 (PAHO) – The Pan American Health Organization (PAHO) tod",
+      "article_text_original": "Vaccination Week in the Americas will support the delivery of around 90 million doses of vaccines against multiple diseases, including catch-up vaccination for more than 7.2 million children Washington, D.C., April 23, 2026 (PAHO) – The Pan American Health Organization (PAHO) today urged countries in the region to intensify immunization efforts as part of Vaccination Week in the Americas (VWA), to be held from April 25 to May 2. The call comes amid sustained gains in vaccination coverage, which have not yet been sufficient to prevent a sharp resurgence of measles, with cases already surpassing totals recorded for all of 2025. “The Region of the Americas has positioned itself as a global leader in immunization. We are the first region to have eliminated polio, rubella, and congenital rubella syndrome, and the only one that has recovered and improved vaccination coverage to pre-pandemic levels,” said PAHO Director Dr. Jarbas Barbosa during a press briefing in Washington. Between 1974 and 2024, childhood vaccination in the Americas prevented an estimated 15 million deaths among children under five, more than 1.1 billion cases of disability, and nearly 28.4 billion cases of illness. However, the PAHO Director warned that “important gaps remain that we must close.” Vaccination Week in the Americas aims to address those gaps. Since its launch in 2002, the initiative has highlighted the importance of vaccination as a cornerstone of public health and enabled the administration of more than 1.2 billion vaccine doses across the region. This year, for the first time, the regional launch will take place in Ottawa, Canada, on April 27. In 2024, regional coverage for the measles, mumps, and rubella (MMR) vaccine reached 89% for the first dose and 79% for the second, while coverage for the third dose of the diphtheria, pertussis, and tetanus (DPT) vaccine reached 87%. Despite this progress, more than 1.4 million children did not receive a single dose of these or other vaccines. “These children are not numbers—they are lives, families, and entire communities at risk,” Barbosa stressed. As part of this year’s activities, 21 countries plan to administer nearly 90 million doses, including more than 80 million influenza vaccines and catch-up vaccination for 7.2 million children with incomplete or zero-dose schedules. Measles resurgence: a reversible setback During the press briefing, the PAHO Director also raised concern about the increase in measles cases in the region. The Americas were the first region in the world to eliminate measles in 2016; this status was lost in 2018, regained in 2024, and lost again in 2025. In 2025, 14,767 confirmed cases were reported across 13 countries—nearly 32 times more than in 2024. The trend continues in 2026: as of April 5, more than 15,300 cases have already been reported, exceeding last year’s total. Globally, more than 250,000 measles cases were reported in 2025, over half of them in Africa, the Western Pacific Region, and Europe. Less than 6% occurred in the Americas. However, in the first three months of 2026, the region accounted for 21% of reported cases worldwide. “The re-emergence of measles in the Americas is a significant setback, but one that is entirely reversible and demands decisive action,” Barbosa said. He warned that measles “is not a mild disease” and can lead to serious complications such as pneumonia, encephalitis, and blindness—and even death. In 2025, around 13% of those infected required hospitalization, and 93% were unvaccinated. Between 2025 and the first quarter of 2026, 43 measles-related deaths have been reported in the region. “The main challenge is not the availability of vaccines, but reaching those who remain unprotected in time,” he said, noting that low risk perception, misinformation, and barriers to access have contributed to declining coverage in some populations. Because measles is highly contagious, maintaining elimination requires coverage above 95% with two doses. “A single case can spark an outbreak if we do not achieve these levels of protection,” he warned. PAHO is supporting countries by strengthening surveillance, rapid outbreak response, and immunization planning at local level, while also facilitating equitable access to vaccines through its Revolving Funds. In 2025 alone, these mechanisms enabled the procurement of 234 million doses with savings of nearly 50%. “Elimination is not a trophy to be stored away—it is an achievement that must be defended every day,” Barbosa said. “We have stopped measles before. We can do it again.” He concluded by emphasizing that vaccination “is not only an individual decision—it is an act of collective solidarity,” and reiterated that the region can move toward a future where vaccine-preventable diseases no longer pose a threat to public health.",
+      "link": "https://www.paho.org/en/news/23-4-2026-paho-calls-strengthen-vaccination-amid-rising-measles-cases-americas",
+      "source": "PAHO News",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 8,
+      "published_at": "2026-04-23T15:34:01+00:00",
+      "topics": [
+        "communication",
+        "policy"
+      ],
+      "policy_tags": [
+        "communication",
+        "financing",
+        "outbreak_response",
+        "schedule"
+      ],
+      "vaccines": [
+        "influenza"
+      ],
+      "variants": [],
+      "target_country": "カナダ",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "PAHO / Washington DC"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "PAHO / Washington DC"
+        },
+        "target": {
+          "key": "canada",
+          "name_ja": "カナダ",
+          "lat": 45.4215,
+          "lng": -75.6972,
+          "region": "North America",
+          "label": "カナダ"
+        }
+      },
+      "location": {
+        "key": "canada",
+        "name_ja": "カナダ",
+        "lat": 45.4215,
+        "lng": -75.6972,
+        "region": "North America",
+        "label": "カナダ"
+      },
+      "region": "North America",
+      "country": "カナダ",
+      "lat": 45.4215,
+      "lng": -75.6972,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "PAHO News"
+      ],
+      "first_seen_at": "2026-04-23T15:34:01+00:00",
+      "last_seen_at": "2026-04-23T22:02:09.680843+00:00"
+    },
+    {
+      "id": "6f9f9ec4574c0c8a",
+      "title": "ドーセット州で鳥インフルエンザワクチン治験ボランティア募集 - BBC",
+      "summary": "ドーセットBBCで鳥インフルエンザワクチン治験ボランティア募集",
+      "summary_ai": "ドーセットBBCで鳥インフルエンザワクチン治験ボランティア募集",
+      "title_original": "Call for bird flu vaccine trial volunteers in Dorset - BBC",
+      "summary_original": "Call for bird flu vaccine trial volunteers in Dorset BBC",
+      "summary_ai_original": "Call for bird flu vaccine trial volunteers in Dorset BBC",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOaVYzdEtLaTlnUUc5cE1QMFpoMlpqYUM1ZE9qWWdTWHJ6MUsxdUtDMkNLejJ3LTVMdGJoV2htUUlsdGozNEJWRk5rcy0yWS16UFJmLW5nQWZJMEFpTWU2aHVIc1NkWkd5eUZoMlZaM1ZYQWRSZ1EwNExlbHRFNk81QWotOHJFTDVXMWhlTFJHRFFxb1dsQk1JWnlTbnVjWkIxNHBIU1JJU2wwbVZxbmllMl8wOW1zTGJ5UmJWa241Y0FGbFRLUktqSVhsYWcyeHF0QUJvaWJRdVlzaklSUHFDWUhn?oc=5",
+      "source": "BBC Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-04-23T14:45:02+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "influenza"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BBC"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BBC"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "BBC Vaccines / Immunization"
+      ],
+      "first_seen_at": "2026-04-23T14:45:02+00:00",
+      "last_seen_at": "2026-04-23T22:02:09.680846+00:00"
+    },
+    {
+      "id": "08e1b0d97ab94939",
+      "title": "鳥インフルエンザ：英国でmRNAワクチンの治験が始まる - BMJ",
+      "summary": "鳥インフルエンザ：英国でmRNAワクチンの治験が始まる The BMJ",
+      "summary_ai": "鳥インフルエンザ：英国でmRNAワクチンの治験が始まる The BMJ",
+      "title_original": "Bird flu: mRNA vaccine trial begins in UK - The BMJ",
+      "summary_original": "Bird flu: mRNA vaccine trial begins in UK The BMJ",
+      "summary_ai_original": "Bird flu: mRNA vaccine trial begins in UK The BMJ",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE52SVVSbmRkdkJoNEpfMGM5aTh5MTVBM3pfNVp4RmtyMFRNaTVFZVpGRzQ4WTFPRVFsRUVDaEozUWdYTmhidFEzZ0QtcDkzeTdEX1FXajExVkZ3c0JPMUE?oc=5",
+      "source": "BMJ",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-04-23T10:29:50+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "covid"
+      ],
+      "variants": [],
+      "target_country": "英国",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BMJ / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BMJ / London"
+        },
+        "target": {
+          "key": "uk",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "英国"
+        }
+      },
+      "location": {
+        "key": "uk",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "英国"
+      },
+      "region": "Europe",
+      "country": "英国",
+      "lat": 51.5074,
+      "lng": -0.1278,
+      "duplicate_count": 2,
+      "duplicate_sources": [
+        "BMJ"
+      ],
+      "first_seen_at": "2026-04-23T10:29:50+00:00",
+      "last_seen_at": "2026-04-23T22:02:09.680848+00:00"
+    },
+    {
+      "id": "aa86360eff221967",
+      "title": "コーティングされた細菌ワクチン プラットフォームが弱い抗原免疫原性を克服: GnRH ベースの免疫去勢への機能的アプローチ - bioRxiv",
+      "summary": "コーティングされた細菌ワクチン プラットフォームが弱い抗原免疫原性を克服: GnRH ベースの免疫去勢への機能的アプローチ bioRxiv",
+      "summary_ai": "コーティングされた細菌ワクチン プラットフォームが弱い抗原免疫原性を克服: GnRH ベースの免疫去勢への機能的アプローチ bioRxiv",
+      "title_original": "Coated Bacterial Vaccine Platform Overcomes Weak Antigen Immunogenicity: A Functional Approach to GnRH-Based Immunocastration - bioRxiv",
+      "summary_original": "Coated Bacterial Vaccine Platform Overcomes Weak Antigen Immunogenicity: A Functional Approach to GnRH-Based Immunocastration bioRxiv",
+      "summary_ai_original": "Coated Bacterial Vaccine Platform Overcomes Weak Antigen Immunogenicity: A Functional Approach to GnRH-Based Immunocastration bioRxiv",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIRXBVOWZOZHZkbzZBWGRlaHhubTFZV2l5cnRRVnNXYzJ2RVNocEwzNkI5TnBzZTg1WjQxb0VMV0lndjRwSTlkbkhZZlJRV0hmNlBkS09XbUZEMUdQYkw4VVNRb01lcnVjbGQ5SA?oc=5",
+      "source": "bioRxiv vaccines",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-04-23T05:21:38+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "bioRxiv"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "bioRxiv"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "bioRxiv vaccines"
+      ],
+      "first_seen_at": "2026-04-23T05:21:38+00:00",
+      "last_seen_at": "2026-04-23T22:02:09.680850+00:00"
+    },
+    {
+      "id": "c58fe53de78e1db5",
+      "title": "ワクチンの推奨はどのように行われますか? - ランセット",
+      "summary": "ワクチンの推奨はどのように行われますか?ランセット",
+      "summary_ai": "ワクチンの推奨はどのように行われますか?",
+      "title_original": "How are vaccine recommendations made? - The Lancet",
+      "summary_original": "How are vaccine recommendations made? The Lancet",
+      "summary_ai_original": "How are vaccine recommendations made?",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaFZtSGNlSkNoSHBiZXY5ZFRDMnRJMzQxVEt3ajdBTHVBR2ZUOUFzNTUzbVAyb3dBX3VaQlJ4THpHcGIzYUphdXRTTlZvRmxObEkwMGptR1JLSU00T3pZcDZCSW5IdDdxMFR3d1VVX2M3b0QySVdHZUpLcXlzYjhCRFhPTDRyN1FkYVB3?oc=5",
+      "source": "Lancet Infectious Diseases",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-04-23T03:55:00+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [
+        "recommendation"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Lancet Infectious Diseases / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Lancet Infectious Diseases / London"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Lancet Infectious Diseases"
+      ],
+      "first_seen_at": "2026-04-23T03:55:00+00:00",
+      "last_seen_at": "2026-04-23T22:02:09.680854+00:00"
+    },
     {
       "id": "2ea160edde6a7437",
       "title": "米CDC、新型コロナウイルスワクチンの有効性を示す報告書を公表しない - ロイター",
@@ -72,7 +634,76 @@
         "Reuters Vaccines / Immunization"
       ],
       "first_seen_at": "2026-04-22T21:07:18+00:00",
-      "last_seen_at": "2026-04-22T22:02:22.981025+00:00"
+      "last_seen_at": "2026-04-23T22:02:09.680863+00:00"
+    },
+    {
+      "id": "0293bb81e7fccaa3",
+      "title": "米国保健当局、新型コロナウイルスワクチンの有効性に関する研究発表を中止 - AP通信",
+      "summary": "米国保健当局、新型コロナウイルスワクチンの有効性に関する研究発表を中止 AP通信",
+      "summary_ai": "米国保健当局、新型コロナウイルスワクチンの有効性に関する研究発表を中止 AP通信",
+      "title_original": "US health officials nix publication of a study on COVID vaccine effectiveness - AP News",
+      "summary_original": "US health officials nix publication of a study on COVID vaccine effectiveness AP News",
+      "summary_ai_original": "US health officials nix publication of a study on COVID vaccine effectiveness AP News",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcFNvYzJjenJzRXVRQWNvNGhPeW9wdEJrakFCLTFCNkdLeGYtcmJRNzhLRF9pQ1NxakZLZFZEN05BcnNuTUdXOFZDWVVhbXhsUDI1WFB5T25RWElTRzN3cHo0NWlyTzJEVEtYc2ZKSGR2Y3pWRmpuaDJ4TEMtdGVMR0ZKTXRxTkYtZEU2MzR3?oc=5",
+      "source": "AP Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-04-22T20:59:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "covid"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "AP"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "AP"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "AP Vaccines / Immunization"
+      ],
+      "first_seen_at": "2026-04-22T20:59:00+00:00",
+      "last_seen_at": "2026-04-23T22:02:09.680866+00:00"
     },
     {
       "id": "491dfefc376a0f4d",
@@ -141,7 +772,7 @@
         "CIDRAP Vaccines & Immunization"
       ],
       "first_seen_at": "2026-04-22T16:55:00+00:00",
-      "last_seen_at": "2026-04-22T22:02:22.981040+00:00"
+      "last_seen_at": "2026-04-23T22:02:09.680873+00:00"
     },
     {
       "id": "48ab9b8566adfd44",
@@ -210,7 +841,7 @@
         "Nature News Vaccines / Immunization"
       ],
       "first_seen_at": "2026-04-22T15:13:41+00:00",
-      "last_seen_at": "2026-04-22T22:02:22.981043+00:00"
+      "last_seen_at": "2026-04-23T22:02:09.680880+00:00"
     },
     {
       "id": "4902950b114eb457",
@@ -279,76 +910,74 @@
         "New York Times Vaccines / Immunization"
       ],
       "first_seen_at": "2026-04-22T15:08:16+00:00",
-      "last_seen_at": "2026-04-22T22:02:22.981045+00:00"
+      "last_seen_at": "2026-04-23T22:02:09.680885+00:00"
     },
     {
-      "id": "982e9ae3b41472e3",
-      "title": "鳥インフルエンザ：英国でmRNAワクチンの治験が始まる - BMJ",
-      "summary": "鳥インフルエンザ：英国でmRNAワクチンの治験が始まる The BMJ",
-      "summary_ai": "鳥インフルエンザ：英国でmRNAワクチンの治験が始まる The BMJ",
-      "title_original": "Bird flu: mRNA vaccine trial begins in UK - The BMJ",
-      "summary_original": "Bird flu: mRNA vaccine trial begins in UK The BMJ",
-      "summary_ai_original": "Bird flu: mRNA vaccine trial begins in UK The BMJ",
+      "id": "8a3f36de3d2fcc35",
+      "title": "研究では、妊婦に対するインフルエンザと百日咳の同日ワクチン接種によるリスク増加は見られないことが判明 - CIDRAP",
+      "summary": "研究では、妊婦に対するインフルエンザと百日咳の同日ワクチン接種によるリスク増加は見られない CIDRAP",
+      "summary_ai": "研究では、妊婦に対するインフルエンザと百日咳の同日ワクチン接種によるリスク増加は見られない CIDRAP",
+      "title_original": "Study finds no increased risk with same-day flu, pertussis vaccination for pregnant women - CIDRAP",
+      "summary_original": "Study finds no increased risk with same-day flu, pertussis vaccination for pregnant women CIDRAP",
+      "summary_ai_original": "Study finds no increased risk with same-day flu, pertussis vaccination for pregnant women CIDRAP",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56ZFNUTVRXb3M3TUE5aFY3VFRreEdmN0Z5NTlSend5WGRsMkF1TEkwZV94QVBvWHJMYVNXNEZKTWNVLUNFcnpYNUVLaGdHUC15S1E?oc=5",
-      "source": "BMJ",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbzRtRElBTXFYdGE4WWdtcEctUDR0eVdLdTlSU21rdmhydmdPM2w1YU1kY2FqdWZRQ0JvMVVTRlhjRFlId0hqaFZ5RC12VURjUTVWLTZhaFAwNUtTaGpaTGZwRHFYY1d3QmVpeDhzQS1XbWg0SmtqZWJWdEwxaUFqUlpwc2ZOUnBYcVdZY3BSOWpNQ3dJSWo3bHBtaDRHWldZWVBzb3FOOENKYUtRc3hhWmVQZGtXTzQ5clAwYjlDcGNIN0E?oc=5",
+      "source": "CIDRAP Vaccines & Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
       "source_priority": 8,
-      "published_at": "2026-04-22T09:56:41+00:00",
+      "published_at": "2026-04-22T12:58:38+00:00",
       "topics": [
         "research"
       ],
       "policy_tags": [],
-      "vaccines": [
-        "covid"
-      ],
+      "vaccines": [],
       "variants": [],
-      "target_country": "英国",
+      "target_country": "不明",
       "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BMJ / London"
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "CIDRAP / Minnesota"
       },
       "plot": {
         "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BMJ / London"
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "CIDRAP / Minnesota"
         },
         "target": {
-          "key": "uk",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "英国"
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
         }
       },
       "location": {
-        "key": "uk",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "英国"
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
       },
-      "region": "Europe",
-      "country": "英国",
-      "lat": 51.5074,
-      "lng": -0.1278,
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
       "duplicate_count": 1,
       "duplicate_sources": [
-        "BMJ"
+        "CIDRAP Vaccines & Immunization"
       ],
-      "first_seen_at": "2026-04-22T09:56:41+00:00",
-      "last_seen_at": "2026-04-22T22:02:22.981048+00:00"
+      "first_seen_at": "2026-04-22T12:58:38+00:00",
+      "last_seen_at": "2026-04-23T22:02:09.680887+00:00"
     },
     {
       "id": "3855eaf7201c6d68",
@@ -419,7 +1048,7 @@
         "Washington Post Vaccines / Immunization"
       ],
       "first_seen_at": "2026-04-22T06:01:00+00:00",
-      "last_seen_at": "2026-04-22T22:02:22.981050+00:00"
+      "last_seen_at": "2026-04-23T22:02:09.680893+00:00"
     },
     {
       "id": "5da4cc51c5fa53b9",
@@ -488,7 +1117,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-03-06T01:51:01+00:00",
-      "last_seen_at": "2026-04-22T22:02:22.981059+00:00"
+      "last_seen_at": "2026-04-23T22:02:09.680897+00:00"
     },
     {
       "id": "190bdce1e1d8320a",
@@ -557,7 +1186,7 @@
         "Reuters Vaccines / Immunization"
       ],
       "first_seen_at": "2026-04-21T23:16:24+00:00",
-      "last_seen_at": "2026-04-22T22:02:22.981064+00:00"
+      "last_seen_at": "2026-04-23T22:02:09.680902+00:00"
     },
     {
       "id": "55399a92e27d82d8",
@@ -626,7 +1255,7 @@
         "BBC Vaccines / Immunization"
       ],
       "first_seen_at": "2026-04-21T23:00:08+00:00",
-      "last_seen_at": "2026-04-22T22:02:22.981067+00:00"
+      "last_seen_at": "2026-04-23T22:02:09.680906+00:00"
     },
     {
       "id": "12d29f3972ea305a",
@@ -699,7 +1328,7 @@
         "FDA Vaccines / Biologics"
       ],
       "first_seen_at": "2026-03-24T17:36:37+00:00",
-      "last_seen_at": "2026-04-22T22:02:22.981075+00:00"
+      "last_seen_at": "2026-04-23T22:02:09.680910+00:00"
     },
     {
       "id": "5a9c4aa3a36ab98c",
@@ -769,7 +1398,7 @@
         "MHRA"
       ],
       "first_seen_at": "2026-04-16T13:34:30+00:00",
-      "last_seen_at": "2026-04-22T22:02:22.981081+00:00"
+      "last_seen_at": "2026-04-23T22:02:09.680915+00:00"
     },
     {
       "id": "54aafed6eddf5900",
@@ -836,7 +1465,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-04-21T05:01:19+00:00",
-      "last_seen_at": "2026-04-22T22:02:22.981086+00:00"
+      "last_seen_at": "2026-04-23T22:02:09.680920+00:00"
     },
     {
       "id": "4e6dd10ba82c4843",
@@ -972,7 +1601,77 @@
         "CIDRAP Vaccines & Immunization"
       ],
       "first_seen_at": "2026-04-20T19:14:00+00:00",
-      "last_seen_at": "2026-04-22T22:02:22.981091+00:00"
+      "last_seen_at": "2026-04-23T22:02:09.680925+00:00"
+    },
+    {
+      "id": "ac3f7a8e25b869cb",
+      "title": "都市環境における小児予防接種中退率を減らすための SMS および音声メッセージ リマインダーの導入: 2026 年のロメ トーゴでのパイロット研究 - medrxiv.org",
+      "summary": "都市環境における小児予防接種中退率を減らすための SMS および音声メッセージ リマインダーの導入: 2026 年のロメ・トーゴでのパイロット研究 medrxiv.org",
+      "summary_ai": "都市環境における小児予防接種中退率を減らすための SMS および音声メッセージ リマインダーの導入: 2026 年のロメ・トーゴでのパイロット研究 medrxiv.org",
+      "title_original": "Implementation of SMS and voice message reminders to reduce childhood immunization dropout rate in urban settings: A Pilot Study in Lomé-Togo in 2026 - medrxiv.org",
+      "summary_original": "Implementation of SMS and voice message reminders to reduce childhood immunization dropout rate in urban settings: A Pilot Study in Lomé-Togo in 2026 medrxiv.org",
+      "summary_ai_original": "Implementation of SMS and voice message reminders to reduce childhood immunization dropout rate in urban settings: A Pilot Study in Lomé-Togo in 2026 medrxiv.org",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MUmg3cnEyM3FVNlc0V2dKZl9zMjhsSF9PRVZjaFFjbk11NFRLTGxsVjJDMV9xSnFhai10Zk1Mc2VUSEVYNlUwcHVYZkdVaXlDaWlYTENici1yTjRGSmV0VXJjd0VyTHhHR3lkRWMxVQ?oc=5",
+      "source": "medRxiv vaccines",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-04-20T07:00:00+00:00",
+      "topics": [
+        "policy",
+        "research"
+      ],
+      "policy_tags": [
+        "recommendation"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "medRxiv"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "medRxiv"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "medRxiv vaccines"
+      ],
+      "first_seen_at": "2026-04-20T07:00:00+00:00",
+      "last_seen_at": "2026-04-23T22:02:09.680927+00:00"
     },
     {
       "id": "8f2401a6646d2538",
@@ -1039,7 +1738,7 @@
         "読売新聞 ワクチン / 予防接種"
       ],
       "first_seen_at": "2026-04-19T20:00:00+00:00",
-      "last_seen_at": "2026-04-22T22:02:22.981098+00:00"
+      "last_seen_at": "2026-04-23T22:02:09.680933+00:00"
     },
     {
       "id": "b423e4b334aced78",
@@ -1108,7 +1807,78 @@
         "Nature News Vaccines / Immunization"
       ],
       "first_seen_at": "2026-04-18T11:32:45+00:00",
-      "last_seen_at": "2026-04-22T22:02:22.981104+00:00"
+      "last_seen_at": "2026-04-23T22:02:09.680938+00:00"
+    },
+    {
+      "id": "acfb04e1384a5483",
+      "title": "MSMにおけるmpoxワクチンの摂取量を推定し、EU/EEAにおける将来のワクチン接種キャンペーンの可能性をモデル化 - medrxiv.org",
+      "summary": "MSMにおけるmpoxワクチンの摂取量を推定し、EU/EEAにおける将来のワクチン接種キャンペーンの可能性をモデル化する medrxiv.org",
+      "summary_ai": "MSMにおけるmpoxワクチンの摂取量を推定し、EU/EEAにおける将来のワクチン接種キャンペーンの可能性をモデル化する medrxiv.org",
+      "title_original": "Estimating the mpox vaccine uptake among MSM and modelling the potential of future vaccination campaigns in the EU/EEA - medrxiv.org",
+      "summary_original": "Estimating the mpox vaccine uptake among MSM and modelling the potential of future vaccination campaigns in the EU/EEA medrxiv.org",
+      "summary_ai_original": "Estimating the mpox vaccine uptake among MSM and modelling the potential of future vaccination campaigns in the EU/EEA medrxiv.org",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QN0JmTjVUU3FkTHFxR0RDMXZzd0pDNm15WnpVTHlsZzBMdmRJQTFYSXBERlJNcTZxMGxIaDNjaHhUSEZSN3hGZ0psdnkwTTVNcGNuNW9jYWJqNTd4RlpLWHBGT3ZqdzRLa0NtTGY2QQ?oc=5",
+      "source": "medRxiv vaccines",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-04-18T07:00:00+00:00",
+      "topics": [
+        "communication"
+      ],
+      "policy_tags": [
+        "outbreak_response"
+      ],
+      "vaccines": [
+        "mpox"
+      ],
+      "variants": [],
+      "target_country": "EU",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "medRxiv"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "medRxiv"
+        },
+        "target": {
+          "key": "eu",
+          "name_ja": "EU",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "region": "Europe",
+          "label": "EU"
+        }
+      },
+      "location": {
+        "key": "eu",
+        "name_ja": "EU",
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "region": "Europe",
+        "label": "EU"
+      },
+      "region": "Europe",
+      "country": "EU",
+      "lat": 50.8503,
+      "lng": 4.3517,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "medRxiv vaccines"
+      ],
+      "first_seen_at": "2026-04-18T07:00:00+00:00",
+      "last_seen_at": "2026-04-23T22:02:09.680940+00:00"
     },
     {
       "id": "9cd646eb9011c621",
@@ -1177,7 +1947,7 @@
         "New York Times Vaccines / Immunization"
       ],
       "first_seen_at": "2026-04-18T00:41:50+00:00",
-      "last_seen_at": "2026-04-22T22:02:22.981109+00:00"
+      "last_seen_at": "2026-04-23T22:02:09.680946+00:00"
     },
     {
       "id": "85f60a30a36bd4e2",
@@ -1244,7 +2014,7 @@
         "Nature News Vaccines / Immunization"
       ],
       "first_seen_at": "2026-04-17T19:53:03+00:00",
-      "last_seen_at": "2026-04-21T21:57:57.161123+00:00"
+      "last_seen_at": "2026-04-23T22:02:09.680949+00:00"
     },
     {
       "id": "ff81b2d5687e9015",
@@ -1311,7 +2081,7 @@
         "CIDRAP Vaccines & Immunization"
       ],
       "first_seen_at": "2026-04-16T20:16:18+00:00",
-      "last_seen_at": "2026-04-22T22:02:22.981114+00:00"
+      "last_seen_at": "2026-04-23T22:02:09.680954+00:00"
     },
     {
       "id": "1f9157e882cae1a0",
@@ -1378,7 +2148,7 @@
         "Eurosurveillance"
       ],
       "first_seen_at": "2026-04-16T18:01:51+00:00",
-      "last_seen_at": "2026-04-22T22:02:22.981119+00:00"
+      "last_seen_at": "2026-04-23T22:02:09.680958+00:00"
     },
     {
       "id": "eb709ce0c50e864b",
@@ -1658,7 +2428,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-04-15T23:36:25+00:00",
-      "last_seen_at": "2026-04-22T22:02:22.981129+00:00"
+      "last_seen_at": "2026-04-23T22:02:09.680962+00:00"
     },
     {
       "id": "78766c02f39bd3ad",
@@ -1802,7 +2572,7 @@
         "MHRA"
       ],
       "first_seen_at": "2026-04-15T13:00:18+00:00",
-      "last_seen_at": "2026-04-22T22:02:22.981140+00:00"
+      "last_seen_at": "2026-04-23T22:02:09.680967+00:00"
     },
     {
       "id": "4489b78ca98aa239",
@@ -2007,7 +2777,7 @@
         "CIDRAP Vaccines & Immunization"
       ],
       "first_seen_at": "2026-04-14T19:12:06+00:00",
-      "last_seen_at": "2026-04-22T22:02:22.981154+00:00"
+      "last_seen_at": "2026-04-23T22:02:09.680972+00:00"
     },
     {
       "id": "0f6d1eb0bd40165a",
@@ -2079,7 +2849,7 @@
         "PAHO News"
       ],
       "first_seen_at": "2026-04-14T14:03:06+00:00",
-      "last_seen_at": "2026-04-22T22:02:22.981158+00:00"
+      "last_seen_at": "2026-04-23T22:02:09.680978+00:00"
     },
     {
       "id": "53b5bc8cf3b97287",
@@ -2227,73 +2997,6 @@
       "last_seen_at": "2026-04-20T21:59:36.048235+00:00"
     },
     {
-      "id": "457293e7299d8084",
-      "title": "結核ワクチン候補の第3相試験での防御効果は限定的 - CIDRAP",
-      "summary": "結核ワクチン候補は第 3 相試験 CIDRAP で限定的な予防効果を提供",
-      "summary_ai": "結核ワクチン候補は第 3 相試験 CIDRAP で限定的な予防効果を提供",
-      "title_original": "TB vaccine candidates offer limited protection in phase 3 trial - CIDRAP",
-      "summary_original": "TB vaccine candidates offer limited protection in phase 3 trial CIDRAP",
-      "summary_ai_original": "TB vaccine candidates offer limited protection in phase 3 trial CIDRAP",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTWl1SEFGZlBlZzUySDdVTGNwTlB3MjE4MVVZX0k0bWNnWm5lN0hDSjgzLVZIc25IS2ZLeG9aYWFEeE9CQnVTYkFXNUY0MHlJZm5Vd0pZRU9yWm55b2pXLXJFMFNlSFY4ajU0MkNndUFWYTFpVUNNUkcxX255Rkx3WTNVVVFaNl90MklsT0hZQ1pEVl84MFV2UC1hUnA4LUtkS1E?oc=5",
-      "source": "CIDRAP Vaccines & Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 8,
-      "published_at": "2026-04-13T17:43:56+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "CIDRAP / Minnesota"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "CIDRAP / Minnesota"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "CIDRAP Vaccines & Immunization"
-      ],
-      "first_seen_at": "2026-04-13T17:43:56+00:00",
-      "last_seen_at": "2026-04-22T22:02:22.981162+00:00"
-    },
-    {
       "id": "8b92ff3f6ecb53c7",
       "title": "ワークショップ、会議、カンファレンス (生物製剤)",
       "summary": "一般の人々を教育し、利害関係者の意見を求める目的で、CBER が主催または共催するさまざまな生物製剤に関する会議、カンファレンス、ワークショップに関する情報。",
@@ -2436,6 +3139,73 @@
       "last_seen_at": "2026-04-19T21:49:48.127614+00:00"
     },
     {
+      "id": "457293e7299d8084",
+      "title": "結核ワクチン候補の第3相試験での防御効果は限定的 - CIDRAP",
+      "summary": "結核ワクチン候補は第 3 相試験 CIDRAP で限定的な予防効果を提供",
+      "summary_ai": "結核ワクチン候補は第 3 相試験 CIDRAP で限定的な予防効果を提供",
+      "title_original": "TB vaccine candidates offer limited protection in phase 3 trial - CIDRAP",
+      "summary_original": "TB vaccine candidates offer limited protection in phase 3 trial CIDRAP",
+      "summary_ai_original": "TB vaccine candidates offer limited protection in phase 3 trial CIDRAP",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTWl1SEFGZlBlZzUySDdVTGNwTlB3MjE4MVVZX0k0bWNnWm5lN0hDSjgzLVZIc25IS2ZLeG9aYWFEeE9CQnVTYkFXNUY0MHlJZm5Vd0pZRU9yWm55b2pXLXJFMFNlSFY4ajU0MkNndUFWYTFpVUNNUkcxX255Rkx3WTNVVVFaNl90MklsT0hZQ1pEVl84MFV2UC1hUnA4LUtkS1E?oc=5",
+      "source": "CIDRAP Vaccines & Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 8,
+      "published_at": "2026-04-13T07:00:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "CIDRAP / Minnesota"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "CIDRAP / Minnesota"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "CIDRAP Vaccines & Immunization"
+      ],
+      "first_seen_at": "2026-04-13T17:43:56+00:00",
+      "last_seen_at": "2026-04-23T22:02:09.680983+00:00"
+    },
+    {
       "id": "0ff4543d6c8b8a3d",
       "title": "ブラジルにおけるチクングニア熱に対するワクチン政策の指針：生弱毒化ワクチンと組換えワクチンの費用対効果分析 - BMJ Public Health",
       "summary": "ブラジルにおけるチクングニア熱ワクチン政策の指針：弱毒生BMJと組換えBMJの費用対効果分析 公衆衛生",
@@ -2501,7 +3271,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-04-11T23:52:48+00:00",
-      "last_seen_at": "2026-04-15T22:03:08.456057+00:00"
+      "last_seen_at": "2026-04-23T22:02:09.680989+00:00"
     },
     {
       "id": "2267202e464b59bc",
@@ -2567,7 +3337,7 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "duplicate_sources": [
         "BMJ"
       ],
@@ -2782,7 +3552,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-04-10T07:00:00+00:00",
-      "last_seen_at": "2026-04-22T22:02:22.981173+00:00"
+      "last_seen_at": "2026-04-23T22:02:09.680997+00:00"
     },
     {
       "id": "8e0b751249dc4247",
@@ -2986,7 +3756,7 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicate_sources": [
         "NEJM"
       ],
