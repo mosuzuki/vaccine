@@ -1,9 +1,9 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-04-26T21:51:56.319692+00:00",
-  "item_count": 37,
-  "archive_count": 164,
+  "generated_at": "2026-04-27T22:04:08.970242+00:00",
+  "item_count": 40,
+  "archive_count": 166,
   "days_back": 14,
   "plot_mode_default": "source",
   "feed_status": [
@@ -23,7 +23,7 @@
       "name": "CDC Newsroom",
       "url": "https://tools.cdc.gov/api/v2/resources/media/316422.rss",
       "status": "ok",
-      "seen": 4,
+      "seen": 5,
       "kept": 0
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/biologics/rss.xml",
       "status": "ok",
       "seen": 20,
-      "kept": 1
+      "kept": 2
     },
     {
       "name": "EMA News",
@@ -82,8 +82,8 @@
       "name": "PAHO News",
       "url": "https://www.paho.org/en/rss.xml",
       "status": "ok",
-      "seen": 6,
-      "kept": 2
+      "seen": 5,
+      "kept": 3
     },
     {
       "name": "The Lancet series",
@@ -110,8 +110,8 @@
       "name": "BMJ",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abmj.com%20(policy%20OR%20trial%20OR%20effectiveness%20OR%20communication)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 5,
-      "kept": 5
+      "seen": 9,
+      "kept": 8
     },
     {
       "name": "Vaccine journal",
@@ -145,35 +145,35 @@
       "name": "medRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Amedrxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 11,
-      "kept": 7
+      "seen": 13,
+      "kept": 9
     },
     {
       "name": "bioRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abiorxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 7,
+      "seen": 8,
       "kept": 2
     },
     {
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 28,
-      "kept": 5
+      "seen": 23,
+      "kept": 3
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 100,
+      "seen": 87,
       "kept": 2
     },
     {
       "name": "AP Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 9,
+      "seen": 7,
       "kept": 1
     },
     {
@@ -187,49 +187,49 @@
       "name": "Financial Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aft.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 5,
       "kept": 0
     },
     {
       "name": "STAT Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 27,
+      "seen": 25,
       "kept": 1
     },
     {
       "name": "Nature News Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 10,
+      "seen": 16,
       "kept": 2
     },
     {
       "name": "Science Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Ascience.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 25,
+      "seen": 35,
       "kept": 1
     },
     {
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 92,
-      "kept": 1
+      "seen": 69,
+      "kept": 2
     },
     {
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 21,
+      "seen": 14,
       "kept": 0
     },
     {
       "name": "Washington Post Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 12,
+      "seen": 14,
       "kept": 1
     },
     {
@@ -243,32 +243,448 @@
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 60,
+      "seen": 58,
       "kept": 0
     },
     {
       "name": "朝日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Aasahi.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 5,
+      "seen": 11,
       "kept": 0
     },
     {
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 45,
-      "kept": 2
+      "seen": 35,
+      "kept": 1
     },
     {
       "name": "毎日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 27,
+      "seen": 42,
       "kept": 0
     }
   ],
   "items": [
+    {
+      "id": "fc6dc6a9815f999a",
+      "title": "アメリカ大陸ワクチン接種週間がカナダで始まり、予防接種を通じてすべての人を守るための新たな行動が呼びかけられています",
+      "summary": "カナダでアメリカ大陸ワクチン接種週間が始まり、予防接種を通じてすべてを守るための新たな行動を呼びかける クリスティーナ・ミッチェル 2026年4月27日",
+      "summary_ai": "この取り組みは、各国が地域内での麻疹症例の増加に対応する中、予防接種を受けていない、または不完全な720万人以上の子どもたちに支援を提供することで、根強い予防接種のギャップを埋めることを目的としている。カナダ、オタワ、2026 年 4 月 27 日 (PAHO)—汎米保健機構",
+      "title_original": "Vaccination Week in the Americas launches in Canada, with a call for renewed action to protect all through immunization",
+      "summary_original": "Vaccination Week in the Americas launches in Canada, with a call for renewed action to protect all through immunization Cristina Mitchell 27 Apr 2026",
+      "summary_ai_original": "The initiative aims to close persistent immunization gaps by reaching more than 7.2 million children with zero or incomplete vaccination status, as countries respond to rising measles cases in the Region. Ottawa, Canada, April 27, 2026 (PAHO)— The Pan American Health Organization",
+      "article_text_original": "The initiative aims to close persistent immunization gaps by reaching more than 7.2 million children with zero or incomplete vaccination status, as countries respond to rising measles cases in the Region. Ottawa, Canada, April 27, 2026 (PAHO)— The Pan American Health Organization (PAHO) today launched the 24th Vaccination Week in the Americas (VWA) in Ottawa, Canada, marking the first time the regional campaign has been inaugurated in the country. Held alongside Canada’s National Immunization Awareness Week (NIAW), the event underscores the critical role of vaccines in protecting lives and the urgent need to close immunization gaps across the Region. “Vaccination Week is an emblematic initiative that has united our Region around a shared purpose: protecting lives through immunization. This collective effort reflects our conviction that health is a public good that must be built and protected together,” said Dr. Jarbas Barbosa, Director of PAHO. This year’s theme, “Your decision makes the difference. Immunization for all,” highlights how individual choices to vaccinate contribute to the protection of entire communities. Dr. Barbosa thanked Canada for hosting the regional launch and recognized its continued commitment to strengthening immunization programs, including efforts to restore measles elimination status. He also acknowledged the country’s response to recent measles outbreaks, highlighting the role of high vaccination coverage, strong surveillance, and clear communication to counter misinformation. “Last November Canada lost its measles elimination status, a status we have maintained since 1998. Losing elimination status is a sobering development and a difficult wake-up call. In Canada, we believe in science and we value our scientists,” said Canada’s Minister of Health, Marjorie Michel. “Canada has a proud history of research, and our scientists have helped lead the global development of this groundbreaking technology. But we need to take action, including building trust in vaccines through community engagement.” Since its creation in 2003, Vaccination Week in the Americas has enabled countries to administer more than 1.2 billion vaccine doses, contributing to the elimination or control of diseases such as polio, measles, and rubella. This year, countries across the Region are intensifying efforts: more than 20 countries have committed to administering nearly 90 million vaccine doses, reaching over 7.2 million children who have missed routine immunizations, and delivering more than 80 million influenza vaccines in preparation for seasonal peaks. While vaccination coverage has begun to recover following declines recorded during and even prior to the COVID-19 pandemic, it is estimated that five million children in the Americas did not receive any routine vaccines between 2022 and 2024. These gaps are concentrated particularly in peri-urban areas, remote communities, and among Indigenous populations, migrants, and refugees. “This situation is not acceptable—but it is within our reach to overcome,” Dr. Barbosa said. The Region has also seen the re-emergence of vaccine-preventable diseases, including measles. “The re-emergence of measles in the Americas is a significant setback,” Dr. Barbosa said. “The Americas have eliminated measles before—and we can do it again—but only with sustained coverage above 95% in every community.” To address these challenges, PAHO is working with countries to advance four key priorities: strengthening routine childhood vaccination, especially against measles; accelerating efforts to eliminate cervical cancer through HPV vaccination; expanding regional vaccine manufacturing and access through pooled procurement mechanisms; and introducing new vaccines across the life course as part of primary health care. Dr. Barbosa emphasized that sustained investment in immunization is essential. “Immunization is one of the smartest investments in health; when it declines, systems weaken and diseases return,” he said. He also highlighted the need to counter misinformation and rebuild trust in vaccines. “Addressing misinformation requires not only data, but also listening, empathy, and clear communication,” he said. Canada’s National Immunization Awareness Week, held annually in the last week of April, complements regional efforts by encouraging people of all ages to stay up to date with recommended vaccines and reinforcing public confidence in immunization. “Canada is committed to vaccination as a cornerstone of public health, both domestically and globally. Diseases do not respect borders, and Canada is committed to working collaboratively with other countries to prevent and respond to global health threats,” Minister Michel added. Vaccination remains one of the most effective public health interventions. Globally, vaccines prevent more than two million deaths each year, and in the Americas, immunization has saved millions of lives and prevented billions of cases of disease over the past decades. Closing the event, Dr. Barbosa called for renewed commitment across sectors. “Let every day be an open door, every conversation a chance to build trust, and every vaccine a step toward a healthier future,” he said. “Together, we are stronger than any threat we face.” Vaccination Week in the Americas also aligns with World Immunization Week (24–30 April 2026), led by the World Health Organization (WHO). The regional initiative in the Americas originally inspired the creation of this global campaign, which this year promotes the theme “For every generation, vaccines work.”",
+      "link": "https://www.paho.org/en/news/27-4-2026-vaccination-week-americas-launches-canada-call-renewed-action-protect-all-through",
+      "source": "PAHO News",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 8,
+      "published_at": "2026-04-27T17:54:35+00:00",
+      "topics": [
+        "communication",
+        "policy",
+        "research"
+      ],
+      "policy_tags": [
+        "communication",
+        "financing",
+        "outbreak_response"
+      ],
+      "vaccines": [
+        "influenza"
+      ],
+      "variants": [],
+      "target_country": "カナダ",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "PAHO / Washington DC"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "PAHO / Washington DC"
+        },
+        "target": {
+          "key": "canada",
+          "name_ja": "カナダ",
+          "lat": 45.4215,
+          "lng": -75.6972,
+          "region": "North America",
+          "label": "カナダ"
+        }
+      },
+      "location": {
+        "key": "canada",
+        "name_ja": "カナダ",
+        "lat": 45.4215,
+        "lng": -75.6972,
+        "region": "North America",
+        "label": "カナダ"
+      },
+      "region": "North America",
+      "country": "カナダ",
+      "lat": 45.4215,
+      "lng": -75.6972,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "PAHO News"
+      ]
+    },
+    {
+      "id": "50b6ecc93ecab108",
+      "title": "2026 年会議資料、ワクチンおよび関連生物製剤諮問委員会",
+      "summary": "これは、2026 年会議資料、ワクチンおよび関連生物製品諮問委員会 (VRBPAC) のメイン ページです。",
+      "summary_ai": "2026年5月28日、委員会は公開セッションで会合を開き、米国で使用する2026～2027年の新型コロナウイルス感染症ワクチンの配合の選択について議論し、勧告を行う予定だ。 2026 年 3 月 12 日に委員会は公開会議で会合を開き、議論と勧告を行う予定です",
+      "title_original": "2026 Meeting Materials, Vaccines and Related Biological Products Advisory Committee",
+      "summary_original": "This is the main page for the 2026 Meeting Materials, Vaccines and Related Biological Products Advisory Committee (VRBPAC).",
+      "summary_ai_original": "On May 28, 2026, the Committee will meet in open session to discuss and make recommendations on the selection of the 2026-2027 Formula for COVID-19 vaccines for use in the United States. On March 12, 2026, the Committee will meet in open session to discuss and make recommendation",
+      "article_text_original": "May 28, 2026 The meeting presentations will be heard, viewed, captioned, and recorded through an online teleconferencing platform. On May 28, 2026, the Committee will meet in open session to discuss and make recommendations on the selection of the 2026-2027 Formula for COVID-19 vaccines for use in the United States. March 12, 2026 The meeting presentations will be heard, viewed, captioned, and recorded through an online teleconferencing platform. On March 12, 2026, the Committee will meet in open session to discuss and make recommendations on the strain composition of influenza virus vaccines for use in United States during the 2026-2027 influenza season.",
+      "link": "http://www.fda.gov/advisory-committees/vaccines-and-related-biological-products-advisory-committee/2026-meeting-materials-vaccines-and-related-biological-products-advisory-committee",
+      "source": "FDA Vaccines / Biologics",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 9,
+      "published_at": "2026-04-27T12:01:59+00:00",
+      "topics": [
+        "policy",
+        "research"
+      ],
+      "policy_tags": [
+        "recommendation"
+      ],
+      "vaccines": [
+        "covid",
+        "influenza"
+      ],
+      "variants": [],
+      "target_country": "米国",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "FDA / Silver Spring"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "FDA / Silver Spring"
+        },
+        "target": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "米国"
+        }
+      },
+      "location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "米国"
+      },
+      "region": "North America",
+      "country": "米国",
+      "lat": 38.9072,
+      "lng": -77.0369,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "FDA Vaccines / Biologics"
+      ]
+    },
+    {
+      "id": "16b5c11505ae36dc",
+      "title": "ワクチンおよび関連生物由来製品諮問委員会会議 2026 年 5 月 28 日の発表 - 2026 年 5 月 28 日",
+      "summary": "2026年5月28日、委員会は公開セッションで会合を開き、米国で使用する2026～2027年の新型コロナウイルス感染症ワクチンの配合の選択について議論し、勧告を行う予定だ。",
+      "summary_ai": "すべての会議参加者は、オンライン電話会議および/またはビデオ会議プラットフォームを通じてこの諮問委員会会議に参加することにご注意ください。 FDA が会議前に背景資料を Web サイトに掲載できない場合、背景資料は",
+      "title_original": "Vaccines and Related Biological Products Advisory Committee Meeting May 28, 2026 Announcement - 05/28/2026",
+      "summary_original": "On May 28, 2026, the Committee will meet in open session to discuss and make recommendations on the selection of the 2026-2027 Formula for COVID-19 vaccines for use in the United States.",
+      "summary_ai_original": "Please note that all meeting participants will be joining this advisory committee meeting through an online teleconferencing and/or video conferencing platform. If FDA is unable to post the background material on its website prior to the meeting, the background material will be m",
+      "article_text_original": "- Date: - May 28, 2026 - Time: - 8:30 a.m. - 4:30 p.m. ET What is an advisory committee? Advisory committees provide independent expert advice to the FDA on broad scientific topics or on certain products to help the agency make sound decisions based on the available science. Advisory committees make non-binding recommendations to the FDA, which generally follows the recommendations but is not legally bound to do so. Please see, \"Advisory Committees Give FDA Critical Advice and the Public a Voice,\" for more information. Please note that all meeting participants will be joining this advisory committee meeting through an online teleconferencing and/or video conferencing platform. How to Attend - 05/28/2026 CBER plans to provide a free of charge live webcast of the Vaccines and Related Biological Products Advisory Committee Meeting. If there are instances where the webcast transmission is not successful, staff will work to re-establish the transmission as soon as possible. Agenda The meeting presentations will be heard, viewed, captioned, and recorded through an online teleconferencing and/or video conferencing platform. On May 28, 2026, the Committee will meet in open session to discuss and make recommendations on the selection of the 2026-2027 Formula for COVID-19 vaccines for use in the United States. Meeting Materials FDA intends to make background material available to the public no later than 2 business days before the meeting. If FDA is unable to post the background material on its website prior to the meeting, the background material will be made publicly available at the time of the advisory committee meeting, and the background material will be posted on FDA’s website after the meeting. Background material is available at the Advisory Committee Calendar. Scroll down to the appropriate advisory committee meeting link. The meeting will include slide presentations with audio components to allow the presentation of materials in a manner that most closely resembles an in-person advisory committee meeting. Public Participation Information Interested persons may present data, information, or views, orally or in writing, on issues pending before the committee. Oral presentations from the public will be scheduled between approximately 1:00 p.m. and 2:00 p.m. Eastern Time on May 28, 2026. FDA is establishing a docket for public comment on this meeting. The docket number is FDA-2026-N-3962. The docket will close on May 27, 2026. Submit either electronic or written comments on this public meeting on or before May 27, 2026. Please note that late, untimely filed comments will not be considered. Electronic comments must be submitted on or before May 27, 2026. The https://www.regulations.gov electronic filing system will accept comments until 11:59 p.m. Eastern Time at the end of May 27, 2026. Comments received by mail/hand delivery/courier (for written/paper submissions) will be considered timely if they are received on or before that date. Comments received on or before May 21, 2026, will be provided to the committee. Comments received after that date and on May 27, 2026, will be taken into consideration by FDA. In the event that the meeting is canceled, FDA will continue to evaluate any relevant applications or information, and consider any comments submitted to the docket, as appropriate. You may submit comments as follows: Electronic Submissions Submit electronic comments as follows: - Federal eRulemaking Portal: https://www.regulations.gov. Follow the instructions for submitting comments. Comments submitted electronically, including attachments, to https://www.regulations.gov will be posted to the docket unchanged. Because your comment will be made public, you are solely responsible for ensuring that your comment does not include any confidential information that you or a third party may not wish to be posted, such as medical information, your or anyone else’s Social Security number, or confidential business information, such as a manufacturing process. Please note that if you include your name, contact information, or other information that identifies you in the body of your comments, that information will be posted on https://www.regulations.gov. - If you want to submit a comment with confidential information that you do not wish to be made available to the public, submit the comment as a written/paper submission and in the manner detailed (see “Written/Paper Submissions” and “Instructions”). Written/Paper Submissions Submit written/paper submissions as follows: - Mail/Hand delivery/Courier (for written/paper submissions): Dockets Management Staff (HFA-305), Food and Drug Administration, 5630 Fishers Lane, Rm. 1061, Rockville, MD 20852. - For written/paper comments submitted to the Dockets Management Staff, FDA will post your comment, as well as any attachments, except for information submitted, marked and identified, as confidential, if submitted as detailed in “Instructions.” Instructions: All submissions received must include the Docket No. FDA-2026-N-3962 for “Vaccines and Related Biological Products Advisory Committee; Notice of Meeting; Establishment of a Public Docket; Request for Comments – United States (U.S.) 2026-2027 Formula for COVID-19 Vaccine Composition”. Received comments, those filed in a timely manner (see ADDRESSES), will be placed in the docket and, except for those submitted as “Confidential Submissions,” publicly viewable at https://www.regulations.gov or at the Dockets Management Staff between 9 a.m. and 4 p.m., Monday through Friday, 240-402-7500. Confidential Submissions: To submit a comment with confidential information that you do not wish to be made publicly available, submit your comments only as a written/paper submission. You should submit two copies total. One copy will include the information you claim to be confidential with a heading or cover note that states “THIS DOCUMENT CONTAINS CONFIDENTIAL INFORMATION.” FDA will review this copy, including the claimed confidential information, in its consideration of comments. The second copy, which will have the claimed confidential information redacted/blacked out, will be available for public viewing and posted on https://www.regulations.gov. Submit both copies to the Dockets Management Staff. If you do not wish your name and contact information be made publicly available, you can provide this information on the cover sheet and not in the body of your comments and you must identify the information as “confidential.” Any information marked as “confidential” will not be disclosed except in accordance with 21 CFR 10.20 and other applicable disclosure law. For more information about FDA’s posting of comments to public dockets, see 80 FR 56469, September 18, 2015, or access the information at: https://www.govinfo.gov/content/pkg/FR-2015-09-18/pdf/2015-23389.pdf. Docket: For access to the docket to read background documents or the electronic and written/paper comments received, go to https://www.regulations.gov and insert the docket number, found in brackets in the heading of this document, into the “Search” box and follow the prompts and/or go to the Dockets Management Staff, 5630 Fishers Lane, Rm. 1061, Rockville, MD 20852, 240-402-7500. FOR FURTHER INFORMATION, CONTACT: Cicely Reese; Center for Biologics Evaluation and Research, Food and Drug Administration, 10903 New Hampshire Ave., Bldg. 71, Rm. 1232, Silver Spring, MD 20993-0002, 301-796-9025, email: CBERVRBPAC@fda.hhs.gov, or FDA Advisory Committee Information Line, 1-800-741-8138 (301-443-0572 in the Washington, DC area). Oral Presentations Oral presentations from the public will be scheduled between approximately 1:00 p.m. and 2:00 p.m. Eastern Time on May 28, 2026. Those individuals interested in making formal oral presentations should notify the contact person and submit a brief statement of the general nature of the evidence or arguments they wish to present, the names and addresses of proposed participants, and an indication of the approximate time requested to make their presentation on or before 12 p.m. Eastern Time on May 18, 2026. Time allotted for each presentation may be limited. If the number of registrants requesting to speak is greater than can be reasonably accommodated during the scheduled open public hearing session, FDA may conduct a lottery to determine the speakers for the scheduled open public hearing session. The contact person will notify interested persons regarding their request to speak by 6 p.m. Eastern Time on May 20, 2026. Webcast Information CBER plans to provide a free of charge live webcast of the Vaccines and Related Biological Products Advisory Committee meeting: The online web conference meeting will be available at the following link: - 05/28/2026 If there are instances where the webcast transmission is not successful, staff will work to re-establish the transmission as soon as possible. Contact Information - Cicely Reese: CBERVRBPAC@fda.hhs.gov - FDA Advisory Committee Information Line: 1-800-741-8138 (301-443-0572 in the Washington, DC area). Please call the Information Line for up-to-date information on this meeting. - For press inquiries, please contact the HHS Press Room at www.hhs.gov/press-room/index.html or 202-690-6343. A notice in the Federal Register about last minute modifications that impact a previously announced advisory committee meeting cannot always be published quickly enough to provide timely notice. Therefore, you should always check the agency’s website or call the committee’s Designated Federal Officer (see Contact Information) to learn about possible modifications before coming to the meeting. Persons attending FDA’s advisory committee meetings are advised that the agency is not responsible for providing access to electrical outlets. FDA welcomes the attendance of the public at its advisory committee meetings and will make every effort to accommodate persons with disabilities. If you require accommodations due to a disability, please contact the committee’s Designated Federal Officer (see Contact Information) at least 7 days in advance of the meeting. Answers to commonly asked questions including information regarding special accommodations due to a disability may be accessed at: Common Questions and Answers about FDA Advisory Committee Meetings. FDA is committed to the orderly conduct of its advisory committee meetings. Please visit our Web site at Public Conduct During FDA Advisory Committee Meetings for procedures on public conduct during advisory committee meetings. Notice of this meeting is given under the Federal Advisory Committee Act (5 U.S.C. app.2).",
+      "link": "http://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-meeting-may-28-2026-announcement",
+      "source": "FDA Vaccines / Biologics",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 9,
+      "published_at": "2026-04-27T12:01:20+00:00",
+      "topics": [
+        "policy",
+        "research"
+      ],
+      "policy_tags": [
+        "recommendation",
+        "schedule"
+      ],
+      "vaccines": [
+        "covid"
+      ],
+      "variants": [],
+      "target_country": "米国",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "FDA / Silver Spring"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "FDA / Silver Spring"
+        },
+        "target": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "米国"
+        }
+      },
+      "location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "米国"
+      },
+      "region": "North America",
+      "country": "米国",
+      "lat": 38.9072,
+      "lng": -77.0369,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "FDA Vaccines / Biologics"
+      ]
+    },
+    {
+      "id": "c66e7cbac541dc23",
+      "title": "2017/2018年の流行に対するユービコールと経口コレラワクチンの2回接種の有効性 - BMJ Open",
+      "summary": "2017/2018年の流行に対するユービコールと経口コレラワクチンの2回接種の有効性 BMJ Open",
+      "summary_ai": "2017/2018年の流行に対するユービコールと経口コレラワクチンの2回接種の有効性 BMJ Open",
+      "title_original": "Effectiveness of two doses of Euvichol- plus oral cholera vaccine in response to the 2017/2018 outbreak - BMJ Open",
+      "summary_original": "Effectiveness of two doses of Euvichol- plus oral cholera vaccine in response to the 2017/2018 outbreak BMJ Open",
+      "summary_ai_original": "Effectiveness of two doses of Euvichol- plus oral cholera vaccine in response to the 2017/2018 outbreak BMJ Open",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GRXo0VXBjVURvV2xSM3BMMEVwVURJSTRKNkdob0lUazc3VHRyNnpLTm9reGlIdHZNU0lQeklGZFN5YjRVbEhNRlFrdjl5U3JMVkVUMTNjWUk0SzlUbVozOFNpVjhVeFRYQjVfeXlpaw?oc=5",
+      "source": "BMJ",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-04-26T21:23:30+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [
+        "outbreak_response"
+      ],
+      "vaccines": [
+        "cholera"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BMJ / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BMJ / London"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "BMJ"
+      ]
+    },
+    {
+      "id": "854ff1fefb0a2b09",
+      "title": "ワクチン研究中止後、バタチャリヤ氏がCDCの長期刊行物を批判 - Science | News AAAS",
+      "summary": "ワクチン研究を中止した後、バタチャリヤ氏はCDCの長期刊行出版物「サイエンス | サイエンス」を批判した。 AAAS",
+      "summary_ai": "ワクチン研究を中止した後、バタチャリヤ氏はCDCの長期刊行出版物「サイエンス | サイエンス」を批判した。 AAAS",
+      "title_original": "After pulling vaccine study, Bhattacharya criticizes long-running CDC publication - Science | AAAS",
+      "summary_original": "After pulling vaccine study, Bhattacharya criticizes long-running CDC publication Science | AAAS",
+      "summary_ai_original": "After pulling vaccine study, Bhattacharya criticizes long-running CDC publication Science | AAAS",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTlVOR2s3TFJpSG5rdFA5VElsaUNnMnZzMzJsWXp4UFFKMkdFQW5sRkhidlZfNVJtdDBaRm01V2VqOEhVdWFFNE96ang4M0wwYWFOMlhIeklxWEFSbmZSbzItQ3VNbFdKWGc4MF85czJjbk9hd3lCb19pOHFRUW8tSnVFTmQ0MmNJSDJjcTN3b1pYT0lsQ2pHckZLVU5BMDRuWWxuN1BtNjNvdEMwWnpXSFd0OW9EUHRkQ1J0RQ?oc=5",
+      "source": "Science Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-04-26T20:29:29+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "Science"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "Science"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Science Vaccines / Immunization"
+      ]
+    },
+    {
+      "id": "8a4c1254b6ff56de",
+      "title": "ブラジルでのガンマ変異株関連の新型コロナウイルス感染症流行中の高齢者に対するコロナバックワクチンの有効性：検査陰性の症例対照研究 - BMJ",
+      "summary": "ブラジルでのガンマ変異株関連の新型コロナウイルス感染症流行中の高齢者に対するコロナバックワクチンの有効性：検査陰性の症例対照研究",
+      "summary_ai": "ブラジルでのガンマ変異株関連の新型コロナウイルス感染症流行中の高齢者に対するコロナバックワクチンの有効性：検査陰性の症例対照研究",
+      "title_original": "Effectiveness of the CoronaVac vaccine in older adults during a gamma variant associated epidemic of covid-19 in Brazil: test negative case-control study - The BMJ",
+      "summary_original": "Effectiveness of the CoronaVac vaccine in older adults during a gamma variant associated epidemic of covid-19 in Brazil: test negative case-control study The BMJ",
+      "summary_ai_original": "Effectiveness of the CoronaVac vaccine in older adults during a gamma variant associated epidemic of covid-19 in Brazil: test negative case-control study The BMJ",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ndXRYMUROSWFHWmhkWGNMY1hQaWhrNE9Vc080NmxzamFEdUFzeU91N01rc0dXb3hrZkpETE5IaDBMZS1UdDJheVhnUXFCcWtCX1RiZmJDWTFiaHVEbmNrOWVrLXQ?oc=5",
+      "source": "BMJ",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-04-26T18:17:31+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [
+        "gamma"
+      ],
+      "target_country": "ブラジル",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BMJ / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BMJ / London"
+        },
+        "target": {
+          "key": "brazil",
+          "name_ja": "ブラジル",
+          "lat": -15.7939,
+          "lng": -47.8828,
+          "region": "South America",
+          "label": "ブラジル"
+        }
+      },
+      "location": {
+        "key": "brazil",
+        "name_ja": "ブラジル",
+        "lat": -15.7939,
+        "lng": -47.8828,
+        "region": "South America",
+        "label": "ブラジル"
+      },
+      "region": "South America",
+      "country": "ブラジル",
+      "lat": -15.7939,
+      "lng": -47.8828,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "BMJ"
+      ]
+    },
     {
       "id": "69f5f2da118d4e94",
       "title": "ブルキナファソにおける全国規模の腸チフス結合型ワクチンキャンペーンの費用分析 - medRxiv",
@@ -400,74 +816,9 @@
       "country": "米国",
       "lat": 38.9072,
       "lng": -77.0369,
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "duplicate_sources": [
         "medRxiv vaccines"
-      ]
-    },
-    {
-      "id": "854ff1fefb0a2b09",
-      "title": "ワクチン研究中止後、バタチャリヤ氏がCDCの長期刊行物を批判 - Science | News AAAS",
-      "summary": "ワクチン研究を中止した後、バタチャリヤ氏はCDCの長期刊行出版物「サイエンス | サイエンス」を批判した。 AAAS",
-      "summary_ai": "ワクチン研究を中止した後、バタチャリヤ氏はCDCの長期刊行出版物「サイエンス | サイエンス」を批判した。 AAAS",
-      "title_original": "After pulling vaccine study, Bhattacharya criticizes long-running CDC publication - Science | AAAS",
-      "summary_original": "After pulling vaccine study, Bhattacharya criticizes long-running CDC publication Science | AAAS",
-      "summary_ai_original": "After pulling vaccine study, Bhattacharya criticizes long-running CDC publication Science | AAAS",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTlVOR2s3TFJpSG5rdFA5VElsaUNnMnZzMzJsWXp4UFFKMkdFQW5sRkhidlZfNVJtdDBaRm01V2VqOEhVdWFFNE96ang4M0wwYWFOMlhIeklxWEFSbmZSbzItQ3VNbFdKWGc4MF85czJjbk9hd3lCb19pOHFRUW8tSnVFTmQ0MmNJSDJjcTN3b1pYT0lsQ2pHckZLVU5BMDRuWWxuN1BtNjNvdEMwWnpXSFd0OW9EUHRkQ1J0RQ?oc=5",
-      "source": "Science Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-04-24T21:48:47+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "Science"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "Science"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Science Vaccines / Immunization"
       ]
     },
     {
@@ -607,13 +958,13 @@
       ]
     },
     {
-      "id": "49629a69b0514924",
-      "title": "ケニア、シアヤ郡ウゲニャ準郡における生後6～59か月の子供の養育者におけるマラリアワクチンへの躊躇に関連する要因：横断的混合研究 - medRxiv",
-      "summary": "ケニア、シアヤ郡ウゲニャ準郡における生後6～59か月の子供の養育者におけるマラリアワクチンへの躊躇に関連する要因：横断的混合研究 medRxiv",
-      "summary_ai": "ケニア、シアヤ郡ウゲニャ準郡における生後6～59か月の子供の養育者におけるマラリアワクチンへの躊躇に関連する要因：横断的混合研究 medRxiv",
-      "title_original": "Factors Associated with Malaria Vaccine Hesitancy Among Caregivers of Children 6-59 Months, In Ugenya Sub County, Siaya County, Kenya: A cross - Sectional Mixed Study - medRxiv",
-      "summary_original": "Factors Associated with Malaria Vaccine Hesitancy Among Caregivers of Children 6-59 Months, In Ugenya Sub County, Siaya County, Kenya: A cross - Sectional Mixed Study medRxiv",
-      "summary_ai_original": "Factors Associated with Malaria Vaccine Hesitancy Among Caregivers of Children 6-59 Months, In Ugenya Sub County, Siaya County, Kenya: A cross - Sectional Mixed Study medRxiv",
+      "id": "fb8c970369a232c1",
+      "title": "ケニア、シアヤ郡ウゲニャ準郡における生後6～59か月の子供の養育者におけるマラリアワクチンへの躊躇に関連する要因 - medRxiv",
+      "summary": "ケニア、シアヤ郡ウゲニャ準郡における生後6～59か月の子供の養育者におけるマラリアワクチンへの躊躇に関連する要因 medRxiv",
+      "summary_ai": "ケニア、シアヤ郡ウゲニャ準郡における生後6～59か月の子供の養育者におけるマラリアワクチンへの躊躇に関連する要因 medRxiv",
+      "title_original": "Factors Associated with Malaria Vaccine Hesitancy Among Caregivers of Children 6-59 Months, In Ugenya Sub County, Siaya County, Kenya - medRxiv",
+      "summary_original": "Factors Associated with Malaria Vaccine Hesitancy Among Caregivers of Children 6-59 Months, In Ugenya Sub County, Siaya County, Kenya medRxiv",
+      "summary_ai_original": "Factors Associated with Malaria Vaccine Hesitancy Among Caregivers of Children 6-59 Months, In Ugenya Sub County, Siaya County, Kenya medRxiv",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBiT1lTX2ZZRS1hRHNhejNwa3Qza3MtdklLT25PbWV4dWtYWHdwNnVzZDIxVGp4UVQ1TVFTWEQyWDBqOC1MeFROTWMwM1VWcjNEMVV1SncwazB6QXpVa0JQcHo3LUgzRElXT1kzTUo0Zw?oc=5",
       "source": "medRxiv vaccines",
@@ -622,8 +973,7 @@
       "source_priority": 7,
       "published_at": "2026-04-23T19:07:23+00:00",
       "topics": [
-        "communication",
-        "research"
+        "communication"
       ],
       "policy_tags": [
         "communication"
@@ -671,7 +1021,7 @@
       "country": "ケニア",
       "lat": -1.2921,
       "lng": 36.8219,
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "duplicate_sources": [
         "medRxiv vaccines"
       ]
@@ -1754,77 +2104,6 @@
       ]
     },
     {
-      "id": "12d29f3972ea305a",
-      "title": "産業向け規制教育 (REdI) 年次会議 2026: 医療製品を前進させるための革新的な規制戦略 - 2026 年 5 月 19 日",
-      "summary": "医薬品、機器、生物製剤などの医療製品センターの FDA 規制専門家から直接学びましょう。",
-      "summary_ai": "対象読者 医薬品 - 新薬申請の開発と準備、医薬品の安全性、IT に取り組む規制関係者およびその他の専門家 - スポンサー、申請者、メーカー、臨床研究者、および insi の取得を希望する規制関係専門家",
-      "title_original": "Regulatory Education for Industry (REdI) Annual Conference 2026: Innovative Regulatory Strategies to Advance Medical Products - 05/19/2026",
-      "summary_original": "Learn directly from the FDA’s regulatory experts in medical product centers: drugs, devices, and biologics.",
-      "summary_ai_original": "Intended Audience Drugs - Regulatory affairs and other professionals working on the development and preparation of new drug submissions, drug safety and IT - Sponsors, applicant holders, manufacturers, clinical researchers and regulatory affairs professionals wishing to gain insi",
-      "article_text_original": "- Date: - May 19 - 20, 2026 - Day1: - Tue, May 19 9:00 a.m. - 04:50 p.m. ET - Day2: - Wed, May 20 9:00 a.m. - 03:50 p.m. ET - Location: - Event LocationAttend In Person or Online Virtual: Via Adobe Connect In Person: FDA White Oak Campus 10903 New Hampshire Ave, Building 31 The Great Room Silver Spring, MD 20903 United States Save the Date Agenda Coming Soon Drugs, Devices, and Biologics Tracks will Offer an Opportunity for 1:1 Questions Learn directly from the FDA’s regulatory experts in medical product centers: drugs, devices, and biologics. This course is designed to provide participants with a strong, basic foundation in the FDA’s regulatory requirements, and also create awareness of current activities. Intended Audience Drugs - Regulatory affairs and other professionals working on the development and preparation of new drug submissions, drug safety and IT - Sponsors, applicant holders, manufacturers, clinical researchers and regulatory affairs professionals wishing to gain insight on INDs, NDAs and BLAs - Industry professionals at all levels of expertise Devices - A new regulatory affairs specialist wanting to learn some basics and best practices for getting started with FDA’s regulation of medical devices. - A researcher of a medical device seeking to learn about the valid scientific evidence requirements needed to support new medical device regulatory submissions. - An establishment seeking to understand their regulatory responsibilities for maintaining their quality system to ensure their device is stay and effective after it’s legally marketed and in commercial distribution. Biologics - Biotechnology product manufacturers, academic sponsors, and other stakeholders working on the development of biological products - Regulatory affairs and other professionals working with submissions of INDs, IDEs, and BLAs, and PMAs to the Center for Biologics Evaluation and Research - Industry and consulting professionals working with advanced therapies, allergenics, blood and vaccine products, and devices used with biological products Topics Covered - Advanced Drug Manufacturing in CDER - Use of AI to Advance Drug Development - FDA’s Quality Management System Regulation (QMSR) - Small Business Determination Program Updates - Use of Digital Health Technologies for Data Collection in Clinical Trials - Benefit-Risk Framework and Analytical Methods to Inform Benefit-Risk - …Many others Continuing Education (CE) Real-time attendance is required for the certificate of attendance which can be used in support of CEs for the following professional organizations. Certificates are only available during the two weeks post-event. This course has been pre-approved by: - RAPS as eligible for a maximum of 12 credits for a two-day event (appropriate to real-time attendance) towards a participant’s RAC recertification upon full completion. - SOCRA who accepts documentation of candidate participation in continuing education programs for re-certification if the program is applicable to clinical research regulations, operations or management, or to the candidate's clinical research therapeutic area. - SQA as eligible for 1 non-GCP or non-GLP unit for every 1 hour of instructional time towards a participant’s RQAP re-registration. - ACRP for continuing education in clinical research. ACRP will provide 1 ACRP contact hour for every 45-60 minutes of qualified material. FDA Resources Drugs - CDER SBIA Learn: Webinars, Conferences, Trainings - Search for Regulatory References | Drugs - Guidance Documents for Drug Applications Devices Biologics More Information Food and Drink - Public meeting attendees may bring their own food and drink as campus access is restricted to the immediate meeting area - For this event, light refreshments, sandwiches/wraps/salads are available for pre-order during the registration process. Payment will be made when the order is picked up on site - Lunch selections must be made at time of registration. Changes cannot be accommodated after registration is complete. REdI Lunch Menu - Restaurants near the FDA White Oak campus are available. Before leaving, meeting attendees should consider the amount of time needed to return to campus and go through security screening.",
-      "link": "http://www.fda.gov/news-events/regulatory-education-industry-redi-annual-conference-2026-innovative-regulatory-strategies-advance",
-      "source": "FDA Vaccines / Biologics",
-      "source_type": "official",
-      "source_tier": "Tier 1",
-      "source_priority": 9,
-      "published_at": "2026-04-21T17:11:06+00:00",
-      "topics": [
-        "communication",
-        "policy",
-        "research"
-      ],
-      "policy_tags": [
-        "approval",
-        "communication",
-        "safety"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "米国",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "FDA / Silver Spring"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "FDA / Silver Spring"
-        },
-        "target": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "米国"
-        }
-      },
-      "location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "米国"
-      },
-      "region": "North America",
-      "country": "米国",
-      "lat": 38.9072,
-      "lng": -77.0369,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "FDA Vaccines / Biologics"
-      ]
-    },
-    {
       "id": "5a9c4aa3a36ab98c",
       "title": "法定ガイダンス: MHRA 手数料",
       "summary": "2025 年から MHRA に料金が支払われます。",
@@ -2020,73 +2299,6 @@
       "duplicate_count": 2,
       "duplicate_sources": [
         "BMJ"
-      ]
-    },
-    {
-      "id": "fc74321661533f29",
-      "title": "要点：カリフォルニア州、mpoxワクチン接種を促す、英国のmenBキャンペーン、ノースカロライナ州の在郷軍人会 - CIDRAP",
-      "summary": "要点：カリフォルニア州がmpoxワクチン接種を促す、英国のmenBキャンペーン、ノースカロライナ州の在郷軍人会 CIDRAP",
-      "summary_ai": "要点：カリフォルニア州がmpoxワクチン接種を促す、英国のmenBキャンペーン、ノースカロライナ州の在郷軍人会 CIDRAP",
-      "title_original": "Quick takes: California urges mpox vaccination, UK menB campaign, Legionnaires' in North Carolina - CIDRAP",
-      "summary_original": "Quick takes: California urges mpox vaccination, UK menB campaign, Legionnaires' in North Carolina CIDRAP",
-      "summary_ai_original": "Quick takes: California urges mpox vaccination, UK menB campaign, Legionnaires' in North Carolina CIDRAP",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTEthZERxTzMzUkJSLWpWaHdXcHFCV2xvNzd0N1Uyb3BGOUxkR3M5WFJLaEdBZGtYU0Zrc1VDOE9vMTJXSVBTOFlDdFQ0UkM1c3FNeG42Zk5SY1FaVjEwVHRDc0k4bl9CYXFlRENlTDRvbnlrVGt5MkF3ZXhhUmFKN09HdzBkSEFMZTEtWHNUYXZZQUxUUDhCRllvVVNFajhndmZzcDNUODJpcXlMRWJ0RlZZTmlVRVBINkF6TmQyZw?oc=5",
-      "source": "CIDRAP Vaccines & Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 8,
-      "published_at": "2026-04-20T19:14:00+00:00",
-      "topics": [
-        "communication"
-      ],
-      "policy_tags": [
-        "outbreak_response"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "英国",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "CIDRAP / Minnesota"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "CIDRAP / Minnesota"
-        },
-        "target": {
-          "key": "uk",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "英国"
-        }
-      },
-      "location": {
-        "key": "uk",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "英国"
-      },
-      "region": "Europe",
-      "country": "英国",
-      "lat": 51.5074,
-      "lng": -0.1278,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "CIDRAP Vaccines & Immunization"
       ]
     },
     {
@@ -2294,6 +2506,73 @@
       ]
     },
     {
+      "id": "9cd646eb9011c621",
+      "title": "予防接種の実施に関する諮問委員会 - ページ 9 - ニューヨーク・タイムズ",
+      "summary": "予防接種の実施に関する諮問委員会 - ページ 9 ニューヨーク・タイムズ",
+      "summary_ai": "予防接種の実施に関する諮問委員会 - ページ 9 ニューヨーク・タイムズ",
+      "title_original": "Advisory Committee on Immunization Practices - Page 9 - The New York Times",
+      "summary_original": "Advisory Committee on Immunization Practices - Page 9 The New York Times",
+      "summary_ai_original": "Advisory Committee on Immunization Practices - Page 9 The New York Times",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQzBRNlM4U1ZSNldVZEZSWEtIU1Fkc0FEaFFtSDJMS0ZjeW96YnAtdjdRS0xGRHQ3LUdpcUs4Nk1YMloyX1B4d05VT2ZRSEQ4anRjYThnTGxDWS10RlRuRmpMVEJ0cTRYS29PRE9XanBkclBQb21fMV9BTHVudDlIM1UtTHhJRTBP?oc=5",
+      "source": "New York Times Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-04-18T00:41:50+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [
+        "recommendation"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "New York Times"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "New York Times"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "New York Times Vaccines / Immunization"
+      ]
+    },
+    {
       "id": "1f9157e882cae1a0",
       "title": "オランダ、百日咳の監視とワクチンの有効性、2012年から2024年、2023年と2024年には前例のない急増 - Eurosurveillance",
       "summary": "オランダ、百日咳の監視とワクチンの有効性、2012年から2024年、2023年と2024年には前例のない急増",
@@ -2493,45 +2772,44 @@
       ]
     },
     {
-      "id": "4489b78ca98aa239",
-      "title": "６５歳定期接種の肺炎球菌ワクチンが新タイプに切り替え 柳沢慎吾さんが啓発アンバサダー - 読売新聞",
-      "summary": "６５歳定期接種の肺炎球菌ワクチンが新タイプに切り替え 柳沢慎吾さんが啓発アンバサダー 読売新聞",
-      "summary_ai": "６５歳定期接種の肺炎球菌ワクチンが新タイプに切り替え 柳沢慎吾さんが啓発アンバサダー 読売新聞",
-      "title_original": "６５歳定期接種の肺炎球菌ワクチンが新タイプに切り替え 柳沢慎吾さんが啓発アンバサダー - 読売新聞",
-      "summary_original": "６５歳定期接種の肺炎球菌ワクチンが新タイプに切り替え 柳沢慎吾さんが啓発アンバサダー 読売新聞",
-      "summary_ai_original": "６５歳定期接種の肺炎球菌ワクチンが新タイプに切り替え 柳沢慎吾さんが啓発アンバサダー 読売新聞",
+      "id": "246deec0fa2c2e9c",
+      "title": "ワクチン摂取量を増加させる介入の有効性: コンポーネントネットワークのメタ分析 - BMJ",
+      "summary": "ワクチン摂取量を増やすための介入の有効性: コンポーネントネットワークのメタ分析 The BMJ",
+      "summary_ai": "ワクチン摂取量を増やすための介入の有効性: コンポーネントネットワークのメタ分析 The BMJ",
+      "title_original": "Effectiveness of interventions to increase vaccine uptake: component network meta-analysis - The BMJ",
+      "summary_original": "Effectiveness of interventions to increase vaccine uptake: component network meta-analysis The BMJ",
+      "summary_ai_original": "Effectiveness of interventions to increase vaccine uptake: component network meta-analysis The BMJ",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNEp2LWlvUVloUnVQVElzdWFJMUZJWG0yTEFOV1ZTYW5USHYtTW1PaVhvdDZlMnkzRWp0VlhWSmlPTGhZQkg1V2U2S0VRQ2x0b0c5SHFVcFdKX2l6MENKNUNXZldhWXdPZlRJTFE3emhmd1dENklkSGZfcEZaWlRibkNVZVdnSFU3ZzQ1MVVuUQ?oc=5",
-      "source": "読売新聞 ワクチン / 予防接種",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZOERvcU1jTGE0TjFRcFhkVTdXNTczcW9McXRtWGxEaFBCOHVNNGxtR3E3RXpUZlYya2FZR0FyX1BlTGJhNWRrQm9WTjk1bVVSRll0aUZmTnZwSVA1QUFESTBuTldQU0xMTWY3NVFybWo?oc=5",
+      "source": "BMJ",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
       "published_at": "2026-04-15T07:00:00+00:00",
       "topics": [
-        "communication"
+        "communication",
+        "research"
       ],
-      "policy_tags": [
-        "communication"
-      ],
+      "policy_tags": [],
       "vaccines": [],
       "variants": [],
       "target_country": "不明",
       "source_location": {
-        "key": "japan",
-        "name_ja": "日本",
-        "lat": 35.6762,
-        "lng": 139.6503,
-        "region": "Asia",
-        "label": "読売新聞"
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BMJ / London"
       },
       "plot": {
         "source": {
-          "key": "japan",
-          "name_ja": "日本",
-          "lat": 35.6762,
-          "lng": 139.6503,
-          "region": "Asia",
-          "label": "読売新聞"
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BMJ / London"
         },
         "target": {
           "key": "unknown",
@@ -2556,7 +2834,7 @@
       "lng": 0.0,
       "duplicate_count": 1,
       "duplicate_sources": [
-        "読売新聞 ワクチン / 予防接種"
+        "BMJ"
       ]
     },
     {
@@ -2694,71 +2972,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "PAHO News"
-      ]
-    },
-    {
-      "id": "457293e7299d8084",
-      "title": "結核ワクチン候補の第3相試験での防御効果は限定的 - CIDRAP",
-      "summary": "結核ワクチン候補は第 3 相試験 CIDRAP で限定的な予防効果を提供",
-      "summary_ai": "結核ワクチン候補は第 3 相試験 CIDRAP で限定的な予防効果を提供",
-      "title_original": "TB vaccine candidates offer limited protection in phase 3 trial - CIDRAP",
-      "summary_original": "TB vaccine candidates offer limited protection in phase 3 trial CIDRAP",
-      "summary_ai_original": "TB vaccine candidates offer limited protection in phase 3 trial CIDRAP",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTWl1SEFGZlBlZzUySDdVTGNwTlB3MjE4MVVZX0k0bWNnWm5lN0hDSjgzLVZIc25IS2ZLeG9aYWFEeE9CQnVTYkFXNUY0MHlJZm5Vd0pZRU9yWm55b2pXLXJFMFNlSFY4ajU0MkNndUFWYTFpVUNNUkcxX255Rkx3WTNVVVFaNl90MklsT0hZQ1pEVl84MFV2UC1hUnA4LUtkS1E?oc=5",
-      "source": "CIDRAP Vaccines & Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 8,
-      "published_at": "2026-04-13T07:00:00+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "CIDRAP / Minnesota"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "CIDRAP / Minnesota"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "CIDRAP Vaccines & Immunization"
       ]
     }
   ]
