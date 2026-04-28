@@ -1,9 +1,9 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-04-27T22:04:08.970242+00:00",
-  "item_count": 40,
-  "archive_count": 166,
+  "generated_at": "2026-04-28T22:09:13.602777+00:00",
+  "item_count": 42,
+  "archive_count": 172,
   "days_back": 14,
   "plot_mode_default": "source",
   "feed_status": [
@@ -23,7 +23,7 @@
       "name": "CDC Newsroom",
       "url": "https://tools.cdc.gov/api/v2/resources/media/316422.rss",
       "status": "ok",
-      "seen": 5,
+      "seen": 6,
       "kept": 0
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/biologics/rss.xml",
       "status": "ok",
       "seen": 20,
-      "kept": 2
+      "kept": 4
     },
     {
       "name": "EMA News",
@@ -57,13 +57,13 @@
       "url": "https://www.gov.uk/government/organisations/medicines-and-healthcare-products-regulatory-agency.atom",
       "status": "ok",
       "seen": 20,
-      "kept": 2
+      "kept": 1
     },
     {
       "name": "Health Canada Recalls and Safety Alerts",
       "url": "https://recalls-rappels.canada.ca/en/rss.xml",
       "status": "error",
-      "error": "404 Client Error: Not Found for url: https://recalls-rappels.canada.ca/en/rss.xml"
+      "error": "HTTPSConnectionPool(host='recalls-rappels.canada.ca', port=443): Read timed out. (read timeout=30)"
     },
     {
       "name": "TGA News",
@@ -82,15 +82,15 @@
       "name": "PAHO News",
       "url": "https://www.paho.org/en/rss.xml",
       "status": "ok",
-      "seen": 5,
-      "kept": 3
+      "seen": 4,
+      "kept": 2
     },
     {
       "name": "The Lancet series",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Athelancet.com%20(trial%20OR%20policy%20OR%20effectiveness%20OR%20safety)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 2,
-      "kept": 1
+      "seen": 1,
+      "kept": 0
     },
     {
       "name": "Lancet Infectious Diseases",
@@ -110,7 +110,7 @@
       "name": "BMJ",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abmj.com%20(policy%20OR%20trial%20OR%20effectiveness%20OR%20communication)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 9,
+      "seen": 8,
       "kept": 8
     },
     {
@@ -138,35 +138,35 @@
       "name": "Human Vaccines & Immunotherapeutics",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Atandfonline.com%20%22Human%20Vaccines%20%26%20Immunotherapeutics%22&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
       "name": "medRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Amedrxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 13,
-      "kept": 9
+      "seen": 14,
+      "kept": 10
     },
     {
       "name": "bioRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abiorxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 8,
+      "seen": 10,
       "kept": 2
     },
     {
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 23,
-      "kept": 3
+      "seen": 27,
+      "kept": 5
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 87,
+      "seen": 39,
       "kept": 2
     },
     {
@@ -180,42 +180,42 @@
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 18,
+      "seen": 17,
       "kept": 2
     },
     {
       "name": "Financial Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aft.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 5,
+      "seen": 7,
       "kept": 0
     },
     {
       "name": "STAT Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 25,
-      "kept": 1
+      "seen": 28,
+      "kept": 2
     },
     {
       "name": "Nature News Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 16,
+      "seen": 17,
       "kept": 2
     },
     {
       "name": "Science Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Ascience.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 35,
+      "seen": 28,
       "kept": 1
     },
     {
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 69,
+      "seen": 34,
       "kept": 2
     },
     {
@@ -229,7 +229,7 @@
       "name": "Washington Post Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 14,
+      "seen": 17,
       "kept": 1
     },
     {
@@ -243,32 +243,587 @@
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 58,
+      "seen": 57,
       "kept": 0
     },
     {
       "name": "朝日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Aasahi.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 11,
+      "seen": 14,
       "kept": 0
     },
     {
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 35,
-      "kept": 1
+      "seen": 42,
+      "kept": 2
     },
     {
       "name": "毎日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 42,
+      "seen": 34,
       "kept": 0
     }
   ],
   "items": [
+    {
+      "id": "f1edb82e3d6c0ddc",
+      "title": "米国のワクチン政策の現状 — 2026 年 4 月 28 日 - CIDRAP",
+      "summary": "米国のワクチン政策の現状 — 2026 年 4 月 28 日 CIDRAP",
+      "summary_ai": "米国のワクチン政策の現状 — 2026 年 4 月 28 日 CIDRAP",
+      "title_original": "The State of US Vaccine Policy — Apr 28, 2026 - CIDRAP",
+      "summary_original": "The State of US Vaccine Policy — Apr 28, 2026 CIDRAP",
+      "summary_ai_original": "The State of US Vaccine Policy — Apr 28, 2026 CIDRAP",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE12NFhwTlgwaEFhdVVLeUw0bUo1XzRNX214QzhjMi1Uc2NWT19rYXVaLW9sT0hNV004c0R2T2NDbUV2QXpFQUQxS2pGM01ZWUxVZjlpZ0IzY2U0MTRIalZTbDlZOUZabWhEdUwxNWtEUQ?oc=5",
+      "source": "CIDRAP Vaccines & Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 8,
+      "published_at": "2026-04-28T18:41:38+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "CIDRAP / Minnesota"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "CIDRAP / Minnesota"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 2,
+      "duplicate_sources": [
+        "CIDRAP Vaccines & Immunization"
+      ]
+    },
+    {
+      "id": "5e094e6b1edef514",
+      "title": "申請書の提出に関するガイダンス",
+      "summary": "このページには、申請提出ガイダンス文書がリストされています。",
+      "summary_ai": "年別の申請提出ガイダンス - 急性白血病治療の反応評価のための臨床試験データセットを提出するための技術仕様。業界技術仕様書 OCE/CDER/CBER 向けガイダンス、2025 年 10 月 - 規制サブムの提供",
+      "title_original": "Application Submissions Guidances",
+      "summary_original": "This page lists Application Submissions Guidance documents.",
+      "summary_ai_original": "Application Submissions Guidances by Year - Technical Specifications for Submitting Clinical Trial Data Sets for Response Assessments for Treatments of Acute Leukemias; Guidance for Industry Technical Specifications Document OCE/CDER/CBER, October 2025 - Providing Regulatory Subm",
+      "article_text_original": "Should you find a Web link (URL) embedded within guidance documents that does not work or other documents posted on the FDA Web site, please try searching for the document using the document title. If you need further assistance, please go to Contact FDA. Application Submissions Guidances by Year - Technical Specifications for Submitting Clinical Trial Data Sets for Response Assessments for Treatments of Acute Leukemias; Guidance for Industry Technical Specifications Document OCE/CDER/CBER, October 2025 - Providing Regulatory Submissions in Electronic Format - Certain Human Pharmaceutical Product Applications and Related Submissions Using the eCTD Specifications; Guidance for Industry CDER/CBER, September 2024 - Providing Regulatory Submissions in Electronic Format: IND Safety Reports; Guidance for Industry CDER/CBER/OCE, April 2024 - Charging for Investigational Drugs Under an IND: Questions and Answers CDER/CBER/OCLiP/OCE, February 2024 - Study Data Technical Conformance Guide - Technical Specifications Document; Guidance for Industry CDER/CBER, May 2023 - Identification of Medicinal Products — Implementation and Use; Guidance for Industry CDER/CBER, March 2023 - Electronic Submission of IND Safety Reports Technical Conformance Guide; Guidance for Industry CDER/CBER/OCE, April 2022 - Providing Submissions in Electronic Format—Postmarketing Safety Reports; Guidance for Industry CDER/CBER, April 2022 - Providing Regulatory Submissions in Electronic and Non-Electronic Format—Promotional Labeling and Advertising Materials for Human Prescription Drugs; Guidance for Industry CDER/CBER, April 2022 - Providing Regulatory Submissions in Alternate Electronic Format; Guidance for Industry CDER/CBER, July 2021 - Providing Regulatory Submissions in Electronic Format - Standardized Study Data; Guidance for Industry CDER/CBER, June 2021 - Providing Regulatory Submissions in Electronic Format --Content of the Risk Evaluation and Mitigation Strategies Document Using Structured Product Labeling; Guidance for Industry CDER/CBER, December 2020 - Qualification Process for Drug Development Tools; Guidance for Industry and FDA Staff CDER/CBER, November 2020 - Electronic Submission of IND Safety Reports Technical Conformance Guide; Guidance for Industry CDER/CBER/OCE, October 2019 - Providing Regulatory Submissions in Electronic Format: IND Safety Reports; Draft Guidance for Industry CDER/CBER/OCE, October 2019 - Standards Development and the Use of Standards in Regulatory Submissions Reviewed in the Center for Biologics Evaluation and Research; Draft Guidance for Industry and Food and Drug Administration Staff CBER, March 2019 (This guidance finalizes the draft guidance of the same title dated December 2017.) - Refuse to Accept Policy for 510(k)s; Guidance for Industry and Food and Drug Administration Staff CDRH/CBER, February 2019 - Providing Lot Release Protocol Submissions to the Center for Biologics Evaluation and Research (CBER) in Electronic Format; Guidance for Industry CBER, February 2019 - Rare Diseases: Early Drug Development and the Role of Pre-IND Meetings; Draft Guidance for Industry CDER/CBER, October 2018 - Submitting Study Datasets for Vaccines to the Office of Vaccines Research and Review; Guidance for Industry; Technical Specifications Document CBER, April 2018 - Formal Meetings With Sponsors and Applicants for PDUFA Products; Draft Guidance for Industry CDER/CBER, December 2017 - Best Practices for Communication Between IND Sponsors and FDA During Drug Development; Draft Guidance for Industry and Review Staff CDER/CBER, December 2017 - Expanded Access to Investigational Drugs for Treatment Use - Qs & As CDER/CBER, October 2017 - Individual Patient Expanded Access Applications: Form FDA 3926 CDER/CBER, October 2017 - FDA and Industry Actions on Premarket Notification (510(k)) Submissions: Effect on FDA Review Clock and Goals; Guidance for Industry and Food and Drug Administration Staff CDRH/CBER, October 2017 - FDA and Industry Actions on Premarket Approval Applications (PMAs): Effect on FDA Review Clock and Goals; Guidance for Industry and Food and Drug Administration Staff CDRH/CBER, October 2017 - Tropical Disease Priority Review Vouchers; Guidance for Industry CDER/CBER, October 2016 - Comparability Protocols for Human Drugs and Biologics: Chemistry, Manufacturing, and Controls Information; Guidance for Industry CDER/CBER, April 2016 - Contents of a Complete Submission for the Evaluation of Proprietary Names; Guidance for Industry CDER/CBER, April 2016 - Product Development Under the Animal Rule; Guidance for Industry CDER/CBER, October 2015 - Integrated Summary of Effectiveness; Guidance for Industry CDER/CBER, October 2015 - Providing Submissions in Electronic Format - Postmarketing Safety Reports for Vaccines; Guidance for Industry CBER, August 2015 - Recommendations for Premarket Notification (510(k)) Submissions for Nucleic Acid-Based Human Leukocyte Antigen (HLA) Test Kits Used for Matching of Donors and Recipients in Transfusion and Transplantation; Guidance for Industry CBER, July 2015 - Investigational New Drug Applications Prepared and Submitted by Sponsor-Investigators; Draft Guidance for Industry CDER/CBER, May 2015 - Electronic Submission of Lot Distribution Reports; Guidance for Industry CBER/CDER, March 2015 - Providing Regulatory Submissions in Electronic Format - Submissions Under Section 745A(a) of the Federal Food, Drug, and Cosmetic Act CDER/CBER, December 2014 - Providing Submissions in Electronic Format -- Standardized Study Data CDER/CBER, December 2014 - Rare Pediatric Disease Priority Review Vouchers, Draft Guidance for Industry CBER/CDER/OOPD, November 2014 - Benefit-Risk Factors to Consider When Determining Substantial Equivalence in Premarket Notifications [510(k)] with Different Technological Characteristics; Draft Guidance for Industry and Food and Drug Administration Staff CDRH/CBER, July 2014 - Providing Submissions in Electronic Format - Postmarketing Safety Reports; Draft Guidance for Industry CDER/CBER, June 2014 - Annual Reports for Approved Premarket Approval Applications (PMA); Draft Guidance for Industry and FDA Staff CDRH/CBER, February 2014 - Providing Regulatory Submissions in Electronic Format--Receipt Date; Draft Guidance for Industry CDER/CBER, February 2014 - eCopy Program for Medical Device Submissions; Guidance for Industry and Food and Drug Administration Staff CDER/CBER, October 2013 - Electronic Source Data in Clinical Investigations; Guidance for Industry CDER/CBER/CDRH, September 2013 - Providing Submissions in Electronic Format - Postmarket Non-Expedited ICSRs Technical Questions and Answers; Guidance for Industry CDER/CBER, July 2013 - Humanitarian Device Exemption (HDE) Regulation: Questions and Answers; Guidance for HDE Holders, Institutional Review Boards (IRBs), Clinical Investigators, and FDA Staff CDRH/CBER, July 2010 - In Vitro Diagnostic (IVD) Device Studies - Frequently Asked Questions; Guidance for Industry and FDA Staff CDRH/CBER, June 2010 (This document supersedes \"Guidance for FDA Staff: Regulating In Vitro Diagnostic Device (IVD)Studies,\" issued December 17, 1999 - Requalification Method for Reentry of Blood Donors Deferred Because of Reactive Test Results for Antibody to Hepatitis B Core Antigen (Anti-HBc); Guidance for Industry CBER, May 2010 - Standards for Securing the Drug Supply Chain - Standardized Numerical Identification for Prescription Drug Packages; Guidance for Industry OC/CDER/CBER/ORA, March 2010 - Submission of Documentation in Applications for Parametric Release of Human and Veterinary Drug Products Terminally Sterilized by Moist Heat Processes; Guidance for Industry CDER/CVM/CBER, February 2010 - Investigator Responsibilities - Protecting the Rights, Safety, and Welfare of Study Subjects; Guidance for Industry CDER/CBER/CDRH, October 2009 - Providing Regulatory Submissions in Electronic Format - Drug Establishment Registration and Drug Listing; Guidance for Industry CDER/CBER/CVM, May 2009 - Modifications to Devices Subject to Premarket Approval (PMA) - The PMA Supplement Decision-Making Process; Guidance for Industry and FDA Staff CDRH/CBER, December 2008 - Cooperative Manufacturing Arrangements for Licensed Biologics; Guidance for Industry CBER/CDER, November 2008 - Pharmacogenomic Data Submissions - Companion Guidance; Draft Guidance for Industry CDER/NCTR/CBER/CDRH, August 2007 - Bundling Multiple Devices or Multiple Indications in a Single Submission; Guidance for Industry and FDA Staff CDRH/CBER, June 2007 - Real-Time Premarket Approval Application (PMA) Supplements; Guidance for Industry and FDA Staff CBER/CDRH, April 2006 - Reports on the Status of Postmarketing Study Commitments - Implementation of Section 130 of the Food and Drug Administration Modernization Act of 1997; Guidance for Industry CDER/CBER, February 2006 - Formal Dispute Resolution: Scientific and Technical Issues Related to Pharmaceutical CGMP_PRA; Guidance for Industry CDER/CBER/CVM/ORA, January 2006 - How to Comply with the Pediatric Research Equity Act; Draft Guidance for Industry CDER/CBER, September 2005 - Nonclinical Studies for the Safety Evaluation of Pharmaceutical Excipients; Guidance for Industry CDER/CBER, May 2005 - Providing Regulatory Submissions in Electronic Format - Content of Labeling; Guidance for Industry CDER/CBER, April 2005 - Pharmacogenomic Data Submissions; Guidance for Industry CDER/CBER/CDRH, March 2005 - Submitting Separate Marketing Applications and Clinical Data for Purposes of Assessing User Fees; Guidance for Industry CDER/CBER, December 2004 - Premarket Approval Application Modular Review; Guidance for Industry and FDA Staff CDRH/CBER, November 2003 - Quality System Information for Certain Premarket Application Reviews; Guidance for Industry and FDA Staff CDRH, February 2003 - Guidance for Industry: Providing Regulatory Submissions to CBER in Electronic Format -- Investigational New Drug Applications (INDs) CBER, March 2002 - Cancer Drug and Biological Products - Clinical Data in Marketing Applications; Guidance for Industry CDER/CBER, October 2001 - Submitting Marketing Applications According to the ICH/CTD Format: General Considerations 2001; Draft Guidance for Industry CDER/CBER, August 2001 - Submitting and Reviewing Complete Responses to Clinical Holds; Guidance for Industry CDER/CBER, October 2000 - Content and Format of INDs for Phase 1 Studies of Drugs, Including Well-Characterized, Therapeutic, Biotechnology-Derived Products. Questions and Answers; Guidance for Industry CDER/CBER, October 2000 - Providing Regulatory Submissions to the Center for Biologics Evaluation and Research (CBER) in Electronic Format - Biologics Marketing Applications; Guidance for Industry CBER, November 1999 - Submission of Abbreviated Reports and Synopses in Support of Marketing Applications; Guidance for Industry CDER/CBER, August 1999 - Implementation of Section 120 of the Food and Drug Administration Modernization Act of 1997-Advisory Committees; Guidance for Industry CDER/CBER, October 1998 - Submitting Debarment Certification Statements; Draft Guidance for Industry CDER/CBER/CVM, September 1998 - Guidance for Industry: Standards for Prompt Review of Efficacy Supplements CDER/CBER, May 1998 - Content and Format of Investigational New Drug Applications (INDs) for Phase 1 Studies of Drugs, Including Well-Characterized, Therapeutic, Biotechnology-derived Products; Guidance for Industry CDER/CBER, November 1995 - Submission Documentation for Sterilization Process Validation in Applications for Human and Veterinary Drug Products; Guidance for Industry CDER/CVM, November 1994 - Preparation of Investigational New Drug Products (Human and Animal); Guidance for Industry CDER, November 1992",
+      "link": "http://www.fda.gov/vaccines-blood-biologics/general-biologics-guidances/application-submissions-guidances",
+      "source": "FDA Vaccines / Biologics",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 9,
+      "published_at": "2026-04-28T13:43:25+00:00",
+      "topics": [
+        "communication",
+        "policy",
+        "research"
+      ],
+      "policy_tags": [
+        "approval",
+        "communication",
+        "recommendation",
+        "safety"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "FDA / Silver Spring"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "FDA / Silver Spring"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "FDA Vaccines / Biologics"
+      ]
+    },
+    {
+      "id": "0c28da02cab2a6ba",
+      "title": "ワクチンおよび関連生物製剤に関するガイダンス",
+      "summary": "このページには、ワクチンおよび関連する生物由来製品のガイダンスのリストが含まれています",
+      "summary_ai": "年別のワクチンおよび関連生物製品ガイダンス - 新型コロナウイルス感染症を予防するワクチンの開発と認可。業界向けガイダンス 10/2023 - ワクチンの研究データセットをワクチン研究審査局に提出する。業界向けのガイダンス。技術仕様",
+      "title_original": "Vaccine and Related Biological Product Guidances",
+      "summary_original": "This page contains a listing of vaccine and related biological product guidances",
+      "summary_ai_original": "Vaccine and Related Biological Product Guidances by Year - Development and Licensure of Vaccines to Prevent COVID-19; Guidance for Industry 10/2023 - Submitting Study Datasets for Vaccines to the Office of Vaccines Research and Review; Guidance for Industry; Technical Specificati",
+      "article_text_original": "Should you find a link that does not work within any Guidance document, Rule or other document posted on the FDA Web site, please try searching for the document using the document title. If you need further assistance, please go to Contact FDA. Vaccine and Related Biological Product Guidances by Year - Development and Licensure of Vaccines to Prevent COVID-19; Guidance for Industry 10/2023 - Submitting Study Datasets for Vaccines to the Office of Vaccines Research and Review; Guidance for Industry; Technical Specifications Document 12/2019 - Providing Submissions in Electronic Format-Postmarketing Safety Reports for Vaccines - Guidance for Industry 8/2015 - Guidance for Industry: General Principles for the Development of Vaccines to Protect Against Global Infectious Diseases 12/2011 (This guidance supercedes the guidance document of the same title dated September 2008) - Guidance for Industry: Clinical Considerations for Therapeutic Cancer Vaccines 10/2011 (This guidance finalizes the draft guidance of the same title dated September 2009.) - Guidance for Industry: Characterization and Qualification of Cell Substrates and Other Biological Materials Used in the Production of Viral Vaccines for Infectious Disease Indications 2/2010 - Guidance for Industry: Considerations for Plasmid DNA Vaccines for Infectious Disease Indications (This guidance finalizes the draft guidance of the same title dated February 2005.) 11/2007. - Guidance for Industry: Toxicity Grading Scale for Healthy Adult and Adolescent Volunteers Enrolled in Preventive Vaccine Clinical Trials 9/2007 - Guidance for Industry: Clinical Data Needed to Support the Licensure of Pandemic Influenza Vaccines 5/2007 - Guidance for Industry: Clinical Data Needed to Support the Licensure of Seasonal Inactivated Influenza Vaccines 5/2007 - Guidance for Industry: Considerations for Developmental Toxicity Studies for Preventive and Therapeutic Vaccines for Infectious Disease Indications (This guidance document finalizes the draft guidance entitled \"Guidance for Industry: Considerations for Reproductive Toxicity Studies for Preventive Vaccines for Infectious Disease Indications\" dated August 2000.) 2/2006 - Guidance for Industry: FDA Review of Vaccine Labeling Requirements for Warnings, Use Instructions, and Precautionary Information 10/2004 - Draft Guidance for Industry: Postmarketing Safety Reporting for Human Drug and Biological Products Including Vaccines 3/2001 - Guidance for Industry: Content and Format of Chemistry, Manufacturing and Controls Information and Establishment Description Information for a Vaccine or Related Product 1/1999 - Guidance for Industry: How to Complete the Vaccine Adverse Event Reporting System Form (VAERS-1) 9/1998 - Guidance for Industry for the Evaluation of Combination Vaccines for Preventable Diseases: Production, Testing and Clinical Studies 4/1997 Fecal Microbiota for Transplantation Persons with disabilities having problems accessing any of these files may call CBER's Consumer Affairs Branch 240-402-8010 for assistance.",
+      "link": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/vaccine-and-related-biological-product-guidances",
+      "source": "FDA Vaccines / Biologics",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 9,
+      "published_at": "2026-04-28T13:31:04+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [
+        "approval",
+        "safety"
+      ],
+      "vaccines": [
+        "influenza"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "FDA / Silver Spring"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "FDA / Silver Spring"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "FDA Vaccines / Biologics"
+      ]
+    },
+    {
+      "id": "f30c82399d52e7b1",
+      "title": "細胞および遺伝子治療のガイダンス",
+      "summary": "このページには、細胞療法および遺伝子療法のガイダンスのリストが含まれています。",
+      "summary_ai": "- 次世代シーケンスを使用したヒト遺伝子治療製品におけるゲノム編集の安全性評価。 Industry 4/2026 向けのドラフト ガイダンス - 特定の遺伝子疾患を対象とした個別の治療法を開発するための妥当なメカニズム フレームワークの使用に関する考慮事項",
+      "title_original": "Cellular & Gene Therapy Guidances",
+      "summary_original": "This page contains a listing of cellular and gene therapy guidances.",
+      "summary_ai_original": "- Safety Assessment of Genome Editing in Human Gene Therapy Products Using Next-Generation Sequencing; Draft Guidance for Industry 4/2026 - Considerations for the use of the Plausible Mechanism Framework to Develop Individualized Therapies that Target Specific Genetic Conditions ",
+      "article_text_original": "Should you find a link that does not work within any Guidance document, Rule or other document posted on the FDA Web site, please try searching for the document using the document title. If you need further assistance, please go to Contact FDA. - Safety Assessment of Genome Editing in Human Gene Therapy Products Using Next-Generation Sequencing; Draft Guidance for Industry 4/2026 - Considerations for the use of the Plausible Mechanism Framework to Develop Individualized Therapies that Target Specific Genetic Conditions with Known Biological Cause; Draft Guidance for Industry 2/2026 - Expedited Programs for Regenerative Medicine Therapies for Serious Conditions; Draft Guidance for Industry 9/2025 - Postapproval Methods to Capture Safety and Efficacy Data for Cell and Gene Therapy Products; Draft Guidance for Industry 9/2025 - Innovative Designs for Clinical Trials of Cellular and Gene Therapy Products in Small Populations; Draft Guidance for Industry 9/2025 - Frequently Asked Questions — Developing Potential Cellular and Gene Therapy Products; Draft Guidance for Industry 11/2024 - Safety Testing of Human Allogeneic Cells Expanded for Use in Cell-Based Medical Products; Draft Guidance for Industry 4/2024 - Considerations for the Use of Human-and Animal-Derived Materials in the Manufacture of Cell and Gene Therapy and Tissue-Engineered Medical Products; Draft Guidance for Industry 4/2024 - Human Gene Therapy Products Incorporating Human Genome Editing; Guidance for Industry 1/2024 - Considerations for the Development of Chimeric Antigen Receptor (CAR) T Cell Products; Guidance for Industry 1/2024 - Potency Assurance for Cellular and Gene Therapy Products; Draft Guidance for Industry 12/2023 For a high-level overview of this guidance document, please view this recorded webinar featuring Dr. Matthew Klinker, Cell Therapy Branch 2 Chief, Office of Cellular Therapy and Human Tissues, Office of Therapeutic Products, CBER. - Manufacturing Changes and Comparability for Human Cellular and Gene Therapy Products; Draft Guidance for Industry 7/2023 For a high-level overview of this guidance document, please view this recorded webinar featuring Dr. Andrew Byrnes, Gene Transfer & Immunogenicity Branch Chief, Office of Gene Therapy CMC, Office of Therapeutic Products, CBER. - Studying Multiple Versions of a Cellular or Gene Therapy Product in an Early-Phase Clinical Trial; Guidance for Industry 11/2022 - Human Gene Therapy for Neurodegenerative Diseases; Guidance for Industry 10/2022 - Interpreting Sameness of Gene Therapy Products Under the Orphan Drug Regulations; Guidance for Industry 9/2021 - Manufacturing Considerations for Licensed and Investigational Cellular and Gene Therapy Products During COVID-19 Public Health Emergency; Guidance for Industry 1/2021 - Chemistry, Manufacturing, and Control (CMC) Information for Human Gene Therapy Investigational New Drug Applications (INDs); Guidance for Industry 1/2020 - Long Term Follow-up After Administration of Human Gene Therapy Products; Guidance for Industry 1/2020 - Testing of Retroviral Vector-Based Human Gene Therapy Products for Replication Competent Retrovirus During Product Manufacture and Patient Follow-up; Guidance for Industry 1/2020 - Human Gene Therapy for Hemophilia; Guidance for Industry 1/2020 - Human Gene Therapy for Rare Diseases; Guidance for Industry 1/2020 - Human Gene Therapy for Retinal Disorders; Guidance for Industry 1/2020 - Evaluation of Devices Used with Regenerative Medicine Advanced Therapies; Guidance for Industry 2/2019 - Expedited Programs for Regenerative Medicine Therapies for Serious Conditions; Guidance for Industry 2/2019 - Regulatory Considerations for Human Cells, Tissues, and Cellular and Tissue-Based Products: Minimal Manipulation and Homologous Use; Guidance for Industry and Food and Drug Administration Staff Updated: 12/2017 - Same Surgical Procedure Exception under 21 CFR 1271.15(b): Questions and Answers Regarding the Scope of the Exception; Guidance for Industry 11/2017 - Deviation Reporting for Human Cells, Tissues, and Cellular and Tissue-Based Products Regulated Solely Under Section 361 of the Public Health Service Act and 21 CFR Part 1271; Guidance for Industry 9/2017 - Recommendations for Microbial Vectors Used for Gene Therapy; Guidance for Industry 9/2016 - Design and Analysis of Shedding Studies for Virus or Bacteria-Based Gene Therapy and Oncolytic Products; Guidance for Industry 8/2015 - Considerations for the Design of Early-Phase Clinical Trials of Cellular and Gene Therapy Products; Guidance for Industry 6/2015 - Determining the Need for and Content of Environmental Assessments for Gene Therapies, Vectored Vaccines, and Related Recombinant Viral or Microbial Products; Guidance for Industry 3/2015 - Guidance for Industry: BLA for Minimally Manipulated, Unrelated Allogeneic Placental/Umbilical Cord Blood Intended for Hematopoietic and Immunologic Reconstitution in Patients with Disorders Affecting the Hematopoietic System 3/2014. (This guidance finalizes the draft guidance of the same title dated June 2013.) - IND Applications for Minimally Manipulated, Unrelated Allogeneic Placental/Umbilical Cord Blood Intended for Hematopoietic and Immunologic Reconstitution in Patients with Disorders Affecting the Hematopoietic System - Guidance for Industry and FDA Staff 3/2014. (This guidance finalizes the draft guidance of the same title dated June 2013.) - Guidance for Industry: Preclinical Assessment of Investigational Cellular and Gene Therapy Products (This guidance finalizes the draft guidance entitled “Guidance for Industry: Preclinical Assessment of Investigational Cellular and Gene Therapy Products” dated November 2012) 11/2013 - Guidance for Industry: Preparation of IDEs and INDs for Products Intended to Repair or Replace Knee Cartilage 12/2011. (This guidance finalizes the draft guidance of the same title dated July 2007.) - Guidance for Industry: Clinical Considerations for Therapeutic Cancer Vaccines 10/2011. (This guidance finalizes the draft guidance of the same title dated September 2009.) - Guidance for Industry: Potency Tests for Cellular and Gene Therapy Products 1/2011. (This guidance finalizes the draft document of the same name, dated October 2008.) - Guidance for Industry: Cellular Therapy for Cardiac Disease (This guidance finalizes the draft guidance entitled “Guidance for Industry: Somatic Cell Therapy for Cardiac Disease” dated March 2009 (April 2, 2009, 74 FR 14992). 10/2010. - Guidance for Industry: Considerations for Allogeneic Pancreatic Islet Cell Products 9/2009 - Guidance for FDA Reviewers and Sponsors: Content and Review of Chemistry, Manufacturing, and Control (CMC) Information for Human Somatic Cell Therapy Investigational New Drug Applications (INDs) 4/2008 - Eligibility Determination for Donors of Human Cells, Tissues, and Cellular and Tissue-Based Products; Guidance for Industry 8/2007 - Guidance for Industry: Guidance for Human Somatic Cell Therapy and Gene Therapy 3/1998",
+      "link": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/cellular-gene-therapy-guidances",
+      "source": "FDA Vaccines / Biologics",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 9,
+      "published_at": "2026-04-28T13:28:26+00:00",
+      "topics": [
+        "policy",
+        "research"
+      ],
+      "policy_tags": [
+        "approval",
+        "outbreak_response",
+        "recommendation",
+        "safety"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "FDA / Silver Spring"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "FDA / Silver Spring"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "FDA Vaccines / Biologics"
+      ]
+    },
+    {
+      "id": "49b613cc097dafbc",
+      "title": "血液指導",
+      "summary": "このページには血液ガイダンスのガイダンスの一覧が含まれています。",
+      "summary_ai": "FDA Web サイトに掲載されているガイダンス文書、規則、またはその他の文書内で機能しないリンクを見つけた場合は、文書のタイトルを使用して文書を検索してみてください。年別の血液ガイダンス - 表面型 B 型肝炎の献血検査に関する推奨事項",
+      "title_original": "Blood Guidances",
+      "summary_original": "This page contains a listing of Blood Guidances guidances.",
+      "summary_ai_original": "Should you find a link that does not work within any Guidance document, Rule or other document posted on the FDA Web site, please try searching for the document using the document title. Blood Guidances By Year - Recommendations for Testing Blood Donations for Hepatitis B Surface",
+      "article_text_original": "Should you find a link that does not work within any Guidance document, Rule or other document posted on the FDA Web site, please try searching for the document using the document title. If you need further assistance, please go to Contact FDA. Blood Guidances By Year - Recommendations for Testing Blood Donations for Hepatitis B Surface Antigen; Draft Guidance for Industry 7/2025 - Recommendations to Reduce the Risk of Transfusion-Transmitted Malaria; Draft Guidance for Industry 1/2025 - Recommendations for the Development of Blood Collection, Processing, and Storage Systems for the Manufacture of Blood Components Using the Buffy Coat Method; Draft Guidance for Industry 10/2024 - An Acceptable Circular of Information for the Use of Human Blood and Blood Components; Guidance for Industry 9/2024 - Recommendations for Investigational and Licensed COVID-19 Convalescent Plasma; Guidance for Industry 7/2024 - Blood Pressure and Pulse Donor Eligibility Requirements – Compliance Policy; Guidance for Industry 7/2024 - Recognition and Use of a Standard for Uniform Blood and Blood Component Container Labels; Guidance for Industry 4/2024 - Compliance Policy Regarding Blood and Blood Component Donation Suitability, Donor Eligibility and Source Plasma Quarantine Hold Requirements; Guidance for Industry 10/2023 - Alternative Procedures for the Manufacture of Cold-Stored Platelets Intended for the Treatment of Active Bleeding when Conventional Platelets Are Not Available or Their Use Is Not Practical; Guidance for Industry 6/2023 - Implementation of Acceptable Full-Length and Abbreviated Donor History Questionnaires and Accompanying Materials for Use in Screening Donors of Source Plasma; Guidance for Industry 6/2023 - Implementation of Acceptable Full-Length and Abbreviated Donor History Questionnaires and Accompanying Materials for Use in Screening Donors of Blood and Blood Components; Guidance for Industry 5/2023 - Recommendations for Evaluating Donor Eligibility Using Individual Risk-Based Questions to Reduce the Risk of Human Immunodeficiency Virus Transmission by Blood and Blood Products; Guidance for Industry 5/2023 - Recommendations to Reduce the Risk of Transfusion-Transmitted Malaria; Guidance for Industry 12/2022 - Recommendations to Reduce the Possible Risk of Transmission of Creutzfeldt-Jakob Disease and Variant Creutzfeldt-Jakob Disease by Blood and Blood Components; Guidance for Industry (Updated May 23, 2022) - 5/2022 - Manufacture of Blood Components Using a Pathogen Reduction Device in Blood Establishments: Questions and Answers; Guidance for Industry 11/2021 - Notifying FDA of Fatalities Related to Blood Collection or Transfusion; Guidance for Industry (Updated August 20, 2021) - 8/2021 - Information for Blood Establishments Regarding FDA’s Determination that Zika Virus is no Longer a Relevant Transfusion-Transmitted Infection, and Withdrawal of Guidance titled “Revised Recommendations for Reducing the Risk of Zika Virus Transmission by Blood and Blood Components” 5/2021 - Bacterial Risk Control Strategies for Blood Collection Establishments and Transfusion Services to Enhance the Safety and Availability of Platelets for Transfusion; Guidance for Industry (Updated December 17, 2020) - 12/2020 - Recommendations for Screening, Testing, and Management of Blood Donors and Blood and Blood Components Based on Screening Tests for Syphilis; Guidance for Industry 12/2020 - Testing for Biotin Interference in In Vitro Diagnostic Devices; Guidance for Industry 10/2020 - Biological Product Deviation Reporting for Blood and Plasma Establishments; Guidance for Industry 3/2020 - Use of Serological Tests to Reduce the Risk of Transfusion-Transmitted Human T-Lymphotropic Virus Types I and II (HTLV-I/II); Guidance for Industry 2/2020 - Considerations for the Development of Dried Plasma Products Intended for Transfusion; Guidance for Industry 12/2019 - Further Testing of Donations that are Reactive on a Licensed Donor Screening Test for Antibodies to Hepatitis C Virus; Guidance for Industry 10/2019 - Recommendations for Reducing the Risk of Transfusion-Transmitted Babesiosis; Guidance for Industry (This guidance finalizes the draft guidance of the same title dated July 2018.) - 5/2019 - Labeling of Red Blood Cell Units with Historical Antigen Typing Results; Guidance for Industry 12/2018 - Nucleic Acid Testing (NAT) for Human Immunodeficiency Virus Type 1 (HIV-1) and Hepatitis C Virus (HCV): Testing, Product Disposition, and Donor Deferral and Reentry; Guidance for Industry (This document supersedes the guidance of the same title, dated 5/2010.) - 12/2017 - Use of Serological Tests to Reduce the Risk of Transmission of Trypanosoma cruzi Infection in Blood and Blood Components; Guidance for Industry 12/2017 - Requalification of Donors Previously Deferred for a History of Viral Hepatitis after the 11th Birthday; Guidance for Industry 9/2017 - Recommendations for Assessment of Blood Donor Eligibility, Donor Deferral and Blood Product Management in Response to Ebola Virus; Guidance for Industry 1/2017 - Determining Donor Eligibility for Autologous Donors of Blood and Blood Components Intended Solely for Autologous Use - Compliance Policy; Guidance for Industry 8/2016 - Changes to an Approved Application: Biological Products: Human Blood and Blood Components Intended for Transfusion or for Further Manufacture; Final Guidance (This document finalizes the draft guidance of the same titled dated June 2013 and supersedes the guidance document of the same title dated July 2001.) - 12/2014 - Guidance for Industry: Blood Establishment Computer System Validation in the User's Facility (This guidance finalizes the draft guidance entitled “Guidance for Industry: Blood Establishment Computer System Validation in the User’s Facility” dated October 2007) - 4/2013 - Use of Nucleic Acid Tests on Pooled and Individual Samples From Donors of Whole Blood and Blood Components, Including Source Plasma, to Reduce the Risk of Transmission of Hepatitis B Virus; Guidance for Industry (This guidance finalizes the draft guidance of the same title dated November 2011) - 10/2012 - Pre-Storage Leukocyte Reduction of Whole Blood and Blood Components Intended for Transfusion; Guidance for Industry (This guidance document finalizes the draft guidance of the same title dated January 2011.) - 9/2012 - Guidance for Industry: Requalification Method for Reentry of Donors Who Test Hepatitis B Surface Antigen (HBsAg) Positive Following a Recent Vaccination against Hepatitis B Virus Infection (This guidance supplements the FDA 1987 Memorandum by providing recommendations for a requalification method for reentry of deferred donors who test repeatedly reactive for HBsAg.) - 11/2011 - Guidance for Industry: Availability of FDA's eSubmitter Program for Regulatory Submissions from Licensed Blood Establishments 8/2011 - Guidance for Industry: Donors of Blood and Blood Components: Notification of Donor Deferral, Small Entity Compliance Guide 6/2011 - \"Computer Crossmatch\" (Computerized Analysis of the Compatibility between the Donor's Cell Type and the Recipient's Serum or Plasma Type); Guidance for Industry 4/2011 - Guidance for Industry \"Lookback\" for Hepatitis C Virus (HCV): Product Quarantine, Consignee Notification, Further Testing, Product Disposition, and Notification of Transfusion Recipients Based on Donor Test Results Indicating Infection with HCV (This document supersedes the guidance document of the same title, dated August 2007.) - 12/2010 - Guidance for Industry: Recommendations for Blood Establishments: Training of Back-Up Personnel, Assessment of Blood Donor Suitability and Reporting Certain Changes to an Approved Application 11/2010 - Guidance for Industry: Requalification Method for Reentry of Blood Donors Deferred Because of Reactive Test Results for Antibody to Hepatitis B Core Antigen (Anti-HBc) 5/2010 - Guidance for Industry: Use of Nucleic Acid Tests to Reduce the Risk of Transmission of West Nile Virus from Donors of Whole Blood and Blood Components Intended for Transfusion 11/2009 - Guidance for Industry: Nucleic Acid Testing to Reduce the Possible Risk of Parvovirus B19 Transmission by Plasma-Derived Products 7/2009 - Guidance for Industry: Safety, Efficacy, and Pharmacokinetic Studies to Support Marketing of Immune Globulin Intravenous (Human) as Replacement Therapy for Primary Humoral Immunodeficiency 6/2008 - Guidance for Industry and FDA Review Staff: Collection of Platelets by Automated Methods 12/2007 - Guidance for Industry: Adequate and Appropriate Donor Screening Tests for Hepatitis B; Hepatitis B Surface Antigen (HBsAg) Assays Used to Test Donors of Whole Blood and Blood Components, Including Source Plasma and Source Leukocytes 11/2007 - Guidance for Industry: Informed Consent Recommendations for Source Plasma Donors Participating in Plasmapheresis and Immunization Programs 6/2007 - Guidance for Industry: Implementing a Collection Program for Source Plasma Containing Disease-Associated and Other Immunoglobulin (IgG) Antibodies 8/2006 - Guidance for Industry: Assessing Donor Suitability and Blood and Blood Product Safety in Cases of Known or Suspected West Nile Virus Infection 6/2005 - Guidance for Industry: Use of Nucleic Acid Tests on Pooled and Individual Samples from Donors of Whole Blood and Blood Components (including Source Plasma and Source Leukocytes) to Adequately and Appropriately Reduce the Risk of Transmission of HIV-1 and HCV 10/2004 - Guidance for Industry: Streamlining the Donor Interview Process: Recommendations for Self-Administered Questionnaires 7/2003 - Guidance for Industry: Recommendations for Deferral of Donors and Quarantine and Retrieval of Blood and Blood Products in Recent Recipients of Smallpox Vaccine (Vaccinia Virus) and Certain Contacts of Smallpox Vaccine Recipients 12/2002 - General Principles of Software Validation; Final Guidance for Industry and FDA Staff 1/2002 - Guidance for Industry: Recommendations for Assessment of Donor Suitability and Blood and Blood Product Safety in Cases of Possible Exposure to Anthrax 10/2001 - Guidance for FDA Reviewers: Premarket Notification Submissions for Blood and Plasma Warmers 7/2001 - Guidance for FDA Reviewers: Premarket Notification Submissions for Transfer Sets (Excluding Sterile Connecting Devices) 7/2001 - Guidance for FDA Reviewers: Premarket Notification Submissions for Empty Containers for the Collection and Processing of Blood and Blood Components 7/2001 - Guidance for Industry: Revised Recommendations Regarding Invalidation of Test Results of Licensed and 510(k) Cleared Bloodborne Pathogen Assays Used to Test Donors 7/2001 - Guidance for Industry: Monoclonal Antibodies Used as Reagents in Drug Manufacturing 3/2001 - Guidance for Industry: Recommendations for Collecting Red Blood Cells by Automated Apheresis Methods - Technical Correction February 2001 2/2001 - Guidance for Industry: Efficacy Studies to Support Marketing of Fibrin Sealant Products Manufactured for Commercial Use 5/1999 - Guidance for Industry For the Submission of Chemistry, Manufacturing and Controls and Establishment Description Information for Human Blood and Blood Components Intended for Transfusion or for Further Manufacture and For the Completion of the Form FDA 356h \"Application to Market a New Drug, Biologic or an Antibiotic Drug for Human Use\" 5/1999 - Guidance for Industry: Content and Format of Chemistry, Manufacturing and Controls Information and Establishment Description Information for a Biological In Vitro Diagnostic Product 3/1999 - Guidance for Industry: For the Submission of Chemistry, Manufacturing and Controls and Establishment Description Information for Human Plasma-Derived Biological Products, Animal Plasma or Serum-Derived Products 2/1999 - Recommendations for the Quarantine and Disposition of Units from Prior Collections from Donors with Repeatedly Reactive Screening Tests for Hepatitis B Virus (HBV), Hepatitis C Virus (HCV) and Human T-Lymphotropic Virus Type I (HTLV-I) 7/1996 - Additional Recommendations for Testing Whole Blood, Blood Components, Source Plasma and Source Leukocytes for Antibody to Hepatitis C Virus Encoded Antigen (Anti-HCV); Memorandum to Registered Blood and Plasma Establishments 5/1996 - Additional Recommendations for Donor Screening With a Licensed Test for HIV-1 Antigen; Memorandum to Registered Blood and Plasma Establishments 3/1996 - Donor Deferral Due to Red Blood Cell Loss During Collection of Source Plasma by Automated Plasmapheresis 12/1995 - Recommendations for Donor Screening with a Licensed Test for HIV-1 Antigen; Memorandum to All Registered Blood Establishments 8/1995 - Revised Recommendations for Red Blood Cell Immunization Programs for Source Plasma Donors; Memorandum to Licensed Establishments Performing Red Blood Cell Immunizations 3/1995 - Revised Recommendations for Testing Whole Blood, Blood Components, Source Plasma and Source Leukocytes for Antibody to Hepatitis C Virus Encoded Antigen (Anti-HCV) 8/1993 - Recommendations Regarding License Amendments and Procedures for Gamma Irradiation of Blood Products 7/1993 - Volume Limits for Automated Collection of Source Plasma 11/1992 - Revised Recommendations for Testing Whole Blood, Blood Components, Source Plasma and Source Leukocytes for Antibody to Hepatitis C Virus Encoded Antigen (Anti-HCV) 4/1992 - FDA Recommendations Concerning Testing for Antibody to Hepatitis B Core Antigen (Anti-HBc) 9/1991",
+      "link": "http://www.fda.gov/vaccines-blood-biologics/biologics-guidances/blood-guidances",
+      "source": "FDA Vaccines / Biologics",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 9,
+      "published_at": "2026-04-28T13:26:15+00:00",
+      "topics": [
+        "policy",
+        "research"
+      ],
+      "policy_tags": [
+        "approval",
+        "recommendation",
+        "safety"
+      ],
+      "vaccines": [],
+      "variants": [
+        "gamma"
+      ],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "FDA / Silver Spring"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "FDA / Silver Spring"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "FDA Vaccines / Biologics"
+      ]
+    },
+    {
+      "id": "01093150739e0a41",
+      "title": "MHRAは医薬品へのアクセスを増やし、ライフサイエンスの世界的な目的地としての英国の地位を強化するという目標を達成",
+      "summary": "MHRA は引き続き、患者の医薬品へのアクセスを迅速化し、規制の効率を高め、英国の 1,000 億ポンドの繁栄するライフ サイエンス産業へのイノベーションと投資の誘致を支援します。",
+      "summary_ai": "本日（4月28日）発行されたMHRAの結果と予測報告書によると、医薬品・ヘルスケア製品規制庁（MHRA）は、英国の患者の医薬品および医療機器へのアクセスを増やすためのすべての法定目標を達成または上回りました。 MHRA の結果と予測",
+      "title_original": "MHRA delivers its targets to increase access to medicines and reinforce UK position as a global destination for life sciences",
+      "summary_original": "The MHRA continues to speed up access to medicines for patients, increase efficiency of regulation and help to attract innovation and investment in the UK’s thriving £100 billion life sciences industry.",
+      "summary_ai_original": "The Medicines and Healthcare products Regulatory Agency (MHRA) met or exceeded all statutory targets to increase access to medicines and medical devices for UK patients, according to the MHRA Results and Forecast report published today (28 April). The MHRA Results and Forecast re",
+      "article_text_original": "The Medicines and Healthcare products Regulatory Agency (MHRA) met or exceeded all statutory targets to increase access to medicines and medical devices for UK patients, according to the MHRA Results and Forecast report published today (28 April). The MHRA has strengthened its position as a world-leading medicines regulator by striking new global partnerships and advancing pioneering work in clinical trials reform, AI regulation, and rare disease therapeutics pathways. It continues to speed up access to medicines for patients, increase efficiency of regulation and help to attract innovation and investment in the UK’s thriving £100 billion life sciences industry. It continues to speed up access to medicines for patients, increase efficiency of regulation and help to attract innovation and investment in the UK’s thriving £100 billion life sciences industry. Building on this strong performance over the last year, the MHRA will launch a new five-year strategy later this year, setting out how UK regulation will continue to evolve to support patient safety, NHS priorities, scientific innovation, and economic growth in the UK life sciences sector through to 2030. The MHRA Results and Forecast report shows that in the 2025/2026 financial year, the MHRA: Strengthened patient and public safety: Tackling health misinformation, introducing stronger post- market surveillance rules for medical devices, removing nearly 28 million unauthorised medicine doses and modernising safety monitoring through enhanced vigilance systems. Delivering against every statutory commitment, meeting all key performance indicators with excellent on-time performance across licensing, clinical trials, and safety decisions. Ended the year in financial surplus: Closing the year in a strong financial position, achieving a healthy surplus that reflects improved stability and disciplined operational delivery. Led in key areas of regulatory science: Strengthening global leadership in regulatory science, investing in AI, in-silico research, and innovative methodologies, while advancing pioneering work in clinical trials reform, AI regulation, and rare disease pathways. Built closer national and international partnerships: Strengthening collaboration across the UK and globally, including the MHRA–National Institute for Health and Care Excellence’s (NICE) aligned pathway to accelerate patient access, a new UK–Singapore Innovation Corridor, inaugural membership of the HealthAI network and collaboration with the US Food and Drug Administration (FDA) on medicinal device regulation as part of the wider US-UK pharmaceutical partnership. Enjoyed an increase in external sentiment: Demonstrating a sustained improvement in external perception, with independent research showing more positive views among industry, partners, and system stakeholders over the past 12–18 months. And also a rise in staff morale: Increased staff engagement, with record participation in the staff survey, and a significant improvement in the Engagement Score, reflecting a more motivated and growing workforce. Health Minister Dr Zubir Ahmed, said: “This past year has shown what a modern regulator looks like: patients first, pace where it matters, and standards that never slip. The MHRA has made tangible progress on this Government’s ambitions for the NHS, public health, and the Life Sciences Sector Plan. The direction of travel is clear. With the MHRA operating as a high-performance regulator, the UK is positioned as a global destination for life sciences that is open to innovation, serious about safety, and credible on the world stage.” Lord Vallance, Minister for Science, Innovation, Research and Nuclear, said: “A strong life sciences sector depends on a regulator that is trusted by patients, by clinicians and by innovators. The MHRA is demonstrating that trustworthiness through its commitment to delivering for the NHS, public health, and economic growth. The MHRA’s progress and future direction strengthens the UK’s proposition as a global destination for research and development.” Lawrence Tallon, MHRA Chief Executive, said: “We have a regulatory environment that’s scientifically rigorous, agile and has patients at its heart. Whether it’s enabling access to the next generation of medicines and health technologies or protecting patients from harm, our success is measured not just in frameworks and timelines, but in improved lives. “With every performance target met, a strong financial position and more innovative medicines reaching patients, this is high quality regulation in practice. It is testament to the dedication of our committed and expert workforce and the strong partnerships we have with the wider UK and global health and life sciences system.” Professor Anthony Harnden, MHRA Chair, said: “Over the past year, the MHRA has demonstrated what regulatory excellence looks like in practice. This progress is the result of the skill, professionalism, and commitment of MHRA staff across science, regulation, digital, policy and services. “Working across the UK health system with researchers, industry, and international counterparts, I have seen first-hand how collaboration strengthens regulation and accelerates access to safe innovation. “Globally, the MHRA’s contribution to regulatory science is well respected. Our leadership and trusted standards support health systems worldwide. As we look ahead, the MHRA enters the next chapters confident and ambitious that we are a regulator the public can trust and the world can rely on.” Stakeholder quotes Jane Wall, Managing Director of the BioIndustry Association (BIA) said: “The MHRA’s strong performance over the past year reflects a regulator that is listening and evolving. The forward-looking initiatives showcased in this report – including the development of a new rare disease pathway – highlight the value of collaborative working to accelerate innovation and delivering better outcomes for patients across the UK. We look forward to continuing to collaborate closely with the MHRA to build on this momentum.” Professor Jonathan Benger, CBE MD FRCS FRCEM, Chief Executive of the National Institute for Health and Care Excellence (NICE) said: “Continuing improvements to joint working between NICE and the MHRA are creating a more integrated and frictionless pathway from regulation to patient access. By aligning our expertise earlier and more closely, we can support innovation, reduce duplication, and provide clearer, faster routes for effective new medicines and technologies to reach patients sooner.” Julia Vitarello, patient advocate and Founder of Mila’s Miracle Foundation, said: “For families like mine facing rare genetic diseases, progress is measured by by how many sick and dying children can access today’s incredible technologies in time. The MHRA is truly leading the way through action, paving the world’s first pathway toward process-based approvals to meet the new very promising era of individualised medicines. If successful, the UK will prove a new bridge connecting patients in desperate need with the science that can save lives.” Dr Matt Westmore, Chief Executive of the Health Research Agency (HRA), said: “One of the UK’s core strengths in health and care research is our joined up regulatory system. Through close partnership between MHRA, HRA and others, we have streamlined and simplified the approvals pathway. By reducing duplication and complexity we’re giving researchers a faster, more predictable experience from start to finish. I’m particularly proud of our work together on Combined Review which continues to go from strength-to-strength, helping patients access potentially life changing research sooner.” Richard Torbett, Chief Executive, Association of the British Pharmaceutical Industry (ABPI), said: “Over the past year, the MHRA has continued to make important progress in strengthening the UK’s regulatory environment for medicines and vaccines, particularly in the provision of predictable and reliable services. Improved efficiency around clinical trial approvals, alongside enhanced safety surveillance is also helping to support earlier patient access to innovative medicines while maintaining robust regulatory standards. “This progress is helping to boost the UK’s position as an attractive environment for life sciences research and earlier patient access. It is encouraging to see this momentum in the evolution of the regulatory system, and we hope to see it continue in the years ahead.” Peter Ellingworth, CEO, Association of British Health Tech Industries (ABHI), said: “The MHRA’s outward-looking and collaborative approach is welcome, particularly its engagement with global partners to drive regulatory harmonisation. Greater alignment across markets will help reduce complexity and reinforce the UK’s position as a competitive destination for HealthTech innovation and investment. ABHI values its continued engagement with the MHRA and the opportunity to work together to deliver these important reforms.” “The progress made since I published my review in 2023 has been remarkable. The MHRA is now delivering consistently good approval times while introducing further reforms that are adding speed and flexibility to the process. The MHRA is once again taking a global lead, which is helping to attract more clinical trials to the UK.” Michelle Riddalls OBE, CEO, PAGB, the consumer healthcare association shares: “Lawrence Tallon’s commitment to engaging and collaborating with industry associations has significantly advanced MHRA’s understanding of consumer healthcare priorities this year. His leadership has facilitated new opportunities to discuss practical and impactful ways to expand medicine reclassification and empower self-care. “Reclassification is a key opportunity to expand access to medicines, support self-care, and reduce pressure on NHS services. MHRA has a real opportunity to accelerate this shift and, through initiatives like the Access Consortium, further drive international collaboration, and innovation.” Dr Ricardo Baptista Leite, CEO, HealthAI - The Global Agency for Responsible AI in Health, said: “As the first pioneer country in the HealthAI Global Regulatory Network, the UK has helped turn responsible AI in health from a promise into a concrete global ambition. By coupling bold reform with a clear commitment to safety and equity, the MHRA is charting a path that can inspire innovators, regulators and investors worldwide to build AI-powered health systems that truly serve people.” Steve Bates OBE, Executive Chair of the Office for Life Sciences said: “In the past year, we have seen the UK’s regulatory environment generating real excitement among international stakeholders. The MHRA has been central to this, driving innovation through more agile, responsive pathways.” Adjunct Professor (Dr) Raymond Chua, Chief Executive Officer, Health Sciences Authority (HSA), Singapore, said: “Our longstanding partnership with the MHRA has strengthened through the launch of our Regulatory Innovation Corridor, and refreshed memorandum of understanding. As a globally connected biomedical hub, Singapore is committed to shaping a forward-looking regulatory environment with like-minded partners like the MHRA. Together, we are accelerating innovation in Singapore and the UK to deliver transformative technologies to benefit patients, while upholding the highest standards of safety, trust, and excellence.” Notes to editors: - The MHRA’s Results and Forecast is available at: MHRA Results and Forecast 2025/26; 2026/27 - GOV.UK - The Medicines and Healthcare products Regulatory Agency (MHRA) is responsible for regulating all medicines and medical devices in the UK by ensuring they work and are acceptably safe. All our work is underpinned by robust and fact-based judgements to ensure that the benefits justify any risks. - The MHRA is an executive agency of the Department of Health and Social Care. - For media enquiries, please contact the newscentre@mhra.gov.uk or call on 020 3080 7651.",
+      "link": "https://www.gov.uk/government/news/mhra-delivers-its-targets-to-increase-access-to-medicines-and-reinforce-uk-position-as-a-global-destination-for-life-sciences",
+      "source": "MHRA",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 8,
+      "published_at": "2026-04-28T09:07:00+00:00",
+      "topics": [
+        "communication",
+        "policy",
+        "research"
+      ],
+      "policy_tags": [
+        "approval",
+        "communication",
+        "safety"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "シンガポール",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "MHRA / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "MHRA / London"
+        },
+        "target": {
+          "key": "singapore",
+          "name_ja": "シンガポール",
+          "lat": 1.3521,
+          "lng": 103.8198,
+          "region": "Asia",
+          "label": "シンガポール"
+        }
+      },
+      "location": {
+        "key": "singapore",
+        "name_ja": "シンガポール",
+        "lat": 1.3521,
+        "lng": 103.8198,
+        "region": "Asia",
+        "label": "シンガポール"
+      },
+      "region": "Asia",
+      "country": "シンガポール",
+      "lat": 1.3521,
+      "lng": 103.8198,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "MHRA"
+      ]
+    },
+    {
+      "id": "a096706166e0ee44",
+      "title": "流行波全体にわたるハイブリッド免疫を特徴付けるための抗体動態と検査陰性ワクチンの有効性のベイジアン共同モデリング - medRxiv",
+      "summary": "流行波全体にわたるハイブリッド免疫を特徴付けるための抗体動態と検査陰性ワクチンの有効性のベイジアン共同モデリング medRxiv",
+      "summary_ai": "流行波全体にわたるハイブリッド免疫を特徴付けるための抗体動態と検査陰性ワクチンの有効性のベイジアン共同モデリング medRxiv",
+      "title_original": "Bayesian joint modelling of antibody kinetics and test-negative vaccine effectiveness to characterise hybrid immunity across epidemic waves - medRxiv",
+      "summary_original": "Bayesian joint modelling of antibody kinetics and test-negative vaccine effectiveness to characterise hybrid immunity across epidemic waves medRxiv",
+      "summary_ai_original": "Bayesian joint modelling of antibody kinetics and test-negative vaccine effectiveness to characterise hybrid immunity across epidemic waves medRxiv",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE92Ym5oeTNlOXlpMXVYeHVDdXB5UHZjaUpMSFNkdUgxLXFHYjRWc1AwNldwWGNOV2dMcG9IdnZ2b1hsQUFIUVFiMGctZ3YzTG1VbUQzTE1DdDUwZ3BTUkhKZGstSHd1SEVWaFdlOHJNUQ?oc=5",
+      "source": "medRxiv vaccines",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-04-28T06:22:24+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "medRxiv"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "medRxiv"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 2,
+      "duplicate_sources": [
+        "medRxiv vaccines"
+      ]
+    },
+    {
+      "id": "0b1f4509eda7799c",
+      "title": "B型肝炎ワクチンに関する米国の新たな推奨は悲惨な結果を招く、研究プロジェクト - statnews.com",
+      "summary": "B型肝炎ワクチンに関する米国の新たな推奨は悲惨な結果を招く、研究プロジェクト statnews.com",
+      "summary_ai": "B型肝炎ワクチンの推奨は悲惨な結果をもたらす、研究プロジェクト statnews.com",
+      "title_original": "New U.S. recommendation on hepatitis B vaccine will have dire consequences, studies project - statnews.com",
+      "summary_original": "New U.S. recommendation on hepatitis B vaccine will have dire consequences, studies project statnews.com",
+      "summary_ai_original": "recommendation on hepatitis B vaccine will have dire consequences, studies project statnews.com",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNV08yMU1hRjVLOUJjWGpSMUhFd1FUak1PdVpSeF9SaHFYcHYwMm1UMU5Od2FnUms0TVhldmxna3pxQVlTZkRHanRWaFFkX2wxWXpYaXd0VkFiMWUyalh3cnBiQUpzLTJBb2VSZE1OQjM2dlZ2cjM3TExIa1VNNUROWHI0MVdyeTNaenc?oc=5",
+      "source": "STAT Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-04-28T00:13:07+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [
+        "recommendation"
+      ],
+      "vaccines": [
+        "hepatitis"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "STAT"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "STAT"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "STAT Vaccines / Immunization"
+      ]
+    },
     {
       "id": "fc6dc6a9815f999a",
       "title": "アメリカ大陸ワクチン接種週間がカナダで始まり、予防接種を通じてすべての人を守るための新たな行動が呼びかけられています",
@@ -343,148 +898,6 @@
       ]
     },
     {
-      "id": "50b6ecc93ecab108",
-      "title": "2026 年会議資料、ワクチンおよび関連生物製剤諮問委員会",
-      "summary": "これは、2026 年会議資料、ワクチンおよび関連生物製品諮問委員会 (VRBPAC) のメイン ページです。",
-      "summary_ai": "2026年5月28日、委員会は公開セッションで会合を開き、米国で使用する2026～2027年の新型コロナウイルス感染症ワクチンの配合の選択について議論し、勧告を行う予定だ。 2026 年 3 月 12 日に委員会は公開会議で会合を開き、議論と勧告を行う予定です",
-      "title_original": "2026 Meeting Materials, Vaccines and Related Biological Products Advisory Committee",
-      "summary_original": "This is the main page for the 2026 Meeting Materials, Vaccines and Related Biological Products Advisory Committee (VRBPAC).",
-      "summary_ai_original": "On May 28, 2026, the Committee will meet in open session to discuss and make recommendations on the selection of the 2026-2027 Formula for COVID-19 vaccines for use in the United States. On March 12, 2026, the Committee will meet in open session to discuss and make recommendation",
-      "article_text_original": "May 28, 2026 The meeting presentations will be heard, viewed, captioned, and recorded through an online teleconferencing platform. On May 28, 2026, the Committee will meet in open session to discuss and make recommendations on the selection of the 2026-2027 Formula for COVID-19 vaccines for use in the United States. March 12, 2026 The meeting presentations will be heard, viewed, captioned, and recorded through an online teleconferencing platform. On March 12, 2026, the Committee will meet in open session to discuss and make recommendations on the strain composition of influenza virus vaccines for use in United States during the 2026-2027 influenza season.",
-      "link": "http://www.fda.gov/advisory-committees/vaccines-and-related-biological-products-advisory-committee/2026-meeting-materials-vaccines-and-related-biological-products-advisory-committee",
-      "source": "FDA Vaccines / Biologics",
-      "source_type": "official",
-      "source_tier": "Tier 1",
-      "source_priority": 9,
-      "published_at": "2026-04-27T12:01:59+00:00",
-      "topics": [
-        "policy",
-        "research"
-      ],
-      "policy_tags": [
-        "recommendation"
-      ],
-      "vaccines": [
-        "covid",
-        "influenza"
-      ],
-      "variants": [],
-      "target_country": "米国",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "FDA / Silver Spring"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "FDA / Silver Spring"
-        },
-        "target": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "米国"
-        }
-      },
-      "location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "米国"
-      },
-      "region": "North America",
-      "country": "米国",
-      "lat": 38.9072,
-      "lng": -77.0369,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "FDA Vaccines / Biologics"
-      ]
-    },
-    {
-      "id": "16b5c11505ae36dc",
-      "title": "ワクチンおよび関連生物由来製品諮問委員会会議 2026 年 5 月 28 日の発表 - 2026 年 5 月 28 日",
-      "summary": "2026年5月28日、委員会は公開セッションで会合を開き、米国で使用する2026～2027年の新型コロナウイルス感染症ワクチンの配合の選択について議論し、勧告を行う予定だ。",
-      "summary_ai": "すべての会議参加者は、オンライン電話会議および/またはビデオ会議プラットフォームを通じてこの諮問委員会会議に参加することにご注意ください。 FDA が会議前に背景資料を Web サイトに掲載できない場合、背景資料は",
-      "title_original": "Vaccines and Related Biological Products Advisory Committee Meeting May 28, 2026 Announcement - 05/28/2026",
-      "summary_original": "On May 28, 2026, the Committee will meet in open session to discuss and make recommendations on the selection of the 2026-2027 Formula for COVID-19 vaccines for use in the United States.",
-      "summary_ai_original": "Please note that all meeting participants will be joining this advisory committee meeting through an online teleconferencing and/or video conferencing platform. If FDA is unable to post the background material on its website prior to the meeting, the background material will be m",
-      "article_text_original": "- Date: - May 28, 2026 - Time: - 8:30 a.m. - 4:30 p.m. ET What is an advisory committee? Advisory committees provide independent expert advice to the FDA on broad scientific topics or on certain products to help the agency make sound decisions based on the available science. Advisory committees make non-binding recommendations to the FDA, which generally follows the recommendations but is not legally bound to do so. Please see, \"Advisory Committees Give FDA Critical Advice and the Public a Voice,\" for more information. Please note that all meeting participants will be joining this advisory committee meeting through an online teleconferencing and/or video conferencing platform. How to Attend - 05/28/2026 CBER plans to provide a free of charge live webcast of the Vaccines and Related Biological Products Advisory Committee Meeting. If there are instances where the webcast transmission is not successful, staff will work to re-establish the transmission as soon as possible. Agenda The meeting presentations will be heard, viewed, captioned, and recorded through an online teleconferencing and/or video conferencing platform. On May 28, 2026, the Committee will meet in open session to discuss and make recommendations on the selection of the 2026-2027 Formula for COVID-19 vaccines for use in the United States. Meeting Materials FDA intends to make background material available to the public no later than 2 business days before the meeting. If FDA is unable to post the background material on its website prior to the meeting, the background material will be made publicly available at the time of the advisory committee meeting, and the background material will be posted on FDA’s website after the meeting. Background material is available at the Advisory Committee Calendar. Scroll down to the appropriate advisory committee meeting link. The meeting will include slide presentations with audio components to allow the presentation of materials in a manner that most closely resembles an in-person advisory committee meeting. Public Participation Information Interested persons may present data, information, or views, orally or in writing, on issues pending before the committee. Oral presentations from the public will be scheduled between approximately 1:00 p.m. and 2:00 p.m. Eastern Time on May 28, 2026. FDA is establishing a docket for public comment on this meeting. The docket number is FDA-2026-N-3962. The docket will close on May 27, 2026. Submit either electronic or written comments on this public meeting on or before May 27, 2026. Please note that late, untimely filed comments will not be considered. Electronic comments must be submitted on or before May 27, 2026. The https://www.regulations.gov electronic filing system will accept comments until 11:59 p.m. Eastern Time at the end of May 27, 2026. Comments received by mail/hand delivery/courier (for written/paper submissions) will be considered timely if they are received on or before that date. Comments received on or before May 21, 2026, will be provided to the committee. Comments received after that date and on May 27, 2026, will be taken into consideration by FDA. In the event that the meeting is canceled, FDA will continue to evaluate any relevant applications or information, and consider any comments submitted to the docket, as appropriate. You may submit comments as follows: Electronic Submissions Submit electronic comments as follows: - Federal eRulemaking Portal: https://www.regulations.gov. Follow the instructions for submitting comments. Comments submitted electronically, including attachments, to https://www.regulations.gov will be posted to the docket unchanged. Because your comment will be made public, you are solely responsible for ensuring that your comment does not include any confidential information that you or a third party may not wish to be posted, such as medical information, your or anyone else’s Social Security number, or confidential business information, such as a manufacturing process. Please note that if you include your name, contact information, or other information that identifies you in the body of your comments, that information will be posted on https://www.regulations.gov. - If you want to submit a comment with confidential information that you do not wish to be made available to the public, submit the comment as a written/paper submission and in the manner detailed (see “Written/Paper Submissions” and “Instructions”). Written/Paper Submissions Submit written/paper submissions as follows: - Mail/Hand delivery/Courier (for written/paper submissions): Dockets Management Staff (HFA-305), Food and Drug Administration, 5630 Fishers Lane, Rm. 1061, Rockville, MD 20852. - For written/paper comments submitted to the Dockets Management Staff, FDA will post your comment, as well as any attachments, except for information submitted, marked and identified, as confidential, if submitted as detailed in “Instructions.” Instructions: All submissions received must include the Docket No. FDA-2026-N-3962 for “Vaccines and Related Biological Products Advisory Committee; Notice of Meeting; Establishment of a Public Docket; Request for Comments – United States (U.S.) 2026-2027 Formula for COVID-19 Vaccine Composition”. Received comments, those filed in a timely manner (see ADDRESSES), will be placed in the docket and, except for those submitted as “Confidential Submissions,” publicly viewable at https://www.regulations.gov or at the Dockets Management Staff between 9 a.m. and 4 p.m., Monday through Friday, 240-402-7500. Confidential Submissions: To submit a comment with confidential information that you do not wish to be made publicly available, submit your comments only as a written/paper submission. You should submit two copies total. One copy will include the information you claim to be confidential with a heading or cover note that states “THIS DOCUMENT CONTAINS CONFIDENTIAL INFORMATION.” FDA will review this copy, including the claimed confidential information, in its consideration of comments. The second copy, which will have the claimed confidential information redacted/blacked out, will be available for public viewing and posted on https://www.regulations.gov. Submit both copies to the Dockets Management Staff. If you do not wish your name and contact information be made publicly available, you can provide this information on the cover sheet and not in the body of your comments and you must identify the information as “confidential.” Any information marked as “confidential” will not be disclosed except in accordance with 21 CFR 10.20 and other applicable disclosure law. For more information about FDA’s posting of comments to public dockets, see 80 FR 56469, September 18, 2015, or access the information at: https://www.govinfo.gov/content/pkg/FR-2015-09-18/pdf/2015-23389.pdf. Docket: For access to the docket to read background documents or the electronic and written/paper comments received, go to https://www.regulations.gov and insert the docket number, found in brackets in the heading of this document, into the “Search” box and follow the prompts and/or go to the Dockets Management Staff, 5630 Fishers Lane, Rm. 1061, Rockville, MD 20852, 240-402-7500. FOR FURTHER INFORMATION, CONTACT: Cicely Reese; Center for Biologics Evaluation and Research, Food and Drug Administration, 10903 New Hampshire Ave., Bldg. 71, Rm. 1232, Silver Spring, MD 20993-0002, 301-796-9025, email: CBERVRBPAC@fda.hhs.gov, or FDA Advisory Committee Information Line, 1-800-741-8138 (301-443-0572 in the Washington, DC area). Oral Presentations Oral presentations from the public will be scheduled between approximately 1:00 p.m. and 2:00 p.m. Eastern Time on May 28, 2026. Those individuals interested in making formal oral presentations should notify the contact person and submit a brief statement of the general nature of the evidence or arguments they wish to present, the names and addresses of proposed participants, and an indication of the approximate time requested to make their presentation on or before 12 p.m. Eastern Time on May 18, 2026. Time allotted for each presentation may be limited. If the number of registrants requesting to speak is greater than can be reasonably accommodated during the scheduled open public hearing session, FDA may conduct a lottery to determine the speakers for the scheduled open public hearing session. The contact person will notify interested persons regarding their request to speak by 6 p.m. Eastern Time on May 20, 2026. Webcast Information CBER plans to provide a free of charge live webcast of the Vaccines and Related Biological Products Advisory Committee meeting: The online web conference meeting will be available at the following link: - 05/28/2026 If there are instances where the webcast transmission is not successful, staff will work to re-establish the transmission as soon as possible. Contact Information - Cicely Reese: CBERVRBPAC@fda.hhs.gov - FDA Advisory Committee Information Line: 1-800-741-8138 (301-443-0572 in the Washington, DC area). Please call the Information Line for up-to-date information on this meeting. - For press inquiries, please contact the HHS Press Room at www.hhs.gov/press-room/index.html or 202-690-6343. A notice in the Federal Register about last minute modifications that impact a previously announced advisory committee meeting cannot always be published quickly enough to provide timely notice. Therefore, you should always check the agency’s website or call the committee’s Designated Federal Officer (see Contact Information) to learn about possible modifications before coming to the meeting. Persons attending FDA’s advisory committee meetings are advised that the agency is not responsible for providing access to electrical outlets. FDA welcomes the attendance of the public at its advisory committee meetings and will make every effort to accommodate persons with disabilities. If you require accommodations due to a disability, please contact the committee’s Designated Federal Officer (see Contact Information) at least 7 days in advance of the meeting. Answers to commonly asked questions including information regarding special accommodations due to a disability may be accessed at: Common Questions and Answers about FDA Advisory Committee Meetings. FDA is committed to the orderly conduct of its advisory committee meetings. Please visit our Web site at Public Conduct During FDA Advisory Committee Meetings for procedures on public conduct during advisory committee meetings. Notice of this meeting is given under the Federal Advisory Committee Act (5 U.S.C. app.2).",
-      "link": "http://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-meeting-may-28-2026-announcement",
-      "source": "FDA Vaccines / Biologics",
-      "source_type": "official",
-      "source_tier": "Tier 1",
-      "source_priority": 9,
-      "published_at": "2026-04-27T12:01:20+00:00",
-      "topics": [
-        "policy",
-        "research"
-      ],
-      "policy_tags": [
-        "recommendation",
-        "schedule"
-      ],
-      "vaccines": [
-        "covid"
-      ],
-      "variants": [],
-      "target_country": "米国",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "FDA / Silver Spring"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "FDA / Silver Spring"
-        },
-        "target": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "米国"
-        }
-      },
-      "location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "米国"
-      },
-      "region": "North America",
-      "country": "米国",
-      "lat": 38.9072,
-      "lng": -77.0369,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "FDA Vaccines / Biologics"
-      ]
-    },
-    {
       "id": "c66e7cbac541dc23",
       "title": "2017/2018年の流行に対するユービコールと経口コレラワクチンの2回接種の有効性 - BMJ Open",
       "summary": "2017/2018年の流行に対するユービコールと経口コレラワクチンの2回接種の有効性 BMJ Open",
@@ -548,138 +961,6 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "BMJ"
-      ]
-    },
-    {
-      "id": "854ff1fefb0a2b09",
-      "title": "ワクチン研究中止後、バタチャリヤ氏がCDCの長期刊行物を批判 - Science | News AAAS",
-      "summary": "ワクチン研究を中止した後、バタチャリヤ氏はCDCの長期刊行出版物「サイエンス | サイエンス」を批判した。 AAAS",
-      "summary_ai": "ワクチン研究を中止した後、バタチャリヤ氏はCDCの長期刊行出版物「サイエンス | サイエンス」を批判した。 AAAS",
-      "title_original": "After pulling vaccine study, Bhattacharya criticizes long-running CDC publication - Science | AAAS",
-      "summary_original": "After pulling vaccine study, Bhattacharya criticizes long-running CDC publication Science | AAAS",
-      "summary_ai_original": "After pulling vaccine study, Bhattacharya criticizes long-running CDC publication Science | AAAS",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTlVOR2s3TFJpSG5rdFA5VElsaUNnMnZzMzJsWXp4UFFKMkdFQW5sRkhidlZfNVJtdDBaRm01V2VqOEhVdWFFNE96ang4M0wwYWFOMlhIeklxWEFSbmZSbzItQ3VNbFdKWGc4MF85czJjbk9hd3lCb19pOHFRUW8tSnVFTmQ0MmNJSDJjcTN3b1pYT0lsQ2pHckZLVU5BMDRuWWxuN1BtNjNvdEMwWnpXSFd0OW9EUHRkQ1J0RQ?oc=5",
-      "source": "Science Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-04-26T20:29:29+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "Science"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "Science"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Science Vaccines / Immunization"
-      ]
-    },
-    {
-      "id": "8a4c1254b6ff56de",
-      "title": "ブラジルでのガンマ変異株関連の新型コロナウイルス感染症流行中の高齢者に対するコロナバックワクチンの有効性：検査陰性の症例対照研究 - BMJ",
-      "summary": "ブラジルでのガンマ変異株関連の新型コロナウイルス感染症流行中の高齢者に対するコロナバックワクチンの有効性：検査陰性の症例対照研究",
-      "summary_ai": "ブラジルでのガンマ変異株関連の新型コロナウイルス感染症流行中の高齢者に対するコロナバックワクチンの有効性：検査陰性の症例対照研究",
-      "title_original": "Effectiveness of the CoronaVac vaccine in older adults during a gamma variant associated epidemic of covid-19 in Brazil: test negative case-control study - The BMJ",
-      "summary_original": "Effectiveness of the CoronaVac vaccine in older adults during a gamma variant associated epidemic of covid-19 in Brazil: test negative case-control study The BMJ",
-      "summary_ai_original": "Effectiveness of the CoronaVac vaccine in older adults during a gamma variant associated epidemic of covid-19 in Brazil: test negative case-control study The BMJ",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ndXRYMUROSWFHWmhkWGNMY1hQaWhrNE9Vc080NmxzamFEdUFzeU91N01rc0dXb3hrZkpETE5IaDBMZS1UdDJheVhnUXFCcWtCX1RiZmJDWTFiaHVEbmNrOWVrLXQ?oc=5",
-      "source": "BMJ",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-04-26T18:17:31+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [
-        "gamma"
-      ],
-      "target_country": "ブラジル",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BMJ / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BMJ / London"
-        },
-        "target": {
-          "key": "brazil",
-          "name_ja": "ブラジル",
-          "lat": -15.7939,
-          "lng": -47.8828,
-          "region": "South America",
-          "label": "ブラジル"
-        }
-      },
-      "location": {
-        "key": "brazil",
-        "name_ja": "ブラジル",
-        "lat": -15.7939,
-        "lng": -47.8828,
-        "region": "South America",
-        "label": "ブラジル"
-      },
-      "region": "South America",
-      "country": "ブラジル",
-      "lat": -15.7939,
-      "lng": -47.8828,
       "duplicate_count": 1,
       "duplicate_sources": [
         "BMJ"
@@ -816,9 +1097,74 @@
       "country": "米国",
       "lat": 38.9072,
       "lng": -77.0369,
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicate_sources": [
         "medRxiv vaccines"
+      ]
+    },
+    {
+      "id": "854ff1fefb0a2b09",
+      "title": "ワクチン研究中止後、バタチャリヤ氏がCDCの長期刊行物を批判 - Science | News AAAS",
+      "summary": "ワクチン研究を中止した後、バタチャリヤ氏はCDCの長期刊行出版物「サイエンス | サイエンス」を批判した。 AAAS",
+      "summary_ai": "ワクチン研究を中止した後、バタチャリヤ氏はCDCの長期刊行出版物「サイエンス | サイエンス」を批判した。 AAAS",
+      "title_original": "After pulling vaccine study, Bhattacharya criticizes long-running CDC publication - Science | AAAS",
+      "summary_original": "After pulling vaccine study, Bhattacharya criticizes long-running CDC publication Science | AAAS",
+      "summary_ai_original": "After pulling vaccine study, Bhattacharya criticizes long-running CDC publication Science | AAAS",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTlVOR2s3TFJpSG5rdFA5VElsaUNnMnZzMzJsWXp4UFFKMkdFQW5sRkhidlZfNVJtdDBaRm01V2VqOEhVdWFFNE96ang4M0wwYWFOMlhIeklxWEFSbmZSbzItQ3VNbFdKWGc4MF85czJjbk9hd3lCb19pOHFRUW8tSnVFTmQ0MmNJSDJjcTN3b1pYT0lsQ2pHckZLVU5BMDRuWWxuN1BtNjNvdEMwWnpXSFd0OW9EUHRkQ1J0RQ?oc=5",
+      "source": "Science Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-04-24T21:30:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "Science"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "Science"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Science Vaccines / Immunization"
       ]
     },
     {
@@ -2104,74 +2450,6 @@
       ]
     },
     {
-      "id": "5a9c4aa3a36ab98c",
-      "title": "法定ガイダンス: MHRA 手数料",
-      "summary": "2025 年から MHRA に料金が支払われます。",
-      "summary_ai": "支援技術 (スクリーン リーダーなど) を使用していて、よりアクセスしやすい形式のこの文書のバージョンが必要な場合は、webupdates@mhra.gov.uk まで電子メールでご連絡ください。支援技術 (スクリーン リーダーなど) を使用していて、よりアクセスしやすい形式のこのドキュメントのバージョンが必要な場合",
-      "title_original": "Statutory guidance: MHRA fees",
-      "summary_original": "Fees payable to the MHRA from 2025.",
-      "summary_ai_original": "If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email webupdates@mhra.gov.uk. If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible forma",
-      "article_text_original": "This file may not be suitable for users of assistive technology. Request an accessible format. If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email webupdates@mhra.gov.uk. Please tell us what format you need. It will help us if you say what assistive technology you use. This file may not be suitable for users of assistive technology. Request an accessible format. If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email webupdates@mhra.gov.uk. Please tell us what format you need. It will help us if you say what assistive technology you use. This file may not be suitable for users of assistive technology. Request an accessible format. If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email webupdates@mhra.gov.uk. Please tell us what format you need. It will help us if you say what assistive technology you use. Details The document attached lists MHRA fees from 2025 - 2027. Updates to add new information under Medical Device Fees section 7d Updated MHRA Fees document, point 6, notes, to reflect that there is no longer a phase IV notification scheme. Updated to correct the following figures in the MHRA fees document: 38. Wholesale distribution authorisations: fees - New Applications - Reduced application* plus full inspection fee (£5,216 changed to £5,128) (£1,080 changed to £992) application fee plus £4,136 inspection fee 38. Wholesale distribution authorisations: fees - New Applications - Reduced application plus reduced Inspection fee - General Sales List (GSL) only (£3,148 changed to £3,060) (£1,080 changed to £992) application fee plus £2,068 inspection fee Updated link to 'Apply for payment easement as an SME' form. Page layout updated to make the content more accessible to users. Updated the following fees sections to reflect increases from 16 July 2025: - 4. Blood banks: application fees for a Review Panel hearing - 5. Blood banks and other blood establishments: fees - 6. Blood facilities: contract laboratories fees - 9. Clinical investigations for devices: fees - 42. Medical Device Approved Body Fees - 44. Devices Regulatory Advice meeting (new section added) Also updated: Payment easements and waivers for small and medium companies Updated fees payable to the MHRA from 2025. Updated to include fees regarding International Recognition. Amendment fees added to our 'Current MHRA fees' webpage. Added links to Fees page: The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2023 & The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2023 Updated MHRA fees for 2023 - 2024 Added link to application form to 'apply for Small and Medium Company status'. CURRENT FEES UPDATED Changes to MHRA fees for 2021 - 2022 Published a new version of the 'Payment Easements and Waivers for Small and Medium Companies, as a HTML document. This replaces the 'Payment Easements for Small Companies' PDF. Update on the MHRA fees for Licence applications: marketing authorisations; Orphan Marketing Products: fees; Variations: licence variations application fees; Variations: licence variations applications groups fees; and Variations: Traditional Herbal Registration Scheme fees Added new information on fees following the end of the transition period. This includes new sections on orphan marketing products, Pharmacovigilance (PV) Safety Reviews, pre-assessment (rolling review) fees, PMF and Vaccine Antigen Master File certification. Amended text under 'Current MHRA fees' guidance. Section '13. Inspection: fees'. We have updated the years references to the periodic fees Update to confirm fee levels for 2020 to 2021 are remaining the same as 2019 to 2020 Minor amendment to the explanation of the Office Based Inspection Fee to include information that was left out by mistake. Information about 2017/18 fees added to the page. MHRA's fees changed on April 1 2016. MHRA's fees change on April 1 2016. Uploaded a PDF of the changed fees.",
-      "link": "https://www.gov.uk/government/publications/mhra-fees",
-      "source": "MHRA",
-      "source_type": "official",
-      "source_tier": "Tier 1",
-      "source_priority": 8,
-      "published_at": "2026-04-21T09:21:01+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [
-        "approval",
-        "safety"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "英国",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "MHRA / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "MHRA / London"
-        },
-        "target": {
-          "key": "uk",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "英国"
-        }
-      },
-      "location": {
-        "key": "uk",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "英国"
-      },
-      "region": "Europe",
-      "country": "英国",
-      "lat": 51.5074,
-      "lng": -0.1278,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "MHRA"
-      ]
-    },
-    {
       "id": "3e45422ca6d774b1",
       "title": "ブルキナファソの子供たちにおける初回接種から5～6年後の腸チフス結合型ブースターワクチン（TCV）の免疫原性と忍容性 - medRxiv",
       "summary": "ブルキナファソの子供たちにおける初回投与後5～6年の腸チフス結合型ブースターワクチン（TCV）の免疫原性と忍容性 medRxiv",
@@ -2638,149 +2916,15 @@
       ]
     },
     {
-      "id": "de87dc18a71e4d57",
-      "title": "ワクチン接種率と集団保護の関連性：Vi結合体ワクチンのクラスターランダム化試験の探索的分析 - The Lancet",
-      "summary": "ワクチン接種率と集団保護の関連性：Vi結合体ワクチンのクラスターランダム化試験の探索的分析 The Lancet",
-      "summary_ai": "ワクチン接種率と集団保護の関連性：Vi結合体ワクチンのクラスターランダム化試験の探索的分析 The Lancet",
-      "title_original": "The association between vaccine coverage and herd protection: exploratory analyses of a cluster-randomised trial of Vi conjugate vaccine - The Lancet",
-      "summary_original": "The association between vaccine coverage and herd protection: exploratory analyses of a cluster-randomised trial of Vi conjugate vaccine The Lancet",
-      "summary_ai_original": "The association between vaccine coverage and herd protection: exploratory analyses of a cluster-randomised trial of Vi conjugate vaccine The Lancet",
+      "id": "b6560aba40fa3821",
+      "title": "Re: ワクチン摂取量を増加させる介入の有効性: コンポーネントネットワークのメタ分析 - The BMJ",
+      "summary": "Re: ワクチン摂取量を増やすための介入の有効性: コンポーネントネットワークのメタ分析 The BMJ",
+      "summary_ai": "Re: ワクチン摂取量を増やすための介入の有効性: コンポーネントネットワークのメタ分析 The BMJ",
+      "title_original": "Re: Effectiveness of interventions to increase vaccine uptake: component network meta-analysis - The BMJ",
+      "summary_original": "Re: Effectiveness of interventions to increase vaccine uptake: component network meta-analysis The BMJ",
+      "summary_ai_original": "Re: Effectiveness of interventions to increase vaccine uptake: component network meta-analysis The BMJ",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTUxFZm9sWG5jcTJSSmZlU0FkNVc5eWJZalFuaHRpdlM2ZkJIblRvM1BJbk1fNHByR0o0VjYwVlRNQVBab0o5d0JfazhST3l5MEFITDh3VGlTWUNjX1BuWEJxUXgtSDRPRks5TW1RczFRcW1yQmFwMGV5eGhUWjBaT1JkQ256bjRUdUQw?oc=5",
-      "source": "The Lancet series",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-04-16T02:13:28+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "The Lancet / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "The Lancet / London"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "The Lancet series"
-      ]
-    },
-    {
-      "id": "1c4a10bd2cf315b0",
-      "title": "ガイダンス: RSV ワクチン ファクトシート – 患者、親、介護者向けの情報",
-      "summary": "呼吸器合胞体ウイルス (RSV) および RSV ワクチン接種に関する情報を提供する患者のファクトシート。",
-      "summary_ai": "RSウイルスに感染したほとんどの人は軽度の症状しか経験しませんが、特に幼い赤ちゃん、高齢者、免疫力が低下している人では、Rウイルスは細気管支炎や肺炎などの重篤な病気を引き起こすことがあります。 RSV RSV ワクチン接種の概要と e",
-      "title_original": "Guidance: RSV Vaccine Factsheet – Information for Patients, Parents and Carers",
-      "summary_original": "Patient factsheet providing information on respiratory syncytial virus (RSV) and RSV vaccination.",
-      "summary_ai_original": "While most people who catch RSV experience only mild illness, RSV can sometimes lead to serious illness, such as bronchiolitis and pneumonia, particularly in young babies, older adults, and individuals with weakened immune systems. It covers: Overview of RSV RSV vaccination and e",
-      "article_text_original": "Respiratory syncytial virus (RSV) is a common respiratory virus that can cause coughs, colds, and chest infections. While most people who catch RSV experience only mild illness, RSV can sometimes lead to serious illness, such as bronchiolitis and pneumonia, particularly in young babies, older adults, and individuals with weakened immune systems. RSV infection is one of the most common reasons for young babies to be admitted to hospital. In older adults, RSV can also lead to severe lung infections and breathing difficulties. Vaccination is one of the safest and most effective ways to protect people who are at higher risk of becoming seriously unwell with RSV. RSV vaccines used in the UK have been rigorously assessed for safety, quality and effectiveness, and are continuously monitored through the Yellow Card scheme. This factsheet is designed to help patients, parents and carers understand the RSV vaccines used in the UK. It covers: Overview of RSV RSV vaccination and eligibility Getting RSV and COVID-19 vaccination at the same time",
-      "link": "https://www.gov.uk/government/publications/rsv-vaccine-factsheet-information-for-patients-parents-and-carers",
-      "source": "MHRA",
-      "source_type": "official",
-      "source_tier": "Tier 1",
-      "source_priority": 8,
-      "published_at": "2026-04-15T13:00:18+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [
-        "safety"
-      ],
-      "vaccines": [
-        "rsv"
-      ],
-      "variants": [],
-      "target_country": "英国",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "MHRA / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "MHRA / London"
-        },
-        "target": {
-          "key": "uk",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "英国"
-        }
-      },
-      "location": {
-        "key": "uk",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "英国"
-      },
-      "region": "Europe",
-      "country": "英国",
-      "lat": 51.5074,
-      "lng": -0.1278,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "MHRA"
-      ]
-    },
-    {
-      "id": "246deec0fa2c2e9c",
-      "title": "ワクチン摂取量を増加させる介入の有効性: コンポーネントネットワークのメタ分析 - BMJ",
-      "summary": "ワクチン摂取量を増やすための介入の有効性: コンポーネントネットワークのメタ分析 The BMJ",
-      "summary_ai": "ワクチン摂取量を増やすための介入の有効性: コンポーネントネットワークのメタ分析 The BMJ",
-      "title_original": "Effectiveness of interventions to increase vaccine uptake: component network meta-analysis - The BMJ",
-      "summary_original": "Effectiveness of interventions to increase vaccine uptake: component network meta-analysis The BMJ",
-      "summary_ai_original": "Effectiveness of interventions to increase vaccine uptake: component network meta-analysis The BMJ",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZOERvcU1jTGE0TjFRcFhkVTdXNTczcW9McXRtWGxEaFBCOHVNNGxtR3E3RXpUZlYya2FZR0FyX1BlTGJhNWRrQm9WTjk1bVVSRll0aUZmTnZwSVA1QUFESTBuTldQU0xMTWY3NVFybWo?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qeXNQZk5UcTM4MnRaUzk5SGtJRkVFSlNPeW1QUmZLTk42ZVNhdVg1TDY4NjNZcjNEZmFqQnNRRmk2NU45ZGFDVTlCZ3ZpcFZybDdfVXQ5SVQweDlXM0JN?oc=5",
       "source": "BMJ",
       "source_type": "academic",
       "source_tier": "Tier 3",
@@ -2832,9 +2976,76 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "duplicate_sources": [
         "BMJ"
+      ]
+    },
+    {
+      "id": "4489b78ca98aa239",
+      "title": "６５歳定期接種の肺炎球菌ワクチンが新タイプに切り替え 柳沢慎吾さんが啓発アンバサダー - 読売新聞",
+      "summary": "６５歳定期接種の肺炎球菌ワクチンが新タイプに切り替え 柳沢慎吾さんが啓発アンバサダー 読売新聞",
+      "summary_ai": "６５歳定期接種の肺炎球菌ワクチンが新タイプに切り替え 柳沢慎吾さんが啓発アンバサダー 読売新聞",
+      "title_original": "６５歳定期接種の肺炎球菌ワクチンが新タイプに切り替え 柳沢慎吾さんが啓発アンバサダー - 読売新聞",
+      "summary_original": "６５歳定期接種の肺炎球菌ワクチンが新タイプに切り替え 柳沢慎吾さんが啓発アンバサダー 読売新聞",
+      "summary_ai_original": "６５歳定期接種の肺炎球菌ワクチンが新タイプに切り替え 柳沢慎吾さんが啓発アンバサダー 読売新聞",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNEp2LWlvUVloUnVQVElzdWFJMUZJWG0yTEFOV1ZTYW5USHYtTW1PaVhvdDZlMnkzRWp0VlhWSmlPTGhZQkg1V2U2S0VRQ2x0b0c5SHFVcFdKX2l6MENKNUNXZldhWXdPZlRJTFE3emhmd1dENklkSGZfcEZaWlRibkNVZVdnSFU3ZzQ1MVVuUQ?oc=5",
+      "source": "読売新聞 ワクチン / 予防接種",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-04-15T07:00:00+00:00",
+      "topics": [
+        "communication"
+      ],
+      "policy_tags": [
+        "communication"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "japan",
+        "name_ja": "日本",
+        "lat": 35.6762,
+        "lng": 139.6503,
+        "region": "Asia",
+        "label": "読売新聞"
+      },
+      "plot": {
+        "source": {
+          "key": "japan",
+          "name_ja": "日本",
+          "lat": 35.6762,
+          "lng": 139.6503,
+          "region": "Asia",
+          "label": "読売新聞"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "読売新聞 ワクチン / 予防接種"
       ]
     },
     {
@@ -2902,76 +3113,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "読売新聞 ワクチン / 予防接種"
-      ]
-    },
-    {
-      "id": "0f6d1eb0bd40165a",
-      "title": "CEPIとPAHOがパートナーシップを拡大し、南北アメリカ全土の規制制度とワクチンの安全性を強化",
-      "summary": "CEPIとPAHO、南北アメリカ全土で規制制度とワクチンの安全性を強化するためパートナーシップを拡大 クリスティーナ・ミッチェル 2026年4月14日",
-      "summary_ai": "私たちはこのパートナーシップを歓迎します。このパートナーシップは、地域諸国が健康上の緊急事態に直面した際に迅速に、集団的に、そして公平に行動できるよう、PAHOの取り組みを支援することになります。」新しい協定は、CEPIとPAHOの間の継続的な協力に基づいています。",
-      "title_original": "CEPI and PAHO expand partnership to strengthen regulatory systems and vaccine safety across the Americas",
-      "summary_original": "CEPI and PAHO expand partnership to strengthen regulatory systems and vaccine safety across the Americas Cristina Mitchell 14 Apr 2026",
-      "summary_ai_original": "We welcome this partnership, which will support PAHO’s work to ensure that countries in the Region are better equipped to act quickly, collectively and equitably in the face of health emergencies.” The new agreements build on ongoing collaboration between CEPI and PAHO, including",
-      "article_text_original": "The partnership will support more agile and aligned regulatory pathways, enabling countries to expedite the evaluation and approval of vaccines during outbreaks while ensuring their safety, oversight and active monitoring. Activities will include establishing convergence and reliance-based regulatory actions, identifying and addressing workforce training, and expanding collaboration among national regulatory authorities to support faster, coordinated decision-making. In parallel, strengthened pharmacovigilance systems will enhance the region’s ability to monitor vaccine safety. By improving signal detection, benefit-risk assessments, and evidence-based policy-making, these efforts will foster public trust and ensure the seamless deployment of vaccines during health emergencies. CEPI will provide up to $1 million over 12 months to support regulatory capacity strengthening, and up to $3 million over 24 months to enhance pharmacovigilance programs and strategies. The agreements build on a broader five-year Memorandum of Understanding, signed in 2024, and reflect the progressive implementation of multiple cooperation agreements under this framework, supporting the strengthening of regulatory systems in preparation for emergencies and for new vaccines developments in the Americas. Dr Richard Hatchett, Chief Executive Officer of CEPI, said: “Strong regulatory and pharmacovigilance systems are essential to enabling rapid and equitable access to vaccines during outbreaks. Through our partnership with PAHO, CEPI is supporting countries across the Americas to strengthen these critical capabilities — helping to ensure vaccines can be developed, assessed, delivered and safely managed at speed when they are needed most.” Dr. Jarbas Barbosa, Director of the Pan American Health Organization (PAHO), said: “The COVID‑19 pandemic demonstrated that regional health security depends on strong regulatory frameworks and timely local manufacturing. We welcome this partnership, which will support PAHO’s work to ensure that countries in the Region are better equipped to act quickly, collectively and equitably in the face of health emergencies.” The new agreements build on ongoing collaboration between CEPI and PAHO, including a $458,000 agreement signed in November 2025 to support AI-enabled clinical intelligence platform development and clinical trials capacity. Both organizations work closely in CEPI’s Global South Leaders in Epidemic Analytics and Response Network (GS LEARN), a multi‑regional network that aims to strengthen epidemic and pandemic analytics leadership within Global South institutions to enable locally led, evidence‑based decision‑making for outbreak preparedness and response. The partnership also supports the execution of PAHO’s 2026-2031 strategic plan and is aligned with CEPI’s 100 Days Mission—a goal to accelerate the development of safe and effective vaccines in response to a pandemic threat to within 100 days. Notes to Editors About CEPI CEPI is an innovative partnership between public, private, philanthropic and civil organisations. Its mission is to accelerate the development of vaccines and other biologic countermeasures against epidemic and pandemic threats so they can be accessible to all people in need. Central to CEPI’s pandemic-beating plan is the ‘100 Days Mission’ – its goal to develop safe, effective and accessible vaccines against new threats in just 100 days. CEPI is seeking $2.5 billion to execute CEPI 3.0, its 2027-2031 strategy, which will systematically reduce the likelihood, impact and cost of epidemics and pandemics by driving the 100 Days Mission towards an operational reality. Learn more at CEPI.net. About PAHO The Pan American Health Organization (PAHO) works with the countries of the Americas to improve the health and quality of life of its population. Founded in 1902, it is the world’s oldest international public health agency. It serves as the Regional Office of WHO for the Americas and is the specialized health agency of the Inter-American system (OAS). www.paho.org Contact CEPI: E: press@CEPI.net P: +447387055214 PAHO mediateam@paho.org",
-      "link": "https://www.paho.org/en/news/14-4-2026-cepi-and-paho-expand-partnership-strengthen-regulatory-systems-and-vaccine-safety",
-      "source": "PAHO News",
-      "source_type": "official",
-      "source_tier": "Tier 1",
-      "source_priority": 8,
-      "published_at": "2026-04-14T14:03:06+00:00",
-      "topics": [
-        "policy",
-        "research"
-      ],
-      "policy_tags": [
-        "approval",
-        "outbreak_response",
-        "safety"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "PAHO / Washington DC"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "PAHO / Washington DC"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "PAHO News"
       ]
     }
   ]
