@@ -1,9 +1,9 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-04-28T22:09:13.602777+00:00",
-  "item_count": 42,
-  "archive_count": 172,
+  "generated_at": "2026-04-29T22:09:31.846970+00:00",
+  "item_count": 46,
+  "archive_count": 175,
   "days_back": 14,
   "plot_mode_default": "source",
   "feed_status": [
@@ -44,7 +44,7 @@
       "url": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/biologics/rss.xml",
       "status": "ok",
       "seen": 20,
-      "kept": 4
+      "kept": 5
     },
     {
       "name": "EMA News",
@@ -57,13 +57,13 @@
       "url": "https://www.gov.uk/government/organisations/medicines-and-healthcare-products-regulatory-agency.atom",
       "status": "ok",
       "seen": 20,
-      "kept": 1
+      "kept": 2
     },
     {
       "name": "Health Canada Recalls and Safety Alerts",
       "url": "https://recalls-rappels.canada.ca/en/rss.xml",
       "status": "error",
-      "error": "HTTPSConnectionPool(host='recalls-rappels.canada.ca', port=443): Read timed out. (read timeout=30)"
+      "error": "404 Client Error: Not Found for url: https://recalls-rappels.canada.ca/en/rss.xml"
     },
     {
       "name": "TGA News",
@@ -89,14 +89,14 @@
       "name": "The Lancet series",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Athelancet.com%20(trial%20OR%20policy%20OR%20effectiveness%20OR%20safety)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 1,
-      "kept": 0
+      "seen": 2,
+      "kept": 1
     },
     {
       "name": "Lancet Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Athelancet.com%2Fjournals%2Flaninf&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 2,
       "kept": 1
     },
     {
@@ -110,14 +110,14 @@
       "name": "BMJ",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abmj.com%20(policy%20OR%20trial%20OR%20effectiveness%20OR%20communication)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 8,
-      "kept": 8
+      "seen": 7,
+      "kept": 7
     },
     {
       "name": "Vaccine journal",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Asciencedirect.com%2Fjournal%2Fvaccine&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 2,
       "kept": 0
     },
     {
@@ -131,7 +131,7 @@
       "name": "Eurosurveillance",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Aeurosurveillance.org&hl=en-US&gl=EU&ceid=EU%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 3,
       "kept": 2
     },
     {
@@ -145,91 +145,91 @@
       "name": "medRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Amedrxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 14,
-      "kept": 10
+      "seen": 17,
+      "kept": 13
     },
     {
       "name": "bioRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abiorxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 10,
-      "kept": 2
+      "seen": 12,
+      "kept": 3
     },
     {
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 27,
+      "seen": 28,
       "kept": 5
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 39,
+      "seen": 34,
       "kept": 2
     },
     {
       "name": "AP Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 7,
+      "seen": 5,
       "kept": 1
     },
     {
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 17,
+      "seen": 16,
       "kept": 2
     },
     {
       "name": "Financial Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aft.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 7,
+      "seen": 8,
       "kept": 0
     },
     {
       "name": "STAT Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 28,
+      "seen": 29,
       "kept": 2
     },
     {
       "name": "Nature News Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 17,
+      "seen": 19,
       "kept": 2
     },
     {
       "name": "Science Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Ascience.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 28,
+      "seen": 19,
       "kept": 1
     },
     {
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 34,
+      "seen": 28,
       "kept": 2
     },
     {
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 14,
+      "seen": 15,
       "kept": 0
     },
     {
       "name": "Washington Post Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 17,
+      "seen": 13,
       "kept": 1
     },
     {
@@ -243,34 +243,317 @@
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 57,
+      "seen": 40,
       "kept": 0
     },
     {
       "name": "朝日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Aasahi.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 14,
+      "seen": 11,
       "kept": 0
     },
     {
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 42,
-      "kept": 2
+      "seen": 38,
+      "kept": 0
     },
     {
       "name": "毎日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 34,
+      "seen": 38,
       "kept": 0
     }
   ],
   "items": [
     {
-      "id": "f1edb82e3d6c0ddc",
+      "id": "7aa2d0fe25ab3b36",
+      "title": "メディア習慣が米国成人のMMRワクチン躊躇と結びついている - CIDRAP",
+      "summary": "米国成人におけるMMRワクチンへの躊躇に関連するメディア習慣 CIDRAP",
+      "summary_ai": "米国成人におけるMMRワクチンへの躊躇に関連するメディア習慣 CIDRAP",
+      "title_original": "Media habits tied to MMR vaccine hesitancy in US adults - CIDRAP",
+      "summary_original": "Media habits tied to MMR vaccine hesitancy in US adults CIDRAP",
+      "summary_ai_original": "Media habits tied to MMR vaccine hesitancy in US adults CIDRAP",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSlUtMHgyQkJfcEhjbG9hbTFSVEFwUG9waDF6MG1rbllhbTEzMXIyRGx2S012eDN5NDFadWpBMVh0Z05wYTFLSk45OTczYnpkRU5DUmFkMzFidzhUb3VYOEY2R1JFRXExdVhXdENQZjFieVZHWjQ4Z0VlRkFVRm54X2VQTVo2Skc1UTVEN292OWpqS1k?oc=5",
+      "source": "CIDRAP Vaccines & Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 8,
+      "published_at": "2026-04-29T21:25:06+00:00",
+      "topics": [
+        "communication"
+      ],
+      "policy_tags": [
+        "communication"
+      ],
+      "vaccines": [
+        "measles"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "CIDRAP / Minnesota"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "CIDRAP / Minnesota"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "CIDRAP Vaccines & Immunization"
+      ]
+    },
+    {
+      "id": "12d29f3972ea305a",
+      "title": "産業向け規制教育 (REdI) 年次会議 2026: 医療製品を前進させるための革新的な規制戦略 - 2026 年 5 月 19 日",
+      "summary": "医薬品、機器、生物製剤などの医療製品センターの FDA 規制専門家から直接学びましょう。",
+      "summary_ai": "対象読者 医薬品 - 新薬申請の開発と準備、医薬品の安全性、IT に取り組む規制関係者およびその他の専門家 - スポンサー、申請者、メーカー、臨床研究者、および insi の取得を希望する規制関係専門家",
+      "title_original": "Regulatory Education for Industry (REdI) Annual Conference 2026: Innovative Regulatory Strategies to Advance Medical Products - 05/19/2026",
+      "summary_original": "Learn directly from the FDA’s regulatory experts in medical product centers: drugs, devices, and biologics.",
+      "summary_ai_original": "Intended Audience Drugs - Regulatory affairs and other professionals working on the development and preparation of new drug submissions, drug safety and IT - Sponsors, applicant holders, manufacturers, clinical researchers and regulatory affairs professionals wishing to gain insi",
+      "article_text_original": "- Date: - May 19 - 20, 2026 - Day1: - Tue, May 19 9:00 a.m. - 04:50 p.m. ET - Day2: - Wed, May 20 9:00 a.m. - 03:50 p.m. ET - Location: - Event LocationAttend In Person or Online Virtual: Via Adobe Connect In Person: FDA White Oak Campus 10903 New Hampshire Ave, Building 31 The Great Room Silver Spring, MD 20903 United States Save the Date Agenda Coming Soon Drugs, Devices, and Biologics Tracks will Offer an Opportunity for 1:1 Questions Learn directly from the FDA’s regulatory experts in medical product centers: drugs, devices, and biologics. This course is designed to provide participants with a strong, basic foundation in the FDA’s regulatory requirements, and also create awareness of current activities. Intended Audience Drugs - Regulatory affairs and other professionals working on the development and preparation of new drug submissions, drug safety and IT - Sponsors, applicant holders, manufacturers, clinical researchers and regulatory affairs professionals wishing to gain insight on INDs, NDAs and BLAs - Industry professionals at all levels of expertise Devices - A new regulatory affairs specialist wanting to learn some basics and best practices for getting started with FDA’s regulation of medical devices. - A researcher of a medical device seeking to learn about the valid scientific evidence requirements needed to support new medical device regulatory submissions. - An establishment seeking to understand their regulatory responsibilities for maintaining their quality system to ensure their device is stay and effective after it’s legally marketed and in commercial distribution. Biologics - Biotechnology product manufacturers, academic sponsors, and other stakeholders working on the development of biological products - Regulatory affairs and other professionals working with submissions of INDs, IDEs, and BLAs, and PMAs to the Center for Biologics Evaluation and Research - Industry and consulting professionals working with advanced therapies, allergenics, blood and vaccine products, and devices used with biological products Topics Covered - Advanced Drug Manufacturing in CDER - Use of AI to Advance Drug Development - FDA’s Quality Management System Regulation (QMSR) - Small Business Determination Program Updates - Use of Digital Health Technologies for Data Collection in Clinical Trials - Benefit-Risk Framework and Analytical Methods to Inform Benefit-Risk - …Many others Continuing Education (CE) Real-time attendance is required for the certificate of attendance which can be used in support of CEs for the following professional organizations. Certificates are only available during the two weeks post-event. This course has been pre-approved by: - RAPS as eligible for a maximum of 12 credits for a two-day event (appropriate to real-time attendance) towards a participant’s RAC recertification upon full completion. - SOCRA who accepts documentation of candidate participation in continuing education programs for re-certification if the program is applicable to clinical research regulations, operations or management, or to the candidate's clinical research therapeutic area. - SQA as eligible for 1 non-GCP or non-GLP unit for every 1 hour of instructional time towards a participant’s RQAP re-registration. - ACRP for continuing education in clinical research. ACRP will provide 1 ACRP contact hour for every 45-60 minutes of qualified material. FDA Resources Drugs - CDER SBIA Learn: Webinars, Conferences, Trainings - Search for Regulatory References | Drugs - Guidance Documents for Drug Applications Devices Biologics More Information Food and Drink - Public meeting attendees may bring their own food and drink as campus access is restricted to the immediate meeting area - For this event, light refreshments, sandwiches/wraps/salads are available for pre-order during the registration process. Payment will be made when the order is picked up on site - Lunch selections must be made at time of registration. Changes cannot be accommodated after registration is complete. REdI Lunch Menu - Restaurants near the FDA White Oak campus are available. Before leaving, meeting attendees should consider the amount of time needed to return to campus and go through security screening.",
+      "link": "http://www.fda.gov/news-events/regulatory-education-industry-redi-annual-conference-2026-innovative-regulatory-strategies-advance",
+      "source": "FDA Vaccines / Biologics",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 9,
+      "published_at": "2026-04-29T17:24:16+00:00",
+      "topics": [
+        "communication",
+        "policy",
+        "research"
+      ],
+      "policy_tags": [
+        "approval",
+        "communication",
+        "safety"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "米国",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "FDA / Silver Spring"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "FDA / Silver Spring"
+        },
+        "target": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "米国"
+        }
+      },
+      "location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "米国"
+      },
+      "region": "North America",
+      "country": "米国",
+      "lat": 38.9072,
+      "lng": -77.0369,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "FDA Vaccines / Biologics"
+      ]
+    },
+    {
+      "id": "c9d441c251df380f",
+      "title": "MHRA 安全性総括: 2026 年 4 月",
+      "summary": "医薬品および医療機器のユーザーに対する最新の安全性に関するアドバイスの概要",
+      "summary_ai": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_original": "MHRA Safety Roundup: April 2026",
+      "summary_original": "Summary of the latest safety advice for medicines and medical device users",
+      "summary_ai_original": "Letters, medicines recalls and device notifications sent to healthcare professionals in April 2026 Direct Healthcare Professional Communications We received notification that the following Direct Healthcare Professional Communications were sent or provided to relevant healthcare ",
+      "article_text_original": "To subscribe to monthly email alerts of MHRA Safety Roundup visit our sign up page Download Document Please access the PDF version of our Safety Roundup for our easy-read template and QR codes to access the full articles. Letters, medicines recalls and device notifications sent to healthcare professionals in April 2026 Direct Healthcare Professional Communications We received notification that the following Direct Healthcare Professional Communications were sent or provided to relevant healthcare professionals in April 2026: - - - - - - - Medicine Recalls and Notifications In April 2026, recalls and notifications for medicines were issued on: Class 2 Medicines Recall: Amarox Limited, Sertraline 100mg film-coated tablets, EL(26)A/22. Issued 28 April 2026 Amarox Limited is recalling one batch of Sertraline 100 mg film-coated tablets as a precautionary measure due to an error at the manufacturing site. Class 2 Medicines Recall: Crescent Pharma Limited, Ramipril 10mg capsules, EL(26)A/19. Issued 20 April 2026. Crescent Pharma Limited is recalling one batch of Ramipril 10mg Capsules as a precautionary measure due to a potential error at the manufacturing site. Class 3 Medicines Recall: Omega Pharma Ltd, Napralief 250mg Gastro-Resistant Tablets, EL(26)A/21. Issued 23 April 2026. Omega Pharma Ltd is recalling specific batches of Napralief 250mg Gastro-Resistant Tablets due to missing text in Section 2 and Section 3 of the Patient Information Leaflet (PIL) and on the Carton in packs of Napralief 250mg Gastro-resistant tablets. Class 4 Medicines Recall: Doncaster Pharma Limited, Hiprex 1g tablets, EL(26)A/20. Issued 22 April 2026. Doncaster Pharma Limited has informed the MHRA of an error related to the Braille embossing on the outer packaging of certain parallel imported batches of Hiprex 1 g tablets (POM). Medical Device Field Safety Notices Find recently published Field Safety Notices Report suspected drug reactions and device incidents on a Yellow Card Please continue to report suspected adverse drug reactions and device incidents. Your report will help us safeguard public health. When reporting, please provide as much information as possible, including information about medical history, any concomitant medication, onset timing, treatment dates and particularly if a side effect continued or started after treatment was stopped. Report a medicine Healthcare professionals should report via a Yellow Card to: Reporting for medical devices Healthcare professionals should report incidents: Reporting for patients Patients should report via a Yellow Card to: News Roundup EMA recommends withdrawal of marketing authorisations for levamisole medicines following safety review In February 2026, EMA’s Pharmacovigilance Risk Assessment Committee (PRAC) issued a recommendation that medicines containing levamisole be withdrawn from the EU market following a safety review confirming leukoencephalopathy as a rare but serious side effect. This follows an EU-wide review which concluded that the benefits of these medicines no longer outweigh their risks for the treatment of parasitic infections in adults and children. Levamisole is a medicine licenced in the EU and indicated for the treatment of mild parasitic infections in adults and children, and is also thought to be a mild immunosuppressant. Levamisole does not hold a current UK marketing authorisation however, levamisole containing medicines are used in the UK off-label in exceptional circumstances to treat children with frequently relapsing or steroid-dependent nephrotic syndrome, to help maintain remission and lower the steroid dosage. Publication of RSV vaccine factsheet The MHRA has published a new RSV vaccine factsheet, designed to provide information and guidance for patients, parents and carers about respiratory syncytial virus (RSV), and the vaccines used to protect people at higher risk of serious illness. The factsheet covers what RSV is, who is eligible for vaccination in the UK, and the safety and effectiveness of RSV vaccines, including information on side effects and vaccination during pregnancy. This resource is now available for healthcare professionals, patients and the public. For more information, view the full RSV Vaccine Factsheet – Information for Patients, Parents and Carers. To subscribe to monthly email alerts of MHRA Safety Roundup visit our sign up page For any enquiries, please contact info@mhra.gov.uk",
+      "link": "https://www.gov.uk/drug-device-alerts/mhra-safety-roundup-april-2026",
+      "source": "MHRA",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 8,
+      "published_at": "2026-04-29T13:02:41+00:00",
+      "topics": [
+        "communication",
+        "policy",
+        "research"
+      ],
+      "policy_tags": [
+        "approval",
+        "communication",
+        "recommendation",
+        "safety"
+      ],
+      "vaccines": [
+        "rsv"
+      ],
+      "variants": [],
+      "target_country": "英国",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "MHRA / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "MHRA / London"
+        },
+        "target": {
+          "key": "uk",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "英国"
+        }
+      },
+      "location": {
+        "key": "uk",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "英国"
+      },
+      "region": "Europe",
+      "country": "英国",
+      "lat": 51.5074,
+      "lng": -0.1278,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "MHRA"
+      ]
+    },
+    {
+      "id": "6cd4f3f8559c6102",
+      "title": "米国におけるロタウイルスワクチン推奨変更の推定影響 - medRxiv",
+      "summary": "米国におけるロタウイルスワクチン推奨の変更による影響の推定 medRxiv",
+      "summary_ai": "米国におけるロタウイルスワクチンの推奨変更による影響の推定",
+      "title_original": "Estimated Impacts of Rotavirus Vaccine Recommendation Changes in the U.S. - medRxiv",
+      "summary_original": "Estimated Impacts of Rotavirus Vaccine Recommendation Changes in the U.S. medRxiv",
+      "summary_ai_original": "Estimated Impacts of Rotavirus Vaccine Recommendation Changes in the U.S.",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54Y2tOZXBrQjBpTmdoNFpaY2tJVnE1bV8wTGhzdVJLeDhUZUdqVXg0aHMtQVZLRkJYQkp2dlU1NGFHMG1MbU4wcGVUa0xQVTdKdmxvU21BbW1oUmJsLXBZMUc5V3A5cHlwV09BYVljalhFV0RJZU56V1poTQ?oc=5",
+      "source": "medRxiv vaccines",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-04-29T10:44:29+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [
+        "recommendation"
+      ],
+      "vaccines": [
+        "rotavirus"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "medRxiv"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "medRxiv"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 2,
+      "duplicate_sources": [
+        "medRxiv vaccines"
+      ]
+    },
+    {
+      "id": "b4aa5f1104650d6d",
       "title": "米国のワクチン政策の現状 — 2026 年 4 月 28 日 - CIDRAP",
       "summary": "米国のワクチン政策の現状 — 2026 年 4 月 28 日 CIDRAP",
       "summary_ai": "米国のワクチン政策の現状 — 2026 年 4 月 28 日 CIDRAP",
@@ -278,7 +561,7 @@
       "summary_original": "The State of US Vaccine Policy — Apr 28, 2026 CIDRAP",
       "summary_ai_original": "The State of US Vaccine Policy — Apr 28, 2026 CIDRAP",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE12NFhwTlgwaEFhdVVLeUw0bUo1XzRNX214QzhjMi1Uc2NWT19rYXVaLW9sT0hNV004c0R2T2NDbUV2QXpFQUQxS2pGM01ZWUxVZjlpZ0IzY2U0MTRIalZTbDlZOUZabWhEdUwxNWtEUQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMGJvUjVVaTZrY3dHbUhwbmZJa3ZUZkdNdTllRVRfZmgtZk9nRkt0dW5QQV9fTGZzc3dXZmM1aU9xUlhUdXY4cXVWNFc2RUlkMFYyOElpM1Y0YVRXVlp3YlJvR2d5QWFQUlE4SWFKUlNmSEhPbmV0ZmZad0hidE45SjRCR1BPOHdp?oc=5",
       "source": "CIDRAP Vaccines & Immunization",
       "source_type": "media",
       "source_tier": "Tier 2",
@@ -329,7 +612,7 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicate_sources": [
         "CIDRAP Vaccines & Immunization"
       ]
@@ -1034,6 +1317,71 @@
       ]
     },
     {
+      "id": "6a4fcd8803c16621",
+      "title": "CDC長官がワクチン政策をめぐって解任され、上級科学者4人が辞任 - BMJ",
+      "summary": "CDC長官がワクチン政策をめぐって解任、上級科学者4人が辞任 BMJ",
+      "summary_ai": "CDC長官がワクチン政策をめぐって解任、上級科学者4人が辞任 BMJ",
+      "title_original": "CDC director is forced out over vaccine policy, and four senior scientists resign - The BMJ",
+      "summary_original": "CDC director is forced out over vaccine policy, and four senior scientists resign The BMJ",
+      "summary_ai_original": "CDC director is forced out over vaccine policy, and four senior scientists resign The BMJ",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zcEdRNnZFUXQwQmdXUm9nUFJiak1BbHlWQlZvV2ZqczZSY0dlc1VORlFYdHBnQ1hFaEp6R0VON2RaYUFKQ0tYVWoxUGZEQVg0YVFva3YzNnBOT2hxdm13?oc=5",
+      "source": "BMJ",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-04-25T20:38:01+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BMJ / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BMJ / London"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "BMJ"
+      ]
+    },
+    {
       "id": "0f9a4cff9f6c99a3",
       "title": "子供と成人におけるインフルエンザ関連の入院および救急部門または救急医療への遭遇に対するインフルエンザワクチンの有効性 - 米国、2024-25シーズン - medRxiv",
       "summary": "子供と成人の間でのインフルエンザ関連の入院および救急部門または救急医療への遭遇に対するインフルエンザワクチンの有効性 - 米国、2024-25 シーズン medRxiv",
@@ -1097,7 +1445,7 @@
       "country": "米国",
       "lat": 38.9072,
       "lng": -77.0369,
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "duplicate_sources": [
         "medRxiv vaccines"
       ]
@@ -2180,75 +2528,6 @@
       ]
     },
     {
-      "id": "3855eaf7201c6d68",
-      "title": "モデルナ、HHSの資金提供中止を受けてmRNA鳥インフルエンザワクチンの治験を開始 - ワシントン・ポスト",
-      "summary": "モデルナ、HHSの資金提供中止を受けてmRNA鳥インフルエンザワクチンの治験を開始 ワシントン・ポスト",
-      "summary_ai": "モデルナ、HHSの資金提供中止を受けてmRNA鳥インフルエンザワクチンの治験を開始 ワシントン・ポスト",
-      "title_original": "Moderna launches mRNA bird flu vaccine trial after HHS cancels funding - The Washington Post",
-      "summary_original": "Moderna launches mRNA bird flu vaccine trial after HHS cancels funding The Washington Post",
-      "summary_ai_original": "Moderna launches mRNA bird flu vaccine trial after HHS cancels funding The Washington Post",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMERNbDhzS0Q2SmFXci1vdm1OOF9YMWZONkNxbjYxQ3BxRWR6MkoxUjJNYmpORmx1RnRKY0ZwdVREc1VEUlpaMVd4SnNmYXpuVkl6emhQTkhnS2R3ckJuU21sQzhhWlJRUHdsX0MtNmRiYnI4TnBCaE41ZkliaDdVa0ItN1p6Q2dwQkt3OHhpSQ?oc=5",
-      "source": "Washington Post Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-04-22T06:01:00+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [
-        "financing"
-      ],
-      "vaccines": [
-        "influenza"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "Washington Post"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "Washington Post"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Washington Post Vaccines / Immunization"
-      ]
-    },
-    {
       "id": "5da4cc51c5fa53b9",
       "title": "免疫介在性炎症性疾患患者における SARS-CoV-2 mRNA ワクチンの有効性に対する免疫抑制療法の影響 - BMJ Open",
       "summary": "免疫介在性炎症疾患患者における SARS-CoV-2 mRNA ワクチンの有効性に対する免疫抑制療法の影響 BMJ Open",
@@ -2383,73 +2662,6 @@
       ]
     },
     {
-      "id": "55399a92e27d82d8",
-      "title": "潜在的なパンデミック株に対する鳥インフルエンザワクチンの治験が始まる - BBC",
-      "summary": "BBCがパンデミックの可能性のある株に対する鳥インフルエンザワクチンの治験を開始",
-      "summary_ai": "BBCがパンデミックの可能性のある株に対する鳥インフルエンザワクチンの治験を開始",
-      "title_original": "Bird flu vaccine trial against potential pandemic strain begins - BBC",
-      "summary_original": "Bird flu vaccine trial against potential pandemic strain begins BBC",
-      "summary_ai_original": "Bird flu vaccine trial against potential pandemic strain begins BBC",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xdnZTaDRCc0ZySjJLam83WlNNZm1lOTV1VC1mcGJlWkl2Zjd1cWF1S0J1MWl5X2VWSmhzZ2txblQ0X1NYZ0ZmczdfUVZ2TWZ2VEc3LU5UWWNTZw?oc=5",
-      "source": "BBC Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-04-21T23:00:08+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "influenza"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BBC"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BBC"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "BBC Vaccines / Immunization"
-      ]
-    },
-    {
       "id": "3e45422ca6d774b1",
       "title": "ブルキナファソの子供たちにおける初回接種から5～6年後の腸チフス結合型ブースターワクチン（TCV）の免疫原性と忍容性 - medRxiv",
       "summary": "ブルキナファソの子供たちにおける初回投与後5～6年の腸チフス結合型ブースターワクチン（TCV）の免疫原性と忍容性 medRxiv",
@@ -2512,6 +2724,142 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "medRxiv vaccines"
+      ]
+    },
+    {
+      "id": "55399a92e27d82d8",
+      "title": "潜在的なパンデミック株に対する鳥インフルエンザワクチンの治験が始まる - BBC",
+      "summary": "BBCがパンデミックの可能性のある株に対する鳥インフルエンザワクチンの治験を開始",
+      "summary_ai": "BBCがパンデミックの可能性のある株に対する鳥インフルエンザワクチンの治験を開始",
+      "title_original": "Bird flu vaccine trial against potential pandemic strain begins - BBC",
+      "summary_original": "Bird flu vaccine trial against potential pandemic strain begins BBC",
+      "summary_ai_original": "Bird flu vaccine trial against potential pandemic strain begins BBC",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xdnZTaDRCc0ZySjJLam83WlNNZm1lOTV1VC1mcGJlWkl2Zjd1cWF1S0J1MWl5X2VWSmhzZ2txblQ0X1NYZ0ZmczdfUVZ2TWZ2VEc3LU5UWWNTZw?oc=5",
+      "source": "BBC Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-04-21T07:00:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "influenza"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BBC"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BBC"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "BBC Vaccines / Immunization"
+      ]
+    },
+    {
+      "id": "3855eaf7201c6d68",
+      "title": "モデルナ、HHSの資金提供中止を受けてmRNA鳥インフルエンザワクチンの治験を開始 - ワシントン・ポスト",
+      "summary": "モデルナ、HHSの資金提供中止を受けてmRNA鳥インフルエンザワクチンの治験を開始 ワシントン・ポスト",
+      "summary_ai": "モデルナ、HHSの資金提供中止を受けてmRNA鳥インフルエンザワクチンの治験を開始 ワシントン・ポスト",
+      "title_original": "Moderna launches mRNA bird flu vaccine trial after HHS cancels funding - The Washington Post",
+      "summary_original": "Moderna launches mRNA bird flu vaccine trial after HHS cancels funding The Washington Post",
+      "summary_ai_original": "Moderna launches mRNA bird flu vaccine trial after HHS cancels funding The Washington Post",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMERNbDhzS0Q2SmFXci1vdm1OOF9YMWZONkNxbjYxQ3BxRWR6MkoxUjJNYmpORmx1RnRKY0ZwdVREc1VEUlpaMVd4SnNmYXpuVkl6emhQTkhnS2R3ckJuU21sQzhhWlJRUHdsX0MtNmRiYnI4TnBCaE41ZkliaDdVa0ItN1p6Q2dwQkt3OHhpSQ?oc=5",
+      "source": "Washington Post Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-04-21T07:00:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [
+        "financing"
+      ],
+      "vaccines": [
+        "influenza"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "Washington Post"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "Washington Post"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Washington Post Vaccines / Immunization"
       ]
     },
     {
@@ -2648,45 +2996,43 @@
       ]
     },
     {
-      "id": "b423e4b334aced78",
-      "title": "AZD1222ワクチンの第3相試験における重症コロナウイルスとデルタウイルス感染症の相関関係 - Nature",
-      "summary": "AZD1222ワクチンの第3相試験における重症型とデルタ型の新型コロナウイルス感染症の相関関係 Nature",
-      "summary_ai": "AZD1222ワクチンの第3相試験における重症型とデルタ型の新型コロナウイルス感染症の相関関係 Nature",
-      "title_original": "Correlates of severe and delta COVID-19 in a phase 3 trial of the AZD1222 vaccine - Nature",
-      "summary_original": "Correlates of severe and delta COVID-19 in a phase 3 trial of the AZD1222 vaccine Nature",
-      "summary_ai_original": "Correlates of severe and delta COVID-19 in a phase 3 trial of the AZD1222 vaccine Nature",
+      "id": "1925c372005c34cf",
+      "title": "RSVに対するアデノウイルスベクターワクチンを用いた新規口腔咽頭スプレー免疫の有効性に関する二重中心の非ヒト霊長類を対象とした確認的研究 – 得られた重要な教訓 – bioRxiv",
+      "summary": "RSVに対するアデノウイルスベクターワクチンによる新規口腔咽頭スプレー免疫の有効性に関する確認的な二重中心の非ヒト霊長類研究 – 得られた重要な教訓 bioRxiv",
+      "summary_ai": "RSVに対するアデノウイルスベクターワクチンによる新規口腔咽頭スプレー免疫の有効性に関する確認的な二重中心の非ヒト霊長類研究 – 得られた重要な教訓 bioRxiv",
+      "title_original": "A confirmatory, dual-centric non-human primate study on the efficacy of novel oropharyngeal spray immunization with an adenoviral vector vaccine against RSV – Important lessons learned - bioRxiv",
+      "summary_original": "A confirmatory, dual-centric non-human primate study on the efficacy of novel oropharyngeal spray immunization with an adenoviral vector vaccine against RSV – Important lessons learned bioRxiv",
+      "summary_ai_original": "A confirmatory, dual-centric non-human primate study on the efficacy of novel oropharyngeal spray immunization with an adenoviral vector vaccine against RSV – Important lessons learned bioRxiv",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JUTVfT203bTVHUHdSUUJscjhOMU9ja3kyczdpUG9hRkFoWDFPdnlnQS1QSVJrX1dwY2d2cTVBNUU4YnJqcDZKVi1YZnQxWXk5cVUwX3ZIdFJUNU9oWXln?oc=5",
-      "source": "Nature News Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hQWNfbkQ0RFZYZ29hY0hmbk5QdUZHSmZhUjhUQ2NVczF1VUNGUWxINDhnYTBJdE90LTVkZDV6MXJSWFlJa1h4LUluTS1oOVBHWUd1d3llUVJNcmFTSC0tbUNGSWh6Vnh0VEZIYg?oc=5",
+      "source": "bioRxiv vaccines",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
       "source_priority": 7,
-      "published_at": "2026-04-18T11:32:45+00:00",
+      "published_at": "2026-04-20T07:00:00+00:00",
       "topics": [
         "research"
       ],
       "policy_tags": [],
       "vaccines": [],
-      "variants": [
-        "delta"
-      ],
+      "variants": [],
       "target_country": "不明",
       "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "Nature News"
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "bioRxiv"
       },
       "plot": {
         "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "Nature News"
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "bioRxiv"
         },
         "target": {
           "key": "unknown",
@@ -2711,7 +3057,7 @@
       "lng": 0.0,
       "duplicate_count": 1,
       "duplicate_sources": [
-        "Nature News Vaccines / Immunization"
+        "bioRxiv vaccines"
       ]
     },
     {
@@ -2784,6 +3130,73 @@
       ]
     },
     {
+      "id": "b423e4b334aced78",
+      "title": "AZD1222ワクチンの第3相試験における重症コロナウイルスとデルタウイルス感染症の相関関係 - Nature",
+      "summary": "AZD1222ワクチンの第3相試験における重症型とデルタ型の新型コロナウイルス感染症の相関関係 Nature",
+      "summary_ai": "AZD1222ワクチンの第3相試験における重症型とデルタ型の新型コロナウイルス感染症の相関関係 Nature",
+      "title_original": "Correlates of severe and delta COVID-19 in a phase 3 trial of the AZD1222 vaccine - Nature",
+      "summary_original": "Correlates of severe and delta COVID-19 in a phase 3 trial of the AZD1222 vaccine Nature",
+      "summary_ai_original": "Correlates of severe and delta COVID-19 in a phase 3 trial of the AZD1222 vaccine Nature",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JUTVfT203bTVHUHdSUUJscjhOMU9ja3kyczdpUG9hRkFoWDFPdnlnQS1QSVJrX1dwY2d2cTVBNUU4YnJqcDZKVi1YZnQxWXk5cVUwX3ZIdFJUNU9oWXln?oc=5",
+      "source": "Nature News Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-04-18T07:00:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [
+        "delta"
+      ],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Nature News"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Nature News"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Nature News Vaccines / Immunization"
+      ]
+    },
+    {
       "id": "9cd646eb9011c621",
       "title": "予防接種の実施に関する諮問委員会 - ページ 9 - ニューヨーク・タイムズ",
       "summary": "予防接種の実施に関する諮問委員会 - ページ 9 ニューヨーク・タイムズ",
@@ -2851,7 +3264,7 @@
       ]
     },
     {
-      "id": "1f9157e882cae1a0",
+      "id": "884e3696b3063d17",
       "title": "オランダ、百日咳の監視とワクチンの有効性、2012年から2024年、2023年と2024年には前例のない急増 - Eurosurveillance",
       "summary": "オランダ、百日咳の監視とワクチンの有効性、2012年から2024年、2023年と2024年には前例のない急増",
       "summary_ai": "オランダ、百日咳の監視とワクチンの有効性、2012年から2024年、2023年と2024年には前例のない急増",
@@ -2859,12 +3272,12 @@
       "summary_original": "Surveillance and vaccine effectiveness of pertussis, the Netherlands, 2012 to 2024, with an unprecedented surge in 2023 and 2024 Eurosurveillance",
       "summary_ai_original": "Surveillance and vaccine effectiveness of pertussis, the Netherlands, 2012 to 2024, with an unprecedented surge in 2023 and 2024 Eurosurveillance",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQajZ0NUpUenY0M3pnS1g5TUtIeWt1OFJsRzN4bEFneU0xdEgyMklZams4VWpZZXhJT0hKOXFFdHZtSWNYNm9PbENKMTZzRVdOU0h3eXJnNmFTX2VDN0xjZjYxRTdVcUJKS3JobEtld2tUOWFpek1PcUlTR2NFaWFRMGw5R1ZkZ1k?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMHBYRlQwQVJjUGZiS2ZXaVNtS3pmaXZRekZweEg2RWVRZDBKT25iVVZZWnFNTmxwRWc0QkFKZjY2cTVua3F2U2xYV0MxUHBEMC1MUUdTazJZWE44bkdBazRuQUtrZ08tUEdBU1ItWHNxUzJSQXdWajhxT3I0NXByeHNCbXlMbXFxX3M1WGlDajRCMzhD?oc=5",
       "source": "Eurosurveillance",
       "source_type": "academic",
       "source_tier": "Tier 3",
       "source_priority": 8,
-      "published_at": "2026-04-16T18:01:51+00:00",
+      "published_at": "2026-04-16T07:00:00+00:00",
       "topics": [
         "research"
       ],
@@ -2916,22 +3329,21 @@
       ]
     },
     {
-      "id": "b6560aba40fa3821",
-      "title": "Re: ワクチン摂取量を増加させる介入の有効性: コンポーネントネットワークのメタ分析 - The BMJ",
-      "summary": "Re: ワクチン摂取量を増やすための介入の有効性: コンポーネントネットワークのメタ分析 The BMJ",
-      "summary_ai": "Re: ワクチン摂取量を増やすための介入の有効性: コンポーネントネットワークのメタ分析 The BMJ",
-      "title_original": "Re: Effectiveness of interventions to increase vaccine uptake: component network meta-analysis - The BMJ",
-      "summary_original": "Re: Effectiveness of interventions to increase vaccine uptake: component network meta-analysis The BMJ",
-      "summary_ai_original": "Re: Effectiveness of interventions to increase vaccine uptake: component network meta-analysis The BMJ",
+      "id": "de87dc18a71e4d57",
+      "title": "ワクチン接種率と集団保護の関連性：Vi結合体ワクチンのクラスターランダム化試験の探索的分析 - The Lancet",
+      "summary": "ワクチン接種率と集団保護の関連性：Vi結合体ワクチンのクラスターランダム化試験の探索的分析 The Lancet",
+      "summary_ai": "ワクチン接種率と集団保護の関連性：Vi結合体ワクチンのクラスターランダム化試験の探索的分析 The Lancet",
+      "title_original": "The association between vaccine coverage and herd protection: exploratory analyses of a cluster-randomised trial of Vi conjugate vaccine - The Lancet",
+      "summary_original": "The association between vaccine coverage and herd protection: exploratory analyses of a cluster-randomised trial of Vi conjugate vaccine The Lancet",
+      "summary_ai_original": "The association between vaccine coverage and herd protection: exploratory analyses of a cluster-randomised trial of Vi conjugate vaccine The Lancet",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qeXNQZk5UcTM4MnRaUzk5SGtJRkVFSlNPeW1QUmZLTk42ZVNhdVg1TDY4NjNZcjNEZmFqQnNRRmk2NU45ZGFDVTlCZ3ZpcFZybDdfVXQ5SVQweDlXM0JN?oc=5",
-      "source": "BMJ",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTUxFZm9sWG5jcTJSSmZlU0FkNVc5eWJZalFuaHRpdlM2ZkJIblRvM1BJbk1fNHByR0o0VjYwVlRNQVBab0o5d0JfazhST3l5MEFITDh3VGlTWUNjX1BuWEJxUXgtSDRPRks5TW1RczFRcW1yQmFwMGV5eGhUWjBaT1JkQ256bjRUdUQw?oc=5",
+      "source": "The Lancet series",
       "source_type": "academic",
       "source_tier": "Tier 3",
       "source_priority": 8,
-      "published_at": "2026-04-15T07:00:00+00:00",
+      "published_at": "2026-04-16T02:13:28+00:00",
       "topics": [
-        "communication",
         "research"
       ],
       "policy_tags": [],
@@ -2944,7 +3356,7 @@
         "lat": 51.5074,
         "lng": -0.1278,
         "region": "Europe",
-        "label": "BMJ / London"
+        "label": "The Lancet / London"
       },
       "plot": {
         "source": {
@@ -2953,74 +3365,7 @@
           "lat": 51.5074,
           "lng": -0.1278,
           "region": "Europe",
-          "label": "BMJ / London"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 2,
-      "duplicate_sources": [
-        "BMJ"
-      ]
-    },
-    {
-      "id": "4489b78ca98aa239",
-      "title": "６５歳定期接種の肺炎球菌ワクチンが新タイプに切り替え 柳沢慎吾さんが啓発アンバサダー - 読売新聞",
-      "summary": "６５歳定期接種の肺炎球菌ワクチンが新タイプに切り替え 柳沢慎吾さんが啓発アンバサダー 読売新聞",
-      "summary_ai": "６５歳定期接種の肺炎球菌ワクチンが新タイプに切り替え 柳沢慎吾さんが啓発アンバサダー 読売新聞",
-      "title_original": "６５歳定期接種の肺炎球菌ワクチンが新タイプに切り替え 柳沢慎吾さんが啓発アンバサダー - 読売新聞",
-      "summary_original": "６５歳定期接種の肺炎球菌ワクチンが新タイプに切り替え 柳沢慎吾さんが啓発アンバサダー 読売新聞",
-      "summary_ai_original": "６５歳定期接種の肺炎球菌ワクチンが新タイプに切り替え 柳沢慎吾さんが啓発アンバサダー 読売新聞",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNEp2LWlvUVloUnVQVElzdWFJMUZJWG0yTEFOV1ZTYW5USHYtTW1PaVhvdDZlMnkzRWp0VlhWSmlPTGhZQkg1V2U2S0VRQ2x0b0c5SHFVcFdKX2l6MENKNUNXZldhWXdPZlRJTFE3emhmd1dENklkSGZfcEZaWlRibkNVZVdnSFU3ZzQ1MVVuUQ?oc=5",
-      "source": "読売新聞 ワクチン / 予防接種",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-04-15T07:00:00+00:00",
-      "topics": [
-        "communication"
-      ],
-      "policy_tags": [
-        "communication"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "japan",
-        "name_ja": "日本",
-        "lat": 35.6762,
-        "lng": 139.6503,
-        "region": "Asia",
-        "label": "読売新聞"
-      },
-      "plot": {
-        "source": {
-          "key": "japan",
-          "name_ja": "日本",
-          "lat": 35.6762,
-          "lng": 139.6503,
-          "region": "Asia",
-          "label": "読売新聞"
+          "label": "The Lancet / London"
         },
         "target": {
           "key": "unknown",
@@ -3045,74 +3390,7 @@
       "lng": 0.0,
       "duplicate_count": 1,
       "duplicate_sources": [
-        "読売新聞 ワクチン / 予防接種"
-      ]
-    },
-    {
-      "id": "08fa027f0aece9ef",
-      "title": "肺炎による死亡者の９７．８％が高齢者 ＲＳウイルス、肺炎球菌…４月以降のワクチン接種スケジュールは？ - 読売新聞",
-      "summary": "肺炎による死亡者の９７．８％が高齢者 ＲＳウイルス、肺炎球菌…４月以降のワクチン接種スケジュールは？ 読売新聞",
-      "summary_ai": "肺炎による死亡者の９７．８％が高齢者 ＲＳウイルス、肺炎球菌…４月以降のワクチン接種スケジュールは？",
-      "title_original": "肺炎による死亡者の９７．８％が高齢者 ＲＳウイルス、肺炎球菌…４月以降のワクチン接種スケジュールは？ - 読売新聞",
-      "summary_original": "肺炎による死亡者の９７．８％が高齢者 ＲＳウイルス、肺炎球菌…４月以降のワクチン接種スケジュールは？ 読売新聞",
-      "summary_ai_original": "肺炎による死亡者の９７．８％が高齢者 ＲＳウイルス、肺炎球菌…４月以降のワクチン接種スケジュールは？",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcnNDZUVxSWhBWXN2N3U5Q1dISVZKWVRmWFkzRnN0bXl5ZThEekV0b3ZfMXgxeWpGaE9lTmNmcXFab2tuT2pSaXNsdy1BZjc5dEFGTVBSMEI5UjhGWkNlaDZvbldnR2tnMi1lM2UzX3NLTlBCaHlPY3h0czduOVVobk5ZNnpCdjlHbDZFbC02MA?oc=5",
-      "source": "読売新聞 ワクチン / 予防接種",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-04-15T07:00:00+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [
-        "schedule"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "japan",
-        "name_ja": "日本",
-        "lat": 35.6762,
-        "lng": 139.6503,
-        "region": "Asia",
-        "label": "読売新聞"
-      },
-      "plot": {
-        "source": {
-          "key": "japan",
-          "name_ja": "日本",
-          "lat": 35.6762,
-          "lng": 139.6503,
-          "region": "Asia",
-          "label": "読売新聞"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "読売新聞 ワクチン / 予防接種"
+        "The Lancet series"
       ]
     }
   ]
