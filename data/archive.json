@@ -1,10 +1,80 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-05-01T22:01:07.442107+00:00",
-  "archive_count": 183,
+  "generated_at": "2026-05-02T21:55:32.875269+00:00",
+  "archive_count": 184,
   "days_back": 14,
   "items": [
+    {
+      "id": "91b3f9a1774af1ce",
+      "title": "マラウイの農村部の若者の間でのワクチン接種への躊躇は、サブサウス地域における予防接種プログラムの継続的な課題として - medRxiv",
+      "summary": "マラウイの農村部の若者の間でのワクチン接種への躊躇が、中小地域の予防接種計画における当面の課題となっている medRxiv",
+      "summary_ai": "マラウイの農村部の若者の間でのワクチン接種への躊躇が、中小地域の予防接種計画における当面の課題となっている medRxiv",
+      "title_original": "vaccine hesitancy among youth in rural Malawi as a standing challenge for immunization programming in sub-S - medRxiv",
+      "summary_original": "vaccine hesitancy among youth in rural Malawi as a standing challenge for immunization programming in sub-S medRxiv",
+      "summary_ai_original": "vaccine hesitancy among youth in rural Malawi as a standing challenge for immunization programming in sub-S medRxiv",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBIVHVWMzBzeFRCV2UxWFBsRV9TcXZuQ2d4ZF9xSWcxR2ZUeFlVWG5UeXhBeERIYzV0OUUyRjE4X0Eza2ZVbWJfN2ZjVTZiSXgzclQxX2NzbkNIbmJkc3pnMTh0U0trZkxvQV8zQXFsTnRZd2MxbDJ1TEI2NA?oc=5",
+      "source": "medRxiv vaccines",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-05-02T02:22:57+00:00",
+      "topics": [
+        "communication",
+        "policy"
+      ],
+      "policy_tags": [
+        "communication"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "medRxiv"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "medRxiv"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "medRxiv vaccines"
+      ],
+      "first_seen_at": "2026-05-02T02:22:57+00:00",
+      "last_seen_at": "2026-05-02T21:57:09.238416+00:00"
+    },
     {
       "id": "12d29f3972ea305a",
       "title": "産業向け規制教育 (REdI) 年次会議 2026: 医療製品を前進させるための革新的な規制戦略 - 2026 年 5 月 19 日",
@@ -76,7 +146,145 @@
         "FDA Vaccines / Biologics"
       ],
       "first_seen_at": "2026-03-24T17:36:37+00:00",
-      "last_seen_at": "2026-05-01T22:03:19.804282+00:00"
+      "last_seen_at": "2026-05-02T21:57:09.238431+00:00"
+    },
+    {
+      "id": "08e1b0d97ab94939",
+      "title": "鳥インフルエンザ：英国でmRNAワクチンの治験が始まる - BMJ",
+      "summary": "鳥インフルエンザ：英国でmRNAワクチンの治験が始まる The BMJ",
+      "summary_ai": "鳥インフルエンザ：英国でmRNAワクチンの治験が始まる The BMJ",
+      "title_original": "Bird flu: mRNA vaccine trial begins in UK - The BMJ",
+      "summary_original": "Bird flu: mRNA vaccine trial begins in UK The BMJ",
+      "summary_ai_original": "Bird flu: mRNA vaccine trial begins in UK The BMJ",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE52SVVSbmRkdkJoNEpfMGM5aTh5MTVBM3pfNVp4RmtyMFRNaTVFZVpGRzQ4WTFPRVFsRUVDaEozUWdYTmhidFEzZ0QtcDkzeTdEX1FXajExVkZ3c0JPMUE?oc=5",
+      "source": "BMJ",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-05-01T17:44:39+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "covid"
+      ],
+      "variants": [],
+      "target_country": "英国",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BMJ / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BMJ / London"
+        },
+        "target": {
+          "key": "uk",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "英国"
+        }
+      },
+      "location": {
+        "key": "uk",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "英国"
+      },
+      "region": "Europe",
+      "country": "英国",
+      "lat": 51.5074,
+      "lng": -0.1278,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "BMJ"
+      ],
+      "first_seen_at": "2026-04-23T10:29:50+00:00",
+      "last_seen_at": "2026-05-02T21:57:09.238439+00:00"
+    },
+    {
+      "id": "749b91e9242d3a3d",
+      "title": "非ランダム化研究における新型コロナウイルス感染症ワクチンの推定有効性に影響を与える要因 - BMJ Evidence-Based Medicine",
+      "summary": "非ランダム化研究における新型コロナウイルス感染症ワクチンの推定有効性に影響を与える要因 BMJ Evidence-Based Medicine",
+      "summary_ai": "非ランダム化研究における新型コロナウイルス感染症ワクチンの推定有効性に影響を与える要因 BMJ Evidence-Based Medicine",
+      "title_original": "Factors influencing estimated effectiveness of COVID-19 vaccines in non-randomised studies - BMJ Evidence-Based Medicine",
+      "summary_original": "Factors influencing estimated effectiveness of COVID-19 vaccines in non-randomised studies BMJ Evidence-Based Medicine",
+      "summary_ai_original": "Factors influencing estimated effectiveness of COVID-19 vaccines in non-randomised studies BMJ Evidence-Based Medicine",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Jb3Vqalh5RlNDN1NPMXNwZ0VOMXJqQ1lkcWFnVmhvSmNneW5RTEVXczU5SDBoYjZtY0lEd3lMaVpZa1BTWnBHZVRFZExFVUpFUW0tZWVpelBrdDRMSDBtSQ?oc=5",
+      "source": "BMJ",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-05-01T03:31:04+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "covid"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BMJ / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BMJ / London"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "BMJ"
+      ],
+      "first_seen_at": "2026-03-22T11:09:14+00:00",
+      "last_seen_at": "2026-05-02T21:57:09.238445+00:00"
     },
     {
       "id": "0caf4c0a7b565f4a",
@@ -143,7 +351,7 @@
         "CIDRAP Vaccines & Immunization"
       ],
       "first_seen_at": "2026-04-30T19:42:00+00:00",
-      "last_seen_at": "2026-05-01T22:03:19.804309+00:00"
+      "last_seen_at": "2026-05-02T21:57:09.238452+00:00"
     },
     {
       "id": "e613dcca938c80a9",
@@ -212,7 +420,7 @@
         "Science Vaccines / Immunization"
       ],
       "first_seen_at": "2026-04-30T18:22:38+00:00",
-      "last_seen_at": "2026-05-01T22:03:19.804314+00:00"
+      "last_seen_at": "2026-05-02T21:57:09.238457+00:00"
     },
     {
       "id": "9f671c822d5294be",
@@ -281,7 +489,7 @@
         "AP Vaccines / Immunization"
       ],
       "first_seen_at": "2026-04-30T17:06:00+00:00",
-      "last_seen_at": "2026-05-01T22:03:19.804321+00:00"
+      "last_seen_at": "2026-05-02T21:57:09.238462+00:00"
     },
     {
       "id": "ed8522a99cdf1cb5",
@@ -355,7 +563,7 @@
         "PAHO News"
       ],
       "first_seen_at": "2026-04-30T14:44:14+00:00",
-      "last_seen_at": "2026-05-01T22:03:19.804327+00:00"
+      "last_seen_at": "2026-05-02T21:57:09.238469+00:00"
     },
     {
       "id": "aae6efcd2bacabc3",
@@ -428,7 +636,7 @@
         "FDA Vaccines / Biologics"
       ],
       "first_seen_at": "2026-04-30T13:32:29+00:00",
-      "last_seen_at": "2026-05-01T22:03:19.804332+00:00"
+      "last_seen_at": "2026-05-02T21:57:09.238476+00:00"
     },
     {
       "id": "47ec3707beaf6044",
@@ -562,7 +770,7 @@
         "STAT Vaccines / Immunization"
       ],
       "first_seen_at": "2026-04-30T00:41:02+00:00",
-      "last_seen_at": "2026-05-01T22:03:19.804342+00:00"
+      "last_seen_at": "2026-05-02T21:57:09.238482+00:00"
     },
     {
       "id": "7aa2d0fe25ab3b36",
@@ -633,7 +841,7 @@
         "CIDRAP Vaccines & Immunization"
       ],
       "first_seen_at": "2026-04-29T21:25:06+00:00",
-      "last_seen_at": "2026-05-01T22:03:19.804349+00:00"
+      "last_seen_at": "2026-05-02T21:57:09.238486+00:00"
     },
     {
       "id": "c9d441c251df380f",
@@ -709,7 +917,7 @@
         "MHRA"
       ],
       "first_seen_at": "2026-04-29T13:02:41+00:00",
-      "last_seen_at": "2026-05-01T22:03:19.804354+00:00"
+      "last_seen_at": "2026-05-02T21:57:09.238491+00:00"
     },
     {
       "id": "6cd4f3f8559c6102",
@@ -780,7 +988,7 @@
         "medRxiv vaccines"
       ],
       "first_seen_at": "2026-04-29T10:44:29+00:00",
-      "last_seen_at": "2026-05-01T22:03:19.804358+00:00"
+      "last_seen_at": "2026-05-02T21:57:09.238495+00:00"
     },
     {
       "id": "5d549e7af2ec9afb",
@@ -990,7 +1198,7 @@
         "FDA Vaccines / Biologics"
       ],
       "first_seen_at": "2026-04-28T13:43:25+00:00",
-      "last_seen_at": "2026-05-01T22:03:19.804370+00:00"
+      "last_seen_at": "2026-05-02T21:57:09.238504+00:00"
     },
     {
       "id": "0c28da02cab2a6ba",
@@ -1282,7 +1490,7 @@
         "MHRA"
       ],
       "first_seen_at": "2026-04-28T09:07:00+00:00",
-      "last_seen_at": "2026-05-01T22:03:19.804376+00:00"
+      "last_seen_at": "2026-05-02T21:57:09.238509+00:00"
     },
     {
       "id": "a096706166e0ee44",
@@ -1420,7 +1628,7 @@
         "STAT Vaccines / Immunization"
       ],
       "first_seen_at": "2026-04-28T00:13:07+00:00",
-      "last_seen_at": "2026-05-01T22:03:19.804384+00:00"
+      "last_seen_at": "2026-05-02T21:57:09.238516+00:00"
     },
     {
       "id": "fc6dc6a9815f999a",
@@ -1495,7 +1703,7 @@
         "PAHO News"
       ],
       "first_seen_at": "2026-04-27T17:54:35+00:00",
-      "last_seen_at": "2026-05-01T22:03:19.804389+00:00"
+      "last_seen_at": "2026-05-02T21:57:09.238521+00:00"
     },
     {
       "id": "50b6ecc93ecab108",
@@ -1639,7 +1847,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-03-21T20:12:40+00:00",
-      "last_seen_at": "2026-05-01T22:03:19.804395+00:00"
+      "last_seen_at": "2026-05-02T21:57:09.238526+00:00"
     },
     {
       "id": "8a4c1254b6ff56de",
@@ -1777,7 +1985,7 @@
         "medRxiv vaccines"
       ],
       "first_seen_at": "2026-04-26T02:06:29+00:00",
-      "last_seen_at": "2026-05-01T22:03:19.804401+00:00"
+      "last_seen_at": "2026-05-02T21:57:09.238531+00:00"
     },
     {
       "id": "6a4fcd8803c16621",
@@ -1915,7 +2123,7 @@
         "medRxiv vaccines"
       ],
       "first_seen_at": "2026-04-24T22:47:57+00:00",
-      "last_seen_at": "2026-05-01T22:03:19.804411+00:00"
+      "last_seen_at": "2026-05-02T21:57:09.238536+00:00"
     },
     {
       "id": "854ff1fefb0a2b09",
@@ -1982,7 +2190,7 @@
         "Science Vaccines / Immunization"
       ],
       "first_seen_at": "2026-04-24T21:48:47+00:00",
-      "last_seen_at": "2026-05-01T22:03:19.804416+00:00"
+      "last_seen_at": "2026-05-02T21:57:09.238540+00:00"
     },
     {
       "id": "805c372aa60f496f",
@@ -2268,7 +2476,7 @@
         "PAHO News"
       ],
       "first_seen_at": "2026-04-23T15:34:01+00:00",
-      "last_seen_at": "2026-05-01T22:03:19.804433+00:00"
+      "last_seen_at": "2026-05-02T21:57:09.238547+00:00"
     },
     {
       "id": "6f9f9ec4574c0c8a",
@@ -2338,75 +2546,6 @@
       ],
       "first_seen_at": "2026-04-23T14:45:02+00:00",
       "last_seen_at": "2026-04-25T21:51:57.181276+00:00"
-    },
-    {
-      "id": "08e1b0d97ab94939",
-      "title": "鳥インフルエンザ：英国でmRNAワクチンの治験が始まる - BMJ",
-      "summary": "鳥インフルエンザ：英国でmRNAワクチンの治験が始まる The BMJ",
-      "summary_ai": "鳥インフルエンザ：英国でmRNAワクチンの治験が始まる The BMJ",
-      "title_original": "Bird flu: mRNA vaccine trial begins in UK - The BMJ",
-      "summary_original": "Bird flu: mRNA vaccine trial begins in UK The BMJ",
-      "summary_ai_original": "Bird flu: mRNA vaccine trial begins in UK The BMJ",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE52SVVSbmRkdkJoNEpfMGM5aTh5MTVBM3pfNVp4RmtyMFRNaTVFZVpGRzQ4WTFPRVFsRUVDaEozUWdYTmhidFEzZ0QtcDkzeTdEX1FXajExVkZ3c0JPMUE?oc=5",
-      "source": "BMJ",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-04-23T10:29:50+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "covid"
-      ],
-      "variants": [],
-      "target_country": "英国",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BMJ / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BMJ / London"
-        },
-        "target": {
-          "key": "uk",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "英国"
-        }
-      },
-      "location": {
-        "key": "uk",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "英国"
-      },
-      "region": "Europe",
-      "country": "英国",
-      "lat": 51.5074,
-      "lng": -0.1278,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "BMJ"
-      ],
-      "first_seen_at": "2026-04-23T10:29:50+00:00",
-      "last_seen_at": "2026-05-01T22:03:19.804438+00:00"
     },
     {
       "id": "ab223e723b530bbe",
@@ -2539,7 +2678,7 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "duplicate_sources": [
         "bioRxiv vaccines"
       ],
@@ -2613,7 +2752,7 @@
         "Lancet Infectious Diseases"
       ],
       "first_seen_at": "2026-04-23T03:55:00+00:00",
-      "last_seen_at": "2026-05-01T22:03:19.804454+00:00"
+      "last_seen_at": "2026-05-02T21:57:09.238554+00:00"
     },
     {
       "id": "0293bb81e7fccaa3",
@@ -2629,7 +2768,7 @@
       "source_type": "media",
       "source_tier": "Tier 2",
       "source_priority": 7,
-      "published_at": "2026-04-22T20:59:00+00:00",
+      "published_at": "2026-04-22T07:00:00+00:00",
       "topics": [
         "research"
       ],
@@ -2682,7 +2821,7 @@
         "AP Vaccines / Immunization"
       ],
       "first_seen_at": "2026-04-22T20:59:00+00:00",
-      "last_seen_at": "2026-04-29T22:10:57.099705+00:00"
+      "last_seen_at": "2026-05-02T21:57:09.238573+00:00"
     },
     {
       "id": "8a3f36de3d2fcc35",
@@ -2698,7 +2837,7 @@
       "source_type": "media",
       "source_tier": "Tier 2",
       "source_priority": 8,
-      "published_at": "2026-04-22T12:58:38+00:00",
+      "published_at": "2026-04-22T07:00:00+00:00",
       "topics": [
         "research"
       ],
@@ -2749,7 +2888,7 @@
         "CIDRAP Vaccines & Immunization"
       ],
       "first_seen_at": "2026-04-22T12:58:38+00:00",
-      "last_seen_at": "2026-05-01T22:03:19.804459+00:00"
+      "last_seen_at": "2026-05-02T21:57:09.238558+00:00"
     },
     {
       "id": "491dfefc376a0f4d",
@@ -2818,7 +2957,7 @@
         "CIDRAP Vaccines & Immunization"
       ],
       "first_seen_at": "2026-04-22T16:55:00+00:00",
-      "last_seen_at": "2026-05-01T22:03:19.804464+00:00"
+      "last_seen_at": "2026-05-02T21:57:09.238563+00:00"
     },
     {
       "id": "48ab9b8566adfd44",
@@ -2887,7 +3026,7 @@
         "Nature News Vaccines / Immunization"
       ],
       "first_seen_at": "2026-04-22T15:13:41+00:00",
-      "last_seen_at": "2026-05-01T22:03:19.804472+00:00"
+      "last_seen_at": "2026-05-02T21:57:09.238576+00:00"
     },
     {
       "id": "2ea160edde6a7437",
@@ -2956,7 +3095,7 @@
         "Reuters Vaccines / Immunization"
       ],
       "first_seen_at": "2026-04-22T21:07:18+00:00",
-      "last_seen_at": "2026-05-01T22:03:19.804468+00:00"
+      "last_seen_at": "2026-05-02T21:57:09.238569+00:00"
     },
     {
       "id": "4902950b114eb457",
@@ -3025,7 +3164,7 @@
         "New York Times Vaccines / Immunization"
       ],
       "first_seen_at": "2026-04-22T15:08:16+00:00",
-      "last_seen_at": "2026-05-01T22:03:19.804476+00:00"
+      "last_seen_at": "2026-05-02T21:57:09.238581+00:00"
     },
     {
       "id": "5da4cc51c5fa53b9",
@@ -3094,7 +3233,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-03-06T01:51:01+00:00",
-      "last_seen_at": "2026-05-01T22:03:19.804479+00:00"
+      "last_seen_at": "2026-05-02T21:57:09.238584+00:00"
     },
     {
       "id": "5a9c4aa3a36ab98c",
@@ -3233,7 +3372,7 @@
         "Reuters Vaccines / Immunization"
       ],
       "first_seen_at": "2026-04-21T23:16:24+00:00",
-      "last_seen_at": "2026-05-01T22:03:19.804488+00:00"
+      "last_seen_at": "2026-05-02T21:57:09.238593+00:00"
     },
     {
       "id": "3855eaf7201c6d68",
@@ -3304,7 +3443,7 @@
         "Washington Post Vaccines / Immunization"
       ],
       "first_seen_at": "2026-04-22T06:01:00+00:00",
-      "last_seen_at": "2026-05-01T22:03:19.804497+00:00"
+      "last_seen_at": "2026-05-02T21:57:09.238600+00:00"
     },
     {
       "id": "55399a92e27d82d8",
@@ -3373,7 +3512,7 @@
         "BBC Vaccines / Immunization"
       ],
       "first_seen_at": "2026-04-21T23:00:08+00:00",
-      "last_seen_at": "2026-05-01T22:03:19.804493+00:00"
+      "last_seen_at": "2026-05-02T21:57:09.238597+00:00"
     },
     {
       "id": "3e45422ca6d774b1",
@@ -3440,7 +3579,7 @@
         "medRxiv vaccines"
       ],
       "first_seen_at": "2026-04-21T07:00:00+00:00",
-      "last_seen_at": "2026-05-01T22:03:19.804485+00:00"
+      "last_seen_at": "2026-05-02T21:57:09.238589+00:00"
     },
     {
       "id": "54aafed6eddf5900",
@@ -3507,7 +3646,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-04-21T05:01:19+00:00",
-      "last_seen_at": "2026-05-01T22:03:19.804502+00:00"
+      "last_seen_at": "2026-05-02T21:57:09.238603+00:00"
     },
     {
       "id": "4e6dd10ba82c4843",
@@ -3569,7 +3708,7 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicate_sources": [
         "bioRxiv vaccines"
       ],
@@ -3915,7 +4054,7 @@
       "country": "EU",
       "lat": 50.8503,
       "lng": 4.3517,
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicate_sources": [
         "medRxiv vaccines"
       ],
@@ -8776,75 +8915,6 @@
       ],
       "first_seen_at": "2026-03-11T03:59:50+00:00",
       "last_seen_at": "2026-04-06T21:50:30.741305+00:00"
-    },
-    {
-      "id": "749b91e9242d3a3d",
-      "title": "非ランダム化研究における新型コロナウイルス感染症ワクチンの推定有効性に影響を与える要因 - BMJ Evidence-Based Medicine",
-      "summary": "非ランダム化研究における新型コロナウイルス感染症ワクチンの推定有効性に影響を与える要因 BMJ Evidence-Based Medicine",
-      "summary_ai": "非ランダム化研究における新型コロナウイルス感染症ワクチンの推定有効性に影響を与える要因 BMJ Evidence-Based Medicine",
-      "title_original": "Factors influencing estimated effectiveness of COVID-19 vaccines in non-randomised studies - BMJ Evidence-Based Medicine",
-      "summary_original": "Factors influencing estimated effectiveness of COVID-19 vaccines in non-randomised studies BMJ Evidence-Based Medicine",
-      "summary_ai_original": "Factors influencing estimated effectiveness of COVID-19 vaccines in non-randomised studies BMJ Evidence-Based Medicine",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Jb3Vqalh5RlNDN1NPMXNwZ0VOMXJqQ1lkcWFnVmhvSmNneW5RTEVXczU5SDBoYjZtY0lEd3lMaVpZa1BTWnBHZVRFZExFVUpFUW0tZWVpelBrdDRMSDBtSQ?oc=5",
-      "source": "BMJ",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-03-23T14:01:38+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "covid"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BMJ / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BMJ / London"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "BMJ"
-      ],
-      "first_seen_at": "2026-03-22T11:09:14+00:00",
-      "last_seen_at": "2026-04-05T21:46:44.313177+00:00"
     },
     {
       "id": "203e08b445d307b9",
