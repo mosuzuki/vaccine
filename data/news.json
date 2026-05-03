@@ -1,8 +1,8 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-05-02T21:55:32.875269+00:00",
-  "item_count": 41,
+  "generated_at": "2026-05-03T21:56:30.427892+00:00",
+  "item_count": 40,
   "archive_count": 184,
   "days_back": 14,
   "plot_mode_default": "source",
@@ -23,7 +23,7 @@
       "name": "CDC Newsroom",
       "url": "https://tools.cdc.gov/api/v2/resources/media/316422.rss",
       "status": "ok",
-      "seen": 5,
+      "seen": 6,
       "kept": 0
     },
     {
@@ -96,22 +96,22 @@
       "name": "Lancet Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Athelancet.com%2Fjournals%2Flaninf&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 1,
-      "kept": 1
+      "seen": 4,
+      "kept": 2
     },
     {
       "name": "NEJM",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Anejm.org%20(trial%20OR%20effectiveness%20OR%20policy%20OR%20safety)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
       "name": "BMJ",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abmj.com%20(policy%20OR%20trial%20OR%20effectiveness%20OR%20communication)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 8,
-      "kept": 7
+      "seen": 10,
+      "kept": 8
     },
     {
       "name": "Vaccine journal",
@@ -131,7 +131,7 @@
       "name": "Eurosurveillance",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Aeurosurveillance.org&hl=en-US&gl=EU&ceid=EU%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
@@ -145,84 +145,84 @@
       "name": "medRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Amedrxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 18,
+      "seen": 19,
       "kept": 14
     },
     {
       "name": "bioRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abiorxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 9,
+      "seen": 11,
       "kept": 2
     },
     {
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 24,
+      "seen": 23,
       "kept": 5
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 97,
-      "kept": 2
+      "seen": 99,
+      "kept": 0
     },
     {
       "name": "AP Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 90,
+      "seen": 62,
       "kept": 2
     },
     {
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 13,
+      "seen": 11,
       "kept": 2
     },
     {
       "name": "Financial Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aft.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 9,
+      "seen": 11,
       "kept": 0
     },
     {
       "name": "STAT Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 29,
+      "seen": 27,
       "kept": 2
     },
     {
       "name": "Nature News Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 20,
+      "seen": 19,
       "kept": 1
     },
     {
       "name": "Science Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Ascience.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 10,
+      "seen": 8,
       "kept": 2
     },
     {
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 28,
-      "kept": 1
+      "seen": 19,
+      "kept": 0
     },
     {
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 16,
+      "seen": 17,
       "kept": 0
     },
     {
@@ -236,35 +236,35 @@
       "name": "NHK ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anhk.or.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 1,
+      "seen": 2,
       "kept": 0
     },
     {
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 99,
+      "seen": 57,
       "kept": 0
     },
     {
       "name": "朝日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Aasahi.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 5,
+      "seen": 8,
       "kept": 0
     },
     {
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 24,
+      "seen": 0,
       "kept": 0
     },
     {
       "name": "毎日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 23,
+      "seen": 19,
       "kept": 0
     }
   ],
@@ -886,6 +886,71 @@
       ]
     },
     {
+      "id": "47ec3707beaf6044",
+      "title": "肺外結核は予防ワクチンの治験で十分に研究されていない - BMJ",
+      "summary": "肺外結核は予防ワクチンの治験で十分に研究されていない BMJ",
+      "summary_ai": "肺外結核は予防ワクチンの治験で十分に研究されていない BMJ",
+      "title_original": "Extrapulmonary tuberculosis is understudied in preventive vaccine trials - The BMJ",
+      "summary_original": "Extrapulmonary tuberculosis is understudied in preventive vaccine trials The BMJ",
+      "summary_ai_original": "Extrapulmonary tuberculosis is understudied in preventive vaccine trials The BMJ",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55dHNMUEJqcHNhSnBpOW1CMWlkYVBSTlZ6NlhWc0RFMlZFMmNVOUN3Y3Z3R0R0U0R6bVBUMm5QZ3NaMEJ1clNCMU9QbkU3dWZxTWc?oc=5",
+      "source": "BMJ",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-04-30T12:07:12+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BMJ / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BMJ / London"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "BMJ"
+      ]
+    },
+    {
       "id": "af2c81d175fe57a9",
       "title": "ケネディ大統領のワクチン政策変更の多くを遅らせたHHS控訴判決 - statnews.com",
       "summary": "ケネディ大統領のワクチン政策変更の多くを遅らせたHHS控訴判決 statnews.com",
@@ -1160,6 +1225,73 @@
       "duplicate_count": 2,
       "duplicate_sources": [
         "medRxiv vaccines"
+      ]
+    },
+    {
+      "id": "5d549e7af2ec9afb",
+      "title": "タンザニアの成人と小児におけるアデノウイルスベクター狂犬病ワクチンの1年間にわたる単回投与の安全性と免疫原性：進行中の部分ランダム化比較対照第1b/2相試験の中間データ - The Lancet",
+      "summary": "タンザニアの成人と小児におけるアデノウイルスベクター狂犬病ワクチンの1年間にわたる単回投与の安全性と免疫原性：進行中の部分ランダム化比較対照第1b/2相試験の中間データ The Lancet",
+      "summary_ai": "タンザニアの成人と小児におけるアデノウイルスベクター狂犬病ワクチンの1年間にわたる単回投与の安全性と免疫原性：進行中の部分ランダム化比較対照第1b/2相試験の中間データ The Lancet",
+      "title_original": "Safety and immunogenicity of a single-dose adenovirus-vectored rabies vaccine over 1 year in adults and children in Tanzania: interim data from an ongoing, partly randomised, controlled, phase 1b/2 trial - The Lancet",
+      "summary_original": "Safety and immunogenicity of a single-dose adenovirus-vectored rabies vaccine over 1 year in adults and children in Tanzania: interim data from an ongoing, partly randomised, controlled, phase 1b/2 trial The Lancet",
+      "summary_ai_original": "Safety and immunogenicity of a single-dose adenovirus-vectored rabies vaccine over 1 year in adults and children in Tanzania: interim data from an ongoing, partly randomised, controlled, phase 1b/2 trial The Lancet",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeENkVVdaMlA1V1ZJTmVrYnNtcVRlWUZmNjFxMGdGNkFmVXJWWHZMY3lFa1VzVkJwbmczT1JmYkZvb2tjSE13YkFMRVBrSW1oeS1kaE1nbzUzMUxFYk9EVGo3a2ljNFB4SGZtRUx4WnlyTDlIZ2IzQnU0UThRaC1PQnFjQ1BydEU2NnBJ?oc=5",
+      "source": "Lancet Infectious Diseases",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-04-29T00:56:42+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [
+        "safety"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Lancet Infectious Diseases / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Lancet Infectious Diseases / London"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Lancet Infectious Diseases"
       ]
     },
     {
@@ -1796,7 +1928,7 @@
       "source_type": "media",
       "source_tier": "Tier 2",
       "source_priority": 7,
-      "published_at": "2026-04-24T21:30:00+00:00",
+      "published_at": "2026-04-24T07:00:00+00:00",
       "topics": [
         "research"
       ],
@@ -2321,73 +2453,6 @@
       ]
     },
     {
-      "id": "2ea160edde6a7437",
-      "title": "米CDC、新型コロナウイルスワクチンの有効性を示す報告書を公表しない - ロイター",
-      "summary": "米CDC、新型コロナウイルスワクチンの有効性を示す報告書を公表しない ロイター",
-      "summary_ai": "米CDC、新型コロナウイルスワクチンの有効性を示す報告書を公表しない ロイター",
-      "title_original": "US CDC will not publish report showing COVID vaccine effectiveness - Reuters",
-      "summary_original": "US CDC will not publish report showing COVID vaccine effectiveness Reuters",
-      "summary_ai_original": "US CDC will not publish report showing COVID vaccine effectiveness Reuters",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQRlp2MWpqZlI3dndUSi0ybHRWYkx2VWZFTVhaQ0F6enJUVF9mbW9Bd0JnLWxFTV9mLUJQN0FfbE5kdnY4MVdDYXZHNm5aa3NkUUh6V2ZIVGhGUUpmYndVaUFvcnFxLTFta015alJ6R1VfZ1c5T0d3MnhGYkx6OUE5TTBMUVl1V1NMSDlmS0xFSlpPQ2pzdV9jT2VwZE9DOW1sUGdIMFZjUEM5bEVjbTNvRGg0NHkzc2c5SjRpSnhUeU1NNVVWV2JrQmQ4QXowTGFqdXVaNVJIV0RmNlNZcmJra1hxaw?oc=5",
-      "source": "Reuters Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-04-22T07:00:00+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "covid"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "Reuters"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "Reuters"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Reuters Vaccines / Immunization"
-      ]
-    },
-    {
       "id": "0293bb81e7fccaa3",
       "title": "米国保健当局、新型コロナウイルスワクチンの有効性に関する研究発表を中止 - AP通信",
       "summary": "米国保健当局、新型コロナウイルスワクチンの有効性に関する研究発表を中止 AP通信",
@@ -2522,73 +2587,6 @@
       ]
     },
     {
-      "id": "4902950b114eb457",
-      "title": "CDC。新型コロナウイルスワクチンの利点を示す研究の出版を中止 - ニューヨーク・タイムズ",
-      "summary": "CDC。新型コロナワクチンの利点を示す研究の出版を中止 ニューヨーク・タイムズ",
-      "summary_ai": "新型コロナワクチンの利点を示す研究の出版を中止 ニューヨーク・タイムズ",
-      "title_original": "C.D.C. Cancels Publication of Study Showing Benefits of Covid Vaccines - The New York Times",
-      "summary_original": "C.D.C. Cancels Publication of Study Showing Benefits of Covid Vaccines The New York Times",
-      "summary_ai_original": "Cancels Publication of Study Showing Benefits of Covid Vaccines The New York Times",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUmtnRnNuUEhjVHR5cjEyUGNEdndnTWxQbHczNHUzWFR6aldhTjloRmxaQ3l6TC0tdFRCOGFKWFRSb1ljQmgtaUEtblpIS09LX2o4VEZhQ0pFaUc3TGJxdkJId3k5QWVmSHNZQm93Zml2WVZsaTdqbXNDV0hHeTFjUg?oc=5",
-      "source": "New York Times Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-04-22T07:00:00+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "covid"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "New York Times"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "New York Times"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "New York Times Vaccines / Immunization"
-      ]
-    },
-    {
       "id": "5da4cc51c5fa53b9",
       "title": "免疫介在性炎症性疾患患者における SARS-CoV-2 mRNA ワクチンの有効性に対する免疫抑制療法の影響 - BMJ Open",
       "summary": "免疫介在性炎症疾患患者における SARS-CoV-2 mRNA ワクチンの有効性に対する免疫抑制療法の影響 BMJ Open",
@@ -2718,73 +2716,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "medRxiv vaccines"
-      ]
-    },
-    {
-      "id": "190bdce1e1d8320a",
-      "title": "モデルナ、米国と英国で鳥インフルエンザワクチンの後期治験を開始 - ロイター",
-      "summary": "モデルナ、米国と英国で鳥インフルエンザワクチンの後期治験を開始 ロイター",
-      "summary_ai": "モデルナ、米国と英国で鳥インフルエンザワクチンの後期治験を開始 ロイター",
-      "title_original": "Moderna starts late-stage trial of bird flu vaccine in US, UK - Reuters",
-      "summary_original": "Moderna starts late-stage trial of bird flu vaccine in US, UK Reuters",
-      "summary_ai_original": "Moderna starts late-stage trial of bird flu vaccine in US, UK Reuters",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM1poSFNqbVphTEZJOC1ad1F1ZmRFVlQwXzZIbXVXd21vWE9INkJITTZWMWthZndKMUdZdURmYkFMMG5HcGI4UkEwTWY1NjlybG03R3JjZVV3cWYzQzJ5dDNENDV6QWZaZXFVcExxdGVXWkplMFpkekRRRkxvSTFQWEJjRG5kN3NnMnNVVFUtN2VPUHlVZjBQbk1kQ3hLNk1VX2RaVXVOT2RNYlU?oc=5",
-      "source": "Reuters Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-04-21T07:00:00+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "influenza"
-      ],
-      "variants": [],
-      "target_country": "英国",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "Reuters"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "Reuters"
-        },
-        "target": {
-          "key": "uk",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "英国"
-        }
-      },
-      "location": {
-        "key": "uk",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "英国"
-      },
-      "region": "Europe",
-      "country": "英国",
-      "lat": 51.5074,
-      "lng": -0.1278,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Reuters Vaccines / Immunization"
       ]
     },
     {
