@@ -1,9 +1,9 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-05-03T21:56:30.427892+00:00",
-  "item_count": 40,
-  "archive_count": 184,
+  "generated_at": "2026-05-04T22:12:55.374233+00:00",
+  "item_count": 38,
+  "archive_count": 185,
   "days_back": 14,
   "plot_mode_default": "source",
   "feed_status": [
@@ -44,7 +44,7 @@
       "url": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/biologics/rss.xml",
       "status": "ok",
       "seen": 20,
-      "kept": 3
+      "kept": 2
     },
     {
       "name": "EMA News",
@@ -82,7 +82,7 @@
       "name": "PAHO News",
       "url": "https://www.paho.org/en/rss.xml",
       "status": "ok",
-      "seen": 5,
+      "seen": 6,
       "kept": 3
     },
     {
@@ -111,7 +111,7 @@
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abmj.com%20(policy%20OR%20trial%20OR%20effectiveness%20OR%20communication)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
       "seen": 10,
-      "kept": 8
+      "kept": 7
     },
     {
       "name": "Vaccine journal",
@@ -138,91 +138,91 @@
       "name": "Human Vaccines & Immunotherapeutics",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Atandfonline.com%20%22Human%20Vaccines%20%26%20Immunotherapeutics%22&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
-      "kept": 0
+      "seen": 1,
+      "kept": 1
     },
     {
       "name": "medRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Amedrxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 19,
-      "kept": 14
+      "seen": 17,
+      "kept": 12
     },
     {
       "name": "bioRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abiorxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 11,
+      "seen": 14,
       "kept": 2
     },
     {
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 23,
-      "kept": 5
+      "seen": 24,
+      "kept": 3
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 99,
-      "kept": 0
+      "seen": 69,
+      "kept": 1
     },
     {
       "name": "AP Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 62,
-      "kept": 2
+      "seen": 83,
+      "kept": 1
     },
     {
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 11,
+      "seen": 8,
       "kept": 2
     },
     {
       "name": "Financial Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aft.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 11,
+      "seen": 14,
       "kept": 0
     },
     {
       "name": "STAT Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 27,
+      "seen": 32,
       "kept": 2
     },
     {
       "name": "Nature News Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 19,
+      "seen": 22,
       "kept": 1
     },
     {
       "name": "Science Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Ascience.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 8,
+      "seen": 7,
       "kept": 2
     },
     {
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 19,
+      "seen": 17,
       "kept": 0
     },
     {
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 17,
+      "seen": 20,
       "kept": 0
     },
     {
@@ -230,45 +230,318 @@
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
       "seen": 13,
-      "kept": 2
+      "kept": 1
     },
     {
       "name": "NHK ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anhk.or.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 2,
+      "seen": 1,
       "kept": 0
     },
     {
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 57,
+      "seen": 31,
       "kept": 0
     },
     {
       "name": "朝日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Aasahi.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 8,
+      "seen": 6,
       "kept": 0
     },
     {
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 0,
-      "kept": 0
+      "seen": 58,
+      "kept": 1
     },
     {
       "name": "毎日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 19,
+      "seen": 14,
       "kept": 0
     }
   ],
   "items": [
+    {
+      "id": "659d5ff0f45b04fe",
+      "title": "MAV/06 水痘ワクチンの安全性、免疫原性、有効性: 新型株ワクチンの包括的なレビュー - Taylor & Francis Online",
+      "summary": "MAV/06 水痘ワクチンの安全性、免疫原性、有効性: 新型株ワクチンの包括的なレビュー Taylor & Francis Online",
+      "summary_ai": "MAV/06 水痘ワクチンの安全性、免疫原性、有効性: 新型株ワクチンの包括的なレビュー Taylor & Francis Online",
+      "title_original": "Safety, immunogenicity, and effectiveness of the MAV/06 varicella vaccine: A comprehensive review of a new strain vaccine - Taylor & Francis Online",
+      "summary_original": "Safety, immunogenicity, and effectiveness of the MAV/06 varicella vaccine: A comprehensive review of a new strain vaccine Taylor & Francis Online",
+      "summary_ai_original": "Safety, immunogenicity, and effectiveness of the MAV/06 varicella vaccine: A comprehensive review of a new strain vaccine Taylor & Francis Online",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5zMHhlaVc2RUFodGs5Q2FaYmZyWG1nQVJpNkRuWnp3RTBHRVBKNm1sSmhYY0I2VlQ4a2dEc3p5cnNoRElBY0VRS3VBMkJod29SYjFETXVhTlYzcGFPYjNvOGVxb1BaUUY0WGVyQXNVLVJuNXc?oc=5",
+      "source": "Human Vaccines & Immunotherapeutics",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-05-04T19:04:06+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [
+        "safety"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "HV&I"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "HV&I"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Human Vaccines & Immunotherapeutics"
+      ]
+    },
+    {
+      "id": "12d29f3972ea305a",
+      "title": "産業向け規制教育 (REdI) 年次会議 2026: 医療製品を前進させるための革新的な規制戦略 - 2026 年 5 月 19 日",
+      "summary": "医薬品、機器、生物製剤などの医療製品センターの FDA 規制専門家から直接学びましょう。",
+      "summary_ai": "対象読者 医薬品 - 新薬申請の開発と準備、医薬品の安全性、IT に取り組む規制関係者およびその他の専門家 - スポンサー、申請者、メーカー、臨床研究者、および insi の取得を希望する規制関係専門家",
+      "title_original": "Regulatory Education for Industry (REdI) Annual Conference 2026: Innovative Regulatory Strategies to Advance Medical Products - 05/19/2026",
+      "summary_original": "Learn directly from the FDA’s regulatory experts in medical product centers: drugs, devices, and biologics.",
+      "summary_ai_original": "Intended Audience Drugs - Regulatory affairs and other professionals working on the development and preparation of new drug submissions, drug safety and IT - Sponsors, applicant holders, manufacturers, clinical researchers and regulatory affairs professionals wishing to gain insi",
+      "article_text_original": "- Date: - May 19 - 20, 2026 - Day1: - Tue, May 19 9:00 a.m. - 04:50 p.m. ET - Day2: - Wed, May 20 9:00 a.m. - 03:50 p.m. ET - Location: - Event LocationAttend In Person or Online Virtual: Via Adobe Connect In Person: FDA White Oak Campus 10903 New Hampshire Ave, Building 31 The Great Room Silver Spring, MD 20903 United States Save the Date Agenda Coming Soon Drugs, Devices, and Biologics Tracks will Offer an Opportunity for 1:1 Questions Learn directly from the FDA’s regulatory experts in medical product centers: drugs, devices, and biologics. This course is designed to provide participants with a strong, basic foundation in the FDA’s regulatory requirements, and also create awareness of current activities. Intended Audience Drugs - Regulatory affairs and other professionals working on the development and preparation of new drug submissions, drug safety and IT - Sponsors, applicant holders, manufacturers, clinical researchers and regulatory affairs professionals wishing to gain insight on INDs, NDAs and BLAs - Industry professionals at all levels of expertise Devices - A new regulatory affairs specialist wanting to learn some basics and best practices for getting started with FDA’s regulation of medical devices. - A researcher of a medical device seeking to learn about the valid scientific evidence requirements needed to support new medical device regulatory submissions. - An establishment seeking to understand their regulatory responsibilities for maintaining their quality system to ensure their device is stay and effective after it’s legally marketed and in commercial distribution. Biologics - Biotechnology product manufacturers, academic sponsors, and other stakeholders working on the development of biological products - Regulatory affairs and other professionals working with submissions of INDs, IDEs, and BLAs, and PMAs to the Center for Biologics Evaluation and Research - Industry and consulting professionals working with advanced therapies, allergenics, blood and vaccine products, and devices used with biological products Topics Covered - Advanced Drug Manufacturing in CDER - Use of AI to Advance Drug Development - FDA’s Quality Management System Regulation (QMSR) - Small Business Determination Program Updates - Use of Digital Health Technologies for Data Collection in Clinical Trials - Benefit-Risk Framework and Analytical Methods to Inform Benefit-Risk - …Many others Continuing Education (CE) Real-time attendance is required for the certificate of attendance which can be used in support of CEs for the following professional organizations. Certificates are only available during the two weeks post-event. This course has been pre-approved by: - RAPS as eligible for a maximum of 12 credits for a two-day event (appropriate to real-time attendance) towards a participant’s RAC recertification upon full completion. - SOCRA who accepts documentation of candidate participation in continuing education programs for re-certification if the program is applicable to clinical research regulations, operations or management, or to the candidate's clinical research therapeutic area. - SQA as eligible for 1 non-GCP or non-GLP unit for every 1 hour of instructional time towards a participant’s RQAP re-registration. - ACRP for continuing education in clinical research. ACRP will provide 1 ACRP contact hour for every 45-60 minutes of qualified material. FDA Resources Drugs - CDER SBIA Learn: Webinars, Conferences, Trainings - Search for Regulatory References | Drugs - Guidance Documents for Drug Applications Devices Biologics More Information Food and Drink - Public meeting attendees may bring their own food and drink as campus access is restricted to the immediate meeting area - For this event, light refreshments, sandwiches/wraps/salads are available for pre-order during the registration process. Payment will be made when the order is picked up on site - Lunch selections must be made at time of registration. Changes cannot be accommodated after registration is complete. REdI Lunch Menu - Restaurants near the FDA White Oak campus are available. Before leaving, meeting attendees should consider the amount of time needed to return to campus and go through security screening.",
+      "link": "http://www.fda.gov/news-events/regulatory-education-industry-redi-annual-conference-2026-innovative-regulatory-strategies-advance",
+      "source": "FDA Vaccines / Biologics",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 9,
+      "published_at": "2026-05-04T12:54:46+00:00",
+      "topics": [
+        "communication",
+        "policy",
+        "research"
+      ],
+      "policy_tags": [
+        "approval",
+        "communication",
+        "safety"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "米国",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "FDA / Silver Spring"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "FDA / Silver Spring"
+        },
+        "target": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "米国"
+        }
+      },
+      "location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "米国"
+      },
+      "region": "North America",
+      "country": "米国",
+      "lat": 38.9072,
+      "lng": -77.0369,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "FDA Vaccines / Biologics"
+      ]
+    },
+    {
+      "id": "54aafed6eddf5900",
+      "title": "RSV：母親のワクチンにより乳児の入院が80％減少、研究結果 - The BMJ",
+      "summary": "RSV：母親のワクチンにより乳児の入院が80％減少、研究結果が判明 The BMJ",
+      "summary_ai": "RSV：母親のワクチンにより乳児の入院が80％減少、研究結果が判明 The BMJ",
+      "title_original": "RSV: Maternal vaccine cuts infant hospital admissions by 80%, study shows - The BMJ",
+      "summary_original": "RSV: Maternal vaccine cuts infant hospital admissions by 80%, study shows The BMJ",
+      "summary_ai_original": "RSV: Maternal vaccine cuts infant hospital admissions by 80%, study shows The BMJ",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBZN09UaWNabkx2Nk5xSk82WlE5V2hTU0xiVzI3cnVEMmItNjZhR2VlVW5VazRFcTZlcEdWOTNyMHl5c295dzE4bFhjem1TSWtKSDlJNXNUT1Y0MUlRYkE?oc=5",
+      "source": "BMJ",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-05-04T04:49:19+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BMJ / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BMJ / London"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "BMJ"
+      ]
+    },
+    {
+      "id": "60fd65e7bbff310b",
+      "title": "ノーミクロン優勢時の重篤な新型コロナウイルス感染症に対する異種3回目ワクチン接種スケジュールの有効性の比較 - The BMJ",
+      "summary": "ノーのオミクロン優勢期間における重篤な covid-19 に対する異種 3 回目の接種スケジュールの有効性の比較 The BMJ",
+      "summary_ai": "ノーのオミクロン優勢期間における重篤な covid-19 に対する異種 3 回目の接種スケジュールの有効性の比較 The BMJ",
+      "title_original": "Comparative effectiveness of heterologous third dose vaccine schedules against severe covid-19 during omicron predominance in No - The BMJ",
+      "summary_original": "Comparative effectiveness of heterologous third dose vaccine schedules against severe covid-19 during omicron predominance in No The BMJ",
+      "summary_ai_original": "Comparative effectiveness of heterologous third dose vaccine schedules against severe covid-19 during omicron predominance in No The BMJ",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XMlUyRHlxQXRaUnFGNjhNcGJqNFVMNlBaQlo2bzNoMHhTSzNsS0dFMVJFamxSOHIyaFJGaE5IVmFYaXNudFo5WFlsSHVYbm9SVDRQUGVHNWJ1aXFrQkJUejdNYzNtVVhuZ191NQ?oc=5",
+      "source": "BMJ",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-05-03T23:15:58+00:00",
+      "topics": [
+        "policy",
+        "research"
+      ],
+      "policy_tags": [
+        "schedule"
+      ],
+      "vaccines": [],
+      "variants": [
+        "omicron"
+      ],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BMJ / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BMJ / London"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "BMJ"
+      ]
+    },
     {
       "id": "91b3f9a1774af1ce",
       "title": "マラウイの農村部の若者の間でのワクチン接種への躊躇は、サブサウス地域における予防接種プログラムの継続的な課題として - medRxiv",
@@ -335,77 +608,6 @@
       "duplicate_count": 2,
       "duplicate_sources": [
         "medRxiv vaccines"
-      ]
-    },
-    {
-      "id": "12d29f3972ea305a",
-      "title": "産業向け規制教育 (REdI) 年次会議 2026: 医療製品を前進させるための革新的な規制戦略 - 2026 年 5 月 19 日",
-      "summary": "医薬品、機器、生物製剤などの医療製品センターの FDA 規制専門家から直接学びましょう。",
-      "summary_ai": "対象読者 医薬品 - 新薬申請の開発と準備、医薬品の安全性、IT に取り組む規制関係者およびその他の専門家 - スポンサー、申請者、メーカー、臨床研究者、および insi の取得を希望する規制関係専門家",
-      "title_original": "Regulatory Education for Industry (REdI) Annual Conference 2026: Innovative Regulatory Strategies to Advance Medical Products - 05/19/2026",
-      "summary_original": "Learn directly from the FDA’s regulatory experts in medical product centers: drugs, devices, and biologics.",
-      "summary_ai_original": "Intended Audience Drugs - Regulatory affairs and other professionals working on the development and preparation of new drug submissions, drug safety and IT - Sponsors, applicant holders, manufacturers, clinical researchers and regulatory affairs professionals wishing to gain insi",
-      "article_text_original": "- Date: - May 19 - 20, 2026 - Day1: - Tue, May 19 9:00 a.m. - 04:50 p.m. ET - Day2: - Wed, May 20 9:00 a.m. - 03:50 p.m. ET - Location: - Event LocationAttend In Person or Online Virtual: Via Adobe Connect In Person: FDA White Oak Campus 10903 New Hampshire Ave, Building 31 The Great Room Silver Spring, MD 20903 United States Save the Date Agenda Coming Soon Drugs, Devices, and Biologics Tracks will Offer an Opportunity for 1:1 Questions Learn directly from the FDA’s regulatory experts in medical product centers: drugs, devices, and biologics. This course is designed to provide participants with a strong, basic foundation in the FDA’s regulatory requirements, and also create awareness of current activities. Intended Audience Drugs - Regulatory affairs and other professionals working on the development and preparation of new drug submissions, drug safety and IT - Sponsors, applicant holders, manufacturers, clinical researchers and regulatory affairs professionals wishing to gain insight on INDs, NDAs and BLAs - Industry professionals at all levels of expertise Devices - A new regulatory affairs specialist wanting to learn some basics and best practices for getting started with FDA’s regulation of medical devices. - A researcher of a medical device seeking to learn about the valid scientific evidence requirements needed to support new medical device regulatory submissions. - An establishment seeking to understand their regulatory responsibilities for maintaining their quality system to ensure their device is stay and effective after it’s legally marketed and in commercial distribution. Biologics - Biotechnology product manufacturers, academic sponsors, and other stakeholders working on the development of biological products - Regulatory affairs and other professionals working with submissions of INDs, IDEs, and BLAs, and PMAs to the Center for Biologics Evaluation and Research - Industry and consulting professionals working with advanced therapies, allergenics, blood and vaccine products, and devices used with biological products Topics Covered - Advanced Drug Manufacturing in CDER - Use of AI to Advance Drug Development - FDA’s Quality Management System Regulation (QMSR) - Small Business Determination Program Updates - Use of Digital Health Technologies for Data Collection in Clinical Trials - Benefit-Risk Framework and Analytical Methods to Inform Benefit-Risk - …Many others Continuing Education (CE) Real-time attendance is required for the certificate of attendance which can be used in support of CEs for the following professional organizations. Certificates are only available during the two weeks post-event. This course has been pre-approved by: - RAPS as eligible for a maximum of 12 credits for a two-day event (appropriate to real-time attendance) towards a participant’s RAC recertification upon full completion. - SOCRA who accepts documentation of candidate participation in continuing education programs for re-certification if the program is applicable to clinical research regulations, operations or management, or to the candidate's clinical research therapeutic area. - SQA as eligible for 1 non-GCP or non-GLP unit for every 1 hour of instructional time towards a participant’s RQAP re-registration. - ACRP for continuing education in clinical research. ACRP will provide 1 ACRP contact hour for every 45-60 minutes of qualified material. FDA Resources Drugs - CDER SBIA Learn: Webinars, Conferences, Trainings - Search for Regulatory References | Drugs - Guidance Documents for Drug Applications Devices Biologics More Information Food and Drink - Public meeting attendees may bring their own food and drink as campus access is restricted to the immediate meeting area - For this event, light refreshments, sandwiches/wraps/salads are available for pre-order during the registration process. Payment will be made when the order is picked up on site - Lunch selections must be made at time of registration. Changes cannot be accommodated after registration is complete. REdI Lunch Menu - Restaurants near the FDA White Oak campus are available. Before leaving, meeting attendees should consider the amount of time needed to return to campus and go through security screening.",
-      "link": "http://www.fda.gov/news-events/regulatory-education-industry-redi-annual-conference-2026-innovative-regulatory-strategies-advance",
-      "source": "FDA Vaccines / Biologics",
-      "source_type": "official",
-      "source_tier": "Tier 1",
-      "source_priority": 9,
-      "published_at": "2026-05-01T18:03:21+00:00",
-      "topics": [
-        "communication",
-        "policy",
-        "research"
-      ],
-      "policy_tags": [
-        "approval",
-        "communication",
-        "safety"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "米国",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "FDA / Silver Spring"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "FDA / Silver Spring"
-        },
-        "target": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "米国"
-        }
-      },
-      "location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "米国"
-      },
-      "region": "North America",
-      "country": "米国",
-      "lat": 38.9072,
-      "lng": -77.0369,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "FDA Vaccines / Biologics"
       ]
     },
     {
@@ -476,110 +678,45 @@
       ]
     },
     {
-      "id": "749b91e9242d3a3d",
-      "title": "非ランダム化研究における新型コロナウイルス感染症ワクチンの推定有効性に影響を与える要因 - BMJ Evidence-Based Medicine",
-      "summary": "非ランダム化研究における新型コロナウイルス感染症ワクチンの推定有効性に影響を与える要因 BMJ Evidence-Based Medicine",
-      "summary_ai": "非ランダム化研究における新型コロナウイルス感染症ワクチンの推定有効性に影響を与える要因 BMJ Evidence-Based Medicine",
-      "title_original": "Factors influencing estimated effectiveness of COVID-19 vaccines in non-randomised studies - BMJ Evidence-Based Medicine",
-      "summary_original": "Factors influencing estimated effectiveness of COVID-19 vaccines in non-randomised studies BMJ Evidence-Based Medicine",
-      "summary_ai_original": "Factors influencing estimated effectiveness of COVID-19 vaccines in non-randomised studies BMJ Evidence-Based Medicine",
+      "id": "08fa027f0aece9ef",
+      "title": "肺炎による死亡者の９７．８％が高齢者 ＲＳウイルス、肺炎球菌…４月以降のワクチン接種スケジュールは？ - 読売新聞",
+      "summary": "肺炎による死亡者の９７．８％が高齢者 ＲＳウイルス、肺炎球菌…４月以降のワクチン接種スケジュールは？ 読売新聞",
+      "summary_ai": "肺炎による死亡者の９７．８％が高齢者 ＲＳウイルス、肺炎球菌…４月以降のワクチン接種スケジュールは？",
+      "title_original": "肺炎による死亡者の９７．８％が高齢者 ＲＳウイルス、肺炎球菌…４月以降のワクチン接種スケジュールは？ - 読売新聞",
+      "summary_original": "肺炎による死亡者の９７．８％が高齢者 ＲＳウイルス、肺炎球菌…４月以降のワクチン接種スケジュールは？ 読売新聞",
+      "summary_ai_original": "肺炎による死亡者の９７．８％が高齢者 ＲＳウイルス、肺炎球菌…４月以降のワクチン接種スケジュールは？",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Jb3Vqalh5RlNDN1NPMXNwZ0VOMXJqQ1lkcWFnVmhvSmNneW5RTEVXczU5SDBoYjZtY0lEd3lMaVpZa1BTWnBHZVRFZExFVUpFUW0tZWVpelBrdDRMSDBtSQ?oc=5",
-      "source": "BMJ",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-05-01T03:31:04+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "covid"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BMJ / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BMJ / London"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "BMJ"
-      ]
-    },
-    {
-      "id": "0caf4c0a7b565f4a",
-      "title": "要点：ワクチン変更中止の判決を訴え、バタチャリヤ氏はニキシング研究、ネバダ州ハンタウイルス事件を擁護 - CIDRAP",
-      "summary": "要点：ワクチン変更中止の判決を訴え、バタチャリヤ氏はニキシング研究、ネバダ州のハンタウイルス事件を擁護 CIDRAP",
-      "summary_ai": "要点：ワクチン変更中止の判決を訴え、バタチャリヤ氏はニキシング研究、ネバダ州のハンタウイルス事件を擁護 CIDRAP",
-      "title_original": "Quick takes: Appeal to ruling halting vaccine changes, Bhattacharya defends nixing study, hantavirus case in Nevada - CIDRAP",
-      "summary_original": "Quick takes: Appeal to ruling halting vaccine changes, Bhattacharya defends nixing study, hantavirus case in Nevada CIDRAP",
-      "summary_ai_original": "Quick takes: Appeal to ruling halting vaccine changes, Bhattacharya defends nixing study, hantavirus case in Nevada CIDRAP",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUzlhSk5STDE4amJtUEJSUjY3MVlVMVlqRk0tVF9mZVo4dGtsZGRSTEZGZS1wZGd2cUszYVdBSFFscmhhVm1PQ1duR2tTNENFUDZORmZEdUpNQ1BvY2Y1NlNGOUU2R0NjZHU2eTZyaGFOT19yMmtrbmpESDlLa2VySlktcjQxcl9lRGlKUXY4cktZdGZYREZJRV85bWVKQk5UUUw2bkdsd09mdExIdkpZRlJ3S1VUc0JkcmI2V2xB?oc=5",
-      "source": "CIDRAP Vaccines & Immunization",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcnNDZUVxSWhBWXN2N3U5Q1dISVZKWVRmWFkzRnN0bXl5ZThEekV0b3ZfMXgxeWpGaE9lTmNmcXFab2tuT2pSaXNsdy1BZjc5dEFGTVBSMEI5UjhGWkNlaDZvbldnR2tnMi1lM2UzX3NLTlBCaHlPY3h0czduOVVobk5ZNnpCdjlHbDZFbC02MA?oc=5",
+      "source": "読売新聞 ワクチン / 予防接種",
       "source_type": "media",
       "source_tier": "Tier 2",
-      "source_priority": 8,
-      "published_at": "2026-04-30T19:42:00+00:00",
+      "source_priority": 7,
+      "published_at": "2026-05-01T07:00:00+00:00",
       "topics": [
-        "research"
+        "policy"
       ],
-      "policy_tags": [],
+      "policy_tags": [
+        "schedule"
+      ],
       "vaccines": [],
       "variants": [],
       "target_country": "不明",
       "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "CIDRAP / Minnesota"
+        "key": "japan",
+        "name_ja": "日本",
+        "lat": 35.6762,
+        "lng": 139.6503,
+        "region": "Asia",
+        "label": "読売新聞"
       },
       "plot": {
         "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "CIDRAP / Minnesota"
+          "key": "japan",
+          "name_ja": "日本",
+          "lat": 35.6762,
+          "lng": 139.6503,
+          "region": "Asia",
+          "label": "読売新聞"
         },
         "target": {
           "key": "unknown",
@@ -604,7 +741,7 @@
       "lng": 0.0,
       "duplicate_count": 1,
       "duplicate_sources": [
-        "CIDRAP Vaccines & Immunization"
+        "読売新聞 ワクチン / 予防接種"
       ]
     },
     {
@@ -736,10 +873,9 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicate_sources": [
-        "AP Vaccines / Immunization",
-        "Washington Post Vaccines / Immunization"
+        "AP Vaccines / Immunization"
       ]
     },
     {
@@ -1360,78 +1496,6 @@
       ]
     },
     {
-      "id": "5e094e6b1edef514",
-      "title": "申請書の提出に関するガイダンス",
-      "summary": "このページには、申請提出ガイダンス文書がリストされています。",
-      "summary_ai": "年別の申請提出ガイダンス - 急性白血病治療の反応評価のための臨床試験データセットを提出するための技術仕様。業界技術仕様書 OCE/CDER/CBER 向けガイダンス、2025 年 10 月 - 規制サブムの提供",
-      "title_original": "Application Submissions Guidances",
-      "summary_original": "This page lists Application Submissions Guidance documents.",
-      "summary_ai_original": "Application Submissions Guidances by Year - Technical Specifications for Submitting Clinical Trial Data Sets for Response Assessments for Treatments of Acute Leukemias; Guidance for Industry Technical Specifications Document OCE/CDER/CBER, October 2025 - Providing Regulatory Subm",
-      "article_text_original": "Should you find a Web link (URL) embedded within guidance documents that does not work or other documents posted on the FDA Web site, please try searching for the document using the document title. If you need further assistance, please go to Contact FDA. Application Submissions Guidances by Year - Technical Specifications for Submitting Clinical Trial Data Sets for Response Assessments for Treatments of Acute Leukemias; Guidance for Industry Technical Specifications Document OCE/CDER/CBER, October 2025 - Providing Regulatory Submissions in Electronic Format - Certain Human Pharmaceutical Product Applications and Related Submissions Using the eCTD Specifications; Guidance for Industry CDER/CBER, September 2024 - Providing Regulatory Submissions in Electronic Format: IND Safety Reports; Guidance for Industry CDER/CBER/OCE, April 2024 - Charging for Investigational Drugs Under an IND: Questions and Answers CDER/CBER/OCLiP/OCE, February 2024 - Study Data Technical Conformance Guide - Technical Specifications Document; Guidance for Industry CDER/CBER, May 2023 - Identification of Medicinal Products — Implementation and Use; Guidance for Industry CDER/CBER, March 2023 - Electronic Submission of IND Safety Reports Technical Conformance Guide; Guidance for Industry CDER/CBER/OCE, April 2022 - Providing Submissions in Electronic Format—Postmarketing Safety Reports; Guidance for Industry CDER/CBER, April 2022 - Providing Regulatory Submissions in Electronic and Non-Electronic Format—Promotional Labeling and Advertising Materials for Human Prescription Drugs; Guidance for Industry CDER/CBER, April 2022 - Providing Regulatory Submissions in Alternate Electronic Format; Guidance for Industry CDER/CBER, July 2021 - Providing Regulatory Submissions in Electronic Format - Standardized Study Data; Guidance for Industry CDER/CBER, June 2021 - Providing Regulatory Submissions in Electronic Format --Content of the Risk Evaluation and Mitigation Strategies Document Using Structured Product Labeling; Guidance for Industry CDER/CBER, December 2020 - Qualification Process for Drug Development Tools; Guidance for Industry and FDA Staff CDER/CBER, November 2020 - Electronic Submission of IND Safety Reports Technical Conformance Guide; Guidance for Industry CDER/CBER/OCE, October 2019 - Providing Regulatory Submissions in Electronic Format: IND Safety Reports; Draft Guidance for Industry CDER/CBER/OCE, October 2019 - Standards Development and the Use of Standards in Regulatory Submissions Reviewed in the Center for Biologics Evaluation and Research; Draft Guidance for Industry and Food and Drug Administration Staff CBER, March 2019 (This guidance finalizes the draft guidance of the same title dated December 2017.) - Refuse to Accept Policy for 510(k)s; Guidance for Industry and Food and Drug Administration Staff CDRH/CBER, February 2019 - Providing Lot Release Protocol Submissions to the Center for Biologics Evaluation and Research (CBER) in Electronic Format; Guidance for Industry CBER, February 2019 - Rare Diseases: Early Drug Development and the Role of Pre-IND Meetings; Draft Guidance for Industry CDER/CBER, October 2018 - Submitting Study Datasets for Vaccines to the Office of Vaccines Research and Review; Guidance for Industry; Technical Specifications Document CBER, April 2018 - Formal Meetings With Sponsors and Applicants for PDUFA Products; Draft Guidance for Industry CDER/CBER, December 2017 - Best Practices for Communication Between IND Sponsors and FDA During Drug Development; Draft Guidance for Industry and Review Staff CDER/CBER, December 2017 - Expanded Access to Investigational Drugs for Treatment Use - Qs & As CDER/CBER, October 2017 - Individual Patient Expanded Access Applications: Form FDA 3926 CDER/CBER, October 2017 - FDA and Industry Actions on Premarket Notification (510(k)) Submissions: Effect on FDA Review Clock and Goals; Guidance for Industry and Food and Drug Administration Staff CDRH/CBER, October 2017 - FDA and Industry Actions on Premarket Approval Applications (PMAs): Effect on FDA Review Clock and Goals; Guidance for Industry and Food and Drug Administration Staff CDRH/CBER, October 2017 - Tropical Disease Priority Review Vouchers; Guidance for Industry CDER/CBER, October 2016 - Comparability Protocols for Human Drugs and Biologics: Chemistry, Manufacturing, and Controls Information; Guidance for Industry CDER/CBER, April 2016 - Contents of a Complete Submission for the Evaluation of Proprietary Names; Guidance for Industry CDER/CBER, April 2016 - Product Development Under the Animal Rule; Guidance for Industry CDER/CBER, October 2015 - Integrated Summary of Effectiveness; Guidance for Industry CDER/CBER, October 2015 - Providing Submissions in Electronic Format - Postmarketing Safety Reports for Vaccines; Guidance for Industry CBER, August 2015 - Recommendations for Premarket Notification (510(k)) Submissions for Nucleic Acid-Based Human Leukocyte Antigen (HLA) Test Kits Used for Matching of Donors and Recipients in Transfusion and Transplantation; Guidance for Industry CBER, July 2015 - Investigational New Drug Applications Prepared and Submitted by Sponsor-Investigators; Draft Guidance for Industry CDER/CBER, May 2015 - Electronic Submission of Lot Distribution Reports; Guidance for Industry CBER/CDER, March 2015 - Providing Regulatory Submissions in Electronic Format - Submissions Under Section 745A(a) of the Federal Food, Drug, and Cosmetic Act CDER/CBER, December 2014 - Providing Submissions in Electronic Format -- Standardized Study Data CDER/CBER, December 2014 - Rare Pediatric Disease Priority Review Vouchers, Draft Guidance for Industry CBER/CDER/OOPD, November 2014 - Benefit-Risk Factors to Consider When Determining Substantial Equivalence in Premarket Notifications [510(k)] with Different Technological Characteristics; Draft Guidance for Industry and Food and Drug Administration Staff CDRH/CBER, July 2014 - Providing Submissions in Electronic Format - Postmarketing Safety Reports; Draft Guidance for Industry CDER/CBER, June 2014 - Annual Reports for Approved Premarket Approval Applications (PMA); Draft Guidance for Industry and FDA Staff CDRH/CBER, February 2014 - Providing Regulatory Submissions in Electronic Format--Receipt Date; Draft Guidance for Industry CDER/CBER, February 2014 - eCopy Program for Medical Device Submissions; Guidance for Industry and Food and Drug Administration Staff CDER/CBER, October 2013 - Electronic Source Data in Clinical Investigations; Guidance for Industry CDER/CBER/CDRH, September 2013 - Providing Submissions in Electronic Format - Postmarket Non-Expedited ICSRs Technical Questions and Answers; Guidance for Industry CDER/CBER, July 2013 - Humanitarian Device Exemption (HDE) Regulation: Questions and Answers; Guidance for HDE Holders, Institutional Review Boards (IRBs), Clinical Investigators, and FDA Staff CDRH/CBER, July 2010 - In Vitro Diagnostic (IVD) Device Studies - Frequently Asked Questions; Guidance for Industry and FDA Staff CDRH/CBER, June 2010 (This document supersedes \"Guidance for FDA Staff: Regulating In Vitro Diagnostic Device (IVD)Studies,\" issued December 17, 1999 - Requalification Method for Reentry of Blood Donors Deferred Because of Reactive Test Results for Antibody to Hepatitis B Core Antigen (Anti-HBc); Guidance for Industry CBER, May 2010 - Standards for Securing the Drug Supply Chain - Standardized Numerical Identification for Prescription Drug Packages; Guidance for Industry OC/CDER/CBER/ORA, March 2010 - Submission of Documentation in Applications for Parametric Release of Human and Veterinary Drug Products Terminally Sterilized by Moist Heat Processes; Guidance for Industry CDER/CVM/CBER, February 2010 - Investigator Responsibilities - Protecting the Rights, Safety, and Welfare of Study Subjects; Guidance for Industry CDER/CBER/CDRH, October 2009 - Providing Regulatory Submissions in Electronic Format - Drug Establishment Registration and Drug Listing; Guidance for Industry CDER/CBER/CVM, May 2009 - Modifications to Devices Subject to Premarket Approval (PMA) - The PMA Supplement Decision-Making Process; Guidance for Industry and FDA Staff CDRH/CBER, December 2008 - Cooperative Manufacturing Arrangements for Licensed Biologics; Guidance for Industry CBER/CDER, November 2008 - Pharmacogenomic Data Submissions - Companion Guidance; Draft Guidance for Industry CDER/NCTR/CBER/CDRH, August 2007 - Bundling Multiple Devices or Multiple Indications in a Single Submission; Guidance for Industry and FDA Staff CDRH/CBER, June 2007 - Real-Time Premarket Approval Application (PMA) Supplements; Guidance for Industry and FDA Staff CBER/CDRH, April 2006 - Reports on the Status of Postmarketing Study Commitments - Implementation of Section 130 of the Food and Drug Administration Modernization Act of 1997; Guidance for Industry CDER/CBER, February 2006 - Formal Dispute Resolution: Scientific and Technical Issues Related to Pharmaceutical CGMP_PRA; Guidance for Industry CDER/CBER/CVM/ORA, January 2006 - How to Comply with the Pediatric Research Equity Act; Draft Guidance for Industry CDER/CBER, September 2005 - Nonclinical Studies for the Safety Evaluation of Pharmaceutical Excipients; Guidance for Industry CDER/CBER, May 2005 - Providing Regulatory Submissions in Electronic Format - Content of Labeling; Guidance for Industry CDER/CBER, April 2005 - Pharmacogenomic Data Submissions; Guidance for Industry CDER/CBER/CDRH, March 2005 - Submitting Separate Marketing Applications and Clinical Data for Purposes of Assessing User Fees; Guidance for Industry CDER/CBER, December 2004 - Premarket Approval Application Modular Review; Guidance for Industry and FDA Staff CDRH/CBER, November 2003 - Quality System Information for Certain Premarket Application Reviews; Guidance for Industry and FDA Staff CDRH, February 2003 - Guidance for Industry: Providing Regulatory Submissions to CBER in Electronic Format -- Investigational New Drug Applications (INDs) CBER, March 2002 - Cancer Drug and Biological Products - Clinical Data in Marketing Applications; Guidance for Industry CDER/CBER, October 2001 - Submitting Marketing Applications According to the ICH/CTD Format: General Considerations 2001; Draft Guidance for Industry CDER/CBER, August 2001 - Submitting and Reviewing Complete Responses to Clinical Holds; Guidance for Industry CDER/CBER, October 2000 - Content and Format of INDs for Phase 1 Studies of Drugs, Including Well-Characterized, Therapeutic, Biotechnology-Derived Products. Questions and Answers; Guidance for Industry CDER/CBER, October 2000 - Providing Regulatory Submissions to the Center for Biologics Evaluation and Research (CBER) in Electronic Format - Biologics Marketing Applications; Guidance for Industry CBER, November 1999 - Submission of Abbreviated Reports and Synopses in Support of Marketing Applications; Guidance for Industry CDER/CBER, August 1999 - Implementation of Section 120 of the Food and Drug Administration Modernization Act of 1997-Advisory Committees; Guidance for Industry CDER/CBER, October 1998 - Submitting Debarment Certification Statements; Draft Guidance for Industry CDER/CBER/CVM, September 1998 - Guidance for Industry: Standards for Prompt Review of Efficacy Supplements CDER/CBER, May 1998 - Content and Format of Investigational New Drug Applications (INDs) for Phase 1 Studies of Drugs, Including Well-Characterized, Therapeutic, Biotechnology-derived Products; Guidance for Industry CDER/CBER, November 1995 - Submission Documentation for Sterilization Process Validation in Applications for Human and Veterinary Drug Products; Guidance for Industry CDER/CVM, November 1994 - Preparation of Investigational New Drug Products (Human and Animal); Guidance for Industry CDER, November 1992",
-      "link": "http://www.fda.gov/vaccines-blood-biologics/general-biologics-guidances/application-submissions-guidances",
-      "source": "FDA Vaccines / Biologics",
-      "source_type": "official",
-      "source_tier": "Tier 1",
-      "source_priority": 9,
-      "published_at": "2026-04-28T13:43:25+00:00",
-      "topics": [
-        "communication",
-        "policy",
-        "research"
-      ],
-      "policy_tags": [
-        "approval",
-        "communication",
-        "recommendation",
-        "safety"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "FDA / Silver Spring"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "FDA / Silver Spring"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "FDA Vaccines / Biologics"
-      ]
-    },
-    {
       "id": "01093150739e0a41",
       "title": "MHRAは医薬品へのアクセスを増やし、ライフサイエンスの世界的な目的地としての英国の地位を強化するという目標を達成",
       "summary": "MHRA は引き続き、患者の医薬品へのアクセスを迅速化し、規制の効率を高め、英国の 1,000 億ポンドの繁栄するライフ サイエンス産業へのイノベーションと投資の誘致を支援します。",
@@ -1846,20 +1910,20 @@
       ]
     },
     {
-      "id": "0f9a4cff9f6c99a3",
-      "title": "子供と成人におけるインフルエンザ関連の入院および救急部門または救急医療への遭遇に対するインフルエンザワクチンの有効性 - 米国、2024-25シーズン - medRxiv",
-      "summary": "子供と成人の間でのインフルエンザ関連の入院および救急部門または救急医療への遭遇に対するインフルエンザワクチンの有効性 - 米国、2024-25 シーズン medRxiv",
-      "summary_ai": "子供と成人の間でのインフルエンザ関連の入院および救急部門または救急医療への遭遇に対するインフルエンザワクチンの有効性 - 米国、2024-25 シーズン medRxiv",
-      "title_original": "Influenza vaccine effectiveness against influenza-associated hospitalizations and emergency department or urgent care encounters among children and adults - United States, 2024-25 season - medRxiv",
-      "summary_original": "Influenza vaccine effectiveness against influenza-associated hospitalizations and emergency department or urgent care encounters among children and adults - United States, 2024-25 season medRxiv",
-      "summary_ai_original": "Influenza vaccine effectiveness against influenza-associated hospitalizations and emergency department or urgent care encounters among children and adults - United States, 2024-25 season medRxiv",
+      "id": "53e223b7581d0742",
+      "title": "インフルエンザ関連の入院および救急部門または救急医療への遭遇に対するインフルエンザワクチンの有効性 - medRxiv",
+      "summary": "インフルエンザ関連の入院および救急部門または救急医療に対するインフルエンザワクチンの有効性 medRxiv",
+      "summary_ai": "インフルエンザ関連の入院および救急部門または救急医療に対するインフルエンザワクチンの有効性 medRxiv",
+      "title_original": "Influenza vaccine effectiveness against influenza-associated hospitalizations and emergency department or urgent care encounters - medRxiv",
+      "summary_original": "Influenza vaccine effectiveness against influenza-associated hospitalizations and emergency department or urgent care encounters medRxiv",
+      "summary_ai_original": "Influenza vaccine effectiveness against influenza-associated hospitalizations and emergency department or urgent care encounters medRxiv",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1oMDk1UUZma0g1a1FlZzlNRER4TW51Ukl6VTBCazJfcTFTcXREQlNnajJVTDFNVmJLNEtxaFY2bW4tN0NGMTVDZF9nMHpEWjZwbFlfUE9ydUpyYURucC1FbkJLbmI4emFSaThwemJjNA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1yMkR2ak80eUtGLVd0NDh4M2drdDMwU1IyQmM4SHRmS1JIUk1xdjNyTUdmSlVNU2VtWU44b2t2WjZ2MVdid2tQVmhkemtCc1c0RmJ4WFFia2lKSUI3Z3VqZFY1bXZqNXhiVlZSeWdaVEJQV21zRmlReWdQZw?oc=5",
       "source": "medRxiv vaccines",
       "source_type": "preprint",
       "source_tier": "Tier 3",
       "source_priority": 7,
-      "published_at": "2026-04-24T22:47:57+00:00",
+      "published_at": "2026-04-24T07:00:00+00:00",
       "topics": [
         "research"
       ],
@@ -1870,7 +1934,7 @@
         "influenza"
       ],
       "variants": [],
-      "target_country": "米国",
+      "target_country": "不明",
       "source_location": {
         "key": "united states",
         "name_ja": "米国",
@@ -1889,27 +1953,27 @@
           "label": "medRxiv"
         },
         "target": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "米国"
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
         }
       },
       "location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "米国"
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
       },
-      "region": "North America",
-      "country": "米国",
-      "lat": 38.9072,
-      "lng": -77.0369,
-      "duplicate_count": 2,
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
       "duplicate_sources": [
         "medRxiv vaccines"
       ]
@@ -2321,74 +2385,7 @@
       ]
     },
     {
-      "id": "491dfefc376a0f4d",
-      "title": "要点：アラバマ州における鳥インフルエンザワクチンの治験、抗真菌薬の発見、未治療の梅毒 - CIDRAP",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary_ai": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_original": "Quick takes: Avian flu vaccine trial, antifungal drug discovery, untreated syphilis in Alabama - CIDRAP",
-      "summary_original": "Quick takes: Avian flu vaccine trial, antifungal drug discovery, untreated syphilis in Alabama CIDRAP",
-      "summary_ai_original": "Quick takes: Avian flu vaccine trial, antifungal drug discovery, untreated syphilis in Alabama CIDRAP",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU2dCMFRQR0NzbUJnUGR6REQwQzRiX3p4Zmg0Y3ZYQnBTTndJVURGWnZXczRQNndtSnh0RWdYcFBIejRyUFBJWU9hWUtjYWJvaDFUY1E1czAzSlU1MHZlZEFYRHJnMk5MQ1BSLUlVSXZpTVdaaXRYT0JSRkF0SVJ2ZjlRMlFnd0xmMTFfbXFvc3lIOU5wbUd5YW1uS1huZE5EZVZmOThlS05sZUhYX1VsWnZKbzRYUHNkcFcyRG1JUXg?oc=5",
-      "source": "CIDRAP Vaccines & Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 8,
-      "published_at": "2026-04-22T07:00:00+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "influenza"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "CIDRAP / Minnesota"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "CIDRAP / Minnesota"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "CIDRAP Vaccines & Immunization"
-      ]
-    },
-    {
-      "id": "89c6c8f63da7af37",
+      "id": "aa86360eff221967",
       "title": "コーティングされた細菌ワクチン プラットフォームが弱い抗原免疫原性を克服: GnRH ベースの免疫去勢への機能的アプローチ - bioRxiv",
       "summary": "コーティングされた細菌ワクチン プラットフォームが弱い抗原免疫原性を克服: GnRH ベースの免疫去勢への機能的アプローチ bioRxiv",
       "summary_ai": "コーティングされた細菌ワクチン プラットフォームが弱い抗原免疫原性を克服: GnRH ベースの免疫去勢への機能的アプローチ bioRxiv",
@@ -2396,7 +2393,7 @@
       "summary_original": "Coated Bacterial Vaccine Platform Overcomes Weak Antigen Immunogenicity: A Functional Approach to GnRH-Based Immunocastration bioRxiv",
       "summary_ai_original": "Coated Bacterial Vaccine Platform Overcomes Weak Antigen Immunogenicity: A Functional Approach to GnRH-Based Immunocastration bioRxiv",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Ca2gxeFQzQm10dmpJdkdyM2RGMU9SdHlET2kxVF9sWGtPdnBzQ0t4cElqQ3ItazBqTzNiSXpiTFB1Y0VfM0IwdnF0emxKRV9zRUxRRldkV2JGZWFYekg4enFwUGlBdEtWemYyc3BfaG9QZTdyUjJSWQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIRXBVOWZOZHZkbzZBWGRlaHhubTFZV2l5cnRRVnNXYzJ2RVNocEwzNkI5TnBzZTg1WjQxb0VMV0lndjRwSTlkbkhZZlJRV0hmNlBkS09XbUZEMUdQYkw4VVNRb01lcnVjbGQ5SA?oc=5",
       "source": "bioRxiv vaccines",
       "source_type": "preprint",
       "source_tier": "Tier 3",
@@ -2450,73 +2447,6 @@
       "duplicate_count": 2,
       "duplicate_sources": [
         "bioRxiv vaccines"
-      ]
-    },
-    {
-      "id": "0293bb81e7fccaa3",
-      "title": "米国保健当局、新型コロナウイルスワクチンの有効性に関する研究発表を中止 - AP通信",
-      "summary": "米国保健当局、新型コロナウイルスワクチンの有効性に関する研究発表を中止 AP通信",
-      "summary_ai": "米国保健当局、新型コロナウイルスワクチンの有効性に関する研究発表を中止 AP通信",
-      "title_original": "US health officials nix publication of a study on COVID vaccine effectiveness - AP News",
-      "summary_original": "US health officials nix publication of a study on COVID vaccine effectiveness AP News",
-      "summary_ai_original": "US health officials nix publication of a study on COVID vaccine effectiveness AP News",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcFNvYzJjenJzRXVRQWNvNGhPeW9wdEJrakFCLTFCNkdLeGYtcmJRNzhLRF9pQ1NxakZLZFZEN05BcnNuTUdXOFZDWVVhbXhsUDI1WFB5T25RWElTRzN3cHo0NWlyTzJEVEtYc2ZKSGR2Y3pWRmpuaDJ4TEMtdGVMR0ZKTXRxTkYtZEU2MzR3?oc=5",
-      "source": "AP Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-04-22T07:00:00+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "covid"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "AP"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "AP"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "AP Vaccines / Immunization"
       ]
     },
     {
@@ -2719,6 +2649,73 @@
       ]
     },
     {
+      "id": "190bdce1e1d8320a",
+      "title": "モデルナ、米国と英国で鳥インフルエンザワクチンの後期治験を開始 - ロイター",
+      "summary": "モデルナ、米国と英国で鳥インフルエンザワクチンの後期治験を開始 ロイター",
+      "summary_ai": "モデルナ、米国と英国で鳥インフルエンザワクチンの後期治験を開始 ロイター",
+      "title_original": "Moderna starts late-stage trial of bird flu vaccine in US, UK - Reuters",
+      "summary_original": "Moderna starts late-stage trial of bird flu vaccine in US, UK Reuters",
+      "summary_ai_original": "Moderna starts late-stage trial of bird flu vaccine in US, UK Reuters",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM1poSFNqbVphTEZJOC1ad1F1ZmRFVlQwXzZIbXVXd21vWE9INkJITTZWMWthZndKMUdZdURmYkFMMG5HcGI4UkEwTWY1NjlybG03R3JjZVV3cWYzQzJ5dDNENDV6QWZaZXFVcExxdGVXWkplMFpkekRRRkxvSTFQWEJjRG5kN3NnMnNVVFUtN2VPUHlVZjBQbk1kQ3hLNk1VX2RaVXVOT2RNYlU?oc=5",
+      "source": "Reuters Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-04-21T07:00:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "influenza"
+      ],
+      "variants": [],
+      "target_country": "英国",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Reuters"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Reuters"
+        },
+        "target": {
+          "key": "uk",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "英国"
+        }
+      },
+      "location": {
+        "key": "uk",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "英国"
+      },
+      "region": "Europe",
+      "country": "英国",
+      "lat": 51.5074,
+      "lng": -0.1278,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Reuters Vaccines / Immunization"
+      ]
+    },
+    {
       "id": "55399a92e27d82d8",
       "title": "潜在的なパンデミック株に対する鳥インフルエンザワクチンの治験が始まる - BBC",
       "summary": "BBCがパンデミックの可能性のある株に対する鳥インフルエンザワクチンの治験を開始",
@@ -2852,139 +2849,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "Washington Post Vaccines / Immunization"
-      ]
-    },
-    {
-      "id": "54aafed6eddf5900",
-      "title": "RSV：母親のワクチンにより乳児の入院が80％減少、研究結果 - The BMJ",
-      "summary": "RSV：母親のワクチンにより乳児の入院が80％減少、研究結果が判明 The BMJ",
-      "summary_ai": "RSV：母親のワクチンにより乳児の入院が80％減少、研究結果が判明 The BMJ",
-      "title_original": "RSV: Maternal vaccine cuts infant hospital admissions by 80%, study shows - The BMJ",
-      "summary_original": "RSV: Maternal vaccine cuts infant hospital admissions by 80%, study shows The BMJ",
-      "summary_ai_original": "RSV: Maternal vaccine cuts infant hospital admissions by 80%, study shows The BMJ",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBZN09UaWNabkx2Nk5xSk82WlE5V2hTU0xiVzI3cnVEMmItNjZhR2VlVW5VazRFcTZlcEdWOTNyMHl5c295dzE4bFhjem1TSWtKSDlJNXNUT1Y0MUlRYkE?oc=5",
-      "source": "BMJ",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-04-21T05:01:19+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BMJ / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BMJ / London"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 2,
-      "duplicate_sources": [
-        "BMJ"
-      ]
-    },
-    {
-      "id": "941bbfc49609ba9b",
-      "title": "都市環境における小児予防接種中退率を減らすためのSMSおよび音声メッセージリマインダーの実装: 2026年のロメ・トーゴでのパイロット研究 - medRxiv",
-      "summary": "都市部における小児予防接種中退率を減らすためのSMSおよび音声メッセージリマインダーの導入：2026年のロメ・トーゴでのパイロット研究 medRxiv",
-      "summary_ai": "都市部における小児予防接種中退率を減らすためのSMSおよび音声メッセージリマインダーの導入：2026年のロメ・トーゴでのパイロット研究 medRxiv",
-      "title_original": "Implementation of SMS and voice message reminders to reduce childhood immunization dropout rate in urban settings: A Pilot Study in Lomé-Togo in 2026 - medRxiv",
-      "summary_original": "Implementation of SMS and voice message reminders to reduce childhood immunization dropout rate in urban settings: A Pilot Study in Lomé-Togo in 2026 medRxiv",
-      "summary_ai_original": "Implementation of SMS and voice message reminders to reduce childhood immunization dropout rate in urban settings: A Pilot Study in Lomé-Togo in 2026 medRxiv",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MUmg3cnEyM3FVNlc0V2dKZl9zMjhsSF9PRVZjaFFjbk11NFRLTGxsVjJDMV9xSnFhai10Zk1Mc2VUSEVYNlUwcHVYZkdVaXlDaWlYTENici1yTjRGSmV0VXJjd0VyTHhHR3lkRWMxVQ?oc=5",
-      "source": "medRxiv vaccines",
-      "source_type": "preprint",
-      "source_tier": "Tier 3",
-      "source_priority": 7,
-      "published_at": "2026-04-20T07:00:00+00:00",
-      "topics": [
-        "policy",
-        "research"
-      ],
-      "policy_tags": [
-        "recommendation"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "medRxiv"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "medRxiv"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "medRxiv vaccines"
       ]
     }
   ]
