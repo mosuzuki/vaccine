@@ -1,9 +1,9 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-05-06T22:06:17.498627+00:00",
-  "item_count": 34,
-  "archive_count": 190,
+  "generated_at": "2026-05-07T22:12:49.568448+00:00",
+  "item_count": 31,
+  "archive_count": 193,
   "days_back": 14,
   "plot_mode_default": "source",
   "feed_status": [
@@ -44,7 +44,7 @@
       "url": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/biologics/rss.xml",
       "status": "ok",
       "seen": 20,
-      "kept": 3
+      "kept": 5
     },
     {
       "name": "EMA News",
@@ -57,13 +57,13 @@
       "url": "https://www.gov.uk/government/organisations/medicines-and-healthcare-products-regulatory-agency.atom",
       "status": "ok",
       "seen": 20,
-      "kept": 2
+      "kept": 1
     },
     {
       "name": "Health Canada Recalls and Safety Alerts",
       "url": "https://recalls-rappels.canada.ca/en/rss.xml",
       "status": "error",
-      "error": "HTTPSConnectionPool(host='recalls-rappels.canada.ca', port=443): Read timed out. (read timeout=30)"
+      "error": "404 Client Error: Not Found for url: https://recalls-rappels.canada.ca/en/rss.xml"
     },
     {
       "name": "TGA News",
@@ -89,21 +89,21 @@
       "name": "The Lancet series",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Athelancet.com%20(trial%20OR%20policy%20OR%20effectiveness%20OR%20safety)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 1,
-      "kept": 1
+      "seen": 0,
+      "kept": 0
     },
     {
       "name": "Lancet Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Athelancet.com%2Fjournals%2Flaninf&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 5,
-      "kept": 3
+      "seen": 3,
+      "kept": 2
     },
     {
       "name": "NEJM",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Anejm.org%20(trial%20OR%20effectiveness%20OR%20policy%20OR%20safety)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 2,
       "kept": 0
     },
     {
@@ -111,7 +111,7 @@
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abmj.com%20(policy%20OR%20trial%20OR%20effectiveness%20OR%20communication)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
       "seen": 7,
-      "kept": 5
+      "kept": 4
     },
     {
       "name": "Vaccine journal",
@@ -131,14 +131,14 @@
       "name": "Eurosurveillance",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Aeurosurveillance.org&hl=en-US&gl=EU&ceid=EU%3Aen",
       "status": "ok",
-      "seen": 0,
-      "kept": 0
+      "seen": 1,
+      "kept": 1
     },
     {
       "name": "Human Vaccines & Immunotherapeutics",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Atandfonline.com%20%22Human%20Vaccines%20%26%20Immunotherapeutics%22&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 2,
       "kept": 1
     },
     {
@@ -146,90 +146,90 @@
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Amedrxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
       "seen": 18,
-      "kept": 11
+      "kept": 10
     },
     {
       "name": "bioRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abiorxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 10,
+      "seen": 9,
       "kept": 0
     },
     {
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 22,
-      "kept": 1
+      "seen": 28,
+      "kept": 2
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 54,
+      "seen": 24,
       "kept": 1
     },
     {
       "name": "AP Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 22,
+      "seen": 7,
       "kept": 1
     },
     {
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 44,
-      "kept": 2
+      "seen": 49,
+      "kept": 1
     },
     {
       "name": "Financial Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aft.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 14,
+      "seen": 19,
       "kept": 1
     },
     {
       "name": "STAT Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 22,
+      "seen": 15,
       "kept": 2
     },
     {
       "name": "Nature News Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 19,
-      "kept": 1
+      "seen": 23,
+      "kept": 0
     },
     {
       "name": "Science Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Ascience.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 22,
+      "seen": 24,
       "kept": 2
     },
     {
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 15,
+      "seen": 21,
       "kept": 0
     },
     {
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 21,
+      "seen": 23,
       "kept": 0
     },
     {
       "name": "Washington Post Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 14,
+      "seen": 12,
       "kept": 1
     },
     {
@@ -243,32 +243,446 @@
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 51,
+      "seen": 44,
       "kept": 0
     },
     {
       "name": "朝日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Aasahi.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 1,
+      "seen": 55,
       "kept": 0
     },
     {
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 22,
+      "seen": 18,
       "kept": 0
     },
     {
       "name": "毎日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 22,
+      "seen": 26,
       "kept": 0
     }
   ],
   "items": [
+    {
+      "id": "aae6efcd2bacabc3",
+      "title": "ワクチンおよび関連生物由来製品諮問委員会 2026 年 3 月 12 日会議のお知らせ - 03/12/2026",
+      "summary": "2026年3月12日、委員会は公開セッションで会合し、2026年から2027年のインフルエンザシーズン中に米国で使用されるインフルエンザウイルスワクチンの株組成について議論し、勧告を行う予定です。",
+      "summary_ai": "すべての会議参加者は、オンライン電話会議および/またはビデオ会議プラットフォームを通じてこの諮問委員会会議に参加することにご注意ください。 FDA が会議前に背景資料を Web サイトに掲載できない場合、背景資料は",
+      "title_original": "Vaccines and Related Biological Products Advisory Committee March 12, 2026 Meeting Announcement - 03/12/2026",
+      "summary_original": "On March 12, 2026, the Committee will meet in open session to discuss and make recommendations on the strain composition of influenza virus vaccines for use in United States during the 2026-2027 influenza season.",
+      "summary_ai_original": "Please note that all meeting participants will be joining this advisory committee meeting through an online teleconferencing and/or video conferencing platform. If FDA is unable to post the background material on its website prior to the meeting, the background material will be m",
+      "article_text_original": "- Date: - March 12, 2026 - Time: - 9:00 a.m. - 3:30 p.m. ET What is an advisory committee? Advisory committees provide independent expert advice to the FDA on broad scientific topics or on certain products to help the agency make sound decisions based on the available science. Advisory committees make non-binding recommendations to the FDA, which generally follows the recommendations but is not legally bound to do so. Please see, \"Advisory Committees Give FDA Critical Advice and the Public a Voice,\" for more information. Please note that all meeting participants will be joining this advisory committee meeting through an online teleconferencing and/or video conferencing platform. How to Attend CBER plans to provide a free of charge live webcast of the Vaccines and Related Biological Products Advisory Committee Meeting. If there are instances where the webcast transmission is not successful, staff will work to re-establish the transmission as soon as possible. Agenda The meeting presentations will be heard, viewed, captioned, and recorded through an online teleconferencing and/or video conferencing platform. On March 12, 2026, the Committee will meet in open session to discuss and make recommendations on the strain composition of influenza virus vaccines for use in United States during the 2026-2027 influenza season. Meeting Materials FDA intends to make background material available to the public no later than 2 business days before the meeting. If FDA is unable to post the background material on its website prior to the meeting, the background material will be made publicly available at the time of the advisory committee meeting, and the background material will be posted on FDA’s website after the meeting. Background material is available at the Advisory Committee Calendar. Scroll down to the appropriate advisory committee meeting link. The meeting will include slide presentations with audio components to allow the presentation of materials in a manner that most closely resembles an in-person advisory committee meeting. Public Participation Information Interested persons may present data, information, or views, orally or in writing, on issues pending before the committee. Oral presentations from the public will be scheduled between approximately 9:30 a.m. and 10:30 a.m. Eastern Time on March 12, 2026. FDA is establishing a docket for public comment on this meeting. The docket number is FDA-2026-N-0826. The docket will close on March 11, 2026. Submit either electronic or written comments on this public meeting on or before March 11, 2026. Please note that late, untimely filed comments will not be considered. Electronic comments must be submitted on or before March 11, 2026. The https://www.regulations.gov electronic filing system will accept comments until 11:59 p.m. Eastern Time at the end of March 11, 2026. Comments received by mail/hand delivery/courier (for written/paper submissions) will be considered timely if they are received on or before that date. Comments received on or before March 3, 2026, will be provided to the committee. Comments received after that date and on March 11, 2026, will be taken into consideration by FDA. In the event that the meeting is canceled, FDA will continue to evaluate any relevant applications or information, and consider any comments submitted to the docket, as appropriate. You may submit comments as follows: Electronic Submissions Submit electronic comments as follows: - Federal eRulemaking Portal: https://www.regulations.gov. Follow the instructions for submitting comments. Comments submitted electronically, including attachments, to https://www.regulations.gov will be posted to the docket unchanged. Because your comment will be made public, you are solely responsible for ensuring that your comment does not include any confidential information that you or a third party may not wish to be posted, such as medical information, your or anyone else’s Social Security number, or confidential business information, such as a manufacturing process. Please note that if you include your name, contact information, or other information that identifies you in the body of your comments, that information will be posted on https://www.regulations.gov. - If you want to submit a comment with confidential information that you do not wish to be made available to the public, submit the comment as a written/paper submission and in the manner detailed (see “Written/Paper Submissions” and “Instructions”). Written/Paper Submissions Submit written/paper submissions as follows: - Mail/Hand delivery/Courier (for written/paper submissions): Dockets Management Staff (HFA-305), Food and Drug Administration, 5630 Fishers Lane, Rm. 1061, Rockville, MD 20852. - For written/paper comments submitted to the Dockets Management Staff, FDA will post your comment, as well as any attachments, except for information submitted, marked and identified, as confidential, if submitted as detailed in “Instructions.” Instructions: All submissions received must include the Docket No. FDA-2026-N-0826 for “Vaccines and Related Biological Products Advisory Committee; Notice of Meeting; Establishment of a Public Docket; Request for Comments – United States (U.S.) 2026-2027 Influenza Vaccine Strain Composition”. Received comments, those filed in a timely manner (see ADDRESSES), will be placed in the docket and, except for those submitted as “Confidential Submissions,” publicly viewable at https://www.regulations.gov or at the Dockets Management Staff between 9 a.m. and 4 p.m., Monday through Friday, 240-402-7500. Confidential Submissions: To submit a comment with confidential information that you do not wish to be made publicly available, submit your comments only as a written/paper submission. You should submit two copies total. One copy will include the information you claim to be confidential with a heading or cover note that states “THIS DOCUMENT CONTAINS CONFIDENTIAL INFORMATION.” FDA will review this copy, including the claimed confidential information, in its consideration of comments. The second copy, which will have the claimed confidential information redacted/blacked out, will be available for public viewing and posted on https://www.regulations.gov. Submit both copies to the Dockets Management Staff. If you do not wish your name and contact information be made publicly available, you can provide this information on the cover sheet and not in the body of your comments and you must identify the information as “confidential.” Any information marked as “confidential” will not be disclosed except in accordance with 21 CFR 10.20 and other applicable disclosure law. For more information about FDA’s posting of comments to public dockets, see 80 FR 56469, September 18, 2015, or access the information at: https://www.govinfo.gov/content/pkg/FR-2015-09-18/pdf/2015-23389.pdf. Docket: For access to the docket to read background documents or the electronic and written/paper comments received, go to https://www.regulations.gov and insert the docket number, found in brackets in the heading of this document, into the “Search” box and follow the prompts and/or go to the Dockets Management Staff, 5630 Fishers Lane, Rm. 1061, Rockville, MD 20852, 240-402-7500. FOR FURTHER INFORMATION, CONTACT: Cicely Reese; Center for Biologics Evaluation and Research, Food and Drug Administration, 10903 New Hampshire Ave., Bldg. 71, Rm. 1232, Silver Spring, MD 20993-0002, 301-796-9025, email: CBERVRBPAC@fda.hhs.gov, or FDA Advisory Committee Information Line, 1-800-741-8138 (301-443-0572 in the Washington, DC area). Oral Presentations Oral presentations from the public will be scheduled between approximately 9:30 a.m. and 10:30 a.m. Eastern Time on March 12, 2026. Those individuals interested in making formal oral presentations should notify the contact person and submit a brief statement of the general nature of the evidence or arguments they wish to present, the names and addresses of proposed participants, and an indication of the approximate time requested to make their presentation on or before 12 p.m. Eastern Time on March 2, 2026. Time allotted for each presentation may be limited. If the number of registrants requesting to speak is greater than can be reasonably accommodated during the scheduled open public hearing session, FDA may conduct a lottery to determine the speakers for the scheduled open public hearing session. The contact person will notify interested persons regarding their request to speak by 6 p.m. Eastern Time on March 4, 2026. Webcast Information CBER plans to provide a free of charge live webcast of the Vaccines and Related Biological Products Advisory Committee meeting: The online web conference meeting will be available at the following link: If there are instances where the webcast transmission is not successful, staff will work to re-establish the transmission as soon as possible. Contact Information - Cicely Reese: CBERVRBPAC@fda.hhs.gov - FDA Advisory Committee Information Line: 1-800-741-8138 (301-443-0572 in the Washington, DC area). Please call the Information Line for up-to-date information on this meeting. - For press inquiries, please contact the HHS Press Room at www.hhs.gov/press-room/index.html or 202-690-6343. A notice in the Federal Register about last minute modifications that impact a previously announced advisory committee meeting cannot always be published quickly enough to provide timely notice. Therefore, you should always check the agency’s website or call the committee’s Designated Federal Officer (see Contact Information) to learn about possible modifications before coming to the meeting. Persons attending FDA’s advisory committee meetings are advised that the agency is not responsible for providing access to electrical outlets. FDA welcomes the attendance of the public at its advisory committee meetings and will make every effort to accommodate persons with disabilities. If you require accommodations due to a disability, please contact the committee’s Designated Federal Officer (see Contact Information) at least 7 days in advance of the meeting. Answers to commonly asked questions including information regarding special accommodations due to a disability may be accessed at: Common Questions and Answers about FDA Advisory Committee Meetings. FDA is committed to the orderly conduct of its advisory committee meetings. Please visit our Web site at Public Conduct During FDA Advisory Committee Meetings for procedures on public conduct during advisory committee meetings. Notice of this meeting is given under the Federal Advisory Committee Act (5 U.S.C. app.2).",
+      "link": "http://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-march-12-2026-meeting-announcement",
+      "source": "FDA Vaccines / Biologics",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 9,
+      "published_at": "2026-05-07T17:22:59+00:00",
+      "topics": [
+        "policy",
+        "research"
+      ],
+      "policy_tags": [
+        "recommendation",
+        "schedule"
+      ],
+      "vaccines": [
+        "influenza"
+      ],
+      "variants": [],
+      "target_country": "米国",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "FDA / Silver Spring"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "FDA / Silver Spring"
+        },
+        "target": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "米国"
+        }
+      },
+      "location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "米国"
+      },
+      "region": "North America",
+      "country": "米国",
+      "lat": 38.9072,
+      "lng": -77.0369,
+      "duplicate_count": 2,
+      "duplicate_sources": [
+        "FDA Vaccines / Biologics"
+      ]
+    },
+    {
+      "id": "65f29eea87d87517",
+      "title": "第3相試験で、モデルナmRNAインフルエンザワクチンが高齢者において標準ワクチンを上回る効果を示すことが判明 - CIDRAP",
+      "summary": "第3相試験で、モデルナ製mRNAインフルエンザワクチンが高齢者において標準ワクチンよりも優れていることが判明 CIDRAP",
+      "summary_ai": "第3相試験で、モデルナ製mRNAインフルエンザワクチンが高齢者において標準ワクチンよりも優れていることが判明 CIDRAP",
+      "title_original": "Phase 3 trial finds Moderna mRNA flu vaccine outperforms standard vaccine in older adults - CIDRAP",
+      "summary_original": "Phase 3 trial finds Moderna mRNA flu vaccine outperforms standard vaccine in older adults CIDRAP",
+      "summary_ai_original": "Phase 3 trial finds Moderna mRNA flu vaccine outperforms standard vaccine in older adults CIDRAP",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORzlPQk43c0xZYmZlTmZ1ZjFGMnpHQVNlN3dMQ2lTM0xhRHlmMXhaRTQtQk5iTU5LUEQ3eVVrZGxjLXdrM0p6dk1vT2YzcGFxUnMxUC00YTl1WDlLTXMxeTZRMFFaeDBpcWV4QUc3SzJ6aUtMdV9KSDVDMkg5WUcwVkNia0JQbkhsREpPdFlEM25KaWVaNjdlb0VqbmY5VjJHWnM2bkNNblNVUEJwWHZDWXo3aFZoN0Nja3pfeVNTcEVKNFU?oc=5",
+      "source": "CIDRAP Vaccines & Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 8,
+      "published_at": "2026-05-07T17:15:10+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "influenza"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "CIDRAP / Minnesota"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "CIDRAP / Minnesota"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "CIDRAP Vaccines & Immunization"
+      ]
+    },
+    {
+      "id": "9b8a91953c0b4d7e",
+      "title": "Canada Sentinel Practitioner Surveillance Network (SPSN) による、新型コロナウイルス感染症 (COVID-19) に対する 2025/26 年暫定 LP.8.1 ワクチン有効性推定値: インフルエンザと他の呼吸器ウイルスの同時流行の影響の可能性についての洞察 - Eurosurveillance",
+      "summary": "Canadian Sentinel Practitioner Surveillance Network (SPSN) による、2025/26 年の新型コロナウイルス感染症 (COVID-19) に対する LP.8.1 ワクチン有効性暫定推定値: インフルエンザと他の呼吸器ウイルスの同時循環の影響の可能性についての洞察 Eurosurveillance",
+      "summary_ai": "Canadian Sentinel Practitioner Surveillance Network (SPSN) による、2025/26 年の新型コロナウイルス感染症 (COVID-19) に対する LP.8.1 ワクチン有効性暫定推定値: インフルエンザと他の呼吸器ウイルスの同時循環の影響の可能性についての洞察 Eurosurveillance",
+      "title_original": "Interim 2025/26 LP.8.1 vaccine effectiveness estimates against COVID-19 from the Canadian Sentinel Practitioner Surveillance Network (SPSN): insights into possible impact of influenza and other respiratory virus co-circulation - Eurosurveillance",
+      "summary_original": "Interim 2025/26 LP.8.1 vaccine effectiveness estimates against COVID-19 from the Canadian Sentinel Practitioner Surveillance Network (SPSN): insights into possible impact of influenza and other respiratory virus co-circulation Eurosurveillance",
+      "summary_ai_original": "Interim 2025/26 LP.8.1 vaccine effectiveness estimates against COVID-19 from the Canadian Sentinel Practitioner Surveillance Network (SPSN): insights into possible impact of influenza and other respiratory virus co-circulation Eurosurveillance",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZWEtN2xGZnVFS2kxLUkwRE9maEg5UVBuOGtNUk0xaDZOUVBBSUY4aXNaSmhtT1ZPMHJUQi12Ym9DS2xTNi1Kdl9hWkhEYmNCT2FEMHRDWC04V0kyZ1Joc3J6MmUzVUhGUzNIZW90U0h2SVFLZURScUFvNE1OSlh0ZjZUbGFqemc?oc=5",
+      "source": "Eurosurveillance",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-05-07T17:11:43+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "sweden",
+        "name_ja": "スウェーデン",
+        "lat": 59.3293,
+        "lng": 18.0686,
+        "region": "Europe",
+        "label": "Eurosurveillance / Stockholm"
+      },
+      "plot": {
+        "source": {
+          "key": "sweden",
+          "name_ja": "スウェーデン",
+          "lat": 59.3293,
+          "lng": 18.0686,
+          "region": "Europe",
+          "label": "Eurosurveillance / Stockholm"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Eurosurveillance"
+      ]
+    },
+    {
+      "id": "571cc050dde33209",
+      "title": "PAHO、大西洋のクルーズ船に関連したハンタウイルス肺症候群症例への国際的な対応を支援",
+      "summary": "PAHO、大西洋のクルーズ船に関連したハンタウイルス肺症候群症例への国際的な対応を支援 クリスティーナ・ミッチェル 2026年5月7日",
+      "summary_ai": "ワシントン D.C.、2026 年 5 月 7 日 (PAHO) — 汎米保健機関 (PAHO) は、アトランティ号のクルーズ船に関連したハンタウイルス肺症候群 (HPS) の集団感染への対応として、国際的な調整と技術情報の交換を支援しています。",
+      "title_original": "PAHO supports the international response to hantavirus pulmonary syndrome cases linked to a cruise ship in the Atlantic",
+      "summary_original": "PAHO supports the international response to hantavirus pulmonary syndrome cases linked to a cruise ship in the Atlantic Cristina Mitchell 7 May 2026",
+      "summary_ai_original": "Washington, D.C., May 7, 2026 (PAHO) — The Pan American Health Organization (PAHO) is supporting international coordination and the exchange of technical information in response to a cluster of hantavirus pulmonary syndrome (HPS) cases associated with a cruise ship in the Atlanti",
+      "article_text_original": "Washington, D.C., May 7, 2026 (PAHO) — The Pan American Health Organization (PAHO) is supporting international coordination and the exchange of technical information in response to a cluster of hantavirus pulmonary syndrome (HPS) cases associated with a cruise ship in the Atlantic. Health authorities in the countries involved, in coordination with the World Health Organization (WHO), continue to conduct the epidemiological investigation and response activities, while PAHO is facilitating technical cooperation through regional experts on laboratory diagnosis, clinical management, infection prevention, and control. The regional organization is also supporting information exchange among countries through the National IHR Focal Points for the International Health Regulations (IHR), the mechanism used to coordinate rapid communication on public health events with potential international impact. Hantavirus refers to a group of viruses transmitted primarily by rodents. People can become infected by inhaling particles contaminated with urine, droppings, or saliva from infected rodents, particularly in enclosed or poorly ventilated spaces. Hantaviruses are classified into two major groups: Old World hantaviruses, found in Africa, Asia, and Europe, and New World hantaviruses, which circulate in the Americas. Both can cause severe disease, although they are associated with different syndromes. New World hantaviruses cause hantavirus pulmonary syndrome (HPS), while Old World hantaviruses cause hemorrhagic fever with renal syndrome (HFRS). “Although hantavirus pulmonary syndrome is rare, it can be severe. Transmission occurs mainly through exposure to rodents and, in exceptional situations —particularly with Andes hantavirus— person-to-person transmission may occur through close and prolonged contact,” explained Andrea Vicari, head of PAHO's Infectious Hazards Management Unit. In December 2025, PAHO issued an epidemiological alert after observing an increase in cases in endemic countries, particularly in the Southern Cone. The alert highlighted the need to strengthen surveillance, preparedness, and response efforts for this rare but potentially fatal disease in the Region of the Americas. In 2025 and through epidemiological week 47, eight countries in the Region of the Americas —mainly in the Southern Cone— reported confirmed HPS cases. In total, 229 confirmed cases and 59 deaths were reported. PAHO subsequently urged its Member States to strengthen epidemiological surveillance, ensure timely diagnosis and appropriate clinical management of cases, and implement intersectoral measures to reduce environmental and occupational risks associated with the disease. Strengthening capacities across the region In recent years, PAHO has intensified its work with countries to strengthen preparedness for hantavirus and other zoonotic diseases. In 2023, PAHO organized a regional workshop in Colombia together with collaborating centers and national laboratories to strengthen epidemiological surveillance and laboratory detection of hantaviruses and arenaviruses, another group of rodent-borne viruses that can also cause severe disease in humans. These initiatives included training in molecular techniques, harmonization of protocols, outbreak simulation exercises, and strengthening integration among epidemiological surveillance, laboratory work, and field investigations. In 2024, technical meetings held in Panama advanced the development of regional guidelines and training materials, incorporating ecological surveillance and genetic sequencing components. A new regional training workshop is scheduled for June 2026 in Panama as part of ongoing efforts to strengthen preparedness and response capacities for potential outbreaks. “The key is to strengthen countries’ capacities to detect cases early, respond rapidly, and reduce the risk of transmission,” said Jairo Méndez Rico, PAHO virologist. Coordinated response to international events Regarding the cruise ship-related event, WHO is facilitating coordination among Member States and the vessel operators under the framework of the International Health Regulations, including support for medical evacuation of passengers, public health risk assessment, and implementation of health measures on board. PAHO is providing technical support and sharing detection protocols for New World hantaviruses developed in the Region of the Americas, based on decades of experience in surveillance and management of the disease. The international response includes epidemiological investigation, care and isolation of cases, contact tracing, and coordination among countries. According to information recently published by WHO, confirmed and suspected cases —including deaths associated with the event— have been reported. The preliminary assessment indicates that the risk to the general population remains low. “The Region of the Americas has extensive experience in hantavirus surveillance and control. That knowledge is essential to support rapid and coordinated responses to events such as this,” Méndez Rico added. Prevention: the first line of defense There is no specific vaccine or antiviral treatment for hantavirus, making prevention the most effective measure. Recommendations include reducing contact with rodents, keeping spaces clean and well ventilated, storing food in sealed containers to prevent contamination by rodents, and applying appropriate cleaning and disinfection practices in areas potentially contaminated with rodent urine, droppings, or saliva. Although cases remain relatively uncommon, the persistence of the virus in animal reservoirs and certain environmental and social conditions mean that hantavirus continues to represent a public health challenge in the region.",
+      "link": "https://www.paho.org/en/news/7-5-2026-paho-supports-international-response-hantavirus-pulmonary-syndrome-cases-linked",
+      "source": "PAHO News",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 8,
+      "published_at": "2026-05-07T14:19:58+00:00",
+      "topics": [
+        "communication",
+        "policy"
+      ],
+      "policy_tags": [
+        "communication",
+        "outbreak_response",
+        "recommendation",
+        "schedule"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "コロンビア",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "PAHO / Washington DC"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "PAHO / Washington DC"
+        },
+        "target": {
+          "key": "colombia",
+          "name_ja": "コロンビア",
+          "lat": 4.711,
+          "lng": -74.0721,
+          "region": "South America",
+          "label": "コロンビア"
+        }
+      },
+      "location": {
+        "key": "colombia",
+        "name_ja": "コロンビア",
+        "lat": 4.711,
+        "lng": -74.0721,
+        "region": "South America",
+        "label": "コロンビア"
+      },
+      "region": "South America",
+      "country": "コロンビア",
+      "lat": 4.711,
+      "lng": -74.0721,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "PAHO News"
+      ]
+    },
+    {
+      "id": "3c3049acea464b9d",
+      "title": "生物製剤手順 (SOPP)",
+      "summary": "これらの標準運用手順および方針 (SOPP) は、FDA 生物製剤研究審査センター (CBER) のスタッフが職務を遂行する際に使用します。 CBER はその運用方法について可能な限り透明性を保つよう努めているため、ここで一般に公開されています。",
+      "summary_ai": "これらの標準運用手順および方針 (SOPP) は、FDA 生物製剤研究審査センター (CBER) のスタッフが職務を遂行する際に使用します。標準運用方針および手順 (SOPP) 8001: SOPP 8001.2 の確認: FDA の失格リストへのアクセス",
+      "title_original": "Biologics Procedures (SOPPs)",
+      "summary_original": "These Standard Operating Procedures and Policies (SOPPs) are used by staff in FDA's Center for Biologics Research and Review (CBER) in the performance of their duties. They are made available here to the public because CBER is committed to being as transparent as possible in how it operates.",
+      "summary_ai_original": "These Standard Operating Procedures and Policies (SOPPs) are used by staff in FDA's Center for Biologics Research and Review (CBER) in the performance of their duties. Standard Operating Policies & Procedures (SOPPs) 8001: Review SOPP 8001.2: Accessing the FDA Lists of Disqualifi",
+      "article_text_original": "These Standard Operating Procedures and Policies (SOPPs) are used by staff in FDA's Center for Biologics Research and Review (CBER) in the performance of their duties. They are made available here to the public because CBER is committed to being as transparent as possible in how it operates. These SOPPs are organized by area of activity. Standard Operating Policies & Procedures (SOPPs) 8001: Review SOPP 8001.2: Accessing the FDA Lists of Disqualified and Restricted Clinical Investigators, Debarred Individuals, and Firms Under the FDA Application Integrity Policy Effective Date: February 25, 2020 SOPP 8001.4: Review of Proprietary Names for CBER Regulated Products Effective Date: December 13, 2023 SOPP 8001.6: Procedures for Parallel Scientific Advice with European Medicines Agency (EMA) Effective Date: January 12, 2023 SOPP 8004: Tissue Reference Group Effective Date: February 27, 2023 SOPP 8005: Formal Dispute Resolution Process Effective Date: February 27, 2023 SOPP 8006: Resolution of Differences in Scientific Judgement in the Review Process Effective Date: January 15, 2009 8101: Meetings SOPP 8101.1: Regulatory Meetings with Sponsors and Applicants for Drugs and Biological Products Effective Date: December 11, 2025 SOPP 8101.2: Scheduling and Documentation of Liaison Meetings With Industry Trade Organizations Effective Date: April 15, 2024 SOPP 8101.3: Participation in or Planning of Outside Regulatory and Scientific Events Effective Date: November 27, 2019 SOPP 8103: Headquarters Contacts with Regulated Manufacturers during Agency Inspections Effective Date: July 31, 2022 SOPP 8104: Documentation of Telephone Contacts with Regulated Industry Effective Date: December 11, 2020 SOPP 8110: Submission of Regulatory Applications -- Exempt from eCTD Requirements Effective Date: March 9, 2026 SOPP 8113: Handling of Regulatory Faxes in CBER Effective Date: December 11, 2020 SOPP 8114: Administrative Processing of Documents Received Prior to Submitting Investigational or Marketing Applications (Pre-Application) Effective Date: December 11, 2020 SOPP 8116: Use of Electronic Signatures for Regulatory Documents Effective Date: December 11, 2020 SOPP 8117: Issuing Tracking Numbers in Advance of Electronic Submissions in eCTD Format Effective Date: October 30, 2025 SOPP 8119: Use of Email for Regulatory Communications Effective Date: April 9, 2024 SOPP 8201: Administrative Processing of Clinical Holds for Investigational New Drug Applications Effective Date: January 14, 2026 SOPP 8203: Evaluation of Cost Recovery Requests for Investigational New Drugs and Investigational Device Exemptions Effective Date: December 11, 2020 SOPP 8212: Breakthrough Therapy Products - Designation and Management Effective Date: August 1, 2023 SOPP 8215: Management of Regenerative Medicine Advanced Therapy Products: Request for Designation, Sponsor Interactions, and Status Assessment Effective Date: January 8, 2026 SOPP 8216: Fast Track Development Programs - Designation and Management Effective Date: February 27, 2023 SOPP 8217: Administrative Processing and Review Management Procedures for Investigational New Drug Applications Effective Date: January 14, 2026 SOPP 8401: Administrative Processing of Original Biologics License Applications (BLA) and New Drug Applications (NDA) Effective Date: January 15, 2025 SOPP 8401.1: Issuance of and Review of Responses to Information Request Communications to Pending Applications Effective Date: October 1, 2022 SOPP 8401.2: Administrative Processing of BLA and NDA Supplements Effective Date: March 10, 2026 SOPP 8401.4: Review Responsibilities for the CMC Section of Biologic License Applications, New Drug Applications and Supplements Effective Date: October 1, 2022 SOPP 8401.7 - Action Package for Posting Effective Date: February 27, 2022 SOPP 8402: Designation of Amendments as Major Effective Date: October 10, 2024 SOPP 8403: Issuance, Reissuance, and Voluntary Revocation of Biological Products Licenses Effective Date: February 27, 2023 SOPP 8404: Refusal to File Procedures Effective Date: December 15, 2025 SOPP 8404.1: Procedures for Filing an Application When the Applicant Protests a Refusal to File Action (File Over Protest) Effective Date: September 7, 2023 SOPP 8405.1: Procedures for Resubmissions to an Application or Supplement Effective Date: November 13, 2022 SOPP 8406: CBER Processing of PDUFA Application Payments Effective Date: October 1, 2022 SOPP 8407: Compliance Status Checks Effective Date: December 11, 2020 SOPP 8408.1: Development of Laboratory Quality Product Testing Plans and Release of Lots as Part of the BLA Approval Process Effective Date: August 24, 2022 SOPP 8408.3: Lot Release Activities for Licensed Biological Products Effective Date: September 25, 2019 SOPP 8410: Determining When Pre-License / Pre-Approval Inspections are Necessary Effective Date: January 6, 2020 SOPP 8411.1: Administrative Handling and Review of Annual Reports for Approved Biologics License Applications (BLAs) Effective Date: December 11, 2020 SOPP 8412: Review of Product Labeling Effective Date: January 31, 2025 SOPP 8413: Postmarketing Requirement/Commitment Related Submissions - Administrative Handling, Review, and CBER Reporting Effective Date: February 15, 2024 SOPP 8415: Procedures for Developing Postmarketing Requirements and Commitments Effective Date: February 15, 2024 SOPP 8417: Implementation and Management of Risk Evaluation and Mitigation Strategies (REMS) Effective Date: October 1, 2022 SOPP 8419: Section 505(o)(4) Required Safety Labeling Changes (SLCs) Effective Date: February 12, 2024 SOPP 8420: FDAAA Section 921 - Posting of Potential Signals of Serious Risk Effective Date: February 27, 2022 SOPP 8421: Complying with Requirements under the Pediatric Research Equity Act (PREA) Effective Date: February 27, 2023 SOPP 8422: Processing and Review of Trans-BLA Submissions Effective Date: January 2, 2025 SOPP 8426: Assignment of Biological and Drug Product Proper Names and Biological Suffixes Effective Date: July 31, 2024 SOPP 8503.2: Review of Import for Export Requests Under F D & C Act Section 801(d)(4) Removed for Revision: September 1, 2009 8503: Import and Export Requests SOPP 8504: Release of Establishment Inspection Reports to the Inspected Establishments Pursuant to Field Management Directive 145 Effective Date: December 11, 2020 SOPP 8506: Management of Shortages of CBER-Regulated Products Effective Date: October 7, 2025 SOPP 8507: Procedures for Responding to an Illegitimate Product Notification and Request for Termination of Notification Effective Date: February 27, 2022 SOPP 8508: Procedures for Handling Adverse Reaction Reports Related to \"361\" Human Cells, Tissues, and Cellular and Tissue-Based Products (HCT/Ps) Effective Date: March 26, 2008 SOPP 8508.2: Procedures for the Vaccine Safety Team Effective Date: May 9, 2008 SOPP 8704: Managing MDUFA User Fee Payments and Billing Activities Effective Date: March 21, 2024 SOPP 8795: Posting and Announcement of Premarket Approval Application and Humanitarian Device Exemption Approvals and Denials Effective Date: June 3, 2024 Follow CBER Division of Communication and Consumer Affairs Office of Communication, Outreach and Development Center for Biologics Evaluation and Research Food and Drug Administration 10903 New Hampshire Ave WO71-3103 Silver Spring, MD 20993-0002 (800) 835-4709 (240) 402-8010 For Updates on Twitter, follow @fdacber",
+      "link": "http://www.fda.gov/vaccines-blood-biologics/guidance-compliance-regulatory-information-biologics/biologics-procedures-sopps",
+      "source": "FDA Vaccines / Biologics",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 9,
+      "published_at": "2026-05-07T14:18:43+00:00",
+      "topics": [
+        "communication",
+        "policy",
+        "research"
+      ],
+      "policy_tags": [
+        "approval",
+        "communication",
+        "safety"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "FDA / Silver Spring"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "FDA / Silver Spring"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "FDA Vaccines / Biologics"
+      ]
+    },
+    {
+      "id": "1c4a10bd2cf315b0",
+      "title": "ガイダンス: RSV ワクチン ファクトシート – 患者、親、介護者向けの情報",
+      "summary": "呼吸器合胞体ウイルス (RSV) および RSV ワクチン接種に関する情報を提供する患者のファクトシート。",
+      "summary_ai": "RSウイルスに感染したほとんどの人は軽度の症状しか経験しませんが、特に幼い赤ちゃん、高齢者、免疫力が低下している人では、Rウイルスは細気管支炎や肺炎などの重篤な病気を引き起こすことがあります。 RSV RSV ワクチン接種の概要と e",
+      "title_original": "Guidance: RSV Vaccine Factsheet – Information for Patients, Parents and Carers",
+      "summary_original": "Patient factsheet providing information on respiratory syncytial virus (RSV) and RSV vaccination.",
+      "summary_ai_original": "While most people who catch RSV experience only mild illness, RSV can sometimes lead to serious illness, such as bronchiolitis and pneumonia, particularly in young babies, older adults, and individuals with weakened immune systems. It covers: Overview of RSV RSV vaccination and e",
+      "article_text_original": "Respiratory syncytial virus (RSV) is a common respiratory virus that can cause coughs, colds, and chest infections. While most people who catch RSV experience only mild illness, RSV can sometimes lead to serious illness, such as bronchiolitis and pneumonia, particularly in young babies, older adults, and individuals with weakened immune systems. RSV infection is one of the most common reasons for young babies to be admitted to hospital. In older adults, RSV can also lead to severe lung infections and breathing difficulties. Vaccination is one of the safest and most effective ways to protect people who are at higher risk of becoming seriously unwell with RSV. RSV vaccines used in the UK have been rigorously assessed for safety, quality and effectiveness, and are continuously monitored through the Yellow Card scheme. This factsheet is designed to help patients, parents and carers understand the RSV vaccines used in the UK. It covers: Overview of RSV RSV vaccination and eligibility Getting RSV and COVID-19 vaccination at the same time",
+      "link": "https://www.gov.uk/government/publications/rsv-vaccine-factsheet-information-for-patients-parents-and-carers",
+      "source": "MHRA",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 8,
+      "published_at": "2026-05-07T14:11:37+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [
+        "safety"
+      ],
+      "vaccines": [
+        "rsv"
+      ],
+      "variants": [],
+      "target_country": "英国",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "MHRA / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "MHRA / London"
+        },
+        "target": {
+          "key": "uk",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "英国"
+        }
+      },
+      "location": {
+        "key": "uk",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "英国"
+      },
+      "region": "Europe",
+      "country": "英国",
+      "lat": 51.5074,
+      "lng": -0.1278,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "MHRA"
+      ]
+    },
     {
       "id": "35b41c3ed811479d",
       "title": "モデルナのmRNAインフルエンザワクチン、後期試験で標準接種を上回る成績 - ロイター",
@@ -334,77 +748,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "Reuters Vaccines / Immunization"
-      ]
-    },
-    {
-      "id": "bf6da07802f3dee8",
-      "title": "ワクチンおよび関連生物由来製品諮問委員会 2026 年 5 月 28 日会議のお知らせ - 05/28/2026",
-      "summary": "2026年5月28日、委員会は公開セッションで会合を開き、米国で使用する2026～2027年の新型コロナウイルス感染症ワクチンの配合の選択について議論し、勧告を行う予定だ。",
-      "summary_ai": "すべての会議参加者は、オンライン電話会議および/またはビデオ会議プラットフォームを通じてこの諮問委員会会議に参加することにご注意ください。 FDA が会議前に背景資料を Web サイトに掲載できない場合、背景資料は",
-      "title_original": "Vaccines and Related Biological Products Advisory Committee May 28, 2026 Meeting Announcement - 05/28/2026",
-      "summary_original": "On May 28, 2026, the Committee will meet in open session to discuss and make recommendations on the selection of the 2026-2027 Formula for COVID-19 vaccines for use in the United States.",
-      "summary_ai_original": "Please note that all meeting participants will be joining this advisory committee meeting through an online teleconferencing and/or video conferencing platform. If FDA is unable to post the background material on its website prior to the meeting, the background material will be m",
-      "article_text_original": "- Date: - May 28, 2026 - Time: - 8:30 a.m. - 4:30 p.m. ET What is an advisory committee? Advisory committees provide independent expert advice to the FDA on broad scientific topics or on certain products to help the agency make sound decisions based on the available science. Advisory committees make non-binding recommendations to the FDA, which generally follows the recommendations but is not legally bound to do so. Please see, \"Advisory Committees Give FDA Critical Advice and the Public a Voice,\" for more information. Please note that all meeting participants will be joining this advisory committee meeting through an online teleconferencing and/or video conferencing platform. How to Attend - 05/28/2026 CBER plans to provide a free of charge live webcast of the Vaccines and Related Biological Products Advisory Committee Meeting. If there are instances where the webcast transmission is not successful, staff will work to re-establish the transmission as soon as possible. Agenda The meeting presentations will be heard, viewed, captioned, and recorded through an online teleconferencing and/or video conferencing platform. On May 28, 2026, the Committee will meet in open session to discuss and make recommendations on the selection of the 2026-2027 Formula for COVID-19 vaccines for use in the United States. Meeting Materials FDA intends to make background material available to the public no later than 2 business days before the meeting. If FDA is unable to post the background material on its website prior to the meeting, the background material will be made publicly available at the time of the advisory committee meeting, and the background material will be posted on FDA’s website after the meeting. Background material is available at the Advisory Committee Calendar. Scroll down to the appropriate advisory committee meeting link. The meeting will include slide presentations with audio components to allow the presentation of materials in a manner that most closely resembles an in-person advisory committee meeting. Public Participation Information Interested persons may present data, information, or views, orally or in writing, on issues pending before the committee. Oral presentations from the public will be scheduled between approximately 1:00 p.m. and 2:00 p.m. Eastern Time on May 28, 2026. FDA is establishing a docket for public comment on this meeting. The docket number is FDA-2026-N-3962. The docket will close on May 27, 2026. Submit either electronic or written comments on this public meeting on or before May 27, 2026. Please note that late, untimely filed comments will not be considered. Electronic comments must be submitted on or before May 27, 2026. The https://www.regulations.gov electronic filing system will accept comments until 11:59 p.m. Eastern Time at the end of May 27, 2026. Comments received by mail/hand delivery/courier (for written/paper submissions) will be considered timely if they are received on or before that date. Comments received on or before May 21, 2026, will be provided to the committee. Comments received after that date and on May 27, 2026, will be taken into consideration by FDA. In the event that the meeting is canceled, FDA will continue to evaluate any relevant applications or information, and consider any comments submitted to the docket, as appropriate. You may submit comments as follows: Electronic Submissions Submit electronic comments as follows: - Federal eRulemaking Portal: https://www.regulations.gov. Follow the instructions for submitting comments. Comments submitted electronically, including attachments, to https://www.regulations.gov will be posted to the docket unchanged. Because your comment will be made public, you are solely responsible for ensuring that your comment does not include any confidential information that you or a third party may not wish to be posted, such as medical information, your or anyone else’s Social Security number, or confidential business information, such as a manufacturing process. Please note that if you include your name, contact information, or other information that identifies you in the body of your comments, that information will be posted on https://www.regulations.gov. - If you want to submit a comment with confidential information that you do not wish to be made available to the public, submit the comment as a written/paper submission and in the manner detailed (see “Written/Paper Submissions” and “Instructions”). Written/Paper Submissions Submit written/paper submissions as follows: - Mail/Hand delivery/Courier (for written/paper submissions): Dockets Management Staff (HFA-305), Food and Drug Administration, 5630 Fishers Lane, Rm. 1061, Rockville, MD 20852. - For written/paper comments submitted to the Dockets Management Staff, FDA will post your comment, as well as any attachments, except for information submitted, marked and identified, as confidential, if submitted as detailed in “Instructions.” Instructions: All submissions received must include the Docket No. FDA-2026-N-3962 for “Vaccines and Related Biological Products Advisory Committee; Notice of Meeting; Establishment of a Public Docket; Request for Comments – United States (U.S.) 2026-2027 Formula for COVID-19 Vaccine Composition”. Received comments, those filed in a timely manner (see ADDRESSES), will be placed in the docket and, except for those submitted as “Confidential Submissions,” publicly viewable at https://www.regulations.gov or at the Dockets Management Staff between 9 a.m. and 4 p.m., Monday through Friday, 240-402-7500. Confidential Submissions: To submit a comment with confidential information that you do not wish to be made publicly available, submit your comments only as a written/paper submission. You should submit two copies total. One copy will include the information you claim to be confidential with a heading or cover note that states “THIS DOCUMENT CONTAINS CONFIDENTIAL INFORMATION.” FDA will review this copy, including the claimed confidential information, in its consideration of comments. The second copy, which will have the claimed confidential information redacted/blacked out, will be available for public viewing and posted on https://www.regulations.gov. Submit both copies to the Dockets Management Staff. If you do not wish your name and contact information be made publicly available, you can provide this information on the cover sheet and not in the body of your comments and you must identify the information as “confidential.” Any information marked as “confidential” will not be disclosed except in accordance with 21 CFR 10.20 and other applicable disclosure law. For more information about FDA’s posting of comments to public dockets, see 80 FR 56469, September 18, 2015, or access the information at: https://www.govinfo.gov/content/pkg/FR-2015-09-18/pdf/2015-23389.pdf. Docket: For access to the docket to read background documents or the electronic and written/paper comments received, go to https://www.regulations.gov and insert the docket number, found in brackets in the heading of this document, into the “Search” box and follow the prompts and/or go to the Dockets Management Staff, 5630 Fishers Lane, Rm. 1061, Rockville, MD 20852, 240-402-7500. FOR FURTHER INFORMATION, CONTACT: Cicely Reese; Center for Biologics Evaluation and Research, Food and Drug Administration, 10903 New Hampshire Ave., Bldg. 71, Rm. 1232, Silver Spring, MD 20993-0002, 301-796-9025, email: CBERVRBPAC@fda.hhs.gov, or FDA Advisory Committee Information Line, 1-800-741-8138 (301-443-0572 in the Washington, DC area). Oral Presentations Oral presentations from the public will be scheduled between approximately 1:00 p.m. and 2:00 p.m. Eastern Time on May 28, 2026. Those individuals interested in making formal oral presentations should notify the contact person and submit a brief statement of the general nature of the evidence or arguments they wish to present, the names and addresses of proposed participants, and an indication of the approximate time requested to make their presentation on or before 12 p.m. Eastern Time on May 18, 2026. Time allotted for each presentation may be limited. If the number of registrants requesting to speak is greater than can be reasonably accommodated during the scheduled open public hearing session, FDA may conduct a lottery to determine the speakers for the scheduled open public hearing session. The contact person will notify interested persons regarding their request to speak by 6 p.m. Eastern Time on May 20, 2026. Webcast Information CBER plans to provide a free of charge live webcast of the Vaccines and Related Biological Products Advisory Committee meeting: The online web conference meeting will be available at the following link: - 05/28/2026 If there are instances where the webcast transmission is not successful, staff will work to re-establish the transmission as soon as possible. Contact Information - Cicely Reese: CBERVRBPAC@fda.hhs.gov - FDA Advisory Committee Information Line: 1-800-741-8138 (301-443-0572 in the Washington, DC area). Please call the Information Line for up-to-date information on this meeting. - For press inquiries, please contact the HHS Press Room at www.hhs.gov/press-room/index.html or 202-690-6343. A notice in the Federal Register about last minute modifications that impact a previously announced advisory committee meeting cannot always be published quickly enough to provide timely notice. Therefore, you should always check the agency’s website or call the committee’s Designated Federal Officer (see Contact Information) to learn about possible modifications before coming to the meeting. Persons attending FDA’s advisory committee meetings are advised that the agency is not responsible for providing access to electrical outlets. FDA welcomes the attendance of the public at its advisory committee meetings and will make every effort to accommodate persons with disabilities. If you require accommodations due to a disability, please contact the committee’s Designated Federal Officer (see Contact Information) at least 7 days in advance of the meeting. Answers to commonly asked questions including information regarding special accommodations due to a disability may be accessed at: Common Questions and Answers about FDA Advisory Committee Meetings. FDA is committed to the orderly conduct of its advisory committee meetings. Please visit our Web site at Public Conduct During FDA Advisory Committee Meetings for procedures on public conduct during advisory committee meetings. Notice of this meeting is given under the Federal Advisory Committee Act (5 U.S.C. app.2).",
-      "link": "http://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-may-28-2026-meeting-announcement",
-      "source": "FDA Vaccines / Biologics",
-      "source_type": "official",
-      "source_tier": "Tier 1",
-      "source_priority": 9,
-      "published_at": "2026-05-06T19:51:16+00:00",
-      "topics": [
-        "policy",
-        "research"
-      ],
-      "policy_tags": [
-        "recommendation",
-        "schedule"
-      ],
-      "vaccines": [
-        "covid"
-      ],
-      "variants": [],
-      "target_country": "米国",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "FDA / Silver Spring"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "FDA / Silver Spring"
-        },
-        "target": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "米国"
-        }
-      },
-      "location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "米国"
-      },
-      "region": "North America",
-      "country": "米国",
-      "lat": 38.9072,
-      "lng": -77.0369,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "FDA Vaccines / Biologics"
       ]
     },
     {
@@ -1032,7 +1375,7 @@
       "summary_ai_original": "Real-world effectiveness of 20-valent pneumococcal conjugate vaccine against all-cause outcomes among Medicare beneficiaries aged 65 years and older in the USA: a retrospective cohort study The Lancet",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcF9rV2lRdjBCN005YllBU0o1OXFBZl80NEFMLTJXTVpLR0duNmVxQi1FanQtR1poajdtcGo2V3dkMHh3RTM4VnZDX2VmZUJTQ1g5QXNDMmIyVmNqWDczTUgzZUJMbW9lQWdHVUk1N3NEaHMzUmZndEFaS2R6YlV3RjQ4SUNrQ0NPVkNn?oc=5",
-      "source": "The Lancet series",
+      "source": "Lancet Infectious Diseases",
       "source_type": "academic",
       "source_tier": "Tier 3",
       "source_priority": 8,
@@ -1050,7 +1393,7 @@
         "lat": 51.5074,
         "lng": -0.1278,
         "region": "Europe",
-        "label": "The Lancet / London"
+        "label": "Lancet Infectious Diseases / London"
       },
       "plot": {
         "source": {
@@ -1059,7 +1402,7 @@
           "lat": 51.5074,
           "lng": -0.1278,
           "region": "Europe",
-          "label": "The Lancet / London"
+          "label": "Lancet Infectious Diseases / London"
         },
         "target": {
           "key": "usa",
@@ -1082,10 +1425,9 @@
       "country": "米国",
       "lat": 38.9072,
       "lng": -77.0369,
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicate_sources": [
-        "Lancet Infectious Diseases",
-        "The Lancet series"
+        "Lancet Infectious Diseases"
       ]
     },
     {
@@ -1296,73 +1638,6 @@
       ]
     },
     {
-      "id": "04280259d5d71f66",
-      "title": "抗PD-1難治性黒色腫における熱条件化腫瘍溶解物ワクチン（TRIMELVax）の第I相試験：安全性と免疫学的側面（NCT06556004） - Nature",
-      "summary": "抗PD-1難治性黒色腫における熱条件化腫瘍溶解物ワクチン（TRIMELVax）の第I相試験：安全性と免疫学的側面（NCT06556004） Nature",
-      "summary_ai": "抗PD-1難治性黒色腫における熱条件化腫瘍溶解物ワクチン（TRIMELVax）の第I相試験：安全性と免疫学的側面（NCT06556004） Nature",
-      "title_original": "Phase I trial of a heat-conditioned tumor lysate vaccine (TRIMELVax) in anti-PD-1 refractory melanoma: safety and immunological aspects (NCT06556004) - Nature",
-      "summary_original": "Phase I trial of a heat-conditioned tumor lysate vaccine (TRIMELVax) in anti-PD-1 refractory melanoma: safety and immunological aspects (NCT06556004) Nature",
-      "summary_ai_original": "Phase I trial of a heat-conditioned tumor lysate vaccine (TRIMELVax) in anti-PD-1 refractory melanoma: safety and immunological aspects (NCT06556004) Nature",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fa3otS3EtN01BdWtUUzFzR3pKTml1MzNXckdCZlM5QjFNbGloOElxTEVsUU5zdk9YUE5mNDdtN01wS1hPT1BleHBjOVpuNHZ2RllqdjkwNnV4Y0M3RGw4?oc=5",
-      "source": "Nature News Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-04-30T13:42:55+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [
-        "safety"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "Nature News"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "Nature News"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Nature News Vaccines / Immunization"
-      ]
-    },
-    {
       "id": "1e0d242aac2b076f",
       "title": "Emergent BioSolutions が、Mpox を含む ACAM2000® (天然痘および Mpox (ワクシニア) ワクチン、生ワクチン) の適応拡大についてシンガポール保健科学当局から承認を取得 – 会社発表 - FT.com - Financial Times",
       "summary": "Emergent BioSolutions が、Mpox を含む ACAM2000® (天然痘および Mpox (ワクシニア) ワクチン、生ワクチン) の適応拡大についてシンガポール保健科学当局から承認を取得 – 会社発表 - FT.com Financial Times",
@@ -1496,77 +1771,72 @@
       ]
     },
     {
-      "id": "c9d441c251df380f",
-      "title": "MHRA 安全性総括: 2026 年 4 月",
-      "summary": "医薬品および医療機器のユーザーに対する最新の安全性に関するアドバイスの概要",
-      "summary_ai": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_original": "MHRA Safety Roundup: April 2026",
-      "summary_original": "Summary of the latest safety advice for medicines and medical device users",
-      "summary_ai_original": "Letters, medicines recalls and device notifications sent to healthcare professionals in April 2026 Direct Healthcare Professional Communications We received notification that the following Direct Healthcare Professional Communications were sent or provided to relevant healthcare ",
-      "article_text_original": "To subscribe to monthly email alerts of MHRA Safety Roundup visit our sign up page Download Document Please access the PDF version of our Safety Roundup for our easy-read template and QR codes to access the full articles. Letters, medicines recalls and device notifications sent to healthcare professionals in April 2026 Direct Healthcare Professional Communications We received notification that the following Direct Healthcare Professional Communications were sent or provided to relevant healthcare professionals in April 2026: - - - - - - - Medicine Recalls and Notifications In April 2026, recalls and notifications for medicines were issued on: Class 2 Medicines Recall: Amarox Limited, Sertraline 100mg film-coated tablets, EL(26)A/22. Issued 28 April 2026 Amarox Limited is recalling one batch of Sertraline 100 mg film-coated tablets as a precautionary measure due to an error at the manufacturing site. Class 2 Medicines Recall: Crescent Pharma Limited, Ramipril 10mg capsules, EL(26)A/19. Issued 20 April 2026. Crescent Pharma Limited is recalling one batch of Ramipril 10mg Capsules as a precautionary measure due to a potential error at the manufacturing site. Class 3 Medicines Recall: Omega Pharma Ltd, Napralief 250mg Gastro-Resistant Tablets, EL(26)A/21. Issued 23 April 2026. Omega Pharma Ltd is recalling specific batches of Napralief 250mg Gastro-Resistant Tablets due to missing text in Section 2 and Section 3 of the Patient Information Leaflet (PIL) and on the Carton in packs of Napralief 250mg Gastro-resistant tablets. Class 4 Medicines Recall: Doncaster Pharma Limited, Hiprex 1g tablets, EL(26)A/20. Issued 22 April 2026. Doncaster Pharma Limited has informed the MHRA of an error related to the Braille embossing on the outer packaging of certain parallel imported batches of Hiprex 1 g tablets (POM). Medical Device Field Safety Notices Find recently published Field Safety Notices Report suspected drug reactions and device incidents on a Yellow Card Please continue to report suspected adverse drug reactions and device incidents. Your report will help us safeguard public health. When reporting, please provide as much information as possible, including information about medical history, any concomitant medication, onset timing, treatment dates and particularly if a side effect continued or started after treatment was stopped. Report a medicine Healthcare professionals should report via a Yellow Card to: Reporting for medical devices Healthcare professionals should report incidents: Reporting for patients Patients should report via a Yellow Card to: News Roundup EMA recommends withdrawal of marketing authorisations for levamisole medicines following safety review In February 2026, EMA’s Pharmacovigilance Risk Assessment Committee (PRAC) issued a recommendation that medicines containing levamisole be withdrawn from the EU market following a safety review confirming leukoencephalopathy as a rare but serious side effect. This follows an EU-wide review which concluded that the benefits of these medicines no longer outweigh their risks for the treatment of parasitic infections in adults and children. Levamisole is a medicine licenced in the EU and indicated for the treatment of mild parasitic infections in adults and children, and is also thought to be a mild immunosuppressant. Levamisole does not hold a current UK marketing authorisation however, levamisole containing medicines are used in the UK off-label in exceptional circumstances to treat children with frequently relapsing or steroid-dependent nephrotic syndrome, to help maintain remission and lower the steroid dosage. Publication of RSV vaccine factsheet The MHRA has published a new RSV vaccine factsheet, designed to provide information and guidance for patients, parents and carers about respiratory syncytial virus (RSV), and the vaccines used to protect people at higher risk of serious illness. The factsheet covers what RSV is, who is eligible for vaccination in the UK, and the safety and effectiveness of RSV vaccines, including information on side effects and vaccination during pregnancy. This resource is now available for healthcare professionals, patients and the public. For more information, view the full RSV Vaccine Factsheet – Information for Patients, Parents and Carers. To subscribe to monthly email alerts of MHRA Safety Roundup visit our sign up page For any enquiries, please contact info@mhra.gov.uk",
-      "link": "https://www.gov.uk/drug-device-alerts/mhra-safety-roundup-april-2026",
-      "source": "MHRA",
-      "source_type": "official",
-      "source_tier": "Tier 1",
+      "id": "7aa2d0fe25ab3b36",
+      "title": "メディア習慣が米国成人のMMRワクチン躊躇と結びついている - CIDRAP",
+      "summary": "米国成人におけるMMRワクチンへの躊躇に関連するメディア習慣 CIDRAP",
+      "summary_ai": "米国成人におけるMMRワクチンへの躊躇に関連するメディア習慣 CIDRAP",
+      "title_original": "Media habits tied to MMR vaccine hesitancy in US adults - CIDRAP",
+      "summary_original": "Media habits tied to MMR vaccine hesitancy in US adults CIDRAP",
+      "summary_ai_original": "Media habits tied to MMR vaccine hesitancy in US adults CIDRAP",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSlUtMHgyQkJfcEhjbG9hbTFSVEFwUG9waDF6MG1rbllhbTEzMXIyRGx2S012eDN5NDFadWpBMVh0Z05wYTFLSk45OTczYnpkRU5DUmFkMzFidzhUb3VYOEY2R1JFRXExdVhXdENQZjFieVZHWjQ4Z0VlRkFVRm54X2VQTVo2Skc1UTVEN292OWpqS1k?oc=5",
+      "source": "CIDRAP Vaccines & Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
       "source_priority": 8,
-      "published_at": "2026-04-29T13:02:41+00:00",
+      "published_at": "2026-04-29T21:25:06+00:00",
       "topics": [
-        "communication",
-        "policy",
-        "research"
+        "communication"
       ],
       "policy_tags": [
-        "approval",
-        "communication",
-        "recommendation",
-        "safety"
+        "communication"
       ],
       "vaccines": [
-        "rsv"
+        "measles"
       ],
       "variants": [],
-      "target_country": "英国",
+      "target_country": "不明",
       "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "MHRA / London"
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "CIDRAP / Minnesota"
       },
       "plot": {
         "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "MHRA / London"
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "CIDRAP / Minnesota"
         },
         "target": {
-          "key": "uk",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "英国"
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
         }
       },
       "location": {
-        "key": "uk",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "英国"
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
       },
-      "region": "Europe",
-      "country": "英国",
-      "lat": 51.5074,
-      "lng": -0.1278,
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
       "duplicate_count": 1,
       "duplicate_sources": [
-        "MHRA"
+        "CIDRAP Vaccines & Immunization"
       ]
     },
     {
@@ -1706,142 +1976,6 @@
       ]
     },
     {
-      "id": "01093150739e0a41",
-      "title": "MHRAは医薬品へのアクセスを増やし、ライフサイエンスの世界的な目的地としての英国の地位を強化するという目標を達成",
-      "summary": "MHRA は引き続き、患者の医薬品へのアクセスを迅速化し、規制の効率を高め、英国の 1,000 億ポンドの繁栄するライフ サイエンス産業へのイノベーションと投資の誘致を支援します。",
-      "summary_ai": "本日（4月28日）発行されたMHRAの結果と予測報告書によると、医薬品・ヘルスケア製品規制庁（MHRA）は、英国の患者の医薬品および医療機器へのアクセスを増やすためのすべての法定目標を達成または上回りました。 MHRA の結果と予測",
-      "title_original": "MHRA delivers its targets to increase access to medicines and reinforce UK position as a global destination for life sciences",
-      "summary_original": "The MHRA continues to speed up access to medicines for patients, increase efficiency of regulation and help to attract innovation and investment in the UK’s thriving £100 billion life sciences industry.",
-      "summary_ai_original": "The Medicines and Healthcare products Regulatory Agency (MHRA) met or exceeded all statutory targets to increase access to medicines and medical devices for UK patients, according to the MHRA Results and Forecast report published today (28 April). The MHRA Results and Forecast re",
-      "article_text_original": "The Medicines and Healthcare products Regulatory Agency (MHRA) met or exceeded all statutory targets to increase access to medicines and medical devices for UK patients, according to the MHRA Results and Forecast report published today (28 April). The MHRA has strengthened its position as a world-leading medicines regulator by striking new global partnerships and advancing pioneering work in clinical trials reform, AI regulation, and rare disease therapeutics pathways. It continues to speed up access to medicines for patients, increase efficiency of regulation and help to attract innovation and investment in the UK’s thriving £100 billion life sciences industry. It continues to speed up access to medicines for patients, increase efficiency of regulation and help to attract innovation and investment in the UK’s thriving £100 billion life sciences industry. Building on this strong performance over the last year, the MHRA will launch a new five-year strategy later this year, setting out how UK regulation will continue to evolve to support patient safety, NHS priorities, scientific innovation, and economic growth in the UK life sciences sector through to 2030. The MHRA Results and Forecast report shows that in the 2025/2026 financial year, the MHRA: Strengthened patient and public safety: Tackling health misinformation, introducing stronger post- market surveillance rules for medical devices, removing nearly 28 million unauthorised medicine doses and modernising safety monitoring through enhanced vigilance systems. Delivering against every statutory commitment, meeting all key performance indicators with excellent on-time performance across licensing, clinical trials, and safety decisions. Ended the year in financial surplus: Closing the year in a strong financial position, achieving a healthy surplus that reflects improved stability and disciplined operational delivery. Led in key areas of regulatory science: Strengthening global leadership in regulatory science, investing in AI, in-silico research, and innovative methodologies, while advancing pioneering work in clinical trials reform, AI regulation, and rare disease pathways. Built closer national and international partnerships: Strengthening collaboration across the UK and globally, including the MHRA–National Institute for Health and Care Excellence’s (NICE) aligned pathway to accelerate patient access, a new UK–Singapore Innovation Corridor, inaugural membership of the HealthAI network and collaboration with the US Food and Drug Administration (FDA) on medicinal device regulation as part of the wider US-UK pharmaceutical partnership. Enjoyed an increase in external sentiment: Demonstrating a sustained improvement in external perception, with independent research showing more positive views among industry, partners, and system stakeholders over the past 12–18 months. And also a rise in staff morale: Increased staff engagement, with record participation in the staff survey, and a significant improvement in the Engagement Score, reflecting a more motivated and growing workforce. Health Minister Dr Zubir Ahmed, said: “This past year has shown what a modern regulator looks like: patients first, pace where it matters, and standards that never slip. The MHRA has made tangible progress on this Government’s ambitions for the NHS, public health, and the Life Sciences Sector Plan. The direction of travel is clear. With the MHRA operating as a high-performance regulator, the UK is positioned as a global destination for life sciences that is open to innovation, serious about safety, and credible on the world stage.” Lord Vallance, Minister for Science, Innovation, Research and Nuclear, said: “A strong life sciences sector depends on a regulator that is trusted by patients, by clinicians and by innovators. The MHRA is demonstrating that trustworthiness through its commitment to delivering for the NHS, public health, and economic growth. The MHRA’s progress and future direction strengthens the UK’s proposition as a global destination for research and development.” Lawrence Tallon, MHRA Chief Executive, said: “We have a regulatory environment that’s scientifically rigorous, agile and has patients at its heart. Whether it’s enabling access to the next generation of medicines and health technologies or protecting patients from harm, our success is measured not just in frameworks and timelines, but in improved lives. “With every performance target met, a strong financial position and more innovative medicines reaching patients, this is high quality regulation in practice. It is testament to the dedication of our committed and expert workforce and the strong partnerships we have with the wider UK and global health and life sciences system.” Professor Anthony Harnden, MHRA Chair, said: “Over the past year, the MHRA has demonstrated what regulatory excellence looks like in practice. This progress is the result of the skill, professionalism, and commitment of MHRA staff across science, regulation, digital, policy and services. “Working across the UK health system with researchers, industry, and international counterparts, I have seen first-hand how collaboration strengthens regulation and accelerates access to safe innovation. “Globally, the MHRA’s contribution to regulatory science is well respected. Our leadership and trusted standards support health systems worldwide. As we look ahead, the MHRA enters the next chapters confident and ambitious that we are a regulator the public can trust and the world can rely on.” Stakeholder quotes Jane Wall, Managing Director of the BioIndustry Association (BIA) said: “The MHRA’s strong performance over the past year reflects a regulator that is listening and evolving. The forward-looking initiatives showcased in this report – including the development of a new rare disease pathway – highlight the value of collaborative working to accelerate innovation and delivering better outcomes for patients across the UK. We look forward to continuing to collaborate closely with the MHRA to build on this momentum.” Professor Jonathan Benger, CBE MD FRCS FRCEM, Chief Executive of the National Institute for Health and Care Excellence (NICE) said: “Continuing improvements to joint working between NICE and the MHRA are creating a more integrated and frictionless pathway from regulation to patient access. By aligning our expertise earlier and more closely, we can support innovation, reduce duplication, and provide clearer, faster routes for effective new medicines and technologies to reach patients sooner.” Julia Vitarello, patient advocate and Founder of Mila’s Miracle Foundation, said: “For families like mine facing rare genetic diseases, progress is measured by by how many sick and dying children can access today’s incredible technologies in time. The MHRA is truly leading the way through action, paving the world’s first pathway toward process-based approvals to meet the new very promising era of individualised medicines. If successful, the UK will prove a new bridge connecting patients in desperate need with the science that can save lives.” Dr Matt Westmore, Chief Executive of the Health Research Agency (HRA), said: “One of the UK’s core strengths in health and care research is our joined up regulatory system. Through close partnership between MHRA, HRA and others, we have streamlined and simplified the approvals pathway. By reducing duplication and complexity we’re giving researchers a faster, more predictable experience from start to finish. I’m particularly proud of our work together on Combined Review which continues to go from strength-to-strength, helping patients access potentially life changing research sooner.” Richard Torbett, Chief Executive, Association of the British Pharmaceutical Industry (ABPI), said: “Over the past year, the MHRA has continued to make important progress in strengthening the UK’s regulatory environment for medicines and vaccines, particularly in the provision of predictable and reliable services. Improved efficiency around clinical trial approvals, alongside enhanced safety surveillance is also helping to support earlier patient access to innovative medicines while maintaining robust regulatory standards. “This progress is helping to boost the UK’s position as an attractive environment for life sciences research and earlier patient access. It is encouraging to see this momentum in the evolution of the regulatory system, and we hope to see it continue in the years ahead.” Peter Ellingworth, CEO, Association of British Health Tech Industries (ABHI), said: “The MHRA’s outward-looking and collaborative approach is welcome, particularly its engagement with global partners to drive regulatory harmonisation. Greater alignment across markets will help reduce complexity and reinforce the UK’s position as a competitive destination for HealthTech innovation and investment. ABHI values its continued engagement with the MHRA and the opportunity to work together to deliver these important reforms.” “The progress made since I published my review in 2023 has been remarkable. The MHRA is now delivering consistently good approval times while introducing further reforms that are adding speed and flexibility to the process. The MHRA is once again taking a global lead, which is helping to attract more clinical trials to the UK.” Michelle Riddalls OBE, CEO, PAGB, the consumer healthcare association shares: “Lawrence Tallon’s commitment to engaging and collaborating with industry associations has significantly advanced MHRA’s understanding of consumer healthcare priorities this year. His leadership has facilitated new opportunities to discuss practical and impactful ways to expand medicine reclassification and empower self-care. “Reclassification is a key opportunity to expand access to medicines, support self-care, and reduce pressure on NHS services. MHRA has a real opportunity to accelerate this shift and, through initiatives like the Access Consortium, further drive international collaboration, and innovation.” Dr Ricardo Baptista Leite, CEO, HealthAI - The Global Agency for Responsible AI in Health, said: “As the first pioneer country in the HealthAI Global Regulatory Network, the UK has helped turn responsible AI in health from a promise into a concrete global ambition. By coupling bold reform with a clear commitment to safety and equity, the MHRA is charting a path that can inspire innovators, regulators and investors worldwide to build AI-powered health systems that truly serve people.” Steve Bates OBE, Executive Chair of the Office for Life Sciences said: “In the past year, we have seen the UK’s regulatory environment generating real excitement among international stakeholders. The MHRA has been central to this, driving innovation through more agile, responsive pathways.” Adjunct Professor (Dr) Raymond Chua, Chief Executive Officer, Health Sciences Authority (HSA), Singapore, said: “Our longstanding partnership with the MHRA has strengthened through the launch of our Regulatory Innovation Corridor, and refreshed memorandum of understanding. As a globally connected biomedical hub, Singapore is committed to shaping a forward-looking regulatory environment with like-minded partners like the MHRA. Together, we are accelerating innovation in Singapore and the UK to deliver transformative technologies to benefit patients, while upholding the highest standards of safety, trust, and excellence.” Notes to editors: - The MHRA’s Results and Forecast is available at: MHRA Results and Forecast 2025/26; 2026/27 - GOV.UK - The Medicines and Healthcare products Regulatory Agency (MHRA) is responsible for regulating all medicines and medical devices in the UK by ensuring they work and are acceptably safe. All our work is underpinned by robust and fact-based judgements to ensure that the benefits justify any risks. - The MHRA is an executive agency of the Department of Health and Social Care. - For media enquiries, please contact the newscentre@mhra.gov.uk or call on 020 3080 7651.",
-      "link": "https://www.gov.uk/government/news/mhra-delivers-its-targets-to-increase-access-to-medicines-and-reinforce-uk-position-as-a-global-destination-for-life-sciences",
-      "source": "MHRA",
-      "source_type": "official",
-      "source_tier": "Tier 1",
-      "source_priority": 8,
-      "published_at": "2026-04-28T09:07:00+00:00",
-      "topics": [
-        "communication",
-        "policy",
-        "research"
-      ],
-      "policy_tags": [
-        "approval",
-        "communication",
-        "safety"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "シンガポール",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "MHRA / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "MHRA / London"
-        },
-        "target": {
-          "key": "singapore",
-          "name_ja": "シンガポール",
-          "lat": 1.3521,
-          "lng": 103.8198,
-          "region": "Asia",
-          "label": "シンガポール"
-        }
-      },
-      "location": {
-        "key": "singapore",
-        "name_ja": "シンガポール",
-        "lat": 1.3521,
-        "lng": 103.8198,
-        "region": "Asia",
-        "label": "シンガポール"
-      },
-      "region": "Asia",
-      "country": "シンガポール",
-      "lat": 1.3521,
-      "lng": 103.8198,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "MHRA"
-      ]
-    },
-    {
-      "id": "b4aa5f1104650d6d",
-      "title": "米国のワクチン政策の現状 — 2026 年 4 月 28 日 - CIDRAP",
-      "summary": "米国のワクチン政策の現状 — 2026 年 4 月 28 日 CIDRAP",
-      "summary_ai": "米国のワクチン政策の現状 — 2026 年 4 月 28 日 CIDRAP",
-      "title_original": "The State of US Vaccine Policy — Apr 28, 2026 - CIDRAP",
-      "summary_original": "The State of US Vaccine Policy — Apr 28, 2026 CIDRAP",
-      "summary_ai_original": "The State of US Vaccine Policy — Apr 28, 2026 CIDRAP",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMGJvUjVVaTZrY3dHbUhwbmZJa3ZUZkdNdTllRVRfZmgtZk9nRkt0dW5QQV9fTGZzc3dXZmM1aU9xUlhUdXY4cXVWNFc2RUlkMFYyOElpM1Y0YVRXVlp3YlJvR2d5QWFQUlE4SWFKUlNmSEhPbmV0ZmZad0hidE45SjRCR1BPOHdp?oc=5",
-      "source": "CIDRAP Vaccines & Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 8,
-      "published_at": "2026-04-28T07:00:00+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "CIDRAP / Minnesota"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "CIDRAP / Minnesota"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "CIDRAP Vaccines & Immunization"
-      ]
-    },
-    {
       "id": "520b442b6427e66c",
       "title": "流行波全体にわたるハイブリッド免疫を研究するための抗体動態と検査陰性ワクチンの有効性を結び付けるベイジアン共同モデリングフレームワーク - medRxiv",
       "summary": "流行波全体にわたるハイブリッド免疫を研究するための抗体動態と検査陰性ワクチンの有効性を結び付けるベイジアン共同モデリングフレームワーク medRxiv",
@@ -1904,75 +2038,6 @@
       "duplicate_count": 2,
       "duplicate_sources": [
         "medRxiv vaccines"
-      ]
-    },
-    {
-      "id": "0b1f4509eda7799c",
-      "title": "B型肝炎ワクチンに関する米国の新たな推奨は悲惨な結果を招く、研究プロジェクト - statnews.com",
-      "summary": "B型肝炎ワクチンに関する米国の新たな推奨は悲惨な結果を招く、研究プロジェクト statnews.com",
-      "summary_ai": "B型肝炎ワクチンの推奨は悲惨な結果をもたらす、研究プロジェクト statnews.com",
-      "title_original": "New U.S. recommendation on hepatitis B vaccine will have dire consequences, studies project - statnews.com",
-      "summary_original": "New U.S. recommendation on hepatitis B vaccine will have dire consequences, studies project statnews.com",
-      "summary_ai_original": "recommendation on hepatitis B vaccine will have dire consequences, studies project statnews.com",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNV08yMU1hRjVLOUJjWGpSMUhFd1FUak1PdVpSeF9SaHFYcHYwMm1UMU5Od2FnUms0TVhldmxna3pxQVlTZkRHanRWaFFkX2wxWXpYaXd0VkFiMWUyalh3cnBiQUpzLTJBb2VSZE1OQjM2dlZ2cjM3TExIa1VNNUROWHI0MVdyeTNaenc?oc=5",
-      "source": "STAT Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-04-28T00:13:07+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [
-        "recommendation"
-      ],
-      "vaccines": [
-        "hepatitis"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "STAT"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "STAT"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "STAT Vaccines / Immunization"
       ]
     },
     {
@@ -2049,47 +2114,47 @@
       ]
     },
     {
-      "id": "c66e7cbac541dc23",
-      "title": "2017/2018年の流行に対するユービコールと経口コレラワクチンの2回接種の有効性 - BMJ Open",
-      "summary": "2017/2018年の流行に対するユービコールと経口コレラワクチンの2回接種の有効性 BMJ Open",
-      "summary_ai": "2017/2018年の流行に対するユービコールと経口コレラワクチンの2回接種の有効性 BMJ Open",
-      "title_original": "Effectiveness of two doses of Euvichol- plus oral cholera vaccine in response to the 2017/2018 outbreak - BMJ Open",
-      "summary_original": "Effectiveness of two doses of Euvichol- plus oral cholera vaccine in response to the 2017/2018 outbreak BMJ Open",
-      "summary_ai_original": "Effectiveness of two doses of Euvichol- plus oral cholera vaccine in response to the 2017/2018 outbreak BMJ Open",
+      "id": "0b1f4509eda7799c",
+      "title": "B型肝炎ワクチンに関する米国の新たな推奨は悲惨な結果を招く、研究プロジェクト - statnews.com",
+      "summary": "B型肝炎ワクチンに関する米国の新たな推奨は悲惨な結果を招く、研究プロジェクト statnews.com",
+      "summary_ai": "B型肝炎ワクチンの推奨は悲惨な結果をもたらす、研究プロジェクト statnews.com",
+      "title_original": "New U.S. recommendation on hepatitis B vaccine will have dire consequences, studies project - statnews.com",
+      "summary_original": "New U.S. recommendation on hepatitis B vaccine will have dire consequences, studies project statnews.com",
+      "summary_ai_original": "recommendation on hepatitis B vaccine will have dire consequences, studies project statnews.com",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GRXo0VXBjVURvV2xSM3BMMEVwVURJSTRKNkdob0lUazc3VHRyNnpLTm9reGlIdHZNU0lQeklGZFN5YjRVbEhNRlFrdjl5U3JMVkVUMTNjWUk0SzlUbVozOFNpVjhVeFRYQjVfeXlpaw?oc=5",
-      "source": "BMJ",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-04-26T21:23:30+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNV08yMU1hRjVLOUJjWGpSMUhFd1FUak1PdVpSeF9SaHFYcHYwMm1UMU5Od2FnUms0TVhldmxna3pxQVlTZkRHanRWaFFkX2wxWXpYaXd0VkFiMWUyalh3cnBiQUpzLTJBb2VSZE1OQjM2dlZ2cjM3TExIa1VNNUROWHI0MVdyeTNaenc?oc=5",
+      "source": "STAT Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-04-27T07:00:00+00:00",
       "topics": [
-        "research"
+        "policy"
       ],
       "policy_tags": [
-        "outbreak_response"
+        "recommendation"
       ],
       "vaccines": [
-        "cholera"
+        "hepatitis"
       ],
       "variants": [],
       "target_country": "不明",
       "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BMJ / London"
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "STAT"
       },
       "plot": {
         "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BMJ / London"
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "STAT"
         },
         "target": {
           "key": "unknown",
@@ -2114,7 +2179,7 @@
       "lng": 0.0,
       "duplicate_count": 1,
       "duplicate_sources": [
-        "BMJ"
+        "STAT Vaccines / Immunization"
       ]
     },
     {
@@ -2185,20 +2250,20 @@
       ]
     },
     {
-      "id": "53e223b7581d0742",
-      "title": "インフルエンザ関連の入院および救急部門または救急医療への遭遇に対するインフルエンザワクチンの有効性 - medRxiv",
-      "summary": "インフルエンザ関連の入院および救急部門または救急医療に対するインフルエンザワクチンの有効性 medRxiv",
-      "summary_ai": "インフルエンザ関連の入院および救急部門または救急医療に対するインフルエンザワクチンの有効性 medRxiv",
-      "title_original": "Influenza vaccine effectiveness against influenza-associated hospitalizations and emergency department or urgent care encounters - medRxiv",
-      "summary_original": "Influenza vaccine effectiveness against influenza-associated hospitalizations and emergency department or urgent care encounters medRxiv",
-      "summary_ai_original": "Influenza vaccine effectiveness against influenza-associated hospitalizations and emergency department or urgent care encounters medRxiv",
+      "id": "0f9a4cff9f6c99a3",
+      "title": "子供と成人におけるインフルエンザ関連の入院および救急部門または救急医療への遭遇に対するインフルエンザワクチンの有効性 - 米国、2024-25シーズン - medRxiv",
+      "summary": "子供と成人の間でのインフルエンザ関連の入院および救急部門または救急医療への遭遇に対するインフルエンザワクチンの有効性 - 米国、2024-25 シーズン medRxiv",
+      "summary_ai": "子供と成人の間でのインフルエンザ関連の入院および救急部門または救急医療への遭遇に対するインフルエンザワクチンの有効性 - 米国、2024-25 シーズン medRxiv",
+      "title_original": "Influenza vaccine effectiveness against influenza-associated hospitalizations and emergency department or urgent care encounters among children and adults - United States, 2024-25 season - medRxiv",
+      "summary_original": "Influenza vaccine effectiveness against influenza-associated hospitalizations and emergency department or urgent care encounters among children and adults - United States, 2024-25 season medRxiv",
+      "summary_ai_original": "Influenza vaccine effectiveness against influenza-associated hospitalizations and emergency department or urgent care encounters among children and adults - United States, 2024-25 season medRxiv",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1yMkR2ak80eUtGLVd0NDh4M2drdDMwU1IyQmM4SHRmS1JIUk1xdjNyTUdmSlVNU2VtWU44b2t2WjZ2MVdid2tQVmhkemtCc1c0RmJ4WFFia2lKSUI3Z3VqZFY1bXZqNXhiVlZSeWdaVEJQV21zRmlReWdQZw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1oMDk1UUZma0g1a1FlZzlNRER4TW51Ukl6VTBCazJfcTFTcXREQlNnajJVTDFNVmJLNEtxaFY2bW4tN0NGMTVDZF9nMHpEWjZwbFlfUE9ydUpyYURucC1FbkJLbmI4emFSaThwemJjNA?oc=5",
       "source": "medRxiv vaccines",
       "source_type": "preprint",
       "source_tier": "Tier 3",
       "source_priority": 7,
-      "published_at": "2026-04-24T07:00:00+00:00",
+      "published_at": "2026-04-24T22:47:57+00:00",
       "topics": [
         "research"
       ],
@@ -2209,7 +2274,7 @@
         "influenza"
       ],
       "variants": [],
-      "target_country": "不明",
+      "target_country": "米国",
       "source_location": {
         "key": "united states",
         "name_ja": "米国",
@@ -2228,27 +2293,27 @@
           "label": "medRxiv"
         },
         "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "米国"
         }
       },
       "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "米国"
       },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
+      "region": "North America",
+      "country": "米国",
+      "lat": 38.9072,
+      "lng": -77.0369,
+      "duplicate_count": 2,
       "duplicate_sources": [
         "medRxiv vaccines"
       ]
@@ -2316,282 +2381,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "Science Vaccines / Immunization"
-      ]
-    },
-    {
-      "id": "6d916833c894440b",
-      "title": "アメリカ大陸で麻疹症例が増加中、PAHOがワクチン接種の強化を呼びかけ",
-      "summary": "アメリカ大陸で麻疹症例が増加中、PAHO、ワクチン接種の強化を呼びかけ オスカー・レイエス 2026年4月23日",
-      "summary_ai": "アメリカ大陸のワクチン接種週間は、720万人以上の子供への追加ワクチン接種を含む、複数の病気に対する約9,000万回分のワクチンの供給を支援する予定 ワシントンD.C.、2026年4月23日（PAHO） – 汎米保健機構（PAHO）tod",
-      "title_original": "PAHO calls to strengthen vaccination amid rising measles cases in the Americas",
-      "summary_original": "PAHO calls to strengthen vaccination amid rising measles cases in the Americas Oscar Reyes 23 Apr 2026",
-      "summary_ai_original": "Vaccination Week in the Americas will support the delivery of around 90 million doses of vaccines against multiple diseases, including catch-up vaccination for more than 7.2 million children Washington, D.C., April 23, 2026 (PAHO) – The Pan American Health Organization (PAHO) tod",
-      "article_text_original": "Vaccination Week in the Americas will support the delivery of around 90 million doses of vaccines against multiple diseases, including catch-up vaccination for more than 7.2 million children Washington, D.C., April 23, 2026 (PAHO) – The Pan American Health Organization (PAHO) today urged countries in the region to intensify immunization efforts as part of Vaccination Week in the Americas (VWA), to be held from April 25 to May 2. The call comes amid sustained gains in vaccination coverage, which have not yet been sufficient to prevent a sharp resurgence of measles, with cases already surpassing totals recorded for all of 2025. “The Region of the Americas has positioned itself as a global leader in immunization. We are the first region to have eliminated polio, rubella, and congenital rubella syndrome, and the only one that has recovered and improved vaccination coverage to pre-pandemic levels,” said PAHO Director Dr. Jarbas Barbosa during a press briefing in Washington. Between 1974 and 2024, childhood vaccination in the Americas prevented an estimated 15 million deaths among children under five, more than 1.1 billion cases of disability, and nearly 28.4 billion cases of illness. However, the PAHO Director warned that “important gaps remain that we must close.” Vaccination Week in the Americas aims to address those gaps. Since its launch in 2002, the initiative has highlighted the importance of vaccination as a cornerstone of public health and enabled the administration of more than 1.2 billion vaccine doses across the region. This year, for the first time, the regional launch will take place in Ottawa, Canada, on April 27. In 2024, regional coverage for the measles, mumps, and rubella (MMR) vaccine reached 89% for the first dose and 79% for the second, while coverage for the third dose of the diphtheria, pertussis, and tetanus (DPT) vaccine reached 87%. Despite this progress, more than 1.4 million children did not receive a single dose of these or other vaccines. “These children are not numbers—they are lives, families, and entire communities at risk,” Barbosa stressed. As part of this year’s activities, 21 countries plan to administer nearly 90 million doses, including more than 80 million influenza vaccines and catch-up vaccination for 7.2 million children with incomplete or zero-dose schedules. Measles resurgence: a reversible setback During the press briefing, the PAHO Director also raised concern about the increase in measles cases in the region. The Americas were the first region in the world to eliminate measles in 2016; this status was lost in 2018, regained in 2024, and lost again in 2025. In 2025, 14,767 confirmed cases were reported across 13 countries—nearly 32 times more than in 2024. The trend continues in 2026: as of April 5, more than 15,300 cases have already been reported, exceeding last year’s total. Globally, more than 250,000 measles cases were reported in 2025, over half of them in Africa, the Western Pacific Region, and Europe. Less than 6% occurred in the Americas. However, in the first three months of 2026, the region accounted for 21% of reported cases worldwide. “The re-emergence of measles in the Americas is a significant setback, but one that is entirely reversible and demands decisive action,” Barbosa said. He warned that measles “is not a mild disease” and can lead to serious complications such as pneumonia, encephalitis, and blindness—and even death. In 2025, around 13% of those infected required hospitalization, and 93% were unvaccinated. Between 2025 and the first quarter of 2026, 43 measles-related deaths have been reported in the region. “The main challenge is not the availability of vaccines, but reaching those who remain unprotected in time,” he said, noting that low risk perception, misinformation, and barriers to access have contributed to declining coverage in some populations. Because measles is highly contagious, maintaining elimination requires coverage above 95% with two doses. “A single case can spark an outbreak if we do not achieve these levels of protection,” he warned. PAHO is supporting countries by strengthening surveillance, rapid outbreak response, and immunization planning at local level, while also facilitating equitable access to vaccines through its Revolving Funds. In 2025 alone, these mechanisms enabled the procurement of 234 million doses with savings of nearly 50%. “Elimination is not a trophy to be stored away—it is an achievement that must be defended every day,” Barbosa said. “We have stopped measles before. We can do it again.” He concluded by emphasizing that vaccination “is not only an individual decision—it is an act of collective solidarity,” and reiterated that the region can move toward a future where vaccine-preventable diseases no longer pose a threat to public health.",
-      "link": "https://www.paho.org/en/news/23-4-2026-paho-calls-strengthen-vaccination-amid-rising-measles-cases-americas",
-      "source": "PAHO News",
-      "source_type": "official",
-      "source_tier": "Tier 1",
-      "source_priority": 8,
-      "published_at": "2026-04-23T15:34:01+00:00",
-      "topics": [
-        "communication",
-        "policy"
-      ],
-      "policy_tags": [
-        "communication",
-        "financing",
-        "outbreak_response",
-        "schedule"
-      ],
-      "vaccines": [
-        "influenza"
-      ],
-      "variants": [],
-      "target_country": "カナダ",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "PAHO / Washington DC"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "PAHO / Washington DC"
-        },
-        "target": {
-          "key": "canada",
-          "name_ja": "カナダ",
-          "lat": 45.4215,
-          "lng": -75.6972,
-          "region": "North America",
-          "label": "カナダ"
-        }
-      },
-      "location": {
-        "key": "canada",
-        "name_ja": "カナダ",
-        "lat": 45.4215,
-        "lng": -75.6972,
-        "region": "North America",
-        "label": "カナダ"
-      },
-      "region": "North America",
-      "country": "カナダ",
-      "lat": 45.4215,
-      "lng": -75.6972,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "PAHO News"
-      ]
-    },
-    {
-      "id": "4052792e32d58dfd",
-      "title": "ウゲニャ準郡における生後6～59か月の子供の養育者におけるマラリアワクチンへの躊躇に関連する要因 - medRxiv",
-      "summary": "ウゲニャ準郡における生後6～59か月の子どもの養育者におけるマラリアワクチン接種への躊躇に関連する要因 medRxiv",
-      "summary_ai": "ウゲニャ準郡における生後6～59か月の子どもの養育者におけるマラリアワクチン接種への躊躇に関連する要因 medRxiv",
-      "title_original": "Factors Associated with Malaria Vaccine Hesitancy Among Caregivers of Children 6-59 Months, In Ugenya Sub County - medRxiv",
-      "summary_original": "Factors Associated with Malaria Vaccine Hesitancy Among Caregivers of Children 6-59 Months, In Ugenya Sub County medRxiv",
-      "summary_ai_original": "Factors Associated with Malaria Vaccine Hesitancy Among Caregivers of Children 6-59 Months, In Ugenya Sub County medRxiv",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE82T01od3ExY0lLcWFORnZMZWdGeTNlN21SUnRlaXVJakI1VGJKUG03UkdMOC1UZ1dIV2Q3SVg2MWNoODhRdmRQeWZzNVUyYXNRaHhuR2lYRlJZYXZkYnhMV0x6T1JfSGF1SW9tMW1Ddkpna3UwbmZsNEt1OA?oc=5",
-      "source": "medRxiv vaccines",
-      "source_type": "preprint",
-      "source_tier": "Tier 3",
-      "source_priority": 7,
-      "published_at": "2026-04-23T07:00:00+00:00",
-      "topics": [
-        "communication"
-      ],
-      "policy_tags": [
-        "communication"
-      ],
-      "vaccines": [
-        "malaria"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "medRxiv"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "medRxiv"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 2,
-      "duplicate_sources": [
-        "medRxiv vaccines"
-      ]
-    },
-    {
-      "id": "ec8f2ebe23b391d2",
-      "title": "ドーセット州で鳥インフルエンザワクチン治験ボランティア募集 - BBC",
-      "summary": "ドーセットBBCで鳥インフルエンザワクチン治験ボランティア募集",
-      "summary_ai": "ドーセットBBCで鳥インフルエンザワクチン治験ボランティア募集",
-      "title_original": "Call for bird flu vaccine trial volunteers in Dorset - BBC",
-      "summary_original": "Call for bird flu vaccine trial volunteers in Dorset BBC",
-      "summary_ai_original": "Call for bird flu vaccine trial volunteers in Dorset BBC",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Mei1ZR3oxWU1pTGN6T3hiM0xpWUIzcEpxUXJPdTRhbW0yamctbXk0d3lqSlF6blVadlVtRklLSWlIY3NZdW9XTGtjdFNNZ1NodkZ4WHFRWElXdw?oc=5",
-      "source": "BBC Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-04-23T07:00:00+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "influenza"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BBC"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BBC"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "BBC Vaccines / Immunization"
-      ]
-    },
-    {
-      "id": "c58fe53de78e1db5",
-      "title": "ワクチンの推奨はどのように行われますか? - ランセット",
-      "summary": "ワクチンの推奨はどのように行われますか?ランセット",
-      "summary_ai": "ワクチンの推奨はどのように行われますか?",
-      "title_original": "How are vaccine recommendations made? - The Lancet",
-      "summary_original": "How are vaccine recommendations made? The Lancet",
-      "summary_ai_original": "How are vaccine recommendations made?",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaFZtSGNlSkNoSHBiZXY5ZFRDMnRJMzQxVEt3ajdBTHVBR2ZUOUFzNTUzbVAyb3dBX3VaQlJ4THpHcGIzYUphdXRTTlZvRmxObEkwMGptR1JLSU00T3pZcDZCSW5IdDdxMFR3d1VVX2M3b0QySVdHZUpLcXlzYjhCRFhPTDRyN1FkYVB3?oc=5",
-      "source": "Lancet Infectious Diseases",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-04-23T03:55:00+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [
-        "recommendation"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "Lancet Infectious Diseases / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "Lancet Infectious Diseases / London"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Lancet Infectious Diseases"
       ]
     }
   ]
