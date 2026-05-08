@@ -30,7 +30,7 @@ STOPWORDS = {
     "vaccine","vaccines","immunization","immunisation"
 }
 
-TRANSLATION_VERSION = "ja-v2-glossary"
+TRANSLATION_VERSION = "ja-v3-journal-cleanup"
 
 
 def load_json(path: Path, default):
@@ -164,6 +164,31 @@ def postprocess_japanese_translation(text: str) -> str:
     text = re.sub(r"([A-Za-z0-9])\s+([A-Za-z0-9])", r"\1 \2", text)
     text = re.sub(r"([\")」』）])\s+(は|が|を|に|で|と|の|へ|から|まで)", r"\1\2", text)
     text = re.sub(r"(COVID-19|RSV|HPV|mRNA|MVA-BN|JN\.1|XBB\.1\.5)\s+(ワクチン|接種|対応)", r"\1\2", text)
+    for suffix in ["ユーロサーベイランス", "ランセット", "ネイチャー・メディシン", "ネイチャー", "サイエンス", "英国医学雑誌", "ニューイングランド医学ジャーナル"]:
+        text = re.sub(rf"\s*(?:[-–—|｜:：]\s*)?{suffix}\s*$", "", text, flags=re.I)
+    return normalize_space(text)
+
+
+JOURNAL_SUFFIXES = [
+    "The Lancet", "Lancet Infectious Diseases", "The Lancet Infectious Diseases", "eClinicalMedicine", "EBioMedicine",
+    "NEJM", "New England Journal of Medicine", "BMJ", "JAMA", "JAMA Network Open", "JAMA Pediatrics", "JAMA Internal Medicine",
+    "Nature Medicine", "Nature Communications", "Nature Microbiology", "Nature Immunology", "Nature Reviews Immunology", "npj Vaccines", "Nature",
+    "Science", "Science Translational Medicine", "Science Advances", "Science Immunology",
+    "Eurosurveillance", "Vaccine", "Vaccine: X", "Clinical Infectious Diseases", "Journal of Infectious Diseases",
+    "Open Forum Infectious Diseases", "Emerging Infectious Diseases", "Pediatrics", "PLOS", "PLOS Medicine", "PLOS Global Public Health",
+    "International Journal of Infectious Diseases", "Clinical Microbiology and Infection", "Cochrane Library", "Journal of Travel Medicine"
+]
+
+
+def strip_journal_suffix(text: str, source_name: str = "") -> str:
+    text = normalize_space(text)
+    if not text:
+        return ""
+    candidates = [source_name] + JOURNAL_SUFFIXES
+    for src in [c for c in candidates if c]:
+        escaped = re.escape(src)
+        text = re.sub(rf"\s*(?:[-–—|｜:：]\s*)?{escaped}\s*$", "", text, flags=re.I)
+        text = re.sub(rf"\s*{escaped}\s*$", "", text, flags=re.I)
     return normalize_space(text)
 
 def translate_text(text: str, cache: dict, target_lang: str = "ja") -> str:
@@ -492,8 +517,8 @@ def main():
                 if published < since:
                     continue
                 seen += 1
-                title_original = normalize_space(entry.get("title", ""))
-                summary_original = extract_summary(entry)
+                title_original = strip_journal_suffix(normalize_space(entry.get("title", "")), name)
+                summary_original = strip_journal_suffix(extract_summary(entry), name)
                 link = entry.get("link", "")
                 article_text_original = fetch_article_text(link, text_cache)
                 if not should_keep_item(title_original, summary_original, article_text_original, link, source_type, config):
@@ -504,7 +529,7 @@ def main():
                 vaccines = classify_vaccines(merged, config)
                 variants = extract_variants(merged, config)
                 target_loc = detect_country(merged, config)
-                summary_ai_original = summarize_article(title_original, article_text_original, summary_original)
+                summary_ai_original = strip_journal_suffix(summarize_article(title_original, article_text_original, summary_original), name)
                 item = {
                     "id": make_item_id(link, title_original),
                     "title": translate_text(title_original, cache, config.get("default_language", "ja")),

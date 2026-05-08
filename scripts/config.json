@@ -175,6 +175,114 @@
       "origin_label": "npj Vaccines / London"
     },
     {
+      "name": "Nature Medicine vaccines",
+      "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fnm%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20uptake%20OR%20policy)&hl=en-US&gl=GB&ceid=GB%3Aen",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "priority": 9,
+      "origin_key": "united kingdom",
+      "origin_label": "Nature Medicine"
+    },
+    {
+      "name": "Nature Communications vaccines",
+      "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fncomms%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20surveillance)&hl=en-US&gl=GB&ceid=GB%3Aen",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "priority": 8,
+      "origin_key": "united kingdom",
+      "origin_label": "Nature Communications"
+    },
+    {
+      "name": "Nature Microbiology vaccines",
+      "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fnmicrobiol%20(effectiveness%20OR%20safety%20OR%20immunogenicity%20OR%20variant%20OR%20pathogen)&hl=en-US&gl=GB&ceid=GB%3Aen",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "priority": 8,
+      "origin_key": "united kingdom",
+      "origin_label": "Nature Microbiology"
+    },
+    {
+      "name": "Nature Immunology vaccines",
+      "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fni%20(immunogenicity%20OR%20antibody%20OR%20immune%20response%20OR%20trial)&hl=en-US&gl=GB&ceid=GB%3Aen",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "priority": 7,
+      "origin_key": "united kingdom",
+      "origin_label": "Nature Immunology"
+    },
+    {
+      "name": "Nature Reviews Immunology vaccines",
+      "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fnri%20(review%20OR%20immunogenicity%20OR%20policy%20OR%20effectiveness)&hl=en-US&gl=GB&ceid=GB%3Aen",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "priority": 7,
+      "origin_key": "united kingdom",
+      "origin_label": "Nature Reviews Immunology"
+    },
+    {
+      "name": "Science vaccines",
+      "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ascience.org%2Fdoi%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20antibody)&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "priority": 9,
+      "origin_key": "united states",
+      "origin_label": "Science"
+    },
+    {
+      "name": "Science Translational Medicine vaccines",
+      "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ascience.org%2Fjournal%2Fstm%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity)&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "priority": 9,
+      "origin_key": "united states",
+      "origin_label": "Science Translational Medicine"
+    },
+    {
+      "name": "Science Advances vaccines",
+      "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ascience.org%2Fjournal%2Fsciadv%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20epidemiology)&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "priority": 8,
+      "origin_key": "united states",
+      "origin_label": "Science Advances"
+    },
+    {
+      "name": "Science Immunology vaccines",
+      "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ascience.org%2Fjournal%2Fsciimmunol%20(immunogenicity%20OR%20antibody%20OR%20immune%20response%20OR%20trial)&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "priority": 8,
+      "origin_key": "united states",
+      "origin_label": "Science Immunology"
+    },
+    {
+      "name": "JAMA vaccines",
+      "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjama%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "priority": 9,
+      "origin_key": "united states",
+      "origin_label": "JAMA"
+    },
+    {
+      "name": "JAMA Network Open vaccines",
+      "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjamanetworkopen%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "priority": 9,
+      "origin_key": "united states",
+      "origin_label": "JAMA Network Open"
+    },
+    {
+      "name": "JAMA Internal Medicine vaccines",
+      "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjamainternalmedicine%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "priority": 8,
+      "origin_key": "united states",
+      "origin_label": "JAMA Internal Medicine"
+    },
+    {
       "name": "Eurosurveillance",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Aeurosurveillance.org&hl=en-US&gl=EU&ceid=EU%3Aen",
       "source_type": "academic",
@@ -269,7 +377,7 @@
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "source_type": "media",
       "source_tier": "Tier 2",
-      "priority": 7,
+      "priority": 5,
       "origin_key": "united kingdom",
       "origin_label": "Nature News"
     },
@@ -278,7 +386,7 @@
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Ascience.org&hl=en-US&gl=US&ceid=US%3Aen",
       "source_type": "media",
       "source_tier": "Tier 2",
-      "priority": 7,
+      "priority": 5,
       "origin_key": "united states",
       "origin_label": "Science"
     },

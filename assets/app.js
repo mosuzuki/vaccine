@@ -107,6 +107,35 @@ function textOf(item){
   ].join(' ').toLowerCase();
 }
 
+
+const JOURNAL_SUFFIX_PATTERNS = [
+  'The Lancet', 'Lancet Infectious Diseases', 'The Lancet Infectious Diseases', 'eClinicalMedicine', 'EBioMedicine',
+  'NEJM', 'New England Journal of Medicine', 'BMJ', 'JAMA', 'JAMA Network Open', 'JAMA Pediatrics', 'JAMA Internal Medicine',
+  'Nature Medicine', 'Nature Communications', 'Nature Microbiology', 'Nature Immunology', 'Nature Reviews Immunology', 'npj Vaccines', 'Nature',
+  'Science', 'Science Translational Medicine', 'Science Advances', 'Science Immunology',
+  'Eurosurveillance', 'Vaccine', 'Vaccine: X', 'Clinical Infectious Diseases', 'Journal of Infectious Diseases',
+  'Open Forum Infectious Diseases', 'Emerging Infectious Diseases', 'Pediatrics', 'PLOS', 'PLOS Medicine', 'PLOS Global Public Health',
+  'International Journal of Infectious Diseases', 'Clinical Microbiology and Infection', 'Cochrane Library', 'Journal of Travel Medicine'
+];
+
+function cleanJournalSuffix(text, item={}){
+  let out = String(text || '').trim();
+  if (!out) return '';
+  const sourceCandidates = [item.source, item.source_location?.label, ...(JOURNAL_SUFFIX_PATTERNS || [])]
+    .filter(Boolean)
+    .map(x => String(x).replace(/[.*+?^${}()|[\]\\]/g, '\\$&'));
+  sourceCandidates.forEach(src => {
+    out = out.replace(new RegExp(`\\s*(?:[-–—|｜:：]\\s*)?${src}\\s*$`, 'i'), '');
+    out = out.replace(new RegExp(`\\s*${src}\\s*$`, 'i'), '');
+  });
+  // Japanese machine translation sometimes appends the journal name without a separator.
+  const jaSuffixes = ['ユーロサーベイランス','ランセット','ネイチャー・メディシン','ネイチャー','サイエンス','英国医学雑誌','ニューイングランド医学ジャーナル'];
+  jaSuffixes.forEach(src => {
+    out = out.replace(new RegExp(`\\s*(?:[-–—|｜:：]\\s*)?${src}\\s*$`, 'i'), '');
+  });
+  return out.trim();
+}
+
 function isTechnicalDocument(item){
   const t = textOf(item);
   const technicalPatterns = [
@@ -284,7 +313,8 @@ function itemCard(item, mode='policy'){
   const typeBadge = item.source_type ? badge(ja(item.source_type), item.source_type) : '';
   const academicBadges = academicCategory(item).map(c => badge(c, 'evidence')).join('');
   const duplicate = item.duplicate_count > 1 ? `<span class="dup">重複統合 ${item.duplicate_count}件</span>` : '';
-  const summary = item.summary_ai || item.summary || item.summary_original || '';
+  const rawSummary = item.summary_ai || item.summary || item.summary_original || '';
+  const summary = mode === 'academic' ? cleanJournalSuffix(rawSummary, item) : rawSummary;
   const target = item.target_country && item.target_country !== '不明' ? `対象: ${esc(item.target_country)}` : '';
   const badges = mode === 'academic' ? `${typeBadge}${academicBadges}${vaccineBadges}` : `${topicBadges}${policyBadges}${vaccineBadges}`;
   const conf = confidence(item, mode);
@@ -294,7 +324,7 @@ function itemCard(item, mode='policy'){
         <div class="badges">${badges}</div>
         ${duplicate}
       </div>
-      <h4><a href="${esc(item.link || '#')}" target="_blank" rel="noopener noreferrer">${esc(item.title || item.title_original || '無題')}</a></h4>
+      <h4><a href="${esc(item.link || '#')}" target="_blank" rel="noopener noreferrer">${esc(mode === 'academic' ? cleanJournalSuffix(item.title || item.title_original || '無題', item) : (item.title || item.title_original || '無題'))}</a></h4>
       <div class="sub">${fmtDate(item.published_at)} · ${esc(item.source || '')}${mode === 'policy' && target ? ` · ${target}` : ''}</div>
       <p>${esc(summary)}</p>
       <div class="card-meta">

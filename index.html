@@ -1,0 +1,143 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>ワクチン・予防接種ダッシュボード（試行版）</title>
+  <link rel="stylesheet" href="./assets/style.css">
+</head>
+<body>
+  <header class="hero">
+    <div class="wrap hero-inner">
+      <div class="hero-copy">
+        <p class="eyebrow">Vaccine & Immunization Intelligence</p>
+        <h1 id="site-title">ワクチン・予防接種ダッシュボード（試行版）</h1>
+        <p id="site-desc">ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。</p>
+      </div>
+      <div class="hero-meta" aria-label="更新情報">
+        <span id="generated-at"></span>
+        <span id="item-count"></span>
+        <span id="archive-count"></span>
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap main">
+    <section class="panel controls" aria-label="表示条件">
+      <div class="controls-title">
+        <h2>Dashboard filters</h2>
+        <p class="small">Policyは国内・海外別、Academicは査読付きジャーナル・プレプリントのみを表示します。</p>
+      </div>
+      <label>検索
+        <input id="search" type="text" placeholder="タイトル・要点・情報源で検索">
+      </label>
+      <label>期間
+        <select id="period-filter">
+          <option value="14">過去14日</option>
+          <option value="30">過去30日</option>
+          <option value="90">過去90日</option>
+          <option value="all">全期間</option>
+        </select>
+      </label>
+      <label>ワクチン
+        <select id="vaccine-filter">
+          <option value="">すべて</option>
+          <option value="covid">COVID-19</option>
+          <option value="influenza">インフルエンザ</option>
+          <option value="rsv">RSV</option>
+          <option value="measles">麻疹</option>
+          <option value="polio">ポリオ</option>
+          <option value="hpv">HPV</option>
+          <option value="pneumococcal">肺炎球菌</option>
+          <option value="pertussis">百日咳</option>
+          <option value="dengue">デング</option>
+          <option value="mpox">mpox</option>
+          <option value="cholera">コレラ</option>
+          <option value="ebola">エボラ</option>
+          <option value="rotavirus">ロタウイルス</option>
+          <option value="meningococcal">髄膜炎菌</option>
+          <option value="hepatitis">肝炎</option>
+          <option value="malaria">マラリア</option>
+        </select>
+      </label>
+    </section>
+
+    <section class="panel intelligence-summary literature-summary" aria-label="Literature counts">
+      <div class="summary-head">
+        <div>
+          <p class="eyebrow dark">Literature snapshot</p>
+          <h2 id="summary-title">現在の注目点</h2>
+        </div>
+        <span id="summary-period" class="count-pill"></span>
+      </div>
+      <div class="summary-grid literature-grid">
+        <div class="metric-card"><span class="metric-label">Academic papers</span><strong id="summary-academic-count">0</strong><span class="small">査読付きジャーナル＋プレプリント</span></div>
+        <div class="metric-card"><span class="metric-label">Peer-reviewed</span><strong id="summary-journal-count">0</strong><span class="small">査読付きジャーナル</span></div>
+        <div class="metric-card"><span class="metric-label">Preprints</span><strong id="summary-preprint-count">0</strong><span class="small">プレプリント</span></div>
+      </div>
+    </section>
+
+    <section class="dashboard-grid" aria-label="Policy and academic sections">
+      <section class="column policy-column" aria-label="予防接種政策">
+        <div class="column-header">
+          <div>
+            <p class="eyebrow dark">Policy</p>
+            <h2>予防接種政策</h2>
+          </div>
+          <span id="policy-count" class="count-pill"></span>
+        </div>
+
+        <section class="panel section-panel">
+          <div class="panel-head">
+            <div>
+              <h3>国内</h3>
+              <p class="small">日本国内の制度、勧告、接種スケジュール、承認・安全性、コミュニケーション</p>
+            </div>
+            <span id="domestic-policy-count" class="small section-count"></span>
+          </div>
+          <div id="domestic-policy" class="cards"></div>
+        </section>
+
+        <section class="panel section-panel">
+          <div class="panel-head">
+            <div>
+              <h3>海外</h3>
+              <p class="small">WHO、各国当局、規制機関、国際機関等による政策関連情報</p>
+            </div>
+            <span id="international-policy-count" class="small section-count"></span>
+          </div>
+          <div id="international-policy" class="cards"></div>
+        </section>
+      </section>
+
+      <section class="column academic-column" aria-label="学術論文">
+        <div class="column-header">
+          <div>
+            <p class="eyebrow dark">Academic</p>
+            <h2>学術論文</h2>
+          </div>
+          <span id="academic-count" class="count-pill"></span>
+        </div>
+
+        <section class="panel section-panel academic-panel">
+          <div class="panel-head">
+            <div>
+              <h3>Peer-reviewed journals & preprints</h3>
+              <p class="small">査読付きジャーナルとプレプリントのみ。FDA等の技術的手順書・ガイダンス・SOPPは除外します。</p>
+            </div>
+            <span id="academic-main-count" class="small section-count"></span>
+          </div>
+          <div id="academic-main" class="cards academic-cards"></div>
+        </section>
+      </section>
+    </section>
+
+    <section class="panel feed-panel">
+      <button id="feed-toggle" class="feed-toggle" type="button" aria-expanded="false">Feed Statusを表示</button>
+      <div id="feed-status" class="feed-status hidden"></div>
+    </section>
+  </main>
+
+  <script src="./assets/app.js"></script>
+</body>
+</html>
