@@ -62,18 +62,17 @@
       </label>
     </section>
 
-    <section class="panel intelligence-summary literature-summary" aria-label="Literature counts">
+    <section class="panel intelligence-summary ai-summary-panel" aria-label="AI generated weekly summary">
       <div class="summary-head">
         <div>
-          <p class="eyebrow dark">Literature snapshot</p>
-          <h2 id="summary-title">現在の注目点</h2>
+          <p class="eyebrow dark">Weekly intelligence summary</p>
+          <h2 id="ai-summary-title">AIサマリー</h2>
+          <p id="ai-summary-note" class="small">過去7日間に収集されたPolicyおよびAcademic項目に基づくAI生成サマリーです。詳細は原典をご確認ください。</p>
         </div>
-        <span id="summary-period" class="count-pill"></span>
+        <span id="ai-summary-status" class="count-pill"></span>
       </div>
-      <div class="summary-grid literature-grid">
-        <div class="metric-card"><span class="metric-label">Academic papers</span><strong id="summary-academic-count">0</strong><span class="small">査読付きジャーナル＋プレプリント</span></div>
-        <div class="metric-card"><span class="metric-label">Peer-reviewed</span><strong id="summary-journal-count">0</strong><span class="small">査読付きジャーナル</span></div>
-        <div class="metric-card"><span class="metric-label">Preprints</span><strong id="summary-preprint-count">0</strong><span class="small">プレプリント</span></div>
+      <div id="ai-summary-body" class="ai-summary-body">
+        <div class="empty small">AIサマリーを読み込み中です。</div>
       </div>
     </section>
 

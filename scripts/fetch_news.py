@@ -2,6 +2,7 @@
 import json
 import re
 import hashlib
+import os
 from collections import Counter
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
@@ -489,6 +490,143 @@ def merge_archive(existing_items, new_items):
     return items
 
 
+
+def _parse_iso_datetime(value: str):
+    try:
+        return datetime.fromisoformat(str(value).replace("Z", "+00:00")).astimezone(timezone.utc)
+    except Exception:
+        return None
+
+
+def _item_text_for_summary(item):
+    title = item.get("title") or item.get("title_original") or ""
+    summary = item.get("summary_ai") or item.get("summary") or item.get("summary_ai_original") or item.get("summary_original") or ""
+    source = item.get("source") or ""
+    date = item.get("published_at") or ""
+    tags = ", ".join((item.get("policy_tags") or []) + (item.get("vaccines") or []))
+    return normalize_space(f"- {title} | {summary} | Source: {source} | Date: {date} | Tags: {tags}")
+
+
+def _is_academic_for_ai(item):
+    return item.get("source_type") in {"academic", "preprint"}
+
+
+def _is_policy_for_ai(item):
+    if _is_academic_for_ai(item):
+        return False
+    return ("policy" in (item.get("topics") or [])) or bool(item.get("policy_tags")) or item.get("source_type") == "official"
+
+
+def _clip_items_for_prompt(items, limit=25):
+    clipped = []
+    for item in items[:limit]:
+        txt = _item_text_for_summary(item)
+        if len(txt) > 900:
+            txt = txt[:900] + "..."
+        clipped.append(txt)
+    return "\n".join(clipped)
+
+
+def generate_weekly_ai_summary(items, now_utc, config):
+    """Generate a short AI summary for policy and academic items in the last 7 days.
+
+    The dashboard remains functional when OPENAI_API_KEY is not configured or when the API fails.
+    """
+    period_days = int(config.get("ai_summary_days", 7))
+    since = now_utc - timedelta(days=period_days)
+    recent = []
+    for item in items:
+        dt = _parse_iso_datetime(item.get("published_at"))
+        if dt and dt >= since:
+            recent.append(item)
+
+    policy_items = [x for x in recent if _is_policy_for_ai(x)]
+    academic_items = [x for x in recent if _is_academic_for_ai(x)]
+
+    base = {
+        "generated_at": now_utc.isoformat(),
+        "period_days": period_days,
+        "policy_count": len(policy_items),
+        "academic_count": len(academic_items),
+    }
+
+    api_key = os.getenv("OPENAI_API_KEY", "").strip()
+    if not api_key:
+        return {
+            **base,
+            "status": "not_configured",
+            "policy_summary": "",
+            "academic_summary": "",
+            "error": "OPENAI_API_KEY is not configured",
+        }
+
+    policy_block = _clip_items_for_prompt(policy_items)
+    academic_block = _clip_items_for_prompt(academic_items)
+    if not policy_block:
+        policy_block = "該当なし"
+    if not academic_block:
+        academic_block = "該当なし"
+
+    system_prompt = (
+        "You are an expert assistant for vaccine and immunization intelligence. "
+        "Write concise, careful Japanese summaries for public health researchers and policy experts. "
+        "Do not invent facts. If items are sparse, say so. Avoid hype."
+    )
+    user_prompt = f"""
+以下は過去{period_days}日間に自動収集されたワクチン・予防接種関連項目です。
+PolicyとAcademicについて、それぞれ日本語で2文以内の短いサマリーを作成してください。
+固有名詞・ワクチン名・疾患名は必要に応じて残してください。
+出力はJSONのみで、キーは policy_summary と academic_summary の2つにしてください。
+
+[Policy items]
+{policy_block}
+
+[Academic items]
+{academic_block}
+""".strip()
+
+    model = config.get("ai_summary_model", "gpt-4o-mini")
+    payload = {
+        "model": model,
+        "messages": [
+            {"role": "system", "content": system_prompt},
+            {"role": "user", "content": user_prompt},
+        ],
+        "temperature": 0.2,
+        "max_tokens": 450,
+        "response_format": {"type": "json_object"},
+    }
+
+    try:
+        resp = requests.post(
+            "https://api.openai.com/v1/chat/completions",
+            headers={
+                "Authorization": f"Bearer {api_key}",
+                "Content-Type": "application/json",
+            },
+            json=payload,
+            timeout=60,
+        )
+        resp.raise_for_status()
+        content = resp.json()["choices"][0]["message"]["content"]
+        parsed = json.loads(content)
+        return {
+            **base,
+            "status": "ok",
+            "model": model,
+            "policy_summary": normalize_space(parsed.get("policy_summary", "")),
+            "academic_summary": normalize_space(parsed.get("academic_summary", "")),
+        }
+    except Exception as exc:
+        return {
+            **base,
+            "status": "error",
+            "policy_summary": "",
+            "academic_summary": "",
+            "error": str(exc)[:500],
+        }
+
+
 def main():
     config = load_json(CONFIG_PATH, {})
     cache = load_json(CACHE_PATH, {})
@@ -569,6 +707,7 @@ def main():
     current_items = current_items[: int(config.get("max_items", 120))]
 
     archive_items = merge_archive(archive.get("items", []), current_items)
+    weekly_ai_summary = generate_weekly_ai_summary(current_items, now_utc, config)
 
     news = {
         "title": config.get("title", "Vaccine and Immunization Monitoring"),
@@ -579,6 +718,7 @@ def main():
         "days_back": int(config.get("days_back", 14)),
         "plot_mode_default": config.get("plot_mode_default", "source"),
         "feed_status": feed_status,
+        "weekly_ai_summary": weekly_ai_summary,
         "items": current_items,
     }
     archive_obj = {

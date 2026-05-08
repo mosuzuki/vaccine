@@ -352,13 +352,48 @@ function snapshotDateLabel(){
   return generated ? `${generated}時点` : '現在時点';
 }
 
-function renderSummary(academic){
-  const period = getValue('period-filter', '14');
-  byId('summary-title').textContent = `${snapshotDateLabel()}の注目点`;
-  byId('summary-period').textContent = period === 'all' ? '全期間' : `過去${period}日`;
-  byId('summary-academic-count').textContent = academic.length;
-  byId('summary-journal-count').textContent = academic.filter(item => item.source_type === 'academic').length;
-  byId('summary-preprint-count').textContent = academic.filter(item => item.source_type === 'preprint').length;
+function renderAiSummary(data){
+  const summary = data.weekly_ai_summary || {};
+  const generatedLabel = summary.generated_at ? fmtDate(summary.generated_at) : fmtDate(data.generated_at);
+  setText('ai-summary-title', `${generatedLabel || snapshotDateLabel()}時点のAIサマリー`);
+  setText('ai-summary-status', summary.period_days ? `過去${summary.period_days}日` : '過去7日');
+
+  const el = byId('ai-summary-body');
+  if (!el) return;
+
+  if (!summary || !summary.status || summary.status === 'not_configured'){
+    el.innerHTML = `
+      <div class="empty small">
+        AIサマリーは未生成です。GitHub Secretsに <code>OPENAI_API_KEY</code> を設定し、Actionsを実行すると過去7日間のPolicy / Academicサマリーが表示されます。
+      </div>`;
+    return;
+  }
+
+  if (summary.status !== 'ok'){
+    el.innerHTML = `
+      <div class="empty small">
+        AIサマリーの生成に失敗しました: ${esc(summary.error || 'unknown error')}
+      </div>`;
+    return;
+  }
+
+  const policy = summary.policy_summary || '該当する政策関連ニュースはありません。';
+  const academic = summary.academic_summary || '該当する学術文献はありません。';
+  const policyCount = summary.policy_count ?? 0;
+  const academicCount = summary.academic_count ?? 0;
+
+  el.innerHTML = `
+    <div class="summary-two-col">
+      <section class="summary-text-card policy-summary">
+        <div class="summary-kicker">Policy <span>${policyCount}件</span></div>
+        <p>${esc(policy)}</p>
+      </section>
+      <section class="summary-text-card academic-summary">
+        <div class="summary-kicker">Academic <span>${academicCount}件</span></div>
+        <p>${esc(academic)}</p>
+      </section>
+    </div>
+    <p class="summary-disclaimer">AI-generated summary based on items collected in the last 7 days. Please verify details from original sources.</p>`;
 }
 
 function updateView(){
@@ -371,7 +406,6 @@ function updateView(){
   setText('policy-count', `${policy.length}件`);
   setText('academic-count', `${academic.length}件`);
 
-  renderSummary(academic);
   renderSection('domestic-policy', 'domestic-policy-count', domesticPolicy, 'policy', MAX_POLICY_ITEMS);
   renderSection('international-policy', 'international-policy-count', internationalPolicy, 'policy', MAX_POLICY_ITEMS);
   renderSection('academic-main', 'academic-main-count', academic, 'academic', MAX_ACADEMIC_ITEMS);
@@ -400,6 +434,7 @@ async function init(){
     .sort((a,b) => (b.published_at || '').localeCompare(a.published_at || ''));
   renderHeader(newsData, archiveData.archive_count || allItems.length);
   renderFeedStatus(newsData.feed_status || []);
+  renderAiSummary(newsData);
   setupFeedToggle();
   updateView();
   ['search','period-filter','vaccine-filter'].forEach(id => { const el = byId(id); if (el) el.addEventListener('input', updateView); });
