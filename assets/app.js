@@ -274,15 +274,6 @@ function sortItems(items, sectionType){
   });
 }
 
-function copyTextForItem(item, mode){
-  const title = item.title || item.title_original || '無題';
-  const summary = item.summary_ai || item.summary || item.summary_original || '';
-  const source = item.source || '';
-  const date = fmtDate(item.published_at);
-  const link = item.link || '';
-  return `${title}\n${date} · ${source}\n${summary}\n${link}`;
-}
-
 function itemCard(item, mode='policy'){
   const topicBadges = (item.topics || []).slice(0, 2).map(t => badge(ja(t), t)).join('');
   const policyBadges = (item.policy_tags || []).slice(0, 3).map(t => badge(ja(t), 'subtle')).join('');
@@ -294,7 +285,6 @@ function itemCard(item, mode='policy'){
   const target = item.target_country && item.target_country !== '不明' ? `対象: ${esc(item.target_country)}` : '';
   const badges = mode === 'academic' ? `${typeBadge}${academicBadges}${vaccineBadges}` : `${topicBadges}${policyBadges}${vaccineBadges}`;
   const conf = confidence(item, mode);
-  const copy = esc(copyTextForItem(item, mode));
   return `
     <article class="card ${mode === 'academic' ? 'academic-card' : ''}">
       <div class="topline">
@@ -307,10 +297,6 @@ function itemCard(item, mode='policy'){
       <div class="card-meta">
         <span><strong>掲載理由:</strong> ${esc(rationale(item, mode))}</span>
         <span class="confidence ${conf.cls}">${conf.label}</span>
-      </div>
-      <div class="card-actions">
-        <a class="open-link" href="${esc(item.link || '#')}" target="_blank" rel="noopener noreferrer">Original</a>
-        <button type="button" class="copy-btn" data-copy="${copy}">Copy summary</button>
       </div>
     </article>`;
 }
@@ -328,31 +314,18 @@ function renderSection(id, countId, items, sectionType, maxItems){
   return sorted;
 }
 
-function topVaccines(items){
-  const counts = new Map();
-  items.forEach(item => (item.vaccines || []).forEach(v => counts.set(v, (counts.get(v) || 0) + 1)));
-  return [...counts.entries()].sort((a,b)=>b[1]-a[1]).slice(0,3).map(([v,n]) => `${ja(v)} ${n}`).join(' / ') || '-';
+function snapshotDateLabel(){
+  const generated = byId('generated-at').textContent.replace(/^Updated:\s*/, '');
+  return generated ? `${generated}時点` : '現在時点';
 }
 
-function renderSummary(base, policy, academic, domesticPolicy, internationalPolicy){
+function renderSummary(academic){
   const period = byId('period-filter').value;
+  byId('summary-title').textContent = `${snapshotDateLabel()}の注目点`;
   byId('summary-period').textContent = period === 'all' ? '全期間' : `過去${period}日`;
-  byId('summary-policy-count').textContent = policy.length;
   byId('summary-academic-count').textContent = academic.length;
-  byId('summary-top-vaccines').textContent = topVaccines(base);
-
-  const topAcademicCats = new Map();
-  academic.forEach(item => academicCategory(item).forEach(c => topAcademicCats.set(c, (topAcademicCats.get(c) || 0) + 1)));
-  const catText = [...topAcademicCats.entries()].sort((a,b)=>b[1]-a[1]).slice(0,3).map(([c,n])=>`${c} ${n}`).join(' / ') || '該当なし';
-  const recentPolicy = sortItems([...policy], 'policy')[0];
-  const recentAcademic = sortItems([...academic], 'academic')[0];
-  const bullets = [
-    `政策関連は国内${domesticPolicy.length}件、海外${internationalPolicy.length}件。公的機関・勧告・承認・安全性関連を優先表示しています。`,
-    `学術論文は${academic.length}件。主な分類は ${catText} です。`,
-    recentPolicy ? `Policy注目候補: ${recentPolicy.title || recentPolicy.title_original || '無題'}` : 'Policy注目候補: 該当なし',
-    recentAcademic ? `Academic注目候補: ${recentAcademic.title || recentAcademic.title_original || '無題'}` : 'Academic注目候補: 該当なし'
-  ];
-  byId('summary-bullets').innerHTML = bullets.map(b => `<div class="summary-item">${esc(b)}</div>`).join('');
+  byId('summary-journal-count').textContent = academic.filter(item => item.source_type === 'academic').length;
+  byId('summary-preprint-count').textContent = academic.filter(item => item.source_type === 'preprint').length;
 }
 
 function updateView(){
@@ -365,7 +338,7 @@ function updateView(){
   byId('policy-count').textContent = `${policy.length}件`;
   byId('academic-count').textContent = `${academic.length}件`;
 
-  renderSummary(base, policy, academic, domesticPolicy, internationalPolicy);
+  renderSummary(academic);
   renderSection('domestic-policy', 'domestic-policy-count', domesticPolicy, 'policy', MAX_POLICY_ITEMS);
   renderSection('international-policy', 'international-policy-count', internationalPolicy, 'policy', MAX_POLICY_ITEMS);
   renderSection('academic-main', 'academic-main-count', academic, 'academic', MAX_ACADEMIC_ITEMS);
@@ -378,24 +351,6 @@ function setupFeedToggle(){
     const hidden = status.classList.toggle('hidden');
     btn.setAttribute('aria-expanded', String(!hidden));
     btn.textContent = hidden ? 'Feed Statusを表示' : 'Feed Statusを非表示';
-  });
-}
-
-function setupCopyButtons(){
-  document.addEventListener('click', async (event) => {
-    const btn = event.target.closest('.copy-btn');
-    if (!btn) return;
-    const text = btn.getAttribute('data-copy') || '';
-    try{
-      await navigator.clipboard.writeText(text);
-      const old = btn.textContent;
-      btn.textContent = 'Copied';
-      setTimeout(() => btn.textContent = old, 1100);
-    }catch{
-      const old = btn.textContent;
-      btn.textContent = 'Copy failed';
-      setTimeout(() => btn.textContent = old, 1300);
-    }
   });
 }
 
@@ -412,14 +367,13 @@ async function init(){
   renderHeader(newsData, archiveData.archive_count || allItems.length);
   renderFeedStatus(newsData.feed_status || []);
   setupFeedToggle();
-  setupCopyButtons();
   updateView();
   ['search','period-filter','vaccine-filter'].forEach(id => byId(id).addEventListener('input', updateView));
 }
 
 init().catch(err => {
   const msg = `<div class="empty small">読み込みに失敗しました: ${esc(String(err))}</div>`;
-  ['domestic-policy','international-policy','academic-main','summary-bullets'].forEach(id => {
+  ['domestic-policy','international-policy','academic-main'].forEach(id => {
     const el = byId(id);
     if (el) el.innerHTML = msg;
   });
