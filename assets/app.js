@@ -1,4 +1,7 @@
 const byId = id => document.getElementById(id);
+const setText = (id, value) => { const el = byId(id); if (el) el.textContent = value; };
+const getText = id => { const el = byId(id); return el ? el.textContent : ''; };
+const getValue = (id, fallback='') => { const el = byId(id); return el ? el.value : fallback; };
 let allItems = [];
 
 const MAX_POLICY_ITEMS = 8;
@@ -61,11 +64,11 @@ function ja(v){return JA[v] || v;}
 function badge(label, cls=''){return `<span class="badge ${cls}">${esc(label)}</span>`;}
 
 function renderHeader(data, archiveCount=0){
-  byId('site-title').textContent = data.title || 'ワクチン・予防接種ダッシュボード（試行版）';
-  byId('site-desc').textContent = data.description || '';
-  byId('generated-at').textContent = `Updated: ${fmtDate(data.generated_at)}`;
-  byId('item-count').textContent = `Recent ${data.days_back || 14} days: ${data.item_count || 0}`;
-  byId('archive-count').textContent = `Archive: ${archiveCount || 0}`;
+  setText('site-title', data.title || 'ワクチン・予防接種ダッシュボード（試行版）');
+  setText('site-desc', data.description || '');
+  setText('generated-at', `Updated: ${fmtDate(data.generated_at)}`);
+  setText('item-count', `Recent ${data.days_back || 14} days: ${data.item_count || 0}`);
+  setText('archive-count', `Archive: ${archiveCount || 0}`);
 }
 
 function renderFeedStatus(feedStatus=[]){
@@ -82,7 +85,7 @@ function renderFeedStatus(feedStatus=[]){
 }
 
 function passesPeriod(item){
-  const period = byId('period-filter').value;
+  const period = getValue('period-filter', '14');
   if (period === 'all') return true;
   const days = Number(period || 14);
   const published = new Date(item.published_at || 0).getTime();
@@ -141,8 +144,8 @@ function isTechnicalDocument(item){
 }
 
 function matchesSearchAndVaccine(item){
-  const q = byId('search').value.trim().toLowerCase();
-  const vaccine = byId('vaccine-filter').value;
+  const q = getValue('search', '').trim().toLowerCase();
+  const vaccine = getValue('vaccine-filter', '');
   const hay = [
     item.title,
     item.summary_ai,
@@ -305,7 +308,7 @@ function renderSection(id, countId, items, sectionType, maxItems){
   const el = byId(id);
   const countEl = byId(countId);
   const sorted = sortItems([...items], sectionType);
-  countEl.textContent = `${sorted.length}件`;
+  if (countEl) countEl.textContent = `${sorted.length}件`;
   if (!sorted.length){
     el.innerHTML = '<div class="empty small">該当する記事はありません。</div>';
     return sorted;
@@ -315,12 +318,12 @@ function renderSection(id, countId, items, sectionType, maxItems){
 }
 
 function snapshotDateLabel(){
-  const generated = byId('generated-at').textContent.replace(/^Updated:\s*/, '');
+  const generated = getText('generated-at').replace(/^Updated:\s*/, '');
   return generated ? `${generated}時点` : '現在時点';
 }
 
 function renderSummary(academic){
-  const period = byId('period-filter').value;
+  const period = getValue('period-filter', '14');
   byId('summary-title').textContent = `${snapshotDateLabel()}の注目点`;
   byId('summary-period').textContent = period === 'all' ? '全期間' : `過去${period}日`;
   byId('summary-academic-count').textContent = academic.length;
@@ -335,8 +338,8 @@ function updateView(){
   const internationalPolicy = policy.filter(item => !isDomestic(item));
   const academic = base.filter(isAcademic);
 
-  byId('policy-count').textContent = `${policy.length}件`;
-  byId('academic-count').textContent = `${academic.length}件`;
+  setText('policy-count', `${policy.length}件`);
+  setText('academic-count', `${academic.length}件`);
 
   renderSummary(academic);
   renderSection('domestic-policy', 'domestic-policy-count', domesticPolicy, 'policy', MAX_POLICY_ITEMS);
@@ -347,6 +350,7 @@ function updateView(){
 function setupFeedToggle(){
   const btn = byId('feed-toggle');
   const status = byId('feed-status');
+  if (!btn || !status) return;
   btn.addEventListener('click', () => {
     const hidden = status.classList.toggle('hidden');
     btn.setAttribute('aria-expanded', String(!hidden));
@@ -368,7 +372,7 @@ async function init(){
   renderFeedStatus(newsData.feed_status || []);
   setupFeedToggle();
   updateView();
-  ['search','period-filter','vaccine-filter'].forEach(id => byId(id).addEventListener('input', updateView));
+  ['search','period-filter','vaccine-filter'].forEach(id => { const el = byId(id); if (el) el.addEventListener('input', updateView); });
 }
 
 init().catch(err => {
