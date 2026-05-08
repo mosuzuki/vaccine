@@ -30,6 +30,8 @@ STOPWORDS = {
     "vaccine","vaccines","immunization","immunisation"
 }
 
+TRANSLATION_VERSION = "ja-v2-glossary"
+
 
 def load_json(path: Path, default):
     if not path.exists():
@@ -116,18 +118,67 @@ def is_japanese_text(text: str) -> bool:
     return bool(re.search(r"[\u3040-\u30ff\u4e00-\u9fff]", text or ""))
 
 
+
+def postprocess_japanese_translation(text: str) -> str:
+    """Polish machine-translated Japanese for vaccine / immunization monitoring."""
+    text = normalize_space(text)
+    if not text:
+        return ""
+    replacements = {
+        "ワクチン接種": "予防接種",
+        "免疫化": "予防接種",
+        "免疫化政策": "予防接種政策",
+        "有効性試験": "有効性研究",
+        "実世界": "リアルワールド",
+        "ブースター": "追加接種",
+        "ショット": "接種",
+        "ジャブ": "接種",
+        "幼児": "乳幼児",
+        "ワクチン躊躇": "ワクチン忌避",
+        "ためらい": "忌避",
+        "ロールアウト": "導入",
+        "摂取": "接種",
+        "取り込み": "接種率",
+        "入院予防": "入院予防効果",
+        "症候性": "発症",
+        "試験陰性": "検査陰性",
+        "ケースコントロール": "症例対照",
+        "コホート研究": "コホート研究",
+        "プレプリント": "プレプリント",
+        "査読済み": "査読済み",
+        "ピアレビュー済み": "査読済み",
+        "FDA は": "FDAは",
+        "CDC は": "CDCは",
+        "WHO は": "WHOは",
+        "PAHO は": "PAHOは",
+        "MVA-BN ワクチン": "MVA-BNワクチン",
+        "COVID 19": "COVID-19",
+        "COVID-19 ワクチン": "COVID-19ワクチン",
+        "RS ウイルス": "RSウイルス",
+        "RSV ワクチン": "RSVワクチン",
+    }
+    for old, new in replacements.items():
+        text = text.replace(old, new)
+    text = re.sub(r"\s+([、。）」])", r"\1", text)
+    text = re.sub(r"([「（])\s+", r"\1", text)
+    text = re.sub(r"([A-Za-z0-9])\s+([A-Za-z0-9])", r"\1 \2", text)
+    text = re.sub(r"([\")」』）])\s+(は|が|を|に|で|と|の|へ|から|まで)", r"\1\2", text)
+    text = re.sub(r"(COVID-19|RSV|HPV|mRNA|MVA-BN|JN\.1|XBB\.1\.5)\s+(ワクチン|接種|対応)", r"\1\2", text)
+    return normalize_space(text)
+
 def translate_text(text: str, cache: dict, target_lang: str = "ja") -> str:
     text = normalize_space(text)
     if not text:
         return ""
     if is_japanese_text(text):
-        return text
-    key = hashlib.sha256(f"{target_lang}:{text}".encode("utf-8")).hexdigest()
+        return postprocess_japanese_translation(text)
+    key = hashlib.sha256(f"{TRANSLATION_VERSION}:{target_lang}:{text}".encode("utf-8")).hexdigest()
     if key in cache:
         return cache[key]
     try:
+        # Translate shorter, information-dense strings rather than long raw pages.
         translated = GoogleTranslator(source="auto", target=target_lang).translate(text)
-        translated = normalize_space(translated)
+        translated = postprocess_japanese_translation(translated)
         if translated:
             cache[key] = translated
             return translated
@@ -135,7 +186,6 @@ def translate_text(text: str, cache: dict, target_lang: str = "ja") -> str:
         pass
     cache[key] = text
     return text
-
 
 def make_item_id(link: str, title: str) -> str:
     return hashlib.sha256(f"{link}|{title}".encode("utf-8")).hexdigest()[:16]
@@ -228,25 +278,40 @@ def summarize_article(title: str, article_text: str, fallback: str) -> str:
     base_text = article_text if article_text and len(article_text) >= 180 else fallback
     base_text = normalize_space(base_text)
     if not base_text:
-        return normalize_space(title)[:200]
+        return normalize_space(title)[:220]
     sentences = split_sentences(base_text)
     if not sentences:
-        return base_text[:220]
-    words = re.findall(r"[A-Za-z][A-Za-z0-9\-\.]+", base_text.lower())
+        return base_text[:260]
+
+    # Drop administrative or boilerplate sentences that translate poorly and are rarely useful.
+    boilerplate = re.compile(
+        r"(please note|how to attend|meeting materials|public participation|docket|submit comments|"
+        r"confidential submissions|contact information|for further information|webcast|copyright|"
+        r"all rights reserved|terms of use|subscribe|sign in|advertisement)", re.I
+    )
+    useful_sentences = [s for s in sentences if not boilerplate.search(s)] or sentences
+
+    words = re.findall(r"[A-Za-z][A-Za-z0-9\-\.]+", " ".join(useful_sentences).lower())
     freq = Counter(w for w in words if len(w) > 2 and w not in STOPWORDS)
+    priority = re.compile(
+        r"recommend|approve|authoriz|schedule|guideline|trial|study|cohort|case-control|"
+        r"effectiveness|efficacy|safety|immunogenicity|uptake|coverage|burden|model|"
+        r"cost-effectiveness|advisory|committee|policy|confidence|hesitancy|preprint|journal", re.I
+    )
     scored = []
-    for i, sent in enumerate(sentences[:14]):
+    for i, sent in enumerate(useful_sentences[:18]):
         sent_words = re.findall(r"[A-Za-z][A-Za-z0-9\-\.]+", sent.lower())
         score = sum(freq.get(w, 0) for w in sent_words)
-        if re.search(r"recommend|approve|authoriz|schedule|guideline|trial|study|campaign|advisory|committee|policy|confidence|hesitancy|immunogenicity|effectiveness", sent.lower()):
-            score += 6
+        if priority.search(sent):
+            score += 8
+        if re.search(r"(results?|findings?|conclusions?)", sent.lower()):
+            score += 3
         if i == 0:
-            score += 2
+            score += 1
         scored.append((score, i, sent))
-    picked = sorted(scored[:2], key=lambda x: (x[1])) if len(scored) <= 2 else sorted(sorted(scored, key=lambda x: (-x[0], x[1]))[:2], key=lambda x: x[1])
+    picked = sorted(sorted(scored, key=lambda x: (-x[0], x[1]))[:2], key=lambda x: x[1])
     summary = normalize_space(" ".join(s for _, _, s in picked))
-    return summary[:280]
-
+    return summary[:320]
 
 def is_technical_document(title: str, summary: str, article_text: str, link: str) -> bool:
     combined = f"{title or ''} {summary or ''} {article_text or ''} {link or ''}".lower()

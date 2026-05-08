@@ -62,20 +62,19 @@
       </label>
     </section>
 
-    <section class="panel intelligence-summary" aria-label="Executive summary">
+    <section class="panel intelligence-summary literature-summary" aria-label="Literature counts">
       <div class="summary-head">
         <div>
-          <p class="eyebrow dark">Executive summary</p>
-          <h2>現在の注目点</h2>
+          <p class="eyebrow dark">Literature snapshot</p>
+          <h2 id="summary-title">現在の注目点</h2>
         </div>
         <span id="summary-period" class="count-pill"></span>
       </div>
-      <div class="summary-grid">
-        <div class="metric-card"><span class="metric-label">Policy</span><strong id="summary-policy-count">0</strong><span class="small">国内・海外の政策関連情報</span></div>
-        <div class="metric-card"><span class="metric-label">Academic</span><strong id="summary-academic-count">0</strong><span class="small">ジャーナル・プレプリント</span></div>
-        <div class="metric-card"><span class="metric-label">Top vaccines</span><strong id="summary-top-vaccines">-</strong><span class="small">頻出ワクチン分類</span></div>
+      <div class="summary-grid literature-grid">
+        <div class="metric-card"><span class="metric-label">Academic papers</span><strong id="summary-academic-count">0</strong><span class="small">査読付きジャーナル＋プレプリント</span></div>
+        <div class="metric-card"><span class="metric-label">Peer-reviewed</span><strong id="summary-journal-count">0</strong><span class="small">査読付きジャーナル</span></div>
+        <div class="metric-card"><span class="metric-label">Preprints</span><strong id="summary-preprint-count">0</strong><span class="small">プレプリント</span></div>
       </div>
-      <div id="summary-bullets" class="summary-bullets"></div>
     </section>
 
     <section class="dashboard-grid" aria-label="Policy and academic sections">

@@ -353,6 +353,150 @@
       "priority": 7,
       "origin_key": "japan",
       "origin_label": "毎日新聞"
+    },
+    {
+      "name": "JAMA Network vaccines",
+      "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "priority": 8,
+      "origin_key": "united states",
+      "origin_label": "JAMA Network"
+    },
+    {
+      "name": "JAMA Pediatrics vaccines",
+      "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjamapediatrics&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "priority": 8,
+      "origin_key": "united states",
+      "origin_label": "JAMA Pediatrics"
+    },
+    {
+      "name": "Clinical Infectious Diseases",
+      "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fcid&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "priority": 8,
+      "origin_key": "united states",
+      "origin_label": "Clinical Infectious Diseases"
+    },
+    {
+      "name": "Journal of Infectious Diseases",
+      "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fjid&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "priority": 8,
+      "origin_key": "united states",
+      "origin_label": "Journal of Infectious Diseases"
+    },
+    {
+      "name": "Open Forum Infectious Diseases",
+      "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fofid&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "priority": 7,
+      "origin_key": "united states",
+      "origin_label": "Open Forum Infectious Diseases"
+    },
+    {
+      "name": "Emerging Infectious Diseases",
+      "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Awwwnc.cdc.gov%2Feid&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "priority": 7,
+      "origin_key": "united states",
+      "origin_label": "Emerging Infectious Diseases"
+    },
+    {
+      "name": "Pediatrics journal",
+      "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Apublications.aap.org%2Fpediatrics&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "priority": 7,
+      "origin_key": "united states",
+      "origin_label": "Pediatrics"
+    },
+    {
+      "name": "PLOS journals vaccines",
+      "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajournals.plos.org%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20uptake%20OR%20policy)&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "priority": 7,
+      "origin_key": "united states",
+      "origin_label": "PLOS"
+    },
+    {
+      "name": "eClinicalMedicine vaccines",
+      "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Athelancet.com%2Fjournals%2Feclinm&hl=en-US&gl=GB&ceid=GB%3Aen",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "priority": 7,
+      "origin_key": "united kingdom",
+      "origin_label": "eClinicalMedicine"
+    },
+    {
+      "name": "EBioMedicine vaccines",
+      "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Athelancet.com%2Fjournals%2Febiom&hl=en-US&gl=GB&ceid=GB%3Aen",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "priority": 7,
+      "origin_key": "united kingdom",
+      "origin_label": "EBioMedicine"
+    },
+    {
+      "name": "International Journal of Infectious Diseases",
+      "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aijidonline.com&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "priority": 7,
+      "origin_key": "netherlands",
+      "origin_label": "IJID"
+    },
+    {
+      "name": "Clinical Microbiology and Infection",
+      "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aclinicalmicrobiologyandinfection.com&hl=en-US&gl=EU&ceid=EU%3Aen",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "priority": 7,
+      "origin_key": "netherlands",
+      "origin_label": "CMI"
+    },
+    {
+      "name": "Vaccine X",
+      "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Asciencedirect.com%2Fjournal%2Fvaccine-x&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "priority": 7,
+      "origin_key": "netherlands",
+      "origin_label": "Vaccine: X"
+    },
+    {
+      "name": "Cochrane vaccines",
+      "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Acochranelibrary.com&hl=en-US&gl=GB&ceid=GB%3Aen",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "priority": 7,
+      "origin_key": "united kingdom",
+      "origin_label": "Cochrane Library"
+    },
+    {
+      "name": "Journal of Travel Medicine vaccines",
+      "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fjtm&hl=en-US&gl=GB&ceid=GB%3Aen",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "priority": 6,
+      "origin_key": "united kingdom",
+      "origin_label": "Journal of Travel Medicine"
+    },
+    {
+      "name": "SSRN vaccine preprints",
+      "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Apapers.ssrn.com%20(effectiveness%20OR%20safety%20OR%20policy%20OR%20trial)&hl=en-US&gl=US&ceid=US%3Aen",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "priority": 6,
+      "origin_key": "united states",
+      "origin_label": "SSRN"
     }
   ],
   "topic_keywords": {
@@ -679,7 +823,13 @@
       "chocolate",
       "candy",
       "potato chips",
-      "bbq sauce"
+      "bbq sauce",
+      "call for papers",
+      "author guidelines",
+      "instructions for authors",
+      "table of contents",
+      "issue information",
+      "editorial board"
     ],
     "exclude_url_patterns": [
       "/blood-blood-products/",
@@ -707,7 +857,12 @@
       "/biologics-license-applications-bla-process",
       "/human-cells-tissues-and-cellular-and-tissue-based-products",
       "/food-safety-recalls/",
-      "/safety-alerts-human-medical-products/"
+      "/safety-alerts-human-medical-products/",
+      "/author-guidelines",
+      "/for-authors",
+      "/instructions-for-authors",
+      "/toc/",
+      "/issue/"
     ],
     "exclude_text_patterns": [
       "latest news from the center for biologics evaluation and research",
@@ -736,7 +891,11 @@
       "drug cgmp inspection",
       "biosimilar development and the bpci act",
       "individualized therapies that target specific genetic conditions",
-      "human cells or tissues"
+      "human cells or tissues",
+      "this article has been accepted for publication",
+      "instructions for authors",
+      "editorial board",
+      "call for papers"
     ],
     "require_any_keywords": [
       "vaccine",
