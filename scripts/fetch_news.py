@@ -270,6 +270,22 @@ def is_technical_document(title: str, summary: str, article_text: str, link: str
         "blood products",
         "transfusion",
         "plasma-derived",
+        "human cells or tissues",
+        "cellular and gene therapy",
+        "questions and answers on biosimilar",
+        "form 483",
+        "cgmp inspection",
+        "docket management",
+        "confidential submissions",
+        "guidance for industry",
+        "draft guidance",
+        "clinical review memo",
+        "approval letter -",
+        "food & beverages",
+        "undeclared allergen",
+        "dietary supplement",
+        "contains sildenafil",
+        "contains tadalafil",
     ]
     return any(pat in combined for pat in technical_patterns)
 

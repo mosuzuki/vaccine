@@ -62,11 +62,27 @@
       </label>
     </section>
 
+    <section class="panel intelligence-summary" aria-label="Executive summary">
+      <div class="summary-head">
+        <div>
+          <p class="eyebrow dark">Executive summary</p>
+          <h2>現在の注目点</h2>
+        </div>
+        <span id="summary-period" class="count-pill"></span>
+      </div>
+      <div class="summary-grid">
+        <div class="metric-card"><span class="metric-label">Policy</span><strong id="summary-policy-count">0</strong><span class="small">国内・海外の政策関連情報</span></div>
+        <div class="metric-card"><span class="metric-label">Academic</span><strong id="summary-academic-count">0</strong><span class="small">ジャーナル・プレプリント</span></div>
+        <div class="metric-card"><span class="metric-label">Top vaccines</span><strong id="summary-top-vaccines">-</strong><span class="small">頻出ワクチン分類</span></div>
+      </div>
+      <div id="summary-bullets" class="summary-bullets"></div>
+    </section>
+
     <section class="dashboard-grid" aria-label="Policy and academic sections">
       <section class="column policy-column" aria-label="予防接種政策">
         <div class="column-header">
           <div>
-            <p class="eyebrow">Policy</p>
+            <p class="eyebrow dark">Policy</p>
             <h2>予防接種政策</h2>
           </div>
           <span id="policy-count" class="count-pill"></span>
@@ -98,7 +114,7 @@
       <section class="column academic-column" aria-label="学術論文">
         <div class="column-header">
           <div>
-            <p class="eyebrow">Academic</p>
+            <p class="eyebrow dark">Academic</p>
             <h2>学術論文</h2>
           </div>
           <span id="academic-count" class="count-pill"></span>

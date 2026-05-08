@@ -1,26 +1,35 @@
 # ワクチン・予防接種ダッシュボード（試行版）
 
-GitHub Pages + GitHub Actions で動くダッシュボードです。
+GitHub Pages + GitHub Actions で動く、ワクチン・予防接種領域のモニタリングダッシュボードです。
 
 ## 今回の更新
 
-- 全体デザインを研究者・政策担当者向けに調整
-  - 濃紺を基調にした落ち着いた配色
-  - カード、余白、見出し、バッジを整理
-- 情報設計を変更
-  - 左カラム：**Policy / 予防接種政策**
+- 研究者・政策担当者向けの落ち着いたデザインに刷新
+- 上部に Executive summary を追加
+  - Policy / Academic 件数
+  - 頻出ワクチン分類
+  - 注目候補の自動表示
+- 画面構成を以下に整理
+  - 左側：Policy / 予防接種政策
     - 上段：国内
     - 下段：海外
-  - 右カラム：**Academic / 学術論文**
-    - 国内外の区別なし
+  - 右側：Academic / 学術論文
     - 査読付きジャーナルとプレプリントのみ
-- FDAのSOPP、技術的手順書、規制教育、ガイダンス一覧など、政策ニュース・学術論文として不適切な技術文書を除外
-- 地図表示とLeaflet依存は削除済み
-- Feed Statusは下部で折りたたみ表示
+- Academic に論文タイプの自動ラベルを追加
+  - VE
+  - Safety
+  - Immunogenicity
+  - Clinical trial
+  - Epi/burden
+  - Modelling/CEA
+  - Policy-relevant
+- 各カードに「掲載理由」と信頼度ラベルを表示
+- 各カードに `Copy summary` ボタンを追加
+- FDA SOPP、技術的手順書、ガイダンス一覧、食品リコール、biologics一般文書などの除外条件を強化
 
 ## 反映方法
 
-1. ZIPを展開する
-2. 既存リポジトリに中身を上書きアップロードする
-3. GitHub Actions の `Update dashboard and deploy Pages` を手動実行する
-4. 公開ページを `Ctrl+F5` で強制再読み込みする
+1. ZIPを展開し、既存リポジトリに中身を上書きアップロード
+2. `Actions` → `Update dashboard and deploy Pages` → `Run workflow`
+3. 公開ページを `Ctrl+F5` で強制再読み込み
+
