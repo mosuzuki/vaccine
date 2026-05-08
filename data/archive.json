@@ -1,10 +1,79 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-05-07T22:12:49.568448+00:00",
-  "archive_count": 193,
+  "generated_at": "2026-05-08T01:17:48.012030+00:00",
+  "archive_count": 194,
   "days_back": 14,
   "items": [
+    {
+      "id": "4fb75ca5e77fb6d2",
+      "title": "議員ら、阻止された新型コロナウイルスワクチン研究についてケネディに質問 - CIDRAP",
+      "summary": "議員らは阻止された新型コロナウイルスワクチン研究CIDRAPについてケネディに質問",
+      "summary_ai": "議員らは阻止された新型コロナウイルスワクチン研究CIDRAPについてケネディに質問",
+      "title_original": "Lawmakers ask Kennedy about blocked COVID vaccine study - CIDRAP",
+      "summary_original": "Lawmakers ask Kennedy about blocked COVID vaccine study CIDRAP",
+      "summary_ai_original": "Lawmakers ask Kennedy about blocked COVID vaccine study CIDRAP",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNmZCb0R6b043R1ZPanNzNWtJRk5wdEl6Y2ZpZWo2X2J0SXhSalJVajRkb19NV2ppYmpqOFBGQ2V2eFloc2xJZGgxcnlDdXRWeENCWnNFRmgxR1E5ZG1CNEx2ZHlEY0VGUF9GWUVsT1hTQnZ6NDVIYkRXaGU4RE0tYl9xejZDWTJuSXR0bU80RTVHOHlQWkpCY2UzaTBOalZWbUNjUGhkUXQ?oc=5",
+      "source": "CIDRAP Vaccines & Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 8,
+      "published_at": "2026-05-07T18:29:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "covid"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "CIDRAP / Minnesota"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "CIDRAP / Minnesota"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "CIDRAP Vaccines & Immunization"
+      ],
+      "first_seen_at": "2026-05-07T18:29:00+00:00",
+      "last_seen_at": "2026-05-08T01:18:55.155965+00:00"
+    },
     {
       "id": "aae6efcd2bacabc3",
       "title": "ワクチンおよび関連生物由来製品諮問委員会 2026 年 3 月 12 日会議のお知らせ - 03/12/2026",
@@ -71,12 +140,12 @@
       "country": "米国",
       "lat": 38.9072,
       "lng": -77.0369,
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicate_sources": [
         "FDA Vaccines / Biologics"
       ],
       "first_seen_at": "2026-05-07T17:22:59+00:00",
-      "last_seen_at": "2026-05-07T22:14:37.819332+00:00"
+      "last_seen_at": "2026-05-08T01:18:55.155985+00:00"
     },
     {
       "id": "65f29eea87d87517",
@@ -145,7 +214,7 @@
         "CIDRAP Vaccines & Immunization"
       ],
       "first_seen_at": "2026-05-07T17:15:10+00:00",
-      "last_seen_at": "2026-05-07T22:14:37.819344+00:00"
+      "last_seen_at": "2026-05-08T01:18:55.155993+00:00"
     },
     {
       "id": "9b8a91953c0b4d7e",
@@ -212,7 +281,7 @@
         "Eurosurveillance"
       ],
       "first_seen_at": "2026-05-07T17:11:43+00:00",
-      "last_seen_at": "2026-05-07T22:14:37.819347+00:00"
+      "last_seen_at": "2026-05-08T01:18:55.155999+00:00"
     },
     {
       "id": "571cc050dde33209",
@@ -285,7 +354,7 @@
         "PAHO News"
       ],
       "first_seen_at": "2026-05-07T14:19:58+00:00",
-      "last_seen_at": "2026-05-07T22:14:37.819350+00:00"
+      "last_seen_at": "2026-05-08T01:18:55.156005+00:00"
     },
     {
       "id": "3c3049acea464b9d",
@@ -358,7 +427,7 @@
         "FDA Vaccines / Biologics"
       ],
       "first_seen_at": "2026-03-13T14:26:04+00:00",
-      "last_seen_at": "2026-05-07T22:14:37.819359+00:00"
+      "last_seen_at": "2026-05-08T01:18:55.156010+00:00"
     },
     {
       "id": "1c4a10bd2cf315b0",
@@ -429,7 +498,7 @@
         "MHRA"
       ],
       "first_seen_at": "2026-04-15T13:00:18+00:00",
-      "last_seen_at": "2026-05-07T22:14:37.819366+00:00"
+      "last_seen_at": "2026-05-08T01:18:55.156015+00:00"
     },
     {
       "id": "35b41c3ed811479d",
@@ -498,7 +567,7 @@
         "Reuters Vaccines / Immunization"
       ],
       "first_seen_at": "2026-05-06T21:01:21+00:00",
-      "last_seen_at": "2026-05-07T22:14:37.819374+00:00"
+      "last_seen_at": "2026-05-08T01:18:55.156022+00:00"
     },
     {
       "id": "f30c82399d52e7b1",
@@ -571,7 +640,7 @@
         "FDA Vaccines / Biologics"
       ],
       "first_seen_at": "2026-04-14T12:52:18+00:00",
-      "last_seen_at": "2026-05-07T22:14:37.819383+00:00"
+      "last_seen_at": "2026-05-08T01:18:55.156028+00:00"
     },
     {
       "id": "12d29f3972ea305a",
@@ -644,7 +713,7 @@
         "FDA Vaccines / Biologics"
       ],
       "first_seen_at": "2026-03-24T17:36:37+00:00",
-      "last_seen_at": "2026-05-07T22:14:37.819389+00:00"
+      "last_seen_at": "2026-05-08T01:18:55.156033+00:00"
     },
     {
       "id": "273493c75414a811",
@@ -710,7 +779,7 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "duplicate_sources": [
         "BMJ"
       ],
@@ -784,7 +853,7 @@
         "BBC Vaccines / Immunization"
       ],
       "first_seen_at": "2026-05-05T05:07:20+00:00",
-      "last_seen_at": "2026-05-07T22:14:37.819399+00:00"
+      "last_seen_at": "2026-05-08T01:18:55.156041+00:00"
     },
     {
       "id": "659d5ff0f45b04fe",
@@ -853,7 +922,7 @@
         "Human Vaccines & Immunotherapeutics"
       ],
       "first_seen_at": "2026-05-04T19:04:06+00:00",
-      "last_seen_at": "2026-05-07T22:14:37.819404+00:00"
+      "last_seen_at": "2026-05-08T01:18:55.156046+00:00"
     },
     {
       "id": "54aafed6eddf5900",
@@ -920,7 +989,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-04-21T05:01:19+00:00",
-      "last_seen_at": "2026-05-07T22:14:37.819409+00:00"
+      "last_seen_at": "2026-05-08T01:18:55.156050+00:00"
     },
     {
       "id": "60fd65e7bbff310b",
@@ -992,7 +1061,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-03-02T13:26:37+00:00",
-      "last_seen_at": "2026-05-07T22:14:37.819413+00:00"
+      "last_seen_at": "2026-05-08T01:18:55.156055+00:00"
     },
     {
       "id": "91b3f9a1774af1ce",
@@ -1062,7 +1131,7 @@
         "medRxiv vaccines"
       ],
       "first_seen_at": "2026-05-02T02:22:57+00:00",
-      "last_seen_at": "2026-05-07T22:14:37.819418+00:00"
+      "last_seen_at": "2026-05-08T01:18:55.156060+00:00"
     },
     {
       "id": "08e1b0d97ab94939",
@@ -1131,7 +1200,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-04-23T10:29:50+00:00",
-      "last_seen_at": "2026-05-07T22:14:37.819422+00:00"
+      "last_seen_at": "2026-05-08T01:18:55.156065+00:00"
     },
     {
       "id": "1bff7ba8a5ac1ab4",
@@ -1198,7 +1267,7 @@
         "Lancet Infectious Diseases"
       ],
       "first_seen_at": "2026-05-01T08:46:38+00:00",
-      "last_seen_at": "2026-05-07T22:14:37.819426+00:00"
+      "last_seen_at": "2026-05-08T01:18:55.156070+00:00"
     },
     {
       "id": "08fa027f0aece9ef",
@@ -1405,7 +1474,7 @@
         "Washington Post Vaccines / Immunization"
       ],
       "first_seen_at": "2026-05-01T00:07:30+00:00",
-      "last_seen_at": "2026-05-07T22:14:37.819430+00:00"
+      "last_seen_at": "2026-05-08T01:18:55.156074+00:00"
     },
     {
       "id": "0caf4c0a7b565f4a",
@@ -1541,7 +1610,7 @@
         "Science Vaccines / Immunization"
       ],
       "first_seen_at": "2026-04-30T18:22:38+00:00",
-      "last_seen_at": "2026-05-07T22:14:37.819435+00:00"
+      "last_seen_at": "2026-05-08T01:18:55.156079+00:00"
     },
     {
       "id": "ed8522a99cdf1cb5",
@@ -1615,7 +1684,7 @@
         "PAHO News"
       ],
       "first_seen_at": "2026-04-30T14:44:14+00:00",
-      "last_seen_at": "2026-05-07T22:14:37.819441+00:00"
+      "last_seen_at": "2026-05-08T01:18:55.156084+00:00"
     },
     {
       "id": "da16d9ac8a8aa8d2",
@@ -1821,7 +1890,7 @@
         "Financial Times Vaccines / Immunization"
       ],
       "first_seen_at": "2026-04-30T09:55:00+00:00",
-      "last_seen_at": "2026-05-07T22:14:37.819447+00:00"
+      "last_seen_at": "2026-05-08T01:18:55.156090+00:00"
     },
     {
       "id": "af2c81d175fe57a9",
@@ -1837,7 +1906,7 @@
       "source_type": "media",
       "source_tier": "Tier 2",
       "source_priority": 7,
-      "published_at": "2026-04-30T00:41:02+00:00",
+      "published_at": "2026-04-30T00:41:05+00:00",
       "topics": [
         "policy"
       ],
@@ -1888,7 +1957,7 @@
         "STAT Vaccines / Immunization"
       ],
       "first_seen_at": "2026-04-30T00:41:02+00:00",
-      "last_seen_at": "2026-05-07T22:14:37.819452+00:00"
+      "last_seen_at": "2026-05-08T01:18:55.156094+00:00"
     },
     {
       "id": "7aa2d0fe25ab3b36",
@@ -1959,7 +2028,7 @@
         "CIDRAP Vaccines & Immunization"
       ],
       "first_seen_at": "2026-04-29T21:25:06+00:00",
-      "last_seen_at": "2026-05-07T22:14:37.819457+00:00"
+      "last_seen_at": "2026-05-08T01:18:55.156100+00:00"
     },
     {
       "id": "c9d441c251df380f",
@@ -2106,7 +2175,7 @@
         "medRxiv vaccines"
       ],
       "first_seen_at": "2026-04-29T10:44:29+00:00",
-      "last_seen_at": "2026-05-07T22:14:37.819464+00:00"
+      "last_seen_at": "2026-05-08T01:18:55.156105+00:00"
     },
     {
       "id": "5d549e7af2ec9afb",
@@ -2175,7 +2244,7 @@
         "Lancet Infectious Diseases"
       ],
       "first_seen_at": "2026-04-29T00:56:42+00:00",
-      "last_seen_at": "2026-05-07T22:14:37.819469+00:00"
+      "last_seen_at": "2026-05-08T01:18:55.156109+00:00"
     },
     {
       "id": "f1edb82e3d6c0ddc",
@@ -2237,7 +2306,7 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "duplicate_sources": [
         "CIDRAP Vaccines & Immunization"
       ],
@@ -2677,7 +2746,7 @@
         "PAHO News"
       ],
       "first_seen_at": "2026-04-27T17:54:35+00:00",
-      "last_seen_at": "2026-05-07T22:14:37.819478+00:00"
+      "last_seen_at": "2026-05-08T01:18:55.156120+00:00"
     },
     {
       "id": "50b6ecc93ecab108",
@@ -2821,7 +2890,7 @@
         "STAT Vaccines / Immunization"
       ],
       "first_seen_at": "2026-04-28T00:13:07+00:00",
-      "last_seen_at": "2026-05-07T22:14:37.819483+00:00"
+      "last_seen_at": "2026-05-08T01:18:55.156125+00:00"
     },
     {
       "id": "c66e7cbac541dc23",
@@ -3030,7 +3099,7 @@
         "medRxiv vaccines"
       ],
       "first_seen_at": "2026-04-26T02:06:29+00:00",
-      "last_seen_at": "2026-05-07T22:14:37.819488+00:00"
+      "last_seen_at": "2026-05-08T01:18:55.156130+00:00"
     },
     {
       "id": "6a4fcd8803c16621",
@@ -3168,7 +3237,7 @@
         "medRxiv vaccines"
       ],
       "first_seen_at": "2026-04-24T22:47:57+00:00",
-      "last_seen_at": "2026-05-07T22:14:37.819493+00:00"
+      "last_seen_at": "2026-05-08T01:18:55.156135+00:00"
     },
     {
       "id": "805c372aa60f496f",
@@ -3304,7 +3373,7 @@
         "Science Vaccines / Immunization"
       ],
       "first_seen_at": "2026-04-24T21:48:47+00:00",
-      "last_seen_at": "2026-05-07T22:14:37.819498+00:00"
+      "last_seen_at": "2026-05-08T01:18:55.156140+00:00"
     },
     {
       "id": "9500b0d322b2a825",
