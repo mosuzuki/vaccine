@@ -644,7 +644,19 @@
       "newsletter",
       "letters to the editor",
       "op-ed",
-      "video"
+      "video",
+      "sopp",
+      "biologics procedures",
+      "standard operating procedure",
+      "standard operating procedures",
+      "guidance compliance regulatory information",
+      "cellular and gene therapy guidances",
+      "cellular gene therapy guidances",
+      "regulatory education",
+      "redi annual conference",
+      "industry guidance",
+      "compliance program",
+      "supporting documents"
     ],
     "exclude_url_patterns": [
       "/blood-blood-products/",
@@ -660,7 +672,12 @@
       "/opinion/",
       "/podcasts/",
       "/audio/",
-      "/video/"
+      "/video/",
+      "/guidance-compliance-regulatory-information-biologics/",
+      "/biologics-procedures-sopps",
+      "/biologics-guidances/",
+      "/regulatory-education-industry-redi",
+      "/compliance-regulatory-information"
     ],
     "exclude_text_patterns": [
       "latest news from the center for biologics evaluation and research",
@@ -671,7 +688,12 @@
       "recipient of donated sperm",
       "undeclared sildenafil",
       "risk of vcjd",
-      "public with important information about the safety and availability of biological products"
+      "public with important information about the safety and availability of biological products",
+      "biologics procedures sopp",
+      "standard operating policies and procedures",
+      "guidance compliance regulatory information biologics",
+      "regulatory education for industry",
+      "cellular and gene therapy guidances"
     ],
     "require_any_keywords": [
       "vaccine",
@@ -720,7 +742,9 @@
       "older than",
       "quick guide",
       "download file",
-      "product information supporting documents"
+      "product information supporting documents",
+      "standard operating policies and procedures",
+      "regulatory education for industry"
     ]
   },
   "country_map": {

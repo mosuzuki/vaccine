@@ -248,6 +248,32 @@ def summarize_article(title: str, article_text: str, fallback: str) -> str:
     return summary[:280]
 
 
+def is_technical_document(title: str, summary: str, article_text: str, link: str) -> bool:
+    combined = f"{title or ''} {summary or ''} {article_text or ''} {link or ''}".lower()
+    technical_patterns = [
+        "sopp",
+        "standard operating procedure",
+        "standard operating procedures",
+        "biologics procedures",
+        "guidance compliance regulatory information",
+        "guidance-compliance-regulatory-information",
+        "biologics-procedures",
+        "biologics-guidances",
+        "regulatory education",
+        "redi annual conference",
+        "supporting documents",
+        "quick guide",
+        "data files",
+        "what’s new for biologics",
+        "what's new for biologics",
+        "drugs@fda",
+        "blood products",
+        "transfusion",
+        "plasma-derived",
+    ]
+    return any(pat in combined for pat in technical_patterns)
+
+
 def should_keep_item(title: str, summary: str, article_text: str, link: str, source_type: str, config: dict) -> bool:
     if source_type not in set(config.get("pickup_source_types", [])):
         return False
@@ -257,6 +283,11 @@ def should_keep_item(title: str, summary: str, article_text: str, link: str, sou
     article_l = (article_text or "").lower()
     link_l = (link or "").lower()
     combined = f"{title_l} {summary_l} {article_l}".strip()
+
+    # Exclude technical procedure/guidance hub pages from the public dashboard.
+    # Academic sections should be limited to peer-reviewed journals and preprints.
+    if is_technical_document(title, summary, article_text, link):
+        return False
 
     for pat in strict.get("exclude_title_patterns", []):
         if pat.lower() in title_l:
