@@ -1,10 +1,79 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-05-12T22:20:56.670848+00:00",
-  "archive_count": 213,
+  "generated_at": "2026-05-13T22:22:20.725648+00:00",
+  "archive_count": 214,
   "days_back": 14,
   "items": [
+    {
+      "id": "0f068d52aa9fe729",
+      "title": "AAPが独自の小児および青少年の予防接種スケジュールを発表",
+      "summary": "AAPが独自の小児および青少年の予防接種スケジュールを発表",
+      "summary_ai": "AAPが独自の小児および青少年の予防接種スケジュールを発表",
+      "title_original": "AAP Releases Its Own Childhood and Adolescent Immunization Schedule",
+      "summary_original": "AAP Releases Its Own Childhood and Adolescent Immunization Schedule",
+      "summary_ai_original": "AAP Releases Its Own Childhood and Adolescent Immunization Schedule",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdmZYTjloanNwWHFvR2taNFEwOE5NaEtfUU4zbTBRQ012cjM1Qm1FTURXTkJzMVRtejZwcVRoTnRCV3R1Wk4zWmhiSG15Q2FPTERtNWVxOWJCNFBxcWlvVjFuOC04TjFjZVlEdUM3QWpBR3JwWTVRUEc2SDNnYzFWdHFwQmp1ZFJtRTBWdF80R0VmVF85Sm1VRGhuN1haYmVCbHNJeQ?oc=5",
+      "source": "JAMA vaccines",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 9,
+      "published_at": "2026-05-13T09:37:27+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [
+        "schedule"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "JAMA"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "JAMA"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "JAMA vaccines"
+      ],
+      "first_seen_at": "2026-05-13T09:37:27+00:00",
+      "last_seen_at": "2026-05-13T22:24:05.550034+00:00"
+    },
     {
       "id": "ad64c7158cc6e911",
       "title": "MGMT 非メチル化神経膠芽腫に対するアジュバント個別化多価ネオアンチゲン DNA 予防接種: 第 1 相試験",
@@ -70,7 +139,7 @@
         "Nature News Vaccines / Immunization"
       ],
       "first_seen_at": "2026-05-12T11:05:18+00:00",
-      "last_seen_at": "2026-05-12T22:22:48.183401+00:00"
+      "last_seen_at": "2026-05-13T22:24:05.550049+00:00"
     },
     {
       "id": "d7603d0b9b86b3e7",
@@ -133,12 +202,12 @@
       "country": "ブラジル",
       "lat": -15.7939,
       "lng": -47.8828,
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicate_sources": [
         "BMJ"
       ],
       "first_seen_at": "2026-05-11T18:59:26+00:00",
-      "last_seen_at": "2026-05-12T22:22:48.183410+00:00"
+      "last_seen_at": "2026-05-13T22:24:05.550057+00:00"
     },
     {
       "id": "b850a5b733f7cc09",
@@ -205,7 +274,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-05-11T18:50:03+00:00",
-      "last_seen_at": "2026-05-12T22:22:48.183418+00:00"
+      "last_seen_at": "2026-05-13T22:24:05.550064+00:00"
     },
     {
       "id": "70a6c62d98a86931",
@@ -276,7 +345,78 @@
         "MHRA"
       ],
       "first_seen_at": "2026-05-11T13:00:52+00:00",
-      "last_seen_at": "2026-05-12T22:22:48.183426+00:00"
+      "last_seen_at": "2026-05-13T22:24:05.550069+00:00"
+    },
+    {
+      "id": "fcbf1fec1d576e58",
+      "title": "長期療養入居者のオミクロン変異株に対する 4 回目の covid-19 mRNAワクチンの有効性 -",
+      "summary": "長期療養入居者のオミクロン変異株に対する 4 回目の covid-19 mRNAワクチンの有効性",
+      "summary_ai": "長期療養入居者のオミクロン変異株に対する 4 回目の covid-19 mRNAワクチンの有効性",
+      "title_original": "Effectiveness of a fourth dose of covid-19 mRNA vaccine against the omicron variant among long term care residents - The",
+      "summary_original": "Effectiveness of a fourth dose of covid-19 mRNA vaccine against the omicron variant among long term care residents The",
+      "summary_ai_original": "Effectiveness of a fourth dose of covid-19 mRNA vaccine against the omicron variant among long term care residents The",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13UVpuZWJobDVsQlUtVFNrVU9yUDNtODVUOEFjMTVpMlhHU3FsRkZ1SHJjclpMSlBzbzFIcGxaamJHRW0wcTFRVndWQ0dDOUo0VlZhT1Fmak5FQ2t3THd4QkZlcVcySmV1Y2V2SA?oc=5",
+      "source": "BMJ",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-05-11T09:23:01+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "covid"
+      ],
+      "variants": [
+        "omicron"
+      ],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BMJ / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BMJ / London"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 2,
+      "duplicate_sources": [
+        "BMJ"
+      ],
+      "first_seen_at": "2026-05-11T09:23:01+00:00",
+      "last_seen_at": "2026-05-13T22:24:05.550072+00:00"
     },
     {
       "id": "327f76a617d7f764",
@@ -345,7 +485,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-05-09T23:54:00+00:00",
-      "last_seen_at": "2026-05-12T22:22:48.183430+00:00"
+      "last_seen_at": "2026-05-13T22:24:05.550076+00:00"
     },
     {
       "id": "b21886ff48483e9b",
@@ -414,7 +554,7 @@
         "Cochrane vaccines"
       ],
       "first_seen_at": "2026-05-09T18:17:36+00:00",
-      "last_seen_at": "2026-05-12T22:22:48.183435+00:00"
+      "last_seen_at": "2026-05-13T22:24:05.550083+00:00"
     },
     {
       "id": "6371aa09a0cc0d63",
@@ -481,7 +621,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-05-09T13:24:35+00:00",
-      "last_seen_at": "2026-05-12T22:22:48.183440+00:00"
+      "last_seen_at": "2026-05-13T22:24:05.550089+00:00"
     },
     {
       "id": "3e59465e9abc6ed8",
@@ -548,7 +688,7 @@
         "Cochrane vaccines"
       ],
       "first_seen_at": "2026-05-09T01:51:37+00:00",
-      "last_seen_at": "2026-05-12T22:22:48.183446+00:00"
+      "last_seen_at": "2026-05-13T22:24:05.550094+00:00"
     },
     {
       "id": "40fbd0ed42c0e80e",
@@ -619,7 +759,7 @@
         "medRxiv vaccines"
       ],
       "first_seen_at": "2026-05-08T21:01:17+00:00",
-      "last_seen_at": "2026-05-12T22:22:48.183451+00:00"
+      "last_seen_at": "2026-05-13T22:24:05.550099+00:00"
     },
     {
       "id": "01093150739e0a41",
@@ -692,7 +832,7 @@
         "MHRA"
       ],
       "first_seen_at": "2026-04-28T09:07:00+00:00",
-      "last_seen_at": "2026-05-12T22:22:48.183456+00:00"
+      "last_seen_at": "2026-05-13T22:24:05.550104+00:00"
     },
     {
       "id": "0acb3aa926c7a59b",
@@ -761,7 +901,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-05-08T12:41:38+00:00",
-      "last_seen_at": "2026-05-12T22:22:48.183460+00:00"
+      "last_seen_at": "2026-05-13T22:24:05.550108+00:00"
     },
     {
       "id": "89ab608e20e550c5",
@@ -828,7 +968,7 @@
         "SSRN vaccine preprints"
       ],
       "first_seen_at": "2026-05-08T09:24:06+00:00",
-      "last_seen_at": "2026-05-12T22:22:48.183463+00:00"
+      "last_seen_at": "2026-05-13T22:24:05.550113+00:00"
     },
     {
       "id": "4fb75ca5e77fb6d2",
@@ -897,7 +1037,7 @@
         "CIDRAP Vaccines & Immunization"
       ],
       "first_seen_at": "2026-05-07T18:29:00+00:00",
-      "last_seen_at": "2026-05-12T22:22:48.183469+00:00"
+      "last_seen_at": "2026-05-13T22:24:05.550117+00:00"
     },
     {
       "id": "aae6efcd2bacabc3",
@@ -1039,7 +1179,7 @@
         "CIDRAP Vaccines & Immunization"
       ],
       "first_seen_at": "2026-05-07T17:15:10+00:00",
-      "last_seen_at": "2026-05-12T22:22:48.183476+00:00"
+      "last_seen_at": "2026-05-13T22:24:05.550122+00:00"
     },
     {
       "id": "9b8a91953c0b4d7e",
@@ -1173,7 +1313,7 @@
         "CIDRAP Vaccines & Immunization"
       ],
       "first_seen_at": "2026-05-07T14:23:26+00:00",
-      "last_seen_at": "2026-05-12T22:22:48.183484+00:00"
+      "last_seen_at": "2026-05-13T22:24:05.550129+00:00"
     },
     {
       "id": "571cc050dde33209",
@@ -1246,7 +1386,7 @@
         "PAHO News"
       ],
       "first_seen_at": "2026-05-07T14:19:58+00:00",
-      "last_seen_at": "2026-05-12T22:22:48.183490+00:00"
+      "last_seen_at": "2026-05-13T22:24:05.550134+00:00"
     },
     {
       "id": "3c3049acea464b9d",
@@ -1459,7 +1599,7 @@
         "Reuters Vaccines / Immunization"
       ],
       "first_seen_at": "2026-05-06T21:01:21+00:00",
-      "last_seen_at": "2026-05-12T22:22:48.183500+00:00"
+      "last_seen_at": "2026-05-13T22:24:05.550139+00:00"
     },
     {
       "id": "08fa027f0aece9ef",
@@ -1528,7 +1668,7 @@
         "読売新聞 ワクチン / 予防接種"
       ],
       "first_seen_at": "2026-04-15T07:00:00+00:00",
-      "last_seen_at": "2026-05-12T22:22:48.183504+00:00"
+      "last_seen_at": "2026-05-13T22:24:05.550144+00:00"
     },
     {
       "id": "f30c82399d52e7b1",
@@ -1741,7 +1881,7 @@
         "Open Forum Infectious Diseases"
       ],
       "first_seen_at": "2026-05-05T19:26:27+00:00",
-      "last_seen_at": "2026-05-12T22:22:48.183511+00:00"
+      "last_seen_at": "2026-05-13T22:24:05.550150+00:00"
     },
     {
       "id": "273493c75414a811",
@@ -1807,12 +1947,12 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicate_sources": [
         "BMJ"
       ],
       "first_seen_at": "2026-05-05T14:04:22+00:00",
-      "last_seen_at": "2026-05-11T22:18:37.870627+00:00"
+      "last_seen_at": "2026-05-13T22:24:05.550155+00:00"
     },
     {
       "id": "86a6d53804bbb0c0",
@@ -1881,7 +2021,7 @@
         "BBC Vaccines / Immunization"
       ],
       "first_seen_at": "2026-05-05T05:07:20+00:00",
-      "last_seen_at": "2026-05-12T22:22:48.183518+00:00"
+      "last_seen_at": "2026-05-13T22:24:05.550159+00:00"
     },
     {
       "id": "659d5ff0f45b04fe",
@@ -1950,7 +2090,7 @@
         "Human Vaccines & Immunotherapeutics"
       ],
       "first_seen_at": "2026-05-04T19:04:06+00:00",
-      "last_seen_at": "2026-05-12T22:22:48.183523+00:00"
+      "last_seen_at": "2026-05-13T22:24:05.550163+00:00"
     },
     {
       "id": "58faea4bba2b4586",
@@ -2019,7 +2159,7 @@
         "JAMA Network Open vaccines"
       ],
       "first_seen_at": "2026-05-04T18:18:43+00:00",
-      "last_seen_at": "2026-05-12T22:22:48.183527+00:00"
+      "last_seen_at": "2026-05-13T22:24:05.550168+00:00"
     },
     {
       "id": "2e47283387662728",
@@ -2105,7 +2245,7 @@
       "source_type": "academic",
       "source_tier": "Tier 3",
       "source_priority": 7,
-      "published_at": "2026-05-04T01:41:23+00:00",
+      "published_at": "2026-05-04T07:00:00+00:00",
       "topics": [
         "research"
       ],
@@ -2158,7 +2298,7 @@
         "Pediatrics journal"
       ],
       "first_seen_at": "2026-05-04T01:41:23+00:00",
-      "last_seen_at": "2026-05-12T22:22:48.183535+00:00"
+      "last_seen_at": "2026-05-13T22:24:05.550175+00:00"
     },
     {
       "id": "60fd65e7bbff310b",
@@ -2643,7 +2783,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-03-22T11:09:14+00:00",
-      "last_seen_at": "2026-05-12T22:22:48.183542+00:00"
+      "last_seen_at": "2026-05-13T22:24:05.550182+00:00"
     },
     {
       "id": "0caf4c0a7b565f4a",
@@ -2784,7 +2924,7 @@
         "PAHO News"
       ],
       "first_seen_at": "2026-04-30T14:44:14+00:00",
-      "last_seen_at": "2026-05-12T22:22:48.183547+00:00"
+      "last_seen_at": "2026-05-13T22:24:05.550188+00:00"
     },
     {
       "id": "da16d9ac8a8aa8d2",
@@ -2990,7 +3130,7 @@
         "Financial Times Vaccines / Immunization"
       ],
       "first_seen_at": "2026-04-30T09:55:00+00:00",
-      "last_seen_at": "2026-05-12T22:22:48.183553+00:00"
+      "last_seen_at": "2026-05-13T22:24:05.550193+00:00"
     },
     {
       "id": "b8fc6e2814d7933b",
@@ -3059,7 +3199,7 @@
         "Washington Post Vaccines / Immunization"
       ],
       "first_seen_at": "2026-05-01T00:07:30+00:00",
-      "last_seen_at": "2026-05-12T22:22:48.183559+00:00"
+      "last_seen_at": "2026-05-13T22:24:05.550199+00:00"
     },
     {
       "id": "e613dcca938c80a9",
@@ -13861,77 +14001,6 @@
       ],
       "first_seen_at": "2026-03-07T08:00:00+00:00",
       "last_seen_at": "2026-03-19T21:49:18.679225+00:00"
-    },
-    {
-      "id": "06f8d58e3d33443a",
-      "title": "長期療養入居者におけるオミクロン変異体に対する新型コロナウイルス感染症（Covid-19）mRNAワクチンの4回目の投与の有効性 - BMJ",
-      "summary": "長期療養入居者におけるオミクロン変異体に対する新型コロナウイルス感染症（Covid-19）mRNAワクチンの4回目の投与の有効性 The BMJ",
-      "summary_ai": "長期療養入居者におけるオミクロン変異体に対する新型コロナウイルス感染症（Covid-19）mRNAワクチンの4回目の投与の有効性 The BMJ",
-      "title_original": "Effectiveness of a fourth dose of covid-19 mRNA vaccine against the omicron variant among long term care residents - The BMJ",
-      "summary_original": "Effectiveness of a fourth dose of covid-19 mRNA vaccine against the omicron variant among long term care residents The BMJ",
-      "summary_ai_original": "Effectiveness of a fourth dose of covid-19 mRNA vaccine against the omicron variant among long term care residents The BMJ",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13UVpuZWJobDVsQlUtVFNrVU9yUDNtODVUOEFjMTVpMlhHU3FsRkZ1SHJjclpMSlBzbzFIcGxaamJHRW0wcTFRVndWQ0dDOUo0VlZhT1Fmak5FQ2t3THd4QkZlcVcySmV1Y2V2SA?oc=5",
-      "source": "BMJ",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-03-07T01:52:36+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "covid"
-      ],
-      "variants": [
-        "omicron"
-      ],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BMJ / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BMJ / London"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "BMJ"
-      ],
-      "first_seen_at": "2026-03-07T01:52:36+00:00",
-      "last_seen_at": "2026-03-19T21:49:18.679231+00:00"
     },
     {
       "id": "283efb2d33fb371c",
