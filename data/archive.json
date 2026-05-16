@@ -1,25 +1,94 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-05-15T22:09:24.394938+00:00",
-  "archive_count": 221,
+  "generated_at": "2026-05-16T22:00:38.701556+00:00",
+  "archive_count": 222,
   "days_back": 14,
   "items": [
     {
-      "id": "d1c6c5172cd8d470",
-      "title": "ワクチンスケジュール見直しの鍵を握るFDA当局の出発が予想される - ワシントン・ポスト",
-      "summary": "ワクチンスケジュール見直しの鍵を握るFDA当局者が出発予定 ワシントン・ポスト紙",
-      "summary_ai": "ワクチンスケジュール見直しの鍵を握るFDA当局者が出発予定 ワシントン・ポスト紙",
-      "title_original": "FDA official key to vaccine schedule overhaul is expected to depart - The Washington Post",
-      "summary_original": "FDA official key to vaccine schedule overhaul is expected to depart The Washington Post",
-      "summary_ai_original": "FDA official key to vaccine schedule overhaul is expected to depart The Washington Post",
+      "id": "8ffcbe140e7fa8ba",
+      "title": "ワクチンの推奨はどのように行われますか?",
+      "summary": "ワクチンの推奨はどのように行われますか?",
+      "summary_ai": "ワクチンの推奨はどのように行われますか?",
+      "title_original": "How are vaccine recommendations made?",
+      "summary_original": "How are vaccine recommendations made?",
+      "summary_ai_original": "How are vaccine recommendations made?",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQ0doeG10eFZzME9lV2NLYnRXazNaLVpzdExkRTlPWFg1Vmx3U2w4UEUzYjhldEtWaldJUHluMjl0Rlk3NjZBUHJrWm5YNThndGNaakFjSlFSa3ZyLWtSUjJLN1JtSHE0S0FZQXFUakVoZ2FvVm50Vl9oNWdaNGwtMVppcUlhaERCenkw?oc=5",
+      "source": "Lancet Infectious Diseases",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-05-16T15:57:13+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [
+        "recommendation"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Lancet Infectious Diseases / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Lancet Infectious Diseases / London"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 2,
+      "duplicate_sources": [
+        "Lancet Infectious Diseases"
+      ],
+      "first_seen_at": "2026-05-16T15:57:13+00:00",
+      "last_seen_at": "2026-05-16T22:02:23.185750+00:00"
+    },
+    {
+      "id": "dec022d9ed7f41f6",
+      "title": "FDA公式、ワクチンスケジュール見直しの鍵を握る - ワシントン・ポスト",
+      "summary": "FDA公式、ワクチンスケジュール見直しの鍵を握るワシントン・ポスト紙",
+      "summary_ai": "FDA公式、ワクチンスケジュール見直しの鍵を握るワシントン・ポスト紙",
+      "title_original": "FDA official key to vaccine schedule overhaul to depart - The Washington Post",
+      "summary_original": "FDA official key to vaccine schedule overhaul to depart The Washington Post",
+      "summary_ai_original": "FDA official key to vaccine schedule overhaul to depart The Washington Post",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeVkxTmpZd094Q2l3RDhvYkd3QWFUMmZqb2lkdGt2QVhWNXRxNGR4VWE4cGlVZUgxZ2luYk10c0ttS040WXFtaUx2MXMwQS1yV0FUWS1BMHVRMkREQTRvY2Z6LTB6dUVSS01vM0NzY24zY1lZNW9JamM3SGhpRVJPdURkTEhOZHdFRkt0WHBaLXQ4amkyU2tPWWFtZ0h6bEVDTVA1LXNkR3hyc2pCN0l0VA?oc=5",
       "source": "Washington Post Vaccines / Immunization",
       "source_type": "media",
       "source_tier": "Tier 2",
       "source_priority": 7,
-      "published_at": "2026-05-15T22:08:00+00:00",
+      "published_at": "2026-05-16T06:00:00+00:00",
       "topics": [
         "policy"
       ],
@@ -67,12 +136,12 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "duplicate_sources": [
         "Washington Post Vaccines / Immunization"
       ],
-      "first_seen_at": "2026-05-15T22:08:00+00:00",
-      "last_seen_at": "2026-05-15T22:11:20.260969+00:00"
+      "first_seen_at": "2026-05-16T06:00:00+00:00",
+      "last_seen_at": "2026-05-16T22:02:23.185759+00:00"
     },
     {
       "id": "aa5df6687dde94d7",
@@ -143,7 +212,79 @@
         "FDA Vaccines / Biologics"
       ],
       "first_seen_at": "2026-05-15T20:52:08+00:00",
-      "last_seen_at": "2026-05-15T22:11:20.260980+00:00"
+      "last_seen_at": "2026-05-16T22:02:23.185768+00:00"
+    },
+    {
+      "id": "eb2d9852d0aa37a7",
+      "title": "低所得国および下位中所得国におけるインフルエンザワクチンの普及率の向上：介入と戦略的推奨事項の総合 - オックスフォード・アカデミック",
+      "summary": "低所得国および下位中所得国におけるインフルエンザワクチンの普及率の向上: 介入と戦略的推奨事項の総合 オックスフォード・アカデミック",
+      "summary_ai": "低所得国および下位中所得国におけるインフルエンザワクチンの普及率の向上: 介入と戦略的推奨事項の総合 オックスフォード・アカデミック",
+      "title_original": "Improving influenza vaccine uptake in low and lower-middle-income countries: A synthesis of interventions and strategic recommendations - Oxford Academic",
+      "summary_original": "Improving influenza vaccine uptake in low and lower-middle-income countries: A synthesis of interventions and strategic recommendations Oxford Academic",
+      "summary_ai_original": "Improving influenza vaccine uptake in low and lower-middle-income countries: A synthesis of interventions and strategic recommendations Oxford Academic",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVnlkMFFXV2Y3eXpQRXJqXzBrTERWN01rcXNHam9MMXoxdVY2S2tLTW1lWTFTZHJ6bUpVT3Jaa3VUNlMtUXk2SjRhYV9LdXhvTjJ3V3NBd0tZbk1QVUhnRGdlQ3JmMEZ5T29TRmdpcU43RWpXdlpOMk1naERQaXQwNkl5OWQ?oc=5",
+      "source": "Open Forum Infectious Diseases",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-05-15T07:52:38+00:00",
+      "topics": [
+        "communication",
+        "policy"
+      ],
+      "policy_tags": [
+        "recommendation"
+      ],
+      "vaccines": [
+        "influenza"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "Open Forum Infectious Diseases"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "Open Forum Infectious Diseases"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Open Forum Infectious Diseases"
+      ],
+      "first_seen_at": "2026-05-15T07:52:38+00:00",
+      "last_seen_at": "2026-05-16T22:02:23.185770+00:00"
     },
     {
       "id": "8d1c9e6d8cbfcfc0",
@@ -205,7 +346,7 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "duplicate_sources": [
         "CIDRAP Vaccines & Immunization"
       ],
@@ -280,7 +421,7 @@
         "Eurosurveillance"
       ],
       "first_seen_at": "2026-05-14T16:52:13+00:00",
-      "last_seen_at": "2026-05-15T22:11:20.260998+00:00"
+      "last_seen_at": "2026-05-16T22:02:23.185778+00:00"
     },
     {
       "id": "fb8b183dc534b67d",
@@ -349,7 +490,7 @@
         "The Lancet series"
       ],
       "first_seen_at": "2026-05-13T23:32:06+00:00",
-      "last_seen_at": "2026-05-15T22:11:20.261004+00:00"
+      "last_seen_at": "2026-05-16T22:02:23.185783+00:00"
     },
     {
       "id": "7b1c2ed1aed46188",
@@ -414,7 +555,7 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "duplicate_sources": [
         "CIDRAP Vaccines & Immunization"
       ],
@@ -488,7 +629,7 @@
         "JAMA vaccines"
       ],
       "first_seen_at": "2026-05-13T09:37:27+00:00",
-      "last_seen_at": "2026-05-15T22:11:20.261015+00:00"
+      "last_seen_at": "2026-05-16T22:02:23.185793+00:00"
     },
     {
       "id": "7651a29d83e21369",
@@ -557,7 +698,7 @@
         "PLOS journals vaccines"
       ],
       "first_seen_at": "2026-05-12T22:04:00+00:00",
-      "last_seen_at": "2026-05-15T22:11:20.261019+00:00"
+      "last_seen_at": "2026-05-16T22:02:23.185798+00:00"
     },
     {
       "id": "ad64c7158cc6e911",
@@ -624,7 +765,7 @@
         "Nature News Vaccines / Immunization"
       ],
       "first_seen_at": "2026-05-12T11:05:18+00:00",
-      "last_seen_at": "2026-05-14T22:19:40.227468+00:00"
+      "last_seen_at": "2026-05-16T22:02:23.185803+00:00"
     },
     {
       "id": "d7603d0b9b86b3e7",
@@ -692,7 +833,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-05-11T18:59:26+00:00",
-      "last_seen_at": "2026-05-14T22:19:40.227474+00:00"
+      "last_seen_at": "2026-05-16T22:02:23.185807+00:00"
     },
     {
       "id": "b850a5b733f7cc09",
@@ -759,7 +900,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-05-11T18:50:03+00:00",
-      "last_seen_at": "2026-05-14T22:19:40.227481+00:00"
+      "last_seen_at": "2026-05-16T22:02:23.185811+00:00"
     },
     {
       "id": "70a6c62d98a86931",
@@ -830,7 +971,7 @@
         "MHRA"
       ],
       "first_seen_at": "2026-05-11T13:00:52+00:00",
-      "last_seen_at": "2026-05-15T22:11:20.261027+00:00"
+      "last_seen_at": "2026-05-16T22:02:23.185815+00:00"
     },
     {
       "id": "fcbf1fec1d576e58",
@@ -901,7 +1042,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-05-11T09:23:01+00:00",
-      "last_seen_at": "2026-05-14T22:19:40.227495+00:00"
+      "last_seen_at": "2026-05-16T22:02:23.185820+00:00"
     },
     {
       "id": "327f76a617d7f764",
@@ -970,7 +1111,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-05-09T23:54:00+00:00",
-      "last_seen_at": "2026-05-14T22:19:40.227499+00:00"
+      "last_seen_at": "2026-05-16T22:02:23.185824+00:00"
     },
     {
       "id": "b21886ff48483e9b",
@@ -1039,7 +1180,7 @@
         "Cochrane vaccines"
       ],
       "first_seen_at": "2026-05-09T18:17:36+00:00",
-      "last_seen_at": "2026-05-15T22:11:20.261035+00:00"
+      "last_seen_at": "2026-05-16T22:02:23.185827+00:00"
     },
     {
       "id": "6371aa09a0cc0d63",
@@ -1106,7 +1247,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-05-09T13:24:35+00:00",
-      "last_seen_at": "2026-05-14T22:19:40.227509+00:00"
+      "last_seen_at": "2026-05-16T22:02:23.185831+00:00"
     },
     {
       "id": "3e59465e9abc6ed8",
@@ -1173,7 +1314,7 @@
         "Cochrane vaccines"
       ],
       "first_seen_at": "2026-05-09T01:51:37+00:00",
-      "last_seen_at": "2026-05-15T22:11:20.261042+00:00"
+      "last_seen_at": "2026-05-16T22:02:23.185835+00:00"
     },
     {
       "id": "40fbd0ed42c0e80e",
@@ -1244,7 +1385,7 @@
         "medRxiv vaccines"
       ],
       "first_seen_at": "2026-05-08T21:01:17+00:00",
-      "last_seen_at": "2026-05-15T22:11:20.261049+00:00"
+      "last_seen_at": "2026-05-16T22:02:23.185839+00:00"
     },
     {
       "id": "01093150739e0a41",
@@ -1317,76 +1458,7 @@
         "MHRA"
       ],
       "first_seen_at": "2026-04-28T09:07:00+00:00",
-      "last_seen_at": "2026-05-15T22:11:20.261055+00:00"
-    },
-    {
-      "id": "0acb3aa926c7a59b",
-      "title": "モデルナのmRNAインフルエンザワクチンは標準的なワクチンよりも優れていることが研究で判明 -",
-      "summary": "モデルナのmRNAインフルエンザワクチンは標準的なワクチンよりも優れていることが研究で判明",
-      "summary_ai": "モデルナのmRNAインフルエンザワクチンは標準的なワクチンよりも優れていることが研究で判明",
-      "title_original": "Moderna’s mRNA flu vaccine outperforms standard shot, study finds - The",
-      "summary_original": "Moderna’s mRNA flu vaccine outperforms standard shot, study finds The",
-      "summary_ai_original": "Moderna’s mRNA flu vaccine outperforms standard shot, study finds The",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4LWJVUHVUeUdPR0VoYmMwaVkwTHowTHl4bXk1U1BuTUZ4R2ZtbzVaRjY3QmNlUjBqRkRGMGZzRUlGTldSRlRvSkZHdzdEY2xDZEE?oc=5",
-      "source": "BMJ",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-05-08T12:41:38+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "influenza"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BMJ / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BMJ / London"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "BMJ"
-      ],
-      "first_seen_at": "2026-05-08T12:41:38+00:00",
-      "last_seen_at": "2026-05-14T22:19:40.227522+00:00"
+      "last_seen_at": "2026-05-16T22:02:23.185844+00:00"
     },
     {
       "id": "89ab608e20e550c5",
@@ -1453,7 +1525,76 @@
         "SSRN vaccine preprints"
       ],
       "first_seen_at": "2026-05-08T09:24:06+00:00",
-      "last_seen_at": "2026-05-15T22:11:20.261061+00:00"
+      "last_seen_at": "2026-05-16T22:02:23.185849+00:00"
+    },
+    {
+      "id": "0acb3aa926c7a59b",
+      "title": "モデルナのmRNAインフルエンザワクチンは標準的なワクチンよりも優れていることが研究で判明 -",
+      "summary": "モデルナのmRNAインフルエンザワクチンは標準的なワクチンよりも優れていることが研究で判明",
+      "summary_ai": "モデルナのmRNAインフルエンザワクチンは標準的なワクチンよりも優れていることが研究で判明",
+      "title_original": "Moderna’s mRNA flu vaccine outperforms standard shot, study finds - The",
+      "summary_original": "Moderna’s mRNA flu vaccine outperforms standard shot, study finds The",
+      "summary_ai_original": "Moderna’s mRNA flu vaccine outperforms standard shot, study finds The",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4LWJVUHVUeUdPR0VoYmMwaVkwTHowTHl4bXk1U1BuTUZ4R2ZtbzVaRjY3QmNlUjBqRkRGMGZzRUlGTldSRlRvSkZHdzdEY2xDZEE?oc=5",
+      "source": "BMJ",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-05-08T07:00:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "influenza"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BMJ / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BMJ / London"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "BMJ"
+      ],
+      "first_seen_at": "2026-05-08T12:41:38+00:00",
+      "last_seen_at": "2026-05-16T22:02:23.185853+00:00"
     },
     {
       "id": "4fb75ca5e77fb6d2",
@@ -1802,7 +1943,7 @@
         "PAHO News"
       ],
       "first_seen_at": "2026-05-07T14:19:58+00:00",
-      "last_seen_at": "2026-05-15T22:11:20.261071+00:00"
+      "last_seen_at": "2026-05-16T22:02:23.185860+00:00"
     },
     {
       "id": "3c3049acea464b9d",
@@ -2151,7 +2292,7 @@
         "Reuters Vaccines / Immunization"
       ],
       "first_seen_at": "2026-05-06T21:01:21+00:00",
-      "last_seen_at": "2026-05-15T22:11:20.261085+00:00"
+      "last_seen_at": "2026-05-16T22:02:23.185865+00:00"
     },
     {
       "id": "08fa027f0aece9ef",
@@ -2220,7 +2361,7 @@
         "読売新聞 ワクチン / 予防接種"
       ],
       "first_seen_at": "2026-04-15T07:00:00+00:00",
-      "last_seen_at": "2026-05-14T22:19:40.227559+00:00"
+      "last_seen_at": "2026-05-16T22:02:23.185871+00:00"
     },
     {
       "id": "f30c82399d52e7b1",
@@ -2433,7 +2574,7 @@
         "Open Forum Infectious Diseases"
       ],
       "first_seen_at": "2026-05-05T19:26:27+00:00",
-      "last_seen_at": "2026-05-15T22:11:20.261092+00:00"
+      "last_seen_at": "2026-05-16T22:02:23.185876+00:00"
     },
     {
       "id": "273493c75414a811",
@@ -2504,7 +2645,76 @@
         "BMJ"
       ],
       "first_seen_at": "2026-05-05T14:04:22+00:00",
-      "last_seen_at": "2026-05-14T22:19:40.227572+00:00"
+      "last_seen_at": "2026-05-16T22:02:23.185880+00:00"
+    },
+    {
+      "id": "86a6d53804bbb0c0",
+      "title": "ノッティンガム大学、鳥インフルエンザワクチン治験ボランティア募集 - BBC",
+      "summary": "ノッティンガム大学、鳥インフルエンザワクチン治験ボランティア募集 BBC",
+      "summary_ai": "ノッティンガム大学、鳥インフルエンザワクチン治験ボランティア募集 BBC",
+      "title_original": "University of Nottingham seeks bird flu vaccine trial volunteers - BBC",
+      "summary_original": "University of Nottingham seeks bird flu vaccine trial volunteers BBC",
+      "summary_ai_original": "University of Nottingham seeks bird flu vaccine trial volunteers BBC",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84dWtMVmp1OC1vT1k5M2NGaC1tUnVGOXk1Ynp5c09MS19GYkVrc2hRS3ZyaHhkTFpBX0JiSllaM19nVWVVbUVPSEtvQnVQOUpOc0Z4VndpUlVjZw?oc=5",
+      "source": "BBC Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-05-05T07:00:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "influenza"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BBC"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BBC"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "BBC Vaccines / Immunization"
+      ],
+      "first_seen_at": "2026-05-05T05:07:20+00:00",
+      "last_seen_at": "2026-05-16T22:02:23.185884+00:00"
     },
     {
       "id": "659d5ff0f45b04fe",
@@ -2573,7 +2783,7 @@
         "Human Vaccines & Immunotherapeutics"
       ],
       "first_seen_at": "2026-05-04T19:04:06+00:00",
-      "last_seen_at": "2026-05-15T22:11:20.261098+00:00"
+      "last_seen_at": "2026-05-16T22:02:23.185888+00:00"
     },
     {
       "id": "58faea4bba2b4586",
@@ -2642,76 +2852,7 @@
         "JAMA Network Open vaccines"
       ],
       "first_seen_at": "2026-05-04T18:18:43+00:00",
-      "last_seen_at": "2026-05-15T22:11:20.261103+00:00"
-    },
-    {
-      "id": "86a6d53804bbb0c0",
-      "title": "ノッティンガム大学、鳥インフルエンザワクチン治験ボランティア募集 - BBC",
-      "summary": "ノッティンガム大学、鳥インフルエンザワクチン治験ボランティア募集 BBC",
-      "summary_ai": "ノッティンガム大学、鳥インフルエンザワクチン治験ボランティア募集 BBC",
-      "title_original": "University of Nottingham seeks bird flu vaccine trial volunteers - BBC",
-      "summary_original": "University of Nottingham seeks bird flu vaccine trial volunteers BBC",
-      "summary_ai_original": "University of Nottingham seeks bird flu vaccine trial volunteers BBC",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84dWtMVmp1OC1vT1k5M2NGaC1tUnVGOXk1Ynp5c09MS19GYkVrc2hRS3ZyaHhkTFpBX0JiSllaM19nVWVVbUVPSEtvQnVQOUpOc0Z4VndpUlVjZw?oc=5",
-      "source": "BBC Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-05-04T07:00:00+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "influenza"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BBC"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BBC"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "BBC Vaccines / Immunization"
-      ],
-      "first_seen_at": "2026-05-05T05:07:20+00:00",
-      "last_seen_at": "2026-05-15T22:11:20.261108+00:00"
+      "last_seen_at": "2026-05-16T22:02:23.185892+00:00"
     },
     {
       "id": "2e47283387662728",
@@ -2781,7 +2922,7 @@
         "Open Forum Infectious Diseases"
       ],
       "first_seen_at": "2026-05-04T13:13:25+00:00",
-      "last_seen_at": "2026-05-15T22:11:20.261113+00:00"
+      "last_seen_at": "2026-05-16T22:02:23.185895+00:00"
     },
     {
       "id": "afafa9a4617c64cf",
@@ -2850,7 +2991,7 @@
         "Pediatrics journal"
       ],
       "first_seen_at": "2026-05-04T01:41:23+00:00",
-      "last_seen_at": "2026-05-15T22:11:20.261117+00:00"
+      "last_seen_at": "2026-05-16T22:02:23.185899+00:00"
     },
     {
       "id": "60fd65e7bbff310b",
@@ -2917,7 +3058,7 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "duplicate_sources": [
         "BMJ"
       ],
@@ -2989,7 +3130,7 @@
         "Clinical Infectious Diseases"
       ],
       "first_seen_at": "2026-05-03T07:27:50+00:00",
-      "last_seen_at": "2026-05-15T22:11:20.261123+00:00"
+      "last_seen_at": "2026-05-16T22:02:23.185904+00:00"
     },
     {
       "id": "91b3f9a1774af1ce",
@@ -5865,75 +6006,6 @@
       ],
       "first_seen_at": "2026-04-23T19:44:00+00:00",
       "last_seen_at": "2026-05-01T22:03:19.804442+00:00"
-    },
-    {
-      "id": "c58fe53de78e1db5",
-      "title": "ワクチンの推奨はどのように行われますか? - ランセット",
-      "summary": "ワクチンの推奨はどのように行われますか?ランセット",
-      "summary_ai": "ワクチンの推奨はどのように行われますか?",
-      "title_original": "How are vaccine recommendations made? - The Lancet",
-      "summary_original": "How are vaccine recommendations made? The Lancet",
-      "summary_ai_original": "How are vaccine recommendations made?",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaFZtSGNlSkNoSHBiZXY5ZFRDMnRJMzQxVEt3ajdBTHVBR2ZUOUFzNTUzbVAyb3dBX3VaQlJ4THpHcGIzYUphdXRTTlZvRmxObEkwMGptR1JLSU00T3pZcDZCSW5IdDdxMFR3d1VVX2M3b0QySVdHZUpLcXlzYjhCRFhPTDRyN1FkYVB3?oc=5",
-      "source": "Lancet Infectious Diseases",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-04-23T03:55:00+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [
-        "recommendation"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "Lancet Infectious Diseases / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "Lancet Infectious Diseases / London"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Lancet Infectious Diseases"
-      ],
-      "first_seen_at": "2026-04-23T03:55:00+00:00",
-      "last_seen_at": "2026-05-06T22:08:14.158520+00:00"
     },
     {
       "id": "aa86360eff221967",
