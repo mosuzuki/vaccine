@@ -1,10 +1,79 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-05-16T22:00:38.701556+00:00",
+  "generated_at": "2026-05-17T22:04:32.454356+00:00",
   "archive_count": 222,
   "days_back": 14,
   "items": [
+    {
+      "id": "327f76a617d7f764",
+      "title": "鳥インフルエンザ：英国でmRNAワクチンの治験が始まる -",
+      "summary": "鳥インフルエンザ：mRNAワクチンの治験が英国で始まる",
+      "summary_ai": "鳥インフルエンザ：mRNAワクチンの治験が英国で始まる",
+      "title_original": "Bird flu: mRNA vaccine trial begins in UK - The",
+      "summary_original": "Bird flu: mRNA vaccine trial begins in UK The",
+      "summary_ai_original": "Bird flu: mRNA vaccine trial begins in UK The",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE52SVVSbmRkdkJoNEpfMGM5aTh5MTVBM3pfNVp4RmtyMFRNaTVFZVpGRzQ4WTFPRVFsRUVDaEozUWdYTmhidFEzZ0QtcDkzeTdEX1FXajExVkZ3c0JPMUE?oc=5",
+      "source": "BMJ",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-05-16T21:16:32+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "covid"
+      ],
+      "variants": [],
+      "target_country": "英国",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BMJ / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BMJ / London"
+        },
+        "target": {
+          "key": "uk",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "英国"
+        }
+      },
+      "location": {
+        "key": "uk",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "英国"
+      },
+      "region": "Europe",
+      "country": "英国",
+      "lat": 51.5074,
+      "lng": -0.1278,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "BMJ"
+      ],
+      "first_seen_at": "2026-05-09T23:54:00+00:00",
+      "last_seen_at": "2026-05-17T22:06:50.240600+00:00"
+    },
     {
       "id": "8ffcbe140e7fa8ba",
       "title": "ワクチンの推奨はどのように行われますか?",
@@ -67,12 +136,12 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicate_sources": [
         "Lancet Infectious Diseases"
       ],
       "first_seen_at": "2026-05-16T15:57:13+00:00",
-      "last_seen_at": "2026-05-16T22:02:23.185750+00:00"
+      "last_seen_at": "2026-05-17T22:06:50.240615+00:00"
     },
     {
       "id": "dec022d9ed7f41f6",
@@ -136,12 +205,12 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicate_sources": [
         "Washington Post Vaccines / Immunization"
       ],
       "first_seen_at": "2026-05-16T06:00:00+00:00",
-      "last_seen_at": "2026-05-16T22:02:23.185759+00:00"
+      "last_seen_at": "2026-05-17T22:06:50.240622+00:00"
     },
     {
       "id": "aa5df6687dde94d7",
@@ -212,7 +281,7 @@
         "FDA Vaccines / Biologics"
       ],
       "first_seen_at": "2026-05-15T20:52:08+00:00",
-      "last_seen_at": "2026-05-16T22:02:23.185768+00:00"
+      "last_seen_at": "2026-05-17T22:06:50.240629+00:00"
     },
     {
       "id": "eb2d9852d0aa37a7",
@@ -284,7 +353,7 @@
         "Open Forum Infectious Diseases"
       ],
       "first_seen_at": "2026-05-15T07:52:38+00:00",
-      "last_seen_at": "2026-05-16T22:02:23.185770+00:00"
+      "last_seen_at": "2026-05-17T22:06:50.240634+00:00"
     },
     {
       "id": "8d1c9e6d8cbfcfc0",
@@ -421,7 +490,7 @@
         "Eurosurveillance"
       ],
       "first_seen_at": "2026-05-14T16:52:13+00:00",
-      "last_seen_at": "2026-05-16T22:02:23.185778+00:00"
+      "last_seen_at": "2026-05-17T22:06:50.240644+00:00"
     },
     {
       "id": "fb8b183dc534b67d",
@@ -490,7 +559,7 @@
         "The Lancet series"
       ],
       "first_seen_at": "2026-05-13T23:32:06+00:00",
-      "last_seen_at": "2026-05-16T22:02:23.185783+00:00"
+      "last_seen_at": "2026-05-17T22:06:50.240652+00:00"
     },
     {
       "id": "7b1c2ed1aed46188",
@@ -629,7 +698,7 @@
         "JAMA vaccines"
       ],
       "first_seen_at": "2026-05-13T09:37:27+00:00",
-      "last_seen_at": "2026-05-16T22:02:23.185793+00:00"
+      "last_seen_at": "2026-05-17T22:06:50.240663+00:00"
     },
     {
       "id": "7651a29d83e21369",
@@ -698,7 +767,7 @@
         "PLOS journals vaccines"
       ],
       "first_seen_at": "2026-05-12T22:04:00+00:00",
-      "last_seen_at": "2026-05-16T22:02:23.185798+00:00"
+      "last_seen_at": "2026-05-17T22:06:50.240669+00:00"
     },
     {
       "id": "ad64c7158cc6e911",
@@ -765,7 +834,7 @@
         "Nature News Vaccines / Immunization"
       ],
       "first_seen_at": "2026-05-12T11:05:18+00:00",
-      "last_seen_at": "2026-05-16T22:02:23.185803+00:00"
+      "last_seen_at": "2026-05-17T22:06:50.240674+00:00"
     },
     {
       "id": "d7603d0b9b86b3e7",
@@ -833,7 +902,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-05-11T18:59:26+00:00",
-      "last_seen_at": "2026-05-16T22:02:23.185807+00:00"
+      "last_seen_at": "2026-05-17T22:06:50.240689+00:00"
     },
     {
       "id": "b850a5b733f7cc09",
@@ -900,7 +969,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-05-11T18:50:03+00:00",
-      "last_seen_at": "2026-05-16T22:02:23.185811+00:00"
+      "last_seen_at": "2026-05-17T22:06:50.240694+00:00"
     },
     {
       "id": "70a6c62d98a86931",
@@ -971,7 +1040,7 @@
         "MHRA"
       ],
       "first_seen_at": "2026-05-11T13:00:52+00:00",
-      "last_seen_at": "2026-05-16T22:02:23.185815+00:00"
+      "last_seen_at": "2026-05-17T22:06:50.240700+00:00"
     },
     {
       "id": "fcbf1fec1d576e58",
@@ -1042,76 +1111,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-05-11T09:23:01+00:00",
-      "last_seen_at": "2026-05-16T22:02:23.185820+00:00"
-    },
-    {
-      "id": "327f76a617d7f764",
-      "title": "鳥インフルエンザ：英国でmRNAワクチンの治験が始まる -",
-      "summary": "鳥インフルエンザ：mRNAワクチンの治験が英国で始まる",
-      "summary_ai": "鳥インフルエンザ：mRNAワクチンの治験が英国で始まる",
-      "title_original": "Bird flu: mRNA vaccine trial begins in UK - The",
-      "summary_original": "Bird flu: mRNA vaccine trial begins in UK The",
-      "summary_ai_original": "Bird flu: mRNA vaccine trial begins in UK The",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE52SVVSbmRkdkJoNEpfMGM5aTh5MTVBM3pfNVp4RmtyMFRNaTVFZVpGRzQ4WTFPRVFsRUVDaEozUWdYTmhidFEzZ0QtcDkzeTdEX1FXajExVkZ3c0JPMUE?oc=5",
-      "source": "BMJ",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-05-09T23:54:00+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "covid"
-      ],
-      "variants": [],
-      "target_country": "英国",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BMJ / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BMJ / London"
-        },
-        "target": {
-          "key": "uk",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "英国"
-        }
-      },
-      "location": {
-        "key": "uk",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "英国"
-      },
-      "region": "Europe",
-      "country": "英国",
-      "lat": 51.5074,
-      "lng": -0.1278,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "BMJ"
-      ],
-      "first_seen_at": "2026-05-09T23:54:00+00:00",
-      "last_seen_at": "2026-05-16T22:02:23.185824+00:00"
+      "last_seen_at": "2026-05-17T22:06:50.240704+00:00"
     },
     {
       "id": "b21886ff48483e9b",
@@ -1180,7 +1180,7 @@
         "Cochrane vaccines"
       ],
       "first_seen_at": "2026-05-09T18:17:36+00:00",
-      "last_seen_at": "2026-05-16T22:02:23.185827+00:00"
+      "last_seen_at": "2026-05-17T22:06:50.240709+00:00"
     },
     {
       "id": "6371aa09a0cc0d63",
@@ -1247,7 +1247,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-05-09T13:24:35+00:00",
-      "last_seen_at": "2026-05-16T22:02:23.185831+00:00"
+      "last_seen_at": "2026-05-17T22:06:50.240713+00:00"
     },
     {
       "id": "3e59465e9abc6ed8",
@@ -1314,7 +1314,7 @@
         "Cochrane vaccines"
       ],
       "first_seen_at": "2026-05-09T01:51:37+00:00",
-      "last_seen_at": "2026-05-16T22:02:23.185835+00:00"
+      "last_seen_at": "2026-05-17T22:06:50.240718+00:00"
     },
     {
       "id": "40fbd0ed42c0e80e",
@@ -1385,7 +1385,7 @@
         "medRxiv vaccines"
       ],
       "first_seen_at": "2026-05-08T21:01:17+00:00",
-      "last_seen_at": "2026-05-16T22:02:23.185839+00:00"
+      "last_seen_at": "2026-05-17T22:06:50.240723+00:00"
     },
     {
       "id": "01093150739e0a41",
@@ -1458,7 +1458,7 @@
         "MHRA"
       ],
       "first_seen_at": "2026-04-28T09:07:00+00:00",
-      "last_seen_at": "2026-05-16T22:02:23.185844+00:00"
+      "last_seen_at": "2026-05-17T22:06:50.240729+00:00"
     },
     {
       "id": "89ab608e20e550c5",
@@ -1525,7 +1525,7 @@
         "SSRN vaccine preprints"
       ],
       "first_seen_at": "2026-05-08T09:24:06+00:00",
-      "last_seen_at": "2026-05-16T22:02:23.185849+00:00"
+      "last_seen_at": "2026-05-17T22:06:50.240734+00:00"
     },
     {
       "id": "0acb3aa926c7a59b",
@@ -1594,7 +1594,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-05-08T12:41:38+00:00",
-      "last_seen_at": "2026-05-16T22:02:23.185853+00:00"
+      "last_seen_at": "2026-05-17T22:06:50.240739+00:00"
     },
     {
       "id": "4fb75ca5e77fb6d2",
@@ -1943,7 +1943,7 @@
         "PAHO News"
       ],
       "first_seen_at": "2026-05-07T14:19:58+00:00",
-      "last_seen_at": "2026-05-16T22:02:23.185860+00:00"
+      "last_seen_at": "2026-05-17T22:06:50.240748+00:00"
     },
     {
       "id": "3c3049acea464b9d",
@@ -2292,7 +2292,7 @@
         "Reuters Vaccines / Immunization"
       ],
       "first_seen_at": "2026-05-06T21:01:21+00:00",
-      "last_seen_at": "2026-05-16T22:02:23.185865+00:00"
+      "last_seen_at": "2026-05-17T22:06:50.240753+00:00"
     },
     {
       "id": "08fa027f0aece9ef",
@@ -2574,7 +2574,7 @@
         "Open Forum Infectious Diseases"
       ],
       "first_seen_at": "2026-05-05T19:26:27+00:00",
-      "last_seen_at": "2026-05-16T22:02:23.185876+00:00"
+      "last_seen_at": "2026-05-17T22:06:50.240760+00:00"
     },
     {
       "id": "273493c75414a811",
@@ -2640,7 +2640,7 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "duplicate_sources": [
         "BMJ"
       ],
@@ -2714,7 +2714,7 @@
         "BBC Vaccines / Immunization"
       ],
       "first_seen_at": "2026-05-05T05:07:20+00:00",
-      "last_seen_at": "2026-05-16T22:02:23.185884+00:00"
+      "last_seen_at": "2026-05-17T22:06:50.240767+00:00"
     },
     {
       "id": "659d5ff0f45b04fe",
@@ -2783,7 +2783,7 @@
         "Human Vaccines & Immunotherapeutics"
       ],
       "first_seen_at": "2026-05-04T19:04:06+00:00",
-      "last_seen_at": "2026-05-16T22:02:23.185888+00:00"
+      "last_seen_at": "2026-05-17T22:06:50.240772+00:00"
     },
     {
       "id": "58faea4bba2b4586",
@@ -2852,7 +2852,7 @@
         "JAMA Network Open vaccines"
       ],
       "first_seen_at": "2026-05-04T18:18:43+00:00",
-      "last_seen_at": "2026-05-16T22:02:23.185892+00:00"
+      "last_seen_at": "2026-05-17T22:06:50.240776+00:00"
     },
     {
       "id": "2e47283387662728",
@@ -2922,7 +2922,7 @@
         "Open Forum Infectious Diseases"
       ],
       "first_seen_at": "2026-05-04T13:13:25+00:00",
-      "last_seen_at": "2026-05-16T22:02:23.185895+00:00"
+      "last_seen_at": "2026-05-17T22:06:50.240780+00:00"
     },
     {
       "id": "afafa9a4617c64cf",
@@ -2991,7 +2991,7 @@
         "Pediatrics journal"
       ],
       "first_seen_at": "2026-05-04T01:41:23+00:00",
-      "last_seen_at": "2026-05-16T22:02:23.185899+00:00"
+      "last_seen_at": "2026-05-17T22:06:50.240784+00:00"
     },
     {
       "id": "60fd65e7bbff310b",
