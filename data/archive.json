@@ -1,10 +1,79 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-05-17T22:04:32.454356+00:00",
-  "archive_count": 222,
+  "generated_at": "2026-05-18T22:10:23.706558+00:00",
+  "archive_count": 226,
   "days_back": 14,
   "items": [
+    {
+      "id": "51cc56c6466b91ee",
+      "title": "ペルーにおけるデング熱ワクチンの受け入れ可能性: デング熱が流行しているペルーの 2 つの都市における混合法研究",
+      "summary": "ペルーにおけるデング熱ワクチンの受け入れ可能性: デング熱が流行しているペルーの 2 つの都市における混合法研究",
+      "summary_ai": "ペルーにおけるデング熱ワクチンの受け入れ可能性: デング熱が流行しているペルーの 2 つの都市における混合法研究",
+      "title_original": "Dengue vaccine acceptability in Peru: A mixed-methods study in two dengue-endemic Peruvian cities",
+      "summary_original": "Dengue vaccine acceptability in Peru: A mixed-methods study in two dengue-endemic Peruvian cities",
+      "summary_ai_original": "Dengue vaccine acceptability in Peru: A mixed-methods study in two dengue-endemic Peruvian cities",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wU0VnaHVjX1VKNlVIcGxMbW1BQ0g2bWJCMjBkSEdFLWh5aTlUdXIyVVBvNDFCWnBuazZPeDQ5eUZIdFptUmhmeWtwRlAzZTl4cWlkZXJ1bkljREpsbzRJT3hIX2VuRW5UdkxKZW4wZUkyelhNYlJJZGM3SnA1MDQ?oc=5",
+      "source": "PLOS journals vaccines",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-05-18T19:13:54+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "dengue"
+      ],
+      "variants": [],
+      "target_country": "ペルー",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "PLOS"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "PLOS"
+        },
+        "target": {
+          "key": "peru",
+          "name_ja": "ペルー",
+          "lat": -12.0464,
+          "lng": -77.0428,
+          "region": "South America",
+          "label": "ペルー"
+        }
+      },
+      "location": {
+        "key": "peru",
+        "name_ja": "ペルー",
+        "lat": -12.0464,
+        "lng": -77.0428,
+        "region": "South America",
+        "label": "ペルー"
+      },
+      "region": "South America",
+      "country": "ペルー",
+      "lat": -12.0464,
+      "lng": -77.0428,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "PLOS journals vaccines"
+      ],
+      "first_seen_at": "2026-05-18T19:13:54+00:00",
+      "last_seen_at": "2026-05-18T22:13:11.796526+00:00"
+    },
     {
       "id": "327f76a617d7f764",
       "title": "鳥インフルエンザ：英国でmRNAワクチンの治験が始まる -",
@@ -19,7 +88,7 @@
       "source_type": "academic",
       "source_tier": "Tier 3",
       "source_priority": 8,
-      "published_at": "2026-05-16T21:16:32+00:00",
+      "published_at": "2026-05-18T16:53:18+00:00",
       "topics": [
         "research"
       ],
@@ -72,7 +141,216 @@
         "BMJ"
       ],
       "first_seen_at": "2026-05-09T23:54:00+00:00",
-      "last_seen_at": "2026-05-17T22:06:50.240600+00:00"
+      "last_seen_at": "2026-05-18T22:13:11.796542+00:00"
+    },
+    {
+      "id": "5afa85701e2965f9",
+      "title": "ワクチンコミュニケーション: 基礎、課題、将来の方向性についての批判的なレビュー",
+      "summary": "ワクチンコミュニケーション: 基礎、課題、将来の方向性についての批判的なレビュー",
+      "summary_ai": "ワクチンコミュニケーション: 基礎、課題、将来の方向性についての批判的なレビュー",
+      "title_original": "Vaccine communication: a critical review of foundations, challenges, and future directions",
+      "summary_original": "Vaccine communication: a critical review of foundations, challenges, and future directions",
+      "summary_ai_original": "Vaccine communication: a critical review of foundations, challenges, and future directions",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hUnAtdG1IN2JaWUt3c0FCb3pxdDRhc2Zsa1lYWW5hdlZPeDV5LXF3SEdNT3p1SXdramNVeEF4ZU40a1RoaEFjekZIRWd5TUtZMGE5cE80WVN0eVJqeWFv?oc=5",
+      "source": "Nature News Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 5,
+      "published_at": "2026-05-18T11:54:52+00:00",
+      "topics": [
+        "communication"
+      ],
+      "policy_tags": [
+        "communication"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Nature News"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Nature News"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Nature News Vaccines / Immunization"
+      ],
+      "first_seen_at": "2026-05-18T11:54:52+00:00",
+      "last_seen_at": "2026-05-18T22:13:11.796546+00:00"
+    },
+    {
+      "id": "ba117da335c47fa1",
+      "title": "CDCのワクチン諮問委員会の信頼を回復する方法 - statnews.com",
+      "summary": "CDCのワクチン諮問委員会の信頼を回復する方法 statnews.com",
+      "summary_ai": "CDCのワクチン諮問委員会の信頼を回復する方法 statnews.com",
+      "title_original": "How to restore credibility to the CDC’s vaccine advisory committee - statnews.com",
+      "summary_original": "How to restore credibility to the CDC’s vaccine advisory committee statnews.com",
+      "summary_ai_original": "How to restore credibility to the CDC’s vaccine advisory committee statnews.com",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORnF4cHltcU1aZXd5dG8zdDdjTTZxU21VTHg2blc0LVhoVjRHeHdKOVQyNklMZmpiaGlOSVNqUVRkMm1jbjFZMTRBVnVfVWZadVdNMHJQNml3WVRlVlpPaURndklmSUVnNkZjaGdtajZ3TjZDTDQ5a1FZM3dWTzJkWGl1VjlXaXV4REZLdWNtaFRxdjVQVGc?oc=5",
+      "source": "STAT Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-05-18T08:34:53+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [
+        "recommendation"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "STAT"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "STAT"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "STAT Vaccines / Immunization"
+      ],
+      "first_seen_at": "2026-05-18T08:34:53+00:00",
+      "last_seen_at": "2026-05-18T22:13:11.796548+00:00"
+    },
+    {
+      "id": "2267202e464b59bc",
+      "title": "ニルセビマブ、母親用 RSVワクチン、高齢者用 RSVワクチンの現リアルワールドの有効性と安全性: 生きた系統的研究 - thorax.bmj.com",
+      "summary": "ニルセビマブ、母親用 RSVワクチン、高齢者用 RSVワクチンの現リアルワールドの有効性と安全性: 生きた体系的な r thorax.bmj.com",
+      "summary_ai": "ニルセビマブ、母親用 RSVワクチン、高齢者用 RSVワクチンの現リアルワールドの有効性と安全性: 生きた体系的な r thorax.bmj.com",
+      "title_original": "Real-world effectiveness and safety of nirsevimab, RSV maternal vaccine and RSV vaccines for older adults: a living systematic r - thorax.bmj.com",
+      "summary_original": "Real-world effectiveness and safety of nirsevimab, RSV maternal vaccine and RSV vaccines for older adults: a living systematic r thorax.bmj.com",
+      "summary_ai_original": "Real-world effectiveness and safety of nirsevimab, RSV maternal vaccine and RSV vaccines for older adults: a living systematic r thorax.bmj.com",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16b1dwUEg0SnlPLTQxS3NzQUlZbHlRZVFwME03N2JDbDhEdUdUbFROS2VjcVE1SVdsZFhDUEtONXFOLVBvN3JLcHM3ZDVETXRxUENRVXQ5WFdXcllpcTNEbnFwOExocmhOR29N?oc=5",
+      "source": "BMJ",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-05-17T16:27:46+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [
+        "safety"
+      ],
+      "vaccines": [
+        "rsv"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BMJ / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BMJ / London"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 2,
+      "duplicate_sources": [
+        "BMJ"
+      ],
+      "first_seen_at": "2026-05-17T16:27:46+00:00",
+      "last_seen_at": "2026-05-18T22:13:11.796550+00:00"
     },
     {
       "id": "8ffcbe140e7fa8ba",
@@ -210,7 +488,7 @@
         "Washington Post Vaccines / Immunization"
       ],
       "first_seen_at": "2026-05-16T06:00:00+00:00",
-      "last_seen_at": "2026-05-17T22:06:50.240622+00:00"
+      "last_seen_at": "2026-05-18T22:13:11.796557+00:00"
     },
     {
       "id": "aa5df6687dde94d7",
@@ -281,7 +559,7 @@
         "FDA Vaccines / Biologics"
       ],
       "first_seen_at": "2026-05-15T20:52:08+00:00",
-      "last_seen_at": "2026-05-17T22:06:50.240629+00:00"
+      "last_seen_at": "2026-05-18T22:13:11.796562+00:00"
     },
     {
       "id": "eb2d9852d0aa37a7",
@@ -348,7 +626,7 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "duplicate_sources": [
         "Open Forum Infectious Diseases"
       ],
@@ -423,6 +701,75 @@
       "last_seen_at": "2026-05-15T22:11:20.260991+00:00"
     },
     {
+      "id": "9a9a69c9aeea41ed",
+      "title": "抗体の優れた特異性は、アフリカの幼い子供に対する RTS,S ワクチンのマラリア防御と相関する：第 IIb 相ランダム化対照試験の事後分析",
+      "summary": "抗体の優れた特異性は、アフリカの幼い子供に対する RTS,S ワクチンのマラリア防御と相関する：第 IIb 相ランダム化対照試験の事後分析",
+      "summary_ai": "抗体の優れた特異性は、アフリカの幼い子供に対する RTS,S ワクチンのマラリア防御と相関する：第 IIb 相ランダム化対照試験の事後分析",
+      "title_original": "Antibody fine specificity correlates with protection from malaria for the RTS,S vaccine in young African children: A post hoc analysis of a phase IIb randomised controlled trial",
+      "summary_original": "Antibody fine specificity correlates with protection from malaria for the RTS,S vaccine in young African children: A post hoc analysis of a phase IIb randomised controlled trial",
+      "summary_ai_original": "Antibody fine specificity correlates with protection from malaria for the RTS,S vaccine in young African children: A post hoc analysis of a phase IIb randomised controlled trial",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZlNwM0lPOVBzNzVwUG5Cd0hfQUhray1TOWh2VGFoRThqbTBfTC1mUlhUYU1GMllnbDlPQlVzR3lBZkJpQWxvTGthY3I0eVg2LWFYT1QzUk1oNjUtcHhwQTZSX3pYVWhaMVpZMHlqSld4MXg0OUpnSW5vRWllZW9oNi1uaW0?oc=5",
+      "source": "PLOS journals vaccines",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-05-14T18:12:10+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "malaria"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "PLOS"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "PLOS"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "PLOS journals vaccines"
+      ],
+      "first_seen_at": "2026-05-14T18:12:10+00:00",
+      "last_seen_at": "2026-05-18T22:13:11.796568+00:00"
+    },
+    {
       "id": "cdeb5f8c81e55349",
       "title": "侵襲性インフルエンザ菌血清型 b (Hib) 疾患に対する製品およびスケジュールに応じたワクチンの有効性、オランダ、2005 ～ 2023 年",
       "summary": "侵襲性インフルエンザ菌血清型 b (Hib) 疾患に対する製品およびスケジュールに応じたワクチンの有効性、オランダ、2005 ～ 2023 年",
@@ -490,7 +837,7 @@
         "Eurosurveillance"
       ],
       "first_seen_at": "2026-05-14T16:52:13+00:00",
-      "last_seen_at": "2026-05-17T22:06:50.240644+00:00"
+      "last_seen_at": "2026-05-18T22:13:11.796575+00:00"
     },
     {
       "id": "fb8b183dc534b67d",
@@ -559,7 +906,7 @@
         "The Lancet series"
       ],
       "first_seen_at": "2026-05-13T23:32:06+00:00",
-      "last_seen_at": "2026-05-17T22:06:50.240652+00:00"
+      "last_seen_at": "2026-05-18T22:13:11.796582+00:00"
     },
     {
       "id": "7b1c2ed1aed46188",
@@ -624,7 +971,7 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicate_sources": [
         "CIDRAP Vaccines & Immunization"
       ],
@@ -698,7 +1045,7 @@
         "JAMA vaccines"
       ],
       "first_seen_at": "2026-05-13T09:37:27+00:00",
-      "last_seen_at": "2026-05-17T22:06:50.240663+00:00"
+      "last_seen_at": "2026-05-18T22:13:11.796589+00:00"
     },
     {
       "id": "7651a29d83e21369",
@@ -767,7 +1114,7 @@
         "PLOS journals vaccines"
       ],
       "first_seen_at": "2026-05-12T22:04:00+00:00",
-      "last_seen_at": "2026-05-17T22:06:50.240669+00:00"
+      "last_seen_at": "2026-05-18T22:13:11.796594+00:00"
     },
     {
       "id": "ad64c7158cc6e911",
@@ -834,7 +1181,7 @@
         "Nature News Vaccines / Immunization"
       ],
       "first_seen_at": "2026-05-12T11:05:18+00:00",
-      "last_seen_at": "2026-05-17T22:06:50.240674+00:00"
+      "last_seen_at": "2026-05-18T22:13:11.796599+00:00"
     },
     {
       "id": "d7603d0b9b86b3e7",
@@ -902,7 +1249,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-05-11T18:59:26+00:00",
-      "last_seen_at": "2026-05-17T22:06:50.240689+00:00"
+      "last_seen_at": "2026-05-18T22:13:11.796603+00:00"
     },
     {
       "id": "b850a5b733f7cc09",
@@ -969,7 +1316,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-05-11T18:50:03+00:00",
-      "last_seen_at": "2026-05-17T22:06:50.240694+00:00"
+      "last_seen_at": "2026-05-18T22:13:11.796608+00:00"
     },
     {
       "id": "70a6c62d98a86931",
@@ -1040,7 +1387,7 @@
         "MHRA"
       ],
       "first_seen_at": "2026-05-11T13:00:52+00:00",
-      "last_seen_at": "2026-05-17T22:06:50.240700+00:00"
+      "last_seen_at": "2026-05-18T22:13:11.796614+00:00"
     },
     {
       "id": "fcbf1fec1d576e58",
@@ -1111,7 +1458,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-05-11T09:23:01+00:00",
-      "last_seen_at": "2026-05-17T22:06:50.240704+00:00"
+      "last_seen_at": "2026-05-18T22:13:11.796619+00:00"
     },
     {
       "id": "b21886ff48483e9b",
@@ -1180,7 +1527,7 @@
         "Cochrane vaccines"
       ],
       "first_seen_at": "2026-05-09T18:17:36+00:00",
-      "last_seen_at": "2026-05-17T22:06:50.240709+00:00"
+      "last_seen_at": "2026-05-18T22:13:11.796623+00:00"
     },
     {
       "id": "6371aa09a0cc0d63",
@@ -1247,7 +1594,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-05-09T13:24:35+00:00",
-      "last_seen_at": "2026-05-17T22:06:50.240713+00:00"
+      "last_seen_at": "2026-05-18T22:13:11.796628+00:00"
     },
     {
       "id": "3e59465e9abc6ed8",
@@ -1314,7 +1661,7 @@
         "Cochrane vaccines"
       ],
       "first_seen_at": "2026-05-09T01:51:37+00:00",
-      "last_seen_at": "2026-05-17T22:06:50.240718+00:00"
+      "last_seen_at": "2026-05-18T22:13:11.796632+00:00"
     },
     {
       "id": "40fbd0ed42c0e80e",
@@ -1385,7 +1732,7 @@
         "medRxiv vaccines"
       ],
       "first_seen_at": "2026-05-08T21:01:17+00:00",
-      "last_seen_at": "2026-05-17T22:06:50.240723+00:00"
+      "last_seen_at": "2026-05-18T22:13:11.796637+00:00"
     },
     {
       "id": "01093150739e0a41",
@@ -1525,7 +1872,7 @@
         "SSRN vaccine preprints"
       ],
       "first_seen_at": "2026-05-08T09:24:06+00:00",
-      "last_seen_at": "2026-05-17T22:06:50.240734+00:00"
+      "last_seen_at": "2026-05-18T22:13:11.796643+00:00"
     },
     {
       "id": "0acb3aa926c7a59b",
@@ -1594,7 +1941,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-05-08T12:41:38+00:00",
-      "last_seen_at": "2026-05-17T22:06:50.240739+00:00"
+      "last_seen_at": "2026-05-18T22:13:11.796648+00:00"
     },
     {
       "id": "4fb75ca5e77fb6d2",
@@ -1943,7 +2290,7 @@
         "PAHO News"
       ],
       "first_seen_at": "2026-05-07T14:19:58+00:00",
-      "last_seen_at": "2026-05-17T22:06:50.240748+00:00"
+      "last_seen_at": "2026-05-18T22:13:11.796657+00:00"
     },
     {
       "id": "3c3049acea464b9d",
@@ -2151,7 +2498,7 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "duplicate_sources": [
         "CIDRAP Vaccines & Immunization"
       ],
@@ -2292,7 +2639,7 @@
         "Reuters Vaccines / Immunization"
       ],
       "first_seen_at": "2026-05-06T21:01:21+00:00",
-      "last_seen_at": "2026-05-17T22:06:50.240753+00:00"
+      "last_seen_at": "2026-05-18T22:13:11.796666+00:00"
     },
     {
       "id": "08fa027f0aece9ef",
@@ -2574,78 +2921,7 @@
         "Open Forum Infectious Diseases"
       ],
       "first_seen_at": "2026-05-05T19:26:27+00:00",
-      "last_seen_at": "2026-05-17T22:06:50.240760+00:00"
-    },
-    {
-      "id": "273493c75414a811",
-      "title": "ニルセビマブ、母体用 RSVワクチン、高齢者用 RSVワクチンの実際の有効性と安全性 - thorax.bmj.com",
-      "summary": "ニルセビマブ、母体用 RSVワクチン、高齢者用 RSVワクチンの実際の有効性と安全性 thorax.bmj.com",
-      "summary_ai": "ニルセビマブ、母体用 RSVワクチン、高齢者用 RSVワクチンの実際の有効性と安全性 thorax.bmj.com",
-      "title_original": "Real-world effectiveness and safety of nirsevimab, RSV maternal vaccine and RSV vaccines for older adults - thorax.bmj.com",
-      "summary_original": "Real-world effectiveness and safety of nirsevimab, RSV maternal vaccine and RSV vaccines for older adults thorax.bmj.com",
-      "summary_ai_original": "Real-world effectiveness and safety of nirsevimab, RSV maternal vaccine and RSV vaccines for older adults thorax.bmj.com",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16b1dwUEg0SnlPLTQxS3NzQUlZbHlRZVFwME03N2JDbDhEdUdUbFROS2VjcVE1SVdsZFhDUEtONXFOLVBvN3JLcHM3ZDVETXRxUENRVXQ5WFdXcllpcTNEbnFwOExocmhOR29N?oc=5",
-      "source": "BMJ",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-05-05T14:04:22+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [
-        "safety"
-      ],
-      "vaccines": [
-        "rsv"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BMJ / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BMJ / London"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 2,
-      "duplicate_sources": [
-        "BMJ"
-      ],
-      "first_seen_at": "2026-05-05T14:04:22+00:00",
-      "last_seen_at": "2026-05-16T22:02:23.185880+00:00"
+      "last_seen_at": "2026-05-18T22:13:11.796671+00:00"
     },
     {
       "id": "86a6d53804bbb0c0",
@@ -3058,7 +3334,7 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicate_sources": [
         "BMJ"
       ],
