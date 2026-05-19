@@ -1,9 +1,9 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-05-18T22:10:23.706558+00:00",
-  "item_count": 30,
-  "archive_count": 226,
+  "generated_at": "2026-05-19T22:22:22.151829+00:00",
+  "item_count": 25,
+  "archive_count": 229,
   "days_back": 14,
   "plot_mode_default": "source",
   "feed_status": [
@@ -23,7 +23,7 @@
       "name": "CDC Newsroom",
       "url": "https://tools.cdc.gov/api/v2/resources/media/316422.rss",
       "status": "ok",
-      "seen": 19,
+      "seen": 17,
       "kept": 0
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/biologics/rss.xml",
       "status": "ok",
       "seen": 20,
-      "kept": 1
+      "kept": 2
     },
     {
       "name": "EMA News",
@@ -57,7 +57,7 @@
       "url": "https://www.gov.uk/government/organisations/medicines-and-healthcare-products-regulatory-agency.atom",
       "status": "ok",
       "seen": 20,
-      "kept": 1
+      "kept": 0
     },
     {
       "name": "Health Canada Recalls and Safety Alerts",
@@ -74,16 +74,15 @@
     {
       "name": "Africa CDC News",
       "url": "https://africacdc.org/feed/",
-      "status": "ok",
-      "seen": 0,
-      "kept": 0
+      "status": "error",
+      "error": "403 Client Error: Forbidden for url: https://africacdc.org/feed/"
     },
     {
       "name": "PAHO News",
       "url": "https://www.paho.org/en/rss.xml",
       "status": "ok",
       "seen": 10,
-      "kept": 1
+      "kept": 0
     },
     {
       "name": "The Lancet series",
@@ -96,14 +95,14 @@
       "name": "Lancet Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Athelancet.com%2Fjournals%2Flaninf&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 1,
-      "kept": 1
+      "seen": 2,
+      "kept": 2
     },
     {
       "name": "NEJM",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Anejm.org%20(trial%20OR%20effectiveness%20OR%20policy%20OR%20safety)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 6,
+      "seen": 5,
       "kept": 0
     },
     {
@@ -111,13 +110,13 @@
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abmj.com%20(policy%20OR%20trial%20OR%20effectiveness%20OR%20communication)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
       "seen": 9,
-      "kept": 7
+      "kept": 6
     },
     {
       "name": "Vaccine journal",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Asciencedirect.com%2Fjournal%2Fvaccine&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 2,
       "kept": 0
     },
     {
@@ -138,7 +137,7 @@
       "name": "Nature Communications vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fncomms%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20surveillance)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 5,
+      "seen": 6,
       "kept": 0
     },
     {
@@ -166,7 +165,7 @@
       "name": "Science vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ascience.org%2Fdoi%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20antibody)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 5,
+      "seen": 3,
       "kept": 0
     },
     {
@@ -194,14 +193,14 @@
       "name": "JAMA vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjama%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 4,
+      "seen": 5,
       "kept": 1
     },
     {
       "name": "JAMA Network Open vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjamanetworkopen%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 2,
       "kept": 0
     },
     {
@@ -229,7 +228,7 @@
       "name": "medRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Amedrxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 14,
+      "seen": 12,
       "kept": 1
     },
     {
@@ -244,13 +243,13 @@
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
       "seen": 23,
-      "kept": 2
+      "kept": 1
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 95,
+      "seen": 94,
       "kept": 1
     },
     {
@@ -264,98 +263,98 @@
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 50,
+      "seen": 64,
       "kept": 0
     },
     {
       "name": "Financial Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aft.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 7,
+      "seen": 10,
       "kept": 0
     },
     {
       "name": "STAT Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 16,
+      "seen": 25,
       "kept": 1
     },
     {
       "name": "Nature News Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 14,
+      "seen": 15,
       "kept": 2
     },
     {
       "name": "Science Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Ascience.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 7,
+      "seen": 5,
       "kept": 0
     },
     {
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 35,
+      "seen": 38,
       "kept": 0
     },
     {
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 28,
+      "seen": 33,
       "kept": 0
     },
     {
       "name": "Washington Post Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 18,
-      "kept": 1
+      "seen": 17,
+      "kept": 0
     },
     {
       "name": "NHK ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anhk.or.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 0,
+      "seen": 1,
       "kept": 0
     },
     {
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 81,
+      "seen": 100,
       "kept": 0
     },
     {
       "name": "朝日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Aasahi.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 41,
+      "seen": 25,
       "kept": 0
     },
     {
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 96,
+      "seen": 70,
       "kept": 0
     },
     {
       "name": "毎日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 19,
+      "seen": 20,
       "kept": 0
     },
     {
       "name": "JAMA Network vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 5,
+      "seen": 7,
       "kept": 1
     },
     {
@@ -383,7 +382,7 @@
       "name": "Open Forum Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fofid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 2,
       "kept": 2
     },
     {
@@ -404,8 +403,8 @@
       "name": "PLOS journals vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajournals.plos.org%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20uptake%20OR%20policy)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 5,
-      "kept": 4
+      "seen": 2,
+      "kept": 2
     },
     {
       "name": "eClinicalMedicine vaccines",
@@ -425,7 +424,7 @@
       "name": "International Journal of Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aijidonline.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 2,
       "kept": 0
     },
     {
@@ -460,52 +459,54 @@
       "name": "SSRN vaccine preprints",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Apapers.ssrn.com%20(effectiveness%20OR%20safety%20OR%20policy%20OR%20trial)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
-      "kept": 1
+      "seen": 0,
+      "kept": 0
     }
   ],
   "weekly_ai_summary": {
-    "generated_at": "2026-05-18T22:10:23.706558+00:00",
+    "generated_at": "2026-05-19T22:22:22.151829+00:00",
     "period_days": 7,
     "policy_count": 5,
-    "academic_count": 9,
+    "academic_count": 11,
     "status": "ok",
     "model": "gpt-4o-mini",
-    "policy_summary": "ワクチンコミュニケーションに関する批判的レビューが発表され、CDCのワクチン諮問委員会の信頼回復策が議論されています。また、FDAがワクチンスケジュールの見直しに関与していることが報告されています。",
-    "academic_summary": "ペルーにおけるデング熱ワクチンの受け入れ可能性に関する研究が行われ、英国では鳥インフルエンザに対するmRNAワクチンの治験が開始されました。さらに、RSVワクチンの現実世界での有効性と安全性に関する研究も発表されています。"
+    "policy_summary": "ワクチンおよび関連生物由来製品諮問委員会の新たな専門家が任命され、ワクチンの安全性に関する推奨が行われています。また、CDCのワクチン諮問委員会の信頼回復に向けた提言がなされています。",
+    "academic_summary": "母親のRSウイルスワクチンが乳児の入院を80％減少させることが研究で示されました。さらに、低所得国におけるインフルエンザワクチンの普及率向上に関する介入と戦略的推奨がまとめられています。"
   },
   "items": [
     {
-      "id": "51cc56c6466b91ee",
-      "title": "ペルーにおけるデング熱ワクチンの受け入れ可能性: デング熱が流行しているペルーの 2 つの都市における混合法研究",
-      "summary": "ペルーにおけるデング熱ワクチンの受け入れ可能性: デング熱が流行しているペルーの 2 つの都市における混合法研究",
-      "summary_ai": "ペルーにおけるデング熱ワクチンの受け入れ可能性: デング熱が流行しているペルーの 2 つの都市における混合法研究",
-      "title_original": "Dengue vaccine acceptability in Peru: A mixed-methods study in two dengue-endemic Peruvian cities",
-      "summary_original": "Dengue vaccine acceptability in Peru: A mixed-methods study in two dengue-endemic Peruvian cities",
-      "summary_ai_original": "Dengue vaccine acceptability in Peru: A mixed-methods study in two dengue-endemic Peruvian cities",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wU0VnaHVjX1VKNlVIcGxMbW1BQ0g2bWJCMjBkSEdFLWh5aTlUdXIyVVBvNDFCWnBuazZPeDQ5eUZIdFptUmhmeWtwRlAzZTl4cWlkZXJ1bkljREpsbzRJT3hIX2VuRW5UdkxKZW4wZUkyelhNYlJJZGM3SnA1MDQ?oc=5",
-      "source": "PLOS journals vaccines",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 7,
-      "published_at": "2026-05-18T19:13:54+00:00",
+      "id": "558aa72821ab3b00",
+      "title": "ワクチンおよび関連生物由来製品諮問委員会の名簿",
+      "summary": "これはワクチンおよび関連生物由来製品諮問委員会の名簿です。",
+      "summary_ai": "空席専門知識: グローバルヘルス、遺伝学 任期: 2022/02/01 – 2030/01/30 臨床・医療研究政策部門ディレクター 所長室科学政策室 国立衛生研究所ベセスダ、メリーランド州 専門分野: 小児科、感染症 任期: 2025/02/01 - 2029/01/31 学科教授",
+      "title_original": "Roster of the Vaccines and Related Biological Products Advisory Committee",
+      "summary_original": "This is the Roster of the Vaccines and Related Biological Products Advisory Committee",
+      "summary_ai_original": "Vacant Expertise: Global Health, Genetics Term: 02/01/2022 – 01/30/2030 Director, Division of Clinical and Healthcare Research Policy Office of Science Policy, Office of the Director National Institutes of Health Bethesda, MD Expertise: Pediatrics, Infectious Diseases Term: 02/01/2025 - 01/31/2029 Professor, Department",
+      "article_text_original": "As part of the Food and Drug Administration's (FDA's) ongoing efforts to recruit qualified experts with minimal conflicts of interest who are interested in serving on FDA advisory committees, FDA is requesting nominations for members to serve on its advisory committees. Current Number of Vacancies: 9 Note, one or more vacancies may be in the nomination process or a final appointment may have been made. The names listed below are advisory committee members who have active appointments required to participate in committee meetings, including an unexpired appointment as a Special Government Employee where applicable. Vacant Expertise: Global Health, Genetics Term: 02/01/2022 – 01/30/2030 Director, Division of Clinical and Healthcare Research Policy Office of Science Policy, Office of the Director National Institutes of Health Bethesda, MD Expertise: Pediatrics, Infectious Diseases Term: 02/01/2025 - 01/31/2029 Professor, Department of International Health Director, Center for Immunization Research Johns Hopkins Bloomberg School of Public Health Baltimore, MD 21205 Expertise: Pediatrics, Infectious Diseases Term: 06/21/2019 - 01/31/2027 Clinical Professor Pediatrics - Infectious Diseases Stanford Medicine Children’s Health Stanford, CA 94305 Expertise: Industry Representative (Alternate) Scientific Assoc. Vice President, Global Regulatory Affairs and Clinical Safety, MRL, Vaccines and Infectious Diseases Merck & Co., Inc. North Wales, PA 19454 Expertise: Pediatrics, Vaccines Term: 02/01/2024 - 01/31/2028 Medical Officer Immunization Services Division National Center for Emerging and Zoonotic Infectious Diseases Centers for Disease Control and Prevention Atlanta, GA 30329 Expertise: Pediatrics, Infectious Diseases Term: 02/01/2025 - 01/31/2029 Associate Professor of Pediatrics, Infectious Diseases Molecular Virology and Microbiology Texas Children’s Hospital Baylor College of Medicine Houston, TX 77030 Expertise: Allergy & Immunology Term: 07/05/2024 - 1/31/2028 Chief, Asthma, Allergy, and Immunology Division School of Medicine University of Virginia Charlottesville, VA 22903 Expertise: Pediatrics, Infectious Diseases Term: 02/01/2025 - 01/31/2029 Dean and Professor Lyda Hill Deanship of the School of Public Health UT Southwestern Medical Center Dallas, TX 75225 LCDR Cicely C. Reese, PharmD Center for Biologics Evaluation & Research Food and Drug Administration Silver Spring, MD 20993 E-mail: CBERVRBPAC@fda.hhs.gov ** Consumer Representative *** Industry Representative ~ Alternate Industry Representative",
+      "link": "http://www.fda.gov/advisory-committees/vaccines-and-related-biological-products-advisory-committee/roster-vaccines-and-related-biological-products-advisory-committee",
+      "source": "FDA Vaccines / Biologics",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 9,
+      "published_at": "2026-05-19T17:58:05+00:00",
       "topics": [
+        "policy",
         "research"
       ],
-      "policy_tags": [],
-      "vaccines": [
-        "dengue"
+      "policy_tags": [
+        "recommendation",
+        "safety"
       ],
+      "vaccines": [],
       "variants": [],
-      "target_country": "ペルー",
+      "target_country": "不明",
       "source_location": {
         "key": "united states",
         "name_ja": "米国",
         "lat": 38.9072,
         "lng": -77.0369,
         "region": "North America",
-        "label": "PLOS"
+        "label": "FDA / Silver Spring"
       },
       "plot": {
         "source": {
@@ -514,32 +515,97 @@
           "lat": 38.9072,
           "lng": -77.0369,
           "region": "North America",
-          "label": "PLOS"
+          "label": "FDA / Silver Spring"
         },
         "target": {
-          "key": "peru",
-          "name_ja": "ペルー",
-          "lat": -12.0464,
-          "lng": -77.0428,
-          "region": "South America",
-          "label": "ペルー"
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
         }
       },
       "location": {
-        "key": "peru",
-        "name_ja": "ペルー",
-        "lat": -12.0464,
-        "lng": -77.0428,
-        "region": "South America",
-        "label": "ペルー"
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
       },
-      "region": "South America",
-      "country": "ペルー",
-      "lat": -12.0464,
-      "lng": -77.0428,
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
       "duplicate_count": 1,
       "duplicate_sources": [
-        "PLOS journals vaccines"
+        "FDA Vaccines / Biologics"
+      ]
+    },
+    {
+      "id": "b850a5b733f7cc09",
+      "title": "RSウイルス：母親のワクチンにより乳児の入院が80％減少、研究で判明 -",
+      "summary": "RSV：母親のワクチンにより乳児の入院が80％減少、研究で判明",
+      "summary_ai": "RSV：母親のワクチンにより乳児の入院が80％減少、研究で判明",
+      "title_original": "RSV: Maternal vaccine cuts infant hospital admissions by 80%, study shows - The",
+      "summary_original": "RSV: Maternal vaccine cuts infant hospital admissions by 80%, study shows The",
+      "summary_ai_original": "RSV: Maternal vaccine cuts infant hospital admissions by 80%, study shows The",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBZN09UaWNabkx2Nk5xSk82WlE5V2hTU0xiVzI3cnVEMmItNjZhR2VlVW5VazRFcTZlcEdWOTNyMHl5c295dzE4bFhjem1TSWtKSDlJNXNUT1Y0MUlRYkE?oc=5",
+      "source": "BMJ",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-05-19T02:44:23+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BMJ / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BMJ / London"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "BMJ"
       ]
     },
     {
@@ -813,45 +879,45 @@
       ]
     },
     {
-      "id": "dec022d9ed7f41f6",
-      "title": "FDA公式、ワクチンスケジュール見直しの鍵を握る - ワシントン・ポスト",
-      "summary": "FDA公式、ワクチンスケジュール見直しの鍵を握るワシントン・ポスト紙",
-      "summary_ai": "FDA公式、ワクチンスケジュール見直しの鍵を握るワシントン・ポスト紙",
-      "title_original": "FDA official key to vaccine schedule overhaul to depart - The Washington Post",
-      "summary_original": "FDA official key to vaccine schedule overhaul to depart The Washington Post",
-      "summary_ai_original": "FDA official key to vaccine schedule overhaul to depart The Washington Post",
+      "id": "8ffcbe140e7fa8ba",
+      "title": "ワクチンの推奨はどのように行われますか?",
+      "summary": "ワクチンの推奨はどのように行われますか?",
+      "summary_ai": "ワクチンの推奨はどのように行われますか?",
+      "title_original": "How are vaccine recommendations made?",
+      "summary_original": "How are vaccine recommendations made?",
+      "summary_ai_original": "How are vaccine recommendations made?",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeVkxTmpZd094Q2l3RDhvYkd3QWFUMmZqb2lkdGt2QVhWNXRxNGR4VWE4cGlVZUgxZ2luYk10c0ttS040WXFtaUx2MXMwQS1yV0FUWS1BMHVRMkREQTRvY2Z6LTB6dUVSS01vM0NzY24zY1lZNW9JamM3SGhpRVJPdURkTEhOZHdFRkt0WHBaLXQ4amkyU2tPWWFtZ0h6bEVDTVA1LXNkR3hyc2pCN0l0VA?oc=5",
-      "source": "Washington Post Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-05-16T06:00:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQ0doeG10eFZzME9lV2NLYnRXazNaLVpzdExkRTlPWFg1Vmx3U2w4UEUzYjhldEtWaldJUHluMjl0Rlk3NjZBUHJrWm5YNThndGNaakFjSlFSa3ZyLWtSUjJLN1JtSHE0S0FZQXFUakVoZ2FvVm50Vl9oNWdaNGwtMVppcUlhaERCenkw?oc=5",
+      "source": "Lancet Infectious Diseases",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-05-16T15:57:13+00:00",
       "topics": [
         "policy"
       ],
       "policy_tags": [
-        "schedule"
+        "recommendation"
       ],
       "vaccines": [],
       "variants": [],
       "target_country": "不明",
       "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "Washington Post"
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Lancet Infectious Diseases / London"
       },
       "plot": {
         "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "Washington Post"
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Lancet Infectious Diseases / London"
         },
         "target": {
           "key": "unknown",
@@ -876,7 +942,7 @@
       "lng": 0.0,
       "duplicate_count": 1,
       "duplicate_sources": [
-        "Washington Post Vaccines / Immunization"
+        "Lancet Infectious Diseases"
       ]
     },
     {
@@ -946,6 +1012,143 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "FDA Vaccines / Biologics"
+      ]
+    },
+    {
+      "id": "ece0424b46f9dac3",
+      "title": "インドの子どもの栄養失調に対するロタウイルスワクチンの影響 - 下痢の悪循環を断ち切る：横断分析研究 - medRxiv",
+      "summary": "インドの子どもの栄養失調に対するロタウイルスワクチンの影響 - 下痢の悪循環を断ち切る：横断分析研究 medRxiv",
+      "summary_ai": "インドの子どもの栄養失調に対するロタウイルスワクチンの影響 - 下痢の悪循環を断ち切る：横断分析研究 medRxiv",
+      "title_original": "Impact of Rotavirus Vaccine on Malnutrition Among Children in India-Breaking Vicious Cycle of Diarrhea: A Cross-Sectional Analytical Study - medRxiv",
+      "summary_original": "Impact of Rotavirus Vaccine on Malnutrition Among Children in India-Breaking Vicious Cycle of Diarrhea: A Cross-Sectional Analytical Study medRxiv",
+      "summary_ai_original": "Impact of Rotavirus Vaccine on Malnutrition Among Children in India-Breaking Vicious Cycle of Diarrhea: A Cross-Sectional Analytical Study medRxiv",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5fZl9ORzJNNTY1UEFTS1RSSUhXREVGYnVhNjZZODFLeUxZQTVBVjdZdGF2TGxoSWsyMTBObXFOdXhBU2oxNlpqWDNBbUdnY3VFWU1CRy1XVVlPNWNtUHdTblBqX3NxcVFuclh6MEkxQQ?oc=5",
+      "source": "medRxiv vaccines",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-05-15T15:59:26+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "rotavirus"
+      ],
+      "variants": [],
+      "target_country": "インド",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "medRxiv"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "medRxiv"
+        },
+        "target": {
+          "key": "india",
+          "name_ja": "インド",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "region": "Asia",
+          "label": "インド"
+        }
+      },
+      "location": {
+        "key": "india",
+        "name_ja": "インド",
+        "lat": 28.6139,
+        "lng": 77.209,
+        "region": "Asia",
+        "label": "インド"
+      },
+      "region": "Asia",
+      "country": "インド",
+      "lat": 28.6139,
+      "lng": 77.209,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "medRxiv vaccines"
+      ]
+    },
+    {
+      "id": "eb2d9852d0aa37a7",
+      "title": "低所得国および下位中所得国におけるインフルエンザワクチンの普及率の向上：介入と戦略的推奨事項の総合 - オックスフォード・アカデミック",
+      "summary": "低所得国および下位中所得国におけるインフルエンザワクチンの普及率の向上: 介入と戦略的推奨事項の総合 オックスフォード・アカデミック",
+      "summary_ai": "低所得国および下位中所得国におけるインフルエンザワクチンの普及率の向上: 介入と戦略的推奨事項の総合 オックスフォード・アカデミック",
+      "title_original": "Improving influenza vaccine uptake in low and lower-middle-income countries: A synthesis of interventions and strategic recommendations - Oxford Academic",
+      "summary_original": "Improving influenza vaccine uptake in low and lower-middle-income countries: A synthesis of interventions and strategic recommendations Oxford Academic",
+      "summary_ai_original": "Improving influenza vaccine uptake in low and lower-middle-income countries: A synthesis of interventions and strategic recommendations Oxford Academic",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVnlkMFFXV2Y3eXpQRXJqXzBrTERWN01rcXNHam9MMXoxdVY2S2tLTW1lWTFTZHJ6bUpVT3Jaa3VUNlMtUXk2SjRhYV9LdXhvTjJ3V3NBd0tZbk1QVUhnRGdlQ3JmMEZ5T29TRmdpcU43RWpXdlpOMk1naERQaXQwNkl5OWQ?oc=5",
+      "source": "Open Forum Infectious Diseases",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-05-15T07:52:38+00:00",
+      "topics": [
+        "communication",
+        "policy"
+      ],
+      "policy_tags": [
+        "recommendation"
+      ],
+      "vaccines": [
+        "influenza"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "Open Forum Infectious Diseases"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "Open Forum Infectious Diseases"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Open Forum Infectious Diseases"
       ]
     },
     {
@@ -1149,76 +1352,6 @@
       ]
     },
     {
-      "id": "6984d17e887ee88e",
-      "title": "低所得国および下位中所得国におけるインフルエンザワクチンの普及率の向上：介入と戦略的推奨事項の総合 - オックスフォード・アカデミック",
-      "summary": "低所得国および下位中所得国におけるインフルエンザワクチンの普及率の向上: 介入と戦略的推奨事項の総合 オックスフォード・アカデミック",
-      "summary_ai": "低所得国および下位中所得国におけるインフルエンザワクチンの普及率の向上: 介入と戦略的推奨事項の総合 オックスフォード・アカデミック",
-      "title_original": "Improving influenza vaccine uptake in low and lower-middle-income countries: A synthesis of interventions and strategic recommendations - Oxford Academic",
-      "summary_original": "Improving influenza vaccine uptake in low and lower-middle-income countries: A synthesis of interventions and strategic recommendations Oxford Academic",
-      "summary_ai_original": "Improving influenza vaccine uptake in low and lower-middle-income countries: A synthesis of interventions and strategic recommendations Oxford Academic",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObUNvQ0lxRENIclBMY29WRFJtVzBQMDNJRnF2VzIxWkN5STRVa2haQUpNMkNpRS04eHJYTTl3VW85MEFteFlZU1BWcGlvdWc3T1QyY09mZExHMW0yRzY1ZUluSkRjWlhxZ3FhZDBndko2eWRqcnRXbUh5X1hCbGRxbnFjdFFORm5BRGFlZFk0OVI?oc=5",
-      "source": "Open Forum Infectious Diseases",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 7,
-      "published_at": "2026-05-14T07:00:00+00:00",
-      "topics": [
-        "communication",
-        "policy"
-      ],
-      "policy_tags": [
-        "recommendation"
-      ],
-      "vaccines": [
-        "influenza"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "Open Forum Infectious Diseases"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "Open Forum Infectious Diseases"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Open Forum Infectious Diseases"
-      ]
-    },
-    {
       "id": "fb8b183dc534b67d",
       "title": "新型コロナウイルス感染症関連の入院と死亡に対するBNT162b2 LP.8.1適応SARS-CoV-2ワクチンの有効性：デンマーク全国コホート研究",
       "summary": "新型コロナウイルス感染症関連の入院と死亡に対するBNT162b2 LP.8.1適応SARS-CoV-2ワクチンの有効性：デンマーク全国コホート研究",
@@ -1355,6 +1488,73 @@
       ]
     },
     {
+      "id": "8106713c44a4d2b5",
+      "title": "コクサッキーウイルス B (PRV-101)に対するワクチンの安全性と免疫原性 – ファースト・イン・ヒト第 1 相試験の追跡調査 – オックスフォード・アカデミック",
+      "summary": "コクサッキーウイルス B (PRV-101)に対するワクチンの安全性と免疫原性 – ヒト初の第 1 相試験の追跡調査 オックスフォード・アカデミック",
+      "summary_ai": "コクサッキーウイルス B (PRV-101)に対するワクチンの安全性と免疫原性 – ヒト初の第 1 相試験の追跡調査 オックスフォード・アカデミック",
+      "title_original": "Safety and immunogenicity of a vaccine against coxsackieviruses B (PRV-101) – follow-up of the first-in-human phase 1 trial - Oxford Academic",
+      "summary_original": "Safety and immunogenicity of a vaccine against coxsackieviruses B (PRV-101) – follow-up of the first-in-human phase 1 trial Oxford Academic",
+      "summary_ai_original": "Safety and immunogenicity of a vaccine against coxsackieviruses B (PRV-101) – follow-up of the first-in-human phase 1 trial Oxford Academic",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYlFBOVpKNGdRMHVYalRMVDhCaTlyMFg2OE91ZWRwdlE4WFJTdGZnN2MzVVNRZlRGNmxOakw5SW1JNTlJS2pHZ3hCMmtUNHJTQnlTWnBKN3RCUVJZb29oOHd6OXZ4YVlvS0VpZ2pPamV0UXdnU0ZyaTlYZkRueUlvRXU0WXNEdkhNNVpZUFJBcGg?oc=5",
+      "source": "Open Forum Infectious Diseases",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-05-13T07:00:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [
+        "safety"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "Open Forum Infectious Diseases"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "Open Forum Infectious Diseases"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Open Forum Infectious Diseases"
+      ]
+    },
+    {
       "id": "7651a29d83e21369",
       "title": "2022年7月から2023年7月までのアルバニアの成人入院患者における重篤な転帰の予防と以前のSARS-CoV-2感染の影響の評価における新型コロナウイルス感染症ワクチンの有効性",
       "summary": "2022年7月から2023年7月までのアルバニアの成人入院患者における重篤な転帰の予防と以前のSARS-CoV-2感染の影響の評価における新型コロナウイルス感染症ワクチンの有効性",
@@ -1416,7 +1616,7 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicate_sources": [
         "PLOS journals vaccines"
       ]
@@ -1550,140 +1750,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "BMJ"
-      ]
-    },
-    {
-      "id": "b850a5b733f7cc09",
-      "title": "RSウイルス：母親のワクチンにより乳児の入院が80％減少、研究で判明 -",
-      "summary": "RSV：母親のワクチンにより乳児の入院が80％減少、研究で判明",
-      "summary_ai": "RSV：母親のワクチンにより乳児の入院が80％減少、研究で判明",
-      "title_original": "RSV: Maternal vaccine cuts infant hospital admissions by 80%, study shows - The",
-      "summary_original": "RSV: Maternal vaccine cuts infant hospital admissions by 80%, study shows The",
-      "summary_ai_original": "RSV: Maternal vaccine cuts infant hospital admissions by 80%, study shows The",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBZN09UaWNabkx2Nk5xSk82WlE5V2hTU0xiVzI3cnVEMmItNjZhR2VlVW5VazRFcTZlcEdWOTNyMHl5c295dzE4bFhjem1TSWtKSDlJNXNUT1Y0MUlRYkE?oc=5",
-      "source": "BMJ",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-05-11T18:50:03+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BMJ / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BMJ / London"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "BMJ"
-      ]
-    },
-    {
-      "id": "70a6c62d98a86931",
-      "title": "MHRA、遺伝子治療の再定義に関する英国全土での協議を開始",
-      "summary": "この分野の将来性を確保し、規制が科学技術の発展に確実に対応できるようにするために、MHRA は英国の法律における遺伝子治療の定義方法の変更案について協議しています。",
-      "summary_ai": "北アイルランド保健省と共同で活動する医薬品・ヘルスケア製品規制庁（MHRA）は本日、英国における遺伝子治療用医薬品（GTMP）の法的定義の更新を求める協議を開始した。 「私たちのチームは、これらのアップデートを慎重に設計して、",
-      "title_original": "MHRA opens UK-wide consultation on redefining gene therapies",
-      "summary_original": "To future-proof the sector and ensure regulation keeps up with scientific and technological developments, the MHRA is consulting on proposed changes to how gene therapies are defined in UK legislation.",
-      "summary_ai_original": "The Medicines and Healthcare products Regulatory Agency (MHRA), acting jointly with the Department of Health in Northern Ireland, has today launched a consultation calling to update the legal definition of gene therapy medicinal products (GTMPs) in the UK. “Our teams have carefully designed these updates to ensure that",
-      "article_text_original": "The Medicines and Healthcare products Regulatory Agency (MHRA), acting jointly with the Department of Health in Northern Ireland, has today launched a consultation calling to update the legal definition of gene therapy medicinal products (GTMPs) in the UK. The proposed changes aim to ensure UK regulation keeps up with advances in gene therapy, synthetic biology, and gene editing technologies. Gene therapies have evolved significantly since the current definitions were established, more than a decade ago. Since then, advances in science and manufacturing technologies have prompted consideration on whether the wording remains appropriate for use. The MHRA is consulting on updated definitions that would classify a medicinal product as a gene therapy, based on how it works. The updated definition will not alter the approval process for gene therapies, the regulatory classification of products already licensed, or change any existing safety, quality, or efficacy standards. The proposed amendments intend to: - Provide greater certainty for developers working on gene therapy products. - Ensure consistent regulation across all gene therapy products, whether these are created biologically or synthetically. - Support innovation across the sector, giving researchers and companies a future-proof regulatory framework. - Maintain high standards of patient safety and regulatory oversight. Jon Beaman, MHRA Deputy Director Innovative Medicines, said: “This proposal reflects how fast-paced scientific progress can be and ensures our regulatory framework remains robust, clear and fit for the future. “Our teams have carefully designed these updates to ensure that patient safety remains at the centre of any change, while also giving developers, researchers and clinicians greater regulatory certainty, while supporting innovation across the industry. “The input provided by our industry colleagues will help to shape the final approach and ensure the proposals deliver the best possible outcome for patients and the wider health sector.” Given the technical nature of the proposal, the MHRA is primarily interested in encouraging feedback from developers, manufacturers, researchers, regulatory professionals, scientific advisers, and clinical and academic experts. However, anyone is welcome to respond. The consultation seeks views on five key proposals: - Removing the requirement for gene therapies to be biological in origin. - Clarifying when synthetic or recombinant nucleic acids bring a product into scope. - Ensuring products involving sequence specific genome editing are clearly regulated as GTMPs, regardless of substance type. - Maintaining the exclusion of vaccines against infectious diseases from GTMP definitions. - Proposing updates to the Human Medicines Regulations 2012 to support these revised definitions. The consultation opens on 11 May 2026 and will run until 22 June 2026. To read the consultation and submit a response, visit: Consultation on the regulation of Gene therapy medicinal products Notes to editors: - The Medicines and Healthcare products Regulatory Agency (MHRA) is responsible for regulating all medicines and medical devices in the UK by ensuring they work and are acceptably safe. All our work is underpinned by robust and fact-based judgements to ensure that the benefits justify any risks. - The MHRA is an executive agency of the Department of Health and Social Care. - For media enquiries, please contact the newscentre@mhra.gov.uk, or call on 020 3080 7651.",
-      "link": "https://www.gov.uk/government/news/mhra-opens-uk-wide-consultation-on-redefining-gene-therapies",
-      "source": "MHRA",
-      "source_type": "official",
-      "source_tier": "Tier 1",
-      "source_priority": 8,
-      "published_at": "2026-05-11T13:00:52+00:00",
-      "topics": [
-        "policy",
-        "research"
-      ],
-      "policy_tags": [
-        "approval",
-        "safety"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "英国",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "MHRA / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "MHRA / London"
-        },
-        "target": {
-          "key": "uk",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "英国"
-        }
-      },
-      "location": {
-        "key": "uk",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "英国"
-      },
-      "region": "Europe",
-      "country": "英国",
-      "lat": 51.5074,
-      "lng": -0.1278,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "MHRA"
       ]
     },
     {
@@ -1953,207 +2019,6 @@
       ]
     },
     {
-      "id": "40fbd0ed42c0e80e",
-      "title": "MSMにおけるmpoxワクチンの接種量を推定し、EU/EEAにおける将来の予防接種キャンペーンの可能性をモデル化する - medRxiv",
-      "summary": "MSMにおけるmpoxワクチンの接種量を推定し、EU/EEAにおける将来の予防接種キャンペーンの可能性をモデル化する medRxiv",
-      "summary_ai": "MSMにおけるmpoxワクチンの接種量を推定し、EU/EEAにおける将来の予防接種キャンペーンの可能性をモデル化する medRxiv",
-      "title_original": "Estimating the mpox vaccine uptake among MSM and modelling the potential of future vaccination campaigns in the EU/EEA - medRxiv",
-      "summary_original": "Estimating the mpox vaccine uptake among MSM and modelling the potential of future vaccination campaigns in the EU/EEA medRxiv",
-      "summary_ai_original": "Estimating the mpox vaccine uptake among MSM and modelling the potential of future vaccination campaigns in the EU/EEA medRxiv",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0za2ZSdVgyLWwtMk1rNHpvZlhPb3h2SXY1WVA2Zm1zbXBYUXJDQ2hKNGM1blp2M0tJMTJHcTR3X1F0cjhJbGxyUUp2eVpNNlFhM2lZd1htYjZqZGR2T1J0aDRzNlQ2SmVVaVB3RjYzaHZxY1JqXzRTb0MwOA?oc=5",
-      "source": "medRxiv vaccines",
-      "source_type": "preprint",
-      "source_tier": "Tier 3",
-      "source_priority": 7,
-      "published_at": "2026-05-08T21:01:17+00:00",
-      "topics": [
-        "communication"
-      ],
-      "policy_tags": [
-        "outbreak_response"
-      ],
-      "vaccines": [
-        "mpox"
-      ],
-      "variants": [],
-      "target_country": "EU",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "medRxiv"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "medRxiv"
-        },
-        "target": {
-          "key": "eu",
-          "name_ja": "EU",
-          "lat": 50.8503,
-          "lng": 4.3517,
-          "region": "Europe",
-          "label": "EU"
-        }
-      },
-      "location": {
-        "key": "eu",
-        "name_ja": "EU",
-        "lat": 50.8503,
-        "lng": 4.3517,
-        "region": "Europe",
-        "label": "EU"
-      },
-      "region": "Europe",
-      "country": "EU",
-      "lat": 50.8503,
-      "lng": 4.3517,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "medRxiv vaccines"
-      ]
-    },
-    {
-      "id": "89ab608e20e550c5",
-      "title": "予測可能な危害の防止: 保育園環境におけるインフルエンザ予防接種義務に関する政策事例 フィリップ・ブラニガン医学博士 - SSRN eLibrary",
-      "summary": "予測可能な危害の防止: 保育園環境におけるインフルエンザ予防接種義務に関する政策事例 フィリップ・ブラニガン 医学博士 SSRN eLibrary",
-      "summary_ai": "予測可能な危害の防止: 保育園環境におけるインフルエンザ予防接種義務に関する政策事例 フィリップ・ブラニガン 医学博士 SSRN eLibrary",
-      "title_original": "Preventing Predictable Harm: A Policy Case for Influenza Vaccination Mandates in Daycare Settings Philip Branigan Doctor of Medi - SSRN eLibrary",
-      "summary_original": "Preventing Predictable Harm: A Policy Case for Influenza Vaccination Mandates in Daycare Settings Philip Branigan Doctor of Medi SSRN eLibrary",
-      "summary_ai_original": "Preventing Predictable Harm: A Policy Case for Influenza Vaccination Mandates in Daycare Settings Philip Branigan Doctor of Medi SSRN eLibrary",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbUVTb3gwbUhTcEcwekUyWHVnTjdTQVJFRUhGS1pmazFMZzROdWU0VS1waktDWnQyUDNjTW90a19NTDJONGdzZUx2QlltYUF4WGRIRXRTRlA1OUM3azBhalNoaVU0eEVyYk9OZzIwT3F0QzBkbEdXeWFpU0JPUmxnU1hkZUhySFE?oc=5",
-      "source": "SSRN vaccine preprints",
-      "source_type": "preprint",
-      "source_tier": "Tier 3",
-      "source_priority": 6,
-      "published_at": "2026-05-08T09:24:06+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "SSRN"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "SSRN"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "SSRN vaccine preprints"
-      ]
-    },
-    {
-      "id": "0acb3aa926c7a59b",
-      "title": "モデルナのmRNAインフルエンザワクチンは標準的なワクチンよりも優れていることが研究で判明 -",
-      "summary": "モデルナのmRNAインフルエンザワクチンは標準的なワクチンよりも優れていることが研究で判明",
-      "summary_ai": "モデルナのmRNAインフルエンザワクチンは標準的なワクチンよりも優れていることが研究で判明",
-      "title_original": "Moderna’s mRNA flu vaccine outperforms standard shot, study finds - The",
-      "summary_original": "Moderna’s mRNA flu vaccine outperforms standard shot, study finds The",
-      "summary_ai_original": "Moderna’s mRNA flu vaccine outperforms standard shot, study finds The",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4LWJVUHVUeUdPR0VoYmMwaVkwTHowTHl4bXk1U1BuTUZ4R2ZtbzVaRjY3QmNlUjBqRkRGMGZzRUlGTldSRlRvSkZHdzdEY2xDZEE?oc=5",
-      "source": "BMJ",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-05-08T07:00:00+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "influenza"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BMJ / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BMJ / London"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "BMJ"
-      ]
-    },
-    {
       "id": "ca5e133fc1d953ff",
       "title": "Canadian Sentinel Practitioner Surveillance Network (SPSN)による、新型コロナウイルス感染症 (COVID-19)に対する 2025/26 年の暫定 LP.8.1 ワクチン有効性推定値: インフルエンザと他の呼吸器ウイルスの同時流行の影響の可能性についての洞察",
       "summary": "Canadian Sentinel Practitioner Surveillance Network (SPSN)による、新型コロナウイルス感染症 (COVID-19)に対する 2025/26 年の暫定 LP.8.1 ワクチン有効性推定値: インフルエンザと他の呼吸器ウイルスの同時流行の影響の可能性についての洞察",
@@ -2216,144 +2081,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "Eurosurveillance"
-      ]
-    },
-    {
-      "id": "571cc050dde33209",
-      "title": "PAHO、大西洋のクルーズ船に関連したハンタウイルス肺症候群症例への国際的な対応を支援",
-      "summary": "PAHO、大西洋のクルーズ船に関連したハンタウイルス肺症候群症例への国際的な対応を支援 クリスティーナ・ミッチェル 2026年5月7日",
-      "summary_ai": "ワシントン D.C.、2026 年 5 月 7 日 (PAHO) — 汎米保健機関 (PAHO)は、大西洋のクルーズ船に関連したハンタウイルス肺症候群 (HPS)の集団感染への対応として、国際的な調整と技術情報の交換を支援しています。各国の保健当局",
-      "title_original": "PAHO supports the international response to hantavirus pulmonary syndrome cases linked to a cruise ship in the Atlantic",
-      "summary_original": "PAHO supports the international response to hantavirus pulmonary syndrome cases linked to a cruise ship in the Atlantic Cristina Mitchell 7 May 2026",
-      "summary_ai_original": "Washington, D.C., May 7, 2026 (PAHO) — The Pan American Health Organization (PAHO) is supporting international coordination and the exchange of technical information in response to a cluster of hantavirus pulmonary syndrome (HPS) cases associated with a cruise ship in the Atlantic. Health authorities in the countries i",
-      "article_text_original": "Washington, D.C., May 7, 2026 (PAHO) — The Pan American Health Organization (PAHO) is supporting international coordination and the exchange of technical information in response to a cluster of hantavirus pulmonary syndrome (HPS) cases associated with a cruise ship in the Atlantic. Health authorities in the countries involved, in coordination with the World Health Organization (WHO), continue to conduct the epidemiological investigation and response activities, while PAHO is facilitating technical cooperation through regional experts on laboratory diagnosis, clinical management, infection prevention, and control. The regional organization is also supporting information exchange among countries through the National IHR Focal Points for the International Health Regulations (IHR), the mechanism used to coordinate rapid communication on public health events with potential international impact. Hantavirus refers to a group of viruses transmitted primarily by rodents. People can become infected by inhaling particles contaminated with urine, droppings, or saliva from infected rodents, particularly in enclosed or poorly ventilated spaces. Hantaviruses are classified into two major groups: Old World hantaviruses, found in Africa, Asia, and Europe, and New World hantaviruses, which circulate in the Americas. Both can cause severe disease, although they are associated with different syndromes. New World hantaviruses cause hantavirus pulmonary syndrome (HPS), while Old World hantaviruses cause hemorrhagic fever with renal syndrome (HFRS). “Although hantavirus pulmonary syndrome is rare, it can be severe. Transmission occurs mainly through exposure to rodents and, in exceptional situations —particularly with Andes hantavirus— person-to-person transmission may occur through close and prolonged contact,” explained Andrea Vicari, head of PAHO's Infectious Hazards Management Unit. In December 2025, PAHO issued an epidemiological alert after observing an increase in cases in endemic countries, particularly in the Southern Cone. The alert highlighted the need to strengthen surveillance, preparedness, and response efforts for this rare but potentially fatal disease in the Region of the Americas. In 2025 and through epidemiological week 47, eight countries in the Region of the Americas —mainly in the Southern Cone— reported confirmed HPS cases. In total, 229 confirmed cases and 59 deaths were reported. PAHO subsequently urged its Member States to strengthen epidemiological surveillance, ensure timely diagnosis and appropriate clinical management of cases, and implement intersectoral measures to reduce environmental and occupational risks associated with the disease. Strengthening capacities across the region In recent years, PAHO has intensified its work with countries to strengthen preparedness for hantavirus and other zoonotic diseases. In 2023, PAHO organized a regional workshop in Colombia together with collaborating centers and national laboratories to strengthen epidemiological surveillance and laboratory detection of hantaviruses and arenaviruses, another group of rodent-borne viruses that can also cause severe disease in humans. These initiatives included training in molecular techniques, harmonization of protocols, outbreak simulation exercises, and strengthening integration among epidemiological surveillance, laboratory work, and field investigations. In 2024, technical meetings held in Panama advanced the development of regional guidelines and training materials, incorporating ecological surveillance and genetic sequencing components. A new regional training workshop is scheduled for June 2026 in Panama as part of ongoing efforts to strengthen preparedness and response capacities for potential outbreaks. “The key is to strengthen countries’ capacities to detect cases early, respond rapidly, and reduce the risk of transmission,” said Jairo Méndez Rico, PAHO virologist. Coordinated response to international events Regarding the cruise ship-related event, WHO is facilitating coordination among Member States and the vessel operators under the framework of the International Health Regulations, including support for medical evacuation of passengers, public health risk assessment, and implementation of health measures on board. PAHO is providing technical support and sharing detection protocols for New World hantaviruses developed in the Region of the Americas, based on decades of experience in surveillance and management of the disease. The international response includes epidemiological investigation, care and isolation of cases, contact tracing, and coordination among countries. According to information recently published by WHO, confirmed and suspected cases —including deaths associated with the event— have been reported. The preliminary assessment indicates that the risk to the general population remains low. “The Region of the Americas has extensive experience in hantavirus surveillance and control. That knowledge is essential to support rapid and coordinated responses to events such as this,” Méndez Rico added. Prevention: the first line of defense There is no specific vaccine or antiviral treatment for hantavirus, making prevention the most effective measure. Recommendations include reducing contact with rodents, keeping spaces clean and well ventilated, storing food in sealed containers to prevent contamination by rodents, and applying appropriate cleaning and disinfection practices in areas potentially contaminated with rodent urine, droppings, or saliva. Although cases remain relatively uncommon, the persistence of the virus in animal reservoirs and certain environmental and social conditions mean that hantavirus continues to represent a public health challenge in the region.",
-      "link": "https://www.paho.org/en/news/7-5-2026-paho-supports-international-response-hantavirus-pulmonary-syndrome-cases-linked",
-      "source": "PAHO News",
-      "source_type": "official",
-      "source_tier": "Tier 1",
-      "source_priority": 8,
-      "published_at": "2026-05-07T14:19:58+00:00",
-      "topics": [
-        "communication",
-        "policy"
-      ],
-      "policy_tags": [
-        "communication",
-        "outbreak_response",
-        "recommendation",
-        "schedule"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "コロンビア",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "PAHO / Washington DC"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "PAHO / Washington DC"
-        },
-        "target": {
-          "key": "colombia",
-          "name_ja": "コロンビア",
-          "lat": 4.711,
-          "lng": -74.0721,
-          "region": "South America",
-          "label": "コロンビア"
-        }
-      },
-      "location": {
-        "key": "colombia",
-        "name_ja": "コロンビア",
-        "lat": 4.711,
-        "lng": -74.0721,
-        "region": "South America",
-        "label": "コロンビア"
-      },
-      "region": "South America",
-      "country": "コロンビア",
-      "lat": 4.711,
-      "lng": -74.0721,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "PAHO News"
-      ]
-    },
-    {
-      "id": "ac11a213b802b3c2",
-      "title": "第3相試験で、モデルナ製mRNAインフルエンザワクチンが高齢者において標準ワクチンよりも優れていることが判明 - cidrap.umn.edu",
-      "summary": "第3相試験で、モデルナ製mRNAインフルエンザワクチンが高齢者において標準ワクチンよりも優れていることが判明 cidrap.umn.edu",
-      "summary_ai": "第3相試験で、モデルナ製mRNAインフルエンザワクチンが高齢者において標準ワクチンよりも優れていることが判明 cidrap.umn.edu",
-      "title_original": "Phase 3 trial finds Moderna mRNA flu vaccine outperforms standard vaccine in older adults - cidrap.umn.edu",
-      "summary_original": "Phase 3 trial finds Moderna mRNA flu vaccine outperforms standard vaccine in older adults cidrap.umn.edu",
-      "summary_ai_original": "Phase 3 trial finds Moderna mRNA flu vaccine outperforms standard vaccine in older adults cidrap.umn.edu",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORzlPQk43c0xZYmZlTmZ1ZjFGMnpHQVNlN3dMQ2lTM0xhRHlmMXhaRTQtQk5iTU5LUEQ3eVVrZGxjLXdrM0p6dk1vT2YzcGFxUnMxUC00YTl1WDlLTXMxeTZRMFFaeDBpcWV4QUc3SzJ6aUtMdV9KSDVDMkg5WUcwVkNia0JQbkhsREpPdFlEM25KaWVaNjdlb0VqbmY5VjJHWnM2bkNNblNVUEJwWHZDWXo3aFZoN0Nja3pfeVNTcEVKNFU?oc=5",
-      "source": "CIDRAP Vaccines & Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 8,
-      "published_at": "2026-05-07T07:00:00+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "influenza"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "CIDRAP / Minnesota"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "CIDRAP / Minnesota"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "CIDRAP Vaccines & Immunization"
       ]
     },
     {
@@ -2421,71 +2148,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "Reuters Vaccines / Immunization"
-      ]
-    },
-    {
-      "id": "d0a9f4dcc5b5b2c9",
-      "title": "60歳以上の成人におけるRSV関連下気道疾患の入院予防効果におけるアジュバント添加RSVPreF3ワクチンの実際の有効性：検査陰性デザイン分析の初期結果 - オックスフォード・アカデミック",
-      "summary": "60歳以上の成人におけるRSV関連下気道疾患入院の予防におけるアジュバント添加RSVPreF3ワクチンの実際の有効性：テスト陰性デザイン分析の初期結果 Oxford Academic",
-      "summary_ai": "60歳以上の成人におけるRSV関連下気道疾患入院の予防におけるアジュバント添加RSVPreF3ワクチンの実際の有効性：テスト陰性デザイン分析の初期結果 Oxford Academic",
-      "title_original": "Real-world effectiveness of adjuvanted RSVPreF3 vaccine in preventing RSV-associated lower respiratory tract disease hospitalization in adults ≥60 years of age: early results from a test-negative design analysis - Oxford Academic",
-      "summary_original": "Real-world effectiveness of adjuvanted RSVPreF3 vaccine in preventing RSV-associated lower respiratory tract disease hospitalization in adults ≥60 years of age: early results from a test-negative design analysis Oxford Academic",
-      "summary_ai_original": "Real-world effectiveness of adjuvanted RSVPreF3 vaccine in preventing RSV-associated lower respiratory tract disease hospitalization in adults ≥60 years of age: early results from a test-negative design analysis Oxford Academic",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUlZSamc0STFmMXVTWTdYamZNMUE4Y2p5bG1WM3Q5Y0Y4RDhzYXRQM0s0QUVWVHZtQkIzMlMwbm5CQThNd0JKRHF0YTRDTy1INnB5amptOU1hMTAtaWJhcmxKN0pZUGVRcGF0cWc2cERSZkZjcUNvalJiMXRqeXYzT1ZCZXZ2TGlIX0JJNlZYZXJYZG1TQndmTg?oc=5",
-      "source": "Open Forum Infectious Diseases",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 7,
-      "published_at": "2026-05-05T19:26:27+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "Open Forum Infectious Diseases"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "Open Forum Infectious Diseases"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Open Forum Infectious Diseases"
       ]
     }
   ]
