@@ -1,9 +1,9 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-05-27T22:48:10.439425+00:00",
-  "item_count": 30,
-  "archive_count": 253,
+  "generated_at": "2026-05-28T22:44:37.512784+00:00",
+  "item_count": 32,
+  "archive_count": 254,
   "days_back": 14,
   "plot_mode_default": "source",
   "feed_status": [
@@ -23,7 +23,7 @@
       "name": "CDC Newsroom",
       "url": "https://tools.cdc.gov/api/v2/resources/media/316422.rss",
       "status": "ok",
-      "seen": 12,
+      "seen": 13,
       "kept": 0
     },
     {
@@ -88,8 +88,8 @@
       "name": "The Lancet series",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Athelancet.com%20(trial%20OR%20policy%20OR%20effectiveness%20OR%20safety)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 1,
-      "kept": 1
+      "seen": 0,
+      "kept": 0
     },
     {
       "name": "Lancet Infectious Diseases",
@@ -102,21 +102,21 @@
       "name": "NEJM",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Anejm.org%20(trial%20OR%20effectiveness%20OR%20policy%20OR%20safety)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 2,
       "kept": 0
     },
     {
       "name": "BMJ",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abmj.com%20(policy%20OR%20trial%20OR%20effectiveness%20OR%20communication)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 11,
-      "kept": 10
+      "seen": 15,
+      "kept": 12
     },
     {
       "name": "Vaccine journal",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Asciencedirect.com%2Fjournal%2Fvaccine&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 3,
       "kept": 0
     },
     {
@@ -137,7 +137,7 @@
       "name": "Nature Communications vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fncomms%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20surveillance)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 9,
+      "seen": 5,
       "kept": 0
     },
     {
@@ -165,7 +165,7 @@
       "name": "Science vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ascience.org%2Fdoi%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20antibody)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -214,8 +214,8 @@
       "name": "Eurosurveillance",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Aeurosurveillance.org&hl=en-US&gl=EU&ceid=EU%3Aen",
       "status": "ok",
-      "seen": 1,
-      "kept": 1
+      "seen": 0,
+      "kept": 0
     },
     {
       "name": "Human Vaccines & Immunotherapeutics",
@@ -228,14 +228,14 @@
       "name": "medRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Amedrxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 6,
+      "seen": 4,
       "kept": 1
     },
     {
       "name": "bioRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abiorxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 7,
+      "seen": 13,
       "kept": 0
     },
     {
@@ -243,76 +243,76 @@
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
       "seen": 13,
-      "kept": 0
+      "kept": 1
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 44,
+      "seen": 27,
       "kept": 0
     },
     {
       "name": "AP Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 10,
       "kept": 0
     },
     {
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 34,
+      "seen": 27,
       "kept": 1
     },
     {
       "name": "Financial Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aft.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 16,
+      "seen": 15,
       "kept": 1
     },
     {
       "name": "STAT Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 12,
+      "seen": 9,
       "kept": 0
     },
     {
       "name": "Nature News Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 12,
+      "seen": 10,
       "kept": 1
     },
     {
       "name": "Science Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Ascience.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 7,
+      "seen": 5,
       "kept": 0
     },
     {
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 36,
+      "seen": 37,
       "kept": 0
     },
     {
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 27,
+      "seen": 25,
       "kept": 0
     },
     {
       "name": "Washington Post Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 12,
+      "seen": 10,
       "kept": 1
     },
     {
@@ -326,35 +326,35 @@
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 53,
+      "seen": 100,
       "kept": 0
     },
     {
       "name": "朝日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Aasahi.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 7,
+      "seen": 10,
       "kept": 1
     },
     {
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 23,
-      "kept": 1
+      "seen": 14,
+      "kept": 0
     },
     {
       "name": "毎日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 8,
+      "seen": 5,
       "kept": 0
     },
     {
       "name": "JAMA Network vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
@@ -375,14 +375,14 @@
       "name": "Journal of Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fjid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 3,
       "kept": 1
     },
     {
       "name": "Open Forum Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fofid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
@@ -403,8 +403,8 @@
       "name": "PLOS journals vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajournals.plos.org%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20uptake%20OR%20policy)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 5,
-      "kept": 4
+      "seen": 6,
+      "kept": 5
     },
     {
       "name": "eClinicalMedicine vaccines",
@@ -445,7 +445,7 @@
       "name": "Cochrane vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Acochranelibrary.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 2,
       "kept": 1
     },
     {
@@ -464,16 +464,148 @@
     }
   ],
   "weekly_ai_summary": {
-    "generated_at": "2026-05-27T22:48:10.439425+00:00",
+    "generated_at": "2026-05-28T22:44:37.512784+00:00",
     "period_days": 7,
     "policy_count": 2,
     "academic_count": 13,
     "status": "ok",
     "model": "gpt-4o-mini",
-    "policy_summary": "2026年のワクチンおよび関連生物製剤諮問委員会は、新型コロナウイルス感染症ワクチンの配合について議論し、勧告を行う予定です。また、エクアドルはPAHOを通じて移動式コールドチェーン車両を取得し、ラテンアメリカでのワクチン輸送能力を向上させました。",
-    "academic_summary": "高齢者を対象とした二価呼吸器合胞体ウイルスワクチン候補の安全性と免疫原性に関する中間解析が進行中です。さらに、ウイルスゲノム監視を用いたワクチンの有効性予測に関する研究も行われています。"
+    "policy_summary": "米国のワクチン政策に関する会議が2026年5月28日に開催され、新型コロナウイルス感染症ワクチンの配合選択について議論される予定である。さらに、インフルエンザの株構成に関する勧告も行われる見込みである。",
+    "academic_summary": "BNT162b2およびmRNA-1273 COVID-19ワクチンの有効性に関する研究が発表された。高齢者向けの二価呼吸器合胞体ウイルスワクチン候補の安全性と免疫原性に関する中間解析も進行中である。"
   },
   "items": [
+    {
+      "id": "eb96e2fbe860986d",
+      "title": "米国のワクチン政策の現状 — 2026 年 5 月 28 日 - CIDRAP",
+      "summary": "米国のワクチン政策の現状 — 2026 年 5 月 28 日 CIDRAP",
+      "summary_ai": "米国のワクチン政策の現状 — 2026 年 5 月 28 日 CIDRAP",
+      "title_original": "The State of US Vaccine Policy — May 28, 2026 - CIDRAP",
+      "summary_original": "The State of US Vaccine Policy — May 28, 2026 CIDRAP",
+      "summary_ai_original": "The State of US Vaccine Policy — May 28, 2026 CIDRAP",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNlNlRTZMM3c0bmNSQmc2QTJtWGZGU2JYd1VPMnZyS3lHcG1yRlJiclgzWXVYNDJ3UW5YSUcxalRQSTNpSkVGdDhkTHJQNXJra2dvT1NueG5yYkV2UzRmenY4cUdBVGNQazRMTWFIREh1TDVodkdWaVktSnhLbVVqRUh5Q1VYSlpK?oc=5",
+      "source": "CIDRAP Vaccines & Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 8,
+      "published_at": "2026-05-28T20:15:25+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "CIDRAP / Minnesota"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "CIDRAP / Minnesota"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "CIDRAP Vaccines & Immunization"
+      ]
+    },
+    {
+      "id": "229fb3d2cc3041df",
+      "title": "発症 SARS-CoV-2 感染症に対する BNT162b2 および mRNA-1273 covid-19 ワクチンの有効性 -",
+      "summary": "発症 SARS-CoV-2 感染症に対する BNT162b2 および mRNA-1273 covid-19 ワクチンの有効性",
+      "summary_ai": "発症 SARS-CoV-2 感染症に対する BNT162b2 および mRNA-1273 covid-19 ワクチンの有効性",
+      "title_original": "Effectiveness of BNT162b2 and mRNA-1273 covid-19 vaccines against symptomatic SARS-CoV-2 infection - The",
+      "summary_original": "Effectiveness of BNT162b2 and mRNA-1273 covid-19 vaccines against symptomatic SARS-CoV-2 infection The",
+      "summary_ai_original": "Effectiveness of BNT162b2 and mRNA-1273 covid-19 vaccines against symptomatic SARS-CoV-2 infection The",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE81WEpPLVFZeFo5V0lHcG5oOHk2eVVzcEZiaC1hVjlBZWRlYVNpT2NVSGxjZnZYRHJZc3BRVFZyNmx0Q21kWUJYMDdXbTJzUnVfbXRDZUI3Nld3Y2o1bkRKWlR5aTc?oc=5",
+      "source": "BMJ",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-05-28T04:12:07+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "covid"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BMJ / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BMJ / London"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "BMJ"
+      ]
+    },
     {
       "id": "e5f59c4028274030",
       "title": "高齢者における二価呼吸器合胞体ウイルスおよびヒトメタニューモウイルス糖タンパク質 F 分子クランプワクチン候補の安全性、免疫原性、および用量範囲: 進行中の無作為化、観察者盲検プラセボの 1 か月中間解析 - SSRN eLibrary",
@@ -542,7 +674,7 @@
       ]
     },
     {
-      "id": "25be2139f44d5522",
+      "id": "c065d4388ee886a6",
       "title": "ウイルスゲノム監視を利用してワクチンの有効性を予測する",
       "summary": "ウイルスゲノム監視を利用してワクチンの有効性を予測する",
       "summary_ai": "ウイルスゲノム監視を利用してワクチンの有効性を予測する",
@@ -550,12 +682,12 @@
       "summary_original": "Utilizing virus genomic surveillance to predict vaccine effectiveness",
       "summary_ai_original": "Utilizing virus genomic surveillance to predict vaccine effectiveness",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcGJDRmF6R05JekRINk1YemJMcFhWRlRmYUlFeE5yRmsyNVlXd0xydHB5aUc5MjNXVlRhUTVWOGNFb085WGl5XzFBM2JZbVFqejJXLXlEajlRanJURU9rSVgwMXdIY0tHS1pMcXpLRnoyMlNFVDVBNnNMdGpDb3dmMGpHbEgwTGYzeUk0dFNKdw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRTU4NVFiNUxfeTE4Z2dCWG1JZ2twR3M2Tkx3LURnNjk2VzFqYXBZTEhwQ2FfbnRNNlJrLTdaTzhqR2NLSlJkZ19oaGs1SHpJdjQxX0pmWDR0SnphRkRMaFJpdjktZ3B4Z0F2UVRYSl9fZU40MTRFTXZYNERac1BVZzJxNmN1bXhZWEt6emo3c2NQaHM?oc=5",
       "source": "PLOS journals vaccines",
       "source_type": "academic",
       "source_tier": "Tier 3",
       "source_priority": 7,
-      "published_at": "2026-05-26T19:24:03+00:00",
+      "published_at": "2026-05-26T19:31:12+00:00",
       "topics": [
         "research"
       ],
@@ -1342,6 +1474,73 @@
       ]
     },
     {
+      "id": "f491e761e1c98044",
+      "title": "ピクセルを超えたプロモーション: ナイジェリア、プラトー州におけるワクチンコミュニケーション戦略の混合法分析 - BMJ Open",
+      "summary": "ピクセルを超えたプロモーション: ナイジェリア、プラトー州におけるワクチンコミュニケーション戦略の混合法分析 BMJ Open",
+      "summary_ai": "ピクセルを超えたプロモーション: ナイジェリア、プラトー州におけるワクチンコミュニケーション戦略の混合法分析 BMJ Open",
+      "title_original": "Promotion over pixels: a mixed- methods analysis of vaccine communication strategies in Plateau State, Nigeria - BMJ Open",
+      "summary_original": "Promotion over pixels: a mixed- methods analysis of vaccine communication strategies in Plateau State, Nigeria BMJ Open",
+      "summary_ai_original": "Promotion over pixels: a mixed- methods analysis of vaccine communication strategies in Plateau State, Nigeria BMJ Open",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE96eFNYeHBtZWlDNmtCUzFBV2ZiTXk1Unhncmt4Z01Ed2o4RFJQQU9iU19TWjI1VVlseU8yR2JhbVZGMEEzNlpZNzVBVy1rWHIxam9teDRsTlNBUFNOV3BtckNXampVTVBSY2kyUE9n?oc=5",
+      "source": "BMJ",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-05-22T04:59:40+00:00",
+      "topics": [
+        "communication"
+      ],
+      "policy_tags": [
+        "communication"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "ナイジェリア",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BMJ / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BMJ / London"
+        },
+        "target": {
+          "key": "nigeria",
+          "name_ja": "ナイジェリア",
+          "lat": 9.0765,
+          "lng": 7.3986,
+          "region": "Africa",
+          "label": "ナイジェリア"
+        }
+      },
+      "location": {
+        "key": "nigeria",
+        "name_ja": "ナイジェリア",
+        "lat": 9.0765,
+        "lng": 7.3986,
+        "region": "Africa",
+        "label": "ナイジェリア"
+      },
+      "region": "Africa",
+      "country": "ナイジェリア",
+      "lat": 9.0765,
+      "lng": 7.3986,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "BMJ"
+      ]
+    },
+    {
       "id": "caf5d494e9c5ae7b",
       "title": "ナイジェリア農村部におけるラッサ熱血清学の局所的不均一性：ワクチン治験施設の選択への影響",
       "summary": "ナイジェリア農村部におけるラッサ熱血清学の局所的不均一性：ワクチン治験施設の選択への影響",
@@ -1744,6 +1943,71 @@
       ]
     },
     {
+      "id": "9d62d1e2ce978c8e",
+      "title": "モロッコの少女たちのヒトパピローマウイルス予防接種に対する課題：全国横断研究",
+      "summary": "モロッコの少女たちのヒトパピローマウイルス予防接種に対する課題：全国横断研究",
+      "summary_ai": "モロッコの少女たちのヒトパピローマウイルス予防接種に対する課題：全国横断研究",
+      "title_original": "Challenges to human papillomavirus vaccination among young girls in Morocco: A national cross-sectional study",
+      "summary_original": "Challenges to human papillomavirus vaccination among young girls in Morocco: A national cross-sectional study",
+      "summary_ai_original": "Challenges to human papillomavirus vaccination among young girls in Morocco: A national cross-sectional study",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ud2RoQlJhS3hkaVQ3OEN4N3lfU0VtbENub2trWG1SSkZTMFNWMXI5RWd4Vkdpc05HN1RZdGpVVF8wR2V2c05TcnFmTl9KWV9uTDl6NEZILVNxeFc3U1BWeWFiZVNVNGdPTXdhdjhBODlOVzA4dXVuTlY0Q0tJUQ?oc=5",
+      "source": "PLOS journals vaccines",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-05-20T18:40:29+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "PLOS"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "PLOS"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "PLOS journals vaccines"
+      ]
+    },
+    {
       "id": "ab36732ef63782eb",
       "title": "アミオダロン: 治療のリスクと患者の監視と監督の必要性を思い出させます",
       "summary": "アミオダロンは、特に肺、肝臓、甲状腺における重篤で潜在的に生命を脅かす副作用と関連しています。私たちは医療従事者に対し、治療中は患者を監督し、定期的に検査する必要があることを思い出させます。肺の問題はゆっくりと発症する場合もありますが、その後急速に進行します。コンピューター断層撮影スキャンは、肺毒性の疑いのある診断を確認するのに役立つ場合があります。",
@@ -1810,140 +2074,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "MHRA"
-      ]
-    },
-    {
-      "id": "08fa027f0aece9ef",
-      "title": "肺炎による死亡者の９７．８％が高齢者 ＲＳウイルス、肺炎球菌…４月以降の予防接種スケジュールは？ - 読売新聞",
-      "summary": "肺炎による死亡者の９７．８％が高齢者 ＲＳウイルス、肺炎球菌…４月以降の予防接種スケジュールは？ 読売新聞",
-      "summary_ai": "肺炎による死亡者の９７．８％が高齢者 ＲＳウイルス、肺炎球菌…４月以降の予防接種スケジュールは？",
-      "title_original": "肺炎による死亡者の９７．８％が高齢者 ＲＳウイルス、肺炎球菌…４月以降のワクチン接種スケジュールは？ - 読売新聞",
-      "summary_original": "肺炎による死亡者の９７．８％が高齢者 ＲＳウイルス、肺炎球菌…４月以降のワクチン接種スケジュールは？ 読売新聞",
-      "summary_ai_original": "肺炎による死亡者の９７．８％が高齢者 ＲＳウイルス、肺炎球菌…４月以降のワクチン接種スケジュールは？",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcnNDZUVxSWhBWXN2N3U5Q1dISVZKWVRmWFkzRnN0bXl5ZThEekV0b3ZfMXgxeWpGaE9lTmNmcXFab2tuT2pSaXNsdy1BZjc5dEFGTVBSMEI5UjhGWkNlaDZvbldnR2tnMi1lM2UzX3NLTlBCaHlPY3h0czduOVVobk5ZNnpCdjlHbDZFbC02MA?oc=5",
-      "source": "読売新聞 ワクチン / 予防接種",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-05-20T07:00:00+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [
-        "schedule"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "japan",
-        "name_ja": "日本",
-        "lat": 35.6762,
-        "lng": 139.6503,
-        "region": "Asia",
-        "label": "読売新聞"
-      },
-      "plot": {
-        "source": {
-          "key": "japan",
-          "name_ja": "日本",
-          "lat": 35.6762,
-          "lng": 139.6503,
-          "region": "Asia",
-          "label": "読売新聞"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "読売新聞 ワクチン / 予防接種"
-      ]
-    },
-    {
-      "id": "5afa85701e2965f9",
-      "title": "ワクチンコミュニケーション: 基礎、課題、将来の方向性についての批判的なレビュー",
-      "summary": "ワクチンコミュニケーション: 基礎、課題、将来の方向性についての批判的なレビュー",
-      "summary_ai": "ワクチンコミュニケーション: 基礎、課題、将来の方向性についての批判的なレビュー",
-      "title_original": "Vaccine communication: a critical review of foundations, challenges, and future directions",
-      "summary_original": "Vaccine communication: a critical review of foundations, challenges, and future directions",
-      "summary_ai_original": "Vaccine communication: a critical review of foundations, challenges, and future directions",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hUnAtdG1IN2JaWUt3c0FCb3pxdDRhc2Zsa1lYWW5hdlZPeDV5LXF3SEdNT3p1SXdramNVeEF4ZU40a1RoaEFjekZIRWd5TUtZMGE5cE80WVN0eVJqeWFv?oc=5",
-      "source": "Nature News Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 5,
-      "published_at": "2026-05-18T11:54:52+00:00",
-      "topics": [
-        "communication"
-      ],
-      "policy_tags": [
-        "communication"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "Nature News"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "Nature News"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Nature News Vaccines / Immunization"
       ]
     },
     {
@@ -2079,6 +2209,73 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "朝日新聞 ワクチン / 予防接種"
+      ]
+    },
+    {
+      "id": "5afa85701e2965f9",
+      "title": "ワクチンコミュニケーション: 基礎、課題、将来の方向性についての批判的なレビュー",
+      "summary": "ワクチンコミュニケーション: 基礎、課題、将来の方向性についての批判的なレビュー",
+      "summary_ai": "ワクチンコミュニケーション: 基礎、課題、将来の方向性についての批判的なレビュー",
+      "title_original": "Vaccine communication: a critical review of foundations, challenges, and future directions",
+      "summary_original": "Vaccine communication: a critical review of foundations, challenges, and future directions",
+      "summary_ai_original": "Vaccine communication: a critical review of foundations, challenges, and future directions",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hUnAtdG1IN2JaWUt3c0FCb3pxdDRhc2Zsa1lYWW5hdlZPeDV5LXF3SEdNT3p1SXdramNVeEF4ZU40a1RoaEFjekZIRWd5TUtZMGE5cE80WVN0eVJqeWFv?oc=5",
+      "source": "Nature News Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 5,
+      "published_at": "2026-05-18T07:00:00+00:00",
+      "topics": [
+        "communication"
+      ],
+      "policy_tags": [
+        "communication"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Nature News"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Nature News"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Nature News Vaccines / Immunization"
       ]
     },
     {
@@ -2219,6 +2416,73 @@
       ]
     },
     {
+      "id": "8ffcbe140e7fa8ba",
+      "title": "ワクチンの推奨はどのように行われますか?",
+      "summary": "ワクチンの推奨はどのように行われますか?",
+      "summary_ai": "ワクチンの推奨はどのように行われますか?",
+      "title_original": "How are vaccine recommendations made?",
+      "summary_original": "How are vaccine recommendations made?",
+      "summary_ai_original": "How are vaccine recommendations made?",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQ0doeG10eFZzME9lV2NLYnRXazNaLVpzdExkRTlPWFg1Vmx3U2w4UEUzYjhldEtWaldJUHluMjl0Rlk3NjZBUHJrWm5YNThndGNaakFjSlFSa3ZyLWtSUjJLN1JtSHE0S0FZQXFUakVoZ2FvVm50Vl9oNWdaNGwtMVppcUlhaERCenkw?oc=5",
+      "source": "Lancet Infectious Diseases",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-05-16T15:57:13+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [
+        "recommendation"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Lancet Infectious Diseases / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Lancet Infectious Diseases / London"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Lancet Infectious Diseases"
+      ]
+    },
+    {
       "id": "2bd744a2f5cba2be",
       "title": "インドの乳児に対する用量節約型不活化ポリオウイルスワクチンの免疫原性と安全性：第2/3相二重盲検ランダム化比較試験",
       "summary": "インドの乳児に対する用量節約型不活化ポリオウイルスワクチンの免疫原性と安全性：第2/3相二重盲検ランダム化比較試験",
@@ -2351,142 +2615,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "Washington Post Vaccines / Immunization"
-      ]
-    },
-    {
-      "id": "cdeb5f8c81e55349",
-      "title": "侵襲性インフルエンザ菌血清型 b (Hib) 疾患に対する製品およびスケジュールに応じたワクチンの有効性、オランダ、2005 ～ 2023 年",
-      "summary": "侵襲性インフルエンザ菌血清型 b (Hib) 疾患に対する製品およびスケジュールに応じたワクチンの有効性、オランダ、2005 ～ 2023 年",
-      "summary_ai": "侵襲性インフルエンザ菌血清型 b (Hib) 疾患に対する製品およびスケジュールに応じたワクチンの有効性、オランダ、2005 ～ 2023 年",
-      "title_original": "Product- and schedule-specific vaccine effectiveness against invasive Haemophilus influenzae serotype b (Hib) disease, The Netherlands, 2005 to 2023",
-      "summary_original": "Product- and schedule-specific vaccine effectiveness against invasive Haemophilus influenzae serotype b (Hib) disease, The Netherlands, 2005 to 2023",
-      "summary_ai_original": "Product- and schedule-specific vaccine effectiveness against invasive Haemophilus influenzae serotype b (Hib) disease, The Netherlands, 2005 to 2023",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSnVZZm91bHNFOHdodThpanhqQkVjUFdXbm0waFdQNExWbm1YenZaU21HYW9kN0VNaWw5RHpkWEVXRU9pUVI4cTQySzV4VGV6OE9tYl81azhhZVljNUNmeEtaejE1OWdNMDRkLVpzR1RKT1FxVWJEZzB0NWlFZVF0Z1dXb1ZEaEk?oc=5",
-      "source": "Eurosurveillance",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-05-14T16:52:13+00:00",
-      "topics": [
-        "policy",
-        "research"
-      ],
-      "policy_tags": [
-        "schedule"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "オランダ",
-      "source_location": {
-        "key": "sweden",
-        "name_ja": "スウェーデン",
-        "lat": 59.3293,
-        "lng": 18.0686,
-        "region": "Europe",
-        "label": "Eurosurveillance / Stockholm"
-      },
-      "plot": {
-        "source": {
-          "key": "sweden",
-          "name_ja": "スウェーデン",
-          "lat": 59.3293,
-          "lng": 18.0686,
-          "region": "Europe",
-          "label": "Eurosurveillance / Stockholm"
-        },
-        "target": {
-          "key": "netherlands",
-          "name_ja": "オランダ",
-          "lat": 52.3676,
-          "lng": 4.9041,
-          "region": "Europe",
-          "label": "オランダ"
-        }
-      },
-      "location": {
-        "key": "netherlands",
-        "name_ja": "オランダ",
-        "lat": 52.3676,
-        "lng": 4.9041,
-        "region": "Europe",
-        "label": "オランダ"
-      },
-      "region": "Europe",
-      "country": "オランダ",
-      "lat": 52.3676,
-      "lng": 4.9041,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Eurosurveillance"
-      ]
-    },
-    {
-      "id": "fb8b183dc534b67d",
-      "title": "新型コロナウイルス感染症関連の入院と死亡に対するBNT162b2 LP.8.1適応SARS-CoV-2ワクチンの有効性：デンマーク全国コホート研究",
-      "summary": "新型コロナウイルス感染症関連の入院と死亡に対するBNT162b2 LP.8.1適応SARS-CoV-2ワクチンの有効性：デンマーク全国コホート研究",
-      "summary_ai": "新型コロナウイルス感染症関連の入院と死亡に対するBNT162b2 LP.8.1適応SARS-CoV-2ワクチンの有効性：デンマーク全国コホート研究",
-      "title_original": "Effectiveness of the BNT162b2 LP.8.1-adapted SARS-CoV-2 vaccine against COVID-19-associated hospitalisation and death: a Danish nationwide cohort study",
-      "summary_original": "Effectiveness of the BNT162b2 LP.8.1-adapted SARS-CoV-2 vaccine against COVID-19-associated hospitalisation and death: a Danish nationwide cohort study",
-      "summary_ai_original": "Effectiveness of the BNT162b2 LP.8.1-adapted SARS-CoV-2 vaccine against COVID-19-associated hospitalisation and death: a Danish nationwide cohort study",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNlllanpmaUlyRlpWeUlucGR2cjBicGpJb1hHeW9CcGxOZkplV3Y0TE5qNU1HZWRxMHRNd3ZPclJvOGhJdEIzRnJybWtvS25PTmRQaS13d0tDRjh4SmhmcjB3OWVXc3Z4OXNieERFQXptNUlheEp4M0hXY25tZEU1ZVJoc3RFbEdpUS1N?oc=5",
-      "source": "The Lancet series",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-05-13T23:32:06+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "covid"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "The Lancet / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "The Lancet / London"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 2,
-      "duplicate_sources": [
-        "Lancet Infectious Diseases",
-        "The Lancet series"
       ]
     }
   ]
