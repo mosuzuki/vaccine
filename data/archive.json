@@ -1,8 +1,8 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-05-28T22:44:37.512784+00:00",
-  "archive_count": 254,
+  "generated_at": "2026-05-29T22:41:04.953222+00:00",
+  "archive_count": 257,
   "days_back": 14,
   "items": [
     {
@@ -65,12 +65,152 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicate_sources": [
         "CIDRAP Vaccines & Immunization"
       ],
       "first_seen_at": "2026-05-28T20:15:25+00:00",
-      "last_seen_at": "2026-05-28T22:46:44.187880+00:00"
+      "last_seen_at": "2026-05-29T22:43:25.454045+00:00"
+    },
+    {
+      "id": "a4addb3522bb471e",
+      "title": "WHO、エボラ出血熱流行中、治療薬とワクチンを試験で特定 - ロイター",
+      "summary": "WHO、エボラ出血熱の治療法とワクチンを臨床試験で特定 ロイター",
+      "summary_ai": "WHO、エボラ出血熱の治療法とワクチンを臨床試験で特定 ロイター",
+      "title_original": "WHO identifies Ebola treatments, vaccines to be tested in trials amid outbreak - Reuters",
+      "summary_original": "WHO identifies Ebola treatments, vaccines to be tested in trials amid outbreak Reuters",
+      "summary_ai_original": "WHO identifies Ebola treatments, vaccines to be tested in trials amid outbreak Reuters",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNT2NpS0g2U0RhcjIxWnIzUE1lNUU3U290VnUtQTc5WGZtaVBDWFVJX1BDbFFWXzZHeEFFaHBhMXR6VEFlWkd1T3poMlZjS240Q1pBalBDRW42TlQ5YUpwb3c1TkhDeVJIdGZwczJHNG1CbGJrRE0zSl81MTJIbkI4SHVWUlBTUnZYcVpuenJ0bjUweHJmR1UtSFJXVzNvS3c2cmJ3U3U1U1ZhVU1ZZUw4a1JzaEtHS1EwRnFtT3IxNE5CYnpvSDJob3JCYjZ2RWpCdENLNkIxSmw1bzl5akE?oc=5",
+      "source": "Reuters Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-05-28T19:21:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [
+        "outbreak_response"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Reuters"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Reuters"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Reuters Vaccines / Immunization"
+      ],
+      "first_seen_at": "2026-05-28T19:21:00+00:00",
+      "last_seen_at": "2026-05-29T22:43:25.454057+00:00"
+    },
+    {
+      "id": "f0fa40f766fc3215",
+      "title": "コンゴ民主共和国での臨床試験におけるMVA-BNサル痘ワクチンの安全性",
+      "summary": "コンゴ民主共和国での臨床試験におけるMVA-BNサル痘ワクチンの安全性",
+      "summary_ai": "コンゴ民主共和国での臨床試験におけるMVA-BNサル痘ワクチンの安全性",
+      "title_original": "MVA-BN monkeypox vaccine safety in a clinical trial in the Democratic Republic of the Congo",
+      "summary_original": "MVA-BN monkeypox vaccine safety in a clinical trial in the Democratic Republic of the Congo",
+      "summary_ai_original": "MVA-BN monkeypox vaccine safety in a clinical trial in the Democratic Republic of the Congo",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBENWxsRTNZN3BNbmNLMDMzdTBaTVRvUzM2c0hFdEp0OHFJWXEwQ0xNcEVvRk9qSDRSd2dvOGxmMlNsa3dabV9WTWVuc1BqU3R2WjFCQ2pXTnBwWDIzenow?oc=5",
+      "source": "Nature News Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 5,
+      "published_at": "2026-05-28T18:35:54+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [
+        "safety"
+      ],
+      "vaccines": [
+        "mpox"
+      ],
+      "variants": [],
+      "target_country": "コンゴ民主共和国",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Nature News"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Nature News"
+        },
+        "target": {
+          "key": "democratic republic of the congo",
+          "name_ja": "コンゴ民主共和国",
+          "lat": -4.4419,
+          "lng": 15.2663,
+          "region": "Africa",
+          "label": "コンゴ民主共和国"
+        }
+      },
+      "location": {
+        "key": "democratic republic of the congo",
+        "name_ja": "コンゴ民主共和国",
+        "lat": -4.4419,
+        "lng": 15.2663,
+        "region": "Africa",
+        "label": "コンゴ民主共和国"
+      },
+      "region": "Africa",
+      "country": "コンゴ民主共和国",
+      "lat": -4.4419,
+      "lng": 15.2663,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Nature News Vaccines / Immunization"
+      ],
+      "first_seen_at": "2026-05-28T18:35:54+00:00",
+      "last_seen_at": "2026-05-29T22:43:25.454060+00:00"
     },
     {
       "id": "229fb3d2cc3041df",
@@ -134,12 +274,151 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicate_sources": [
         "BMJ"
       ],
       "first_seen_at": "2026-05-28T04:12:07+00:00",
-      "last_seen_at": "2026-05-28T22:46:44.187889+00:00"
+      "last_seen_at": "2026-05-29T22:43:25.454066+00:00"
+    },
+    {
+      "id": "6d8dcd80e5f23865",
+      "title": "BNT162b2 LP.8.1 新型コロナウイルス感染症（COVID-19）の救急部門、救急医療、外来受診に対する早期ワクチンの有効性",
+      "summary": "BNT162b2 LP.8.1 新型コロナウイルス感染症（COVID-19）の救急部門、救急医療、外来受診に対する早期ワクチンの有効性",
+      "summary_ai": "BNT162b2 LP.8.1 新型コロナウイルス感染症（COVID-19）の救急部門、救急医療、外来受診に対する早期ワクチンの有効性",
+      "title_original": "BNT162b2 LP.8.1 early vaccine effectiveness against COVID-19 emergency department, urgent care, and outpatient visits",
+      "summary_original": "BNT162b2 LP.8.1 early vaccine effectiveness against COVID-19 emergency department, urgent care, and outpatient visits",
+      "summary_ai_original": "BNT162b2 LP.8.1 early vaccine effectiveness against COVID-19 emergency department, urgent care, and outpatient visits",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqNVp2d0hJT1JGcXNTSGxRX2tQS2JOVi1PRXFmSTc0OHNyWkc1ZzM1QnZma0xyQ2YzRkVvTkh1MFZkejNtSUZXcnJULVlvVVdiWlRROUtfRWhSeHJYajZF?oc=5",
+      "source": "Nature News Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 5,
+      "published_at": "2026-05-28T00:19:19+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [
+        "outbreak_response"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Nature News"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Nature News"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Nature News Vaccines / Immunization"
+      ],
+      "first_seen_at": "2026-05-28T00:19:19+00:00",
+      "last_seen_at": "2026-05-29T22:43:25.454069+00:00"
+    },
+    {
+      "id": "88cc33a827adf79e",
+      "title": "2022 年から 2024 年のオーストラリアにおける Mpox 病の疫学、ワクチン接種量、予防接種率: 記述研究",
+      "summary": "2022 年から 2024 年のオーストラリアにおける Mpox 病の疫学、ワクチン接種量、予防接種率: 記述研究",
+      "summary_ai": "2022 年から 2024 年のオーストラリアにおける Mpox 病の疫学、ワクチン接種量、予防接種率: 記述研究",
+      "title_original": "Mpox disease epidemiology, vaccine uptake and vaccination coverage in Australia 2022–2024: a descriptive study",
+      "summary_original": "Mpox disease epidemiology, vaccine uptake and vaccination coverage in Australia 2022–2024: a descriptive study",
+      "summary_ai_original": "Mpox disease epidemiology, vaccine uptake and vaccination coverage in Australia 2022–2024: a descriptive study",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbnpDVW1NMUFRWmNBY21NVGFQTmRQdEdJVWkwNHlVUk44TUU5eU9TcUVpLTBQYXpMMXota2g5MlVubk1TWkZiSzBPWXRFZTNueFRod0Q2X1BPdXdGUV92WlRUUXBKN0F6S2huVDI0TlVpNGlLU2FpcWlQWnp0VVl2eVVfRXNveWlCQkMxX3NVNmJoX3dBMnVwam94Y09yN3Y4ejlIcUkyYng0WTJ2Z2NoVE1JMmhBVmpsTUd3cEhsb3ZwTHNsV1ZWYTllVnY?oc=5",
+      "source": "eClinicalMedicine vaccines",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-05-27T22:38:20+00:00",
+      "topics": [
+        "communication",
+        "research"
+      ],
+      "policy_tags": [
+        "outbreak_response"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "オーストラリア",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "eClinicalMedicine"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "eClinicalMedicine"
+        },
+        "target": {
+          "key": "australia",
+          "name_ja": "オーストラリア",
+          "lat": -35.2809,
+          "lng": 149.13,
+          "region": "Oceania",
+          "label": "オーストラリア"
+        }
+      },
+      "location": {
+        "key": "australia",
+        "name_ja": "オーストラリア",
+        "lat": -35.2809,
+        "lng": 149.13,
+        "region": "Oceania",
+        "label": "オーストラリア"
+      },
+      "region": "Oceania",
+      "country": "オーストラリア",
+      "lat": -35.2809,
+      "lng": 149.13,
+      "duplicate_count": 2,
+      "duplicate_sources": [
+        "eClinicalMedicine vaccines"
+      ],
+      "first_seen_at": "2026-05-27T22:38:20+00:00",
+      "last_seen_at": "2026-05-29T22:43:25.454071+00:00"
     },
     {
       "id": "e5f59c4028274030",
@@ -208,7 +487,7 @@
         "SSRN vaccine preprints"
       ],
       "first_seen_at": "2026-05-27T04:22:15+00:00",
-      "last_seen_at": "2026-05-28T22:46:44.187900+00:00"
+      "last_seen_at": "2026-05-29T22:43:25.454077+00:00"
     },
     {
       "id": "c065d4388ee886a6",
@@ -270,12 +549,12 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicate_sources": [
         "PLOS journals vaccines"
       ],
       "first_seen_at": "2026-05-26T19:31:12+00:00",
-      "last_seen_at": "2026-05-28T22:46:44.187903+00:00"
+      "last_seen_at": "2026-05-29T22:43:25.454085+00:00"
     },
     {
       "id": "be3db4e1833e1cc0",
@@ -344,7 +623,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-05-26T18:28:49+00:00",
-      "last_seen_at": "2026-05-28T22:46:44.187911+00:00"
+      "last_seen_at": "2026-05-29T22:43:25.454092+00:00"
     },
     {
       "id": "a32fc0e6deabd231",
@@ -413,7 +692,7 @@
         "PLOS journals vaccines"
       ],
       "first_seen_at": "2026-05-26T18:24:47+00:00",
-      "last_seen_at": "2026-05-28T22:46:44.187917+00:00"
+      "last_seen_at": "2026-05-29T22:43:25.454098+00:00"
     },
     {
       "id": "774168a4a8a2c477",
@@ -480,7 +759,7 @@
         "Journal of Infectious Diseases"
       ],
       "first_seen_at": "2026-05-26T07:00:00+00:00",
-      "last_seen_at": "2026-05-28T22:46:44.187922+00:00"
+      "last_seen_at": "2026-05-29T22:43:25.454103+00:00"
     },
     {
       "id": "d68132dcedbca977",
@@ -551,7 +830,7 @@
         "Human Vaccines & Immunotherapeutics"
       ],
       "first_seen_at": "2026-05-26T05:24:33+00:00",
-      "last_seen_at": "2026-05-28T22:46:44.187931+00:00"
+      "last_seen_at": "2026-05-29T22:43:25.454107+00:00"
     },
     {
       "id": "327f76a617d7f764",
@@ -620,7 +899,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-05-09T23:54:00+00:00",
-      "last_seen_at": "2026-05-28T22:46:44.187937+00:00"
+      "last_seen_at": "2026-05-29T22:43:25.454113+00:00"
     },
     {
       "id": "baff36ef808ad474",
@@ -689,7 +968,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-03-24T04:01:03+00:00",
-      "last_seen_at": "2026-05-28T22:46:44.187942+00:00"
+      "last_seen_at": "2026-05-29T22:43:25.454119+00:00"
     },
     {
       "id": "a661e1de7d05fcf4",
@@ -756,7 +1035,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-03-19T00:51:35+00:00",
-      "last_seen_at": "2026-05-28T22:46:44.187947+00:00"
+      "last_seen_at": "2026-05-29T22:43:25.454124+00:00"
     },
     {
       "id": "d0b2dd2e7b50ad55",
@@ -823,7 +1102,7 @@
         "medRxiv vaccines"
       ],
       "first_seen_at": "2026-05-23T01:44:09+00:00",
-      "last_seen_at": "2026-05-28T22:46:44.187952+00:00"
+      "last_seen_at": "2026-05-29T22:43:25.454129+00:00"
     },
     {
       "id": "467e9b1cd4d288b0",
@@ -890,7 +1169,7 @@
         "EBioMedicine vaccines"
       ],
       "first_seen_at": "2026-05-22T23:30:13+00:00",
-      "last_seen_at": "2026-05-28T22:46:44.187957+00:00"
+      "last_seen_at": "2026-05-29T22:43:25.454135+00:00"
     },
     {
       "id": "63923f0772675a2d",
@@ -959,7 +1238,7 @@
         "BBC Vaccines / Immunization"
       ],
       "first_seen_at": "2026-05-22T15:03:51+00:00",
-      "last_seen_at": "2026-05-28T22:46:44.187961+00:00"
+      "last_seen_at": "2026-05-29T22:43:25.454139+00:00"
     },
     {
       "id": "50b6ecc93ecab108",
@@ -1032,7 +1311,7 @@
         "FDA Vaccines / Biologics"
       ],
       "first_seen_at": "2026-04-27T12:01:59+00:00",
-      "last_seen_at": "2026-05-28T22:46:44.187967+00:00"
+      "last_seen_at": "2026-05-29T22:43:25.454145+00:00"
     },
     {
       "id": "56c6bcb7fcaeead4",
@@ -1171,7 +1450,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-03-11T03:59:50+00:00",
-      "last_seen_at": "2026-05-28T22:46:44.187984+00:00"
+      "last_seen_at": "2026-05-29T22:43:25.454150+00:00"
     },
     {
       "id": "1668f7cd7d63b946",
@@ -1309,7 +1588,7 @@
         "PLOS journals vaccines"
       ],
       "first_seen_at": "2026-05-21T19:22:01+00:00",
-      "last_seen_at": "2026-05-28T22:46:44.187989+00:00"
+      "last_seen_at": "2026-05-29T22:43:25.454155+00:00"
     },
     {
       "id": "78df80894de669cf",
@@ -1382,7 +1661,7 @@
         "PAHO News"
       ],
       "first_seen_at": "2026-05-21T18:21:31+00:00",
-      "last_seen_at": "2026-05-28T22:46:44.187995+00:00"
+      "last_seen_at": "2026-05-29T22:43:25.454160+00:00"
     },
     {
       "id": "058f1c0d12382a00",
@@ -1452,77 +1731,6 @@
       "last_seen_at": "2026-05-25T22:16:42.242500+00:00"
     },
     {
-      "id": "c8742c3ff65bb074",
-      "title": "米FDA、モデルナのインフルエンザワクチン検討のため専門委員会開催へ - ロイター",
-      "summary": "米FDA、モデルナのインフルエンザワクチン検討のため専門委員会開催へ Reuters",
-      "summary_ai": "米FDA、モデルナのインフルエンザワクチン検討のため専門委員会開催へ Reuters",
-      "title_original": "US FDA to hold expert committee meeting to review Moderna's flu vaccine - Reuters",
-      "summary_original": "US FDA to hold expert committee meeting to review Moderna's flu vaccine Reuters",
-      "summary_ai_original": "US FDA to hold expert committee meeting to review Moderna's flu vaccine Reuters",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONTR4ZzhjLW5lei1oYU5KQzV4SFJ5MnNWbDE5RENBQkk2Mk9NNEhoZXJFUk5YZVpfVUlVV3YxN0ZUYzRKVWpmeUNESEN2UkpGTnJiU0pGNklkQ3pQb3VQa1I2U2JVNEpCSHRlMU5TdnpVNkxqUk4tb2lpWEl5ZV9HN3FrZXZ1OExLdmQxeW5SV0F6UEJaMENkU0RDLVZISmtEWFlXWVp1NG02NVhMc1Q1dkdJNUhUd0t5d3dyMG5SRnJhY2lfVi1iU09jbEtLLTVDaXc?oc=5",
-      "source": "Reuters Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-05-21T15:32:55+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [
-        "recommendation"
-      ],
-      "vaccines": [
-        "influenza"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "Reuters"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "Reuters"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Reuters Vaccines / Immunization"
-      ],
-      "first_seen_at": "2026-05-21T15:32:55+00:00",
-      "last_seen_at": "2026-05-23T22:04:52.110544+00:00"
-    },
-    {
       "id": "07eeb1c890593e10",
       "title": "高リスク成人における呼吸器合胞体ウイルス（RSV）を標的とするmRNA-1345ワクチンの免疫原性と安全性を調査する研究",
       "summary": "高リスク成人における呼吸器合胞体ウイルス（RSV）を標的とするmRNA-1345ワクチンの免疫原性と安全性を調査する研究",
@@ -1589,7 +1797,7 @@
         "Cochrane vaccines"
       ],
       "first_seen_at": "2026-05-21T11:08:48+00:00",
-      "last_seen_at": "2026-05-28T22:46:44.188002+00:00"
+      "last_seen_at": "2026-05-29T22:43:25.454165+00:00"
     },
     {
       "id": "8e0499c6c7aa4d7c",
@@ -1661,6 +1869,77 @@
       "last_seen_at": "2026-05-23T22:04:52.110556+00:00"
     },
     {
+      "id": "c8742c3ff65bb074",
+      "title": "米FDA、モデルナのインフルエンザワクチン検討のため専門委員会開催へ - ロイター",
+      "summary": "米FDA、モデルナのインフルエンザワクチン検討のため専門委員会開催へ Reuters",
+      "summary_ai": "米FDA、モデルナのインフルエンザワクチン検討のため専門委員会開催へ Reuters",
+      "title_original": "US FDA to hold expert committee meeting to review Moderna's flu vaccine - Reuters",
+      "summary_original": "US FDA to hold expert committee meeting to review Moderna's flu vaccine Reuters",
+      "summary_ai_original": "US FDA to hold expert committee meeting to review Moderna's flu vaccine Reuters",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONTR4ZzhjLW5lei1oYU5KQzV4SFJ5MnNWbDE5RENBQkk2Mk9NNEhoZXJFUk5YZVpfVUlVV3YxN0ZUYzRKVWpmeUNESEN2UkpGTnJiU0pGNklkQ3pQb3VQa1I2U2JVNEpCSHRlMU5TdnpVNkxqUk4tb2lpWEl5ZV9HN3FrZXZ1OExLdmQxeW5SV0F6UEJaMENkU0RDLVZISmtEWFlXWVp1NG02NVhMc1Q1dkdJNUhUd0t5d3dyMG5SRnJhY2lfVi1iU09jbEtLLTVDaXc?oc=5",
+      "source": "Reuters Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-05-21T07:00:00+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [
+        "recommendation"
+      ],
+      "vaccines": [
+        "influenza"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Reuters"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Reuters"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Reuters Vaccines / Immunization"
+      ],
+      "first_seen_at": "2026-05-21T15:32:55+00:00",
+      "last_seen_at": "2026-05-29T22:43:25.454169+00:00"
+    },
+    {
       "id": "67cd4e618e65d2ce",
       "title": "ネパールにおける新型コロナウイルス感染症（COVID-19）ワクチンの有効性と変異種：試験のための研究プロトコル - BMJ Open",
       "summary": "ネパールにおける新型コロナウイルス感染症（COVID-19）ワクチンの有効性と変異種：試験のための研究プロトコル BMJ Open",
@@ -1725,7 +2004,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-03-30T05:02:37+00:00",
-      "last_seen_at": "2026-05-28T22:46:44.188007+00:00"
+      "last_seen_at": "2026-05-29T22:43:25.454174+00:00"
     },
     {
       "id": "c66e7cbac541dc23",
@@ -1796,7 +2075,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-03-21T20:12:40+00:00",
-      "last_seen_at": "2026-05-28T22:46:44.188011+00:00"
+      "last_seen_at": "2026-05-29T22:43:25.454179+00:00"
     },
     {
       "id": "196a519fa556f2ac",
@@ -1863,7 +2142,7 @@
         "SSRN vaccine preprints"
       ],
       "first_seen_at": "2026-05-20T21:30:26+00:00",
-      "last_seen_at": "2026-05-28T22:46:44.188016+00:00"
+      "last_seen_at": "2026-05-29T22:43:25.454183+00:00"
     },
     {
       "id": "9d62d1e2ce978c8e",
@@ -2001,7 +2280,7 @@
         "MHRA"
       ],
       "first_seen_at": "2026-05-20T14:48:04+00:00",
-      "last_seen_at": "2026-05-28T22:46:44.188024+00:00"
+      "last_seen_at": "2026-05-29T22:43:25.454189+00:00"
     },
     {
       "id": "08fa027f0aece9ef",
@@ -2347,7 +2626,7 @@
         "Financial Times Vaccines / Immunization"
       ],
       "first_seen_at": "2026-05-18T10:59:00+00:00",
-      "last_seen_at": "2026-05-28T22:46:44.188030+00:00"
+      "last_seen_at": "2026-05-29T22:43:25.454195+00:00"
     },
     {
       "id": "ba117da335c47fa1",
@@ -2485,7 +2764,7 @@
         "Nature News Vaccines / Immunization"
       ],
       "first_seen_at": "2026-05-18T11:54:52+00:00",
-      "last_seen_at": "2026-05-28T22:46:44.188042+00:00"
+      "last_seen_at": "2026-05-29T22:43:25.454200+00:00"
     },
     {
       "id": "faf454b4d504cf18",
@@ -2624,7 +2903,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-05-18T00:30:29+00:00",
-      "last_seen_at": "2026-05-28T22:46:44.188046+00:00"
+      "last_seen_at": "2026-05-29T22:43:25.454205+00:00"
     },
     {
       "id": "2267202e464b59bc",
@@ -2764,7 +3043,7 @@
         "Lancet Infectious Diseases"
       ],
       "first_seen_at": "2026-05-16T15:57:13+00:00",
-      "last_seen_at": "2026-05-28T22:46:44.188053+00:00"
+      "last_seen_at": "2026-05-29T22:43:25.454214+00:00"
     },
     {
       "id": "2bd744a2f5cba2be",
@@ -2834,7 +3113,7 @@
         "Lancet Infectious Diseases"
       ],
       "first_seen_at": "2026-05-15T22:55:36+00:00",
-      "last_seen_at": "2026-05-28T22:46:44.188057+00:00"
+      "last_seen_at": "2026-05-29T22:43:25.454218+00:00"
     },
     {
       "id": "aa5df6687dde94d7",
@@ -7079,76 +7358,6 @@
       ],
       "first_seen_at": "2026-04-30T00:41:02+00:00",
       "last_seen_at": "2026-05-12T22:22:48.183567+00:00"
-    },
-    {
-      "id": "beb36bae1e636d34",
-      "title": "2022 年から 2024 年のオーストラリアにおける Mpox 病の疫学、ワクチン接種量、予防接種率: 記述研究",
-      "summary": "2022 年から 2024 年のオーストラリアにおける Mpox 病の疫学、ワクチン接種量、予防接種率: 記述研究",
-      "summary_ai": "2022 年から 2024 年のオーストラリアにおける Mpox 病の疫学、ワクチン接種量、予防接種率: 記述研究",
-      "title_original": "Mpox disease epidemiology, vaccine uptake and vaccination coverage in Australia 2022–2024: a descriptive study",
-      "summary_original": "Mpox disease epidemiology, vaccine uptake and vaccination coverage in Australia 2022–2024: a descriptive study",
-      "summary_ai_original": "Mpox disease epidemiology, vaccine uptake and vaccination coverage in Australia 2022–2024: a descriptive study",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMTR6ZUFzWktKYnNhemlCdVl6OXZtR05JcTFwOTBXYkpGZDdnbUpMeF9sSVFreXJKMW9WeDMxdlNMUlZmZnRMQ3hmYjNteF9GYnZvblhpNGtnMnppVHp1TkNwS2RvZDFfMVNKYTdaOHppMUQ2RXJUNnhwcHR0UE01MkdrZmJVSHVfMUdr?oc=5",
-      "source": "eClinicalMedicine vaccines",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 7,
-      "published_at": "2026-04-29T01:57:01+00:00",
-      "topics": [
-        "communication",
-        "research"
-      ],
-      "policy_tags": [
-        "outbreak_response"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "オーストラリア",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "eClinicalMedicine"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "eClinicalMedicine"
-        },
-        "target": {
-          "key": "australia",
-          "name_ja": "オーストラリア",
-          "lat": -35.2809,
-          "lng": 149.13,
-          "region": "Oceania",
-          "label": "オーストラリア"
-        }
-      },
-      "location": {
-        "key": "australia",
-        "name_ja": "オーストラリア",
-        "lat": -35.2809,
-        "lng": 149.13,
-        "region": "Oceania",
-        "label": "オーストラリア"
-      },
-      "region": "Oceania",
-      "country": "オーストラリア",
-      "lat": -35.2809,
-      "lng": 149.13,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "eClinicalMedicine vaccines"
-      ],
-      "first_seen_at": "2026-04-29T01:57:01+00:00",
-      "last_seen_at": "2026-05-12T22:22:48.183572+00:00"
     },
     {
       "id": "5d549e7af2ec9afb",
