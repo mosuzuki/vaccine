@@ -1,10 +1,290 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-05-30T22:10:25.049984+00:00",
-  "archive_count": 258,
+  "generated_at": "2026-05-31T22:10:25.227118+00:00",
+  "archive_count": 261,
   "days_back": 14,
   "items": [
+    {
+      "id": "95a7a6c010b8a2c9",
+      "title": "1 米国の5歳未満の子供に対する新型コロナウイルス感染症ワクチンの有効性：検査陰性例 - medRxiv",
+      "summary": "1 米国の5歳未満の子供に対する新型コロナウイルス感染症ワクチンの有効性：検査陰性例 medRxiv",
+      "summary_ai": "1 米国の5歳未満の子供に対する新型コロナウイルス感染症ワクチンの有効性：検査陰性例 medRxiv",
+      "title_original": "1 COVID-19 vaccine effectiveness in children under 5 in the USA: a test-negative case - medRxiv",
+      "summary_original": "1 COVID-19 vaccine effectiveness in children under 5 in the USA: a test-negative case medRxiv",
+      "summary_ai_original": "1 COVID-19 vaccine effectiveness in children under 5 in the USA: a test-negative case medRxiv",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5vS2lyVlVkdFh0SmFFR1U5UVRlYTRrYlBiXy1TT201eldJNWg4d2c3eV9XOU5Hc01SVHJuTjlxTVdZSGUtbm1GRXU5VDQ2OGltWS1HN2Izb0MtcWx3QjB5UDByc0dTM1l1a0lzLUJ0Q3NvcUR5NnJPVGgzaw?oc=5",
+      "source": "medRxiv vaccines",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-05-30T21:51:03+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "covid"
+      ],
+      "variants": [],
+      "target_country": "米国",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "medRxiv"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "medRxiv"
+        },
+        "target": {
+          "key": "usa",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "米国"
+        }
+      },
+      "location": {
+        "key": "usa",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "米国"
+      },
+      "region": "North America",
+      "country": "米国",
+      "lat": 38.9072,
+      "lng": -77.0369,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "medRxiv vaccines"
+      ],
+      "first_seen_at": "2026-05-30T21:51:03+00:00",
+      "last_seen_at": "2026-05-31T22:12:03.474682+00:00"
+    },
+    {
+      "id": "9c560166a39756d7",
+      "title": "ノーミクロン優勢時の重篤な covid-19 に対する異種 3 回目の接種スケジュールの有効性の比較 -",
+      "summary": "ノーザでのオミクロン優勢時の重篤な covid-19 に対する異種 3 回目の接種スケジュールの有効性の比較",
+      "summary_ai": "ノーザでのオミクロン優勢時の重篤な covid-19 に対する異種 3 回目の接種スケジュールの有効性の比較",
+      "title_original": "Comparative effectiveness of heterologous third dose vaccine schedules against severe covid-19 during omicron predominance in No - The",
+      "summary_original": "Comparative effectiveness of heterologous third dose vaccine schedules against severe covid-19 during omicron predominance in No The",
+      "summary_ai_original": "Comparative effectiveness of heterologous third dose vaccine schedules against severe covid-19 during omicron predominance in No The",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XMlUyRHlxQXRaUnFGNjhNcGJqNFVMNlBaQlo2bzNoMHhTSzNsS0dFMVJFamxSOHIyaFJGaE5IVmFYaXNudFo5WFlsSHVYbm9SVDRQUGVHNWJ1aXFrQkJUejdNYzNtVVhuZ191NQ?oc=5",
+      "source": "BMJ",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-05-30T13:54:14+00:00",
+      "topics": [
+        "policy",
+        "research"
+      ],
+      "policy_tags": [
+        "schedule"
+      ],
+      "vaccines": [],
+      "variants": [
+        "omicron"
+      ],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BMJ / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BMJ / London"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 2,
+      "duplicate_sources": [
+        "BMJ"
+      ],
+      "first_seen_at": "2026-05-30T13:54:14+00:00",
+      "last_seen_at": "2026-05-31T22:12:03.474692+00:00"
+    },
+    {
+      "id": "a7a9770ff5fcee3d",
+      "title": "トランプ大統領、政府機関に対し、小児ワクチンの推奨範囲を狭めるよう求める研究に同調するよう指示 - AP通信",
+      "summary": "トランプ大統領、小児ワクチンの推奨範囲を狭めるよう求める研究に同調するよう政府機関に指示 AP通信",
+      "summary_ai": "トランプ大統領、小児ワクチンの推奨範囲を狭めるよう求める研究に同調するよう政府機関に指示 AP通信",
+      "title_original": "Trump tells agencies to align with study calling for narrower childhood vaccine recommendations - AP News",
+      "summary_original": "Trump tells agencies to align with study calling for narrower childhood vaccine recommendations AP News",
+      "summary_ai_original": "Trump tells agencies to align with study calling for narrower childhood vaccine recommendations AP News",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT1J2SFc1Mm10N2UyWW1PTW1Da0NKU2h5bzRPNWJ5WXVuQ2UyRUlhaU42UXNQMi1XcWtUeU5wOHBtT3VOaGVPY2xfcXNGNUFub1dSZUV3elk3dDhsb2Jhemt5MVQ1NFI1cnpSZFotRERZWDU2VkdRc2R2R1ItbmpWUFpNRV9WMDdfMFpndnFDb0dIWmU5a3ZGNF9Hek9RSTh2NHc?oc=5",
+      "source": "AP Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-05-30T01:18:00+00:00",
+      "topics": [
+        "policy",
+        "research"
+      ],
+      "policy_tags": [
+        "recommendation"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "AP"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "AP"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "AP Vaccines / Immunization"
+      ],
+      "first_seen_at": "2026-05-30T01:18:00+00:00",
+      "last_seen_at": "2026-05-31T22:12:03.474695+00:00"
+    },
+    {
+      "id": "d5530f0d05eb33db",
+      "title": "出生時のB型肝炎予防接種：安全性、有効性、公衆衛生上の利点 - AAP",
+      "summary": "出生時の B 型肝炎予防接種: 安全性、有効性、および公衆衛生上の利点 AAP",
+      "summary_ai": "出生時の B 型肝炎予防接種: 安全性、有効性、および公衆衛生上の利点 AAP",
+      "title_original": "Hepatitis B Vaccination at Birth: Safety, Effectiveness, and Public Health Benefit - AAP",
+      "summary_original": "Hepatitis B Vaccination at Birth: Safety, Effectiveness, and Public Health Benefit AAP",
+      "summary_ai_original": "Hepatitis B Vaccination at Birth: Safety, Effectiveness, and Public Health Benefit AAP",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbDV4TVJSSEEzS1NvX1N0dHVjOERQRGFTOHdjOEtOT1Q1LTVRWTBKcHdDTW5lcXoxMkxCcGxYOHkzcG1mS0h5a054VDk3UmpxQnY0NDV0bTRMb3d5Y3A3MmE4RTE2T2xOUkZiTjJzanJFanNZM09WbDZ5OXY4SmgtbjNUbE8tWnFJdENGZEZITVVncU45NFlSSEVmTG56QThSQjZ4bWNOY3RlZ3dpeEVJdEVoNFphekQ4Qi1EejYteWJDVm84YV9hb244a0lmUkI0WEVkN2NVQWhsWXYxTkE?oc=5",
+      "source": "Pediatrics journal",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-05-29T11:20:15+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [
+        "safety"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "Pediatrics"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "Pediatrics"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Pediatrics journal"
+      ],
+      "first_seen_at": "2026-05-29T11:20:15+00:00",
+      "last_seen_at": "2026-05-31T22:12:03.474698+00:00"
+    },
     {
       "id": "6371aa09a0cc0d63",
       "title": "ワクチン政策と国民の信頼に関する物語を再考する -",
@@ -70,7 +350,76 @@
         "BMJ"
       ],
       "first_seen_at": "2026-05-09T13:24:35+00:00",
-      "last_seen_at": "2026-05-30T22:11:58.601481+00:00"
+      "last_seen_at": "2026-05-31T22:12:03.474707+00:00"
+    },
+    {
+      "id": "a4addb3522bb471e",
+      "title": "WHO、エボラ出血熱流行中、治療薬とワクチンを試験で特定 - ロイター",
+      "summary": "WHO、エボラ出血熱の治療法とワクチンを臨床試験で特定 ロイター",
+      "summary_ai": "WHO、エボラ出血熱の治療法とワクチンを臨床試験で特定 ロイター",
+      "title_original": "WHO identifies Ebola treatments, vaccines to be tested in trials amid outbreak - Reuters",
+      "summary_original": "WHO identifies Ebola treatments, vaccines to be tested in trials amid outbreak Reuters",
+      "summary_ai_original": "WHO identifies Ebola treatments, vaccines to be tested in trials amid outbreak Reuters",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNT2NpS0g2U0RhcjIxWnIzUE1lNUU3U290VnUtQTc5WGZtaVBDWFVJX1BDbFFWXzZHeEFFaHBhMXR6VEFlWkd1T3poMlZjS240Q1pBalBDRW42TlQ5YUpwb3c1TkhDeVJIdGZwczJHNG1CbGJrRE0zSl81MTJIbkI4SHVWUlBTUnZYcVpuenJ0bjUweHJmR1UtSFJXVzNvS3c2cmJ3U3U1U1ZhVU1ZZUw4a1JzaEtHS1EwRnFtT3IxNE5CYnpvSDJob3JCYjZ2RWpCdENLNkIxSmw1bzl5akE?oc=5",
+      "source": "Reuters Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-05-29T00:53:28+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [
+        "outbreak_response"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Reuters"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Reuters"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Reuters Vaccines / Immunization"
+      ],
+      "first_seen_at": "2026-05-28T19:21:00+00:00",
+      "last_seen_at": "2026-05-31T22:12:03.474714+00:00"
     },
     {
       "id": "eb96e2fbe860986d",
@@ -137,76 +486,7 @@
         "CIDRAP Vaccines & Immunization"
       ],
       "first_seen_at": "2026-05-28T20:15:25+00:00",
-      "last_seen_at": "2026-05-30T22:11:58.601497+00:00"
-    },
-    {
-      "id": "a4addb3522bb471e",
-      "title": "WHO、エボラ出血熱流行中、治療薬とワクチンを試験で特定 - ロイター",
-      "summary": "WHO、エボラ出血熱の治療法とワクチンを臨床試験で特定 ロイター",
-      "summary_ai": "WHO、エボラ出血熱の治療法とワクチンを臨床試験で特定 ロイター",
-      "title_original": "WHO identifies Ebola treatments, vaccines to be tested in trials amid outbreak - Reuters",
-      "summary_original": "WHO identifies Ebola treatments, vaccines to be tested in trials amid outbreak Reuters",
-      "summary_ai_original": "WHO identifies Ebola treatments, vaccines to be tested in trials amid outbreak Reuters",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNT2NpS0g2U0RhcjIxWnIzUE1lNUU3U290VnUtQTc5WGZtaVBDWFVJX1BDbFFWXzZHeEFFaHBhMXR6VEFlWkd1T3poMlZjS240Q1pBalBDRW42TlQ5YUpwb3c1TkhDeVJIdGZwczJHNG1CbGJrRE0zSl81MTJIbkI4SHVWUlBTUnZYcVpuenJ0bjUweHJmR1UtSFJXVzNvS3c2cmJ3U3U1U1ZhVU1ZZUw4a1JzaEtHS1EwRnFtT3IxNE5CYnpvSDJob3JCYjZ2RWpCdENLNkIxSmw1bzl5akE?oc=5",
-      "source": "Reuters Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-05-28T19:21:00+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [
-        "outbreak_response"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "Reuters"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "Reuters"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Reuters Vaccines / Immunization"
-      ],
-      "first_seen_at": "2026-05-28T19:21:00+00:00",
-      "last_seen_at": "2026-05-30T22:11:58.601505+00:00"
+      "last_seen_at": "2026-05-31T22:12:03.474720+00:00"
     },
     {
       "id": "f0fa40f766fc3215",
@@ -277,7 +557,7 @@
         "Nature News Vaccines / Immunization"
       ],
       "first_seen_at": "2026-05-28T18:35:54+00:00",
-      "last_seen_at": "2026-05-30T22:11:58.601511+00:00"
+      "last_seen_at": "2026-05-31T22:12:03.474727+00:00"
     },
     {
       "id": "229fb3d2cc3041df",
@@ -621,7 +901,7 @@
         "PLOS journals vaccines"
       ],
       "first_seen_at": "2026-05-26T19:31:12+00:00",
-      "last_seen_at": "2026-05-30T22:11:58.601523+00:00"
+      "last_seen_at": "2026-05-31T22:12:03.474733+00:00"
     },
     {
       "id": "be3db4e1833e1cc0",
@@ -690,7 +970,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-05-26T18:28:49+00:00",
-      "last_seen_at": "2026-05-30T22:11:58.601528+00:00"
+      "last_seen_at": "2026-05-31T22:12:03.474740+00:00"
     },
     {
       "id": "a32fc0e6deabd231",
@@ -759,7 +1039,7 @@
         "PLOS journals vaccines"
       ],
       "first_seen_at": "2026-05-26T18:24:47+00:00",
-      "last_seen_at": "2026-05-30T22:11:58.601536+00:00"
+      "last_seen_at": "2026-05-31T22:12:03.474745+00:00"
     },
     {
       "id": "774168a4a8a2c477",
@@ -826,7 +1106,7 @@
         "Journal of Infectious Diseases"
       ],
       "first_seen_at": "2026-05-26T07:00:00+00:00",
-      "last_seen_at": "2026-05-30T22:11:58.601542+00:00"
+      "last_seen_at": "2026-05-31T22:12:03.474751+00:00"
     },
     {
       "id": "9c382688e64b3a58",
@@ -966,7 +1246,7 @@
         "Human Vaccines & Immunotherapeutics"
       ],
       "first_seen_at": "2026-05-26T05:24:33+00:00",
-      "last_seen_at": "2026-05-30T22:11:58.601550+00:00"
+      "last_seen_at": "2026-05-31T22:12:03.474757+00:00"
     },
     {
       "id": "327f76a617d7f764",
@@ -1035,7 +1315,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-05-09T23:54:00+00:00",
-      "last_seen_at": "2026-05-30T22:11:58.601555+00:00"
+      "last_seen_at": "2026-05-31T22:12:03.474762+00:00"
     },
     {
       "id": "baff36ef808ad474",
@@ -1104,7 +1384,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-03-24T04:01:03+00:00",
-      "last_seen_at": "2026-05-30T22:11:58.601559+00:00"
+      "last_seen_at": "2026-05-31T22:12:03.474766+00:00"
     },
     {
       "id": "a661e1de7d05fcf4",
@@ -1171,7 +1451,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-03-19T00:51:35+00:00",
-      "last_seen_at": "2026-05-30T22:11:58.601564+00:00"
+      "last_seen_at": "2026-05-31T22:12:03.474771+00:00"
     },
     {
       "id": "d0b2dd2e7b50ad55",
@@ -1233,7 +1513,7 @@
       "country": "インド",
       "lat": 28.6139,
       "lng": 77.209,
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "duplicate_sources": [
         "medRxiv vaccines"
       ],
@@ -1305,7 +1585,7 @@
         "EBioMedicine vaccines"
       ],
       "first_seen_at": "2026-05-22T23:30:13+00:00",
-      "last_seen_at": "2026-05-30T22:11:58.601573+00:00"
+      "last_seen_at": "2026-05-31T22:12:03.474781+00:00"
     },
     {
       "id": "50b6ecc93ecab108",
@@ -1517,7 +1797,7 @@
         "BBC Vaccines / Immunization"
       ],
       "first_seen_at": "2026-05-22T15:03:51+00:00",
-      "last_seen_at": "2026-05-30T22:11:58.601581+00:00"
+      "last_seen_at": "2026-05-31T22:12:03.474787+00:00"
     },
     {
       "id": "f491e761e1c98044",
@@ -1586,7 +1866,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-03-11T03:59:50+00:00",
-      "last_seen_at": "2026-05-29T22:43:25.454150+00:00"
+      "last_seen_at": "2026-05-31T22:12:03.474792+00:00"
     },
     {
       "id": "1668f7cd7d63b946",
@@ -1724,7 +2004,7 @@
         "PLOS journals vaccines"
       ],
       "first_seen_at": "2026-05-21T19:22:01+00:00",
-      "last_seen_at": "2026-05-30T22:11:58.601587+00:00"
+      "last_seen_at": "2026-05-31T22:12:03.474798+00:00"
     },
     {
       "id": "78df80894de669cf",
@@ -1797,7 +2077,7 @@
         "PAHO News"
       ],
       "first_seen_at": "2026-05-21T18:21:31+00:00",
-      "last_seen_at": "2026-05-30T22:11:58.601592+00:00"
+      "last_seen_at": "2026-05-31T22:12:03.474804+00:00"
     },
     {
       "id": "058f1c0d12382a00",
@@ -1997,7 +2277,7 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicate_sources": [
         "NEJM"
       ],
@@ -2073,7 +2353,7 @@
         "Reuters Vaccines / Immunization"
       ],
       "first_seen_at": "2026-05-21T15:32:55+00:00",
-      "last_seen_at": "2026-05-30T22:11:58.601598+00:00"
+      "last_seen_at": "2026-05-31T22:12:03.474809+00:00"
     },
     {
       "id": "67cd4e618e65d2ce",
@@ -2140,7 +2420,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-03-30T05:02:37+00:00",
-      "last_seen_at": "2026-05-30T22:11:58.601602+00:00"
+      "last_seen_at": "2026-05-31T22:12:03.474814+00:00"
     },
     {
       "id": "c66e7cbac541dc23",
@@ -2211,7 +2491,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-03-21T20:12:40+00:00",
-      "last_seen_at": "2026-05-30T22:11:58.601606+00:00"
+      "last_seen_at": "2026-05-31T22:12:03.474819+00:00"
     },
     {
       "id": "196a519fa556f2ac",
@@ -2278,7 +2558,7 @@
         "SSRN vaccine preprints"
       ],
       "first_seen_at": "2026-05-20T21:30:26+00:00",
-      "last_seen_at": "2026-05-30T22:11:58.601611+00:00"
+      "last_seen_at": "2026-05-31T22:12:03.474823+00:00"
     },
     {
       "id": "9d62d1e2ce978c8e",
@@ -2416,7 +2696,7 @@
         "MHRA"
       ],
       "first_seen_at": "2026-05-20T14:48:04+00:00",
-      "last_seen_at": "2026-05-30T22:11:58.601617+00:00"
+      "last_seen_at": "2026-05-31T22:12:03.474828+00:00"
     },
     {
       "id": "08fa027f0aece9ef",
@@ -2485,7 +2765,7 @@
         "読売新聞 ワクチン / 予防接種"
       ],
       "first_seen_at": "2026-04-15T07:00:00+00:00",
-      "last_seen_at": "2026-05-30T22:11:58.601624+00:00"
+      "last_seen_at": "2026-05-31T22:12:03.474834+00:00"
     },
     {
       "id": "558aa72821ab3b00",
@@ -2900,7 +3180,7 @@
         "Nature News Vaccines / Immunization"
       ],
       "first_seen_at": "2026-05-18T11:54:52+00:00",
-      "last_seen_at": "2026-05-30T22:11:58.601636+00:00"
+      "last_seen_at": "2026-05-31T22:12:03.474839+00:00"
     },
     {
       "id": "faf454b4d504cf18",
@@ -3039,7 +3319,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-05-18T00:30:29+00:00",
-      "last_seen_at": "2026-05-30T22:11:58.601641+00:00"
+      "last_seen_at": "2026-05-31T22:12:03.474845+00:00"
     },
     {
       "id": "2267202e464b59bc",
@@ -3105,7 +3385,7 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicate_sources": [
         "BMJ"
       ],
@@ -6035,78 +6315,6 @@
       ],
       "first_seen_at": "2026-05-04T01:41:23+00:00",
       "last_seen_at": "2026-05-17T22:06:50.240784+00:00"
-    },
-    {
-      "id": "60fd65e7bbff310b",
-      "title": "ノーミクロン優勢時の重篤な新型コロナウイルス感染症に対する異種3回目予防接種スケジュールの有効性の比較 - The BMJ",
-      "summary": "ノーのオミクロン優勢期間における重篤な covid-19 に対する異種 3 回目の接種スケジュールの有効性の比較 The BMJ",
-      "summary_ai": "ノーのオミクロン優勢期間における重篤な covid-19 に対する異種 3 回目の接種スケジュールの有効性の比較 The BMJ",
-      "title_original": "Comparative effectiveness of heterologous third dose vaccine schedules against severe covid-19 during omicron predominance in No - The BMJ",
-      "summary_original": "Comparative effectiveness of heterologous third dose vaccine schedules against severe covid-19 during omicron predominance in No The BMJ",
-      "summary_ai_original": "Comparative effectiveness of heterologous third dose vaccine schedules against severe covid-19 during omicron predominance in No The BMJ",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XMlUyRHlxQXRaUnFGNjhNcGJqNFVMNlBaQlo2bzNoMHhTSzNsS0dFMVJFamxSOHIyaFJGaE5IVmFYaXNudFo5WFlsSHVYbm9SVDRQUGVHNWJ1aXFrQkJUejdNYzNtVVhuZ191NQ?oc=5",
-      "source": "BMJ",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-05-03T23:15:58+00:00",
-      "topics": [
-        "policy",
-        "research"
-      ],
-      "policy_tags": [
-        "schedule"
-      ],
-      "vaccines": [],
-      "variants": [
-        "omicron"
-      ],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BMJ / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BMJ / London"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "BMJ"
-      ],
-      "first_seen_at": "2026-03-02T13:26:37+00:00",
-      "last_seen_at": "2026-05-07T22:14:37.819413+00:00"
     },
     {
       "id": "1da5a36c6e587b91",
