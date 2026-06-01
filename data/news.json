@@ -1,9 +1,9 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-05-31T22:10:25.227118+00:00",
-  "item_count": 30,
-  "archive_count": 261,
+  "generated_at": "2026-06-01T23:07:18.494504+00:00",
+  "item_count": 29,
+  "archive_count": 263,
   "days_back": 14,
   "plot_mode_default": "source",
   "feed_status": [
@@ -23,7 +23,7 @@
       "name": "CDC Newsroom",
       "url": "https://tools.cdc.gov/api/v2/resources/media/316422.rss",
       "status": "ok",
-      "seen": 12,
+      "seen": 11,
       "kept": 0
     },
     {
@@ -37,7 +37,7 @@
       "name": "ECDC News",
       "url": "https://www.ecdc.europa.eu/en/news-events/rss.xml",
       "status": "error",
-      "error": "404 Client Error: Not Found for url: https://www.ecdc.europa.eu/en/news-events/rss.xml"
+      "error": "403 Client Error: Forbidden for url: https://www.ecdc.europa.eu/en/news-events/rss.xml"
     },
     {
       "name": "FDA Vaccines / Biologics",
@@ -50,14 +50,14 @@
       "name": "EMA News",
       "url": "https://www.ema.europa.eu/en/news-rss",
       "status": "error",
-      "error": "404 Client Error: Not Found for url: https://www.ema.europa.eu/en/news-rss"
+      "error": "403 Client Error: Forbidden for url: https://www.ema.europa.eu/en/news-rss"
     },
     {
       "name": "MHRA",
       "url": "https://www.gov.uk/government/organisations/medicines-and-healthcare-products-regulatory-agency.atom",
       "status": "ok",
       "seen": 20,
-      "kept": 1
+      "kept": 0
     },
     {
       "name": "Health Canada Recalls and Safety Alerts",
@@ -81,14 +81,14 @@
       "name": "PAHO News",
       "url": "https://www.paho.org/en/rss.xml",
       "status": "ok",
-      "seen": 10,
+      "seen": 8,
       "kept": 1
     },
     {
       "name": "The Lancet series",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Athelancet.com%20(trial%20OR%20policy%20OR%20effectiveness%20OR%20safety)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -102,14 +102,14 @@
       "name": "NEJM",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Anejm.org%20(trial%20OR%20effectiveness%20OR%20policy%20OR%20safety)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
       "name": "BMJ",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abmj.com%20(policy%20OR%20trial%20OR%20effectiveness%20OR%20communication)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 17,
+      "seen": 16,
       "kept": 12
     },
     {
@@ -130,21 +130,21 @@
       "name": "Nature Medicine vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fnm%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20uptake%20OR%20policy)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 4,
+      "seen": 5,
       "kept": 0
     },
     {
       "name": "Nature Communications vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fncomms%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20surveillance)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 7,
+      "seen": 8,
       "kept": 0
     },
     {
       "name": "Nature Microbiology vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fnmicrobiol%20(effectiveness%20OR%20safety%20OR%20immunogenicity%20OR%20variant%20OR%20pathogen)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 2,
       "kept": 0
     },
     {
@@ -200,8 +200,8 @@
       "name": "JAMA Network Open vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjamanetworkopen%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
-      "kept": 0
+      "seen": 4,
+      "kept": 1
     },
     {
       "name": "JAMA Internal Medicine vaccines",
@@ -228,8 +228,8 @@
       "name": "medRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Amedrxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 3,
-      "kept": 2
+      "seen": 5,
+      "kept": 3
     },
     {
       "name": "bioRxiv vaccines",
@@ -242,70 +242,70 @@
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 15,
-      "kept": 1
+      "seen": 21,
+      "kept": 2
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 80,
-      "kept": 2
+      "seen": 97,
+      "kept": 1
     },
     {
       "name": "AP Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 67,
+      "seen": 95,
       "kept": 1
     },
     {
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 44,
+      "seen": 33,
       "kept": 1
     },
     {
       "name": "Financial Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aft.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 12,
+      "seen": 11,
       "kept": 0
     },
     {
       "name": "STAT Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 8,
+      "seen": 10,
       "kept": 0
     },
     {
       "name": "Nature News Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 11,
-      "kept": 2
+      "seen": 10,
+      "kept": 1
     },
     {
       "name": "Science Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Ascience.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 4,
+      "seen": 3,
       "kept": 0
     },
     {
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 29,
+      "seen": 20,
       "kept": 0
     },
     {
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 21,
+      "seen": 23,
       "kept": 0
     },
     {
@@ -326,36 +326,36 @@
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 54,
+      "seen": 48,
       "kept": 0
     },
     {
       "name": "朝日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Aasahi.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 10,
+      "seen": 9,
       "kept": 0
     },
     {
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 36,
+      "seen": 31,
       "kept": 1
     },
     {
       "name": "毎日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 6,
+      "seen": 8,
       "kept": 0
     },
     {
       "name": "JAMA Network vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
-      "kept": 0
+      "seen": 1,
+      "kept": 1
     },
     {
       "name": "JAMA Pediatrics vaccines",
@@ -389,7 +389,7 @@
       "name": "Emerging Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Awwwnc.cdc.gov%2Feid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
@@ -403,7 +403,7 @@
       "name": "PLOS journals vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajournals.plos.org%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20uptake%20OR%20policy)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 4,
+      "seen": 3,
       "kept": 3
     },
     {
@@ -424,7 +424,7 @@
       "name": "International Journal of Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aijidonline.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -459,21 +459,221 @@
       "name": "SSRN vaccine preprints",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Apapers.ssrn.com%20(effectiveness%20OR%20safety%20OR%20policy%20OR%20trial)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 1,
       "kept": 1
     }
   ],
   "weekly_ai_summary": {
-    "generated_at": "2026-05-31T22:10:25.227118+00:00",
+    "generated_at": "2026-06-01T23:07:18.494504+00:00",
     "period_days": 7,
     "policy_count": 4,
-    "academic_count": 10,
+    "academic_count": 12,
     "status": "ok",
     "model": "gpt-4o-mini",
     "policy_summary": "トランプ大統領が小児ワクチンの推奨範囲を狭めるよう政府機関に指示した。WHOはエボラ出血熱の流行中に治療薬とワクチンを特定した。",
-    "academic_summary": "米国の5歳未満の子供に対する新型コロナウイルス感染症ワクチンの有効性に関する研究が発表された。出生時のB型肝炎予防接種の安全性と公衆衛生上の利点についても新たな知見が得られた。"
+    "academic_summary": "英国で鳥インフルエンザに対するmRNAワクチンの治験が開始された。日本脳炎ワクチンに関するランダム化臨床試験が旅行者向けに実施されている。"
   },
   "items": [
+    {
+      "id": "49a4cbff5827c842",
+      "title": "要点: ハンタウイルス検疫最新情報、新型コロナウイルス感染症暴露後抗ウイルス薬、インフルエンザ/新型コロナウイルス混合ワクチン研究 - CIDRAP",
+      "summary": "要点: ハンタウイルス検疫の最新情報、新型コロナウイルス曝露後抗ウイルス薬、インフルエンザ/新型コロナウイルス混合ワクチン研究 CIDRAP",
+      "summary_ai": "要点: ハンタウイルス検疫の最新情報、新型コロナウイルス曝露後抗ウイルス薬、インフルエンザ/新型コロナウイルス混合ワクチン研究 CIDRAP",
+      "title_original": "Quick takes: Hantavirus quarantine update, new postexposure antiviral for COVID, combination flu/COVID vaccine study - CIDRAP",
+      "summary_original": "Quick takes: Hantavirus quarantine update, new postexposure antiviral for COVID, combination flu/COVID vaccine study CIDRAP",
+      "summary_ai_original": "Quick takes: Hantavirus quarantine update, new postexposure antiviral for COVID, combination flu/COVID vaccine study CIDRAP",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVzdOd3EybWk2V3NXeEIycU1SZ2RoZ3djc0I0d05fMngyY01yVktnRms3OVVfNUtXeGZZR3FwYTEyalQ1alhkRzJYWThGVzBxOVBuTXNBNjEwaEI3dWE0azBacjlnUXZvRVN4RFpfdzVPMTFXdklGM2I4Y0RFeFZrWFdOeHpITDhoOEpRZHFSZWdERjJ6Um5OUjVZNHE3NUFxRXhzcnZLc2pCZzNHVVNkVVQ2UFhBcFNQUC1GM3BB?oc=5",
+      "source": "CIDRAP Vaccines & Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 8,
+      "published_at": "2026-06-01T18:09:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "covid"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "CIDRAP / Minnesota"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "CIDRAP / Minnesota"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "CIDRAP Vaccines & Immunization"
+      ]
+    },
+    {
+      "id": "327f76a617d7f764",
+      "title": "鳥インフルエンザ：英国でmRNAワクチンの治験が始まる -",
+      "summary": "鳥インフルエンザ：mRNAワクチンの治験が英国で始まる",
+      "summary_ai": "鳥インフルエンザ：mRNAワクチンの治験が英国で始まる",
+      "title_original": "Bird flu: mRNA vaccine trial begins in UK - The",
+      "summary_original": "Bird flu: mRNA vaccine trial begins in UK The",
+      "summary_ai_original": "Bird flu: mRNA vaccine trial begins in UK The",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE52SVVSbmRkdkJoNEpfMGM5aTh5MTVBM3pfNVp4RmtyMFRNaTVFZVpGRzQ4WTFPRVFsRUVDaEozUWdYTmhidFEzZ0QtcDkzeTdEX1FXajExVkZ3c0JPMUE?oc=5",
+      "source": "BMJ",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-06-01T16:51:49+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "covid"
+      ],
+      "variants": [],
+      "target_country": "英国",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BMJ / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BMJ / London"
+        },
+        "target": {
+          "key": "uk",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "英国"
+        }
+      },
+      "location": {
+        "key": "uk",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "英国"
+      },
+      "region": "Europe",
+      "country": "英国",
+      "lat": 51.5074,
+      "lng": -0.1278,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "BMJ"
+      ]
+    },
+    {
+      "id": "a03f4a96e29ab141",
+      "title": "旅行者のための日本脳炎ワクチン決定支援ランダム化臨床試験",
+      "summary": "旅行者のための日本脳炎ワクチン決定支援ランダム化臨床試験",
+      "summary_ai": "旅行者のための日本脳炎ワクチン決定支援ランダム化臨床試験",
+      "title_original": "Japanese Encephalitis Vaccine Decision Aid for Travelers A Randomized Clinical Trial",
+      "summary_original": "Japanese Encephalitis Vaccine Decision Aid for Travelers A Randomized Clinical Trial",
+      "summary_ai_original": "Japanese Encephalitis Vaccine Decision Aid for Travelers A Randomized Clinical Trial",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5yZ2w3Z2Z1eUh1N2FuUENDUHY1NTd4U2tCTVpGSUg2Q2xZQXE2QjYyckNuUVdwcmpicnR1X3ZfbzdvWEJkWkRxLUFjSWJyTHRFTWlpTVgzVkM0SUZkVzJjcV9GWkwwY19weUhIbmNxRG9mNkgxcmxN?oc=5",
+      "source": "JAMA Network Open vaccines",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 9,
+      "published_at": "2026-06-01T16:30:52+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "JAMA Network Open"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "JAMA Network Open"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 2,
+      "duplicate_sources": [
+        "JAMA Network Open vaccines",
+        "JAMA Network vaccines"
+      ]
+    },
     {
       "id": "95a7a6c010b8a2c9",
       "title": "1 米国の5歳未満の子供に対する新型コロナウイルス感染症ワクチンの有効性：検査陰性例 - medRxiv",
@@ -536,7 +736,7 @@
       "country": "米国",
       "lat": 38.9072,
       "lng": -77.0369,
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "duplicate_sources": [
         "medRxiv vaccines"
       ]
@@ -812,73 +1012,6 @@
       ]
     },
     {
-      "id": "a4addb3522bb471e",
-      "title": "WHO、エボラ出血熱流行中、治療薬とワクチンを試験で特定 - ロイター",
-      "summary": "WHO、エボラ出血熱の治療法とワクチンを臨床試験で特定 ロイター",
-      "summary_ai": "WHO、エボラ出血熱の治療法とワクチンを臨床試験で特定 ロイター",
-      "title_original": "WHO identifies Ebola treatments, vaccines to be tested in trials amid outbreak - Reuters",
-      "summary_original": "WHO identifies Ebola treatments, vaccines to be tested in trials amid outbreak Reuters",
-      "summary_ai_original": "WHO identifies Ebola treatments, vaccines to be tested in trials amid outbreak Reuters",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNT2NpS0g2U0RhcjIxWnIzUE1lNUU3U290VnUtQTc5WGZtaVBDWFVJX1BDbFFWXzZHeEFFaHBhMXR6VEFlWkd1T3poMlZjS240Q1pBalBDRW42TlQ5YUpwb3c1TkhDeVJIdGZwczJHNG1CbGJrRE0zSl81MTJIbkI4SHVWUlBTUnZYcVpuenJ0bjUweHJmR1UtSFJXVzNvS3c2cmJ3U3U1U1ZhVU1ZZUw4a1JzaEtHS1EwRnFtT3IxNE5CYnpvSDJob3JCYjZ2RWpCdENLNkIxSmw1bzl5akE?oc=5",
-      "source": "Reuters Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-05-29T00:53:28+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [
-        "outbreak_response"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "Reuters"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "Reuters"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Reuters Vaccines / Immunization"
-      ]
-    },
-    {
       "id": "eb96e2fbe860986d",
       "title": "米国のワクチン政策の現状 — 2026 年 5 月 28 日 - CIDRAP",
       "summary": "米国のワクチン政策の現状 — 2026 年 5 月 28 日 CIDRAP",
@@ -941,6 +1074,73 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "CIDRAP Vaccines & Immunization"
+      ]
+    },
+    {
+      "id": "a4addb3522bb471e",
+      "title": "WHO、エボラ出血熱流行中、治療薬とワクチンを試験で特定 - ロイター",
+      "summary": "WHO、エボラ出血熱の治療法とワクチンを臨床試験で特定 ロイター",
+      "summary_ai": "WHO、エボラ出血熱の治療法とワクチンを臨床試験で特定 ロイター",
+      "title_original": "WHO identifies Ebola treatments, vaccines to be tested in trials amid outbreak - Reuters",
+      "summary_original": "WHO identifies Ebola treatments, vaccines to be tested in trials amid outbreak Reuters",
+      "summary_ai_original": "WHO identifies Ebola treatments, vaccines to be tested in trials amid outbreak Reuters",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNT2NpS0g2U0RhcjIxWnIzUE1lNUU3U290VnUtQTc5WGZtaVBDWFVJX1BDbFFWXzZHeEFFaHBhMXR6VEFlWkd1T3poMlZjS240Q1pBalBDRW42TlQ5YUpwb3c1TkhDeVJIdGZwczJHNG1CbGJrRE0zSl81MTJIbkI4SHVWUlBTUnZYcVpuenJ0bjUweHJmR1UtSFJXVzNvS3c2cmJ3U3U1U1ZhVU1ZZUw4a1JzaEtHS1EwRnFtT3IxNE5CYnpvSDJob3JCYjZ2RWpCdENLNkIxSmw1bzl5akE?oc=5",
+      "source": "Reuters Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-05-28T19:23:19+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [
+        "outbreak_response"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Reuters"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Reuters"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Reuters Vaccines / Immunization"
       ]
     },
     {
@@ -1013,13 +1213,80 @@
       ]
     },
     {
-      "id": "c065d4388ee886a6",
-      "title": "ウイルスゲノム監視を利用してワクチンの有効性を予測する",
-      "summary": "ウイルスゲノム監視を利用してワクチンの有効性を予測する",
-      "summary_ai": "ウイルスゲノム監視を利用してワクチンの有効性を予測する",
-      "title_original": "Utilizing virus genomic surveillance to predict vaccine effectiveness",
-      "summary_original": "Utilizing virus genomic surveillance to predict vaccine effectiveness",
-      "summary_ai_original": "Utilizing virus genomic surveillance to predict vaccine effectiveness",
+      "id": "229fb3d2cc3041df",
+      "title": "発症 SARS-CoV-2 感染症に対する BNT162b2 および mRNA-1273 covid-19 ワクチンの有効性 -",
+      "summary": "発症 SARS-CoV-2 感染症に対する BNT162b2 および mRNA-1273 covid-19 ワクチンの有効性",
+      "summary_ai": "発症 SARS-CoV-2 感染症に対する BNT162b2 および mRNA-1273 covid-19 ワクチンの有効性",
+      "title_original": "Effectiveness of BNT162b2 and mRNA-1273 covid-19 vaccines against symptomatic SARS-CoV-2 infection - The",
+      "summary_original": "Effectiveness of BNT162b2 and mRNA-1273 covid-19 vaccines against symptomatic SARS-CoV-2 infection The",
+      "summary_ai_original": "Effectiveness of BNT162b2 and mRNA-1273 covid-19 vaccines against symptomatic SARS-CoV-2 infection The",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE81WEpPLVFZeFo5V0lHcG5oOHk2eVVzcEZiaC1hVjlBZWRlYVNpT2NVSGxjZnZYRHJZc3BRVFZyNmx0Q21kWUJYMDdXbTJzUnVfbXRDZUI3Nld3Y2o1bkRKWlR5aTc?oc=5",
+      "source": "BMJ",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-05-28T04:12:07+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "covid"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BMJ / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BMJ / London"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "BMJ"
+      ]
+    },
+    {
+      "id": "a1c5b6c37b9ec7a3",
+      "title": "ウイルスゲノム監視を利用してワクチンの有効性を予測 | PLOS 計算生物学",
+      "summary": "ウイルスゲノム監視を利用してワクチンの有効性を予測 | PLOS 計算生物学",
+      "summary_ai": "ウイルスゲノム監視を利用してワクチンの有効性を予測 | PLOS 計算生物学",
+      "title_original": "Utilizing virus genomic surveillance to predict vaccine effectiveness | PLOS Computational Biology",
+      "summary_original": "Utilizing virus genomic surveillance to predict vaccine effectiveness | PLOS Computational Biology",
+      "summary_ai_original": "Utilizing virus genomic surveillance to predict vaccine effectiveness | PLOS Computational Biology",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRTU4NVFiNUxfeTE4Z2dCWG1JZ2twR3M2Tkx3LURnNjk2VzFqYXBZTEhwQ2FfbnRNNlJrLTdaTzhqR2NLSlJkZ19oaGs1SHpJdjQxX0pmWDR0SnphRkRMaFJpdjktZ3B4Z0F2UVRYSl9fZU40MTRFTXZYNERac1BVZzJxNmN1bXhZWEt6emo3c2NQaHM?oc=5",
       "source": "PLOS journals vaccines",
@@ -1343,73 +1610,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "Human Vaccines & Immunotherapeutics"
-      ]
-    },
-    {
-      "id": "327f76a617d7f764",
-      "title": "鳥インフルエンザ：英国でmRNAワクチンの治験が始まる -",
-      "summary": "鳥インフルエンザ：mRNAワクチンの治験が英国で始まる",
-      "summary_ai": "鳥インフルエンザ：mRNAワクチンの治験が英国で始まる",
-      "title_original": "Bird flu: mRNA vaccine trial begins in UK - The",
-      "summary_original": "Bird flu: mRNA vaccine trial begins in UK The",
-      "summary_ai_original": "Bird flu: mRNA vaccine trial begins in UK The",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE52SVVSbmRkdkJoNEpfMGM5aTh5MTVBM3pfNVp4RmtyMFRNaTVFZVpGRzQ4WTFPRVFsRUVDaEozUWdYTmhidFEzZ0QtcDkzeTdEX1FXajExVkZ3c0JPMUE?oc=5",
-      "source": "BMJ",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-05-26T05:19:02+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "covid"
-      ],
-      "variants": [],
-      "target_country": "英国",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BMJ / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BMJ / London"
-        },
-        "target": {
-          "key": "uk",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "英国"
-        }
-      },
-      "location": {
-        "key": "uk",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "英国"
-      },
-      "region": "Europe",
-      "country": "英国",
-      "lat": 51.5074,
-      "lng": -0.1278,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "BMJ"
       ]
     },
     {
@@ -1945,75 +2145,6 @@
       ]
     },
     {
-      "id": "c8742c3ff65bb074",
-      "title": "米FDA、モデルナのインフルエンザワクチン検討のため専門委員会開催へ - ロイター",
-      "summary": "米FDA、モデルナのインフルエンザワクチン検討のため専門委員会開催へ Reuters",
-      "summary_ai": "米FDA、モデルナのインフルエンザワクチン検討のため専門委員会開催へ Reuters",
-      "title_original": "US FDA to hold expert committee meeting to review Moderna's flu vaccine - Reuters",
-      "summary_original": "US FDA to hold expert committee meeting to review Moderna's flu vaccine Reuters",
-      "summary_ai_original": "US FDA to hold expert committee meeting to review Moderna's flu vaccine Reuters",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONTR4ZzhjLW5lei1oYU5KQzV4SFJ5MnNWbDE5RENBQkk2Mk9NNEhoZXJFUk5YZVpfVUlVV3YxN0ZUYzRKVWpmeUNESEN2UkpGTnJiU0pGNklkQ3pQb3VQa1I2U2JVNEpCSHRlMU5TdnpVNkxqUk4tb2lpWEl5ZV9HN3FrZXZ1OExLdmQxeW5SV0F6UEJaMENkU0RDLVZISmtEWFlXWVp1NG02NVhMc1Q1dkdJNUhUd0t5d3dyMG5SRnJhY2lfVi1iU09jbEtLLTVDaXc?oc=5",
-      "source": "Reuters Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-05-21T07:00:00+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [
-        "recommendation"
-      ],
-      "vaccines": [
-        "influenza"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "Reuters"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "Reuters"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Reuters Vaccines / Immunization"
-      ]
-    },
-    {
       "id": "67cd4e618e65d2ce",
       "title": "ネパールにおける新型コロナウイルス感染症（COVID-19）ワクチンの有効性と変異種：試験のための研究プロトコル - BMJ Open",
       "summary": "ネパールにおける新型コロナウイルス感染症（COVID-19）ワクチンの有効性と変異種：試験のための研究プロトコル BMJ Open",
@@ -2213,75 +2344,6 @@
       ]
     },
     {
-      "id": "ab36732ef63782eb",
-      "title": "アミオダロン: 治療のリスクと患者の監視と監督の必要性を思い出させます",
-      "summary": "アミオダロンは、特に肺、肝臓、甲状腺における重篤で潜在的に生命を脅かす副作用と関連しています。私たちは医療従事者に対し、治療中は患者を監督し、定期的に検査する必要があることを思い出させます。肺の問題はゆっくりと発症する場合もありますが、その後急速に進行します。コンピューター断層撮影スキャンは、肺毒性の疑いのある診断を確認するのに役立つ場合があります。",
-      "summary_ai": "このカードには、アミオダロンによる治療中に発生する可能性のある最も重篤で生命を脅かす可能性のある副作用 (およびその症状)に関する重要な情報が含まれており、また患者に薬物相互作用の可能性を思い出させます。医療従事者へのアドバイス: - アミオダロンは深刻な広告を引き起こす可能性があります",
-      "title_original": "Amiodarone: reminder of risks of treatment and need for patient monitoring and supervision",
-      "summary_original": "Amiodarone has been associated with serious and potentially life-threatening side effects, particularly of the lung, liver, and thyroid gland. We remind healthcare professionals that patients should be supervised and reviewed regularly during treatment. Lung problems may have slow onset but then progress rapidly. Computerised tomography scans may help to confirm a suspected diagnosis of pulmonary toxicity.",
-      "summary_ai_original": "This card includes important information on the most serious and potentially life-threatening side-effects (and their symptoms) that may occur during treatment with amiodarone and also reminds patients of the potential for drug to drug interactions. Advice for healthcare professionals: - amiodarone can cause serious ad",
-      "article_text_original": "Post-publication note: May 2022 A patient card is available for all patients that take amiodarone. This card includes important information on the most serious and potentially life-threatening side-effects (and their symptoms) that may occur during treatment with amiodarone and also reminds patients of the potential for drug to drug interactions. Advice for healthcare professionals: - amiodarone can cause serious adverse reactions affecting the eyes, heart, lung, liver, thyroid gland, skin, and peripheral nervous system - review regularly patients on long-term amiodarone treatment – some of these reactions may be life-threatening but onset can be delayed - check liver and thyroid function before treatment, and at 6-monthly intervals; thyroid function should also be monitored for several months after discontinuation - although routine lung imaging is not necessary in patients taking amiodarone long-term, make patients aware of the need to seek advice if they have new or worsening respiratory symptoms and consider using computerised tomography (CT) scans if pulmonary toxicity is suspected - report suspected adverse drug reactions associated with amiodarone on a Yellow Card Advice for healthcare professionals to give to patients and carers: - amiodarone is used to treat serious heart conditions in which your heart beats unevenly or too fast - always read the Patient Information Leaflet provided with your medicines and follow the advice on other medicines to avoid and what to do if you have a side effect - your doctor may perform tests of your blood, lungs, heartbeat, and eyes before and during treatment – it’s important to have these tests because they can identify if there’s a problem - stop taking amiodarone and see a doctor or go to a hospital straight away if you experience any of the following during treatment or in the period after stopping amiodarone: - new or worsening shortness of breath or coughing that will not go away - yellowing of the skin or eyes (jaundice), feeling tired or sick, loss of appetite, stomach pain, or high temperature - weakness, weight loss or weight gain, heat or cold intolerance, hair thinning, sweating, changes in menstrual periods, swelling of the neck (goitre), nervousness, irritability, restlessness, or decreased concentration - your heartbeat becomes even more uneven or erratic, or becomes very slow - any loss of eyesight Amiodarone and risk of toxicity Amiodarone is used to treat certain types of abnormal heart rhythm, including atrial fibrillation and tachyarrhythmias. Amiodarone is generally reserved for situations when other treatments cannot be used or have failed. Treatment should be initiated and monitored under hospital or specialist supervision and in accordance with clinical guidance. Amiodarone is associated with serious adverse effects in several organ systems including the eyes, gastrointestinal tract, nerves, skin, thyroid, lungs, heart, and liver. Amiodarone interacts with many medications, and advice in the relevant section of the Summary of Product Characteristics (SmPC) should be strictly followed. Amiodarone has a long plasma half-life of around 50 days, meaning that any adverse effects may persist for a month (or more) after treatment has stopped. The SmPC for amiodarone contains extensive warnings and precautions. Patients must be monitored closely during treatment. Adverse effects of amiodarone on the lung Amiodarone can commonly cause lung inflammation (pneumonitis). In some cases, this inflammation can progress to more serious thickening or scarring (fibrosis), which can be life-threatening. Patients should be carefully evaluated clinically, and consideration given to chest X-rays before starting therapy. Symptoms of pulmonary toxicity can include shortness of breath (which may be severe and unexplained by the current cardiac status), non-productive cough, and general health deterioration (fatigue, weight loss, and fever). Pulmonary toxicity is usually (but not always) reversible following early withdrawal of amiodarone therapy, with or without corticosteroid therapy. The MHRA has received a report from a Coroner following the death by multi-organ failure of a woman who had been treated with amiodarone for approximately 5 years and who developed pneumonia during treatment. The Coroner raised a concern that there is no requirement for lung imaging to be undertaken when patients are prescribed amiodarone on a long-term basis. The MHRA has conducted a review of this issue and sought independent expert advice from the Pharmacovigilance and Cardiovascular, Diabetes, Renal, Respiratory and Allergy Expert Advisory Groups of the Commission on Human Medicines. Updated advice on lung imaging during amiodarone treatment Experts involved in our review advised that regular lung imaging during treatment may expose patients to excessive radiation, be alarming for patients, and was unnecessary given that patient-reported worsening of respiratory function is usually a good first indicator of pulmonary toxicity. For this reason, it is important that patients know the symptoms of pulmonary toxicity of which to be aware and the fact this can be serious and may happen at any time during treatment (or in the month after stopping treatment). The Patient Information Leaflet is being updated to emphasise that respiratory symptoms may get progressively worse and can happen at any time after starting treatment. Additionally, the SmPC for healthcare professionals is being updated to emphasise that computerised tomography (CT) scans are more specific than X-rays and may be therefore more helpful in confirming a suspected diagnosis of lung toxicity. Reminder on thyroid function monitoring Amiodarone treatment can commonly lead to hypothyroidism or hyperthyroidism, particularly in patients with a personal history of thyroid disorders in whom treatment is contraindicated. Thyroid-test levels should be checked before starting treatment, at 6-monthly intervals, and for several months following treatment discontinuation. Regular assessment is recommended in patients whose medical history indicates an increased risk of thyroid dysfunction. Report suspected adverse drug reactions Healthcare professionals, patients, and caregivers are asked to submit reports using the Yellow Card scheme electronically using: When reporting please provide as much information as possible, including information about batch numbers, medical history, any concomitant medication, onset timing, treatment dates, and product brand name. Report suspected side effects to medicines, vaccines or medical device and diagnostic adverse incidents used in coronavirus (COVID-19) using the dedicated Coronavirus Yellow Card reporting site or the Yellow Card app. See the MHRA website for the latest information on medicines and vaccines for COVID-19. Article citation: Drug Safety Update volume 15, issue 8: March 2022: 2.",
-      "link": "https://www.gov.uk/drug-safety-update/amiodarone-cordarone-x-reminder-of-risks-of-treatment-and-need-for-patient-monitoring-and-supervision",
-      "source": "MHRA",
-      "source_type": "official",
-      "source_tier": "Tier 1",
-      "source_priority": 8,
-      "published_at": "2026-05-20T14:48:04+00:00",
-      "topics": [
-        "policy",
-        "research"
-      ],
-      "policy_tags": [
-        "recommendation",
-        "safety"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "MHRA / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "MHRA / London"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "MHRA"
-      ]
-    },
-    {
       "id": "08fa027f0aece9ef",
       "title": "肺炎による死亡者の９７．８％が高齢者 ＲＳウイルス、肺炎球菌…４月以降の予防接種スケジュールは？ - 読売新聞",
       "summary": "肺炎による死亡者の９７．８％が高齢者 ＲＳウイルス、肺炎球菌…４月以降の予防接種スケジュールは？ 読売新聞",
@@ -2346,141 +2408,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "読売新聞 ワクチン / 予防接種"
-      ]
-    },
-    {
-      "id": "5afa85701e2965f9",
-      "title": "ワクチンコミュニケーション: 基礎、課題、将来の方向性についての批判的なレビュー",
-      "summary": "ワクチンコミュニケーション: 基礎、課題、将来の方向性についての批判的なレビュー",
-      "summary_ai": "ワクチンコミュニケーション: 基礎、課題、将来の方向性についての批判的なレビュー",
-      "title_original": "Vaccine communication: a critical review of foundations, challenges, and future directions",
-      "summary_original": "Vaccine communication: a critical review of foundations, challenges, and future directions",
-      "summary_ai_original": "Vaccine communication: a critical review of foundations, challenges, and future directions",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hUnAtdG1IN2JaWUt3c0FCb3pxdDRhc2Zsa1lYWW5hdlZPeDV5LXF3SEdNT3p1SXdramNVeEF4ZU40a1RoaEFjekZIRWd5TUtZMGE5cE80WVN0eVJqeWFv?oc=5",
-      "source": "Nature News Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 5,
-      "published_at": "2026-05-18T07:00:00+00:00",
-      "topics": [
-        "communication"
-      ],
-      "policy_tags": [
-        "communication"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "Nature News"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "Nature News"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Nature News Vaccines / Immunization"
-      ]
-    },
-    {
-      "id": "470c64cc8e301bbe",
-      "title": "医療従事者と患者のワクチン会話の変革: 推定コミュニケーショントレーニングに関するランダム化試験 - BMJ リーダー",
-      "summary": "医療従事者と患者のワクチン会話の変革: 推定コミュニケーショントレーニングに関するランダム化試験 BMJ リーダー",
-      "summary_ai": "医療従事者と患者のワクチン会話の変革: 推定コミュニケーショントレーニングに関するランダム化試験 BMJ リーダー",
-      "title_original": "Transforming provider–patient vaccine conversations: a randomised trial on presumptive communication training - BMJ Leader",
-      "summary_original": "Transforming provider–patient vaccine conversations: a randomised trial on presumptive communication training BMJ Leader",
-      "summary_ai_original": "Transforming provider–patient vaccine conversations: a randomised trial on presumptive communication training BMJ Leader",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVWduRTA5bjdLTkU2WkNjQVJIcUxyNlRBdkpXUGJWMFlGOHZ3WXZ3SmFXNXpLZnpGZ0QtVFpCUzVRNGpsMzd5Mk5sMEE5TFJTNjJybXR1anZKYS1YWVRyaHZyWVUyV1NudUppN3diVzNqM3ZKVTlBWE4zaFlIMzFwc3E0U1E0czdxWXJuVDN3?oc=5",
-      "source": "BMJ",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-05-18T00:30:29+00:00",
-      "topics": [
-        "communication",
-        "research"
-      ],
-      "policy_tags": [
-        "communication"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BMJ / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BMJ / London"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "BMJ"
       ]
     }
   ]

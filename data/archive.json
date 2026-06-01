@@ -1,10 +1,215 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-05-31T22:10:25.227118+00:00",
-  "archive_count": 261,
+  "generated_at": "2026-06-01T23:07:18.494504+00:00",
+  "archive_count": 263,
   "days_back": 14,
   "items": [
+    {
+      "id": "49a4cbff5827c842",
+      "title": "要点: ハンタウイルス検疫最新情報、新型コロナウイルス感染症暴露後抗ウイルス薬、インフルエンザ/新型コロナウイルス混合ワクチン研究 - CIDRAP",
+      "summary": "要点: ハンタウイルス検疫の最新情報、新型コロナウイルス曝露後抗ウイルス薬、インフルエンザ/新型コロナウイルス混合ワクチン研究 CIDRAP",
+      "summary_ai": "要点: ハンタウイルス検疫の最新情報、新型コロナウイルス曝露後抗ウイルス薬、インフルエンザ/新型コロナウイルス混合ワクチン研究 CIDRAP",
+      "title_original": "Quick takes: Hantavirus quarantine update, new postexposure antiviral for COVID, combination flu/COVID vaccine study - CIDRAP",
+      "summary_original": "Quick takes: Hantavirus quarantine update, new postexposure antiviral for COVID, combination flu/COVID vaccine study CIDRAP",
+      "summary_ai_original": "Quick takes: Hantavirus quarantine update, new postexposure antiviral for COVID, combination flu/COVID vaccine study CIDRAP",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVzdOd3EybWk2V3NXeEIycU1SZ2RoZ3djc0I0d05fMngyY01yVktnRms3OVVfNUtXeGZZR3FwYTEyalQ1alhkRzJYWThGVzBxOVBuTXNBNjEwaEI3dWE0azBacjlnUXZvRVN4RFpfdzVPMTFXdklGM2I4Y0RFeFZrWFdOeHpITDhoOEpRZHFSZWdERjJ6Um5OUjVZNHE3NUFxRXhzcnZLc2pCZzNHVVNkVVQ2UFhBcFNQUC1GM3BB?oc=5",
+      "source": "CIDRAP Vaccines & Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 8,
+      "published_at": "2026-06-01T18:09:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "covid"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "CIDRAP / Minnesota"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "CIDRAP / Minnesota"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "CIDRAP Vaccines & Immunization"
+      ],
+      "first_seen_at": "2026-06-01T18:09:00+00:00",
+      "last_seen_at": "2026-06-01T23:08:58.714615+00:00"
+    },
+    {
+      "id": "327f76a617d7f764",
+      "title": "鳥インフルエンザ：英国でmRNAワクチンの治験が始まる -",
+      "summary": "鳥インフルエンザ：mRNAワクチンの治験が英国で始まる",
+      "summary_ai": "鳥インフルエンザ：mRNAワクチンの治験が英国で始まる",
+      "title_original": "Bird flu: mRNA vaccine trial begins in UK - The",
+      "summary_original": "Bird flu: mRNA vaccine trial begins in UK The",
+      "summary_ai_original": "Bird flu: mRNA vaccine trial begins in UK The",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE52SVVSbmRkdkJoNEpfMGM5aTh5MTVBM3pfNVp4RmtyMFRNaTVFZVpGRzQ4WTFPRVFsRUVDaEozUWdYTmhidFEzZ0QtcDkzeTdEX1FXajExVkZ3c0JPMUE?oc=5",
+      "source": "BMJ",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-06-01T16:51:49+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "covid"
+      ],
+      "variants": [],
+      "target_country": "英国",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BMJ / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BMJ / London"
+        },
+        "target": {
+          "key": "uk",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "英国"
+        }
+      },
+      "location": {
+        "key": "uk",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "英国"
+      },
+      "region": "Europe",
+      "country": "英国",
+      "lat": 51.5074,
+      "lng": -0.1278,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "BMJ"
+      ],
+      "first_seen_at": "2026-05-09T23:54:00+00:00",
+      "last_seen_at": "2026-06-01T23:08:58.714632+00:00"
+    },
+    {
+      "id": "a03f4a96e29ab141",
+      "title": "旅行者のための日本脳炎ワクチン決定支援ランダム化臨床試験",
+      "summary": "旅行者のための日本脳炎ワクチン決定支援ランダム化臨床試験",
+      "summary_ai": "旅行者のための日本脳炎ワクチン決定支援ランダム化臨床試験",
+      "title_original": "Japanese Encephalitis Vaccine Decision Aid for Travelers A Randomized Clinical Trial",
+      "summary_original": "Japanese Encephalitis Vaccine Decision Aid for Travelers A Randomized Clinical Trial",
+      "summary_ai_original": "Japanese Encephalitis Vaccine Decision Aid for Travelers A Randomized Clinical Trial",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5yZ2w3Z2Z1eUh1N2FuUENDUHY1NTd4U2tCTVpGSUg2Q2xZQXE2QjYyckNuUVdwcmpicnR1X3ZfbzdvWEJkWkRxLUFjSWJyTHRFTWlpTVgzVkM0SUZkVzJjcV9GWkwwY19weUhIbmNxRG9mNkgxcmxN?oc=5",
+      "source": "JAMA Network Open vaccines",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 9,
+      "published_at": "2026-06-01T16:30:52+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "JAMA Network Open"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "JAMA Network Open"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "JAMA Network Open vaccines"
+      ],
+      "first_seen_at": "2026-06-01T16:30:52+00:00",
+      "last_seen_at": "2026-06-01T23:08:58.714635+00:00"
+    },
     {
       "id": "95a7a6c010b8a2c9",
       "title": "1 米国の5歳未満の子供に対する新型コロナウイルス感染症ワクチンの有効性：検査陰性例 - medRxiv",
@@ -72,7 +277,7 @@
         "medRxiv vaccines"
       ],
       "first_seen_at": "2026-05-30T21:51:03+00:00",
-      "last_seen_at": "2026-05-31T22:12:03.474682+00:00"
+      "last_seen_at": "2026-06-01T23:08:58.714643+00:00"
     },
     {
       "id": "9c560166a39756d7",
@@ -139,12 +344,12 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicate_sources": [
         "BMJ"
       ],
       "first_seen_at": "2026-05-30T13:54:14+00:00",
-      "last_seen_at": "2026-05-31T22:12:03.474692+00:00"
+      "last_seen_at": "2026-06-01T23:08:58.714649+00:00"
     },
     {
       "id": "a7a9770ff5fcee3d",
@@ -214,7 +419,7 @@
         "AP Vaccines / Immunization"
       ],
       "first_seen_at": "2026-05-30T01:18:00+00:00",
-      "last_seen_at": "2026-05-31T22:12:03.474695+00:00"
+      "last_seen_at": "2026-06-01T23:08:58.714655+00:00"
     },
     {
       "id": "d5530f0d05eb33db",
@@ -283,7 +488,7 @@
         "Pediatrics journal"
       ],
       "first_seen_at": "2026-05-29T11:20:15+00:00",
-      "last_seen_at": "2026-05-31T22:12:03.474698+00:00"
+      "last_seen_at": "2026-06-01T23:08:58.714661+00:00"
     },
     {
       "id": "6371aa09a0cc0d63",
@@ -350,76 +555,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-05-09T13:24:35+00:00",
-      "last_seen_at": "2026-05-31T22:12:03.474707+00:00"
-    },
-    {
-      "id": "a4addb3522bb471e",
-      "title": "WHO、エボラ出血熱流行中、治療薬とワクチンを試験で特定 - ロイター",
-      "summary": "WHO、エボラ出血熱の治療法とワクチンを臨床試験で特定 ロイター",
-      "summary_ai": "WHO、エボラ出血熱の治療法とワクチンを臨床試験で特定 ロイター",
-      "title_original": "WHO identifies Ebola treatments, vaccines to be tested in trials amid outbreak - Reuters",
-      "summary_original": "WHO identifies Ebola treatments, vaccines to be tested in trials amid outbreak Reuters",
-      "summary_ai_original": "WHO identifies Ebola treatments, vaccines to be tested in trials amid outbreak Reuters",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNT2NpS0g2U0RhcjIxWnIzUE1lNUU3U290VnUtQTc5WGZtaVBDWFVJX1BDbFFWXzZHeEFFaHBhMXR6VEFlWkd1T3poMlZjS240Q1pBalBDRW42TlQ5YUpwb3c1TkhDeVJIdGZwczJHNG1CbGJrRE0zSl81MTJIbkI4SHVWUlBTUnZYcVpuenJ0bjUweHJmR1UtSFJXVzNvS3c2cmJ3U3U1U1ZhVU1ZZUw4a1JzaEtHS1EwRnFtT3IxNE5CYnpvSDJob3JCYjZ2RWpCdENLNkIxSmw1bzl5akE?oc=5",
-      "source": "Reuters Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-05-29T00:53:28+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [
-        "outbreak_response"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "Reuters"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "Reuters"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Reuters Vaccines / Immunization"
-      ],
-      "first_seen_at": "2026-05-28T19:21:00+00:00",
-      "last_seen_at": "2026-05-31T22:12:03.474714+00:00"
+      "last_seen_at": "2026-06-01T23:08:58.714668+00:00"
     },
     {
       "id": "eb96e2fbe860986d",
@@ -486,7 +622,76 @@
         "CIDRAP Vaccines & Immunization"
       ],
       "first_seen_at": "2026-05-28T20:15:25+00:00",
-      "last_seen_at": "2026-05-31T22:12:03.474720+00:00"
+      "last_seen_at": "2026-06-01T23:08:58.714674+00:00"
+    },
+    {
+      "id": "a4addb3522bb471e",
+      "title": "WHO、エボラ出血熱流行中、治療薬とワクチンを試験で特定 - ロイター",
+      "summary": "WHO、エボラ出血熱の治療法とワクチンを臨床試験で特定 ロイター",
+      "summary_ai": "WHO、エボラ出血熱の治療法とワクチンを臨床試験で特定 ロイター",
+      "title_original": "WHO identifies Ebola treatments, vaccines to be tested in trials amid outbreak - Reuters",
+      "summary_original": "WHO identifies Ebola treatments, vaccines to be tested in trials amid outbreak Reuters",
+      "summary_ai_original": "WHO identifies Ebola treatments, vaccines to be tested in trials amid outbreak Reuters",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNT2NpS0g2U0RhcjIxWnIzUE1lNUU3U290VnUtQTc5WGZtaVBDWFVJX1BDbFFWXzZHeEFFaHBhMXR6VEFlWkd1T3poMlZjS240Q1pBalBDRW42TlQ5YUpwb3c1TkhDeVJIdGZwczJHNG1CbGJrRE0zSl81MTJIbkI4SHVWUlBTUnZYcVpuenJ0bjUweHJmR1UtSFJXVzNvS3c2cmJ3U3U1U1ZhVU1ZZUw4a1JzaEtHS1EwRnFtT3IxNE5CYnpvSDJob3JCYjZ2RWpCdENLNkIxSmw1bzl5akE?oc=5",
+      "source": "Reuters Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-05-28T19:23:19+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [
+        "outbreak_response"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Reuters"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Reuters"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Reuters Vaccines / Immunization"
+      ],
+      "first_seen_at": "2026-05-28T19:21:00+00:00",
+      "last_seen_at": "2026-06-01T23:08:58.714679+00:00"
     },
     {
       "id": "f0fa40f766fc3215",
@@ -557,7 +762,7 @@
         "Nature News Vaccines / Immunization"
       ],
       "first_seen_at": "2026-05-28T18:35:54+00:00",
-      "last_seen_at": "2026-05-31T22:12:03.474727+00:00"
+      "last_seen_at": "2026-06-01T23:08:58.714684+00:00"
     },
     {
       "id": "229fb3d2cc3041df",
@@ -626,7 +831,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-05-28T04:12:07+00:00",
-      "last_seen_at": "2026-05-30T22:11:58.601516+00:00"
+      "last_seen_at": "2026-06-01T23:08:58.714689+00:00"
     },
     {
       "id": "6d8dcd80e5f23865",
@@ -896,7 +1101,7 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "duplicate_sources": [
         "PLOS journals vaccines"
       ],
@@ -970,7 +1175,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-05-26T18:28:49+00:00",
-      "last_seen_at": "2026-05-31T22:12:03.474740+00:00"
+      "last_seen_at": "2026-06-01T23:08:58.714697+00:00"
     },
     {
       "id": "a32fc0e6deabd231",
@@ -1039,7 +1244,7 @@
         "PLOS journals vaccines"
       ],
       "first_seen_at": "2026-05-26T18:24:47+00:00",
-      "last_seen_at": "2026-05-31T22:12:03.474745+00:00"
+      "last_seen_at": "2026-06-01T23:08:58.714702+00:00"
     },
     {
       "id": "774168a4a8a2c477",
@@ -1106,7 +1311,7 @@
         "Journal of Infectious Diseases"
       ],
       "first_seen_at": "2026-05-26T07:00:00+00:00",
-      "last_seen_at": "2026-05-31T22:12:03.474751+00:00"
+      "last_seen_at": "2026-06-01T23:08:58.714707+00:00"
     },
     {
       "id": "9c382688e64b3a58",
@@ -1246,76 +1451,7 @@
         "Human Vaccines & Immunotherapeutics"
       ],
       "first_seen_at": "2026-05-26T05:24:33+00:00",
-      "last_seen_at": "2026-05-31T22:12:03.474757+00:00"
-    },
-    {
-      "id": "327f76a617d7f764",
-      "title": "鳥インフルエンザ：英国でmRNAワクチンの治験が始まる -",
-      "summary": "鳥インフルエンザ：mRNAワクチンの治験が英国で始まる",
-      "summary_ai": "鳥インフルエンザ：mRNAワクチンの治験が英国で始まる",
-      "title_original": "Bird flu: mRNA vaccine trial begins in UK - The",
-      "summary_original": "Bird flu: mRNA vaccine trial begins in UK The",
-      "summary_ai_original": "Bird flu: mRNA vaccine trial begins in UK The",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE52SVVSbmRkdkJoNEpfMGM5aTh5MTVBM3pfNVp4RmtyMFRNaTVFZVpGRzQ4WTFPRVFsRUVDaEozUWdYTmhidFEzZ0QtcDkzeTdEX1FXajExVkZ3c0JPMUE?oc=5",
-      "source": "BMJ",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-05-26T05:19:02+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "covid"
-      ],
-      "variants": [],
-      "target_country": "英国",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BMJ / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BMJ / London"
-        },
-        "target": {
-          "key": "uk",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "英国"
-        }
-      },
-      "location": {
-        "key": "uk",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "英国"
-      },
-      "region": "Europe",
-      "country": "英国",
-      "lat": 51.5074,
-      "lng": -0.1278,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "BMJ"
-      ],
-      "first_seen_at": "2026-05-09T23:54:00+00:00",
-      "last_seen_at": "2026-05-31T22:12:03.474762+00:00"
+      "last_seen_at": "2026-06-01T23:08:58.714713+00:00"
     },
     {
       "id": "baff36ef808ad474",
@@ -1384,7 +1520,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-03-24T04:01:03+00:00",
-      "last_seen_at": "2026-05-31T22:12:03.474766+00:00"
+      "last_seen_at": "2026-06-01T23:08:58.714719+00:00"
     },
     {
       "id": "a661e1de7d05fcf4",
@@ -1451,7 +1587,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-03-19T00:51:35+00:00",
-      "last_seen_at": "2026-05-31T22:12:03.474771+00:00"
+      "last_seen_at": "2026-06-01T23:08:58.714724+00:00"
     },
     {
       "id": "d0b2dd2e7b50ad55",
@@ -1585,7 +1721,7 @@
         "EBioMedicine vaccines"
       ],
       "first_seen_at": "2026-05-22T23:30:13+00:00",
-      "last_seen_at": "2026-05-31T22:12:03.474781+00:00"
+      "last_seen_at": "2026-06-01T23:08:58.714732+00:00"
     },
     {
       "id": "50b6ecc93ecab108",
@@ -1797,7 +1933,7 @@
         "BBC Vaccines / Immunization"
       ],
       "first_seen_at": "2026-05-22T15:03:51+00:00",
-      "last_seen_at": "2026-05-31T22:12:03.474787+00:00"
+      "last_seen_at": "2026-06-01T23:08:58.714738+00:00"
     },
     {
       "id": "f491e761e1c98044",
@@ -1866,7 +2002,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-03-11T03:59:50+00:00",
-      "last_seen_at": "2026-05-31T22:12:03.474792+00:00"
+      "last_seen_at": "2026-06-01T23:08:58.714742+00:00"
     },
     {
       "id": "1668f7cd7d63b946",
@@ -2004,7 +2140,7 @@
         "PLOS journals vaccines"
       ],
       "first_seen_at": "2026-05-21T19:22:01+00:00",
-      "last_seen_at": "2026-05-31T22:12:03.474798+00:00"
+      "last_seen_at": "2026-06-01T23:08:58.714748+00:00"
     },
     {
       "id": "78df80894de669cf",
@@ -2077,7 +2213,7 @@
         "PAHO News"
       ],
       "first_seen_at": "2026-05-21T18:21:31+00:00",
-      "last_seen_at": "2026-05-31T22:12:03.474804+00:00"
+      "last_seen_at": "2026-06-01T23:08:58.714754+00:00"
     },
     {
       "id": "058f1c0d12382a00",
@@ -2420,7 +2556,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-03-30T05:02:37+00:00",
-      "last_seen_at": "2026-05-31T22:12:03.474814+00:00"
+      "last_seen_at": "2026-06-01T23:08:58.714760+00:00"
     },
     {
       "id": "c66e7cbac541dc23",
@@ -2491,7 +2627,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-03-21T20:12:40+00:00",
-      "last_seen_at": "2026-05-31T22:12:03.474819+00:00"
+      "last_seen_at": "2026-06-01T23:08:58.714766+00:00"
     },
     {
       "id": "196a519fa556f2ac",
@@ -2558,7 +2694,7 @@
         "SSRN vaccine preprints"
       ],
       "first_seen_at": "2026-05-20T21:30:26+00:00",
-      "last_seen_at": "2026-05-31T22:12:03.474823+00:00"
+      "last_seen_at": "2026-06-01T23:08:58.714770+00:00"
     },
     {
       "id": "9d62d1e2ce978c8e",
@@ -2765,7 +2901,7 @@
         "読売新聞 ワクチン / 予防接種"
       ],
       "first_seen_at": "2026-04-15T07:00:00+00:00",
-      "last_seen_at": "2026-05-31T22:12:03.474834+00:00"
+      "last_seen_at": "2026-06-01T23:08:58.714776+00:00"
     },
     {
       "id": "558aa72821ab3b00",
