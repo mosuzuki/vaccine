@@ -1,9 +1,9 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-06-03T23:09:06.780955+00:00",
-  "item_count": 28,
-  "archive_count": 269,
+  "generated_at": "2026-06-04T22:41:39.390558+00:00",
+  "item_count": 29,
+  "archive_count": 271,
   "days_back": 14,
   "plot_mode_default": "source",
   "feed_status": [
@@ -23,7 +23,7 @@
       "name": "CDC Newsroom",
       "url": "https://tools.cdc.gov/api/v2/resources/media/316422.rss",
       "status": "ok",
-      "seen": 12,
+      "seen": 11,
       "kept": 0
     },
     {
@@ -81,7 +81,7 @@
       "name": "PAHO News",
       "url": "https://www.paho.org/en/rss.xml",
       "status": "ok",
-      "seen": 7,
+      "seen": 6,
       "kept": 2
     },
     {
@@ -102,14 +102,14 @@
       "name": "NEJM",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Anejm.org%20(trial%20OR%20effectiveness%20OR%20policy%20OR%20safety)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 2,
       "kept": 0
     },
     {
       "name": "BMJ",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abmj.com%20(policy%20OR%20trial%20OR%20effectiveness%20OR%20communication)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 15,
+      "seen": 14,
       "kept": 9
     },
     {
@@ -130,14 +130,14 @@
       "name": "Nature Medicine vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fnm%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20uptake%20OR%20policy)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 2,
       "kept": 0
     },
     {
       "name": "Nature Communications vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fncomms%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20surveillance)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 5,
+      "seen": 3,
       "kept": 0
     },
     {
@@ -200,14 +200,14 @@
       "name": "JAMA Network Open vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjamanetworkopen%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 4,
+      "seen": 3,
       "kept": 1
     },
     {
       "name": "JAMA Internal Medicine vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjamainternalmedicine%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
@@ -228,8 +228,8 @@
       "name": "medRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Amedrxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
-      "kept": 0
+      "seen": 5,
+      "kept": 3
     },
     {
       "name": "bioRxiv vaccines",
@@ -242,42 +242,42 @@
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 22,
+      "seen": 24,
       "kept": 3
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 40,
+      "seen": 21,
       "kept": 1
     },
     {
       "name": "AP Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 24,
+      "seen": 18,
       "kept": 1
     },
     {
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 30,
+      "seen": 26,
       "kept": 0
     },
     {
       "name": "Financial Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aft.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 10,
+      "seen": 11,
       "kept": 0
     },
     {
       "name": "STAT Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 19,
+      "seen": 16,
       "kept": 0
     },
     {
@@ -285,34 +285,34 @@
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
       "seen": 14,
-      "kept": 2
+      "kept": 1
     },
     {
       "name": "Science Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Ascience.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 15,
+      "seen": 9,
       "kept": 0
     },
     {
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 65,
+      "seen": 42,
       "kept": 0
     },
     {
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 25,
-      "kept": 0
+      "seen": 74,
+      "kept": 1
     },
     {
       "name": "Washington Post Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 12,
+      "seen": 14,
       "kept": 0
     },
     {
@@ -326,21 +326,21 @@
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 34,
+      "seen": 29,
       "kept": 0
     },
     {
       "name": "朝日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Aasahi.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 7,
+      "seen": 3,
       "kept": 0
     },
     {
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 17,
+      "seen": 16,
       "kept": 0
     },
     {
@@ -354,21 +354,21 @@
       "name": "JAMA Network vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 5,
+      "seen": 4,
       "kept": 1
     },
     {
       "name": "JAMA Pediatrics vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjamapediatrics&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 1,
       "kept": 0
     },
     {
       "name": "Clinical Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fcid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
@@ -403,7 +403,7 @@
       "name": "PLOS journals vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajournals.plos.org%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20uptake%20OR%20policy)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 3,
       "kept": 2
     },
     {
@@ -445,35 +445,242 @@
       "name": "Cochrane vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Acochranelibrary.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 1,
       "kept": 0
     },
     {
       "name": "Journal of Travel Medicine vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fjtm&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 1,
       "kept": 0
     },
     {
       "name": "SSRN vaccine preprints",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Apapers.ssrn.com%20(effectiveness%20OR%20safety%20OR%20policy%20OR%20trial)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
-      "kept": 2
+      "seen": 1,
+      "kept": 1
     }
   ],
   "weekly_ai_summary": {
-    "generated_at": "2026-06-03T23:09:06.780955+00:00",
+    "generated_at": "2026-06-04T22:41:39.390558+00:00",
     "period_days": 7,
-    "policy_count": 7,
-    "academic_count": 9,
+    "policy_count": 5,
+    "academic_count": 8,
     "status": "ok",
     "model": "gpt-4o-mini",
-    "policy_summary": "トランプ大統領はCDCに小児ワクチン推奨の再調整を指示し、推奨範囲を狭めるよう求める研究に同調するよう政府機関に指示しました。また、PAHOは2026 FIFAワールドカップに向けて麻疹の監視と予防接種を強化するよう各国に勧告しています。",
-    "academic_summary": "2025年季節性インフルエンザワクチンの暫定的な有効性に関する研究が発表されました。さらに、併存疾患のある高齢者を対象にした新型コロナウイルス感染症予防のためのカルメット・ゲラン桿菌ワクチンのランダム化比較試験が行われています。"
+    "policy_summary": "PAHOは、エボラ出血熱の流行を受けて南北アメリカでの備えを強化し、麻疹の監視と予防接種の強化を勧告しています。また、トランプ大統領はCDCに小児ワクチン推奨の再調整を指示しました。",
+    "academic_summary": "新型コロナウイルス感染症に関する複数の研究が発表され、特に高齢者における予防接種の効果や新しいワクチンの治験が注目されています。さらに、出生時のB型肝炎予防接種の安全性と公衆衛生上の利点についても言及されています。"
   },
   "items": [
+    {
+      "id": "72c261563125f1e2",
+      "title": "アフリカでエボラ出血熱が流行する中、PAHOが南北アメリカ全土での備えを強化",
+      "summary": "アフリカでのエボラ出血熱流行中、PAHOが南北アメリカ全土での備えを強化 クリスティーナ・ミッチェル 2026年6月4日",
+      "summary_ai": "ワシントン D.C.、2026 年 6 月 4 日 (PAHO) — 汎アメリカ保健機関 (PAHO)は、現在進行中の感染症に関連した世界保健機関による国際的に懸念される公衆衛生上の緊急事態 (PHEIC)の宣言を受けて、エボラ出血熱への備えを強化するために南北アメリカ全土の国々への支援を強化しています。",
+      "title_original": "PAHO steps up preparedness across the Americas amid Ebola outbreak in Africa",
+      "summary_original": "PAHO steps up preparedness across the Americas amid Ebola outbreak in Africa Cristina Mitchell 4 Jun 2026",
+      "summary_ai_original": "Washington, D.C., 4 June 2026 (PAHO) — The Pan American Health Organization (PAHO) is intensifying support to countries across the Americas to strengthen preparedness for Ebola, following the World Health Organization’s declaration of a Public Health Emergency of International Concern (PHEIC) related to the ongoing out",
+      "article_text_original": "Washington, D.C., 4 June 2026 (PAHO) — The Pan American Health Organization (PAHO) is intensifying support to countries across the Americas to strengthen preparedness for Ebola, following the World Health Organization’s declaration of a Public Health Emergency of International Concern (PHEIC) related to the ongoing outbreak in the Democratic Republic of the Congo and Uganda, and to ensure readiness for any potential imported case. While the risk of Ebola in the Americas remains low and no cases have been reported in the Region, PAHO has activated its Incident Management System (IMS) to coordinate regional preparedness efforts. The Organization is working with ministries of health to reinforce surveillance, laboratory diagnostics, infection prevention and control, and operational coordination, so countries can rapidly detect, isolate and care for people with suspected infection. “Countries in the Americas are not currently affected by Ebola, and the risk to the Region remains low, but preparedness is our strongest tool to reduce risks and ensure a timely response,” said Dr. Ciro Ugarte, Director of Health Emergencies at PAHO. “Even with low risk, countries must be ready to detect and respond quickly to any possible importation to protect health workers and communities, and to prevent further transmission.” Strengthening readiness across the Region PAHO, in collaboration with the Global Outbreak Alert and Response Network (GOARN), a WHO-coordinated network of technical institutions and partners for international outbreak response, is convening regional technical exchanges to support national preparedness efforts. A technical session, organized by PAHO’s Emergency Operations Center (EOC) and held on 3 June, brought together 394 participants from 30 countries across the Region, including national professionals involved in Ebola preparedness and response and representatives from GOARN partner institutions in the Americas. Participants reviewed key preparedness actions, including laboratory diagnosis and biosafety, clinical management, infection prevention and control, medical evacuation, and safe and dignified burials. The session included 12 speakers, panelists and moderators from PAHO, WHO, Johns Hopkins University/NETEC, Emory University/NETEC, Médecins Sans Frontières (MSF), ISARIC/University of Oxford, and the University of São Paulo Hospital, highlighting broad technical collaboration to strengthen Ebola readiness in the Americas. A follow-up session on 10 June will bring together ministries of health and GOARN partners from the Americas to discuss the GOARN network, including opportunities to receive international technical support and to deploy national experts from the Region to support outbreak responses. The session will also highlight the importance of contact tracing and the use of Go.Data, a digital tool developed by WHO and GOARN to strengthen surveillance during health emergencies, including practical experiences from measles response in Brazil and Ebola response in Uganda. To support operational readiness, PAHO has issued a series of technical guidance documents covering the safe collection, handling, packaging and transport of potentially infected samples, as well as laboratory processing and inactivation procedures. These provide practical, step-by-step guidance to strengthen biosafety and diagnostic capacity. In parallel, the Organization is preparing shipments of materials and reagents for the molecular detection of Bundibugyo ebolavirus to selected countries with appropriate biosafety capacity, based on risk assessments. PAHO is also facilitating international collaboration to ensure timely laboratory analysis through the referral of samples to specialized regional laboratories. For example, during a recent event in May, the Organization supported the shipment of samples from the Bahamas to a PAHO/WHO Collaborating Centre for Hemorrhagic Fevers in the United States (CDC, Atlanta), following the identification of travelers with recent history in affected areas. Although both individuals tested negative for Ebola, these precautionary measures ensured that critical testing was completed without delay. PAHO is also refining regional risk scenarios and supporting countries in planning essential supplies, including personal protective equipment, laboratory materials and other critical items needed for preparedness. The Organization is sharing tools to estimate the quantities and specifications of supplies required under different scenarios, including triage, patient care, cleaning, transport, and safe burial. These tools aim to support advance procurement and stockpiling, while promoting effective infection prevention and control in healthcare settings. Situation in Africa As of 2 June 2026, the outbreak of Ebola disease caused by Bundibugyo virus continues to evolve in the Democratic Republic of the Congo and Uganda. In the Democratic Republic of the Congo, 344 confirmed cases and 60 confirmed deaths have been reported, along with 116 suspected cases under investigation. Confirmed cases have been reported in several provinces, including Ituri, North Kivu and South Kivu. Uganda has reported 15 confirmed cases, including one death, with confirmed cases in two districts and reported infections among health workers. WHO assesses the risk of this outbreak as very high at the national level in affected countries, high at the regional level in Africa, and low at the global level. Ebola is a severe disease transmitted through direct contact with the blood or bodily fluids of infected (symptomatic) individuals or withcontaminated materials. While no licensed vaccines or therapeutics are currently available for Ebola disease caused by Bundibugyo virus, early supportive care significantly improves survival. Strong public health measures—including surveillance, isolation and care, contact tracing, and community engagement to build trust and support early care seeking—remain key to controlling outbreaks. Preparedness measures and travel advice In line with WHO recommendations under the International Health Regulations (2005), PAHO reiterates that countries should strengthen preparedness systems without imposing restrictions on travel or trade. Measures for countries not affected by the outbreak include enhancing detection and management of travelers with febrile illness, strengthening communication with transport and border authorities, providing travelers with information on symptoms and when to seek care, and ensuring rapid reporting of suspected cases. WHO advises against generalized travel restrictions, noting that such measures can disrupt response efforts and supply chains without reducing risk. PAHO continues to work closely with countries across the Americas to support preparedness, strengthen health systems, and facilitate coordination with global partners, to support readiness across the Region in the event of potential imported cases.",
+      "link": "https://www.paho.org/en/news/4-6-2026-paho-steps-preparedness-across-americas-amid-ebola-outbreak-africa",
+      "source": "PAHO News",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 8,
+      "published_at": "2026-06-04T21:16:08+00:00",
+      "topics": [
+        "communication",
+        "policy"
+      ],
+      "policy_tags": [
+        "communication",
+        "financing",
+        "outbreak_response",
+        "recommendation",
+        "safety"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "米国",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "PAHO / Washington DC"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "PAHO / Washington DC"
+        },
+        "target": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "米国"
+        }
+      },
+      "location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "米国"
+      },
+      "region": "North America",
+      "country": "米国",
+      "lat": 38.9072,
+      "lng": -77.0369,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "PAHO News"
+      ]
+    },
+    {
+      "id": "04cec04d7a409d31",
+      "title": "物議を醸すワクチン政策変更を正当化するためにRFKジュニアと同盟者が利用した3つの研究が新たな精査に直面 - ガーディアン",
+      "summary": "物議を醸すワクチン政策変更を正当化するためにRFKジュニアと同盟者が利用した3つの研究が新たな精査に直面している",
+      "summary_ai": "物議を醸すワクチン政策変更を正当化するためにRFKジュニアと同盟者が利用した3つの研究が新たな精査に直面している",
+      "title_original": "Three studies used by RFK Jr and allies to justify controversial vaccine policy changes facing new scrutiny - The Guardian",
+      "summary_original": "Three studies used by RFK Jr and allies to justify controversial vaccine policy changes facing new scrutiny The Guardian",
+      "summary_ai_original": "Three studies used by RFK Jr and allies to justify controversial vaccine policy changes facing new scrutiny The Guardian",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9tWHFKU3BOelBfRXNxUlowN0FCSlZ4SWdjQnJmNVgzYlNPUHltTWV4bXktZThHb0Uzclk2UF9HMTNhZllkNUlxYTA4MWZGN0wxRVBTbkNBVEZmMVM0VFVLNVFZSXhYUFFyb1ItTWlSRG4tQWtMcWNHWUFR?oc=5",
+      "source": "Guardian Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-06-04T15:24:00+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "The Guardian"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "The Guardian"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Guardian Vaccines / Immunization"
+      ]
+    },
+    {
+      "id": "9c560166a39756d7",
+      "title": "ノーミクロン優勢時の重篤な covid-19 に対する異種 3 回目の接種スケジュールの有効性の比較 -",
+      "summary": "ノーザでのオミクロン優勢時の重篤な covid-19 に対する異種 3 回目の接種スケジュールの有効性の比較",
+      "summary_ai": "ノーザでのオミクロン優勢時の重篤な covid-19 に対する異種 3 回目の接種スケジュールの有効性の比較",
+      "title_original": "Comparative effectiveness of heterologous third dose vaccine schedules against severe covid-19 during omicron predominance in No - The",
+      "summary_original": "Comparative effectiveness of heterologous third dose vaccine schedules against severe covid-19 during omicron predominance in No The",
+      "summary_ai_original": "Comparative effectiveness of heterologous third dose vaccine schedules against severe covid-19 during omicron predominance in No The",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XMlUyRHlxQXRaUnFGNjhNcGJqNFVMNlBaQlo2bzNoMHhTSzNsS0dFMVJFamxSOHIyaFJGaE5IVmFYaXNudFo5WFlsSHVYbm9SVDRQUGVHNWJ1aXFrQkJUejdNYzNtVVhuZ191NQ?oc=5",
+      "source": "BMJ",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-06-03T23:35:06+00:00",
+      "topics": [
+        "policy",
+        "research"
+      ],
+      "policy_tags": [
+        "schedule"
+      ],
+      "vaccines": [],
+      "variants": [
+        "omicron"
+      ],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BMJ / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BMJ / London"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "BMJ"
+      ]
+    },
     {
       "id": "edc27579722c0c2a",
       "title": "トランプ大統領令、CDCに小児ワクチン推奨を「再調整」するよう指示 - CIDRAP",
@@ -607,73 +814,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "PAHO News"
-      ]
-    },
-    {
-      "id": "13afd45867c9f70e",
-      "title": "インフルエンザ関連入院およびICU入室に対する2025年季節性インフルエンザワクチンの暫定的な有効性 amon - SSRN eLibrary",
-      "summary": "SSRN eLibrary による、インフルエンザ関連入院および ICU 入院に対する 2025 年季節性インフルエンザ ワクチンの暫定的な有効性",
-      "summary_ai": "SSRN eLibrary による、インフルエンザ関連入院および ICU 入院に対する 2025 年季節性インフルエンザ ワクチンの暫定的な有効性",
-      "title_original": "Interim effectiveness of the 2025 seasonal influenza vaccine against influenza-associated hospitalization and ICU admission amon - SSRN eLibrary",
-      "summary_original": "Interim effectiveness of the 2025 seasonal influenza vaccine against influenza-associated hospitalization and ICU admission amon SSRN eLibrary",
-      "summary_ai_original": "Interim effectiveness of the 2025 seasonal influenza vaccine against influenza-associated hospitalization and ICU admission amon SSRN eLibrary",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZlNGbkhUVlJQM1FMRExoVzdqcjNLZ1pDc3F0NGdpOFB2M29zZVRXQml3MlYyMkd3OW5BNkI1dVBreEdqZGJJX2wwbEhVVW1iTG9BTWV0cjg5a2M1X0l5eVBJX0NITE5KR1dEemFsY0pXN2x4WXFlbE1hMzhNWjV3ZzJteFFQVkREWnlnbGttd2k?oc=5",
-      "source": "SSRN vaccine preprints",
-      "source_type": "preprint",
-      "source_tier": "Tier 3",
-      "source_priority": 6,
-      "published_at": "2026-06-01T21:16:15+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "influenza"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "SSRN"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "SSRN"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "SSRN vaccine preprints"
       ]
     },
     {
@@ -941,7 +1081,7 @@
       ]
     },
     {
-      "id": "64372fcd5e796652",
+      "id": "a03f4a96e29ab141",
       "title": "旅行者のための日本脳炎ワクチン決定支援ランダム化臨床試験",
       "summary": "旅行者のための日本脳炎ワクチン決定支援ランダム化臨床試験",
       "summary_ai": "旅行者のための日本脳炎ワクチン決定支援ランダム化臨床試験",
@@ -949,12 +1089,12 @@
       "summary_original": "Japanese Encephalitis Vaccine Decision Aid for Travelers A Randomized Clinical Trial",
       "summary_ai_original": "Japanese Encephalitis Vaccine Decision Aid for Travelers A Randomized Clinical Trial",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMU1qRGx5dU1KWkFLaUllZlBZRXREQjk1aktkTi1NLWlobkkzZDNlU1FyVG41STVvQllVbEI4d0R5a2FQTXlUbHg3WmVMYkc5VF9YeGJZSllOb08weURPMjRvVDE3NFJiUVQ3S19lUDJJM3N3Z3hUdHRRZFNPbmlEbHd0cWlMNXlNSEk2cHU3MG8xX0xvdGtKS2ZYMVBCeXpBRWljcm10dkVMR0NtV2pYUlBodjM?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5yZ2w3Z2Z1eUh1N2FuUENDUHY1NTd4U2tCTVpGSUg2Q2xZQXE2QjYyckNuUVdwcmpicnR1X3ZfbzdvWEJkWkRxLUFjSWJyTHRFTWlpTVgzVkM0SUZkVzJjcV9GWkwwY19weUhIbmNxRG9mNkgxcmxN?oc=5",
       "source": "JAMA Network Open vaccines",
       "source_type": "academic",
       "source_tier": "Tier 3",
       "source_priority": 9,
-      "published_at": "2026-06-01T16:32:41+00:00",
+      "published_at": "2026-06-01T16:30:52+00:00",
       "topics": [
         "research"
       ],
@@ -1007,73 +1147,70 @@
       ]
     },
     {
-      "id": "9c560166a39756d7",
-      "title": "ノーミクロン優勢時の重篤な covid-19 に対する異種 3 回目の接種スケジュールの有効性の比較 -",
-      "summary": "ノーザでのオミクロン優勢時の重篤な covid-19 に対する異種 3 回目の接種スケジュールの有効性の比較",
-      "summary_ai": "ノーザでのオミクロン優勢時の重篤な covid-19 に対する異種 3 回目の接種スケジュールの有効性の比較",
-      "title_original": "Comparative effectiveness of heterologous third dose vaccine schedules against severe covid-19 during omicron predominance in No - The",
-      "summary_original": "Comparative effectiveness of heterologous third dose vaccine schedules against severe covid-19 during omicron predominance in No The",
-      "summary_ai_original": "Comparative effectiveness of heterologous third dose vaccine schedules against severe covid-19 during omicron predominance in No The",
+      "id": "95a7a6c010b8a2c9",
+      "title": "1 米国の5歳未満の子供に対する新型コロナウイルス感染症ワクチンの有効性：検査陰性例 - medRxiv",
+      "summary": "1 米国の5歳未満の子供に対する新型コロナウイルス感染症ワクチンの有効性：検査陰性例 medRxiv",
+      "summary_ai": "1 米国の5歳未満の子供に対する新型コロナウイルス感染症ワクチンの有効性：検査陰性例 medRxiv",
+      "title_original": "1 COVID-19 vaccine effectiveness in children under 5 in the USA: a test-negative case - medRxiv",
+      "summary_original": "1 COVID-19 vaccine effectiveness in children under 5 in the USA: a test-negative case medRxiv",
+      "summary_ai_original": "1 COVID-19 vaccine effectiveness in children under 5 in the USA: a test-negative case medRxiv",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XMlUyRHlxQXRaUnFGNjhNcGJqNFVMNlBaQlo2bzNoMHhTSzNsS0dFMVJFamxSOHIyaFJGaE5IVmFYaXNudFo5WFlsSHVYbm9SVDRQUGVHNWJ1aXFrQkJUejdNYzNtVVhuZ191NQ?oc=5",
-      "source": "BMJ",
-      "source_type": "academic",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5vS2lyVlVkdFh0SmFFR1U5UVRlYTRrYlBiXy1TT201eldJNWg4d2c3eV9XOU5Hc01SVHJuTjlxTVdZSGUtbm1GRXU5VDQ2OGltWS1HN2Izb0MtcWx3QjB5UDByc0dTM1l1a0lzLUJ0Q3NvcUR5NnJPVGgzaw?oc=5",
+      "source": "medRxiv vaccines",
+      "source_type": "preprint",
       "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-05-30T13:54:14+00:00",
+      "source_priority": 7,
+      "published_at": "2026-05-30T21:51:03+00:00",
       "topics": [
-        "policy",
         "research"
       ],
-      "policy_tags": [
-        "schedule"
+      "policy_tags": [],
+      "vaccines": [
+        "covid"
       ],
-      "vaccines": [],
-      "variants": [
-        "omicron"
-      ],
-      "target_country": "不明",
+      "variants": [],
+      "target_country": "米国",
       "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BMJ / London"
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "medRxiv"
       },
       "plot": {
         "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BMJ / London"
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "medRxiv"
         },
         "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
+          "key": "usa",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "米国"
         }
       },
       "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
+        "key": "usa",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "米国"
       },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
+      "region": "North America",
+      "country": "米国",
+      "lat": 38.9072,
+      "lng": -77.0369,
+      "duplicate_count": 2,
       "duplicate_sources": [
-        "BMJ"
+        "medRxiv vaccines"
       ]
     },
     {
@@ -1545,73 +1682,6 @@
       ]
     },
     {
-      "id": "6d8dcd80e5f23865",
-      "title": "BNT162b2 LP.8.1 新型コロナウイルス感染症（COVID-19）の救急部門、救急医療、外来受診に対する早期ワクチンの有効性",
-      "summary": "BNT162b2 LP.8.1 新型コロナウイルス感染症（COVID-19）の救急部門、救急医療、外来受診に対する早期ワクチンの有効性",
-      "summary_ai": "BNT162b2 LP.8.1 新型コロナウイルス感染症（COVID-19）の救急部門、救急医療、外来受診に対する早期ワクチンの有効性",
-      "title_original": "BNT162b2 LP.8.1 early vaccine effectiveness against COVID-19 emergency department, urgent care, and outpatient visits",
-      "summary_original": "BNT162b2 LP.8.1 early vaccine effectiveness against COVID-19 emergency department, urgent care, and outpatient visits",
-      "summary_ai_original": "BNT162b2 LP.8.1 early vaccine effectiveness against COVID-19 emergency department, urgent care, and outpatient visits",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqNVp2d0hJT1JGcXNTSGxRX2tQS2JOVi1PRXFmSTc0OHNyWkc1ZzM1QnZma0xyQ2YzRkVvTkh1MFZkejNtSUZXcnJULVlvVVdiWlRROUtfRWhSeHJYajZF?oc=5",
-      "source": "Nature News Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 5,
-      "published_at": "2026-05-28T00:19:19+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [
-        "outbreak_response"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "Nature News"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "Nature News"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Nature News Vaccines / Immunization"
-      ]
-    },
-    {
       "id": "e5f59c4028274030",
       "title": "高齢者における二価呼吸器合胞体ウイルスおよびヒトメタニューモウイルス糖タンパク質 F 分子クランプワクチン候補の安全性、免疫原性、および用量範囲: 進行中の無作為化、観察者盲検プラセボの 1 か月中間解析 - SSRN eLibrary",
       "summary": "高齢者における二価呼吸器合胞体ウイルスおよびヒトメタニューモウイルス糖タンパク質F分子クランプワクチン候補の安全性、免疫原性、用量範囲：進行中の無作為化、観察者盲検プラセボの1か月中間解析 SSRN eLibrary",
@@ -1808,6 +1878,73 @@
       "duplicate_count": 2,
       "duplicate_sources": [
         "BMJ"
+      ]
+    },
+    {
+      "id": "a32fc0e6deabd231",
+      "title": "集団レベルのワクチン忌避行動を特定するためのベイズ不確実性定量化",
+      "summary": "集団レベルのワクチン忌避行動を特定するためのベイズ不確実性定量化",
+      "summary_ai": "集団レベルのワクチン忌避行動を特定するためのベイズ不確実性定量化",
+      "title_original": "Bayesian uncertainty quantification to identify population level vaccine hesitancy behaviours",
+      "summary_original": "Bayesian uncertainty quantification to identify population level vaccine hesitancy behaviours",
+      "summary_ai_original": "Bayesian uncertainty quantification to identify population level vaccine hesitancy behaviours",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5hbWNEdVV3TnE3M21weFc5RHZMTXpJNzBJLUxTNzVkN0lqOXc1a3MzTTA0TklMNXpHVXpnUlRrbjl5NDlQcUctNmx4d0tzT0U4TXhDUW5vOUd3SG5ySmc0MHBoUXg1NFU3alprTzlfcmhUOVM3dVFnVWg4Nnc1QQ?oc=5",
+      "source": "PLOS journals vaccines",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-05-26T18:24:47+00:00",
+      "topics": [
+        "communication"
+      ],
+      "policy_tags": [
+        "communication"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "PLOS"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "PLOS"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "PLOS journals vaccines"
       ]
     },
     {
@@ -2008,6 +2145,71 @@
       ]
     },
     {
+      "id": "ea4406bd0f8ce062",
+      "title": "親の移住は子供の予防接種の範囲に影響しますか?インドの横断的分析研究 - medRxiv",
+      "summary": "親の移住は子供の予防接種の範囲に影響しますか?インドの横断的分析研究 medRxiv",
+      "summary_ai": "親の移住は子供の予防接種の範囲に影響しますか?インドの横断的分析研究 medRxiv",
+      "title_original": "Does Parental Migration Affect a Child’s Immunization Coverage? A Cross-sectional Analytical Study of India - medRxiv",
+      "summary_original": "Does Parental Migration Affect a Child’s Immunization Coverage? A Cross-sectional Analytical Study of India medRxiv",
+      "summary_ai_original": "Does Parental Migration Affect a Child’s Immunization Coverage? A Cross-sectional Analytical Study of India medRxiv",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5GMnJmZTNFcGRsTzNGclBvaG13OVNkZktQWGZ2d2pmeDVpS2JGVmUtRVFEazZSYVprZEZ1MUpWZmhVcS11c09MdlVzMmJ1QzFzU3hXeXQ3V2V5ZXF6Y3RkeXFBS3NIUTdVVWZfb1Jtbw?oc=5",
+      "source": "medRxiv vaccines",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-05-23T01:44:09+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "インド",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "medRxiv"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "medRxiv"
+        },
+        "target": {
+          "key": "india",
+          "name_ja": "インド",
+          "lat": 28.6139,
+          "lng": 77.209,
+          "region": "Asia",
+          "label": "インド"
+        }
+      },
+      "location": {
+        "key": "india",
+        "name_ja": "インド",
+        "lat": 28.6139,
+        "lng": 77.209,
+        "region": "Asia",
+        "label": "インド"
+      },
+      "region": "Asia",
+      "country": "インド",
+      "lat": 28.6139,
+      "lng": 77.209,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "medRxiv vaccines"
+      ]
+    },
+    {
       "id": "467e9b1cd4d288b0",
       "title": "RSV Fタンパク質の変異に関係なく、多様かつ世界的に優勢なRSV株に対するアジュバント添加RSVPreF3ワクチンの推定有効性：AReSVi-006試験の事後解析の結果",
       "summary": "RSV Fタンパク質の変異に関係なく、多様かつ世界的に優勢なRSV株に対するアジュバント添加RSVPreF3ワクチンの推定有効性：AReSVi-006試験の事後解析の結果",
@@ -2205,142 +2407,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "BMJ"
-      ]
-    },
-    {
-      "id": "caf5d494e9c5ae7b",
-      "title": "ナイジェリア農村部におけるラッサ熱血清学の局所的不均一性：ワクチン治験施設の選択への影響",
-      "summary": "ナイジェリア農村部におけるラッサ熱血清学の局所的不均一性：ワクチン治験施設の選択への影響",
-      "summary_ai": "ナイジェリア農村部におけるラッサ熱血清学の局所的不均一性：ワクチン治験施設の選択への影響",
-      "title_original": "Local heterogeneity in Lassa fever serology in rural Nigeria: Implications for vaccine trial site selection",
-      "summary_original": "Local heterogeneity in Lassa fever serology in rural Nigeria: Implications for vaccine trial site selection",
-      "summary_ai_original": "Local heterogeneity in Lassa fever serology in rural Nigeria: Implications for vaccine trial site selection",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUSDJBaEFLd0xyVjdGWjlXRG94UTlPdnFxV1VfSjhZenVLWmI5dHJTM09naXdqc1U4UzlGR0FYMTVQMC0xS2pqSnJDUkdzdlVEdlZhaWtXWGhOeGZEX0t2Q3F5ZUJYcExtVHhKeVNmSkxpWmNwMVlPRE5OanJ5Ykk?oc=5",
-      "source": "PLOS journals vaccines",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 7,
-      "published_at": "2026-05-21T19:22:01+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "ナイジェリア",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "PLOS"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "PLOS"
-        },
-        "target": {
-          "key": "nigeria",
-          "name_ja": "ナイジェリア",
-          "lat": 9.0765,
-          "lng": 7.3986,
-          "region": "Africa",
-          "label": "ナイジェリア"
-        }
-      },
-      "location": {
-        "key": "nigeria",
-        "name_ja": "ナイジェリア",
-        "lat": 9.0765,
-        "lng": 7.3986,
-        "region": "Africa",
-        "label": "ナイジェリア"
-      },
-      "region": "Africa",
-      "country": "ナイジェリア",
-      "lat": 9.0765,
-      "lng": 7.3986,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "PLOS journals vaccines"
-      ]
-    },
-    {
-      "id": "78df80894de669cf",
-      "title": "エクアドル、PAHOを通じてワクチン用の移動式コールドチェーン車両を取得したラテンアメリカとカリブ海諸国初の国",
-      "summary": "エクアドル、PAHOオスカー・レイエスを通じてワクチン用移動式コールドチェーン車両を取得したラテンアメリカとカリブ海諸国初の国 2026年5月21日",
-      "summary_ai": "キト、2026年5月21日（PAHO） – エクアドルは、汎米保健機関（PAHO）の地域回転基金を通じて、アクティブなコールドチェーン技術を備えた特別に設計されたワクチン輸送車両群を取得したラテンアメリカおよびカリブ海諸国初の国となった。共和国副大統領",
-      "title_original": "Ecuador, first country in Latin America and the Caribbean to acquire mobile cold-chain vehicles for vaccines through PAHO",
-      "summary_original": "Ecuador, first country in Latin America and the Caribbean to acquire mobile cold-chain vehicles for vaccines through PAHO Oscar Reyes 21 May 2026",
-      "summary_ai_original": "Quito, 21 May 2026 (PAHO) – Ecuador has become the first country in Latin America and the Caribbean to acquire a fleet of specially designed vaccine transport vehicles with active cold-chain technology through the Regional Revolving Funds of the Pan American Health Organization (PAHO). The Vice President of the Republi",
-      "article_text_original": "Quito, 21 May 2026 (PAHO) – Ecuador has become the first country in Latin America and the Caribbean to acquire a fleet of specially designed vaccine transport vehicles with active cold-chain technology through the Regional Revolving Funds of the Pan American Health Organization (PAHO). The acquisition consists of 40 four-wheel-drive vehicles equipped with high-tech refrigeration units that keep vaccines at a constant temperature between 2°C and 8°C throughout transport, even on difficult roads, in hot tropical areas, or in remote territories. Traditionally, vaccines have been transported using cold boxes with ice in conventional vehicles or refrigerated trucks. These systems continue to be widely used and have supported immunization programs, but they may present limitations in ensuring and monitoring temperatures over long distances, in tropical climates, or on rough roads. This new solution complements those efforts by providing greater thermal control and stability, helping ensure that vaccines arrive in optimal condition. The vehicles are also the first in the world to receive the World Health Organization’s (WHO) PQS (Performance, Quality and Safety) prequalification, an international standard certifying their quality and reliability for immunization programs. During the delivery ceremony, Jaime Bernabé, the Minister of Public Health of Ecuador, praised the country’s “first fleet of refrigerated, specialized, and state-of-the-art vehicles.” These mobile units “optimize transportation from the central level to every health center, safeguarding vaccine distribution,” he said. This initiative is part of a broader PAHO strategy through its Regional Revolving Funds, combining technological innovation, improvements in procurement processes, and technical support to countries. The organization is also promoting digital tools to better plan equipment needs, as well as other products such as refrigerated trucks and solar-powered equipment that are already being progressively implemented across the Americas. Sonia Quezada, PAHO/WHO Representative in Ecuador, highlighted that the country procures 100% of its vaccines through the Revolving Fund. “In 2025 alone, we facilitated an investment of US$48.5 million to ensure the supply of 21 highest-quality biological products and guarantee access for 4.4 million people to routine immunization schedules and seasonal vaccination campaigns to prevent vaccine-preventable diseases,” she added. With these vehicles, Ecuador will be able to strengthen its routine vaccination campaigns, improve its response capacity during health emergencies, and guarantee more equitable access to vaccines, especially for the most remote communities. The Vice President of the Republic, María José Pinto, also thanked the Revolving Fund for its support, highlighting the importance of protecting the population because “the vaccine will arrive in good condition to your neighborhood, meaning that when a mother goes to the health center, that vaccine will be there, without having to depend on luck or distance.” About PAHO’s Regional Revolving Funds Through its Regional Revolving Funds, PAHO works with Member States to strengthen vaccine production and supply capacities, as well as access to other essential medical technologies, with the goal of ensuring equitable access throughout the region. These efforts include demand planning, coordination of pooled procurement, logistics strengthening, regulatory support, technical assistance, and the development of national capacities to respond rapidly and safely to health emergencies.",
-      "link": "https://www.paho.org/en/news/21-5-2026-ecuador-first-country-latin-america-and-caribbean-acquire-mobile-cold-chain-vehicles",
-      "source": "PAHO News",
-      "source_type": "official",
-      "source_tier": "Tier 1",
-      "source_priority": 8,
-      "published_at": "2026-05-21T18:21:31+00:00",
-      "topics": [
-        "communication",
-        "policy"
-      ],
-      "policy_tags": [
-        "financing",
-        "outbreak_response",
-        "safety",
-        "schedule"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "PAHO / Washington DC"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "PAHO / Washington DC"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "PAHO News"
       ]
     }
   ]
