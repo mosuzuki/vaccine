@@ -1,9 +1,9 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-06-10T22:54:55.038624+00:00",
-  "item_count": 22,
-  "archive_count": 286,
+  "generated_at": "2026-06-11T22:54:26.043370+00:00",
+  "item_count": 21,
+  "archive_count": 287,
   "days_back": 14,
   "plot_mode_default": "source",
   "feed_status": [
@@ -102,21 +102,21 @@
       "name": "NEJM",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Anejm.org%20(trial%20OR%20effectiveness%20OR%20policy%20OR%20safety)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
-      "kept": 1
+      "seen": 2,
+      "kept": 0
     },
     {
       "name": "BMJ",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abmj.com%20(policy%20OR%20trial%20OR%20effectiveness%20OR%20communication)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 3,
-      "kept": 1
+      "seen": 4,
+      "kept": 2
     },
     {
       "name": "Vaccine journal",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Asciencedirect.com%2Fjournal%2Fvaccine&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -130,14 +130,14 @@
       "name": "Nature Medicine vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fnm%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20uptake%20OR%20policy)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 1,
       "kept": 0
     },
     {
       "name": "Nature Communications vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fncomms%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20surveillance)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 2,
       "kept": 0
     },
     {
@@ -151,7 +151,7 @@
       "name": "Nature Immunology vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fni%20(immunogenicity%20OR%20antibody%20OR%20immune%20response%20OR%20trial)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
@@ -165,7 +165,7 @@
       "name": "Science vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ascience.org%2Fdoi%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20antibody)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 5,
+      "seen": 7,
       "kept": 0
     },
     {
@@ -193,7 +193,7 @@
       "name": "JAMA vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjama%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -221,7 +221,7 @@
       "name": "Human Vaccines & Immunotherapeutics",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Atandfonline.com%20%22Human%20Vaccines%20%26%20Immunotherapeutics%22&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -235,63 +235,63 @@
       "name": "bioRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abiorxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 5,
+      "seen": 10,
       "kept": 0
     },
     {
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 31,
-      "kept": 2
+      "seen": 27,
+      "kept": 3
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 20,
+      "seen": 26,
       "kept": 0
     },
     {
       "name": "AP Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 99,
+      "seen": 98,
       "kept": 1
     },
     {
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 22,
+      "seen": 32,
       "kept": 0
     },
     {
       "name": "Financial Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aft.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 7,
+      "seen": 5,
       "kept": 0
     },
     {
       "name": "STAT Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 11,
+      "seen": 10,
       "kept": 1
     },
     {
       "name": "Nature News Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 12,
-      "kept": 3
+      "seen": 9,
+      "kept": 2
     },
     {
       "name": "Science Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Ascience.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 6,
+      "seen": 10,
       "kept": 0
     },
     {
@@ -305,7 +305,7 @@
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 56,
+      "seen": 46,
       "kept": 1
     },
     {
@@ -326,7 +326,7 @@
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 55,
+      "seen": 33,
       "kept": 0
     },
     {
@@ -340,21 +340,21 @@
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 18,
+      "seen": 20,
       "kept": 1
     },
     {
       "name": "毎日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 7,
+      "seen": 6,
       "kept": 0
     },
     {
       "name": "JAMA Network vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 5,
+      "seen": 3,
       "kept": 1
     },
     {
@@ -375,14 +375,14 @@
       "name": "Journal of Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fjid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
       "name": "Open Forum Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fofid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 1,
       "kept": 1
     },
     {
@@ -431,8 +431,8 @@
       "name": "Clinical Microbiology and Infection",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aclinicalmicrobiologyandinfection.com&hl=en-US&gl=EU&ceid=EU%3Aen",
       "status": "ok",
-      "seen": 1,
-      "kept": 1
+      "seen": 0,
+      "kept": 0
     },
     {
       "name": "Vaccine X",
@@ -445,7 +445,7 @@
       "name": "Cochrane vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Acochranelibrary.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
@@ -459,21 +459,86 @@
       "name": "SSRN vaccine preprints",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Apapers.ssrn.com%20(effectiveness%20OR%20safety%20OR%20policy%20OR%20trial)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 5,
+      "seen": 6,
       "kept": 2
     }
   ],
   "weekly_ai_summary": {
-    "generated_at": "2026-06-10T22:54:55.038624+00:00",
+    "generated_at": "2026-06-11T22:54:26.043370+00:00",
     "period_days": 7,
     "policy_count": 8,
     "academic_count": 3,
     "status": "ok",
     "model": "gpt-4o-mini",
-    "policy_summary": "産婦人科団体が初めて独自のワクチン推奨を発表し、CDCのガイダンスから逸脱した。デング熱やチクングニア熱の拡大に対する対策として、国や自治体が殺虫剤の備蓄を強化している。",
-    "academic_summary": "弱毒化生インフルエンザワクチンの有効性について再検討が行われた。エチオピアの特定地域における小児予防接種の障壁と促進要因に関する質的研究が発表された。"
+    "policy_summary": "米国の産婦人科団体がCDCのガイダンスから逸脱し、独自のワクチン推奨を発行しました。また、ブラジルではデング熱予防接種キャンペーンが資金不足により停止しています。",
+    "academic_summary": "ノーミクロン優勢時の重篤なCOVID-19に対する異種3回目接種スケジュールの有効性についての研究が発表されました。エチオピアの小児予防接種に関する質的研究も行われ、障壁と促進要因が探求されています。"
   },
   "items": [
+    {
+      "id": "a8c0d4d6eb4dd1cc",
+      "title": "米国のワクチン政策の現状 — 2026 年 6 月 11 日 - CIDRAP",
+      "summary": "米国のワクチン政策の現状 — 2026 年 6 月 11 日 CIDRAP",
+      "summary_ai": "米国のワクチン政策の現状 — 2026 年 6 月 11 日 CIDRAP",
+      "title_original": "The State of US Vaccine Policy — Jun 11, 2026 - CIDRAP",
+      "summary_original": "The State of US Vaccine Policy — Jun 11, 2026 CIDRAP",
+      "summary_ai_original": "The State of US Vaccine Policy — Jun 11, 2026 CIDRAP",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSEZ2NFJ3OWNjZmdZelE3UGVIVjBMYTM5SjF0TlJOQ1M0YXBhZ044T3BQZ0tzR0VDVVhaYUlkNTZlX3BkTjdUN0FmaXpCZWZ6RlVTTG02WURqTjJZeFBObFE1LVo1cEN5WDQ3NFN0ZjNtb3hZS0F4NlBOYmVvTkRoZ0NwdTRhWWNQ?oc=5",
+      "source": "CIDRAP Vaccines & Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 8,
+      "published_at": "2026-06-11T20:12:02+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "CIDRAP / Minnesota"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "CIDRAP / Minnesota"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "CIDRAP Vaccines & Immunization"
+      ]
+    },
     {
       "id": "8f24ed353b6b1305",
       "title": "産婦人科団体が初めてワクチンを推奨 - ワシントン・ポスト",
@@ -540,6 +605,76 @@
       "duplicate_sources": [
         "AP Vaccines / Immunization",
         "Washington Post Vaccines / Immunization"
+      ]
+    },
+    {
+      "id": "088a0c6851c0ff2e",
+      "title": "簡単に説明すると、世界保健のための資金が減少します。ブラジルでデング熱予防接種キャンペーンが停止。より多くの米国のハンタウイルス患者が帰宅 - CIDRAP",
+      "summary": "簡単に説明すると、世界保健のための資金が減少します。ブラジルでデング熱予防接種キャンペーンが停止。より多くの米国のハンタウイルス患者が帰宅 CIDRAP",
+      "summary_ai": "簡単に説明すると、世界保健のための資金が減少します。ブラジルでデング熱予防接種キャンペーンが停止。より多くの米国のハンタウイルス患者が帰宅 CIDRAP",
+      "title_original": "Quick takes: Less funding for global health; dengue vaccine campaign halted in Brazil; more US hantavirus patients head home - CIDRAP",
+      "summary_original": "Quick takes: Less funding for global health; dengue vaccine campaign halted in Brazil; more US hantavirus patients head home CIDRAP",
+      "summary_ai_original": "Quick takes: Less funding for global health; dengue vaccine campaign halted in Brazil; more US hantavirus patients head home CIDRAP",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWWI4NXdLTE0xSGxJdWdkeWJBaHlOYXpZamdvMXA0MFh5UGdtU2dpMEdaOEZhSzl0SXhDR3NjaGc0VEUtU3NhLU5uNTJDb3lmcGozOU9uWUZTMHEwaXBwMlNtRTZadVYwdjZCbjBMSl9Tall1cW92UXctMDBUb2w4NmtwOFpWaTdub19mS0FqRTU2cEYzOXlUYS1JQ1ZrSy1ZS3Z2ck5JU251UkM2TFB3ejBvT0tNanE0dVE?oc=5",
+      "source": "CIDRAP Vaccines & Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 8,
+      "published_at": "2026-06-10T17:20:00+00:00",
+      "topics": [
+        "communication"
+      ],
+      "policy_tags": [
+        "financing",
+        "outbreak_response"
+      ],
+      "vaccines": [
+        "dengue"
+      ],
+      "variants": [],
+      "target_country": "ブラジル",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "CIDRAP / Minnesota"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "CIDRAP / Minnesota"
+        },
+        "target": {
+          "key": "brazil",
+          "name_ja": "ブラジル",
+          "lat": -15.7939,
+          "lng": -47.8828,
+          "region": "South America",
+          "label": "ブラジル"
+        }
+      },
+      "location": {
+        "key": "brazil",
+        "name_ja": "ブラジル",
+        "lat": -15.7939,
+        "lng": -47.8828,
+        "region": "South America",
+        "label": "ブラジル"
+      },
+      "region": "South America",
+      "country": "ブラジル",
+      "lat": -15.7939,
+      "lng": -47.8828,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "CIDRAP Vaccines & Immunization"
       ]
     },
     {
@@ -680,7 +815,7 @@
       ]
     },
     {
-      "id": "1fa892b27716fc9c",
+      "id": "5b4b553a98ee737f",
       "title": "国内承認ワクチンがないデング熱やチクングニア熱の拡大警戒、蚊媒介する感染症対策を強化…国や自治体が殺虫剤備蓄 - 読売新聞",
       "summary": "国内承認ワクチンがないデング熱やチクングニア熱の拡大警戒、蚊媒介する感染症対策を強化…国や自治体が殺虫剤備蓄 読売新聞",
       "summary_ai": "国内承認ワクチンがないデング熱やチクングニア熱の拡大警戒、蚊媒介する感染症対策を強化…国や自治体が殺虫剤備蓄 読売新聞",
@@ -688,7 +823,7 @@
       "summary_original": "国内承認ワクチンがないデング熱やチクングニア熱の拡大警戒、蚊媒介する感染症対策を強化…国や自治体が殺虫剤備蓄 読売新聞",
       "summary_ai_original": "国内承認ワクチンがないデング熱やチクングニア熱の拡大警戒、蚊媒介する感染症対策を強化…国や自治体が殺虫剤備蓄 読売新聞",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5WU3c2RUhLalY5VExyOGw3eDZlN09xVGtUTFRmSWtOSjMyN0Z6Ykt6elBldUNyRzJSTjFLZTh6c0JfM2NvMDlPMmVlenFDZUVGRElHWmlFZ3l0eUdUVHdpM0lxZ3k?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xeVdJT0tiVFhXSTJjOEYtaGxWQS1uc1AwcndWSXpDRS1JTjg0LVpScHA3ZlJ5T01MTVFtOVBtbFZUcDk4eDNBUmdhQ28tOTJQTGktZEFfTVdsMTdFaFNBa2stS1V4YksyUmR4emtR?oc=5",
       "source": "読売新聞 ワクチン / 予防接種",
       "source_type": "media",
       "source_tier": "Tier 2",
@@ -744,6 +879,76 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "読売新聞 ワクチン / 予防接種"
+      ]
+    },
+    {
+      "id": "9c560166a39756d7",
+      "title": "ノーミクロン優勢時の重篤な covid-19 に対する異種 3 回目の接種スケジュールの有効性の比較 -",
+      "summary": "ノーザでのオミクロン優勢時の重篤な covid-19 に対する異種 3 回目の接種スケジュールの有効性の比較",
+      "summary_ai": "ノーザでのオミクロン優勢時の重篤な covid-19 に対する異種 3 回目の接種スケジュールの有効性の比較",
+      "title_original": "Comparative effectiveness of heterologous third dose vaccine schedules against severe covid-19 during omicron predominance in No - The",
+      "summary_original": "Comparative effectiveness of heterologous third dose vaccine schedules against severe covid-19 during omicron predominance in No The",
+      "summary_ai_original": "Comparative effectiveness of heterologous third dose vaccine schedules against severe covid-19 during omicron predominance in No The",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XMlUyRHlxQXRaUnFGNjhNcGJqNFVMNlBaQlo2bzNoMHhTSzNsS0dFMVJFamxSOHIyaFJGaE5IVmFYaXNudFo5WFlsSHVYbm9SVDRQUGVHNWJ1aXFrQkJUejdNYzNtVVhuZ191NQ?oc=5",
+      "source": "BMJ",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-06-10T07:02:34+00:00",
+      "topics": [
+        "policy",
+        "research"
+      ],
+      "policy_tags": [
+        "schedule"
+      ],
+      "vaccines": [],
+      "variants": [
+        "omicron"
+      ],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BMJ / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BMJ / London"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "BMJ"
       ]
     },
     {
@@ -944,73 +1149,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "Nature News Vaccines / Immunization"
-      ]
-    },
-    {
-      "id": "8921ce78e428e310",
-      "title": "弱毒化生インフルエンザワクチン: 有効性の再検討 - NEJM 臨床医",
-      "summary": "弱毒生インフルエンザワクチン: 有効性を再検討 NEJM 臨床医",
-      "summary_ai": "弱毒生インフルエンザワクチン: 有効性を再検討 NEJM 臨床医",
-      "title_original": "Live Attenuated Influenza Vaccine: Effectiveness Revisited - NEJM Clinician",
-      "summary_original": "Live Attenuated Influenza Vaccine: Effectiveness Revisited NEJM Clinician",
-      "summary_ai_original": "Live Attenuated Influenza Vaccine: Effectiveness Revisited NEJM Clinician",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNmM3TS1jSlJOMTloLXRYdVBmcmtRY3E4THdJeThHTlF3WlNNcXczaU45SmlaSFhtX3NwMTNhMExKY3lGWUVabUlrRTFfYVBoRDhGMjc2VkJMdkpiQVFPaUx0MTJnQTh3TjJLVTFPZWtxc1lMcTJPT1psUDdjeEN3Q1Rn?oc=5",
-      "source": "NEJM",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-06-08T21:14:10+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "influenza"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "NEJM / Boston"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "NEJM / Boston"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "NEJM"
       ]
     },
     {
@@ -1556,71 +1694,6 @@
       ]
     },
     {
-      "id": "59a31610c652f9cb",
-      "title": "併存疾患のある高齢者の新型コロナウイルス感染症およびその他の気道感染症の予防のためのカルメット・ゲラン桿菌ワクチン：ランダム化比較試験",
-      "summary": "併存疾患のある高齢者の新型コロナウイルス感染症およびその他の気道感染症の予防のためのカルメット・ゲラン桿菌ワクチン：ランダム化比較試験",
-      "summary_ai": "併存疾患のある高齢者の新型コロナウイルス感染症およびその他の気道感染症の予防のためのカルメット・ゲラン桿菌ワクチン：ランダム化比較試験",
-      "title_original": "Bacillus Calmette-Guérin vaccine for prevention of COVID-19 and other respiratory tract infections in older adults with comorbidities: a randomized controlled trial",
-      "summary_original": "Bacillus Calmette-Guérin vaccine for prevention of COVID-19 and other respiratory tract infections in older adults with comorbidities: a randomized controlled trial",
-      "summary_ai_original": "Bacillus Calmette-Guérin vaccine for prevention of COVID-19 and other respiratory tract infections in older adults with comorbidities: a randomized controlled trial",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTVh1bkpaNXQ3ZnR0ZF9qelRzTno4WkhkRkY3QnFhU0RWMnNrei1LSF80cXg5dE5FMjROcjZqT3BJMm5IT0pNb3paVUJ1bFNVb2NldlRQd2FkbV9hdGl1R2xwakVnNWJrS1B4T0RrSTVySDZNOEh1d0VNQnpGTG5SdFlkUmt1TXNjV0QwREhxaW5IN1RNSzNRdzZjT3dxYkVrZ3BrQUNSSktPWlYxVGp3V2t0bw?oc=5",
-      "source": "Clinical Microbiology and Infection",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 7,
-      "published_at": "2026-06-01T18:02:12+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "netherlands",
-        "name_ja": "オランダ",
-        "lat": 52.3676,
-        "lng": 4.9041,
-        "region": "Europe",
-        "label": "CMI"
-      },
-      "plot": {
-        "source": {
-          "key": "netherlands",
-          "name_ja": "オランダ",
-          "lat": 52.3676,
-          "lng": 4.9041,
-          "region": "Europe",
-          "label": "CMI"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Clinical Microbiology and Infection"
-      ]
-    },
-    {
       "id": "a03f4a96e29ab141",
       "title": "旅行者のための日本脳炎ワクチン決定支援ランダム化臨床試験",
       "summary": "旅行者のための日本脳炎ワクチン決定支援ランダム化臨床試験",
@@ -1819,140 +1892,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "BMJ"
-      ]
-    },
-    {
-      "id": "eb96e2fbe860986d",
-      "title": "米国のワクチン政策の現状 — 2026 年 5 月 28 日 - CIDRAP",
-      "summary": "米国のワクチン政策の現状 — 2026 年 5 月 28 日 CIDRAP",
-      "summary_ai": "米国のワクチン政策の現状 — 2026 年 5 月 28 日 CIDRAP",
-      "title_original": "The State of US Vaccine Policy — May 28, 2026 - CIDRAP",
-      "summary_original": "The State of US Vaccine Policy — May 28, 2026 CIDRAP",
-      "summary_ai_original": "The State of US Vaccine Policy — May 28, 2026 CIDRAP",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNlNlRTZMM3c0bmNSQmc2QTJtWGZGU2JYd1VPMnZyS3lHcG1yRlJiclgzWXVYNDJ3UW5YSUcxalRQSTNpSkVGdDhkTHJQNXJra2dvT1NueG5yYkV2UzRmenY4cUdBVGNQazRMTWFIREh1TDVodkdWaVktSnhLbVVqRUh5Q1VYSlpK?oc=5",
-      "source": "CIDRAP Vaccines & Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 8,
-      "published_at": "2026-05-28T07:00:00+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "CIDRAP / Minnesota"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "CIDRAP / Minnesota"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "CIDRAP Vaccines & Immunization"
-      ]
-    },
-    {
-      "id": "f0fa40f766fc3215",
-      "title": "コンゴ民主共和国での臨床試験におけるMVA-BNサル痘ワクチンの安全性",
-      "summary": "コンゴ民主共和国での臨床試験におけるMVA-BNサル痘ワクチンの安全性",
-      "summary_ai": "コンゴ民主共和国での臨床試験におけるMVA-BNサル痘ワクチンの安全性",
-      "title_original": "MVA-BN monkeypox vaccine safety in a clinical trial in the Democratic Republic of the Congo",
-      "summary_original": "MVA-BN monkeypox vaccine safety in a clinical trial in the Democratic Republic of the Congo",
-      "summary_ai_original": "MVA-BN monkeypox vaccine safety in a clinical trial in the Democratic Republic of the Congo",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBENWxsRTNZN3BNbmNLMDMzdTBaTVRvUzM2c0hFdEp0OHFJWXEwQ0xNcEVvRk9qSDRSd2dvOGxmMlNsa3dabV9WTWVuc1BqU3R2WjFCQ2pXTnBwWDIzenow?oc=5",
-      "source": "Nature News Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 5,
-      "published_at": "2026-05-28T07:00:00+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [
-        "safety"
-      ],
-      "vaccines": [
-        "mpox"
-      ],
-      "variants": [],
-      "target_country": "コンゴ民主共和国",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "Nature News"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "Nature News"
-        },
-        "target": {
-          "key": "democratic republic of the congo",
-          "name_ja": "コンゴ民主共和国",
-          "lat": -4.4419,
-          "lng": 15.2663,
-          "region": "Africa",
-          "label": "コンゴ民主共和国"
-        }
-      },
-      "location": {
-        "key": "democratic republic of the congo",
-        "name_ja": "コンゴ民主共和国",
-        "lat": -4.4419,
-        "lng": 15.2663,
-        "region": "Africa",
-        "label": "コンゴ民主共和国"
-      },
-      "region": "Africa",
-      "country": "コンゴ民主共和国",
-      "lat": -4.4419,
-      "lng": 15.2663,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Nature News Vaccines / Immunization"
       ]
     }
   ]

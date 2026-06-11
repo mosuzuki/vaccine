@@ -1,10 +1,77 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-06-10T22:54:55.038624+00:00",
-  "archive_count": 286,
+  "generated_at": "2026-06-11T22:54:26.043370+00:00",
+  "archive_count": 287,
   "days_back": 14,
   "items": [
+    {
+      "id": "a8c0d4d6eb4dd1cc",
+      "title": "米国のワクチン政策の現状 — 2026 年 6 月 11 日 - CIDRAP",
+      "summary": "米国のワクチン政策の現状 — 2026 年 6 月 11 日 CIDRAP",
+      "summary_ai": "米国のワクチン政策の現状 — 2026 年 6 月 11 日 CIDRAP",
+      "title_original": "The State of US Vaccine Policy — Jun 11, 2026 - CIDRAP",
+      "summary_original": "The State of US Vaccine Policy — Jun 11, 2026 CIDRAP",
+      "summary_ai_original": "The State of US Vaccine Policy — Jun 11, 2026 CIDRAP",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSEZ2NFJ3OWNjZmdZelE3UGVIVjBMYTM5SjF0TlJOQ1M0YXBhZ044T3BQZ0tzR0VDVVhaYUlkNTZlX3BkTjdUN0FmaXpCZWZ6RlVTTG02WURqTjJZeFBObFE1LVo1cEN5WDQ3NFN0ZjNtb3hZS0F4NlBOYmVvTkRoZ0NwdTRhWWNQ?oc=5",
+      "source": "CIDRAP Vaccines & Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 8,
+      "published_at": "2026-06-11T20:12:02+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "CIDRAP / Minnesota"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "CIDRAP / Minnesota"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 2,
+      "duplicate_sources": [
+        "CIDRAP Vaccines & Immunization"
+      ],
+      "first_seen_at": "2026-06-11T20:12:02+00:00",
+      "last_seen_at": "2026-06-11T22:56:05.949354+00:00"
+    },
     {
       "id": "8f24ed353b6b1305",
       "title": "産婦人科団体が初めてワクチンを推奨 - ワシントン・ポスト",
@@ -72,7 +139,79 @@
         "Washington Post Vaccines / Immunization"
       ],
       "first_seen_at": "2026-06-10T18:55:28+00:00",
-      "last_seen_at": "2026-06-10T22:56:53.704223+00:00"
+      "last_seen_at": "2026-06-11T22:56:05.949369+00:00"
+    },
+    {
+      "id": "088a0c6851c0ff2e",
+      "title": "簡単に説明すると、世界保健のための資金が減少します。ブラジルでデング熱予防接種キャンペーンが停止。より多くの米国のハンタウイルス患者が帰宅 - CIDRAP",
+      "summary": "簡単に説明すると、世界保健のための資金が減少します。ブラジルでデング熱予防接種キャンペーンが停止。より多くの米国のハンタウイルス患者が帰宅 CIDRAP",
+      "summary_ai": "簡単に説明すると、世界保健のための資金が減少します。ブラジルでデング熱予防接種キャンペーンが停止。より多くの米国のハンタウイルス患者が帰宅 CIDRAP",
+      "title_original": "Quick takes: Less funding for global health; dengue vaccine campaign halted in Brazil; more US hantavirus patients head home - CIDRAP",
+      "summary_original": "Quick takes: Less funding for global health; dengue vaccine campaign halted in Brazil; more US hantavirus patients head home CIDRAP",
+      "summary_ai_original": "Quick takes: Less funding for global health; dengue vaccine campaign halted in Brazil; more US hantavirus patients head home CIDRAP",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWWI4NXdLTE0xSGxJdWdkeWJBaHlOYXpZamdvMXA0MFh5UGdtU2dpMEdaOEZhSzl0SXhDR3NjaGc0VEUtU3NhLU5uNTJDb3lmcGozOU9uWUZTMHEwaXBwMlNtRTZadVYwdjZCbjBMSl9Tall1cW92UXctMDBUb2w4NmtwOFpWaTdub19mS0FqRTU2cEYzOXlUYS1JQ1ZrSy1ZS3Z2ck5JU251UkM2TFB3ejBvT0tNanE0dVE?oc=5",
+      "source": "CIDRAP Vaccines & Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 8,
+      "published_at": "2026-06-10T17:20:00+00:00",
+      "topics": [
+        "communication"
+      ],
+      "policy_tags": [
+        "financing",
+        "outbreak_response"
+      ],
+      "vaccines": [
+        "dengue"
+      ],
+      "variants": [],
+      "target_country": "ブラジル",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "CIDRAP / Minnesota"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "CIDRAP / Minnesota"
+        },
+        "target": {
+          "key": "brazil",
+          "name_ja": "ブラジル",
+          "lat": -15.7939,
+          "lng": -47.8828,
+          "region": "South America",
+          "label": "ブラジル"
+        }
+      },
+      "location": {
+        "key": "brazil",
+        "name_ja": "ブラジル",
+        "lat": -15.7939,
+        "lng": -47.8828,
+        "region": "South America",
+        "label": "ブラジル"
+      },
+      "region": "South America",
+      "country": "ブラジル",
+      "lat": -15.7939,
+      "lng": -47.8828,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "CIDRAP Vaccines & Immunization"
+      ],
+      "first_seen_at": "2026-06-10T17:20:00+00:00",
+      "last_seen_at": "2026-06-11T22:56:05.949372+00:00"
     },
     {
       "id": "def3d6f03e2f3c0a",
@@ -141,7 +280,7 @@
         "STAT Vaccines / Immunization"
       ],
       "first_seen_at": "2026-06-10T14:48:51+00:00",
-      "last_seen_at": "2026-06-10T22:56:53.704235+00:00"
+      "last_seen_at": "2026-06-11T22:56:05.949380+00:00"
     },
     {
       "id": "e72b2371c69d51b7",
@@ -213,7 +352,7 @@
         "FDA Vaccines / Biologics"
       ],
       "first_seen_at": "2026-06-10T14:48:50+00:00",
-      "last_seen_at": "2026-06-10T22:56:53.704239+00:00"
+      "last_seen_at": "2026-06-11T22:56:05.949386+00:00"
     },
     {
       "id": "1fa892b27716fc9c",
@@ -277,12 +416,84 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "duplicate_sources": [
         "読売新聞 ワクチン / 予防接種"
       ],
       "first_seen_at": "2026-06-10T10:31:00+00:00",
       "last_seen_at": "2026-06-10T22:56:53.704241+00:00"
+    },
+    {
+      "id": "9c560166a39756d7",
+      "title": "ノーミクロン優勢時の重篤な covid-19 に対する異種 3 回目の接種スケジュールの有効性の比較 -",
+      "summary": "ノーザでのオミクロン優勢時の重篤な covid-19 に対する異種 3 回目の接種スケジュールの有効性の比較",
+      "summary_ai": "ノーザでのオミクロン優勢時の重篤な covid-19 に対する異種 3 回目の接種スケジュールの有効性の比較",
+      "title_original": "Comparative effectiveness of heterologous third dose vaccine schedules against severe covid-19 during omicron predominance in No - The",
+      "summary_original": "Comparative effectiveness of heterologous third dose vaccine schedules against severe covid-19 during omicron predominance in No The",
+      "summary_ai_original": "Comparative effectiveness of heterologous third dose vaccine schedules against severe covid-19 during omicron predominance in No The",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XMlUyRHlxQXRaUnFGNjhNcGJqNFVMNlBaQlo2bzNoMHhTSzNsS0dFMVJFamxSOHIyaFJGaE5IVmFYaXNudFo5WFlsSHVYbm9SVDRQUGVHNWJ1aXFrQkJUejdNYzNtVVhuZ191NQ?oc=5",
+      "source": "BMJ",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-06-10T07:02:34+00:00",
+      "topics": [
+        "policy",
+        "research"
+      ],
+      "policy_tags": [
+        "schedule"
+      ],
+      "vaccines": [],
+      "variants": [
+        "omicron"
+      ],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BMJ / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BMJ / London"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "BMJ"
+      ],
+      "first_seen_at": "2026-05-30T13:54:14+00:00",
+      "last_seen_at": "2026-06-11T22:56:05.949395+00:00"
     },
     {
       "id": "ed53f93c176b4fa2",
@@ -354,7 +565,7 @@
         "FDA Vaccines / Biologics"
       ],
       "first_seen_at": "2026-06-09T17:58:33+00:00",
-      "last_seen_at": "2026-06-10T22:56:53.704250+00:00"
+      "last_seen_at": "2026-06-11T22:56:05.949404+00:00"
     },
     {
       "id": "405e0673a6299cd2",
@@ -421,7 +632,7 @@
         "Nature News Vaccines / Immunization"
       ],
       "first_seen_at": "2026-06-09T14:02:57+00:00",
-      "last_seen_at": "2026-06-10T22:56:53.704256+00:00"
+      "last_seen_at": "2026-06-11T22:56:05.949410+00:00"
     },
     {
       "id": "20b80c915aa12a44",
@@ -488,7 +699,7 @@
         "Nature News Vaccines / Immunization"
       ],
       "first_seen_at": "2026-06-09T09:53:28+00:00",
-      "last_seen_at": "2026-06-10T22:56:53.704258+00:00"
+      "last_seen_at": "2026-06-11T22:56:05.949415+00:00"
     },
     {
       "id": "8921ce78e428e310",
@@ -629,7 +840,7 @@
         "PAHO News"
       ],
       "first_seen_at": "2026-06-08T17:30:11+00:00",
-      "last_seen_at": "2026-06-10T22:56:53.704270+00:00"
+      "last_seen_at": "2026-06-11T22:56:05.949423+00:00"
     },
     {
       "id": "7be72c1a11e51e27",
@@ -698,7 +909,7 @@
         "SSRN vaccine preprints"
       ],
       "first_seen_at": "2026-06-08T03:21:09+00:00",
-      "last_seen_at": "2026-06-10T22:56:53.704276+00:00"
+      "last_seen_at": "2026-06-11T22:56:05.949428+00:00"
     },
     {
       "id": "225cb07db4ff4641",
@@ -766,7 +977,7 @@
         "PLOS journals vaccines"
       ],
       "first_seen_at": "2026-06-05T22:08:42+00:00",
-      "last_seen_at": "2026-06-10T22:56:53.704282+00:00"
+      "last_seen_at": "2026-06-11T22:56:05.949433+00:00"
     },
     {
       "id": "0d0b92bb255200bc",
@@ -907,7 +1118,7 @@
         "PAHO News"
       ],
       "first_seen_at": "2026-06-04T21:16:08+00:00",
-      "last_seen_at": "2026-06-10T22:56:53.704288+00:00"
+      "last_seen_at": "2026-06-11T22:56:05.949440+00:00"
     },
     {
       "id": "04cec04d7a409d31",
@@ -974,7 +1185,7 @@
         "Guardian Vaccines / Immunization"
       ],
       "first_seen_at": "2026-06-04T15:24:00+00:00",
-      "last_seen_at": "2026-06-10T22:56:53.704293+00:00"
+      "last_seen_at": "2026-06-11T22:56:05.949446+00:00"
     },
     {
       "id": "b86977c08a1c3191",
@@ -1120,78 +1331,6 @@
       "last_seen_at": "2026-06-08T22:46:01.134027+00:00"
     },
     {
-      "id": "9c560166a39756d7",
-      "title": "ノーミクロン優勢時の重篤な covid-19 に対する異種 3 回目の接種スケジュールの有効性の比較 -",
-      "summary": "ノーザでのオミクロン優勢時の重篤な covid-19 に対する異種 3 回目の接種スケジュールの有効性の比較",
-      "summary_ai": "ノーザでのオミクロン優勢時の重篤な covid-19 に対する異種 3 回目の接種スケジュールの有効性の比較",
-      "title_original": "Comparative effectiveness of heterologous third dose vaccine schedules against severe covid-19 during omicron predominance in No - The",
-      "summary_original": "Comparative effectiveness of heterologous third dose vaccine schedules against severe covid-19 during omicron predominance in No The",
-      "summary_ai_original": "Comparative effectiveness of heterologous third dose vaccine schedules against severe covid-19 during omicron predominance in No The",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XMlUyRHlxQXRaUnFGNjhNcGJqNFVMNlBaQlo2bzNoMHhTSzNsS0dFMVJFamxSOHIyaFJGaE5IVmFYaXNudFo5WFlsSHVYbm9SVDRQUGVHNWJ1aXFrQkJUejdNYzNtVVhuZ191NQ?oc=5",
-      "source": "BMJ",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-06-03T23:35:06+00:00",
-      "topics": [
-        "policy",
-        "research"
-      ],
-      "policy_tags": [
-        "schedule"
-      ],
-      "vaccines": [],
-      "variants": [
-        "omicron"
-      ],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BMJ / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BMJ / London"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "BMJ"
-      ],
-      "first_seen_at": "2026-05-30T13:54:14+00:00",
-      "last_seen_at": "2026-06-04T22:43:13.581559+00:00"
-    },
-    {
       "id": "5f52d476366b553c",
       "title": "日本の小児および青少年における新型コロナウイルス感染症ワクチンの有効性: ターゲット試験エミュレーション - SSRN eLibrary",
       "summary": "日本の小児および青少年における新型コロナウイルス感染症ワクチンの有効性: ターゲット試験エミュレーション SSRN eLibrary",
@@ -1258,7 +1397,7 @@
         "SSRN vaccine preprints"
       ],
       "first_seen_at": "2026-06-03T07:00:00+00:00",
-      "last_seen_at": "2026-06-10T22:56:53.704298+00:00"
+      "last_seen_at": "2026-06-11T22:56:05.949451+00:00"
     },
     {
       "id": "623243f2d32b2abd",
@@ -1328,7 +1467,7 @@
         "PAHO News"
       ],
       "first_seen_at": "2026-06-02T16:20:54+00:00",
-      "last_seen_at": "2026-06-10T22:56:53.704304+00:00"
+      "last_seen_at": "2026-06-11T22:56:05.949456+00:00"
     },
     {
       "id": "edc27579722c0c2a",
@@ -1397,7 +1536,7 @@
         "CIDRAP Vaccines & Immunization"
       ],
       "first_seen_at": "2026-06-02T16:51:20+00:00",
-      "last_seen_at": "2026-06-10T22:56:53.704308+00:00"
+      "last_seen_at": "2026-06-11T22:56:05.949461+00:00"
     },
     {
       "id": "13afd45867c9f70e",
@@ -1946,7 +2085,7 @@
         "Open Forum Infectious Diseases"
       ],
       "first_seen_at": "2026-06-01T08:58:28+00:00",
-      "last_seen_at": "2026-06-10T22:56:53.704320+00:00"
+      "last_seen_at": "2026-06-11T22:56:05.949469+00:00"
     },
     {
       "id": "95a7a6c010b8a2c9",
@@ -2151,7 +2290,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-05-09T13:24:35+00:00",
-      "last_seen_at": "2026-06-10T22:56:53.704325+00:00"
+      "last_seen_at": "2026-06-11T22:56:05.949475+00:00"
     },
     {
       "id": "a7a9770ff5fcee3d",
@@ -2291,73 +2430,6 @@
       ],
       "first_seen_at": "2026-05-28T19:21:00+00:00",
       "last_seen_at": "2026-06-07T22:16:31.367821+00:00"
-    },
-    {
-      "id": "eb96e2fbe860986d",
-      "title": "米国のワクチン政策の現状 — 2026 年 5 月 28 日 - CIDRAP",
-      "summary": "米国のワクチン政策の現状 — 2026 年 5 月 28 日 CIDRAP",
-      "summary_ai": "米国のワクチン政策の現状 — 2026 年 5 月 28 日 CIDRAP",
-      "title_original": "The State of US Vaccine Policy — May 28, 2026 - CIDRAP",
-      "summary_original": "The State of US Vaccine Policy — May 28, 2026 CIDRAP",
-      "summary_ai_original": "The State of US Vaccine Policy — May 28, 2026 CIDRAP",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNlNlRTZMM3c0bmNSQmc2QTJtWGZGU2JYd1VPMnZyS3lHcG1yRlJiclgzWXVYNDJ3UW5YSUcxalRQSTNpSkVGdDhkTHJQNXJra2dvT1NueG5yYkV2UzRmenY4cUdBVGNQazRMTWFIREh1TDVodkdWaVktSnhLbVVqRUh5Q1VYSlpK?oc=5",
-      "source": "CIDRAP Vaccines & Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 8,
-      "published_at": "2026-05-28T07:00:00+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "CIDRAP / Minnesota"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "CIDRAP / Minnesota"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "CIDRAP Vaccines & Immunization"
-      ],
-      "first_seen_at": "2026-05-28T20:15:25+00:00",
-      "last_seen_at": "2026-06-10T22:56:53.704346+00:00"
     },
     {
       "id": "f0fa40f766fc3215",
