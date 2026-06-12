@@ -1,9 +1,9 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-06-11T22:54:26.043370+00:00",
-  "item_count": 21,
-  "archive_count": 287,
+  "generated_at": "2026-06-12T22:43:29.036222+00:00",
+  "item_count": 26,
+  "archive_count": 291,
   "days_back": 14,
   "plot_mode_default": "source",
   "feed_status": [
@@ -23,7 +23,7 @@
       "name": "CDC Newsroom",
       "url": "https://tools.cdc.gov/api/v2/resources/media/316422.rss",
       "status": "ok",
-      "seen": 8,
+      "seen": 10,
       "kept": 0
     },
     {
@@ -57,7 +57,7 @@
       "url": "https://www.gov.uk/government/organisations/medicines-and-healthcare-products-regulatory-agency.atom",
       "status": "ok",
       "seen": 20,
-      "kept": 0
+      "kept": 1
     },
     {
       "name": "Health Canada Recalls and Safety Alerts",
@@ -81,14 +81,14 @@
       "name": "PAHO News",
       "url": "https://www.paho.org/en/rss.xml",
       "status": "ok",
-      "seen": 8,
+      "seen": 9,
       "kept": 3
     },
     {
       "name": "The Lancet series",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Athelancet.com%20(trial%20OR%20policy%20OR%20effectiveness%20OR%20safety)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 0,
       "kept": 0
     },
     {
@@ -103,14 +103,14 @@
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Anejm.org%20(trial%20OR%20effectiveness%20OR%20policy%20OR%20safety)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
       "seen": 2,
-      "kept": 0
+      "kept": 1
     },
     {
       "name": "BMJ",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abmj.com%20(policy%20OR%20trial%20OR%20effectiveness%20OR%20communication)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 4,
-      "kept": 2
+      "seen": 3,
+      "kept": 1
     },
     {
       "name": "Vaccine journal",
@@ -165,7 +165,7 @@
       "name": "Science vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ascience.org%2Fdoi%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20antibody)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 7,
+      "seen": 3,
       "kept": 0
     },
     {
@@ -221,8 +221,8 @@
       "name": "Human Vaccines & Immunotherapeutics",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Atandfonline.com%20%22Human%20Vaccines%20%26%20Immunotherapeutics%22&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
-      "kept": 0
+      "seen": 2,
+      "kept": 1
     },
     {
       "name": "medRxiv vaccines",
@@ -235,35 +235,35 @@
       "name": "bioRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abiorxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 10,
+      "seen": 8,
       "kept": 0
     },
     {
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 27,
+      "seen": 22,
       "kept": 3
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 26,
+      "seen": 20,
       "kept": 0
     },
     {
       "name": "AP Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 98,
+      "seen": 99,
       "kept": 1
     },
     {
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 32,
+      "seen": 55,
       "kept": 0
     },
     {
@@ -277,42 +277,42 @@
       "name": "STAT Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 10,
+      "seen": 13,
       "kept": 1
     },
     {
       "name": "Nature News Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 9,
+      "seen": 11,
       "kept": 2
     },
     {
       "name": "Science Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Ascience.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 10,
+      "seen": 3,
       "kept": 0
     },
     {
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 22,
+      "seen": 24,
       "kept": 0
     },
     {
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 46,
+      "seen": 24,
       "kept": 1
     },
     {
       "name": "Washington Post Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 14,
+      "seen": 13,
       "kept": 1
     },
     {
@@ -326,42 +326,42 @@
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 33,
+      "seen": 16,
       "kept": 0
     },
     {
       "name": "朝日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Aasahi.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 7,
+      "seen": 2,
       "kept": 0
     },
     {
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 20,
+      "seen": 16,
       "kept": 1
     },
     {
       "name": "毎日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 6,
+      "seen": 2,
       "kept": 0
     },
     {
       "name": "JAMA Network vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 4,
       "kept": 1
     },
     {
       "name": "JAMA Pediatrics vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjamapediatrics&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 3,
       "kept": 0
     },
     {
@@ -382,7 +382,7 @@
       "name": "Open Forum Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fofid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 2,
       "kept": 1
     },
     {
@@ -403,8 +403,8 @@
       "name": "PLOS journals vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajournals.plos.org%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20uptake%20OR%20policy)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 4,
-      "kept": 2
+      "seen": 3,
+      "kept": 1
     },
     {
       "name": "eClinicalMedicine vaccines",
@@ -417,8 +417,8 @@
       "name": "EBioMedicine vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Athelancet.com%2Fjournals%2Febiom&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 0,
-      "kept": 0
+      "seen": 1,
+      "kept": 1
     },
     {
       "name": "International Journal of Infectious Diseases",
@@ -452,28 +452,232 @@
       "name": "Journal of Travel Medicine vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fjtm&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 1,
       "kept": 0
     },
     {
       "name": "SSRN vaccine preprints",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Apapers.ssrn.com%20(effectiveness%20OR%20safety%20OR%20policy%20OR%20trial)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 6,
-      "kept": 2
+      "seen": 8,
+      "kept": 4
     }
   ],
   "weekly_ai_summary": {
-    "generated_at": "2026-06-11T22:54:26.043370+00:00",
+    "generated_at": "2026-06-12T22:43:29.036222+00:00",
     "period_days": 7,
-    "policy_count": 8,
-    "academic_count": 3,
+    "policy_count": 9,
+    "academic_count": 7,
     "status": "ok",
     "model": "gpt-4o-mini",
-    "policy_summary": "米国の産婦人科団体がCDCのガイダンスから逸脱し、独自のワクチン推奨を発行しました。また、ブラジルではデング熱予防接種キャンペーンが資金不足により停止しています。",
-    "academic_summary": "ノーミクロン優勢時の重篤なCOVID-19に対する異種3回目接種スケジュールの有効性についての研究が発表されました。エチオピアの小児予防接種に関する質的研究も行われ、障壁と促進要因が探求されています。"
+    "policy_summary": "MHRAの科学リーダーが2026年国王誕生日栄誉賞を受賞し、ワクチンの安全性と有効性の確保に寄与したことが評価されました。また、産婦人科団体がCDCのガイダンスから逸脱し独自のワクチン推奨を発行しました。",
+    "academic_summary": "テキサス州のラテン系コミュニティにおける新型コロナウイルス予防接種への躊躇に影響を与える要因が研究されています。さらに、インフルエンザワクチンの有効性に関する複数の研究が発表されています。"
   },
   "items": [
+    {
+      "id": "8c92a2e85243b855",
+      "title": "MHRA の科学リーダーが 2026 年国王誕生日栄誉賞で認められる",
+      "summary": "医薬品・ヘルスケア製品規制庁（MHRA）の科学・研究担当エグゼクティブディレクターであるニコラ・ローズ博士が、科学と公衆衛生への貢献が評価され、2026年国王誕生日の栄誉において大英帝国勲章に任命された。",
+      "summary_ai": "これは、ワクチンなどの生物学的医薬品の安全性と有効性を確保し、英国全土の患者と国民に利益をもたらす革新的な製品の導入を支援するために活動する、MHRA サイエンス キャンパスの同僚全員の献身と勤勉に敬意を表するものです。認識したいと思います",
+      "title_original": "MHRA scientific leader recognised in 2026 King’s Birthday Honours",
+      "summary_original": "Dr Nicola Rose, Executive Director of Science and Research at the Medicines and Healthcare products Regulatory Agency (MHRA), has been appointed an OBE in the 2026 King’s Birthday Honours, for services to science and public health.",
+      "summary_ai_original": "This is in tribute to the dedication and hard work of all my colleagues at the MHRA’s Science Campus, who work to make sure that biological medicines such as vaccines are safe and effective, and to support the introduction of innovative products to benefit patients and the public across the UK. I would like to recognis",
+      "article_text_original": "Dr Nicola Rose, Executive Director of Science and Research at the Medicines and Healthcare products Regulatory Agency (MHRA), has been appointed an OBE in the 2026 King’s Birthday Honours, for services to science and public health. She has played a major role in shaping the UK’s regulatory science research, and in the global response to emerging viral diseases. A globally respected leader in regulatory science, with more than 30 years’ experience in virology, vaccines and public health, she leads a team of over 270 scientists, technical staff and students at the MHRA Science Campus in Hertfordshire. Dr Rose said: “I am deeply honoured and very proud to have been recognised in this way. This is in tribute to the dedication and hard work of all my colleagues at the MHRA’s Science Campus, who work to make sure that biological medicines such as vaccines are safe and effective, and to support the introduction of innovative products to benefit patients and the public across the UK. “Our work is vital to the healthcare system. I hope this recognition shines a light on the incredible work of the MHRA and the experts at our Science Campus, and in doing so inspires more young people to seize the opportunities offered by careers in science, research, regulation and public health. “Our science is strengthened by working collaboratively. I would like to recognise all those with whom we work across the UK and globally to advance our science and its impact for patients and public health, giving confidence in biological medicines, as well as the generous support through funding from major national and international bodies.” Dr Rose leads teams that undertake critical work in the assessment and quality assurance of vaccines used in both routine and emergency public health responses, including the seasonal flu vaccination programme. During the COVID-19 pandemic, she led the MHRA’s independent laboratory testing of novel vaccines that helped to accelerate the UK’s vaccine readiness and the rapid development of biological reference materials that were critical to the evaluation of emerging vaccines and the development of accurate diagnostic tests for SARS-CoV-2. These contributions were instrumental in the UK’s pandemic response and contribute to the UK’s future pandemic preparedness. Dr Rose’s research portfolio includes peer-reviewed publications across the key themes of the MHRA’s laboratory science: biological standardisation, evaluation and quality control of biological medicines and regulatory science research. MHRA Chief Executive Lawrence Tallon said: “This is very well deserved recognition for Nicola and her whole team. This honour reflects her leadership and the hard work and dedication of every member of staff at our Science Campus. All of us at the MHRA are very proud that Nicola’s contribution to science and public health has been recognised in this way.”",
+      "link": "https://www.gov.uk/government/news/mhra-scientific-leader-recognised-in-2026-kings-birthday-honours",
+      "source": "MHRA",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 8,
+      "published_at": "2026-06-12T21:30:01+00:00",
+      "topics": [
+        "policy",
+        "research"
+      ],
+      "policy_tags": [
+        "communication",
+        "financing",
+        "outbreak_response"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "英国",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "MHRA / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "MHRA / London"
+        },
+        "target": {
+          "key": "uk",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "英国"
+        }
+      },
+      "location": {
+        "key": "uk",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "英国"
+      },
+      "region": "Europe",
+      "country": "英国",
+      "lat": 51.5074,
+      "lng": -0.1278,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "MHRA"
+      ]
+    },
+    {
+      "id": "aa649a4c21a37a30",
+      "title": "テキサス州北部の社会的に弱い立場にあるラテン系コミュニティにおける新型コロナウイルス予防接種への躊躇に影響を与える要因 - Taylor & Francis Online",
+      "summary": "テキサス州北部の社会的に弱い立場にあるラテン系コミュニティにおける新型コロナウイルス予防接種への躊躇に影響を与える要因 Taylor & Francis Online",
+      "summary_ai": "テキサス州北部の社会的に弱い立場にあるラテン系コミュニティにおける新型コロナウイルス予防接種への躊躇に影響を与える要因 Taylor & Francis Online",
+      "title_original": "Factors influencing COVID-19 vaccine hesitancy in socially vulnerable Latinx communities in North Texas - Taylor & Francis Online",
+      "summary_original": "Factors influencing COVID-19 vaccine hesitancy in socially vulnerable Latinx communities in North Texas Taylor & Francis Online",
+      "summary_ai_original": "Factors influencing COVID-19 vaccine hesitancy in socially vulnerable Latinx communities in North Texas Taylor & Francis Online",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zRXdCXzlmMEVmeWZiWTNQdmdrSm9Oa3kxRXd2WUQxMFhFckZPYlZ1SXIyVDFxZFBCNm56eHE5M1FBWktFTmVyc3BNU0RaS3QtZWk3U25xaDllWEVET1FEZlRGQ3NPeklQUlc1UnE5eEo4SEU?oc=5",
+      "source": "Human Vaccines & Immunotherapeutics",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-06-12T08:04:44+00:00",
+      "topics": [
+        "communication"
+      ],
+      "policy_tags": [
+        "communication"
+      ],
+      "vaccines": [
+        "covid"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "HV&I"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "HV&I"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Human Vaccines & Immunotherapeutics"
+      ]
+    },
+    {
+      "id": "467e9b1cd4d288b0",
+      "title": "RSV Fタンパク質の変異に関係なく、多様かつ世界的に優勢なRSV株に対するアジュバント添加RSVPreF3ワクチンの推定有効性：AReSVi-006試験の事後解析の結果",
+      "summary": "RSV Fタンパク質の変異に関係なく、多様かつ世界的に優勢なRSV株に対するアジュバント添加RSVPreF3ワクチンの推定有効性：AReSVi-006試験の事後解析の結果",
+      "summary_ai": "RSV Fタンパク質の変異に関係なく、多様かつ世界的に優勢なRSV株に対するアジュバント添加RSVPreF3ワクチンの推定有効性：AReSVi-006試験の事後解析の結果",
+      "title_original": "Estimated efficacy of the adjuvanted RSVPreF3 vaccine against diverse and worldwide predominant RSV strains, irrespective of RSV F protein variation: results of a post-hoc analysis from the AReSVi-006 trial",
+      "summary_original": "Estimated efficacy of the adjuvanted RSVPreF3 vaccine against diverse and worldwide predominant RSV strains, irrespective of RSV F protein variation: results of a post-hoc analysis from the AReSVi-006 trial",
+      "summary_ai_original": "Estimated efficacy of the adjuvanted RSVPreF3 vaccine against diverse and worldwide predominant RSV strains, irrespective of RSV F protein variation: results of a post-hoc analysis from the AReSVi-006 trial",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOU1JzQ010Z3g5ODRYNjVpS2lJVlg2NlN4SkVXU0lveUlpRko0Vkpja05FdTJhVUVOTVRYUXI4Y2xxUWtoSnp1N2dXazdtZGh4MVBoOEMyRUdVQXFlejU4bkxYR1NwNFdKenZEODhiSGhCMS1jdzcxeHc4dDZjMFVlaVRjUGxVLUNkcEE?oc=5",
+      "source": "EBioMedicine vaccines",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-06-12T05:33:34+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "EBioMedicine"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "EBioMedicine"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "EBioMedicine vaccines"
+      ]
+    },
     {
       "id": "a8c0d4d6eb4dd1cc",
       "title": "米国のワクチン政策の現状 — 2026 年 6 月 11 日 - CIDRAP",
@@ -540,6 +744,73 @@
       ]
     },
     {
+      "id": "cbd05799632a2285",
+      "title": "小児におけるインフルエンザ関連同時感染に対するインフルエンザワクチンの有効性: 遡及的および理論的モデリング研究 - SSRN eLibrary",
+      "summary": "小児におけるインフルエンザ関連同時感染に対するインフルエンザワクチンの有効性: 遡及的および理論的モデリング研究 SSRN eLibrary",
+      "summary_ai": "小児におけるインフルエンザ関連同時感染に対するインフルエンザワクチンの有効性: 遡及的および理論的モデリング研究 SSRN eLibrary",
+      "title_original": "Influenza Vaccine Effectiveness Against Influenza-Associated Co-Infections Among Children: A Retrospective and Theoretical Modelling Study - SSRN eLibrary",
+      "summary_original": "Influenza Vaccine Effectiveness Against Influenza-Associated Co-Infections Among Children: A Retrospective and Theoretical Modelling Study SSRN eLibrary",
+      "summary_ai_original": "Influenza Vaccine Effectiveness Against Influenza-Associated Co-Infections Among Children: A Retrospective and Theoretical Modelling Study SSRN eLibrary",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBuR1l5Q3JNeF9SSUJNd3BLc3JPSVR6RDV5WmV3X2Zob1AyQk1NU180MHQ3M2w2NXZ1azRKZzUxOEFZUGRIamV2QXFzc0ptRkI1M25WQkJMTFhVamlDcnREX2IzS3dwTUxWcUtn?oc=5",
+      "source": "SSRN vaccine preprints",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 6,
+      "published_at": "2026-06-11T05:16:34+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "influenza"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "SSRN"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "SSRN"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "SSRN vaccine preprints"
+      ]
+    },
+    {
       "id": "8f24ed353b6b1305",
       "title": "産婦人科団体が初めてワクチンを推奨 - ワシントン・ポスト",
       "summary": "産婦人科団体が初めてワクチンを推奨 ワシントン・ポスト",
@@ -553,7 +824,7 @@
       "source_type": "media",
       "source_tier": "Tier 2",
       "source_priority": 7,
-      "published_at": "2026-06-10T18:55:28+00:00",
+      "published_at": "2026-06-11T01:34:22+00:00",
       "topics": [
         "policy"
       ],
@@ -952,6 +1223,73 @@
       ]
     },
     {
+      "id": "34f3e9dfcf929ff1",
+      "title": "4 つの超高齢社会における信頼とワクチンの信頼: Global Listening Project からの洞察 - SSRN eLibrary",
+      "summary": "4 つの超高齢社会における信頼とワクチンの信頼: Global Listening Project SSRN eLibrary からの洞察",
+      "summary_ai": "4 つの超高齢社会における信頼とワクチンの信頼: Global Listening Project SSRN eLibrary からの洞察",
+      "title_original": "Trust and Vaccine Confidence in Four Super-Ageing Societies: Insights from the Global Listening Project - SSRN eLibrary",
+      "summary_original": "Trust and Vaccine Confidence in Four Super-Ageing Societies: Insights from the Global Listening Project SSRN eLibrary",
+      "summary_ai_original": "Trust and Vaccine Confidence in Four Super-Ageing Societies: Insights from the Global Listening Project SSRN eLibrary",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ESXl1QUZuT0ZjSk1LNjhpYW9ZZlhSaEY0VXIzTDVLUDMxRVpxWmRBZjBCRGxhZzJqdTQzS2F0emoxeEo2SUZPVVdBX0cwSW5fZ2N6U2FiNS0xVU5VUi1UejNPUnZhcE9fS1dz?oc=5",
+      "source": "SSRN vaccine preprints",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 6,
+      "published_at": "2026-06-10T07:00:00+00:00",
+      "topics": [
+        "communication"
+      ],
+      "policy_tags": [
+        "communication"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "SSRN"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "SSRN"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "SSRN vaccine preprints"
+      ]
+    },
+    {
       "id": "ed53f93c176b4fa2",
       "title": "現代の新型コロナウイルス感染症 (COVID-19)",
       "summary": "Moderna 新型コロナウイルス感染症 (COVID-19) ワクチン、二価についての情報。最新の二価 mRNA COVID-19ワクチンは現在、生後 6 か月以上の個人に対するすべての用量が FDA から認可されています。",
@@ -1152,6 +1490,73 @@
       ]
     },
     {
+      "id": "8921ce78e428e310",
+      "title": "弱毒化生インフルエンザワクチン: 有効性の再検討 - NEJM 臨床医",
+      "summary": "弱毒生インフルエンザワクチン: 有効性を再検討 NEJM 臨床医",
+      "summary_ai": "弱毒生インフルエンザワクチン: 有効性を再検討 NEJM 臨床医",
+      "title_original": "Live Attenuated Influenza Vaccine: Effectiveness Revisited - NEJM Clinician",
+      "summary_original": "Live Attenuated Influenza Vaccine: Effectiveness Revisited NEJM Clinician",
+      "summary_ai_original": "Live Attenuated Influenza Vaccine: Effectiveness Revisited NEJM Clinician",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNmM3TS1jSlJOMTloLXRYdVBmcmtRY3E4THdJeThHTlF3WlNNcXczaU45SmlaSFhtX3NwMTNhMExKY3lGWUVabUlrRTFfYVBoRDhGMjc2VkJMdkpiQVFPaUx0MTJnQTh3TjJLVTFPZWtxc1lMcTJPT1psUDdjeEN3Q1Rn?oc=5",
+      "source": "NEJM",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-06-08T21:14:10+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "influenza"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "NEJM / Boston"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "NEJM / Boston"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "NEJM"
+      ]
+    },
+    {
       "id": "6669330d6651f37c",
       "title": "PAHO、旅行者と2026 FIFAワールドカップの参加者に健康上の推奨事項を発行",
       "summary": "PAHO、2026 FIFAワールドカップの旅行者と参加者に健康上の推奨事項を発表 クリスティーナ・ミッチェル 2026年6月8日",
@@ -1289,7 +1694,7 @@
       ]
     },
     {
-      "id": "225cb07db4ff4641",
+      "id": "a80ab234b2ab4202",
       "title": "エチオピアのアムハラ、オロミア、ソマリア地域における小児予防接種の障壁とそれを可能にする要因：多視点の質的研究",
       "summary": "エチオピアのアムハラ、オロミア、ソマリア地域における小児予防接種の障壁とそれを可能にする要因：多視点の質的研究",
       "summary_ai": "エチオピアのアムハラ、オロミア、ソマリア地域における小児予防接種の障壁とそれを可能にする要因：多視点の質的研究",
@@ -1297,12 +1702,12 @@
       "summary_original": "Barriers to and enablers of childhood immunization uptake in Ethiopia’s Amhara, Oromia, and Somali Regions: A multi-perspective qualitative study",
       "summary_ai_original": "Barriers to and enablers of childhood immunization uptake in Ethiopia’s Amhara, Oromia, and Somali Regions: A multi-perspective qualitative study",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcWdnVF9pS2IxbjZ0YTB4eEdsR3RqU1N5amdqRGk5NFJWYllEVENrOXpWMmlUT2RwMWRfMzBxVG1fVWhnY1gyMVo1TVptVS1EdTVLME1lS1hlejhqMVFDdlQwZVZnN1JLMWdEVERVZGlqX2w5WlJMUmp4dGtTSnFnWmpIdFdTYm9lV1NsRzkwdVhVaEFtMmxTN0RjSQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeG9JUUIzZ0tJRlo3d2JaVjZPckREZGRGdEJFd3VKUEpzQ3hJaTJVVHJRUXp2alVoNWcxd1U4RFBpT0w1d3gzb2xxRnhxa3RaLUQwYnZTaHMydHdmeHNEX3Vta3Rjb093LW81d0MxYkhZQlJvdXltcGJNZklUdXFkV1NwZnk2alBhNEpNSw?oc=5",
       "source": "PLOS journals vaccines",
       "source_type": "academic",
       "source_tier": "Tier 3",
       "source_priority": 7,
-      "published_at": "2026-06-05T22:08:42+00:00",
+      "published_at": "2026-06-05T19:37:28+00:00",
       "topics": [
         "communication",
         "research"
@@ -1349,9 +1754,74 @@
       "country": "エチオピア",
       "lat": 8.9806,
       "lng": 38.7578,
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicate_sources": [
         "PLOS journals vaccines"
+      ]
+    },
+    {
+      "id": "04cec04d7a409d31",
+      "title": "物議を醸すワクチン政策変更を正当化するためにRFKジュニアと同盟者が利用した3つの研究が新たな精査に直面 - ガーディアン",
+      "summary": "物議を醸すワクチン政策変更を正当化するためにRFKジュニアと同盟者が利用した3つの研究が新たな精査に直面している",
+      "summary_ai": "物議を醸すワクチン政策変更を正当化するためにRFKジュニアと同盟者が利用した3つの研究が新たな精査に直面している",
+      "title_original": "Three studies used by RFK Jr and allies to justify controversial vaccine policy changes facing new scrutiny - The Guardian",
+      "summary_original": "Three studies used by RFK Jr and allies to justify controversial vaccine policy changes facing new scrutiny The Guardian",
+      "summary_ai_original": "Three studies used by RFK Jr and allies to justify controversial vaccine policy changes facing new scrutiny The Guardian",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9tWHFKU3BOelBfRXNxUlowN0FCSlZ4SWdjQnJmNVgzYlNPUHltTWV4bXktZThHb0Uzclk2UF9HMTNhZllkNUlxYTA4MWZGN0wxRVBTbkNBVEZmMVM0VFVLNVFZSXhYUFFyb1ItTWlSRG4tQWtMcWNHWUFR?oc=5",
+      "source": "Guardian Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-06-05T17:28:00+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "The Guardian"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "The Guardian"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Guardian Vaccines / Immunization"
       ]
     },
     {
@@ -1424,71 +1894,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "PAHO News"
-      ]
-    },
-    {
-      "id": "04cec04d7a409d31",
-      "title": "物議を醸すワクチン政策変更を正当化するためにRFKジュニアと同盟者が利用した3つの研究が新たな精査に直面 - ガーディアン",
-      "summary": "物議を醸すワクチン政策変更を正当化するためにRFKジュニアと同盟者が利用した3つの研究が新たな精査に直面している",
-      "summary_ai": "物議を醸すワクチン政策変更を正当化するためにRFKジュニアと同盟者が利用した3つの研究が新たな精査に直面している",
-      "title_original": "Three studies used by RFK Jr and allies to justify controversial vaccine policy changes facing new scrutiny - The Guardian",
-      "summary_original": "Three studies used by RFK Jr and allies to justify controversial vaccine policy changes facing new scrutiny The Guardian",
-      "summary_ai_original": "Three studies used by RFK Jr and allies to justify controversial vaccine policy changes facing new scrutiny The Guardian",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9tWHFKU3BOelBfRXNxUlowN0FCSlZ4SWdjQnJmNVgzYlNPUHltTWV4bXktZThHb0Uzclk2UF9HMTNhZllkNUlxYTA4MWZGN0wxRVBTbkNBVEZmMVM0VFVLNVFZSXhYUFFyb1ItTWlSRG4tQWtMcWNHWUFR?oc=5",
-      "source": "Guardian Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-06-04T11:00:00+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "The Guardian"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "The Guardian"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Guardian Vaccines / Immunization"
       ]
     },
     {
@@ -1827,71 +2232,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "Open Forum Infectious Diseases"
-      ]
-    },
-    {
-      "id": "6371aa09a0cc0d63",
-      "title": "ワクチン政策と国民の信頼に関する物語を再考する -",
-      "summary": "ワクチン政策と国民の信頼に関する物語を再考する",
-      "summary_ai": "ワクチン政策と国民の信頼に関する物語を再考する",
-      "title_original": "Rethinking the narrative on vaccine policy and public trust - The",
-      "summary_original": "Rethinking the narrative on vaccine policy and public trust The",
-      "summary_ai_original": "Rethinking the narrative on vaccine policy and public trust The",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Wb1JLcW1YUlotNHB4ZzZGTDh6TFYzbGZvS0x4eHVScWpiaklUTmVaMUtqOGRrUGUtQ2VLSVl2M0JleUhKZHJmMEVaQXRnSllCaWgwREJMbm5mUkJWY0tn?oc=5",
-      "source": "BMJ",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-05-29T07:27:26+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BMJ / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BMJ / London"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "BMJ"
       ]
     }
   ]
