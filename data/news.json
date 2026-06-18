@@ -1,9 +1,9 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-06-17T22:50:46.222384+00:00",
-  "item_count": 30,
-  "archive_count": 305,
+  "generated_at": "2026-06-18T23:01:04.873877+00:00",
+  "item_count": 36,
+  "archive_count": 313,
   "days_back": 14,
   "plot_mode_default": "source",
   "feed_status": [
@@ -23,7 +23,7 @@
       "name": "CDC Newsroom",
       "url": "https://tools.cdc.gov/api/v2/resources/media/316422.rss",
       "status": "ok",
-      "seen": 9,
+      "seen": 10,
       "kept": 0
     },
     {
@@ -88,7 +88,7 @@
       "name": "The Lancet series",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Athelancet.com%20(trial%20OR%20policy%20OR%20effectiveness%20OR%20safety)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -109,14 +109,14 @@
       "name": "BMJ",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abmj.com%20(policy%20OR%20trial%20OR%20effectiveness%20OR%20communication)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 3,
-      "kept": 3
+      "seen": 0,
+      "kept": 0
     },
     {
       "name": "Vaccine journal",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Asciencedirect.com%2Fjournal%2Fvaccine&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
@@ -130,7 +130,7 @@
       "name": "Nature Medicine vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fnm%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20uptake%20OR%20policy)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 2,
       "kept": 0
     },
     {
@@ -165,7 +165,7 @@
       "name": "Science vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ascience.org%2Fdoi%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20antibody)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 0,
       "kept": 0
     },
     {
@@ -200,8 +200,8 @@
       "name": "JAMA Network Open vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjamanetworkopen%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 3,
-      "kept": 2
+      "seen": 8,
+      "kept": 3
     },
     {
       "name": "JAMA Internal Medicine vaccines",
@@ -221,8 +221,8 @@
       "name": "Human Vaccines & Immunotherapeutics",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Atandfonline.com%20%22Human%20Vaccines%20%26%20Immunotherapeutics%22&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
-      "kept": 0
+      "seen": 1,
+      "kept": 1
     },
     {
       "name": "medRxiv vaccines",
@@ -235,57 +235,57 @@
       "name": "bioRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abiorxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 4,
-      "kept": 0
+      "seen": 6,
+      "kept": 1
     },
     {
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 19,
+      "seen": 24,
       "kept": 3
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 8,
-      "kept": 1
+      "seen": 73,
+      "kept": 2
     },
     {
       "name": "AP Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 88,
+      "seen": 100,
       "kept": 1
     },
     {
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 16,
+      "seen": 18,
       "kept": 0
     },
     {
       "name": "Financial Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aft.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 8,
+      "seen": 10,
       "kept": 1
     },
     {
       "name": "STAT Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 9,
-      "kept": 2
+      "seen": 19,
+      "kept": 4
     },
     {
       "name": "Nature News Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
       "seen": 10,
-      "kept": 1
+      "kept": 2
     },
     {
       "name": "Science Vaccines / Immunization",
@@ -298,21 +298,21 @@
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 12,
+      "seen": 0,
       "kept": 0
     },
     {
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 28,
+      "seen": 81,
       "kept": 2
     },
     {
       "name": "Washington Post Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 15,
+      "seen": 12,
       "kept": 2
     },
     {
@@ -326,28 +326,28 @@
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 39,
+      "seen": 28,
       "kept": 0
     },
     {
       "name": "朝日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Aasahi.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 6,
+      "seen": 8,
       "kept": 0
     },
     {
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 7,
+      "seen": 6,
       "kept": 1
     },
     {
       "name": "毎日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 3,
+      "seen": 5,
       "kept": 0
     },
     {
@@ -355,7 +355,7 @@
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
       "seen": 10,
-      "kept": 3
+      "kept": 4
     },
     {
       "name": "JAMA Pediatrics vaccines",
@@ -368,14 +368,14 @@
       "name": "Clinical Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fcid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
-      "kept": 0
+      "seen": 3,
+      "kept": 1
     },
     {
       "name": "Journal of Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fjid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
@@ -404,7 +404,7 @@
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajournals.plos.org%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20uptake%20OR%20policy)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
       "seen": 3,
-      "kept": 1
+      "kept": 2
     },
     {
       "name": "eClinicalMedicine vaccines",
@@ -424,7 +424,7 @@
       "name": "International Journal of Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aijidonline.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -459,21 +459,428 @@
       "name": "SSRN vaccine preprints",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Apapers.ssrn.com%20(effectiveness%20OR%20safety%20OR%20policy%20OR%20trial)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 4,
+      "seen": 5,
       "kept": 4
     }
   ],
   "weekly_ai_summary": {
-    "generated_at": "2026-06-17T22:50:46.222384+00:00",
+    "generated_at": "2026-06-18T23:01:04.873877+00:00",
     "period_days": 7,
-    "policy_count": 8,
-    "academic_count": 8,
+    "policy_count": 9,
+    "academic_count": 9,
     "status": "ok",
     "model": "gpt-4o-mini",
-    "policy_summary": "大手産婦人科医グループが母親の予防接種スケジュールに関してCDCから離脱した。PAHOはアメリカ大陸でのジフテリア症例増加を受け、各国に予防接種の取り組みを強化するよう要請している。",
-    "academic_summary": "2025年から2026年の呼吸器ウイルス流行期における新型コロナウイルスワクチンの効果に関する研究が発表された。高齢者における新型コロナウイルス感染症ワクチンの有効性に関する新たなデータも提供されている。"
+    "policy_summary": "PAHO執行委員会は第178回会合を開催し、南北アメリカの公衆衛生の優先事項に関する戦略を承認しました。また、ジフテリア症例の増加を受けて、各国に予防接種の強化を呼びかけています。",
+    "academic_summary": "新型コロナウイルスワクチンの有効性に関する複数の研究が発表され、高齢者や成人におけるワクチンの効果が評価されています。また、HPVワクチン接種に影響を与える要因を探る定性的研究も行われています。"
   },
   "items": [
+    {
+      "id": "0ac7c064b39bcba2",
+      "title": "PAHO執行委員会、南北アメリカ全土の健康強化に向けた重要な決定を下し、第178回会合を終了",
+      "summary": "PAHO執行委員会、南北アメリカ全土の健康強化に向けた重要な決定で第178回会合を終了 クリスティーナ・ミッチェル 2026年6月18日",
+      "summary_ai": "ワシントン D.C.、2026 年 6 月 18 日 (PAHO) – 汎米保健機関 (PAHO) 執行委員会の第 178 回会合は、この地域の最も差し迫った公衆衛生の優先事項に関する 4 日間の議論を経て、加盟国が一連の戦略、行動計画、決議を承認し、本日閉会しました。",
+      "title_original": "PAHO Executive Committee concludes 178th session with key decisions to strengthen health across the Americas",
+      "summary_original": "PAHO Executive Committee concludes 178th session with key decisions to strengthen health across the Americas Cristina Mitchell 18 Jun 2026",
+      "summary_ai_original": "Washington, D.C., 18 June 2026 (PAHO) – The 178th Session of the Executive Committee of the Pan American Health Organization (PAHO) concluded today after four days of discussions on the Region's most pressing public health priorities, with Member States approving a series of strategies, plans of action and resolutions",
+      "article_text_original": "Washington, D.C., 18 June 2026 (PAHO) – The 178th Session of the Executive Committee of the Pan American Health Organization (PAHO) concluded today after four days of discussions on the Region's most pressing public health priorities, with Member States approving a series of strategies, plans of action and resolutions that will help strengthen health systems, improve preparedness for health emergencies, and expand access to essential health services across the Americas. Throughout the week, delegates reviewed the Organization's technical and financial priorities and agreed on measures to advance regional cooperation in areas including health emergency preparedness, antimicrobial resistance, arboviral diseases, food safety, and access to vaccines, medicines and other strategic health supplies through PAHO's Regional Revolving Funds. In total, the Executive Committee considered 41 agenda items, approved 13 resolutions, adopted four policy documents, and reviewed seven progress reports and four final reports. Among the key decisions were the approval of the Strategy for Strengthening Health Emergency and Risk Management for Health Security 2026–2031, the Plan of Action on Antimicrobial Resistance 2027–2031, the Integrated Management Strategy for the Prevention and Control of Arboviral Diseases 2026–2035, the Strategy and Plan of Action on Food Safety 2026–2031, and measures to strengthen and align PAHO's Regional Revolving Funds. The Committee also reviewed the Preliminary End-of-Biennium Assessment of the PAHO Program Budget 2024–2025 and the Final Report on the Implementation of the PAHO Strategic Plan 2020–2025, reflecting on progress made toward improving health across the Region while identifying priorities for the years ahead. Delegates received updates on the implementation of the International Health Regulations (2005), the Organization's Shared Services Initiative, ethics and internal oversight, human resources management, and efforts to prevent and respond to sexual exploitation and abuse. The Committee also discussed an innovative financing mechanism being developed jointly by PAHO and the Inter-American Development Bank to expand countries' access to financing for high-cost medicines through the Regional Revolving Funds. Closing the session, PAHO Director Dr. Jarbas Barbosa thanked Member States for their constructive engagement and commitment throughout the week. \"Members States took full responsibility for their role in this session of the Executive Committee and renewed their commitment to the Pan American Health Organization, and their efforts in reaching agreement in the discussions this week emphasized the trust and value you place on us,\" said Dr. Barbosa. The Director also reiterated the importance of ensuring PAHO's financial sustainability by urging Member States to make timely payment of their assessed contributions, noting that adequate financing is essential for the Organization to deliver on the priorities established by countries through the Strategic Plan. Concluding the meeting, Dr. Barbosa called on countries to continue working together in the spirit of Pan American solidarity to address the Region's shared health challenges. \"Today, as we bid farewell, I respectfully ask that we recommit ourselves to Pan Americanism by ensuring better health for the people of the Hemisphere. Once again, I congratulate you all on a job well done.\" The Executive Committee is one of PAHO's governing bodies and meets twice a year to consider technical and administrative matters and provide guidance to the Pan American Sanitary Bureau. The recommendations and decisions adopted during the 178th Session will inform the work of the Organization and contribute to discussions at the 63rd PAHO Directing Council later this year.",
+      "link": "https://www.paho.org/en/news/18-6-2026-paho-executive-committee-concludes-178th-session-key-decisions-strengthen-health",
+      "source": "PAHO News",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 8,
+      "published_at": "2026-06-18T19:29:40+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [
+        "approval",
+        "financing",
+        "outbreak_response",
+        "recommendation",
+        "safety"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "PAHO / Washington DC"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "PAHO / Washington DC"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "PAHO News"
+      ]
+    },
+    {
+      "id": "b6b8148c47bd0798",
+      "title": "帯状疱疹ワクチンが認知症リスクを低下させる可能性があることが新たな研究で判明 - statnews.com",
+      "summary": "帯状疱疹ワクチンが認知症リスクを低下させる可能性があることが新たな研究で判明 statnews.com",
+      "summary_ai": "帯状疱疹ワクチンが認知症リスクを低下させる可能性があることが新たな研究で判明 statnews.com",
+      "title_original": "Shingles vaccine may lower dementia risk, new study finds - statnews.com",
+      "summary_original": "Shingles vaccine may lower dementia risk, new study finds statnews.com",
+      "summary_ai_original": "Shingles vaccine may lower dementia risk, new study finds statnews.com",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMnFVbTBBME40a19LNUFOVE5XcjI4QlM4YWJtTVFuRlVBVUhsRzZzUHg1dVpRVWxOWkRzamhzMGw5SkVteVVLamlwOWpERnNMRE9wNTlrNWVDZXdIMXZCRHUzbXpZZWdkLUlUOW5JSmF1MWVEbTBFSk1aMUJjRy1lejFqckZ6MS1ZNzBsdGxwd2k?oc=5",
+      "source": "STAT Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-06-18T15:56:18+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "STAT"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "STAT"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "STAT Vaccines / Immunization"
+      ]
+    },
+    {
+      "id": "f1388b36f6125f8b",
+      "title": "メルクの肺炎球菌ワクチン、米国で高リスクの子供や十代向けの承認を獲得 - ロイター",
+      "summary": "メルクの肺炎球菌ワクチン、米国で高リスクの子供と十代の若者向けに承認獲得 Reuters",
+      "summary_ai": "メルクの肺炎球菌ワクチン、米国で高リスクの子供と十代の若者向けに承認獲得 Reuters",
+      "title_original": "Merck's pneumococcal vaccine wins US approval for high-risk children, teens - Reuters",
+      "summary_original": "Merck's pneumococcal vaccine wins US approval for high-risk children, teens Reuters",
+      "summary_ai_original": "Merck's pneumococcal vaccine wins US approval for high-risk children, teens Reuters",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeXZyWms1LVFUZXVKaFkyaERHUHJQRWJRaDk4Q01JNlB5eUFIWUVjTFotZFlDVTF5LWh1bEIxQjB2Q0c4ZTFJekVjcUdDVkJ4UzhzZFdxdU5rdkxFSDlGNWRyZk5YSGl5dmdFVnpWZ1VSeWNPRHNZY3Myc2QwY29GUHFjWncybTloZlZJQTdsZ1doVFNSc3MtQVpORVdaWTJRbGl5RXE3aHBfWk9SMzR2b0w4TWtMcl9xUlZZOHMzRU04alprMGg3N3I2cVROdnJZZWRkRG5jeWg?oc=5",
+      "source": "Reuters Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-06-18T11:13:43+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [
+        "approval"
+      ],
+      "vaccines": [
+        "pneumococcal"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Reuters"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Reuters"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Reuters Vaccines / Immunization"
+      ]
+    },
+    {
+      "id": "20ec34c1346b287b",
+      "title": "VaxjoGNN: オントロジーに基づいたワクチンアジュバント推奨のためのグラフ ニューラル ネットワーク - bioRxiv",
+      "summary": "VaxjoGNN: オントロジーに基づいたワクチンアジュバント推奨用のグラフ ニューラル ネットワーク bioRxiv",
+      "summary_ai": "VaxjoGNN: オントロジーに基づいたワクチンアジュバント推奨用のグラフ ニューラル ネットワーク bioRxiv",
+      "title_original": "VaxjoGNN: A Graph Neural Network for Ontology-Grounded Vaccine Adjuvant Recommendation - bioRxiv",
+      "summary_original": "VaxjoGNN: A Graph Neural Network for Ontology-Grounded Vaccine Adjuvant Recommendation bioRxiv",
+      "summary_ai_original": "VaxjoGNN: A Graph Neural Network for Ontology-Grounded Vaccine Adjuvant Recommendation bioRxiv",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qNEV3VFdxNTM3U2lnSGQ4NXhSaVZsN3BZVXZTaXMzZ2ZLREdMUExLOFdWcXgxUHZWY3RudnllTjZGOUV4S2VJbzE2emYxYTB2NjlLTmlNZGg5ZTQ4REYxM1NDZFZ2WXFxSnpz?oc=5",
+      "source": "bioRxiv vaccines",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-06-18T09:26:08+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [
+        "recommendation"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "bioRxiv"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "bioRxiv"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "bioRxiv vaccines"
+      ]
+    },
+    {
+      "id": "fc75acf55fecc7ea",
+      "title": "上院民主党、HHSに対し連邦ワクチン政策に関する記録の提供を要求 - statnews.com",
+      "summary": "上院民主党、HHSに対し連邦ワクチン政策に関する記録の提供を要求 statnews.com",
+      "summary_ai": "上院民主党、HHSに対し連邦ワクチン政策に関する記録の提供を要求 statnews.com",
+      "title_original": "Senate Democrats demand HHS provide records on federal vaccine policy - statnews.com",
+      "summary_original": "Senate Democrats demand HHS provide records on federal vaccine policy statnews.com",
+      "summary_ai_original": "Senate Democrats demand HHS provide records on federal vaccine policy statnews.com",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQmR0UWlQZ0hrQmszQUFjVmRGdENhZzR1dm5iOGhhdXRlUjRrb1ktOWxERDF0WmRhOXRGT3lrV0dvZ0l0VzFOeG1GREJvRnZUeG5YZGlxQnhKZy1KMlAwcFhvdE1oMDlBbjNlTk1EODYxSjg1a2toSC1qSkYxeXJmNTBWZHNFLXlK?oc=5",
+      "source": "STAT Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-06-18T08:34:08+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "STAT"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "STAT"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "STAT Vaccines / Immunization"
+      ]
+    },
+    {
+      "id": "0b5131f0e029ff99",
+      "title": "潜在的な優先製品推奨をガイドするためにインフルエンザワクチンの有効性を比較するアプローチ - オックスフォード・アカデミック",
+      "summary": "潜在的な優先製品推奨をガイドするためのインフルエンザワクチンの有効性比較へのアプローチ オックスフォード・アカデミック",
+      "summary_ai": "潜在的な優先製品推奨をガイドするためのインフルエンザワクチンの有効性比較へのアプローチ オックスフォード・アカデミック",
+      "title_original": "Approaches to Comparing Influenza Vaccine Effectiveness to Guide Potential Preferential Product Recommendations - Oxford Academic",
+      "summary_original": "Approaches to Comparing Influenza Vaccine Effectiveness to Guide Potential Preferential Product Recommendations Oxford Academic",
+      "summary_ai_original": "Approaches to Comparing Influenza Vaccine Effectiveness to Guide Potential Preferential Product Recommendations Oxford Academic",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9VOXJKc3N3RXlQbTV6WUluWTZOR2d4SDdPVWNIZ1JUYmx4X0VpNDNPOUlESnhfbzRIUWNGX09manc2Y0xEU2d5a3IwZV9Cam5wN1JmeHR3cTU0RnZ6cVZxZTBDVQ?oc=5",
+      "source": "Clinical Infectious Diseases",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-06-18T01:15:48+00:00",
+      "topics": [
+        "policy",
+        "research"
+      ],
+      "policy_tags": [
+        "recommendation"
+      ],
+      "vaccines": [
+        "influenza"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "Clinical Infectious Diseases"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "Clinical Infectious Diseases"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Clinical Infectious Diseases"
+      ]
+    },
     {
       "id": "d811cea04ed2dd3e",
       "title": "要点: モデルナ mRNA インフルエンザ ワクチンのレビュー、性器ヘルペス ワクチンに対する NIH 賞、マラリア モノクローナル抗体試験 - CIDRAP",
@@ -488,7 +895,7 @@
       "source_type": "media",
       "source_tier": "Tier 2",
       "source_priority": 8,
-      "published_at": "2026-06-17T20:14:00+00:00",
+      "published_at": "2026-06-17T18:14:00+00:00",
       "topics": [
         "research"
       ],
@@ -539,6 +946,137 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "CIDRAP Vaccines & Immunization"
+      ]
+    },
+    {
+      "id": "f8047ae0e1f57b83",
+      "title": "2025年から2026年のインフルエンザシーズンにおけるインフルエンザの活動性と推定されるワクチンの有効性",
+      "summary": "2025年から2026年のインフルエンザシーズンにおけるインフルエンザの活動性と推定されるワクチンの有効性",
+      "summary_ai": "2025年から2026年のインフルエンザシーズンにおけるインフルエンザの活動性と推定されるワクチンの有効性",
+      "title_original": "Influenza Activity and Estimated Vaccine Effectiveness in the 2025-2026 Influenza Season",
+      "summary_original": "Influenza Activity and Estimated Vaccine Effectiveness in the 2025-2026 Influenza Season",
+      "summary_ai_original": "Influenza Activity and Estimated Vaccine Effectiveness in the 2025-2026 Influenza Season",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE12elRqeVNmUzZNWGs1S05feU9iZzZSVDlrdzBJR21IcVN0d2JEX1lKSHFqSnlHOXUzbHRJTHlhWjhoV2RaaG5HcEZoelEyVmN2Z2Y0ejJLU1FnZnZYUmEtTHpFdXBhYlNndWhud0hVaktFcDZkc1FN?oc=5",
+      "source": "JAMA Network Open vaccines",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 9,
+      "published_at": "2026-06-17T15:14:35+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "JAMA Network Open"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "JAMA Network Open"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 2,
+      "duplicate_sources": [
+        "JAMA Network Open vaccines",
+        "JAMA Network vaccines"
+      ]
+    },
+    {
+      "id": "c612857c7f59ef32",
+      "title": "認知症予防のための帯状疱疹弱毒化生ワクチンの大規模ランダム化試験が緊急に必要な理由",
+      "summary": "認知症予防のための帯状疱疹弱毒化生ワクチンの大規模ランダム化試験が緊急に必要な理由",
+      "summary_ai": "認知症予防のための帯状疱疹弱毒化生ワクチンの大規模ランダム化試験が緊急に必要な理由",
+      "title_original": "Why large-scale randomized trials of live-attenuated shingles vaccination for dementia prevention are urgently needed",
+      "summary_original": "Why large-scale randomized trials of live-attenuated shingles vaccination for dementia prevention are urgently needed",
+      "summary_ai_original": "Why large-scale randomized trials of live-attenuated shingles vaccination for dementia prevention are urgently needed",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrM2ZucnhKeFpjTG9TSXEzdm5DNHpGY1VtSXpFWW1mSklQbGl2blhrdEpMMkhYVHhjTkRjc2oyOXRFQWlXNGt0Unl6NDVzV0Y0MzgzTk5oQjV6c1lrblZj?oc=5",
+      "source": "Nature News Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 5,
+      "published_at": "2026-06-17T09:39:35+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Nature News"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Nature News"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Nature News Vaccines / Immunization"
       ]
     },
     {
@@ -671,6 +1209,74 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "CIDRAP Vaccines & Immunization"
+      ]
+    },
+    {
+      "id": "0e18a02c66ef06ed",
+      "title": "ナイジェリア、クワラ州の介護者のHPVワクチン接種に影響を与える要因の理解：定性的研究",
+      "summary": "ナイジェリア、クワラ州の介護者のHPVワクチン接種に影響を与える要因の理解：定性的研究",
+      "summary_ai": "ナイジェリア、クワラ州の介護者のHPVワクチン接種に影響を与える要因の理解：定性的研究",
+      "title_original": "Understanding factors influencing HPV vaccine uptake among caregivers in Kwara State, Nigeria: A qualitative study",
+      "summary_original": "Understanding factors influencing HPV vaccine uptake among caregivers in Kwara State, Nigeria: A qualitative study",
+      "summary_ai_original": "Understanding factors influencing HPV vaccine uptake among caregivers in Kwara State, Nigeria: A qualitative study",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZWi0zbWNiWk5NYzdBZWV4bG5FR3RtN01acHlyN3BXcURxaUwxWTl6Y1VDRGtWRFJRUkpoNzYtNDE2Uld3UUxfbkVTNXRpOWRwX0RXcTMwWFRubTRnZkRlQmNGMm9XSEo5Rmo4ZWs3al9LUFFXWm94MGhFUTdTZw?oc=5",
+      "source": "PLOS journals vaccines",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-06-16T18:18:50+00:00",
+      "topics": [
+        "communication",
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "hpv"
+      ],
+      "variants": [],
+      "target_country": "ナイジェリア",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "PLOS"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "PLOS"
+        },
+        "target": {
+          "key": "nigeria",
+          "name_ja": "ナイジェリア",
+          "lat": 9.0765,
+          "lng": 7.3986,
+          "region": "Africa",
+          "label": "ナイジェリア"
+        }
+      },
+      "location": {
+        "key": "nigeria",
+        "name_ja": "ナイジェリア",
+        "lat": 9.0765,
+        "lng": 7.3986,
+        "region": "Africa",
+        "label": "ナイジェリア"
+      },
+      "region": "Africa",
+      "country": "ナイジェリア",
+      "lat": 9.0765,
+      "lng": 7.3986,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "PLOS journals vaccines"
       ]
     },
     {
@@ -938,73 +1544,6 @@
       "duplicate_sources": [
         "JAMA Network Open vaccines",
         "JAMA Network vaccines"
-      ]
-    },
-    {
-      "id": "19898e76083380e8",
-      "title": "成人における2024～2025年の新型コロナウイルス感染症ワクチンの有効性の推定",
-      "summary": "成人における2024～2025年の新型コロナウイルス感染症ワクチンの有効性の推定",
-      "summary_ai": "成人における2024～2025年の新型コロナウイルス感染症ワクチンの有効性の推定",
-      "title_original": "Estimated Effectiveness of 2024-2025 COVID-19 Vaccines in Adults",
-      "summary_original": "Estimated Effectiveness of 2024-2025 COVID-19 Vaccines in Adults",
-      "summary_ai_original": "Estimated Effectiveness of 2024-2025 COVID-19 Vaccines in Adults",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE16cUl6Q2tiT2RCYkJyZ3RQTzlxU3FyRHdIemJ5cTFRZ2N2eThTWC1pUnQ4YW81blhPWUpxbVJnOXo5dDgxd1hHZWxOOHhYWHVCMFZzbnNtVGJGZUxEaEFZcmtsa0ZjdUt0WXE4SkNEcGdRdXhxWWV6QVNnandqUQ?oc=5",
-      "source": "JAMA Internal Medicine vaccines",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-06-15T23:58:57+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "covid"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "JAMA Internal Medicine"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "JAMA Internal Medicine"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "JAMA Internal Medicine vaccines"
       ]
     },
     {
@@ -1282,117 +1821,45 @@
       ]
     },
     {
-      "id": "9c560166a39756d7",
-      "title": "ノーミクロン優勢時の重篤な covid-19 に対する異種 3 回目の接種スケジュールの有効性の比較 -",
-      "summary": "ノーザでのオミクロン優勢時の重篤な covid-19 に対する異種 3 回目の接種スケジュールの有効性の比較",
-      "summary_ai": "ノーザでのオミクロン優勢時の重篤な covid-19 に対する異種 3 回目の接種スケジュールの有効性の比較",
-      "title_original": "Comparative effectiveness of heterologous third dose vaccine schedules against severe covid-19 during omicron predominance in No - The",
-      "summary_original": "Comparative effectiveness of heterologous third dose vaccine schedules against severe covid-19 during omicron predominance in No The",
-      "summary_ai_original": "Comparative effectiveness of heterologous third dose vaccine schedules against severe covid-19 during omicron predominance in No The",
+      "id": "b5ee73c0066237fd",
+      "title": "成人における2024～2025年の新型コロナウイルス感染症ワクチンの有効性の推定",
+      "summary": "成人における2024～2025年の新型コロナウイルス感染症ワクチンの有効性の推定",
+      "summary_ai": "成人における2024～2025年の新型コロナウイルス感染症ワクチンの有効性の推定",
+      "title_original": "Estimated Effectiveness of 2024-2025 COVID-19 Vaccines in Adults",
+      "summary_original": "Estimated Effectiveness of 2024-2025 COVID-19 Vaccines in Adults",
+      "summary_ai_original": "Estimated Effectiveness of 2024-2025 COVID-19 Vaccines in Adults",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XMlUyRHlxQXRaUnFGNjhNcGJqNFVMNlBaQlo2bzNoMHhTSzNsS0dFMVJFamxSOHIyaFJGaE5IVmFYaXNudFo5WFlsSHVYbm9SVDRQUGVHNWJ1aXFrQkJUejdNYzNtVVhuZ191NQ?oc=5",
-      "source": "BMJ",
+      "link": "https://news.google.com/rss/articles/CBMiowRBVV95cUxOQUdCM2xwMGxwVG5qS2ZHNEFJazdhR05FaHR1NDh0dEpYaXhtTUpURVNEN3JabTFpdGhfT0VYNW9CWGRuMGkyNFNBeXBlam9BMlgyMGd2RjZ0cE5OcmVERHFENkVIZk1nSUlDUWNoU3lGOE92M3lBRzNqbFQ2U3N6dkw4OEZsb002bGJ4T0RSLWlkbGJHUWZ2UHRzbHlDUzd5X3JaOEZoZU5HU1gwTkxoRTFLS2JWbWhXWW0ycVFIbkxPckFBcmgzSEhPc0RVYVExUGo5QlhNbVN6eWMwX2NIZDloWjJMSjJFQ1gtWnpWV0VWYzJzQ2RlQVBZU01xNkFYRVdTbVZ5N0ZMSjRKd25Nbm5iVTY0N05aeFVMbFprS1NpQ09rcld1NFNGeFdPai1QTG5EeWtYdXc3blN3NTZhNEcwWlBvVHBHc3ZGTmI3T0x1b3pxajl5NlJGX3RsZ1pWMFo4OTgyWmJxV19jaWdPMmVFTjc2QzBCUjJLUWdEcngxMENyeFl6YUtHXzJ4MVVBckJsT0VWR3dqbzZiMUJheGhyamkzUk44endWUHFyVDJfQ2hwWGE5Vl8tNjFxbFNXQUhoc3U1Ynh6QW50cTN3VzJybDNSV1gyMW1mejB5QnJVa3hyNThRTzFuSjEzS3Y0UDduVWpuVTNxWk5kMlBBdllFV2JPZDg0Z3RaX29NT3d0SVNpY0RvWW05ZDdDNFQ4X0NZ?oc=5",
+      "source": "JAMA Internal Medicine vaccines",
       "source_type": "academic",
       "source_tier": "Tier 3",
       "source_priority": 8,
-      "published_at": "2026-06-15T06:20:44+00:00",
-      "topics": [
-        "policy",
-        "research"
-      ],
-      "policy_tags": [
-        "schedule"
-      ],
-      "vaccines": [],
-      "variants": [
-        "omicron"
-      ],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BMJ / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BMJ / London"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "BMJ"
-      ]
-    },
-    {
-      "id": "273493c75414a811",
-      "title": "ニルセビマブ、母体用 RSVワクチン、高齢者用 RSVワクチンの実際の有効性と安全性 - thorax.bmj.com",
-      "summary": "ニルセビマブ、母体用 RSVワクチン、高齢者用 RSVワクチンの実際の有効性と安全性 thorax.bmj.com",
-      "summary_ai": "ニルセビマブ、母体用 RSVワクチン、高齢者用 RSVワクチンの実際の有効性と安全性 thorax.bmj.com",
-      "title_original": "Real-world effectiveness and safety of nirsevimab, RSV maternal vaccine and RSV vaccines for older adults - thorax.bmj.com",
-      "summary_original": "Real-world effectiveness and safety of nirsevimab, RSV maternal vaccine and RSV vaccines for older adults thorax.bmj.com",
-      "summary_ai_original": "Real-world effectiveness and safety of nirsevimab, RSV maternal vaccine and RSV vaccines for older adults thorax.bmj.com",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16b1dwUEg0SnlPLTQxS3NzQUlZbHlRZVFwME03N2JDbDhEdUdUbFROS2VjcVE1SVdsZFhDUEtONXFOLVBvN3JLcHM3ZDVETXRxUENRVXQ5WFdXcllpcTNEbnFwOExocmhOR29N?oc=5",
-      "source": "BMJ",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-06-13T02:56:05+00:00",
+      "published_at": "2026-06-15T07:00:00+00:00",
       "topics": [
         "research"
       ],
-      "policy_tags": [
-        "safety"
-      ],
+      "policy_tags": [],
       "vaccines": [
-        "rsv"
+        "covid"
       ],
       "variants": [],
       "target_country": "不明",
       "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BMJ / London"
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "JAMA Internal Medicine"
       },
       "plot": {
         "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BMJ / London"
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "JAMA Internal Medicine"
         },
         "target": {
           "key": "unknown",
@@ -1417,7 +1884,7 @@
       "lng": 0.0,
       "duplicate_count": 1,
       "duplicate_sources": [
-        "BMJ"
+        "JAMA Internal Medicine vaccines"
       ]
     },
     {
@@ -1557,6 +2024,75 @@
       ]
     },
     {
+      "id": "aa649a4c21a37a30",
+      "title": "テキサス州北部の社会的に弱い立場にあるラテン系コミュニティにおける新型コロナウイルス予防接種への躊躇に影響を与える要因 - Taylor & Francis Online",
+      "summary": "テキサス州北部の社会的に弱い立場にあるラテン系コミュニティにおける新型コロナウイルス予防接種への躊躇に影響を与える要因 Taylor & Francis Online",
+      "summary_ai": "テキサス州北部の社会的に弱い立場にあるラテン系コミュニティにおける新型コロナウイルス予防接種への躊躇に影響を与える要因 Taylor & Francis Online",
+      "title_original": "Factors influencing COVID-19 vaccine hesitancy in socially vulnerable Latinx communities in North Texas - Taylor & Francis Online",
+      "summary_original": "Factors influencing COVID-19 vaccine hesitancy in socially vulnerable Latinx communities in North Texas Taylor & Francis Online",
+      "summary_ai_original": "Factors influencing COVID-19 vaccine hesitancy in socially vulnerable Latinx communities in North Texas Taylor & Francis Online",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zRXdCXzlmMEVmeWZiWTNQdmdrSm9Oa3kxRXd2WUQxMFhFckZPYlZ1SXIyVDFxZFBCNm56eHE5M1FBWktFTmVyc3BNU0RaS3QtZWk3U25xaDllWEVET1FEZlRGQ3NPeklQUlc1UnE5eEo4SEU?oc=5",
+      "source": "Human Vaccines & Immunotherapeutics",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-06-12T08:04:44+00:00",
+      "topics": [
+        "communication"
+      ],
+      "policy_tags": [
+        "communication"
+      ],
+      "vaccines": [
+        "covid"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "HV&I"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "HV&I"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Human Vaccines & Immunotherapeutics"
+      ]
+    },
+    {
       "id": "a8c0d4d6eb4dd1cc",
       "title": "米国のワクチン政策の現状 — 2026 年 6 月 11 日 - CIDRAP",
       "summary": "米国のワクチン政策の現状 — 2026 年 6 月 11 日 CIDRAP",
@@ -1619,73 +2155,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "CIDRAP Vaccines & Immunization"
-      ]
-    },
-    {
-      "id": "fa71b9a2c68088d4",
-      "title": "予防接種：トランプ大統領が推奨変更に力を入れる中、RFKジュニアが自閉症との関連性を挙げた研究は撤回 -",
-      "summary": "予防接種：トランプ大統領が推奨変更に力を入れる中、RFKジュニアが自閉症との関連性を挙げた研究は撤回される",
-      "summary_ai": "予防接種：トランプ大統領が推奨変更に力を入れる中、RFKジュニアが自閉症との関連性を挙げた研究は撤回される",
-      "title_original": "Vaccination: RFK Jr cited autism link studies are retracted as Trump doubles down on recommendation changes - The",
-      "summary_original": "Vaccination: RFK Jr cited autism link studies are retracted as Trump doubles down on recommendation changes The",
-      "summary_ai_original": "Vaccination: RFK Jr cited autism link studies are retracted as Trump doubles down on recommendation changes The",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5rV0V0ODVtVEZrMVZpeFc0V19TV0s2RUxUTWdWTjNiT1lGZlh3M1dEZEVSLV9pREotb0lXZHBjMjBISEdfZFAzZWN1UWxQZFhZZjFiOGhsSjk4Rk0?oc=5",
-      "source": "BMJ",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-06-11T11:52:31+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [
-        "recommendation"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BMJ / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BMJ / London"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "BMJ"
       ]
     },
     {
@@ -1837,7 +2306,7 @@
       "source_type": "media",
       "source_tier": "Tier 2",
       "source_priority": 7,
-      "published_at": "2026-06-10T14:48:51+00:00",
+      "published_at": "2026-06-10T07:00:00+00:00",
       "topics": [
         "policy"
       ],
@@ -1904,7 +2373,7 @@
       "source_type": "media",
       "source_tier": "Tier 2",
       "source_priority": 7,
-      "published_at": "2026-06-10T10:31:00+00:00",
+      "published_at": "2026-06-10T07:00:00+00:00",
       "topics": [
         "policy"
       ],
@@ -2360,78 +2829,6 @@
       ]
     },
     {
-      "id": "72c261563125f1e2",
-      "title": "アフリカでエボラ出血熱が流行する中、PAHOが南北アメリカ全土での備えを強化",
-      "summary": "アフリカでのエボラ出血熱流行中、PAHOが南北アメリカ全土での備えを強化 クリスティーナ・ミッチェル 2026年6月4日",
-      "summary_ai": "ワシントン D.C.、2026 年 6 月 4 日 (PAHO) — 汎アメリカ保健機関 (PAHO)は、現在進行中の感染症に関連した世界保健機関による国際的に懸念される公衆衛生上の緊急事態 (PHEIC)の宣言を受けて、エボラ出血熱への備えを強化するために南北アメリカ全土の国々への支援を強化しています。",
-      "title_original": "PAHO steps up preparedness across the Americas amid Ebola outbreak in Africa",
-      "summary_original": "PAHO steps up preparedness across the Americas amid Ebola outbreak in Africa Cristina Mitchell 4 Jun 2026",
-      "summary_ai_original": "Washington, D.C., 4 June 2026 (PAHO) — The Pan American Health Organization (PAHO) is intensifying support to countries across the Americas to strengthen preparedness for Ebola, following the World Health Organization’s declaration of a Public Health Emergency of International Concern (PHEIC) related to the ongoing out",
-      "article_text_original": "Washington, D.C., 4 June 2026 (PAHO) — The Pan American Health Organization (PAHO) is intensifying support to countries across the Americas to strengthen preparedness for Ebola, following the World Health Organization’s declaration of a Public Health Emergency of International Concern (PHEIC) related to the ongoing outbreak in the Democratic Republic of the Congo and Uganda, and to ensure readiness for any potential imported case. While the risk of Ebola in the Americas remains low and no cases have been reported in the Region, PAHO has activated its Incident Management System (IMS) to coordinate regional preparedness efforts. The Organization is working with ministries of health to reinforce surveillance, laboratory diagnostics, infection prevention and control, and operational coordination, so countries can rapidly detect, isolate and care for people with suspected infection. “Countries in the Americas are not currently affected by Ebola, and the risk to the Region remains low, but preparedness is our strongest tool to reduce risks and ensure a timely response,” said Dr. Ciro Ugarte, Director of Health Emergencies at PAHO. “Even with low risk, countries must be ready to detect and respond quickly to any possible importation to protect health workers and communities, and to prevent further transmission.” Strengthening readiness across the Region PAHO, in collaboration with the Global Outbreak Alert and Response Network (GOARN), a WHO-coordinated network of technical institutions and partners for international outbreak response, is convening regional technical exchanges to support national preparedness efforts. A technical session, organized by PAHO’s Emergency Operations Center (EOC) and held on 3 June, brought together 394 participants from 30 countries across the Region, including national professionals involved in Ebola preparedness and response and representatives from GOARN partner institutions in the Americas. Participants reviewed key preparedness actions, including laboratory diagnosis and biosafety, clinical management, infection prevention and control, medical evacuation, and safe and dignified burials. The session included 12 speakers, panelists and moderators from PAHO, WHO, Johns Hopkins University/NETEC, Emory University/NETEC, Médecins Sans Frontières (MSF), ISARIC/University of Oxford, and the University of São Paulo Hospital, highlighting broad technical collaboration to strengthen Ebola readiness in the Americas. A follow-up session on 10 June will bring together ministries of health and GOARN partners from the Americas to discuss the GOARN network, including opportunities to receive international technical support and to deploy national experts from the Region to support outbreak responses. The session will also highlight the importance of contact tracing and the use of Go.Data, a digital tool developed by WHO and GOARN to strengthen surveillance during health emergencies, including practical experiences from measles response in Brazil and Ebola response in Uganda. To support operational readiness, PAHO has issued a series of technical guidance documents covering the safe collection, handling, packaging and transport of potentially infected samples, as well as laboratory processing and inactivation procedures. These provide practical, step-by-step guidance to strengthen biosafety and diagnostic capacity. In parallel, the Organization is preparing shipments of materials and reagents for the molecular detection of Bundibugyo ebolavirus to selected countries with appropriate biosafety capacity, based on risk assessments. PAHO is also facilitating international collaboration to ensure timely laboratory analysis through the referral of samples to specialized regional laboratories. For example, during a recent event in May, the Organization supported the shipment of samples from the Bahamas to a PAHO/WHO Collaborating Centre for Hemorrhagic Fevers in the United States (CDC, Atlanta), following the identification of travelers with recent history in affected areas. Although both individuals tested negative for Ebola, these precautionary measures ensured that critical testing was completed without delay. PAHO is also refining regional risk scenarios and supporting countries in planning essential supplies, including personal protective equipment, laboratory materials and other critical items needed for preparedness. The Organization is sharing tools to estimate the quantities and specifications of supplies required under different scenarios, including triage, patient care, cleaning, transport, and safe burial. These tools aim to support advance procurement and stockpiling, while promoting effective infection prevention and control in healthcare settings. Situation in Africa As of 2 June 2026, the outbreak of Ebola disease caused by Bundibugyo virus continues to evolve in the Democratic Republic of the Congo and Uganda. In the Democratic Republic of the Congo, 344 confirmed cases and 60 confirmed deaths have been reported, along with 116 suspected cases under investigation. Confirmed cases have been reported in several provinces, including Ituri, North Kivu and South Kivu. Uganda has reported 15 confirmed cases, including one death, with confirmed cases in two districts and reported infections among health workers. WHO assesses the risk of this outbreak as very high at the national level in affected countries, high at the regional level in Africa, and low at the global level. Ebola is a severe disease transmitted through direct contact with the blood or bodily fluids of infected (symptomatic) individuals or withcontaminated materials. While no licensed vaccines or therapeutics are currently available for Ebola disease caused by Bundibugyo virus, early supportive care significantly improves survival. Strong public health measures—including surveillance, isolation and care, contact tracing, and community engagement to build trust and support early care seeking—remain key to controlling outbreaks. Preparedness measures and travel advice In line with WHO recommendations under the International Health Regulations (2005), PAHO reiterates that countries should strengthen preparedness systems without imposing restrictions on travel or trade. Measures for countries not affected by the outbreak include enhancing detection and management of travelers with febrile illness, strengthening communication with transport and border authorities, providing travelers with information on symptoms and when to seek care, and ensuring rapid reporting of suspected cases. WHO advises against generalized travel restrictions, noting that such measures can disrupt response efforts and supply chains without reducing risk. PAHO continues to work closely with countries across the Americas to support preparedness, strengthen health systems, and facilitate coordination with global partners, to support readiness across the Region in the event of potential imported cases.",
-      "link": "https://www.paho.org/en/news/4-6-2026-paho-steps-preparedness-across-americas-amid-ebola-outbreak-africa",
-      "source": "PAHO News",
-      "source_type": "official",
-      "source_tier": "Tier 1",
-      "source_priority": 8,
-      "published_at": "2026-06-04T21:16:08+00:00",
-      "topics": [
-        "communication",
-        "policy"
-      ],
-      "policy_tags": [
-        "communication",
-        "financing",
-        "outbreak_response",
-        "recommendation",
-        "safety"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "米国",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "PAHO / Washington DC"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "PAHO / Washington DC"
-        },
-        "target": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "米国"
-        }
-      },
-      "location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "米国"
-      },
-      "region": "North America",
-      "country": "米国",
-      "lat": 38.9072,
-      "lng": -77.0369,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "PAHO News"
-      ]
-    },
-    {
       "id": "04cec04d7a409d31",
       "title": "物議を醸すワクチン政策変更を正当化するためにRFKジュニアと同盟者が利用した3つの研究が新たな精査に直面 - ガーディアン",
       "summary": "物議を醸すワクチン政策変更を正当化するためにRFKジュニアと同盟者が利用した3つの研究が新たな精査に直面している",
@@ -2445,7 +2842,7 @@
       "source_type": "media",
       "source_tier": "Tier 2",
       "source_priority": 7,
-      "published_at": "2026-06-04T07:00:00+00:00",
+      "published_at": "2026-06-05T07:00:00+00:00",
       "topics": [
         "policy"
       ],
