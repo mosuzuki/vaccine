@@ -1,9 +1,9 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-06-21T22:21:09.138760+00:00",
-  "item_count": 32,
-  "archive_count": 317,
+  "generated_at": "2026-06-22T22:53:02.243585+00:00",
+  "item_count": 30,
+  "archive_count": 319,
   "days_back": 14,
   "plot_mode_default": "source",
   "feed_status": [
@@ -23,7 +23,7 @@
       "name": "CDC Newsroom",
       "url": "https://tools.cdc.gov/api/v2/resources/media/316422.rss",
       "status": "ok",
-      "seen": 9,
+      "seen": 8,
       "kept": 0
     },
     {
@@ -82,7 +82,7 @@
       "url": "https://www.paho.org/en/rss.xml",
       "status": "ok",
       "seen": 8,
-      "kept": 4
+      "kept": 3
     },
     {
       "name": "The Lancet series",
@@ -102,14 +102,14 @@
       "name": "NEJM",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Anejm.org%20(trial%20OR%20effectiveness%20OR%20policy%20OR%20safety)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
-      "kept": 2
+      "seen": 1,
+      "kept": 1
     },
     {
       "name": "BMJ",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abmj.com%20(policy%20OR%20trial%20OR%20effectiveness%20OR%20communication)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 3,
       "kept": 2
     },
     {
@@ -130,14 +130,14 @@
       "name": "Nature Medicine vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fnm%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20uptake%20OR%20policy)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 3,
       "kept": 0
     },
     {
       "name": "Nature Communications vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fncomms%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20surveillance)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 2,
       "kept": 0
     },
     {
@@ -165,7 +165,7 @@
       "name": "Science vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ascience.org%2Fdoi%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20antibody)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -193,14 +193,14 @@
       "name": "JAMA vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjama%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 3,
-      "kept": 1
+      "seen": 2,
+      "kept": 0
     },
     {
       "name": "JAMA Network Open vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjamanetworkopen%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 5,
+      "seen": 4,
       "kept": 2
     },
     {
@@ -235,35 +235,35 @@
       "name": "bioRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abiorxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 4,
+      "seen": 12,
       "kept": 0
     },
     {
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 15,
-      "kept": 2
+      "seen": 19,
+      "kept": 1
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 11,
-      "kept": 1
+      "seen": 9,
+      "kept": 2
     },
     {
       "name": "AP Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 100,
+      "seen": 52,
       "kept": 1
     },
     {
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 11,
+      "seen": 10,
       "kept": 0
     },
     {
@@ -277,14 +277,14 @@
       "name": "STAT Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 17,
+      "seen": 21,
       "kept": 3
     },
     {
       "name": "Nature News Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 8,
+      "seen": 10,
       "kept": 1
     },
     {
@@ -298,21 +298,21 @@
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 10,
+      "seen": 11,
       "kept": 0
     },
     {
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 21,
+      "seen": 23,
       "kept": 1
     },
     {
       "name": "Washington Post Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 22,
+      "seen": 23,
       "kept": 2
     },
     {
@@ -326,28 +326,28 @@
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 28,
+      "seen": 23,
       "kept": 0
     },
     {
       "name": "朝日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Aasahi.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 10,
+      "seen": 6,
       "kept": 0
     },
     {
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 50,
+      "seen": 32,
       "kept": 1
     },
     {
       "name": "毎日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 6,
+      "seen": 9,
       "kept": 0
     },
     {
@@ -355,7 +355,7 @@
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
       "seen": 7,
-      "kept": 3
+      "kept": 2
     },
     {
       "name": "JAMA Pediatrics vaccines",
@@ -368,7 +368,7 @@
       "name": "Clinical Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fcid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -396,14 +396,14 @@
       "name": "Pediatrics journal",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Apublications.aap.org%2Fpediatrics&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
       "name": "PLOS journals vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajournals.plos.org%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20uptake%20OR%20policy)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 1,
       "kept": 1
     },
     {
@@ -424,8 +424,8 @@
       "name": "International Journal of Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aijidonline.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
-      "kept": 0
+      "seen": 1,
+      "kept": 1
     },
     {
       "name": "Clinical Microbiology and Infection",
@@ -445,7 +445,7 @@
       "name": "Cochrane vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Acochranelibrary.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -464,14 +464,14 @@
     }
   ],
   "weekly_ai_summary": {
-    "generated_at": "2026-06-21T22:21:09.138760+00:00",
+    "generated_at": "2026-06-22T22:53:02.243585+00:00",
     "period_days": 7,
-    "policy_count": 8,
-    "academic_count": 9,
+    "policy_count": 5,
+    "academic_count": 8,
     "status": "ok",
     "model": "gpt-4o-mini",
-    "policy_summary": "PAHO執行委員会は第178回会合を開催し、南北アメリカの公衆衛生の優先事項に関する戦略を承認しました。また、アメリカ大陸でのジフテリア症例の増加を受け、各国に予防接種の取り組み強化を要請しました。",
-    "academic_summary": "エチオピアの小児予防接種に関する質的研究が行われ、障壁と促進要因が明らかにされました。さらに、健康な小児における4価デング熱ワクチンの安全性と有効性に関する研究が発表されました。"
+    "policy_summary": "PAHO執行委員会は、南北アメリカの公衆衛生の優先事項に関する戦略を承認し、会合を終了しました。また、メルクの肺炎球菌ワクチンが米国で高リスクの子供と十代向けに承認されました。",
+    "academic_summary": "エチオピアの小児予防接種に関する質的研究が発表され、障壁と促進要因が分析されました。さらに、健康な小児における4価デング熱ワクチンの安全性と有効性に関する研究も報告されています。"
   },
   "items": [
     {
@@ -885,45 +885,45 @@
       ]
     },
     {
-      "id": "d811cea04ed2dd3e",
-      "title": "要点: モデルナ mRNA インフルエンザ ワクチンのレビュー、性器ヘルペス ワクチンに対する NIH 賞、マラリア モノクローナル抗体試験 - CIDRAP",
-      "summary": "要点: モデルナ mRNA インフルエンザ ワクチンのレビュー、性器ヘルペス ワクチンに対する NIH 賞、マラリア モノクローナル抗体試験 CIDRAP",
-      "summary_ai": "要点: モデルナ mRNA インフルエンザ ワクチンのレビュー、性器ヘルペス ワクチンに対する NIH 賞、マラリア モノクローナル抗体試験 CIDRAP",
-      "title_original": "Quick takes: Moderna mRNA flu vaccine review, NIH award for genital herpes vaccine, malaria monoclonal antibody trial - CIDRAP",
-      "summary_original": "Quick takes: Moderna mRNA flu vaccine review, NIH award for genital herpes vaccine, malaria monoclonal antibody trial CIDRAP",
-      "summary_ai_original": "Quick takes: Moderna mRNA flu vaccine review, NIH award for genital herpes vaccine, malaria monoclonal antibody trial CIDRAP",
+      "id": "e0067a2a4c1e3edd",
+      "title": "母子における妊娠中のジフテリア・破傷風・無細胞百日咳（DTaP）予防接種の安全性：静岡研究",
+      "summary": "母子における妊娠中のジフテリア・破傷風・無細胞百日咳（DTaP）予防接種の安全性：静岡研究",
+      "summary_ai": "母子における妊娠中のジフテリア・破傷風・無細胞百日咳（DTaP）予防接種の安全性：静岡研究",
+      "title_original": "Safety of diphtheria-tetanus-acellular pertussis (DTaP) vaccination during pregnancy in mothers and infants: The Shizuoka Study",
+      "summary_original": "Safety of diphtheria-tetanus-acellular pertussis (DTaP) vaccination during pregnancy in mothers and infants: The Shizuoka Study",
+      "summary_ai_original": "Safety of diphtheria-tetanus-acellular pertussis (DTaP) vaccination during pregnancy in mothers and infants: The Shizuoka Study",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVlgyaFo2cFB6T1p6V3l2WDBrZlZUWDY2OEhaemRrSGdJMVN6RFhHWHNzLUJQaERpZzFyOU9Tc1plQk1oLXZDLWJkUE94blJyaG5TXzQzZ1JUc3hsd294amo2eGE2aFBtdEpPRi1iSEwtNnhoQmNlRFVQT3dYTjZFd2U2WEhDOWgzOEluQkxZSDVKbGxody10bTh6QU0wd3VkVW1vbjBrZTdaejhoWFVkaHo5U0dKeUNlRTVxMWJiMA?oc=5",
-      "source": "CIDRAP Vaccines & Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 8,
-      "published_at": "2026-06-17T18:14:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9PeVN5dXU1V0tLa2IyejBMY0NUQU43d0FTRFB2eUE5MEpTQkpoRjAxdm9YaWVpR01leDNYWkpwRUc0cVBxdUtud2M5YmV6ZVN6MWVqQWRBYXp3QklNdGdGYmlYVGpSQ2tzRU04aGRxS05RMDA?oc=5",
+      "source": "International Journal of Infectious Diseases",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-06-18T07:52:55+00:00",
       "topics": [
         "research"
       ],
-      "policy_tags": [],
-      "vaccines": [
-        "influenza"
+      "policy_tags": [
+        "safety"
       ],
+      "vaccines": [],
       "variants": [],
       "target_country": "不明",
       "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "CIDRAP / Minnesota"
+        "key": "netherlands",
+        "name_ja": "オランダ",
+        "lat": 52.3676,
+        "lng": 4.9041,
+        "region": "Europe",
+        "label": "IJID"
       },
       "plot": {
         "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "CIDRAP / Minnesota"
+          "key": "netherlands",
+          "name_ja": "オランダ",
+          "lat": 52.3676,
+          "lng": 4.9041,
+          "region": "Europe",
+          "label": "IJID"
         },
         "target": {
           "key": "unknown",
@@ -948,7 +948,7 @@
       "lng": 0.0,
       "duplicate_count": 1,
       "duplicate_sources": [
-        "CIDRAP Vaccines & Immunization"
+        "International Journal of Infectious Diseases"
       ]
     },
     {
@@ -1344,6 +1344,71 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "Washington Post Vaccines / Immunization"
+      ]
+    },
+    {
+      "id": "cd5112c8347cd4fa",
+      "title": "エボラ出血熱ブンディブギョワクチン候補、早ければ7月にも第1相試験に入る可能性 - ロイター",
+      "summary": "エボラ出血熱ワクチン候補、早ければ7月にも第1相試験に入る可能性も Reuters",
+      "summary_ai": "エボラ出血熱ワクチン候補、早ければ7月にも第1相試験に入る可能性も Reuters",
+      "title_original": "Ebola Bundibugyo vaccine candidates could enter Phase 1 trials as early as July - Reuters",
+      "summary_original": "Ebola Bundibugyo vaccine candidates could enter Phase 1 trials as early as July Reuters",
+      "summary_ai_original": "Ebola Bundibugyo vaccine candidates could enter Phase 1 trials as early as July Reuters",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSFJrTllUcHJPaFU0TlQyWHEzN0NSNjd5M3BQQnh4STJrUEEyV2J3VWp6RHY4VmJkMEtZTlU0cEVrWF9kbTVKaVcyeFFIN25uX0IzNGhCNmdVQzlldF9iWEFsT04xWC1pa0hEX2dWbXBveUVycDZ3NW01YkhDMUM0VV9HT1NuamRIVTltVFVHTnFDOGdVMDlmUl80TVdJZGkzYTF0Q19SUVdKMFo1U2hjUjBMTEpCNkpqVDhKaWxNaVBYRjI0WnRzLWdZUk50dEtFWjFwNWV4dHV6M2swU1E?oc=5",
+      "source": "Reuters Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-06-16T13:34:22+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Reuters"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Reuters"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Reuters Vaccines / Immunization"
       ]
     },
     {
@@ -1823,6 +1888,73 @@
       ]
     },
     {
+      "id": "b8b80ce8d1538c85",
+      "title": "オンタリオ州の心血管イベントで入院した高齢患者における検査で確認されたインフルエンザ感染に対するインフルエンザワクチンの有効性：検査陰性計画研究 - SSRN eLibrary",
+      "summary": "オンタリオ州の心血管イベントで入院した高齢患者における検査で確認されたインフルエンザ感染に対するインフルエンザワクチンの有効性：検査陰性デザイン研究 SSRN eLibrary",
+      "summary_ai": "オンタリオ州の心血管イベントで入院した高齢患者における検査で確認されたインフルエンザ感染に対するインフルエンザワクチンの有効性：検査陰性デザイン研究 SSRN eLibrary",
+      "title_original": "Influenza vaccine effectiveness against laboratory-confirmed influenza infection among older patients hospitalized for cardiovascular events in Ontario: A test-negative design study - SSRN eLibrary",
+      "summary_original": "Influenza vaccine effectiveness against laboratory-confirmed influenza infection among older patients hospitalized for cardiovascular events in Ontario: A test-negative design study SSRN eLibrary",
+      "summary_ai_original": "Influenza vaccine effectiveness against laboratory-confirmed influenza infection among older patients hospitalized for cardiovascular events in Ontario: A test-negative design study SSRN eLibrary",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jbEZfeXVoM3BxWE9MazZyWjZRc1JTd1dBbG5ZSkxuSDg3VmRoTF9ZQWNEQkpvUkhCTEVibWdGUm92TGxyMFRlazNNMTVEVm9ZY29GZ2hreVlnNXhzWmh6TzVLcFRBaW9PNnY4?oc=5",
+      "source": "SSRN vaccine preprints",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 6,
+      "published_at": "2026-06-13T05:40:34+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "influenza"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "SSRN"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "SSRN"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "SSRN vaccine preprints"
+      ]
+    },
+    {
       "id": "273493c75414a811",
       "title": "ニルセビマブ、母体用 RSVワクチン、高齢者用 RSVワクチンの実際の有効性と安全性 - thorax.bmj.com",
       "summary": "ニルセビマブ、母体用 RSVワクチン、高齢者用 RSVワクチンの実際の有効性と安全性 thorax.bmj.com",
@@ -1959,72 +2091,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "MHRA"
-      ]
-    },
-    {
-      "id": "7c87a7fa381da6f8",
-      "title": "フェンタニルワクチンは現在人体臨床試験中",
-      "summary": "フェンタニルワクチンは現在人体臨床試験中",
-      "summary_ai": "フェンタニルワクチンは現在人体臨床試験中",
-      "title_original": "A Fentanyl Vaccine Is Now in Human Trials",
-      "summary_original": "A Fentanyl Vaccine Is Now in Human Trials",
-      "summary_ai_original": "A Fentanyl Vaccine Is Now in Human Trials",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04M3NCRUowZXlkdTlER191Q09IS2tQdTZwb0VzeVowSnA3Z2gwQVZuSDJ4a3NXTEk1YkVzVzFyUExXNkptbnFzLWZZWk1RcFN2SV9MMmsxNF80NVBXbjFVN003YThIeml2?oc=5",
-      "source": "JAMA vaccines",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 9,
-      "published_at": "2026-06-12T07:00:00+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "JAMA"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "JAMA"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 2,
-      "duplicate_sources": [
-        "JAMA Network vaccines",
-        "JAMA vaccines"
       ]
     },
     {
@@ -2426,210 +2492,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "Nature News Vaccines / Immunization"
-      ]
-    },
-    {
-      "id": "8921ce78e428e310",
-      "title": "弱毒化生インフルエンザワクチン: 有効性の再検討 - NEJM 臨床医",
-      "summary": "弱毒生インフルエンザワクチン: 有効性を再検討 NEJM 臨床医",
-      "summary_ai": "弱毒生インフルエンザワクチン: 有効性を再検討 NEJM 臨床医",
-      "title_original": "Live Attenuated Influenza Vaccine: Effectiveness Revisited - NEJM Clinician",
-      "summary_original": "Live Attenuated Influenza Vaccine: Effectiveness Revisited NEJM Clinician",
-      "summary_ai_original": "Live Attenuated Influenza Vaccine: Effectiveness Revisited NEJM Clinician",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNmM3TS1jSlJOMTloLXRYdVBmcmtRY3E4THdJeThHTlF3WlNNcXczaU45SmlaSFhtX3NwMTNhMExKY3lGWUVabUlrRTFfYVBoRDhGMjc2VkJMdkpiQVFPaUx0MTJnQTh3TjJLVTFPZWtxc1lMcTJPT1psUDdjeEN3Q1Rn?oc=5",
-      "source": "NEJM",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-06-08T21:14:10+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "influenza"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "NEJM / Boston"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "NEJM / Boston"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "NEJM"
-      ]
-    },
-    {
-      "id": "6669330d6651f37c",
-      "title": "PAHO、旅行者と2026 FIFAワールドカップの参加者に健康上の推奨事項を発行",
-      "summary": "PAHO、2026 FIFAワールドカップの旅行者と参加者に健康上の推奨事項を発表 クリスティーナ・ミッチェル 2026年6月8日",
-      "summary_ai": "「健康があれば、みんなが勝つ」キャンペーンで、安全を確保しイベントを楽しむための簡単な手順を推奨 ワシントン D.C.、2026 年 6 月 8 日 (PAHO) — 汎アメリカ保健機関 (PAHO)は、2026 FIFA ワールドカップ™ 開催期間中の旅行者や大規模な集会に参加する人々に対して、新たな公衆衛生上の推奨事項を発表しました。",
-      "title_original": "PAHO issues health recommendations for travelers and attendees of the 2026 FIFA World Cup",
-      "summary_original": "PAHO issues health recommendations for travelers and attendees of the 2026 FIFA World Cup Cristina Mitchell 8 Jun 2026",
-      "summary_ai_original": "“With Health, We All Win” campaign encourages simple steps to stay safe and enjoy the event Washington, D.C., June 8, 2026 (PAHO) — The Pan American Health Organization (PAHO) has issued new public health recommendations for travelers and people attending mass gatherings during the 2026 FIFA World Cup™, which will be h",
-      "article_text_original": "“With Health, We All Win” campaign encourages simple steps to stay safe and enjoy the event Washington, D.C., June 8, 2026 (PAHO) — The Pan American Health Organization (PAHO) has issued new public health recommendations for travelers and people attending mass gatherings during the 2026 FIFA World Cup™, which will be held in Canada, Mexico, and the United States. The guidance is part of the “With Health, We All Win” campaign, which promotes healthy habits and preventive measures for those attending matches, celebrations, and other large-scale events both inside and outside stadiums. A global celebration that also requires care The World Cup brings together millions of people—not only in stadiums, but also in fan zones, on public transportation, in restaurants, and in other crowded spaces. In these settings, the risk of exposure to infectious diseases, heat-related illnesses, and injuries can increase, making preparation essential. “The celebration happens both inside and outside the stadiums, but to fully enjoy it, it’s important to take care of yourself and stay informed,” PAHO said as part of the campaign. Keeping vaccinations up to date PAHO emphasizes that staying up to date with vaccinations is one of the most important steps before traveling. In particular, it recommends checking protection against measles, given the recent increase in cases in the Region of the Americas, including in all three host countries. Measles is highly contagious, and the risk of transmission increases in crowded environments. A single infected person can spread the virus to up to 18 unprotected individuals, making settings such as stadiums and fan zones particularly high-risk for those who are not vaccinated. Travelers are also advised to review other recommended vaccines based on their destination and personal circumstances, including Tdap (tetanus, diphtheria and pertussis), influenza, COVID-19, and hepatitis A and B. Preparing before travel PAHO recommends that travelers prepare in advance by assembling a basic health kit, bringing enough medication for the entire trip, and confirming health insurance coverage. Keeping copies of key documents—such as passports, vaccination records, and insurance information—can help avoid delays in case of emergencies. Adopting healthy habits before departure, including getting enough rest, eating a balanced diet, and staying physically active, can also help travelers better cope with the demands of the event. Risks associated with mass gatherings Large gatherings can increase exposure to respiratory infections, foodborne diseases, heat, and injuries. To reduce these risks, PAHO recommends simple preventive actions such as frequent handwashing, drinking safe water, choosing properly cooked foods, and ensuring proper ventilation in enclosed spaces. High temperatures during the summer months also increase the risk of dehydration and heat-related illness. Staying hydrated, seeking shade, and limiting activity during the hottest hours of the day are key measures for staying safe. In crowded environments, PAHO also advises staying aware of one’s surroundings, avoiding heavily congested areas, and identifying exit routes when entering or leaving venues. Mosquitoes, sexual health, and other recommendations In some host cities, particularly in Mexico, mosquitoes can transmit diseases such as dengue, Zika, and chikungunya. Travelers are encouraged to use insect repellent and wear protective clothing. PAHO also highlights the importance of protecting against sexually transmitted infections during travel, including the correct use of condoms. In addition, avoiding alcohol consumption can help reduce risks, as alcohol can worsen dehydration and affect judgment in crowded or high-temperature settings. Reliable information and early care during travel PAHO encourages travelers to rely on official sources for health information, especially during large events when misinformation can spread quickly. Anyone experiencing symptoms such as fever, rash, or difficulty breathing should seek medical care and inform health professionals about recent travel and attendance at event venues to help guide diagnosis. After returning home: monitoring and early action PAHO also recommends staying alert to symptoms after returning home, as some infections may appear days after exposure. For example, measles symptoms typically appear 7 to 14 days after exposure, while diseases such as dengue, Zika, or mpox may develop within a similar timeframe. If symptoms such as fever, rash, or respiratory issues occur, individuals should seek medical care promptly and inform health professionals about their recent travel and participation in mass events. Acting early allows for timely treatment and helps reduce the risk of transmission to others. Through this campaign, PAHO underscores that health during mass gatherings is a shared responsibility. Simple personal actions—such as being up to date with vaccines, staying hydrated, and seeking care early—help protect both individuals and the wider community.",
-      "link": "https://www.paho.org/en/news/8-6-2026-paho-issues-health-recommendations-travelers-and-attendees-2026-fifa-world-cup",
-      "source": "PAHO News",
-      "source_type": "official",
-      "source_tier": "Tier 1",
-      "source_priority": 8,
-      "published_at": "2026-06-08T17:30:11+00:00",
-      "topics": [
-        "communication",
-        "policy"
-      ],
-      "policy_tags": [
-        "communication",
-        "outbreak_response",
-        "recommendation"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "米国",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "PAHO / Washington DC"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "PAHO / Washington DC"
-        },
-        "target": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "米国"
-        }
-      },
-      "location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "米国"
-      },
-      "region": "North America",
-      "country": "米国",
-      "lat": 38.9072,
-      "lng": -77.0369,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "PAHO News"
-      ]
-    },
-    {
-      "id": "7be72c1a11e51e27",
-      "title": "予防接種に対する躊躇の克服: 認識される個人リスクの経験的モデル化 - SSRN eLibrary",
-      "summary": "予防接種への躊躇の克服: 認識される個人リスクの経験的モデリング SSRN eLibrary",
-      "summary_ai": "予防接種への躊躇の克服: 認識される個人リスクの経験的モデリング SSRN eLibrary",
-      "title_original": "Overcoming Vaccine Hesitancy: Empirical Modeling of Perceived Personal Risk - SSRN eLibrary",
-      "summary_original": "Overcoming Vaccine Hesitancy: Empirical Modeling of Perceived Personal Risk SSRN eLibrary",
-      "summary_ai_original": "Overcoming Vaccine Hesitancy: Empirical Modeling of Perceived Personal Risk SSRN eLibrary",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Fc1FwX0IzQmRXaGRiMG45VXgzUGVkNXJpci02SEItcy12WFR4NXBBOTdkMzBTLXVVejF2Y0hEUDBiVjVtdEo1NlNqRHUydjVzOEhVOWhTSHd4U25kcmtDbnEzWmNQVUgyYWJJ?oc=5",
-      "source": "SSRN vaccine preprints",
-      "source_type": "preprint",
-      "source_tier": "Tier 3",
-      "source_priority": 6,
-      "published_at": "2026-06-08T03:21:09+00:00",
-      "topics": [
-        "communication"
-      ],
-      "policy_tags": [
-        "communication"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "SSRN"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "SSRN"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "SSRN vaccine preprints"
       ]
     }
   ]
