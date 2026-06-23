@@ -1,9 +1,9 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-06-22T22:53:02.243585+00:00",
-  "item_count": 30,
-  "archive_count": 319,
+  "generated_at": "2026-06-23T22:20:27.566813+00:00",
+  "item_count": 31,
+  "archive_count": 323,
   "days_back": 14,
   "plot_mode_default": "source",
   "feed_status": [
@@ -44,13 +44,13 @@
       "url": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/biologics/rss.xml",
       "status": "ok",
       "seen": 20,
-      "kept": 0
+      "kept": 1
     },
     {
       "name": "EMA News",
       "url": "https://www.ema.europa.eu/en/news-rss",
       "status": "error",
-      "error": "404 Client Error: Not Found for url: https://www.ema.europa.eu/en/news-rss"
+      "error": "<unknown>:44:60: not well-formed (invalid token)"
     },
     {
       "name": "MHRA",
@@ -82,7 +82,7 @@
       "url": "https://www.paho.org/en/rss.xml",
       "status": "ok",
       "seen": 8,
-      "kept": 3
+      "kept": 4
     },
     {
       "name": "The Lancet series",
@@ -109,7 +109,7 @@
       "name": "BMJ",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abmj.com%20(policy%20OR%20trial%20OR%20effectiveness%20OR%20communication)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 4,
       "kept": 2
     },
     {
@@ -130,14 +130,14 @@
       "name": "Nature Medicine vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fnm%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20uptake%20OR%20policy)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 2,
       "kept": 0
     },
     {
       "name": "Nature Communications vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fncomms%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20surveillance)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 0,
       "kept": 0
     },
     {
@@ -165,7 +165,7 @@
       "name": "Science vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ascience.org%2Fdoi%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20antibody)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 3,
       "kept": 0
     },
     {
@@ -221,99 +221,99 @@
       "name": "Human Vaccines & Immunotherapeutics",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Atandfonline.com%20%22Human%20Vaccines%20%26%20Immunotherapeutics%22&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
-      "kept": 0
+      "seen": 1,
+      "kept": 1
     },
     {
       "name": "medRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Amedrxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
       "name": "bioRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abiorxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 12,
+      "seen": 2,
       "kept": 0
     },
     {
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 19,
-      "kept": 1
+      "seen": 21,
+      "kept": 2
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 9,
-      "kept": 2
+      "seen": 8,
+      "kept": 1
     },
     {
       "name": "AP Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 52,
+      "seen": 49,
       "kept": 1
     },
     {
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 10,
+      "seen": 7,
       "kept": 0
     },
     {
       "name": "Financial Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aft.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 8,
+      "seen": 10,
       "kept": 1
     },
     {
       "name": "STAT Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 21,
-      "kept": 3
+      "seen": 16,
+      "kept": 2
     },
     {
       "name": "Nature News Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 10,
-      "kept": 1
+      "seen": 13,
+      "kept": 0
     },
     {
       "name": "Science Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Ascience.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 4,
+      "seen": 7,
       "kept": 0
     },
     {
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 11,
+      "seen": 12,
       "kept": 0
     },
     {
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 23,
+      "seen": 29,
       "kept": 1
     },
     {
       "name": "Washington Post Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 23,
-      "kept": 2
+      "seen": 27,
+      "kept": 3
     },
     {
       "name": "NHK ワクチン / 予防接種",
@@ -326,28 +326,28 @@
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 23,
+      "seen": 28,
       "kept": 0
     },
     {
       "name": "朝日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Aasahi.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 6,
+      "seen": 8,
       "kept": 0
     },
     {
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 32,
+      "seen": 27,
       "kept": 1
     },
     {
       "name": "毎日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 9,
+      "seen": 6,
       "kept": 0
     },
     {
@@ -368,8 +368,8 @@
       "name": "Clinical Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fcid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
-      "kept": 0
+      "seen": 2,
+      "kept": 1
     },
     {
       "name": "Journal of Infectious Diseases",
@@ -424,8 +424,8 @@
       "name": "International Journal of Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aijidonline.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
-      "kept": 1
+      "seen": 0,
+      "kept": 0
     },
     {
       "name": "Clinical Microbiology and Infection",
@@ -459,21 +459,372 @@
       "name": "SSRN vaccine preprints",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Apapers.ssrn.com%20(effectiveness%20OR%20safety%20OR%20policy%20OR%20trial)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 7,
-      "kept": 5
+      "seen": 5,
+      "kept": 4
     }
   ],
   "weekly_ai_summary": {
-    "generated_at": "2026-06-22T22:53:02.243585+00:00",
+    "generated_at": "2026-06-23T22:20:27.566813+00:00",
     "period_days": 7,
-    "policy_count": 5,
-    "academic_count": 8,
+    "policy_count": 6,
+    "academic_count": 7,
     "status": "ok",
     "model": "gpt-4o-mini",
-    "policy_summary": "PAHO執行委員会は、南北アメリカの公衆衛生の優先事項に関する戦略を承認し、会合を終了しました。また、メルクの肺炎球菌ワクチンが米国で高リスクの子供と十代向けに承認されました。",
-    "academic_summary": "エチオピアの小児予防接種に関する質的研究が発表され、障壁と促進要因が分析されました。さらに、健康な小児における4価デング熱ワクチンの安全性と有効性に関する研究も報告されています。"
+    "policy_summary": "2025-26年の新型コロナウイルスワクチンが救急医療の受診を半減させる可能性が示唆されています。また、汎米保健機関（PAHO）は、誤ったワクチン情報に対抗するためのガイダンスを発表しました。",
+    "academic_summary": "ノーミクロン優勢時における異種3回目接種スケジュールの有効性が比較されました。エチオピアの小児予防接種に関する障壁と要因についての質的研究も行われています。"
   },
   "items": [
+    {
+      "id": "35c8300589067fa8",
+      "title": "CDC長官は新型コロナウイルスワクチンの研究を阻止した。今では一流の医学雑誌に掲載されています。 - ワシントン・ポスト紙",
+      "summary": "CDC長官は新型コロナウイルスワクチンの研究を阻止した。今では一流の医学雑誌に掲載されています。ワシントン・ポスト",
+      "summary_ai": "CDC長官は新型コロナウイルスワクチンの研究を阻止した。今では一流の医学雑誌に掲載されています。",
+      "title_original": "CDC’s chief blocked a covid vaccine study. Now it’s in a top medical journal. - The Washington Post",
+      "summary_original": "CDC’s chief blocked a covid vaccine study. Now it’s in a top medical journal. The Washington Post",
+      "summary_ai_original": "CDC’s chief blocked a covid vaccine study. Now it’s in a top medical journal.",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUktjazNVV05CNmMzMmhWejNNVFdVeUNsd1R4bWNWWFhFaGFJQ3UzMDdHTDJVeFN4WXpWVjdCZ2pXeHZsak0taV9LUUZUNkk4S2R6MTc5U1dWNTF2SUs4YzB2WlNzWUw2c2dMc0hwM081SlFLYThORTlJc3JQT1B0NU1pcWk0Z2ZMZXZuYjZYV1NEd25Fakx1bUVhRUJwMHlGS2Y1aFdqTzAtc1JwaG1nRkkzazUybFU?oc=5",
+      "source": "Washington Post Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-06-23T21:34:03+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "covid"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "Washington Post"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "Washington Post"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Washington Post Vaccines / Immunization"
+      ]
+    },
+    {
+      "id": "9c13ba6cc3ec9cd0",
+      "title": "研究によると、2025-26年の新型コロナウイルスワクチンにより、救急医療の受診が半減することが示唆されている - CIDRAP",
+      "summary": "研究によると、2025-26年の新型コロナウイルスワクチンにより、救急医療の受診が半減することが示唆されている CIDRAP",
+      "summary_ai": "研究によると、2025-26年の新型コロナウイルスワクチンにより、救急医療の受診が半減することが示唆されている CIDRAP",
+      "title_original": "Study suggests 2025-26 COVID vaccine cuts emergency, urgent care visits by half - CIDRAP",
+      "summary_original": "Study suggests 2025-26 COVID vaccine cuts emergency, urgent care visits by half CIDRAP",
+      "summary_ai_original": "Study suggests 2025-26 COVID vaccine cuts emergency, urgent care visits by half CIDRAP",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR1dmUkhuaXFaSzY0QWNpTmc5V25IX2hEaUljMWRFcktxU3RCM25QYVkzUUV5Q3Bna0hDRVhMci00OW5QQkZ4NEtfOXJtWFdfd1R2T2E5bzQtWWdVSWJHVVN5UXZrczdyUkd2ZlIzQjNieFJld1ZRMDltV1lNS3JpZUNLMEtZbmN4UUlfWncwSTR0U2V0cG1hVW01YkNPemYzdTRnZnlYSzVaOWxUa3dRRA?oc=5",
+      "source": "CIDRAP Vaccines & Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 8,
+      "published_at": "2026-06-23T16:17:43+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [
+        "outbreak_response"
+      ],
+      "vaccines": [
+        "covid"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "CIDRAP / Minnesota"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "CIDRAP / Minnesota"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "CIDRAP Vaccines & Immunization"
+      ]
+    },
+    {
+      "id": "82dcea3e3f61f008",
+      "title": "ワクチンの誤った情報を特定し、それに対抗する方法: ジャーナリストとコンテンツ作成者向けの PAHO ガイダンス",
+      "summary": "ワクチンの誤った情報を特定し、それに対抗する方法: ジャーナリストとコンテンツ作成者向けの PAHO ガイダンス クリスティーナ・ミッチェル 2026 年 6 月 23 日",
+      "summary_ai": "これに対処するために、汎米保健機関 (PAHO)はジャーナリストやコンテンツ作成者向けのガイダンスを発行し、視聴者が誤った情報を特定するのに役立つ実用的なツールを提供しました。コンテンツ作成者への推奨事項 コンテンツ作成者向けのガイダンスでは、誤った情報は拡散するように設計されていることが多いと述べています。",
+      "title_original": "How to identify and counter vaccine misinformation: PAHO guidance for journalists and content creators",
+      "summary_original": "How to identify and counter vaccine misinformation: PAHO guidance for journalists and content creators Cristina Mitchell 23 Jun 2026",
+      "summary_ai_original": "To address this, the Pan American Health Organization (PAHO) has published guidance for journalists and content creators, offering practical tools to help audiences identify false information. Recommendations for content creators The guidance for content creators notes that misinformation is often designed to go viral,",
+      "article_text_original": "Washington, D.C., 23 June 2026 (PAHO) – Despite strong scientific consensus on the safety and effectiveness of vaccines, misinformation continues to undermine confidence in immunization and remains a challenge for health in the Americas. To address this, the Pan American Health Organization (PAHO) has published guidance for journalists and content creators, offering practical tools to help audiences identify false information. The guidance highlights that misinformation often spreads faster and reaches wider audiences than evidence-based information, particularly when it appeals to strong emotions or contains elements that make it appear credible. Much of this content originates from so-called “superspreaders”—actors who undermine scientific evidence and, in some cases, profit from promoting unproven products or charging for access to exclusive content. “They use a range of strategies to make content more likely to go viral, including appealing to strong emotions such as fear, disgust or sadness,” said Lauren Vulanovic, author of the guidance and consultant with PAHO’s Comprehensive Immunization Program. “They also tend to rely on stories—often fabricated or exaggerated—to bolster their claims, because scientific evidence does not support their arguments,” she added. Recommendations for content creators The guidance for content creators notes that misinformation is often designed to go viral, taking advantage of emotions, pre-existing beliefs and the demand for simple explanations to complex issues. To identify potentially false information, PAHO advises looking for warning signs such as broken links, questionable author credentials, spelling errors or claims without verifiable sources. It recommends avoiding amplifying misinformation—even when attempting to debunk it—and adopting an empathetic tone that supports constructive dialogue. Content creators are also encouraged to challenge incorrect information without attacking individuals, as personal confrontation can reduce trust and discourage engagement. The guidance further emphasizes the importance of using clear, accessible language and collaborating with trusted experts to share accurate information. Recommendations for journalists For journalists, PAHO underscores that in areas where there is clear scientific consensus—such as vaccination—it is not appropriate to present opposing views as equally valid. Instead, reporting should reflect the “weight of evidence,” giving greater prominence to information supported by scientific data. The guidance also cautions against repeating misinformation, as this can reinforce its visibility, and advises avoiding sensationalist headlines that may mislead audiences. Journalists are encouraged to verify sources carefully, disclose potential conflicts of interest, and clearly communicate the risks that misinformation poses to public health. PAHO also notes that even brief exposure to vaccine misinformation can negatively influence attitudes and intentions regarding vaccination. A growing challenge in the digital age Experts highlight that misinformation has increased in recent years, in part due to the use of generative artificial intelligence (AI), which facilitates the creation and spread of misleading content that is increasingly difficult to distinguish from reliable information. “We need to be very cautious, as these tools can produce images and videos that appear highly convincing. One of the most effective ways to counter misinformation is to learn how to identify AI-generated content and share this knowledge with others,” Vulanovic said. In response, PAHO recommends strengthening digital literacy, promoting critical thinking, and supporting fact-checking initiatives. The Organization also provides resources for health workers, educators and communication teams as part of its efforts to strengthen confidence in vaccination. The importance of vaccination Over the past 50 years, immunization programs have saved more than 15 million lives in the Americas. However, vaccination coverage remains insufficient in some countries to ensure sustained population-level protection. “Vaccines are safe and highly effective in preventing disease, but we need to strengthen trust in them so that people are motivated to get vaccinated ,” said Daniel Salas, Executive Manager of PAHO’s Comprehensive Immunization Program. “We must counter vaccine misinformation, as it is denying individuals, families and communities the opportunity to be adequately protected.” According to the World Health Organization (WHO), immunization prevents between 3.5 and 5 million deaths each year from diseases such as diphtheria, tetanus, pertussis, influenza and measles.",
+      "link": "https://www.paho.org/en/news/23-6-2026-how-identify-and-counter-vaccine-misinformation-paho-guidance-journalists-and",
+      "source": "PAHO News",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 8,
+      "published_at": "2026-06-23T13:16:38+00:00",
+      "topics": [
+        "communication",
+        "policy",
+        "research"
+      ],
+      "policy_tags": [
+        "communication",
+        "outbreak_response",
+        "recommendation",
+        "safety"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "PAHO / Washington DC"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "PAHO / Washington DC"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "PAHO News"
+      ]
+    },
+    {
+      "id": "f1660bb833350a70",
+      "title": "新型コロナウイルス感染症ワクチンの安全性監視",
+      "summary": "このページでは、受動的安全性監視システムと能動的安全性監視システムの両方を通じた、承認された新型コロナウイルス感染症ワクチンの安全性の監視について説明します。",
+      "summary_ai": "患者、介護者、医療提供者による有害事象の報告は一般に任意ですが、報告者または医療提供者がその事象がワクチンに関連していると考えるかどうかに関係なく、特定の状況下では義務付けられる場合があります。たとえば、新型コロナウイルス感染症ワクチンの緊急使用許可 (EUA)では、医療提供者に次のことを義務付けています。",
+      "title_original": "COVID-19 Vaccine Safety Surveillance",
+      "summary_original": "This page describes the monitoring the safety of authorized COVID-19 vaccines through both passive and active safety surveillance systems.",
+      "summary_ai_original": "Reporting adverse events by patients, caregivers, or providers is generally voluntary, but it can be required under certain circumstances regardless of whether the reporter or provider thinks the event is related to the vaccine; for example, the COVID-19 vaccine emergency use authorizations (EUAs) require providers to",
+      "article_text_original": "January 10, 2025 The Center for Biologics Evaluation and Research (CBER) at the FDA is monitoring the safety of approved and authorized COVID-19 vaccines through both passive and active safety surveillance systems. CBER is doing so in collaboration with the Centers for Disease Control and Prevention (CDC), the Centers for Medicare and Medicaid Services (CMS), the Department of Veterans Affairs (VA), and other academic and large non-government healthcare data systems. In addition, CBER participates actively in ongoing international pharmacovigilance efforts, including those organized by the International Coalition of Medicines Regulatory Authorities (ICMRA) and the World Health Organization (WHO). These efforts are in addition to the pharmacovigilance efforts being undertaken by the individual manufacturers of approved and authorized vaccines. A coordinated and overlapping approach using state-of the art technologies has been implemented to maximize the ability to detect potential safety concerns. Passive surveillance is defined as unsolicited reports of adverse events (possible side effects) that are sent to a central database or health authority. In the United States, these are received and entered into the Vaccine Adverse Event Reporting System (VAERS), a national vaccine safety surveillance system that is co-managed by FDA and CDC. VAERS collects and analyzes information from reports of adverse events that occur after the administration of US licensed and authorized vaccines. Reports are received from patients, caregivers, health care providers, pharmacists, and vaccine manufacturers. Reporting adverse events by patients, caregivers, or providers is generally voluntary, but it can be required under certain circumstances regardless of whether the reporter or provider thinks the event is related to the vaccine; for example, the COVID-19 vaccine emergency use authorizations (EUAs) require providers to report all serious adverse events following vaccination, regardless of whether providers believed the event was related to the vaccine.i Initial reports made to the VAERS system are subsequently further investigated to determine whether they are likely to be related to vaccine administration. A report to VAERS does not mean the vaccine caused the event. Some VAERS reports might represent true vaccine reactions or side effects; others are coincidental events not related to vaccination. FDA and CDC continually monitor incoming and accumulated VAERS data using various methods, including frequent assessment of report counts and trends, comparisons of current versus historical data, and reporting trends over time, as well as evaluating individual reports, as needed, to identify possible safety concerns associated with vaccines. These reports are used to monitor the occurrence of both known and unknown adverse events. Once adverse events of concern are identified in VAERS, they may be monitored in other immunization safety systems to evaluate whether the event occurs more frequently than expected after vaccination or to conduct more controlled scientific studies to confirm whether a particular adverse event is related to a vaccine. An example of the work done with passive safety surveillance during the current pandemic has been the evaluation of severe allergic reactions, such as anaphylaxis, and myocarditis or pericarditis as serious types of adverse events following vaccination with COVID-19 vaccines. Through this work, we have come to understand that these reactions are quite rare, happening in less than 1 in 200,000 vaccinated individuals, and we were able to provide additional information to patients and providers about individuals who might be at higher risk for these adverse events. CBER also uses disproportionality analysis, also known as data mining, in its vaccine safety monitoring efforts. Data mining refers to the use of statistical or mathematical tools to discover patterns of associations or unexpected occurrences in large databases, such as VAERS for vaccines. Data mining involves the automated analysis of adverse events and vaccine administration errors report data in VAERS to inform FDA staff about a potential disproportionality of reports of a certain adverse event or vaccine administration error for one vaccine relative to other vaccines in the VAERS database.ii Data mining results are evaluated by FDA staff and may inform FDA staff about specific adverse events or administration errors that may warrant additional review to determine whether there is a safety concern associated with vaccination. Importantly, data mining results may provide insights into the patterns of adverse events or errors reported for a given product relative to other vaccine products, but data mining results do not, by themselves, demonstrate causal associations between a vaccine and an adverse event. Note that data mining results are derived exclusively from ‘‘numerator’’ data (i.e., numbers of adverse events or errors passively reported to VAERS); as a passive, numerator-only system, VAERS lacks information on the total number of individuals vaccinated (i.e., the “denominator”) and, as such, cannot provide or compare rates of adverse events after vaccination. The limitations of data mining include but are not limited to the following: - Results may be impacted by stimulated reporting (for example, the use of v-safe and media reporting around the COVID-19 vaccines); - There may be false alerts from statistical interactions (for example, if two vaccines are given at the same time, a potential statistical signal for one vaccine may be driven by the other vaccine); and - There may be underreporting, incomplete reporting, and duplicate reporting. As part of the agencies’ surveillance efforts during the COVID-19 public health emergency, FDA and CDC exchanged raw data mining information about COVID-19 vaccines. Using data mining, FDA and CDC did not find any new signals that led to regulatory actions or changes in clinical recommendations. More information on these exchanges may be found in CBER’s Biologics Electronic Reading Room (eFOIA) | FDA. Because data mining results are preliminary and form only one part of CBER’s passive vaccine surveillance, CBER does not ordinarily make them public. However, given the extraordinary interest in the COVID-19 vaccines, CBER has decided to do so here. Active surveillance involves proactively obtaining and rapidly analyzing information occurring in millions of individuals recorded in large healthcare data systems to verify safety signals identified through passive surveillance or to detect additional safety signals that may not have been reported as adverse events to passive surveillance systems. FDA is conducting active surveillance using the Sentinel BEST (Biologics Effectiveness and Safety) System and the CMS system. Our efforts complement those of the Vaccine Safety Datalink (VSD) and the v-safe text-based monitoring system for conducting surveillance of adverse events that CDC has implemented. FDA is also collaborating with other federal and non-federal partners. To elaborate further, the BEST system, which is part of the Sentinel initiative, comprises large-scale claims data, electronic health records (EHR), and linked claims-EHR databases. The system makes use of multiple data sources and enables rapid queries to detect or evaluate adverse events as well as studies to answer specific safety questions for vaccines. The linked claims-EHR database makes it possible to study the safety of vaccines in sub-populations with pre-existing conditions or in pregnant women. The major partners for BEST currently are Acumen, IBM Federal HealthCare, IQVIA, and Columbia University and many affiliated partners such as MedStar Health, BlueCross BlueShield of America, the Observational Health Data Sciences and Informatics (OHDSI), OneFlorida, University of California, and several others. iii Using BEST, CBER has monitored about 15 adverse events that were chosen based on experience with evaluating safety for the deployment of previous vaccines. CBER will use the BEST system to conduct more in-depth analyses should a safety concern be identified from sources such as VAERS. CBER has worked over the past several years with CMS to develop capabilities for routine and time-sensitive assessments regarding the safety of vaccines for people 65 years of age and older using the Medicare Claims database. Because it was already in place, this system was immediately put into use for COVID-19 vaccine surveillance to monitor for adverse events.iv In summary, in collaboration and coordination with several different partners, CBER has assembled passive and active surveillance systems that can detect and refine safety findings with the approved and authorized COVID-19 vaccines. These systems can also potentially be leveraged to assess safety in specific subpopulations and to assess vaccine effectiveness, including against emerging variants. FDA is conducting intensive monitoring of COVID-19 vaccine safety in the U.S. using a variety of approaches. Based on available information, FDA strongly believes that the known and potential benefits of COVID-19 vaccination greatly outweigh their known and potential risks. As part of our efforts to be transparent about our COVID-19 vaccine safety monitoring activities, FDA is posting summaries of the key safety monitoring findings on this page. - Initial Results of Near Real-Time Safety Monitoring of COVID-19 Vaccines in Persons Aged 65 Years and Older – July 9, 2021 - CDC and FDA Identify Preliminary COVID-19 Vaccine Safety Signal for Persons Aged 65 Years and Older - January 13, 2023 Notes: i Serious adverse events are defined as: death; a life-threatening adverse event; inpatient hospitalization or prolongation of existing hospitalization; a persistent or significant incapacity or substantial disruption of the ability to conduct normal life functions; or a congenital anomaly/birth defect. For reporting requirements for vaccination providers for the COVID-19 vaccines authorized for emergency use, please see the Fact Sheets for Healthcare Providers Administering Vaccine, which may be accessed here and here. ii Best Practices for FDA Staff in the Postmarketing Safety Surveillance of Human Drug and Biological Products iii To confirm the utility of the BEST system for situations such as COVID-19 vaccine surveillance, a test case was conducted. This study aimed to replicate a previous study by the CDC’s Vaccine Safety Datalink (VSD) (Klein et al. Pediatrics 2010) that examined the databases and analytic capabilities of the new system. The objective of this study was to test the new system’s ability to reproduce the increased risk of febrile seizures in children receiving the first dose of measles-mumps-rubella-varicella (MMRV) vaccine, compared to that of MMR and varicella vaccines separately but on the same day. The results of the study met the objectives and demonstrated the ability of the BEST Initiative data network to run a complex study protocol at multiple sites using a distributed data network and the Observational Medical Outcomes Partnership Common Data Model (organizing disparate data sources into the same database design using a common format). iv As one example of the capabilities of this system, FDA, CMS, and CDC evaluated the risk of Guillain-Barré syndrome (GBS) following influenza vaccination after CDC’s Vaccine Safety Datalink identified safety signals suggesting an increased risk of GBS following high-dose influenza vaccinations and Shingrix vaccinations during the 2018-2019 influenza season. CBER, CDC, and CMS formed working groups in February 2019 to refine these safety signals in the CMS data.",
+      "link": "http://www.fda.gov/vaccines-blood-biologics/safety-availability-biologics/covid-19-vaccine-safety-surveillance",
+      "source": "FDA Vaccines / Biologics",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 9,
+      "published_at": "2026-06-22T23:58:49+00:00",
+      "topics": [
+        "policy",
+        "research"
+      ],
+      "policy_tags": [
+        "approval",
+        "outbreak_response",
+        "recommendation",
+        "safety"
+      ],
+      "vaccines": [
+        "covid"
+      ],
+      "variants": [],
+      "target_country": "米国",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "FDA / Silver Spring"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "FDA / Silver Spring"
+        },
+        "target": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "米国"
+        }
+      },
+      "location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "米国"
+      },
+      "region": "North America",
+      "country": "米国",
+      "lat": 38.9072,
+      "lng": -77.0369,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "FDA Vaccines / Biologics"
+      ]
+    },
+    {
+      "id": "9c560166a39756d7",
+      "title": "ノーミクロン優勢時の重篤な covid-19 に対する異種 3 回目の接種スケジュールの有効性の比較 -",
+      "summary": "ノーザでのオミクロン優勢時の重篤な covid-19 に対する異種 3 回目の接種スケジュールの有効性の比較",
+      "summary_ai": "ノーザでのオミクロン優勢時の重篤な covid-19 に対する異種 3 回目の接種スケジュールの有効性の比較",
+      "title_original": "Comparative effectiveness of heterologous third dose vaccine schedules against severe covid-19 during omicron predominance in No - The",
+      "summary_original": "Comparative effectiveness of heterologous third dose vaccine schedules against severe covid-19 during omicron predominance in No The",
+      "summary_ai_original": "Comparative effectiveness of heterologous third dose vaccine schedules against severe covid-19 during omicron predominance in No The",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XMlUyRHlxQXRaUnFGNjhNcGJqNFVMNlBaQlo2bzNoMHhTSzNsS0dFMVJFamxSOHIyaFJGaE5IVmFYaXNudFo5WFlsSHVYbm9SVDRQUGVHNWJ1aXFrQkJUejdNYzNtVVhuZ191NQ?oc=5",
+      "source": "BMJ",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-06-22T02:24:16+00:00",
+      "topics": [
+        "policy",
+        "research"
+      ],
+      "policy_tags": [
+        "schedule"
+      ],
+      "vaccines": [],
+      "variants": [
+        "omicron"
+      ],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BMJ / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BMJ / London"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "BMJ"
+      ]
+    },
     {
       "id": "a80ab234b2ab4202",
       "title": "エチオピアのアムハラ、オロミア、ソマリア地域における小児予防接種の障壁とそれを可能にする要因：多視点の質的研究",
@@ -538,76 +889,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "PLOS journals vaccines"
-      ]
-    },
-    {
-      "id": "9c560166a39756d7",
-      "title": "ノーミクロン優勢時の重篤な covid-19 に対する異種 3 回目の接種スケジュールの有効性の比較 -",
-      "summary": "ノーザでのオミクロン優勢時の重篤な covid-19 に対する異種 3 回目の接種スケジュールの有効性の比較",
-      "summary_ai": "ノーザでのオミクロン優勢時の重篤な covid-19 に対する異種 3 回目の接種スケジュールの有効性の比較",
-      "title_original": "Comparative effectiveness of heterologous third dose vaccine schedules against severe covid-19 during omicron predominance in No - The",
-      "summary_original": "Comparative effectiveness of heterologous third dose vaccine schedules against severe covid-19 during omicron predominance in No The",
-      "summary_ai_original": "Comparative effectiveness of heterologous third dose vaccine schedules against severe covid-19 during omicron predominance in No The",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XMlUyRHlxQXRaUnFGNjhNcGJqNFVMNlBaQlo2bzNoMHhTSzNsS0dFMVJFamxSOHIyaFJGaE5IVmFYaXNudFo5WFlsSHVYbm9SVDRQUGVHNWJ1aXFrQkJUejdNYzNtVVhuZ191NQ?oc=5",
-      "source": "BMJ",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-06-20T18:36:23+00:00",
-      "topics": [
-        "policy",
-        "research"
-      ],
-      "policy_tags": [
-        "schedule"
-      ],
-      "vaccines": [],
-      "variants": [
-        "omicron"
-      ],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BMJ / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BMJ / London"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "BMJ"
       ]
     },
     {
@@ -885,45 +1166,48 @@
       ]
     },
     {
-      "id": "e0067a2a4c1e3edd",
-      "title": "母子における妊娠中のジフテリア・破傷風・無細胞百日咳（DTaP）予防接種の安全性：静岡研究",
-      "summary": "母子における妊娠中のジフテリア・破傷風・無細胞百日咳（DTaP）予防接種の安全性：静岡研究",
-      "summary_ai": "母子における妊娠中のジフテリア・破傷風・無細胞百日咳（DTaP）予防接種の安全性：静岡研究",
-      "title_original": "Safety of diphtheria-tetanus-acellular pertussis (DTaP) vaccination during pregnancy in mothers and infants: The Shizuoka Study",
-      "summary_original": "Safety of diphtheria-tetanus-acellular pertussis (DTaP) vaccination during pregnancy in mothers and infants: The Shizuoka Study",
-      "summary_ai_original": "Safety of diphtheria-tetanus-acellular pertussis (DTaP) vaccination during pregnancy in mothers and infants: The Shizuoka Study",
+      "id": "0b5131f0e029ff99",
+      "title": "潜在的な優先製品推奨をガイドするためにインフルエンザワクチンの有効性を比較するアプローチ - オックスフォード・アカデミック",
+      "summary": "潜在的な優先製品推奨をガイドするためのインフルエンザワクチンの有効性比較へのアプローチ オックスフォード・アカデミック",
+      "summary_ai": "潜在的な優先製品推奨をガイドするためのインフルエンザワクチンの有効性比較へのアプローチ オックスフォード・アカデミック",
+      "title_original": "Approaches to Comparing Influenza Vaccine Effectiveness to Guide Potential Preferential Product Recommendations - Oxford Academic",
+      "summary_original": "Approaches to Comparing Influenza Vaccine Effectiveness to Guide Potential Preferential Product Recommendations Oxford Academic",
+      "summary_ai_original": "Approaches to Comparing Influenza Vaccine Effectiveness to Guide Potential Preferential Product Recommendations Oxford Academic",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9PeVN5dXU1V0tLa2IyejBMY0NUQU43d0FTRFB2eUE5MEpTQkpoRjAxdm9YaWVpR01leDNYWkpwRUc0cVBxdUtud2M5YmV6ZVN6MWVqQWRBYXp3QklNdGdGYmlYVGpSQ2tzRU04aGRxS05RMDA?oc=5",
-      "source": "International Journal of Infectious Diseases",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9VOXJKc3N3RXlQbTV6WUluWTZOR2d4SDdPVWNIZ1JUYmx4X0VpNDNPOUlESnhfbzRIUWNGX09manc2Y0xEU2d5a3IwZV9Cam5wN1JmeHR3cTU0RnZ6cVZxZTBDVQ?oc=5",
+      "source": "Clinical Infectious Diseases",
       "source_type": "academic",
       "source_tier": "Tier 3",
-      "source_priority": 7,
-      "published_at": "2026-06-18T07:52:55+00:00",
+      "source_priority": 8,
+      "published_at": "2026-06-18T01:15:48+00:00",
       "topics": [
+        "policy",
         "research"
       ],
       "policy_tags": [
-        "safety"
+        "recommendation"
       ],
-      "vaccines": [],
+      "vaccines": [
+        "influenza"
+      ],
       "variants": [],
       "target_country": "不明",
       "source_location": {
-        "key": "netherlands",
-        "name_ja": "オランダ",
-        "lat": 52.3676,
-        "lng": 4.9041,
-        "region": "Europe",
-        "label": "IJID"
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "Clinical Infectious Diseases"
       },
       "plot": {
         "source": {
-          "key": "netherlands",
-          "name_ja": "オランダ",
-          "lat": 52.3676,
-          "lng": 4.9041,
-          "region": "Europe",
-          "label": "IJID"
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "Clinical Infectious Diseases"
         },
         "target": {
           "key": "unknown",
@@ -948,7 +1232,7 @@
       "lng": 0.0,
       "duplicate_count": 1,
       "duplicate_sources": [
-        "International Journal of Infectious Diseases"
+        "Clinical Infectious Diseases"
       ]
     },
     {
@@ -1347,71 +1631,6 @@
       ]
     },
     {
-      "id": "cd5112c8347cd4fa",
-      "title": "エボラ出血熱ブンディブギョワクチン候補、早ければ7月にも第1相試験に入る可能性 - ロイター",
-      "summary": "エボラ出血熱ワクチン候補、早ければ7月にも第1相試験に入る可能性も Reuters",
-      "summary_ai": "エボラ出血熱ワクチン候補、早ければ7月にも第1相試験に入る可能性も Reuters",
-      "title_original": "Ebola Bundibugyo vaccine candidates could enter Phase 1 trials as early as July - Reuters",
-      "summary_original": "Ebola Bundibugyo vaccine candidates could enter Phase 1 trials as early as July Reuters",
-      "summary_ai_original": "Ebola Bundibugyo vaccine candidates could enter Phase 1 trials as early as July Reuters",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSFJrTllUcHJPaFU0TlQyWHEzN0NSNjd5M3BQQnh4STJrUEEyV2J3VWp6RHY4VmJkMEtZTlU0cEVrWF9kbTVKaVcyeFFIN25uX0IzNGhCNmdVQzlldF9iWEFsT04xWC1pa0hEX2dWbXBveUVycDZ3NW01YkhDMUM0VV9HT1NuamRIVTltVFVHTnFDOGdVMDlmUl80TVdJZGkzYTF0Q19SUVdKMFo1U2hjUjBMTEpCNkpqVDhKaWxNaVBYRjI0WnRzLWdZUk50dEtFWjFwNWV4dHV6M2swU1E?oc=5",
-      "source": "Reuters Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-06-16T13:34:22+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "Reuters"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "Reuters"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Reuters Vaccines / Immunization"
-      ]
-    },
-    {
       "id": "8937bf4ee7f8fd24",
       "title": "2025年から2026年の呼吸器ウイルス流行期における米国退役軍人における新型コロナウイルス感染症の転帰予防におけるmRNA-1283とBNT162b2の新型コロナウイルス感染症ワクチンのワクチン効果の比較 - SSRN eライブラリー",
       "summary": "2025～2026年の呼吸器ウイルス流行期における米国退役軍人の新型コロナウイルス感染症予防におけるmRNA-1283とBNT162b2の新型コロナウイルスワクチンのワクチン効果の比較 SSRN eLibrary",
@@ -1686,71 +1905,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "PAHO News"
-      ]
-    },
-    {
-      "id": "c94b46336cb0a70f",
-      "title": "新型コロナ予防接種で心臓有害事象のリスクが軽減、大規模研究で判明 - statnews.com",
-      "summary": "新型コロナ予防接種で心臓有害事象のリスクが軽減、大規模研究で判明 statnews.com",
-      "summary_ai": "新型コロナ予防接種で心臓有害事象のリスクが軽減、大規模研究で判明 statnews.com",
-      "title_original": "Covid vaccination cut risk of adverse heart events, large study finds - statnews.com",
-      "summary_original": "Covid vaccination cut risk of adverse heart events, large study finds statnews.com",
-      "summary_ai_original": "Covid vaccination cut risk of adverse heart events, large study finds statnews.com",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSjNnbzl1blkyclotMTN5bVVhbHd6YjlnbkkySnhSSkpYR3dNMDdDOEJXaHRpTDNtV1UxaVlkaWtTaUg4YkpjX0JTSmtkejliZ2NQNUVaNFEzSmpDTktjY29iem0tUjRUX3ZvRFlKcnNxN2VZbW10SzNsVzJaVExjYW4weGlrOGJvS2NWaEkzNW9fTE5qRHc?oc=5",
-      "source": "STAT Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-06-15T15:03:22+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "STAT"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "STAT"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "STAT Vaccines / Immunization"
       ]
     },
     {
@@ -2094,26 +2248,28 @@
       ]
     },
     {
-      "id": "cbd05799632a2285",
-      "title": "小児におけるインフルエンザ関連同時感染に対するインフルエンザワクチンの有効性: 遡及的および理論的モデリング研究 - SSRN eLibrary",
-      "summary": "小児におけるインフルエンザ関連同時感染に対するインフルエンザワクチンの有効性: 遡及的および理論的モデリング研究 SSRN eLibrary",
-      "summary_ai": "小児におけるインフルエンザ関連同時感染に対するインフルエンザワクチンの有効性: 遡及的および理論的モデリング研究 SSRN eLibrary",
-      "title_original": "Influenza Vaccine Effectiveness Against Influenza-Associated Co-Infections Among Children: A Retrospective and Theoretical Modelling Study - SSRN eLibrary",
-      "summary_original": "Influenza Vaccine Effectiveness Against Influenza-Associated Co-Infections Among Children: A Retrospective and Theoretical Modelling Study SSRN eLibrary",
-      "summary_ai_original": "Influenza Vaccine Effectiveness Against Influenza-Associated Co-Infections Among Children: A Retrospective and Theoretical Modelling Study SSRN eLibrary",
+      "id": "aa649a4c21a37a30",
+      "title": "テキサス州北部の社会的に弱い立場にあるラテン系コミュニティにおける新型コロナウイルス予防接種への躊躇に影響を与える要因 - Taylor & Francis Online",
+      "summary": "テキサス州北部の社会的に弱い立場にあるラテン系コミュニティにおける新型コロナウイルス予防接種への躊躇に影響を与える要因 Taylor & Francis Online",
+      "summary_ai": "テキサス州北部の社会的に弱い立場にあるラテン系コミュニティにおける新型コロナウイルス予防接種への躊躇に影響を与える要因 Taylor & Francis Online",
+      "title_original": "Factors influencing COVID-19 vaccine hesitancy in socially vulnerable Latinx communities in North Texas - Taylor & Francis Online",
+      "summary_original": "Factors influencing COVID-19 vaccine hesitancy in socially vulnerable Latinx communities in North Texas Taylor & Francis Online",
+      "summary_ai_original": "Factors influencing COVID-19 vaccine hesitancy in socially vulnerable Latinx communities in North Texas Taylor & Francis Online",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBuR1l5Q3JNeF9SSUJNd3BLc3JPSVR6RDV5WmV3X2Zob1AyQk1NU180MHQ3M2w2NXZ1azRKZzUxOEFZUGRIamV2QXFzc0ptRkI1M25WQkJMTFhVamlDcnREX2IzS3dwTUxWcUtn?oc=5",
-      "source": "SSRN vaccine preprints",
-      "source_type": "preprint",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zRXdCXzlmMEVmeWZiWTNQdmdrSm9Oa3kxRXd2WUQxMFhFckZPYlZ1SXIyVDFxZFBCNm56eHE5M1FBWktFTmVyc3BNU0RaS3QtZWk3U25xaDllWEVET1FEZlRGQ3NPeklQUlc1UnE5eEo4SEU?oc=5",
+      "source": "Human Vaccines & Immunotherapeutics",
+      "source_type": "academic",
       "source_tier": "Tier 3",
-      "source_priority": 6,
-      "published_at": "2026-06-11T05:16:34+00:00",
+      "source_priority": 8,
+      "published_at": "2026-06-12T08:04:44+00:00",
       "topics": [
-        "research"
+        "communication"
       ],
-      "policy_tags": [],
+      "policy_tags": [
+        "communication"
+      ],
       "vaccines": [
-        "influenza"
+        "covid"
       ],
       "variants": [],
       "target_country": "不明",
@@ -2123,7 +2279,7 @@
         "lat": 38.9072,
         "lng": -77.0369,
         "region": "North America",
-        "label": "SSRN"
+        "label": "HV&I"
       },
       "plot": {
         "source": {
@@ -2132,7 +2288,7 @@
           "lat": 38.9072,
           "lng": -77.0369,
           "region": "North America",
-          "label": "SSRN"
+          "label": "HV&I"
         },
         "target": {
           "key": "unknown",
@@ -2157,7 +2313,7 @@
       "lng": 0.0,
       "duplicate_count": 1,
       "duplicate_sources": [
-        "SSRN vaccine preprints"
+        "Human Vaccines & Immunotherapeutics"
       ]
     },
     {
@@ -2296,7 +2452,7 @@
       ]
     },
     {
-      "id": "5b4b553a98ee737f",
+      "id": "3305f9f418d2b3eb",
       "title": "国内承認ワクチンがないデング熱やチクングニア熱の拡大警戒、蚊媒介する感染症対策を強化…国や自治体が殺虫剤備蓄 - 読売新聞",
       "summary": "国内承認ワクチンがないデング熱やチクングニア熱の拡大警戒、蚊媒介する感染症対策を強化…国や自治体が殺虫剤備蓄 読売新聞",
       "summary_ai": "国内承認ワクチンがないデング熱やチクングニア熱の拡大警戒、蚊媒介する感染症対策を強化…国や自治体が殺虫剤備蓄 読売新聞",
@@ -2304,7 +2460,7 @@
       "summary_original": "国内承認ワクチンがないデング熱やチクングニア熱の拡大警戒、蚊媒介する感染症対策を強化…国や自治体が殺虫剤備蓄 読売新聞",
       "summary_ai_original": "国内承認ワクチンがないデング熱やチクングニア熱の拡大警戒、蚊媒介する感染症対策を強化…国や自治体が殺虫剤備蓄 読売新聞",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xeVdJT0tiVFhXSTJjOEYtaGxWQS1uc1AwcndWSXpDRS1JTjg0LVpScHA3ZlJ5T01MTVFtOVBtbFZUcDk4eDNBUmdhQ28tOTJQTGktZEFfTVdsMTdFaFNBa2stS1V4YksyUmR4emtR?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96T0hOLXpyLTlXeWJneFVFSXdJc0Z0blBhM0loSXpLMmZkS0RUMmw0OWlZUUt2b1RzYWhaN084NThaQlNJRmFxVkpuS3QyUmhIWGpMOWp0RXNGY0M2dTFmUlVMZ3FRWEI3dElLd3RYOXgwMlprSW9UR3NWclVKdkE?oc=5",
       "source": "読売新聞 ワクチン / 予防接種",
       "source_type": "media",
       "source_tier": "Tier 2",
@@ -2427,71 +2583,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "SSRN vaccine preprints"
-      ]
-    },
-    {
-      "id": "405e0673a6299cd2",
-      "title": "1920年代の結核ワクチンが糖尿病の治験で有望性を示す",
-      "summary": "1920年代の結核ワクチンが糖尿病の治験で有望性を示す",
-      "summary_ai": "1920年代の結核ワクチンが糖尿病の治験で有望性を示す",
-      "title_original": "TB vaccine from the 1920s shows promise in diabetes trial",
-      "summary_original": "TB vaccine from the 1920s shows promise in diabetes trial",
-      "summary_ai_original": "TB vaccine from the 1920s shows promise in diabetes trial",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0dEJOMFVuM2VyQ3VyM0VYYWh3RGR3bjQ2S0dHeE5fbUFOU2VMS1ZsREtvOUlSd2liVE9CRjVDWXBEU2xYY3IydVFxZDVScGFiTkIwX05kU3UtM0l0Mzdr?oc=5",
-      "source": "Nature News Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 5,
-      "published_at": "2026-06-09T07:00:00+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "Nature News"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "Nature News"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Nature News Vaccines / Immunization"
       ]
     }
   ]
