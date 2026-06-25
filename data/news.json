@@ -1,9 +1,9 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-06-24T22:37:00.552860+00:00",
+  "generated_at": "2026-06-25T22:41:52.115364+00:00",
   "item_count": 34,
-  "archive_count": 327,
+  "archive_count": 333,
   "days_back": 14,
   "plot_mode_default": "source",
   "feed_status": [
@@ -23,7 +23,7 @@
       "name": "CDC Newsroom",
       "url": "https://tools.cdc.gov/api/v2/resources/media/316422.rss",
       "status": "ok",
-      "seen": 8,
+      "seen": 6,
       "kept": 0
     },
     {
@@ -56,7 +56,7 @@
       "name": "MHRA",
       "url": "https://www.gov.uk/government/organisations/medicines-and-healthcare-products-regulatory-agency.atom",
       "status": "ok",
-      "seen": 20,
+      "seen": 19,
       "kept": 1
     },
     {
@@ -81,8 +81,8 @@
       "name": "PAHO News",
       "url": "https://www.paho.org/en/rss.xml",
       "status": "ok",
-      "seen": 8,
-      "kept": 4
+      "seen": 10,
+      "kept": 5
     },
     {
       "name": "The Lancet series",
@@ -130,7 +130,7 @@
       "name": "Nature Medicine vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fnm%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20uptake%20OR%20policy)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
@@ -165,7 +165,7 @@
       "name": "Science vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ascience.org%2Fdoi%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20antibody)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 4,
       "kept": 0
     },
     {
@@ -193,7 +193,7 @@
       "name": "JAMA vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjama%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 2,
       "kept": 0
     },
     {
@@ -228,28 +228,28 @@
       "name": "medRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Amedrxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
-      "kept": 0
+      "seen": 3,
+      "kept": 1
     },
     {
       "name": "bioRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abiorxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
       "seen": 3,
-      "kept": 1
+      "kept": 0
     },
     {
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 23,
-      "kept": 5
+      "seen": 26,
+      "kept": 6
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 46,
+      "seen": 16,
       "kept": 1
     },
     {
@@ -263,57 +263,57 @@
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 11,
+      "seen": 13,
       "kept": 0
     },
     {
       "name": "Financial Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aft.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 7,
+      "seen": 10,
       "kept": 0
     },
     {
       "name": "STAT Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 11,
+      "seen": 18,
       "kept": 1
     },
     {
       "name": "Nature News Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 9,
+      "seen": 11,
       "kept": 0
     },
     {
       "name": "Science Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Ascience.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 4,
+      "seen": 6,
       "kept": 0
     },
     {
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 12,
+      "seen": 14,
       "kept": 0
     },
     {
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 24,
-      "kept": 1
+      "seen": 96,
+      "kept": 0
     },
     {
       "name": "Washington Post Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 30,
-      "kept": 2
+      "seen": 28,
+      "kept": 1
     },
     {
       "name": "NHK ワクチン / 予防接種",
@@ -326,7 +326,7 @@
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 19,
+      "seen": 16,
       "kept": 0
     },
     {
@@ -340,21 +340,21 @@
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 20,
+      "seen": 12,
       "kept": 1
     },
     {
       "name": "毎日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 9,
+      "seen": 8,
       "kept": 0
     },
     {
       "name": "JAMA Network vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 8,
+      "seen": 9,
       "kept": 3
     },
     {
@@ -382,8 +382,8 @@
       "name": "Open Forum Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fofid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
-      "kept": 2
+      "seen": 1,
+      "kept": 1
     },
     {
       "name": "Emerging Infectious Diseases",
@@ -403,15 +403,15 @@
       "name": "PLOS journals vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajournals.plos.org%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20uptake%20OR%20policy)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
-      "kept": 1
+      "seen": 3,
+      "kept": 0
     },
     {
       "name": "eClinicalMedicine vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Athelancet.com%2Fjournals%2Feclinm&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 0,
-      "kept": 0
+      "seen": 1,
+      "kept": 1
     },
     {
       "name": "EBioMedicine vaccines",
@@ -459,40 +459,107 @@
       "name": "SSRN vaccine preprints",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Apapers.ssrn.com%20(effectiveness%20OR%20safety%20OR%20policy%20OR%20trial)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 4,
-      "kept": 3
+      "seen": 5,
+      "kept": 4
     }
   ],
   "weekly_ai_summary": {
-    "generated_at": "2026-06-24T22:37:00.552860+00:00",
+    "generated_at": "2026-06-25T22:41:52.115364+00:00",
     "period_days": 7,
-    "policy_count": 7,
-    "academic_count": 9,
+    "policy_count": 6,
+    "academic_count": 6,
     "status": "ok",
     "model": "gpt-4o-mini",
-    "policy_summary": "ワクチン完全性プロジェクトが信頼回復を目指す政策改善プロジェクトを発表しました。また、PAHOは誤情報対策のためのガイダンスを提供し、南北アメリカの健康強化に向けた重要な決定を下しました。",
-    "academic_summary": "RSVPreF3ワクチンの実際の有効性に関する初期結果が報告され、米国小児病院での予防接種の障壁と促進要因に関する定性的研究も行われました。さらに、2025-2026年の新型コロナウイルスワクチンの有効性に関する暫定推定値が示されています。"
+    "policy_summary": "米国のワクチン政策に関する最新情報では、ACIPの定足数が不足していることが指摘されています。また、汎米保健機関は人道危機の影響を受ける地域で200万人に医療サービスを提供するプロジェクトを開始しました。",
+    "academic_summary": "米国小児病院における入院患者への予防接種に関する定性的研究が発表され、障壁と促進要因が分析されています。また、2025-26年の新型コロナウイルスワクチンの有効性に関する複数の研究が進行中です。"
   },
   "items": [
     {
-      "id": "20870af6d8315ec8",
-      "title": "60歳以上の成人におけるRSV関連下気道疾患入院の予防におけるアジュバント添加RSVPreF3ワクチンの実際の有効性：検査陰性デザイン分析からの初期結果 - オックスフォード・アカデミック",
-      "summary": "60歳以上の成人におけるRSV関連下気道疾患入院の予防におけるアジュバント添加RSVPreF3ワクチンの実際の有効性: テスト陰性デザイン分析からの初期結果 Oxford Academic",
-      "summary_ai": "60歳以上の成人におけるRSV関連下気道疾患入院の予防におけるアジュバント添加RSVPreF3ワクチンの実際の有効性: テスト陰性デザイン分析からの初期結果 Oxford Academic",
-      "title_original": "Real-world Effectiveness of Adjuvanted RSVPreF3 Vaccine in Preventing RSV-associated Lower Respiratory Tract Disease Hospitalization in Adults ≥60 Years of Age: Early Results From a Test-negative Design Analysis - Oxford Academic",
-      "summary_original": "Real-world Effectiveness of Adjuvanted RSVPreF3 Vaccine in Preventing RSV-associated Lower Respiratory Tract Disease Hospitalization in Adults ≥60 Years of Age: Early Results From a Test-negative Design Analysis Oxford Academic",
-      "summary_ai_original": "Real-world Effectiveness of Adjuvanted RSVPreF3 Vaccine in Preventing RSV-associated Lower Respiratory Tract Disease Hospitalization in Adults ≥60 Years of Age: Early Results From a Test-negative Design Analysis Oxford Academic",
+      "id": "19fac615a23e74b8",
+      "title": "HPV予防接種により近年、英国の若い女性の子宮頸がんによる死亡が減少したと研究が示唆 - CIDRAP",
+      "summary": "HPV予防接種により英国の若い女性の子宮頸がんによる死亡が近年減少したと研究が示唆 CIDRAP",
+      "summary_ai": "HPV予防接種により英国の若い女性の子宮頸がんによる死亡が近年減少したと研究が示唆 CIDRAP",
+      "title_original": "HPV vaccination eliminated cervical cancer deaths in young UK women in recent years, study suggests - CIDRAP",
+      "summary_original": "HPV vaccination eliminated cervical cancer deaths in young UK women in recent years, study suggests CIDRAP",
+      "summary_ai_original": "HPV vaccination eliminated cervical cancer deaths in young UK women in recent years, study suggests CIDRAP",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTc2s3WDdxWFc3XzFrZzNpZHpLR2VVb0xvT2U3RXJYOExzSmNVSFVMblpFOTNwMkJzaWo4S3FGaGw3UkpRVGc4Z2R5MDlPX2ZKaVJ5ai0tTEg5SFg1eTRVMTZoam8zcEYweXc?oc=5",
-      "source": "Open Forum Infectious Diseases",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 7,
-      "published_at": "2026-06-24T18:57:14+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdE5TUFFJaU9LbzdOZExtZ0ZSUjg4SU9CaHhyT2NVUnpZcGdGeWVqM2RIQS1uOFZPU2RBVUE0cThscDQ5MGQzZFQ0ZUtuTkwyM09ZdTNtZDJmazg3T2gxUXQwb2g5ZTM1am9wRmFqbzlpeEc0cHA5bzlIaGRUTDREel9jYUptRklYdVphakk2TG83YzZSVnJncjVVQVI2V0kyTDJxWXZ1N0dDczI4WFdXZW9pUVdoaVQzcFhwbTN2ZFI?oc=5",
+      "source": "CIDRAP Vaccines & Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 8,
+      "published_at": "2026-06-25T20:12:36+00:00",
       "topics": [
         "research"
       ],
       "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "英国",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "CIDRAP / Minnesota"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "CIDRAP / Minnesota"
+        },
+        "target": {
+          "key": "uk",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "英国"
+        }
+      },
+      "location": {
+        "key": "uk",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "英国"
+      },
+      "region": "Europe",
+      "country": "英国",
+      "lat": 51.5074,
+      "lng": -0.1278,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "CIDRAP Vaccines & Immunization"
+      ]
+    },
+    {
+      "id": "ce3ef44e96b449ff",
+      "title": "いらっしゃいませ！すべて順調です…ACIP の定足数がまだないことを除けば：米国のワクチン政策の現状 - CIDRAP",
+      "summary": "いらっしゃいませ！すべて順調です…ACIP の定足数がまだないことを除けば: 米国のワクチン政策の現状 CIDRAP",
+      "summary_ai": "すべて順調です…ACIP の定足数がまだないことを除けば: 米国のワクチン政策の現状 CIDRAP",
+      "title_original": "Welcome! Everything is fine…except there is still no ACIP quorum: The State of US Vaccine Policy - CIDRAP",
+      "summary_original": "Welcome! Everything is fine…except there is still no ACIP quorum: The State of US Vaccine Policy CIDRAP",
+      "summary_ai_original": "Everything is fine…except there is still no ACIP quorum: The State of US Vaccine Policy CIDRAP",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLURfQzRwZzB3YlJEVFk4VEMxZ0NCNEk3Q3BIR0lwVTlZYVIxbG9VVUptcVpmU1I0V3hCQlBEX1VEczU2c1kwZFJEaDBKY1FtY2J6cmVSX1d6TERiWjJPQk9mb3ZEY1BZcy1LWWlGam56NG1CMDE2dl9wQVo0YmxLQTMzV081YWJGdTV2ZnBlSnBSc19rZERDekwtWkU3Y0FyY21vYnBlNGNQa2QyVTVTQnIySm5vNnZOMkZiRWd0ZTM3dw?oc=5",
+      "source": "CIDRAP Vaccines & Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 8,
+      "published_at": "2026-06-25T18:21:37+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [
+        "recommendation"
+      ],
       "vaccines": [],
       "variants": [],
       "target_country": "不明",
@@ -502,7 +569,7 @@
         "lat": 38.9072,
         "lng": -77.0369,
         "region": "North America",
-        "label": "Open Forum Infectious Diseases"
+        "label": "CIDRAP / Minnesota"
       },
       "plot": {
         "source": {
@@ -511,7 +578,7 @@
           "lat": 38.9072,
           "lng": -77.0369,
           "region": "North America",
-          "label": "Open Forum Infectious Diseases"
+          "label": "CIDRAP / Minnesota"
         },
         "target": {
           "key": "unknown",
@@ -536,7 +603,142 @@
       "lng": 0.0,
       "duplicate_count": 1,
       "duplicate_sources": [
-        "Open Forum Infectious Diseases"
+        "CIDRAP Vaccines & Immunization"
+      ]
+    },
+    {
+      "id": "d17f7fd5756f0bd5",
+      "title": "人道危機の影響を受ける5か国でPAHO支援の保健プロジェクトから200万人が恩恵を受ける",
+      "summary": "人道危機の影響を受ける5か国でPAHO支援の保健プロジェクトから200万人が恩恵を受ける クリスティーナ・ミッチェル 2026年6月24日",
+      "summary_ai": "ワシントンD.C.、2026年6月25日（PAHO）—汎米保健機関（PAHO）は、ラテンアメリカ・カリブ海地域人道基金からの資金提供を受けて、ラテンアメリカ・カリブ海地域の人道危機の影響を受ける人々に対する必須の医療サービスへのアクセスを拡大するプロジェクトを立ち上げた。",
+      "title_original": "Two million people to benefit from PAHO-backed health projects in five countries affected by humanitarian crises",
+      "summary_original": "Two million people to benefit from PAHO-backed health projects in five countries affected by humanitarian crises Cristina Mitchell 24 Jun 2026",
+      "summary_ai_original": "Washington, D.C., June 25, 2026 (PAHO)—The Pan American Health Organization (PAHO) has launched projects to expand access to essential health services for populations affected by humanitarian crises in Latin America and the Caribbean, with funding from the Regional Humanitarian Fund for Latin America and the Caribbean",
+      "article_text_original": "PAHO has launched initiatives in Colombia, El Salvador, Guatemala, Haiti and Honduras with support from the Regional Humanitarian Fund for Latin America and the Caribbean. Washington, D.C., June 25, 2026 (PAHO)—The Pan American Health Organization (PAHO) has launched projects to expand access to essential health services for populations affected by humanitarian crises in Latin America and the Caribbean, with funding from the Regional Humanitarian Fund for Latin America and the Caribbean (RHPF LAC). With a total investment of nearly $25 million, the initiative will directly benefit more than 1.1 million people in five countries—Colombia, El Salvador, Guatemala, Haiti and Honduras—and indirectly reach close to 900,000 more. “These projects will enable a timely and coordinated response to the most urgent health needs in complex humanitarian settings,” said Ciro Ugarte, PAHO Director of Health Emergencies. “By strengthening essential services and local response capacity, we aim to reduce the impact of prolonged crises on the most vulnerable populations,” he added. The initiative seeks to expand access to health care and strengthen the capacity of local health systems to better protect populations from outbreaks, emergencies and extreme weather events, with particular focus on those in situations of greatest vulnerability. The projects combine efforts to ensure primary health care, strengthen epidemiological surveillance, and expand maternal, child and mental health services, as well as psychosocial support. They also include interventions in water, sanitation and hygiene (WASH), vector control, and disease response in emergency settings. Interventions in five countries Haiti accounts for the largest share of the funding due to the persistence of a complex humanitarian crisis, marked by high levels of vulnerability, population displacement and health challenges such as cholera. There, the Regional Humanitarian Fund’s contribution will help maintain service availability and ensure access to emergency and essential health care for more than 524,000 people in highly vulnerable situations. Interventions include support for cholera response, maternal and neonatal care, mental health services, and vaccination campaigns against measles and diphtheria. In Colombia, the initiative will focus on expanding access to health services in communities affected by conflict, violence, disease outbreaks and adverse climate events. Actions include primary care, epidemiological surveillance, nutrition, mental health, and access to safe water, particularly in hard-to-reach areas. In Honduras, Guatemala and El Salvador, where projects began implementation in early June 2026, interventions aim to restore and maintain essential health services affected by climate events, food insecurity, violence and disease outbreaks. Response actions include mobile health brigades, vaccination campaigns, rehabilitation of health facilities, strengthening of water and sanitation systems, and disease prevention and control interventions for illnesses such as dengue. In Guatemala, priority will be given to communities affected by drought, crop losses and epidemic risks, while in El Salvador efforts will focus on vector-borne diseases and climate-related emergencies. Through these projects, PAHO supports countries in maintaining continuity of essential health services and ensuring operational capacity of health facilities, through the provision of essential supplies, strengthening of health infrastructure, and deployment of mobile and community-based teams. The interventions also aim to strengthen health systems’ capacity to anticipate and respond to current and future emergencies, contributing to greater resilience to recurring crises in the region. PAHO-implemented health projects are part of broader funding allocations from the Regional Humanitarian Fund for Latin America and the Caribbean, under multisectoral strategies for needs prioritization and coordinated, complementary response among multiple United Nations actors and other humanitarian partners active in these countries. This funding enables a timely, comprehensive and needs-based response to some of the most urgent humanitarian crises in the region.",
+      "link": "https://www.paho.org/en/news/24-6-2026-two-million-people-benefit-paho-backed-health-projects-five-countries-affected",
+      "source": "PAHO News",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 8,
+      "published_at": "2026-06-24T20:02:37+00:00",
+      "topics": [
+        "communication"
+      ],
+      "policy_tags": [
+        "financing",
+        "outbreak_response"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "コロンビア",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "PAHO / Washington DC"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "PAHO / Washington DC"
+        },
+        "target": {
+          "key": "colombia",
+          "name_ja": "コロンビア",
+          "lat": 4.711,
+          "lng": -74.0721,
+          "region": "South America",
+          "label": "コロンビア"
+        }
+      },
+      "location": {
+        "key": "colombia",
+        "name_ja": "コロンビア",
+        "lat": 4.711,
+        "lng": -74.0721,
+        "region": "South America",
+        "label": "コロンビア"
+      },
+      "region": "South America",
+      "country": "コロンビア",
+      "lat": 4.711,
+      "lng": -74.0721,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "PAHO News"
+      ]
+    },
+    {
+      "id": "614c84ce8122bb40",
+      "title": "ワクシニア免疫グロブリン点滴静注（ヒト）",
+      "summary": "製品の承認情報は、天然痘予防接種に起因する合併症である以下の症状の治療および/または改善を目的としています。 o ワクシニア湿疹 o 進行性ワクシニア o 重篤な全身性ワクシニア o 皮膚疾患のある個人におけるワクシニア感染症",
+      "summary_ai": "STN: BL 125109 正式名: ワクシニア免疫グロブリン静注 (ヒト) 商品名: なし メーカー: Cangene Corp、ライセンス #1201 - 天然痘予防接種に起因する合併症である以下の症状の治療および/または修正 - ワクシニア性湿疹 - 進行性ワクシニア - 重篤な全身性ワクチン",
+      "title_original": "Vaccinia Immune Globulin Intravenous (Human)",
+      "summary_original": "Product approval information is indicated for treatment and/or modification of the following conditions, which are complications resulting from smallpox vaccination o Eczema vaccinatum o Progressive vaccinia o Severe generalized vaccinia o Vaccinia infections in individuals who have skin conditions",
+      "summary_ai_original": "STN: BL 125109 Proper Name: Vaccinia Immune Globulin Intravenous (Human) Tradename: None Manufacturer: Cangene Corp, License #1201 - Treatment and/or modification of the following conditions, which are complications resulting from smallpox vaccination - Eczema vaccinatum - Progressive vaccinia - Severe generalized vacc",
+      "article_text_original": "STN: BL 125109 Proper Name: Vaccinia Immune Globulin Intravenous (Human) Tradename: None Manufacturer: Cangene Corp, License #1201 - Treatment and/or modification of the following conditions, which are complications resulting from smallpox vaccination - Eczema vaccinatum - Progressive vaccinia - Severe generalized vaccinia - Vaccinia infections in individuals who have skin conditions such as burns, impetigo, varicella-zoster, or poison ivy; or in individuals who have eczematous skin lesions because of either the activity or extensiveness of such lesions - Aberrant infections induced by vaccinia virus that include its accidental implantation in eyes (except in cases of isolated keratitis), mouth, or other areas where vaccinia infection would constitute a special hazard.",
+      "link": "http://www.fda.gov/vaccines-blood-biologics/approved-blood-products/vaccinia-immune-globulin-intravenous-human",
+      "source": "FDA Vaccines / Biologics",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 9,
+      "published_at": "2026-06-24T18:36:18+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [
+        "approval"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "FDA / Silver Spring"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "FDA / Silver Spring"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "FDA Vaccines / Biologics"
       ]
     },
     {
@@ -1084,79 +1286,6 @@
       ]
     },
     {
-      "id": "f1660bb833350a70",
-      "title": "新型コロナウイルス感染症ワクチンの安全性監視",
-      "summary": "このページでは、受動的安全性監視システムと能動的安全性監視システムの両方を通じた、承認された新型コロナウイルス感染症ワクチンの安全性の監視について説明します。",
-      "summary_ai": "患者、介護者、医療提供者による有害事象の報告は一般に任意ですが、報告者または医療提供者がその事象がワクチンに関連していると考えるかどうかに関係なく、特定の状況下では義務付けられる場合があります。たとえば、新型コロナウイルス感染症ワクチンの緊急使用許可 (EUA)では、医療提供者に次のことを義務付けています。",
-      "title_original": "COVID-19 Vaccine Safety Surveillance",
-      "summary_original": "This page describes the monitoring the safety of authorized COVID-19 vaccines through both passive and active safety surveillance systems.",
-      "summary_ai_original": "Reporting adverse events by patients, caregivers, or providers is generally voluntary, but it can be required under certain circumstances regardless of whether the reporter or provider thinks the event is related to the vaccine; for example, the COVID-19 vaccine emergency use authorizations (EUAs) require providers to",
-      "article_text_original": "January 10, 2025 The Center for Biologics Evaluation and Research (CBER) at the FDA is monitoring the safety of approved and authorized COVID-19 vaccines through both passive and active safety surveillance systems. CBER is doing so in collaboration with the Centers for Disease Control and Prevention (CDC), the Centers for Medicare and Medicaid Services (CMS), the Department of Veterans Affairs (VA), and other academic and large non-government healthcare data systems. In addition, CBER participates actively in ongoing international pharmacovigilance efforts, including those organized by the International Coalition of Medicines Regulatory Authorities (ICMRA) and the World Health Organization (WHO). These efforts are in addition to the pharmacovigilance efforts being undertaken by the individual manufacturers of approved and authorized vaccines. A coordinated and overlapping approach using state-of the art technologies has been implemented to maximize the ability to detect potential safety concerns. Passive surveillance is defined as unsolicited reports of adverse events (possible side effects) that are sent to a central database or health authority. In the United States, these are received and entered into the Vaccine Adverse Event Reporting System (VAERS), a national vaccine safety surveillance system that is co-managed by FDA and CDC. VAERS collects and analyzes information from reports of adverse events that occur after the administration of US licensed and authorized vaccines. Reports are received from patients, caregivers, health care providers, pharmacists, and vaccine manufacturers. Reporting adverse events by patients, caregivers, or providers is generally voluntary, but it can be required under certain circumstances regardless of whether the reporter or provider thinks the event is related to the vaccine; for example, the COVID-19 vaccine emergency use authorizations (EUAs) require providers to report all serious adverse events following vaccination, regardless of whether providers believed the event was related to the vaccine.i Initial reports made to the VAERS system are subsequently further investigated to determine whether they are likely to be related to vaccine administration. A report to VAERS does not mean the vaccine caused the event. Some VAERS reports might represent true vaccine reactions or side effects; others are coincidental events not related to vaccination. FDA and CDC continually monitor incoming and accumulated VAERS data using various methods, including frequent assessment of report counts and trends, comparisons of current versus historical data, and reporting trends over time, as well as evaluating individual reports, as needed, to identify possible safety concerns associated with vaccines. These reports are used to monitor the occurrence of both known and unknown adverse events. Once adverse events of concern are identified in VAERS, they may be monitored in other immunization safety systems to evaluate whether the event occurs more frequently than expected after vaccination or to conduct more controlled scientific studies to confirm whether a particular adverse event is related to a vaccine. An example of the work done with passive safety surveillance during the current pandemic has been the evaluation of severe allergic reactions, such as anaphylaxis, and myocarditis or pericarditis as serious types of adverse events following vaccination with COVID-19 vaccines. Through this work, we have come to understand that these reactions are quite rare, happening in less than 1 in 200,000 vaccinated individuals, and we were able to provide additional information to patients and providers about individuals who might be at higher risk for these adverse events. CBER also uses disproportionality analysis, also known as data mining, in its vaccine safety monitoring efforts. Data mining refers to the use of statistical or mathematical tools to discover patterns of associations or unexpected occurrences in large databases, such as VAERS for vaccines. Data mining involves the automated analysis of adverse events and vaccine administration errors report data in VAERS to inform FDA staff about a potential disproportionality of reports of a certain adverse event or vaccine administration error for one vaccine relative to other vaccines in the VAERS database.ii Data mining results are evaluated by FDA staff and may inform FDA staff about specific adverse events or administration errors that may warrant additional review to determine whether there is a safety concern associated with vaccination. Importantly, data mining results may provide insights into the patterns of adverse events or errors reported for a given product relative to other vaccine products, but data mining results do not, by themselves, demonstrate causal associations between a vaccine and an adverse event. Note that data mining results are derived exclusively from ‘‘numerator’’ data (i.e., numbers of adverse events or errors passively reported to VAERS); as a passive, numerator-only system, VAERS lacks information on the total number of individuals vaccinated (i.e., the “denominator”) and, as such, cannot provide or compare rates of adverse events after vaccination. The limitations of data mining include but are not limited to the following: - Results may be impacted by stimulated reporting (for example, the use of v-safe and media reporting around the COVID-19 vaccines); - There may be false alerts from statistical interactions (for example, if two vaccines are given at the same time, a potential statistical signal for one vaccine may be driven by the other vaccine); and - There may be underreporting, incomplete reporting, and duplicate reporting. As part of the agencies’ surveillance efforts during the COVID-19 public health emergency, FDA and CDC exchanged raw data mining information about COVID-19 vaccines. Using data mining, FDA and CDC did not find any new signals that led to regulatory actions or changes in clinical recommendations. More information on these exchanges may be found in CBER’s Biologics Electronic Reading Room (eFOIA) | FDA. Because data mining results are preliminary and form only one part of CBER’s passive vaccine surveillance, CBER does not ordinarily make them public. However, given the extraordinary interest in the COVID-19 vaccines, CBER has decided to do so here. Active surveillance involves proactively obtaining and rapidly analyzing information occurring in millions of individuals recorded in large healthcare data systems to verify safety signals identified through passive surveillance or to detect additional safety signals that may not have been reported as adverse events to passive surveillance systems. FDA is conducting active surveillance using the Sentinel BEST (Biologics Effectiveness and Safety) System and the CMS system. Our efforts complement those of the Vaccine Safety Datalink (VSD) and the v-safe text-based monitoring system for conducting surveillance of adverse events that CDC has implemented. FDA is also collaborating with other federal and non-federal partners. To elaborate further, the BEST system, which is part of the Sentinel initiative, comprises large-scale claims data, electronic health records (EHR), and linked claims-EHR databases. The system makes use of multiple data sources and enables rapid queries to detect or evaluate adverse events as well as studies to answer specific safety questions for vaccines. The linked claims-EHR database makes it possible to study the safety of vaccines in sub-populations with pre-existing conditions or in pregnant women. The major partners for BEST currently are Acumen, IBM Federal HealthCare, IQVIA, and Columbia University and many affiliated partners such as MedStar Health, BlueCross BlueShield of America, the Observational Health Data Sciences and Informatics (OHDSI), OneFlorida, University of California, and several others. iii Using BEST, CBER has monitored about 15 adverse events that were chosen based on experience with evaluating safety for the deployment of previous vaccines. CBER will use the BEST system to conduct more in-depth analyses should a safety concern be identified from sources such as VAERS. CBER has worked over the past several years with CMS to develop capabilities for routine and time-sensitive assessments regarding the safety of vaccines for people 65 years of age and older using the Medicare Claims database. Because it was already in place, this system was immediately put into use for COVID-19 vaccine surveillance to monitor for adverse events.iv In summary, in collaboration and coordination with several different partners, CBER has assembled passive and active surveillance systems that can detect and refine safety findings with the approved and authorized COVID-19 vaccines. These systems can also potentially be leveraged to assess safety in specific subpopulations and to assess vaccine effectiveness, including against emerging variants. FDA is conducting intensive monitoring of COVID-19 vaccine safety in the U.S. using a variety of approaches. Based on available information, FDA strongly believes that the known and potential benefits of COVID-19 vaccination greatly outweigh their known and potential risks. As part of our efforts to be transparent about our COVID-19 vaccine safety monitoring activities, FDA is posting summaries of the key safety monitoring findings on this page. - Initial Results of Near Real-Time Safety Monitoring of COVID-19 Vaccines in Persons Aged 65 Years and Older – July 9, 2021 - CDC and FDA Identify Preliminary COVID-19 Vaccine Safety Signal for Persons Aged 65 Years and Older - January 13, 2023 Notes: i Serious adverse events are defined as: death; a life-threatening adverse event; inpatient hospitalization or prolongation of existing hospitalization; a persistent or significant incapacity or substantial disruption of the ability to conduct normal life functions; or a congenital anomaly/birth defect. For reporting requirements for vaccination providers for the COVID-19 vaccines authorized for emergency use, please see the Fact Sheets for Healthcare Providers Administering Vaccine, which may be accessed here and here. ii Best Practices for FDA Staff in the Postmarketing Safety Surveillance of Human Drug and Biological Products iii To confirm the utility of the BEST system for situations such as COVID-19 vaccine surveillance, a test case was conducted. This study aimed to replicate a previous study by the CDC’s Vaccine Safety Datalink (VSD) (Klein et al. Pediatrics 2010) that examined the databases and analytic capabilities of the new system. The objective of this study was to test the new system’s ability to reproduce the increased risk of febrile seizures in children receiving the first dose of measles-mumps-rubella-varicella (MMRV) vaccine, compared to that of MMR and varicella vaccines separately but on the same day. The results of the study met the objectives and demonstrated the ability of the BEST Initiative data network to run a complex study protocol at multiple sites using a distributed data network and the Observational Medical Outcomes Partnership Common Data Model (organizing disparate data sources into the same database design using a common format). iv As one example of the capabilities of this system, FDA, CMS, and CDC evaluated the risk of Guillain-Barré syndrome (GBS) following influenza vaccination after CDC’s Vaccine Safety Datalink identified safety signals suggesting an increased risk of GBS following high-dose influenza vaccinations and Shingrix vaccinations during the 2018-2019 influenza season. CBER, CDC, and CMS formed working groups in February 2019 to refine these safety signals in the CMS data.",
-      "link": "http://www.fda.gov/vaccines-blood-biologics/safety-availability-biologics/covid-19-vaccine-safety-surveillance",
-      "source": "FDA Vaccines / Biologics",
-      "source_type": "official",
-      "source_tier": "Tier 1",
-      "source_priority": 9,
-      "published_at": "2026-06-22T23:58:49+00:00",
-      "topics": [
-        "policy",
-        "research"
-      ],
-      "policy_tags": [
-        "approval",
-        "outbreak_response",
-        "recommendation",
-        "safety"
-      ],
-      "vaccines": [
-        "covid"
-      ],
-      "variants": [],
-      "target_country": "米国",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "FDA / Silver Spring"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "FDA / Silver Spring"
-        },
-        "target": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "米国"
-        }
-      },
-      "location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "米国"
-      },
-      "region": "North America",
-      "country": "米国",
-      "lat": 38.9072,
-      "lng": -77.0369,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "FDA Vaccines / Biologics"
-      ]
-    },
-    {
       "id": "befb45c33da59a3e",
       "title": "P-1428。米国の65～74歳、75～84歳、85歳以上の成人における20価肺炎球菌複合体ワクチンの現リアルワールドの有効性 - オックスフォード・アカデミック",
       "summary": "P-1428。米国における65～74歳、75～84歳、85歳以上の成人における20価肺炎球菌複合体ワクチンの現リアルワールドの有効性 オックスフォード・アカデミック",
@@ -1222,35 +1351,101 @@
       ]
     },
     {
-      "id": "a80ab234b2ab4202",
-      "title": "エチオピアのアムハラ、オロミア、ソマリア地域における小児予防接種の障壁とそれを可能にする要因：多視点の質的研究",
-      "summary": "エチオピアのアムハラ、オロミア、ソマリア地域における小児予防接種の障壁とそれを可能にする要因：多視点の質的研究",
-      "summary_ai": "エチオピアのアムハラ、オロミア、ソマリア地域における小児予防接種の障壁とそれを可能にする要因：多視点の質的研究",
-      "title_original": "Barriers to and enablers of childhood immunization uptake in Ethiopia’s Amhara, Oromia, and Somali Regions: A multi-perspective qualitative study",
-      "summary_original": "Barriers to and enablers of childhood immunization uptake in Ethiopia’s Amhara, Oromia, and Somali Regions: A multi-perspective qualitative study",
-      "summary_ai_original": "Barriers to and enablers of childhood immunization uptake in Ethiopia’s Amhara, Oromia, and Somali Regions: A multi-perspective qualitative study",
+      "id": "918b57807051c0a3",
+      "title": "米国の健康な女性参加者を対象とした複数回用量バイアルで製剤化された二価 RSVpreF ワクチンの安全性と免疫原性：多施設共同、無作為化、非盲検、非劣性第 3 相試験",
+      "summary": "米国の健康な女性参加者を対象とした複数回用量バイアルで製剤化された二価 RSVpreF ワクチンの安全性と免疫原性：多施設共同、無作為化、非盲検、非劣性第 3 相試験",
+      "summary_ai": "米国の健康な女性参加者を対象とした複数回用量バイアルで製剤化された二価 RSVpreF ワクチンの安全性と免疫原性：多施設共同、無作為化、非盲検、非劣性第 3 相試験",
+      "title_original": "Safety and immunogenicity of bivalent RSVpreF vaccine formulated in a multidose vial in healthy female participants in the USA: a multicentre, randomised, open-label, noninferiority phase 3 study",
+      "summary_original": "Safety and immunogenicity of bivalent RSVpreF vaccine formulated in a multidose vial in healthy female participants in the USA: a multicentre, randomised, open-label, noninferiority phase 3 study",
+      "summary_ai_original": "Safety and immunogenicity of bivalent RSVpreF vaccine formulated in a multidose vial in healthy female participants in the USA: a multicentre, randomised, open-label, noninferiority phase 3 study",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeG9JUUIzZ0tJRlo3d2JaVjZPckREZGRGdEJFd3VKUEpzQ3hJaTJVVHJRUXp2alVoNWcxd1U4RFBpT0w1d3gzb2xxRnhxa3RaLUQwYnZTaHMydHdmeHNEX3Vta3Rjb093LW81d0MxYkhZQlJvdXltcGJNZklUdXFkV1NwZnk2alBhNEpNSw?oc=5",
-      "source": "PLOS journals vaccines",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRFpYRW5VVHFfV3BQTUFIWFJsNTRJY09Eb3Q5ZUUyQWppa3BxU25QRHZCU1VidmF5WmZDdjh3VFJTV00wQU5Bd1N4R25zazhiWG5RaVhCcWMxMWxjay0yVzBKQVZoN3UyLWlKTGYxZ1BKSklVUjF6bVRkZmhRUmhIQ0JSSzlYTjN2cW5JRTM1ZG41bnh0LW14VFVsVjN1NU9IQ0FGMllOcWhqX3V6d19FUEdJU1lZaENFNFV0TjdZa1BEQVl1bE5tU2xCU3E?oc=5",
+      "source": "eClinicalMedicine vaccines",
       "source_type": "academic",
       "source_tier": "Tier 3",
       "source_priority": 7,
-      "published_at": "2026-06-20T18:38:35+00:00",
+      "published_at": "2026-06-20T11:18:52+00:00",
       "topics": [
-        "communication",
+        "research"
+      ],
+      "policy_tags": [
+        "safety"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "米国",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "eClinicalMedicine"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "eClinicalMedicine"
+        },
+        "target": {
+          "key": "usa",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "米国"
+        }
+      },
+      "location": {
+        "key": "usa",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "米国"
+      },
+      "region": "North America",
+      "country": "米国",
+      "lat": 38.9072,
+      "lng": -77.0369,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "eClinicalMedicine vaccines"
+      ]
+    },
+    {
+      "id": "8e465bebbf27a6b0",
+      "title": "生後0～6か月の乳児のRSV関連入院に対する母親のRSV予防接種の有効性と集団レベルでの影響：デンマーク全国コホート研究 - SSRN eLibrary",
+      "summary": "生後0～6か月の乳児のRSV関連入院に対する母親のRSV予防接種の有効性と集団レベルでの影響：デンマーク全国コホート研究 SSRN eLibrary",
+      "summary_ai": "生後0～6か月の乳児のRSV関連入院に対する母親のRSV予防接種の有効性と集団レベルでの影響：デンマーク全国コホート研究 SSRN eLibrary",
+      "title_original": "Effectiveness and Population-Level Impact of Maternal RSV Vaccination against RSV-Related Hospitalisation among Infants Aged 0–6 Months: A Danish Nationwide Cohort Study - SSRN eLibrary",
+      "summary_original": "Effectiveness and Population-Level Impact of Maternal RSV Vaccination against RSV-Related Hospitalisation among Infants Aged 0–6 Months: A Danish Nationwide Cohort Study SSRN eLibrary",
+      "summary_ai_original": "Effectiveness and Population-Level Impact of Maternal RSV Vaccination against RSV-Related Hospitalisation among Infants Aged 0–6 Months: A Danish Nationwide Cohort Study SSRN eLibrary",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5fSzBoY1NPUmtyemFMaUZVR2o4UGdvdmpXTDFha1lVNzFBWEpKMzBlRWpDZnhoaEdzVlZNT3E3WVliZVV0bjZGOXRPamEwRTNFdlNMUFJFUFlfcXFINE1SdXdZdllEUXhlZUZF?oc=5",
+      "source": "SSRN vaccine preprints",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 6,
+      "published_at": "2026-06-19T10:44:01+00:00",
+      "topics": [
         "research"
       ],
       "policy_tags": [],
       "vaccines": [],
       "variants": [],
-      "target_country": "エチオピア",
+      "target_country": "不明",
       "source_location": {
         "key": "united states",
         "name_ja": "米国",
         "lat": 38.9072,
         "lng": -77.0369,
         "region": "North America",
-        "label": "PLOS"
+        "label": "SSRN"
       },
       "plot": {
         "source": {
@@ -1259,32 +1454,32 @@
           "lat": 38.9072,
           "lng": -77.0369,
           "region": "North America",
-          "label": "PLOS"
+          "label": "SSRN"
         },
         "target": {
-          "key": "ethiopia",
-          "name_ja": "エチオピア",
-          "lat": 8.9806,
-          "lng": 38.7578,
-          "region": "Africa",
-          "label": "エチオピア"
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
         }
       },
       "location": {
-        "key": "ethiopia",
-        "name_ja": "エチオピア",
-        "lat": 8.9806,
-        "lng": 38.7578,
-        "region": "Africa",
-        "label": "エチオピア"
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
       },
-      "region": "Africa",
-      "country": "エチオピア",
-      "lat": 8.9806,
-      "lng": 38.7578,
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
       "duplicate_count": 1,
       "duplicate_sources": [
-        "PLOS journals vaccines"
+        "SSRN vaccine preprints"
       ]
     },
     {
@@ -1559,73 +1754,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "STAT Vaccines / Immunization"
-      ]
-    },
-    {
-      "id": "20ec34c1346b287b",
-      "title": "VaxjoGNN: オントロジーに基づいたワクチンアジュバント推奨のためのグラフ ニューラル ネットワーク - bioRxiv",
-      "summary": "VaxjoGNN: オントロジーに基づいたワクチンアジュバント推奨用のグラフ ニューラル ネットワーク bioRxiv",
-      "summary_ai": "VaxjoGNN: オントロジーに基づいたワクチンアジュバント推奨用のグラフ ニューラル ネットワーク bioRxiv",
-      "title_original": "VaxjoGNN: A Graph Neural Network for Ontology-Grounded Vaccine Adjuvant Recommendation - bioRxiv",
-      "summary_original": "VaxjoGNN: A Graph Neural Network for Ontology-Grounded Vaccine Adjuvant Recommendation bioRxiv",
-      "summary_ai_original": "VaxjoGNN: A Graph Neural Network for Ontology-Grounded Vaccine Adjuvant Recommendation bioRxiv",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qNEV3VFdxNTM3U2lnSGQ4NXhSaVZsN3BZVXZTaXMzZ2ZLREdMUExLOFdWcXgxUHZWY3RudnllTjZGOUV4S2VJbzE2emYxYTB2NjlLTmlNZGg5ZTQ4REYxM1NDZFZ2WXFxSnpz?oc=5",
-      "source": "bioRxiv vaccines",
-      "source_type": "preprint",
-      "source_tier": "Tier 3",
-      "source_priority": 7,
-      "published_at": "2026-06-18T07:00:00+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [
-        "recommendation"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "bioRxiv"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "bioRxiv"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "bioRxiv vaccines"
       ]
     },
     {
@@ -2094,103 +2222,34 @@
       ]
     },
     {
-      "id": "a48dffd16c10c4ad",
-      "title": "大手産婦人科医グループが母親の予防接種スケジュールに関してCDCから離脱 - ガーディアン",
-      "summary": "大手産婦人科医グループが母親の予防接種スケジュールに関してCDCから離脱 ガーディアン紙",
-      "summary_ai": "大手産婦人科医グループが母親の予防接種スケジュールに関してCDCから離脱 ガーディアン紙",
-      "title_original": "Leading OB-GYN group breaks from CDC on maternal vaccination schedule - The Guardian",
-      "summary_original": "Leading OB-GYN group breaks from CDC on maternal vaccination schedule The Guardian",
-      "summary_ai_original": "Leading OB-GYN group breaks from CDC on maternal vaccination schedule The Guardian",
+      "id": "fe3e137f9bcba4f0",
+      "title": "集団防御を誘導するには腸チフス結合型ワクチンのより高い人口カバー率が必要：バングラデシュ都市部におけるクラスターランダム化試験の証拠 - medRxiv",
+      "summary": "集団防御を誘導するには、腸チフス結合型ワクチンによるより高い人口カバー率が必要である：バングラデシュ都市部におけるクラスターランダム化試験の証拠 medRxiv",
+      "summary_ai": "集団防御を誘導するには、腸チフス結合型ワクチンによるより高い人口カバー率が必要である：バングラデシュ都市部におけるクラスターランダム化試験の証拠 medRxiv",
+      "title_original": "Higher Population Coverage with Typhoid Conjugate Vaccine is Needed to Induce Herd Protection: Evidence from a Cluster-Randomized Trial in Urban Bangladesh - medRxiv",
+      "summary_original": "Higher Population Coverage with Typhoid Conjugate Vaccine is Needed to Induce Herd Protection: Evidence from a Cluster-Randomized Trial in Urban Bangladesh medRxiv",
+      "summary_ai_original": "Higher Population Coverage with Typhoid Conjugate Vaccine is Needed to Induce Herd Protection: Evidence from a Cluster-Randomized Trial in Urban Bangladesh medRxiv",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQazRSWWVnZ0lfdG9xX0lDNkNaRmo2T080UndnekE1Q2RPXzE0NnZJMElWcXFvMmE3ZFRCQUUwSVBnbVdyMnlHSXRYMDZtbWJ3STc5dWRtY0ZqWm1CZnpWZU1tOHpKSlpNRlZqc1R2cGNtcUhtcV9IQ3VTbDIzOVJnMm51c1FoSzNzMzNVT3NsVmJWUnI5SENkM3dFZ3c?oc=5",
-      "source": "Guardian Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-06-16T07:00:00+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [
-        "schedule"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "The Guardian"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "The Guardian"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Guardian Vaccines / Immunization"
-      ]
-    },
-    {
-      "id": "f05ffddb87ffc997",
-      "title": "新型コロナウイルスワクチンが心臓病に対する広範な予防に関連していることが研究で判明 - ワシントン・ポスト",
-      "summary": "新型コロナウイルスワクチンが心臓病に対する広範な予防に関連していることが研究で判明 ワシントン・ポスト紙",
-      "summary_ai": "新型コロナウイルスワクチンが心臓病に対する広範な予防に関連していることが研究で判明 ワシントン・ポスト紙",
-      "title_original": "Covid vaccine linked to broad protections against heart conditions, study finds - The Washington Post",
-      "summary_original": "Covid vaccine linked to broad protections against heart conditions, study finds The Washington Post",
-      "summary_ai_original": "Covid vaccine linked to broad protections against heart conditions, study finds The Washington Post",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOWtsa3RWaDdpX0hyazY0MU5vc1ZHX215NFlBTUtwbUEwLWZyT01wNlNzUG9mdktyc2pVaFY3RnRFakdESGNPajIzU0xzME9qTFF1Y19QVlZEcUxEMWgyWjJyYUJTSmo1RVR1RjJqblBlUjRJb2tmR0tJWGthODhNS0R1QzEyeXVndWF5ZVV5b1pEczNQUVgyTXpKTDE0b3pvWElwMGVFR1F4eDl1ZnBiX01KTmdOZ2VUQ0pneVp6TXRDR3M?oc=5",
-      "source": "Washington Post Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fN2doTGpOYV9LSGY2UUljRzVJWGhZeFNRM3ZnWWc3VGFMVXBKUHRTNS1icEpTZWE3QU0wV1B4UXpyVFEzX3p5bzlSc2ZiZ0xYWmQtVk1sTHhVaDFWWnlDRlFFbkVWNTRFTW9KdEM1OA?oc=5",
+      "source": "medRxiv vaccines",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
       "source_priority": 7,
       "published_at": "2026-06-16T07:00:00+00:00",
       "topics": [
         "research"
       ],
       "policy_tags": [],
-      "vaccines": [
-        "covid"
-      ],
+      "vaccines": [],
       "variants": [],
-      "target_country": "不明",
+      "target_country": "バングラデシュ",
       "source_location": {
         "key": "united states",
         "name_ja": "米国",
         "lat": 38.9072,
         "lng": -77.0369,
         "region": "North America",
-        "label": "Washington Post"
+        "label": "medRxiv"
       },
       "plot": {
         "source": {
@@ -2199,32 +2258,32 @@
           "lat": 38.9072,
           "lng": -77.0369,
           "region": "North America",
-          "label": "Washington Post"
+          "label": "medRxiv"
         },
         "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
+          "key": "bangladesh",
+          "name_ja": "バングラデシュ",
+          "lat": 23.8103,
+          "lng": 90.4125,
+          "region": "Asia",
+          "label": "バングラデシュ"
         }
       },
       "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
+        "key": "bangladesh",
+        "name_ja": "バングラデシュ",
+        "lat": 23.8103,
+        "lng": 90.4125,
+        "region": "Asia",
+        "label": "バングラデシュ"
       },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
+      "region": "Asia",
+      "country": "バングラデシュ",
+      "lat": 23.8103,
+      "lng": 90.4125,
       "duplicate_count": 1,
       "duplicate_sources": [
-        "Washington Post Vaccines / Immunization"
+        "medRxiv vaccines"
       ]
     },
     {
@@ -2572,13 +2631,13 @@
       ]
     },
     {
-      "id": "2d21f50ae6b6d52f",
-      "title": "ニルセビマブ、母体用 RSVワクチン、高齢者用 RSVワクチンの実際の有効性と安全性 - Thorax Journal",
-      "summary": "ニルセビマブ、母体用 RSVワクチン、高齢者用 RSVワクチンの実際の有効性と安全性 Thorax Journal",
-      "summary_ai": "ニルセビマブ、母体用 RSVワクチン、高齢者用 RSVワクチンの実際の有効性と安全性 Thorax Journal",
-      "title_original": "Real-world effectiveness and safety of nirsevimab, RSV maternal vaccine and RSV vaccines for older adults - Thorax Journal",
-      "summary_original": "Real-world effectiveness and safety of nirsevimab, RSV maternal vaccine and RSV vaccines for older adults Thorax Journal",
-      "summary_ai_original": "Real-world effectiveness and safety of nirsevimab, RSV maternal vaccine and RSV vaccines for older adults Thorax Journal",
+      "id": "273493c75414a811",
+      "title": "ニルセビマブ、母体用 RSVワクチン、高齢者用 RSVワクチンの実際の有効性と安全性 - thorax.bmj.com",
+      "summary": "ニルセビマブ、母体用 RSVワクチン、高齢者用 RSVワクチンの実際の有効性と安全性 thorax.bmj.com",
+      "summary_ai": "ニルセビマブ、母体用 RSVワクチン、高齢者用 RSVワクチンの実際の有効性と安全性 thorax.bmj.com",
+      "title_original": "Real-world effectiveness and safety of nirsevimab, RSV maternal vaccine and RSV vaccines for older adults - thorax.bmj.com",
+      "summary_original": "Real-world effectiveness and safety of nirsevimab, RSV maternal vaccine and RSV vaccines for older adults thorax.bmj.com",
+      "summary_ai_original": "Real-world effectiveness and safety of nirsevimab, RSV maternal vaccine and RSV vaccines for older adults thorax.bmj.com",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16b1dwUEg0SnlPLTQxS3NzQUlZbHlRZVFwME03N2JDbDhEdUdUbFROS2VjcVE1SVdsZFhDUEtONXFOLVBvN3JLcHM3ZDVETXRxUENRVXQ5WFdXcllpcTNEbnFwOExocmhOR29N?oc=5",
       "source": "BMJ",
@@ -2708,71 +2767,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "MHRA"
-      ]
-    },
-    {
-      "id": "a8c0d4d6eb4dd1cc",
-      "title": "米国のワクチン政策の現状 — 2026 年 6 月 11 日 - CIDRAP",
-      "summary": "米国のワクチン政策の現状 — 2026 年 6 月 11 日 CIDRAP",
-      "summary_ai": "米国のワクチン政策の現状 — 2026 年 6 月 11 日 CIDRAP",
-      "title_original": "The State of US Vaccine Policy — Jun 11, 2026 - CIDRAP",
-      "summary_original": "The State of US Vaccine Policy — Jun 11, 2026 CIDRAP",
-      "summary_ai_original": "The State of US Vaccine Policy — Jun 11, 2026 CIDRAP",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSEZ2NFJ3OWNjZmdZelE3UGVIVjBMYTM5SjF0TlJOQ1M0YXBhZ044T3BQZ0tzR0VDVVhaYUlkNTZlX3BkTjdUN0FmaXpCZWZ6RlVTTG02WURqTjJZeFBObFE1LVo1cEN5WDQ3NFN0ZjNtb3hZS0F4NlBOYmVvTkRoZ0NwdTRhWWNQ?oc=5",
-      "source": "CIDRAP Vaccines & Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 8,
-      "published_at": "2026-06-11T07:00:00+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "CIDRAP / Minnesota"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "CIDRAP / Minnesota"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "CIDRAP Vaccines & Immunization"
       ]
     }
   ]
