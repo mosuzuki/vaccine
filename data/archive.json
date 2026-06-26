@@ -1,10 +1,81 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-06-25T22:41:52.115364+00:00",
-  "archive_count": 333,
+  "generated_at": "2026-06-26T22:21:24.611413+00:00",
+  "archive_count": 336,
   "days_back": 14,
   "items": [
+    {
+      "id": "b8bae5e0e75ec16b",
+      "title": "欧州委員会、サノフィのインフルエンザワクチンキャンペーンに対する独占禁止法調査を開始 - ロイター",
+      "summary": "欧州委員会、サノフィのインフルエンザワクチンキャンペーンに対する独占禁止法調査開始 Reuters",
+      "summary_ai": "欧州委員会、サノフィのインフルエンザワクチンキャンペーンに対する独占禁止法調査開始 Reuters",
+      "title_original": "EU Commission opens antitrust probe into Sanofi's flu vaccine campaign - Reuters",
+      "summary_original": "EU Commission opens antitrust probe into Sanofi's flu vaccine campaign Reuters",
+      "summary_ai_original": "EU Commission opens antitrust probe into Sanofi's flu vaccine campaign Reuters",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbGlNOTBZVkx2U1dWYkFZYTlESjNWV0pKSVA1QWYyMHBDbUtRS1F3OEhKSVdReUVmQkFRb0tHUXlrdF9TQkY2WjQ2SzlwVkxqS0JOZ2g5eGRCZm9BZndKc3AzdTN4Yk9vLXROMkVqTFJRVmpHS2VtNkRLelh1WFBZUEl0bUtld0RNaU5xOFJhQWlsQURLRlVfdHFxT2FDTWRDZm9ubENjU2RpczFuR3A0NnoyekhfdnJWOUhCLWJJWlhuTzNFQUExZTk3VlJrZko3REpzV1JEYUI?oc=5",
+      "source": "Reuters Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-06-26T14:45:13+00:00",
+      "topics": [
+        "communication"
+      ],
+      "policy_tags": [
+        "outbreak_response"
+      ],
+      "vaccines": [
+        "influenza"
+      ],
+      "variants": [],
+      "target_country": "EU",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Reuters"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Reuters"
+        },
+        "target": {
+          "key": "eu",
+          "name_ja": "EU",
+          "lat": 50.8503,
+          "lng": 4.3517,
+          "region": "Europe",
+          "label": "EU"
+        }
+      },
+      "location": {
+        "key": "eu",
+        "name_ja": "EU",
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "region": "Europe",
+        "label": "EU"
+      },
+      "region": "Europe",
+      "country": "EU",
+      "lat": 50.8503,
+      "lng": 4.3517,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Reuters Vaccines / Immunization"
+      ],
+      "first_seen_at": "2026-06-26T14:45:13+00:00",
+      "last_seen_at": "2026-06-26T22:23:22.173846+00:00"
+    },
     {
       "id": "19fac615a23e74b8",
       "title": "HPV予防接種により近年、英国の若い女性の子宮頸がんによる死亡が減少したと研究が示唆 - CIDRAP",
@@ -70,7 +141,7 @@
         "CIDRAP Vaccines & Immunization"
       ],
       "first_seen_at": "2026-06-25T20:12:36+00:00",
-      "last_seen_at": "2026-06-25T22:43:41.870224+00:00"
+      "last_seen_at": "2026-06-26T22:23:22.173860+00:00"
     },
     {
       "id": "ce3ef44e96b449ff",
@@ -139,7 +210,7 @@
         "CIDRAP Vaccines & Immunization"
       ],
       "first_seen_at": "2026-06-25T18:21:37+00:00",
-      "last_seen_at": "2026-06-25T22:43:41.870231+00:00"
+      "last_seen_at": "2026-06-26T22:23:22.173867+00:00"
     },
     {
       "id": "d17f7fd5756f0bd5",
@@ -209,7 +280,7 @@
         "PAHO News"
       ],
       "first_seen_at": "2026-06-24T20:02:37+00:00",
-      "last_seen_at": "2026-06-25T22:43:41.870234+00:00"
+      "last_seen_at": "2026-06-26T22:23:22.173873+00:00"
     },
     {
       "id": "20870af6d8315ec8",
@@ -345,7 +416,7 @@
         "FDA Vaccines / Biologics"
       ],
       "first_seen_at": "2026-06-24T18:36:18+00:00",
-      "last_seen_at": "2026-06-25T22:43:41.870236+00:00"
+      "last_seen_at": "2026-06-26T22:23:22.173879+00:00"
     },
     {
       "id": "d7ff996cc43cb8b4",
@@ -412,7 +483,7 @@
         "CIDRAP Vaccines & Immunization"
       ],
       "first_seen_at": "2026-06-24T15:05:53+00:00",
-      "last_seen_at": "2026-06-25T22:43:41.870244+00:00"
+      "last_seen_at": "2026-06-26T22:23:22.173883+00:00"
     },
     {
       "id": "0a89b9545133ba8f",
@@ -479,7 +550,7 @@
         "Pediatrics journal"
       ],
       "first_seen_at": "2026-06-24T05:48:03+00:00",
-      "last_seen_at": "2026-06-25T22:43:41.870251+00:00"
+      "last_seen_at": "2026-06-26T22:23:22.173889+00:00"
     },
     {
       "id": "9c560166a39756d7",
@@ -551,7 +622,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-05-30T13:54:14+00:00",
-      "last_seen_at": "2026-06-25T22:43:41.870257+00:00"
+      "last_seen_at": "2026-06-26T22:23:22.173896+00:00"
     },
     {
       "id": "390faec6ec4cf7fb",
@@ -620,7 +691,7 @@
         "AP Vaccines / Immunization"
       ],
       "first_seen_at": "2026-06-23T22:44:00+00:00",
-      "last_seen_at": "2026-06-25T22:43:41.870263+00:00"
+      "last_seen_at": "2026-06-26T22:23:22.173902+00:00"
     },
     {
       "id": "35c8300589067fa8",
@@ -689,7 +760,76 @@
         "Washington Post Vaccines / Immunization"
       ],
       "first_seen_at": "2026-06-23T21:34:03+00:00",
-      "last_seen_at": "2026-06-25T22:43:41.870268+00:00"
+      "last_seen_at": "2026-06-26T22:23:22.173908+00:00"
+    },
+    {
+      "id": "af3f294e50a4314e",
+      "title": "台湾における65歳以上の成人のインフルエンザ関連の受診、入院、死亡に対するインフルエンザワクチンの有効性：2024～2025年シーズン - SSRN eLibrary",
+      "summary": "台湾における65歳以上の成人のインフルエンザ関連の受診、入院、死亡に対するインフルエンザワクチンの有効性：2024～2025年シーズン SSRN eLibrary",
+      "summary_ai": "台湾における65歳以上の成人のインフルエンザ関連の受診、入院、死亡に対するインフルエンザワクチンの有効性：2024～2025年シーズン SSRN eLibrary",
+      "title_original": "Influenza Vaccine Effectiveness Against Influenza-Related Medical Visits, Hospitalization and Death Among Adults aged 65 Years and Older in Taiwan: 2024-2025 Season - SSRN eLibrary",
+      "summary_original": "Influenza Vaccine Effectiveness Against Influenza-Related Medical Visits, Hospitalization and Death Among Adults aged 65 Years and Older in Taiwan: 2024-2025 Season SSRN eLibrary",
+      "summary_ai_original": "Influenza Vaccine Effectiveness Against Influenza-Related Medical Visits, Hospitalization and Death Among Adults aged 65 Years and Older in Taiwan: 2024-2025 Season SSRN eLibrary",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wU0tQaE9kVDh6ODFkbjFkWWwyTVRMazBFVU1qanRDc1k1ZFV2V3ZuSVFMUzdmTVhDVXBoTGFfS1VvMURrOGo2b0dtc0xpWmg1QnFZa3UtdlYyMDNDaGJnUzZ6XzB4aU5SVTJN?oc=5",
+      "source": "SSRN vaccine preprints",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 6,
+      "published_at": "2026-06-23T21:52:59+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "influenza"
+      ],
+      "variants": [],
+      "target_country": "台湾",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "SSRN"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "SSRN"
+        },
+        "target": {
+          "key": "taiwan",
+          "name_ja": "台湾",
+          "lat": 25.033,
+          "lng": 121.5654,
+          "region": "Asia",
+          "label": "台湾"
+        }
+      },
+      "location": {
+        "key": "taiwan",
+        "name_ja": "台湾",
+        "lat": 25.033,
+        "lng": 121.5654,
+        "region": "Asia",
+        "label": "台湾"
+      },
+      "region": "Asia",
+      "country": "台湾",
+      "lat": 25.033,
+      "lng": 121.5654,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "SSRN vaccine preprints"
+      ],
+      "first_seen_at": "2026-06-23T21:52:59+00:00",
+      "last_seen_at": "2026-06-26T22:23:22.173911+00:00"
     },
     {
       "id": "9c13ba6cc3ec9cd0",
@@ -760,7 +900,7 @@
         "CIDRAP Vaccines & Immunization"
       ],
       "first_seen_at": "2026-06-23T16:17:43+00:00",
-      "last_seen_at": "2026-06-25T22:43:41.870273+00:00"
+      "last_seen_at": "2026-06-26T22:23:22.173916+00:00"
     },
     {
       "id": "6ad1c6743595da93",
@@ -829,7 +969,7 @@
         "JAMA Network Open vaccines"
       ],
       "first_seen_at": "2026-06-23T15:37:50+00:00",
-      "last_seen_at": "2026-06-25T22:43:41.870277+00:00"
+      "last_seen_at": "2026-06-26T22:23:22.173920+00:00"
     },
     {
       "id": "82dcea3e3f61f008",
@@ -903,7 +1043,7 @@
         "PAHO News"
       ],
       "first_seen_at": "2026-06-23T13:16:38+00:00",
-      "last_seen_at": "2026-06-25T22:43:41.870282+00:00"
+      "last_seen_at": "2026-06-26T22:23:22.173924+00:00"
     },
     {
       "id": "f1660bb833350a70",
@@ -1045,7 +1185,7 @@
         "Open Forum Infectious Diseases"
       ],
       "first_seen_at": "2026-06-21T13:22:39+00:00",
-      "last_seen_at": "2026-06-25T22:43:41.870287+00:00"
+      "last_seen_at": "2026-06-26T22:23:22.173929+00:00"
     },
     {
       "id": "a80ab234b2ab4202",
@@ -1113,7 +1253,7 @@
         "PLOS journals vaccines"
       ],
       "first_seen_at": "2026-06-20T18:38:35+00:00",
-      "last_seen_at": "2026-06-24T22:39:15.725041+00:00"
+      "last_seen_at": "2026-06-26T22:23:22.173934+00:00"
     },
     {
       "id": "918b57807051c0a3",
@@ -1182,7 +1322,7 @@
         "eClinicalMedicine vaccines"
       ],
       "first_seen_at": "2026-06-20T11:18:52+00:00",
-      "last_seen_at": "2026-06-25T22:43:41.870290+00:00"
+      "last_seen_at": "2026-06-26T22:23:22.173938+00:00"
     },
     {
       "id": "77d7d2dfe0ee8aa8",
@@ -1318,7 +1458,7 @@
         "SSRN vaccine preprints"
       ],
       "first_seen_at": "2026-06-19T10:44:01+00:00",
-      "last_seen_at": "2026-06-25T22:43:41.870296+00:00"
+      "last_seen_at": "2026-06-26T22:23:22.173942+00:00"
     },
     {
       "id": "0ac7c064b39bcba2",
@@ -1391,7 +1531,7 @@
         "PAHO News"
       ],
       "first_seen_at": "2026-06-18T19:29:40+00:00",
-      "last_seen_at": "2026-06-25T22:43:41.870302+00:00"
+      "last_seen_at": "2026-06-26T22:23:22.173947+00:00"
     },
     {
       "id": "b6b8148c47bd0798",
@@ -1529,7 +1669,7 @@
         "NEJM"
       ],
       "first_seen_at": "2026-06-18T13:47:59+00:00",
-      "last_seen_at": "2026-06-25T22:43:41.870306+00:00"
+      "last_seen_at": "2026-06-26T22:23:22.173952+00:00"
     },
     {
       "id": "f1388b36f6125f8b",
@@ -1600,7 +1740,7 @@
         "Reuters Vaccines / Immunization"
       ],
       "first_seen_at": "2026-06-18T11:13:43+00:00",
-      "last_seen_at": "2026-06-25T22:43:41.870310+00:00"
+      "last_seen_at": "2026-06-26T22:23:22.173956+00:00"
     },
     {
       "id": "fc75acf55fecc7ea",
@@ -1667,7 +1807,7 @@
         "STAT Vaccines / Immunization"
       ],
       "first_seen_at": "2026-06-18T08:34:08+00:00",
-      "last_seen_at": "2026-06-25T22:43:41.870314+00:00"
+      "last_seen_at": "2026-06-26T22:23:22.173960+00:00"
     },
     {
       "id": "e0067a2a4c1e3edd",
@@ -1877,7 +2017,7 @@
         "Clinical Infectious Diseases"
       ],
       "first_seen_at": "2026-06-18T01:15:48+00:00",
-      "last_seen_at": "2026-06-25T22:43:41.870319+00:00"
+      "last_seen_at": "2026-06-26T22:23:22.173964+00:00"
     },
     {
       "id": "d811cea04ed2dd3e",
@@ -2013,7 +2153,7 @@
         "JAMA Network Open vaccines"
       ],
       "first_seen_at": "2026-06-17T15:14:35+00:00",
-      "last_seen_at": "2026-06-25T22:43:41.870327+00:00"
+      "last_seen_at": "2026-06-26T22:23:22.173968+00:00"
     },
     {
       "id": "c612857c7f59ef32",
@@ -2147,7 +2287,7 @@
         "Journal of Infectious Diseases"
       ],
       "first_seen_at": "2026-06-17T09:02:41+00:00",
-      "last_seen_at": "2026-06-25T22:43:41.870331+00:00"
+      "last_seen_at": "2026-06-26T22:23:22.173972+00:00"
     },
     {
       "id": "df244427e1f743bd",
@@ -2283,7 +2423,7 @@
         "読売新聞 ワクチン / 予防接種"
       ],
       "first_seen_at": "2026-04-15T07:00:00+00:00",
-      "last_seen_at": "2026-06-25T22:43:41.870340+00:00"
+      "last_seen_at": "2026-06-26T22:23:22.173978+00:00"
     },
     {
       "id": "4662dd6360ed4625",
@@ -2350,7 +2490,7 @@
         "CIDRAP Vaccines & Immunization"
       ],
       "first_seen_at": "2026-06-16T20:09:07+00:00",
-      "last_seen_at": "2026-06-25T22:43:41.870344+00:00"
+      "last_seen_at": "2026-06-26T22:23:22.173982+00:00"
     },
     {
       "id": "0e18a02c66ef06ed",
@@ -2623,7 +2763,7 @@
         "Guardian Vaccines / Immunization"
       ],
       "first_seen_at": "2026-06-16T21:52:00+00:00",
-      "last_seen_at": "2026-06-24T22:39:15.725105+00:00"
+      "last_seen_at": "2026-06-26T22:23:22.173992+00:00"
     },
     {
       "id": "f05ffddb87ffc997",
@@ -2759,7 +2899,7 @@
         "medRxiv vaccines"
       ],
       "first_seen_at": "2026-06-16T07:00:00+00:00",
-      "last_seen_at": "2026-06-25T22:43:41.870346+00:00"
+      "last_seen_at": "2026-06-26T22:23:22.173987+00:00"
     },
     {
       "id": "8937bf4ee7f8fd24",
@@ -2828,7 +2968,7 @@
         "SSRN vaccine preprints"
       ],
       "first_seen_at": "2026-06-16T01:50:18+00:00",
-      "last_seen_at": "2026-06-25T22:43:41.870351+00:00"
+      "last_seen_at": "2026-06-26T22:23:22.173996+00:00"
     },
     {
       "id": "196f4f839cb7d149",
@@ -2969,7 +3109,7 @@
         "PAHO News"
       ],
       "first_seen_at": "2026-06-15T20:48:11+00:00",
-      "last_seen_at": "2026-06-25T22:43:41.870358+00:00"
+      "last_seen_at": "2026-06-26T22:23:22.174003+00:00"
     },
     {
       "id": "a930f24fa756ae20",
@@ -3043,7 +3183,7 @@
         "PAHO News"
       ],
       "first_seen_at": "2026-06-15T18:18:09+00:00",
-      "last_seen_at": "2026-06-25T22:43:41.870363+00:00"
+      "last_seen_at": "2026-06-26T22:23:22.174008+00:00"
     },
     {
       "id": "c94b46336cb0a70f",
@@ -3182,6 +3322,73 @@
       "last_seen_at": "2026-06-23T22:21:57.799938+00:00"
     },
     {
+      "id": "4a184c2f7293a7c0",
+      "title": "高齢者における連続肺炎球菌予防接種の実際の有効性: コホート研究 - オックスフォード・アカデミック",
+      "summary": "高齢者における連続肺炎球菌予防接種の実際の有効性：コホート研究 オックスフォード・アカデミック",
+      "summary_ai": "高齢者における連続肺炎球菌予防接種の実際の有効性：コホート研究 オックスフォード・アカデミック",
+      "title_original": "Real-World Effectiveness of Sequential Pneumococcal Vaccination in Older Adults: A Cohort Study - Oxford Academic",
+      "summary_original": "Real-World Effectiveness of Sequential Pneumococcal Vaccination in Older Adults: A Cohort Study Oxford Academic",
+      "summary_ai_original": "Real-World Effectiveness of Sequential Pneumococcal Vaccination in Older Adults: A Cohort Study Oxford Academic",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE56MnJTVHQxUlpGR3JqelAyM2d4N2tfd2FqY3ItZW9wR1ExcUVpOGtJaGp2MFVQbTNxZ1JwUjE2NTZ6bUN0b3paeDNoelZndG4zT084b082RWF0a045TjZZU1hOQllONkRxSjB1WVE4SWVkZw?oc=5",
+      "source": "Journal of Infectious Diseases",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-06-15T07:00:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "Journal of Infectious Diseases"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "Journal of Infectious Diseases"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Journal of Infectious Diseases"
+      ],
+      "first_seen_at": "2026-06-15T07:00:00+00:00",
+      "last_seen_at": "2026-06-26T22:23:22.174010+00:00"
+    },
+    {
       "id": "b8b80ce8d1538c85",
       "title": "オンタリオ州の心血管イベントで入院した高齢患者における検査で確認されたインフルエンザ感染に対するインフルエンザワクチンの有効性：検査陰性計画研究 - SSRN eLibrary",
       "summary": "オンタリオ州の心血管イベントで入院した高齢患者における検査で確認されたインフルエンザ感染に対するインフルエンザワクチンの有効性：検査陰性デザイン研究 SSRN eLibrary",
@@ -3248,7 +3455,7 @@
         "SSRN vaccine preprints"
       ],
       "first_seen_at": "2026-06-13T05:40:34+00:00",
-      "last_seen_at": "2026-06-25T22:43:41.870367+00:00"
+      "last_seen_at": "2026-06-26T22:23:22.174014+00:00"
     },
     {
       "id": "273493c75414a811",
@@ -3314,7 +3521,7 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "duplicate_sources": [
         "BMJ"
       ],
