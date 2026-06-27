@@ -1,7 +1,7 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-06-26T22:21:24.611413+00:00",
+  "generated_at": "2026-06-27T22:13:22.410672+00:00",
   "item_count": 36,
   "archive_count": 336,
   "days_back": 14,
@@ -95,28 +95,28 @@
       "name": "Lancet Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Athelancet.com%2Fjournals%2Flaninf&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 1,
       "kept": 0
     },
     {
       "name": "NEJM",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Anejm.org%20(trial%20OR%20effectiveness%20OR%20policy%20OR%20safety)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 2,
       "kept": 1
     },
     {
       "name": "BMJ",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abmj.com%20(policy%20OR%20trial%20OR%20effectiveness%20OR%20communication)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 2,
-      "kept": 2
+      "seen": 1,
+      "kept": 1
     },
     {
       "name": "Vaccine journal",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Asciencedirect.com%2Fjournal%2Fvaccine&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -130,14 +130,14 @@
       "name": "Nature Medicine vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fnm%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20uptake%20OR%20policy)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 1,
       "kept": 0
     },
     {
       "name": "Nature Communications vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fncomms%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20surveillance)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -165,7 +165,7 @@
       "name": "Science vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ascience.org%2Fdoi%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20antibody)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 2,
       "kept": 0
     },
     {
@@ -200,7 +200,7 @@
       "name": "JAMA Network Open vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjamanetworkopen%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 5,
+      "seen": 4,
       "kept": 3
     },
     {
@@ -235,42 +235,42 @@
       "name": "bioRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abiorxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 5,
+      "seen": 3,
       "kept": 0
     },
     {
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 22,
+      "seen": 25,
       "kept": 5
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 82,
+      "seen": 78,
       "kept": 2
     },
     {
       "name": "AP Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 100,
+      "seen": 99,
       "kept": 1
     },
     {
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 13,
+      "seen": 11,
       "kept": 0
     },
     {
       "name": "Financial Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aft.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 10,
+      "seen": 8,
       "kept": 0
     },
     {
@@ -284,7 +284,7 @@
       "name": "Nature News Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 15,
+      "seen": 14,
       "kept": 0
     },
     {
@@ -298,7 +298,7 @@
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 11,
+      "seen": 13,
       "kept": 0
     },
     {
@@ -312,7 +312,7 @@
       "name": "Washington Post Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 24,
+      "seen": 17,
       "kept": 1
     },
     {
@@ -326,21 +326,21 @@
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 10,
+      "seen": 15,
       "kept": 0
     },
     {
       "name": "朝日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Aasahi.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 5,
+      "seen": 4,
       "kept": 0
     },
     {
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 13,
+      "seen": 10,
       "kept": 1
     },
     {
@@ -354,7 +354,7 @@
       "name": "JAMA Network vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 9,
+      "seen": 8,
       "kept": 3
     },
     {
@@ -382,14 +382,14 @@
       "name": "Open Forum Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fofid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
-      "kept": 1
+      "seen": 2,
+      "kept": 2
     },
     {
       "name": "Emerging Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Awwwnc.cdc.gov%2Feid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -417,7 +417,7 @@
       "name": "EBioMedicine vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Athelancet.com%2Fjournals%2Febiom&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
@@ -459,19 +459,19 @@
       "name": "SSRN vaccine preprints",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Apapers.ssrn.com%20(effectiveness%20OR%20safety%20OR%20policy%20OR%20trial)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 4,
+      "seen": 5,
       "kept": 4
     }
   ],
   "weekly_ai_summary": {
-    "generated_at": "2026-06-26T22:21:24.611413+00:00",
+    "generated_at": "2026-06-27T22:13:22.410672+00:00",
     "period_days": 7,
     "policy_count": 7,
-    "academic_count": 7,
+    "academic_count": 5,
     "status": "ok",
     "model": "gpt-4o-mini",
-    "policy_summary": "欧州委員会はサノフィのインフルエンザワクチンキャンペーンに対する独占禁止法調査を開始しました。また、PAHOは人道危機の影響を受ける国々で200万人に医療サービスを提供するプロジェクトを立ち上げました。",
-    "academic_summary": "米国小児病院における入院患者への予防接種の障壁と促進要因に関する定性的研究が発表されました。さらに、台湾でのインフルエンザワクチンの有効性に関する研究が行われ、65歳以上の成人における受診、入院、死亡に対する影響が評価されています。"
+    "policy_summary": "欧州委員会は、サノフィのインフルエンザワクチンキャンペーンに対する独占禁止法調査を開始しました。また、汎米保健機関は人道危機の影響を受ける5か国で200万人に医療サービスを提供するプロジェクトを立ち上げました。",
+    "academic_summary": "米国小児病院における入院患者への予防接種の障壁と促進要因に関する定性的研究が発表されました。さらに、2025-2026年の新型コロナウイルスワクチンの有効性に関する暫定推定値も報告されています。"
   },
   "items": [
     {
@@ -1620,6 +1620,73 @@
       ]
     },
     {
+      "id": "77d7d2dfe0ee8aa8",
+      "title": "コクサッキーウイルス B (PRV-101)に対するワクチンの安全性と免疫原性 - ファースト・イン・ヒト第 1 相臨床試験の追跡調査 - オックスフォード・アカデミック",
+      "summary": "コクサッキーウイルス B (PRV-101)に対するワクチンの安全性と免疫原性—ファースト・イン・ヒト第 1 相臨床試験の追跡調査 オックスフォード・アカデミック",
+      "summary_ai": "コクサッキーウイルス B (PRV-101)に対するワクチンの安全性と免疫原性—ファースト・イン・ヒト第 1 相臨床試験の追跡調査 オックスフォード・アカデミック",
+      "title_original": "Safety and Immunogenicity of a Vaccine Against Coxsackieviruses B (PRV-101)—Follow-up of the First-in-Human Phase 1 Trial - Oxford Academic",
+      "summary_original": "Safety and Immunogenicity of a Vaccine Against Coxsackieviruses B (PRV-101)—Follow-up of the First-in-Human Phase 1 Trial Oxford Academic",
+      "summary_ai_original": "Safety and Immunogenicity of a Vaccine Against Coxsackieviruses B (PRV-101)—Follow-up of the First-in-Human Phase 1 Trial Oxford Academic",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqbks2RDlEN0d4eVdXcjJQUnJSd2tGQXl2RVdUdHA2OU9pRTBxUUxGUzJKNXBIdk1ZV3VBOUh6djJtbldsQWJfUkM1dmJydWUyNWpEM2wzVVpzZ0VndWQ0bDQ4U1F2RmJCcmc?oc=5",
+      "source": "Open Forum Infectious Diseases",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-06-20T01:15:47+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [
+        "safety"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "Open Forum Infectious Diseases"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "Open Forum Infectious Diseases"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Open Forum Infectious Diseases"
+      ]
+    },
+    {
       "id": "8e465bebbf27a6b0",
       "title": "生後0～6か月の乳児のRSV関連入院に対する母親のRSV予防接種の有効性と集団レベルでの影響：デンマーク全国コホート研究 - SSRN eLibrary",
       "summary": "生後0～6か月の乳児のRSV関連入院に対する母親のRSV予防接種の有効性と集団レベルでの影響：デンマーク全国コホート研究 SSRN eLibrary",
@@ -1825,75 +1892,6 @@
       ]
     },
     {
-      "id": "f1388b36f6125f8b",
-      "title": "メルクの肺炎球菌ワクチン、米国で高リスクの子供や十代向けの承認を獲得 - ロイター",
-      "summary": "メルクの肺炎球菌ワクチン、米国で高リスクの子供と十代の若者向けに承認獲得 Reuters",
-      "summary_ai": "メルクの肺炎球菌ワクチン、米国で高リスクの子供と十代の若者向けに承認獲得 Reuters",
-      "title_original": "Merck's pneumococcal vaccine wins US approval for high-risk children, teens - Reuters",
-      "summary_original": "Merck's pneumococcal vaccine wins US approval for high-risk children, teens Reuters",
-      "summary_ai_original": "Merck's pneumococcal vaccine wins US approval for high-risk children, teens Reuters",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeXZyWms1LVFUZXVKaFkyaERHUHJQRWJRaDk4Q01JNlB5eUFIWUVjTFotZFlDVTF5LWh1bEIxQjB2Q0c4ZTFJekVjcUdDVkJ4UzhzZFdxdU5rdkxFSDlGNWRyZk5YSGl5dmdFVnpWZ1VSeWNPRHNZY3Myc2QwY29GUHFjWncybTloZlZJQTdsZ1doVFNSc3MtQVpORVdaWTJRbGl5RXE3aHBfWk9SMzR2b0w4TWtMcl9xUlZZOHMzRU04alprMGg3N3I2cVROdnJZZWRkRG5jeWg?oc=5",
-      "source": "Reuters Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-06-18T11:13:43+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [
-        "approval"
-      ],
-      "vaccines": [
-        "pneumococcal"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "Reuters"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "Reuters"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Reuters Vaccines / Immunization"
-      ]
-    },
-    {
       "id": "fc75acf55fecc7ea",
       "title": "上院民主党、HHSに対し連邦ワクチン政策に関する記録の提供を要求 - statnews.com",
       "summary": "上院民主党、HHSに対し連邦ワクチン政策に関する記録の提供を要求 statnews.com",
@@ -1956,6 +1954,75 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "STAT Vaccines / Immunization"
+      ]
+    },
+    {
+      "id": "f1388b36f6125f8b",
+      "title": "メルクの肺炎球菌ワクチン、米国で高リスクの子供や十代向けの承認を獲得 - ロイター",
+      "summary": "メルクの肺炎球菌ワクチン、米国で高リスクの子供と十代の若者向けに承認獲得 Reuters",
+      "summary_ai": "メルクの肺炎球菌ワクチン、米国で高リスクの子供と十代の若者向けに承認獲得 Reuters",
+      "title_original": "Merck's pneumococcal vaccine wins US approval for high-risk children, teens - Reuters",
+      "summary_original": "Merck's pneumococcal vaccine wins US approval for high-risk children, teens Reuters",
+      "summary_ai_original": "Merck's pneumococcal vaccine wins US approval for high-risk children, teens Reuters",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeXZyWms1LVFUZXVKaFkyaERHUHJQRWJRaDk4Q01JNlB5eUFIWUVjTFotZFlDVTF5LWh1bEIxQjB2Q0c4ZTFJekVjcUdDVkJ4UzhzZFdxdU5rdkxFSDlGNWRyZk5YSGl5dmdFVnpWZ1VSeWNPRHNZY3Myc2QwY29GUHFjWncybTloZlZJQTdsZ1doVFNSc3MtQVpORVdaWTJRbGl5RXE3aHBfWk9SMzR2b0w4TWtMcl9xUlZZOHMzRU04alprMGg3N3I2cVROdnJZZWRkRG5jeWg?oc=5",
+      "source": "Reuters Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-06-18T07:00:00+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [
+        "approval"
+      ],
+      "vaccines": [
+        "pneumococcal"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Reuters"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Reuters"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Reuters Vaccines / Immunization"
       ]
     },
     {
@@ -2160,6 +2227,71 @@
       ]
     },
     {
+      "id": "df244427e1f743bd",
+      "title": "1 タイトル ページ ブラジルにおける RSウイルス (RSV)に対する母親の普遍的予防接種: 費用対効果の拡大 - SSRN eLibrary",
+      "summary": "1 タイトル ページ ブラジルにおける RSウイルス (RSV)に対する母親の普遍的予防接種: 費用対効果の拡大 SSRN eLibrary",
+      "summary_ai": "1 タイトル ページ ブラジルにおける RSウイルス (RSV)に対する母親の普遍的予防接種: 費用対効果の拡大 SSRN eLibrary",
+      "title_original": "1 TITLE PAGE Universal maternal immunization against respiratory syncytial virus (RSV) in Brazil: An extended cost effectiveness - SSRN eLibrary",
+      "summary_original": "1 TITLE PAGE Universal maternal immunization against respiratory syncytial virus (RSV) in Brazil: An extended cost effectiveness SSRN eLibrary",
+      "summary_ai_original": "1 TITLE PAGE Universal maternal immunization against respiratory syncytial virus (RSV) in Brazil: An extended cost effectiveness SSRN eLibrary",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZTdvTkgzYzY0VmpDMmtZMk5iRHVLa0VfOUlSNHBBMW1Ka1VHWFBNYkJ3dy1zanhLYnQ5LXVmeGl0UWlZYnFseDZtNXQ3N01GZ19RZWZlYVA0NWpwLThzTHl2SXYyZUJvUkFVcXY0a1J3bVBaNl9pczZWallocWZTV19xaUtlZ3NHWHJTT204TFk4WDVoNVpnTDlKaXFyTFgzOHI3UnVYLWQwZWt4bmgyNmtOWDhmWEtsQnVNWUh3?oc=5",
+      "source": "SSRN vaccine preprints",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 6,
+      "published_at": "2026-06-17T07:02:45+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "ブラジル",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "SSRN"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "SSRN"
+        },
+        "target": {
+          "key": "brazil",
+          "name_ja": "ブラジル",
+          "lat": -15.7939,
+          "lng": -47.8828,
+          "region": "South America",
+          "label": "ブラジル"
+        }
+      },
+      "location": {
+        "key": "brazil",
+        "name_ja": "ブラジル",
+        "lat": -15.7939,
+        "lng": -47.8828,
+        "region": "South America",
+        "label": "ブラジル"
+      },
+      "region": "South America",
+      "country": "ブラジル",
+      "lat": -15.7939,
+      "lng": -47.8828,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "SSRN vaccine preprints"
+      ]
+    },
+    {
       "id": "08fa027f0aece9ef",
       "title": "肺炎による死亡者の９７．８％が高齢者 ＲＳウイルス、肺炎球菌…４月以降の予防接種スケジュールは？ - 読売新聞",
       "summary": "肺炎による死亡者の９７．８％が高齢者 ＲＳウイルス、肺炎球菌…４月以降の予防接種スケジュールは？ 読売新聞",
@@ -2240,7 +2372,7 @@
       "source_type": "media",
       "source_tier": "Tier 2",
       "source_priority": 8,
-      "published_at": "2026-06-16T20:09:07+00:00",
+      "published_at": "2026-06-16T07:00:00+00:00",
       "topics": [
         "policy"
       ],
@@ -2763,142 +2895,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "Journal of Infectious Diseases"
-      ]
-    },
-    {
-      "id": "b8b80ce8d1538c85",
-      "title": "オンタリオ州の心血管イベントで入院した高齢患者における検査で確認されたインフルエンザ感染に対するインフルエンザワクチンの有効性：検査陰性計画研究 - SSRN eLibrary",
-      "summary": "オンタリオ州の心血管イベントで入院した高齢患者における検査で確認されたインフルエンザ感染に対するインフルエンザワクチンの有効性：検査陰性デザイン研究 SSRN eLibrary",
-      "summary_ai": "オンタリオ州の心血管イベントで入院した高齢患者における検査で確認されたインフルエンザ感染に対するインフルエンザワクチンの有効性：検査陰性デザイン研究 SSRN eLibrary",
-      "title_original": "Influenza vaccine effectiveness against laboratory-confirmed influenza infection among older patients hospitalized for cardiovascular events in Ontario: A test-negative design study - SSRN eLibrary",
-      "summary_original": "Influenza vaccine effectiveness against laboratory-confirmed influenza infection among older patients hospitalized for cardiovascular events in Ontario: A test-negative design study SSRN eLibrary",
-      "summary_ai_original": "Influenza vaccine effectiveness against laboratory-confirmed influenza infection among older patients hospitalized for cardiovascular events in Ontario: A test-negative design study SSRN eLibrary",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jbEZfeXVoM3BxWE9MazZyWjZRc1JTd1dBbG5ZSkxuSDg3VmRoTF9ZQWNEQkpvUkhCTEVibWdGUm92TGxyMFRlazNNMTVEVm9ZY29GZ2hreVlnNXhzWmh6TzVLcFRBaW9PNnY4?oc=5",
-      "source": "SSRN vaccine preprints",
-      "source_type": "preprint",
-      "source_tier": "Tier 3",
-      "source_priority": 6,
-      "published_at": "2026-06-13T05:40:34+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "influenza"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "SSRN"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "SSRN"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "SSRN vaccine preprints"
-      ]
-    },
-    {
-      "id": "2d21f50ae6b6d52f",
-      "title": "ニルセビマブ、母体用 RSVワクチン、高齢者用 RSVワクチンの実際の有効性と安全性 - Thorax Journal",
-      "summary": "ニルセビマブ、母体用 RSVワクチン、高齢者用 RSVワクチンの実際の有効性と安全性 Thorax Journal",
-      "summary_ai": "ニルセビマブ、母体用 RSVワクチン、高齢者用 RSVワクチンの実際の有効性と安全性 Thorax Journal",
-      "title_original": "Real-world effectiveness and safety of nirsevimab, RSV maternal vaccine and RSV vaccines for older adults - Thorax Journal",
-      "summary_original": "Real-world effectiveness and safety of nirsevimab, RSV maternal vaccine and RSV vaccines for older adults Thorax Journal",
-      "summary_ai_original": "Real-world effectiveness and safety of nirsevimab, RSV maternal vaccine and RSV vaccines for older adults Thorax Journal",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16b1dwUEg0SnlPLTQxS3NzQUlZbHlRZVFwME03N2JDbDhEdUdUbFROS2VjcVE1SVdsZFhDUEtONXFOLVBvN3JLcHM3ZDVETXRxUENRVXQ5WFdXcllpcTNEbnFwOExocmhOR29N?oc=5",
-      "source": "BMJ",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-06-13T02:56:05+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [
-        "safety"
-      ],
-      "vaccines": [
-        "rsv"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BMJ / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BMJ / London"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "BMJ"
       ]
     }
   ]
