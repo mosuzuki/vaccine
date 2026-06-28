@@ -1,10 +1,77 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-06-27T22:13:22.410672+00:00",
-  "archive_count": 336,
+  "generated_at": "2026-06-28T22:11:45.727151+00:00",
+  "archive_count": 337,
   "days_back": 14,
   "items": [
+    {
+      "id": "fea26e15462a58fb",
+      "title": "香港で男性と性交渉を持つ男性の淋病に対する4CMenBワクチンの有効性：二重盲検ランダム化プラセボ対照試験",
+      "summary": "香港で男性と性交渉を持つ男性の淋病に対する4CMenBワクチンの有効性：二重盲検ランダム化プラセボ対照試験",
+      "summary_ai": "香港で男性と性交渉を持つ男性の淋病に対する4CMenBワクチンの有効性：二重盲検ランダム化プラセボ対照試験",
+      "title_original": "Efficacy of the 4CMenB vaccine against gonorrhoea among men who have sex with men in Hong Kong: a double-blind randomised placebo-controlled trial",
+      "summary_original": "Efficacy of the 4CMenB vaccine against gonorrhoea among men who have sex with men in Hong Kong: a double-blind randomised placebo-controlled trial",
+      "summary_ai_original": "Efficacy of the 4CMenB vaccine against gonorrhoea among men who have sex with men in Hong Kong: a double-blind randomised placebo-controlled trial",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5WMXhIYW1oR0loS25kNjdVVU45TkNrLTdkVWhpc1ZJcjVHRExxT203Ums3dmFrTUdTUUZHVUdoeHpoN0lHeGhOLXoyMTFJeHRfQUxMeFozelJPS0NrQWl2UlppTDN5eExfRzhZaU4xRFAzbG8?oc=5",
+      "source": "International Journal of Infectious Diseases",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-06-27T08:02:35+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "香港",
+      "source_location": {
+        "key": "netherlands",
+        "name_ja": "オランダ",
+        "lat": 52.3676,
+        "lng": 4.9041,
+        "region": "Europe",
+        "label": "IJID"
+      },
+      "plot": {
+        "source": {
+          "key": "netherlands",
+          "name_ja": "オランダ",
+          "lat": 52.3676,
+          "lng": 4.9041,
+          "region": "Europe",
+          "label": "IJID"
+        },
+        "target": {
+          "key": "hong kong",
+          "name_ja": "香港",
+          "lat": 22.3193,
+          "lng": 114.1694,
+          "region": "Asia",
+          "label": "香港"
+        }
+      },
+      "location": {
+        "key": "hong kong",
+        "name_ja": "香港",
+        "lat": 22.3193,
+        "lng": 114.1694,
+        "region": "Asia",
+        "label": "香港"
+      },
+      "region": "Asia",
+      "country": "香港",
+      "lat": 22.3193,
+      "lng": 114.1694,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "International Journal of Infectious Diseases"
+      ],
+      "first_seen_at": "2026-06-27T08:02:35+00:00",
+      "last_seen_at": "2026-06-28T22:13:01.266488+00:00"
+    },
     {
       "id": "b8bae5e0e75ec16b",
       "title": "欧州委員会、サノフィのインフルエンザワクチンキャンペーンに対する独占禁止法調査を開始 - ロイター",
@@ -74,7 +141,7 @@
         "Reuters Vaccines / Immunization"
       ],
       "first_seen_at": "2026-06-26T14:45:13+00:00",
-      "last_seen_at": "2026-06-27T22:14:44.458280+00:00"
+      "last_seen_at": "2026-06-28T22:13:01.266503+00:00"
     },
     {
       "id": "19fac615a23e74b8",
@@ -141,7 +208,7 @@
         "CIDRAP Vaccines & Immunization"
       ],
       "first_seen_at": "2026-06-25T20:12:36+00:00",
-      "last_seen_at": "2026-06-27T22:14:44.458293+00:00"
+      "last_seen_at": "2026-06-28T22:13:01.266510+00:00"
     },
     {
       "id": "ce3ef44e96b449ff",
@@ -210,7 +277,7 @@
         "CIDRAP Vaccines & Immunization"
       ],
       "first_seen_at": "2026-06-25T18:21:37+00:00",
-      "last_seen_at": "2026-06-27T22:14:44.458299+00:00"
+      "last_seen_at": "2026-06-28T22:13:01.266514+00:00"
     },
     {
       "id": "d17f7fd5756f0bd5",
@@ -280,7 +347,7 @@
         "PAHO News"
       ],
       "first_seen_at": "2026-06-24T20:02:37+00:00",
-      "last_seen_at": "2026-06-27T22:14:44.458306+00:00"
+      "last_seen_at": "2026-06-28T22:13:01.266519+00:00"
     },
     {
       "id": "20870af6d8315ec8",
@@ -416,7 +483,7 @@
         "FDA Vaccines / Biologics"
       ],
       "first_seen_at": "2026-06-24T18:36:18+00:00",
-      "last_seen_at": "2026-06-27T22:14:44.458311+00:00"
+      "last_seen_at": "2026-06-28T22:13:01.266524+00:00"
     },
     {
       "id": "d7ff996cc43cb8b4",
@@ -483,7 +550,7 @@
         "CIDRAP Vaccines & Immunization"
       ],
       "first_seen_at": "2026-06-24T15:05:53+00:00",
-      "last_seen_at": "2026-06-27T22:14:44.458315+00:00"
+      "last_seen_at": "2026-06-28T22:13:01.266528+00:00"
     },
     {
       "id": "0a89b9545133ba8f",
@@ -550,7 +617,7 @@
         "Pediatrics journal"
       ],
       "first_seen_at": "2026-06-24T05:48:03+00:00",
-      "last_seen_at": "2026-06-27T22:14:44.458320+00:00"
+      "last_seen_at": "2026-06-28T22:13:01.266534+00:00"
     },
     {
       "id": "9c560166a39756d7",
@@ -622,7 +689,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-05-30T13:54:14+00:00",
-      "last_seen_at": "2026-06-27T22:14:44.458327+00:00"
+      "last_seen_at": "2026-06-28T22:13:01.266538+00:00"
     },
     {
       "id": "390faec6ec4cf7fb",
@@ -691,7 +758,7 @@
         "AP Vaccines / Immunization"
       ],
       "first_seen_at": "2026-06-23T22:44:00+00:00",
-      "last_seen_at": "2026-06-27T22:14:44.458332+00:00"
+      "last_seen_at": "2026-06-28T22:13:01.266543+00:00"
     },
     {
       "id": "35c8300589067fa8",
@@ -760,7 +827,7 @@
         "Washington Post Vaccines / Immunization"
       ],
       "first_seen_at": "2026-06-23T21:34:03+00:00",
-      "last_seen_at": "2026-06-27T22:14:44.458337+00:00"
+      "last_seen_at": "2026-06-28T22:13:01.266548+00:00"
     },
     {
       "id": "af3f294e50a4314e",
@@ -829,7 +896,7 @@
         "SSRN vaccine preprints"
       ],
       "first_seen_at": "2026-06-23T21:52:59+00:00",
-      "last_seen_at": "2026-06-27T22:14:44.458342+00:00"
+      "last_seen_at": "2026-06-28T22:13:01.266552+00:00"
     },
     {
       "id": "9c13ba6cc3ec9cd0",
@@ -900,7 +967,7 @@
         "CIDRAP Vaccines & Immunization"
       ],
       "first_seen_at": "2026-06-23T16:17:43+00:00",
-      "last_seen_at": "2026-06-27T22:14:44.458346+00:00"
+      "last_seen_at": "2026-06-28T22:13:01.266555+00:00"
     },
     {
       "id": "6ad1c6743595da93",
@@ -969,7 +1036,7 @@
         "JAMA Network Open vaccines"
       ],
       "first_seen_at": "2026-06-23T15:37:50+00:00",
-      "last_seen_at": "2026-06-27T22:14:44.458350+00:00"
+      "last_seen_at": "2026-06-28T22:13:01.266559+00:00"
     },
     {
       "id": "82dcea3e3f61f008",
@@ -1043,7 +1110,7 @@
         "PAHO News"
       ],
       "first_seen_at": "2026-06-23T13:16:38+00:00",
-      "last_seen_at": "2026-06-27T22:14:44.458355+00:00"
+      "last_seen_at": "2026-06-28T22:13:01.266563+00:00"
     },
     {
       "id": "f1660bb833350a70",
@@ -1185,7 +1252,7 @@
         "Open Forum Infectious Diseases"
       ],
       "first_seen_at": "2026-06-21T13:22:39+00:00",
-      "last_seen_at": "2026-06-27T22:14:44.458360+00:00"
+      "last_seen_at": "2026-06-28T22:13:01.266567+00:00"
     },
     {
       "id": "a80ab234b2ab4202",
@@ -1253,7 +1320,7 @@
         "PLOS journals vaccines"
       ],
       "first_seen_at": "2026-06-20T18:38:35+00:00",
-      "last_seen_at": "2026-06-27T22:14:44.458364+00:00"
+      "last_seen_at": "2026-06-28T22:13:01.266571+00:00"
     },
     {
       "id": "918b57807051c0a3",
@@ -1322,7 +1389,7 @@
         "eClinicalMedicine vaccines"
       ],
       "first_seen_at": "2026-06-20T11:18:52+00:00",
-      "last_seen_at": "2026-06-27T22:14:44.458369+00:00"
+      "last_seen_at": "2026-06-28T22:13:01.266575+00:00"
     },
     {
       "id": "77d7d2dfe0ee8aa8",
@@ -1391,7 +1458,7 @@
         "Open Forum Infectious Diseases"
       ],
       "first_seen_at": "2026-06-20T01:15:47+00:00",
-      "last_seen_at": "2026-06-27T22:14:44.458373+00:00"
+      "last_seen_at": "2026-06-28T22:13:01.266579+00:00"
     },
     {
       "id": "8e465bebbf27a6b0",
@@ -1458,7 +1525,7 @@
         "SSRN vaccine preprints"
       ],
       "first_seen_at": "2026-06-19T10:44:01+00:00",
-      "last_seen_at": "2026-06-27T22:14:44.458378+00:00"
+      "last_seen_at": "2026-06-28T22:13:01.266582+00:00"
     },
     {
       "id": "0ac7c064b39bcba2",
@@ -1531,7 +1598,7 @@
         "PAHO News"
       ],
       "first_seen_at": "2026-06-18T19:29:40+00:00",
-      "last_seen_at": "2026-06-27T22:14:44.458383+00:00"
+      "last_seen_at": "2026-06-28T22:13:01.266587+00:00"
     },
     {
       "id": "b6b8148c47bd0798",
@@ -1669,7 +1736,7 @@
         "NEJM"
       ],
       "first_seen_at": "2026-06-18T13:47:59+00:00",
-      "last_seen_at": "2026-06-27T22:14:44.458387+00:00"
+      "last_seen_at": "2026-06-28T22:13:01.266591+00:00"
     },
     {
       "id": "fc75acf55fecc7ea",
@@ -1736,7 +1803,7 @@
         "STAT Vaccines / Immunization"
       ],
       "first_seen_at": "2026-06-18T08:34:08+00:00",
-      "last_seen_at": "2026-06-27T22:14:44.458393+00:00"
+      "last_seen_at": "2026-06-28T22:13:01.266594+00:00"
     },
     {
       "id": "e0067a2a4c1e3edd",
@@ -1876,7 +1943,7 @@
         "Reuters Vaccines / Immunization"
       ],
       "first_seen_at": "2026-06-18T11:13:43+00:00",
-      "last_seen_at": "2026-06-27T22:14:44.458398+00:00"
+      "last_seen_at": "2026-06-28T22:13:01.266597+00:00"
     },
     {
       "id": "20ec34c1346b287b",
@@ -2017,7 +2084,7 @@
         "Clinical Infectious Diseases"
       ],
       "first_seen_at": "2026-06-18T01:15:48+00:00",
-      "last_seen_at": "2026-06-27T22:14:44.458403+00:00"
+      "last_seen_at": "2026-06-28T22:13:01.266602+00:00"
     },
     {
       "id": "d811cea04ed2dd3e",
@@ -2153,7 +2220,7 @@
         "JAMA Network Open vaccines"
       ],
       "first_seen_at": "2026-06-17T15:14:35+00:00",
-      "last_seen_at": "2026-06-27T22:14:44.458408+00:00"
+      "last_seen_at": "2026-06-28T22:13:01.266605+00:00"
     },
     {
       "id": "c612857c7f59ef32",
@@ -2287,7 +2354,7 @@
         "Journal of Infectious Diseases"
       ],
       "first_seen_at": "2026-06-17T09:02:41+00:00",
-      "last_seen_at": "2026-06-27T22:14:44.458413+00:00"
+      "last_seen_at": "2026-06-28T22:13:01.266609+00:00"
     },
     {
       "id": "df244427e1f743bd",
@@ -2423,7 +2490,7 @@
         "読売新聞 ワクチン / 予防接種"
       ],
       "first_seen_at": "2026-04-15T07:00:00+00:00",
-      "last_seen_at": "2026-06-27T22:14:44.458422+00:00"
+      "last_seen_at": "2026-06-28T22:13:01.266613+00:00"
     },
     {
       "id": "0e18a02c66ef06ed",
@@ -2694,7 +2761,7 @@
         "CIDRAP Vaccines & Immunization"
       ],
       "first_seen_at": "2026-06-16T20:09:07+00:00",
-      "last_seen_at": "2026-06-27T22:14:44.458427+00:00"
+      "last_seen_at": "2026-06-28T22:13:01.266618+00:00"
     },
     {
       "id": "a48dffd16c10c4ad",
@@ -2763,7 +2830,7 @@
         "Guardian Vaccines / Immunization"
       ],
       "first_seen_at": "2026-06-16T21:52:00+00:00",
-      "last_seen_at": "2026-06-27T22:14:44.458437+00:00"
+      "last_seen_at": "2026-06-28T22:13:01.266625+00:00"
     },
     {
       "id": "f05ffddb87ffc997",
@@ -2899,7 +2966,7 @@
         "medRxiv vaccines"
       ],
       "first_seen_at": "2026-06-16T07:00:00+00:00",
-      "last_seen_at": "2026-06-27T22:14:44.458432+00:00"
+      "last_seen_at": "2026-06-28T22:13:01.266622+00:00"
     },
     {
       "id": "8937bf4ee7f8fd24",
@@ -2968,7 +3035,7 @@
         "SSRN vaccine preprints"
       ],
       "first_seen_at": "2026-06-16T01:50:18+00:00",
-      "last_seen_at": "2026-06-27T22:14:44.458442+00:00"
+      "last_seen_at": "2026-06-28T22:13:01.266628+00:00"
     },
     {
       "id": "196f4f839cb7d149",
@@ -3109,7 +3176,7 @@
         "PAHO News"
       ],
       "first_seen_at": "2026-06-15T20:48:11+00:00",
-      "last_seen_at": "2026-06-27T22:14:44.458451+00:00"
+      "last_seen_at": "2026-06-28T22:13:01.266632+00:00"
     },
     {
       "id": "a930f24fa756ae20",
@@ -3183,7 +3250,7 @@
         "PAHO News"
       ],
       "first_seen_at": "2026-06-15T18:18:09+00:00",
-      "last_seen_at": "2026-06-27T22:14:44.458456+00:00"
+      "last_seen_at": "2026-06-28T22:13:01.266635+00:00"
     },
     {
       "id": "c94b46336cb0a70f",
@@ -3386,7 +3453,7 @@
         "Journal of Infectious Diseases"
       ],
       "first_seen_at": "2026-06-15T07:00:00+00:00",
-      "last_seen_at": "2026-06-27T22:14:44.458461+00:00"
+      "last_seen_at": "2026-06-28T22:13:01.266642+00:00"
     },
     {
       "id": "b8b80ce8d1538c85",

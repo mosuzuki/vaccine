@@ -1,9 +1,9 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-06-27T22:13:22.410672+00:00",
+  "generated_at": "2026-06-28T22:11:45.727151+00:00",
   "item_count": 36,
-  "archive_count": 336,
+  "archive_count": 337,
   "days_back": 14,
   "plot_mode_default": "source",
   "feed_status": [
@@ -88,7 +88,7 @@
       "name": "The Lancet series",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Athelancet.com%20(trial%20OR%20policy%20OR%20effectiveness%20OR%20safety)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
@@ -137,7 +137,7 @@
       "name": "Nature Communications vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fncomms%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20surveillance)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 2,
       "kept": 0
     },
     {
@@ -165,7 +165,7 @@
       "name": "Science vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ascience.org%2Fdoi%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20antibody)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 0,
       "kept": 0
     },
     {
@@ -193,7 +193,7 @@
       "name": "JAMA vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjama%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 2,
       "kept": 0
     },
     {
@@ -235,49 +235,49 @@
       "name": "bioRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abiorxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 2,
       "kept": 0
     },
     {
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 25,
+      "seen": 24,
       "kept": 5
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 78,
+      "seen": 46,
       "kept": 2
     },
     {
       "name": "AP Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 99,
+      "seen": 58,
       "kept": 1
     },
     {
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 11,
+      "seen": 8,
       "kept": 0
     },
     {
       "name": "Financial Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aft.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 8,
+      "seen": 7,
       "kept": 0
     },
     {
       "name": "STAT Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 15,
+      "seen": 12,
       "kept": 1
     },
     {
@@ -291,28 +291,28 @@
       "name": "Science Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Ascience.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 4,
+      "seen": 1,
       "kept": 0
     },
     {
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 13,
+      "seen": 14,
       "kept": 0
     },
     {
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 25,
+      "seen": 22,
       "kept": 1
     },
     {
       "name": "Washington Post Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 17,
+      "seen": 16,
       "kept": 1
     },
     {
@@ -326,28 +326,28 @@
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 15,
+      "seen": 17,
       "kept": 0
     },
     {
       "name": "朝日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Aasahi.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 4,
+      "seen": 3,
       "kept": 0
     },
     {
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 10,
+      "seen": 11,
       "kept": 1
     },
     {
       "name": "毎日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 6,
+      "seen": 5,
       "kept": 0
     },
     {
@@ -375,7 +375,7 @@
       "name": "Journal of Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fjid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 2,
       "kept": 2
     },
     {
@@ -424,8 +424,8 @@
       "name": "International Journal of Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aijidonline.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
-      "kept": 0
+      "seen": 1,
+      "kept": 1
     },
     {
       "name": "Clinical Microbiology and Infection",
@@ -459,21 +459,86 @@
       "name": "SSRN vaccine preprints",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Apapers.ssrn.com%20(effectiveness%20OR%20safety%20OR%20policy%20OR%20trial)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 5,
-      "kept": 4
+      "seen": 4,
+      "kept": 3
     }
   ],
   "weekly_ai_summary": {
-    "generated_at": "2026-06-27T22:13:22.410672+00:00",
+    "generated_at": "2026-06-28T22:11:45.727151+00:00",
     "period_days": 7,
     "policy_count": 7,
     "academic_count": 5,
     "status": "ok",
     "model": "gpt-4o-mini",
-    "policy_summary": "欧州委員会は、サノフィのインフルエンザワクチンキャンペーンに対する独占禁止法調査を開始しました。また、汎米保健機関は人道危機の影響を受ける5か国で200万人に医療サービスを提供するプロジェクトを立ち上げました。",
-    "academic_summary": "米国小児病院における入院患者への予防接種の障壁と促進要因に関する定性的研究が発表されました。さらに、2025-2026年の新型コロナウイルスワクチンの有効性に関する暫定推定値も報告されています。"
+    "policy_summary": "欧州委員会はサノフィのインフルエンザワクチンキャンペーンに対する独占禁止法調査を開始しました。また、PAHOは人道危機の影響を受ける国々で医療サービスへのアクセスを拡大するプロジェクトを立ち上げました。",
+    "academic_summary": "香港での研究では、男性と性交渉を持つ男性に対する4CMenBワクチンの有効性が示されました。さらに、台湾における65歳以上の成人に対するインフルエンザワクチンの有効性についての研究が発表されました。"
   },
   "items": [
+    {
+      "id": "fea26e15462a58fb",
+      "title": "香港で男性と性交渉を持つ男性の淋病に対する4CMenBワクチンの有効性：二重盲検ランダム化プラセボ対照試験",
+      "summary": "香港で男性と性交渉を持つ男性の淋病に対する4CMenBワクチンの有効性：二重盲検ランダム化プラセボ対照試験",
+      "summary_ai": "香港で男性と性交渉を持つ男性の淋病に対する4CMenBワクチンの有効性：二重盲検ランダム化プラセボ対照試験",
+      "title_original": "Efficacy of the 4CMenB vaccine against gonorrhoea among men who have sex with men in Hong Kong: a double-blind randomised placebo-controlled trial",
+      "summary_original": "Efficacy of the 4CMenB vaccine against gonorrhoea among men who have sex with men in Hong Kong: a double-blind randomised placebo-controlled trial",
+      "summary_ai_original": "Efficacy of the 4CMenB vaccine against gonorrhoea among men who have sex with men in Hong Kong: a double-blind randomised placebo-controlled trial",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5WMXhIYW1oR0loS25kNjdVVU45TkNrLTdkVWhpc1ZJcjVHRExxT203Ums3dmFrTUdTUUZHVUdoeHpoN0lHeGhOLXoyMTFJeHRfQUxMeFozelJPS0NrQWl2UlppTDN5eExfRzhZaU4xRFAzbG8?oc=5",
+      "source": "International Journal of Infectious Diseases",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-06-27T08:02:35+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "香港",
+      "source_location": {
+        "key": "netherlands",
+        "name_ja": "オランダ",
+        "lat": 52.3676,
+        "lng": 4.9041,
+        "region": "Europe",
+        "label": "IJID"
+      },
+      "plot": {
+        "source": {
+          "key": "netherlands",
+          "name_ja": "オランダ",
+          "lat": 52.3676,
+          "lng": 4.9041,
+          "region": "Europe",
+          "label": "IJID"
+        },
+        "target": {
+          "key": "hong kong",
+          "name_ja": "香港",
+          "lat": 22.3193,
+          "lng": 114.1694,
+          "region": "Asia",
+          "label": "香港"
+        }
+      },
+      "location": {
+        "key": "hong kong",
+        "name_ja": "香港",
+        "lat": 22.3193,
+        "lng": 114.1694,
+        "region": "Asia",
+        "label": "香港"
+      },
+      "region": "Asia",
+      "country": "香港",
+      "lat": 22.3193,
+      "lng": 114.1694,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "International Journal of Infectious Diseases"
+      ]
+    },
     {
       "id": "b8bae5e0e75ec16b",
       "title": "欧州委員会、サノフィのインフルエンザワクチンキャンペーンに対する独占禁止法調査を開始 - ロイター",
@@ -2227,71 +2292,6 @@
       ]
     },
     {
-      "id": "df244427e1f743bd",
-      "title": "1 タイトル ページ ブラジルにおける RSウイルス (RSV)に対する母親の普遍的予防接種: 費用対効果の拡大 - SSRN eLibrary",
-      "summary": "1 タイトル ページ ブラジルにおける RSウイルス (RSV)に対する母親の普遍的予防接種: 費用対効果の拡大 SSRN eLibrary",
-      "summary_ai": "1 タイトル ページ ブラジルにおける RSウイルス (RSV)に対する母親の普遍的予防接種: 費用対効果の拡大 SSRN eLibrary",
-      "title_original": "1 TITLE PAGE Universal maternal immunization against respiratory syncytial virus (RSV) in Brazil: An extended cost effectiveness - SSRN eLibrary",
-      "summary_original": "1 TITLE PAGE Universal maternal immunization against respiratory syncytial virus (RSV) in Brazil: An extended cost effectiveness SSRN eLibrary",
-      "summary_ai_original": "1 TITLE PAGE Universal maternal immunization against respiratory syncytial virus (RSV) in Brazil: An extended cost effectiveness SSRN eLibrary",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZTdvTkgzYzY0VmpDMmtZMk5iRHVLa0VfOUlSNHBBMW1Ka1VHWFBNYkJ3dy1zanhLYnQ5LXVmeGl0UWlZYnFseDZtNXQ3N01GZ19RZWZlYVA0NWpwLThzTHl2SXYyZUJvUkFVcXY0a1J3bVBaNl9pczZWallocWZTV19xaUtlZ3NHWHJTT204TFk4WDVoNVpnTDlKaXFyTFgzOHI3UnVYLWQwZWt4bmgyNmtOWDhmWEtsQnVNWUh3?oc=5",
-      "source": "SSRN vaccine preprints",
-      "source_type": "preprint",
-      "source_tier": "Tier 3",
-      "source_priority": 6,
-      "published_at": "2026-06-17T07:02:45+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "ブラジル",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "SSRN"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "SSRN"
-        },
-        "target": {
-          "key": "brazil",
-          "name_ja": "ブラジル",
-          "lat": -15.7939,
-          "lng": -47.8828,
-          "region": "South America",
-          "label": "ブラジル"
-        }
-      },
-      "location": {
-        "key": "brazil",
-        "name_ja": "ブラジル",
-        "lat": -15.7939,
-        "lng": -47.8828,
-        "region": "South America",
-        "label": "ブラジル"
-      },
-      "region": "South America",
-      "country": "ブラジル",
-      "lat": -15.7939,
-      "lng": -47.8828,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "SSRN vaccine preprints"
-      ]
-    },
-    {
       "id": "08fa027f0aece9ef",
       "title": "肺炎による死亡者の９７．８％が高齢者 ＲＳウイルス、肺炎球菌…４月以降の予防接種スケジュールは？ - 読売新聞",
       "summary": "肺炎による死亡者の９７．８％が高齢者 ＲＳウイルス、肺炎球菌…４月以降の予防接種スケジュールは？ 読売新聞",
@@ -2623,74 +2623,6 @@
       ]
     },
     {
-      "id": "158954cd72d7d564",
-      "title": "高齢者における新型コロナウイルス感染症ワクチンの有効性",
-      "summary": "高齢者における新型コロナウイルス感染症ワクチンの有効性",
-      "summary_ai": "高齢者における新型コロナウイルス感染症ワクチンの有効性",
-      "title_original": "COVID-19 Vaccine Effectiveness Among Older Adults",
-      "summary_original": "COVID-19 Vaccine Effectiveness Among Older Adults",
-      "summary_ai_original": "COVID-19 Vaccine Effectiveness Among Older Adults",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE90eXNNRTEzQ2I2dXFpUE02T0pReHlqOFhRallCdDFPN1J4MDR3WmlXYjQ3ZHhRUzhEd2Y4aXJzbGhBZkFYTk15VjJzdGZzaDR3VkxXZFBmMGJnLW5VcGxjZWR5M1hLNVVRMWtBRllJd0gtYjBiV2pZ?oc=5",
-      "source": "JAMA Network Open vaccines",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 9,
-      "published_at": "2026-06-15T22:32:49+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "covid"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "JAMA Network Open"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "JAMA Network Open"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 2,
-      "duplicate_sources": [
-        "JAMA Network Open vaccines",
-        "JAMA Network vaccines"
-      ]
-    },
-    {
       "id": "0400361fa47a2bd6",
       "title": "アメリカ大陸でジフテリア症例が増加する中、PAHOは各国に予防接種の取り組みを強化するよう要請",
       "summary": "アメリカ大陸でジフテリア症例が増加する中、PAHO、各国に予防接種の取り組みを強化するよう要請 オスカー・レイエス 2026年6月15日",
@@ -2830,6 +2762,74 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "PAHO News"
+      ]
+    },
+    {
+      "id": "6750f0178edcfd70",
+      "title": "高齢者における新型コロナウイルス感染症ワクチンの有効性",
+      "summary": "高齢者における新型コロナウイルス感染症ワクチンの有効性",
+      "summary_ai": "高齢者における新型コロナウイルス感染症ワクチンの有効性",
+      "title_original": "COVID-19 Vaccine Effectiveness Among Older Adults",
+      "summary_original": "COVID-19 Vaccine Effectiveness Among Older Adults",
+      "summary_ai_original": "COVID-19 Vaccine Effectiveness Among Older Adults",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQelp0V0VyLUxYZHhsZkNFOEFFY0F6UHZNUmM2dzNBeWRFa0RLYlM4anBoQVVTWG9OcnY2UXdwckZfeGtuN294VlhxS1JTbmVYTU5UTTRWYTVDUFZPQk1pUEFHUWU1dGxzMFdXZW54UU5yX0pxX1pZM1Q1TjJDTkt3MHkzUFMtUkVyMnZrOHpTRzQyNDJSNm5lai11c29oUmREemYwOThmc1pDTzRRdFRxVXdRTQ?oc=5",
+      "source": "JAMA Network Open vaccines",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 9,
+      "published_at": "2026-06-15T07:00:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "covid"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "JAMA Network Open"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "JAMA Network Open"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 2,
+      "duplicate_sources": [
+        "JAMA Network Open vaccines",
+        "JAMA Network vaccines"
       ]
     },
     {
