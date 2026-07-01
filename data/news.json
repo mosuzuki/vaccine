@@ -1,9 +1,9 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-06-30T22:23:07.533645+00:00",
-  "item_count": 27,
-  "archive_count": 341,
+  "generated_at": "2026-07-01T22:37:59.628112+00:00",
+  "item_count": 25,
+  "archive_count": 343,
   "days_back": 14,
   "plot_mode_default": "source",
   "feed_status": [
@@ -81,14 +81,14 @@
       "name": "PAHO News",
       "url": "https://www.paho.org/en/rss.xml",
       "status": "ok",
-      "seen": 6,
-      "kept": 4
+      "seen": 8,
+      "kept": 5
     },
     {
       "name": "The Lancet series",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Athelancet.com%20(trial%20OR%20policy%20OR%20effectiveness%20OR%20safety)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -102,7 +102,7 @@
       "name": "NEJM",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Anejm.org%20(trial%20OR%20effectiveness%20OR%20policy%20OR%20safety)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 3,
       "kept": 1
     },
     {
@@ -158,14 +158,14 @@
       "name": "Nature Reviews Immunology vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fnri%20(review%20OR%20immunogenicity%20OR%20policy%20OR%20effectiveness)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 1,
       "kept": 0
     },
     {
       "name": "Science vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ascience.org%2Fdoi%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20antibody)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 4,
+      "seen": 3,
       "kept": 0
     },
     {
@@ -200,8 +200,8 @@
       "name": "JAMA Network Open vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjamanetworkopen%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 3,
-      "kept": 2
+      "seen": 2,
+      "kept": 1
     },
     {
       "name": "JAMA Internal Medicine vaccines",
@@ -235,28 +235,28 @@
       "name": "bioRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abiorxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 1,
       "kept": 0
     },
     {
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 23,
-      "kept": 4
+      "seen": 21,
+      "kept": 3
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 16,
+      "seen": 17,
       "kept": 2
     },
     {
       "name": "AP Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 10,
+      "seen": 6,
       "kept": 1
     },
     {
@@ -270,49 +270,49 @@
       "name": "Financial Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aft.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 9,
-      "kept": 1
+      "seen": 7,
+      "kept": 0
     },
     {
       "name": "STAT Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 18,
+      "seen": 17,
       "kept": 1
     },
     {
       "name": "Nature News Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 22,
-      "kept": 0
+      "seen": 24,
+      "kept": 1
     },
     {
       "name": "Science Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Ascience.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 4,
+      "seen": 2,
       "kept": 0
     },
     {
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 10,
+      "seen": 9,
       "kept": 0
     },
     {
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 39,
+      "seen": 35,
       "kept": 0
     },
     {
       "name": "Washington Post Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 16,
+      "seen": 15,
       "kept": 2
     },
     {
@@ -326,36 +326,36 @@
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 21,
+      "seen": 26,
       "kept": 0
     },
     {
       "name": "朝日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Aasahi.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 3,
+      "seen": 4,
       "kept": 0
     },
     {
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 11,
-      "kept": 1
+      "seen": 57,
+      "kept": 0
     },
     {
       "name": "毎日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 10,
+      "seen": 7,
       "kept": 0
     },
     {
       "name": "JAMA Network vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 7,
-      "kept": 2
+      "seen": 6,
+      "kept": 1
     },
     {
       "name": "JAMA Pediatrics vaccines",
@@ -375,28 +375,28 @@
       "name": "Journal of Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fjid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
       "name": "Open Forum Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fofid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
-      "kept": 0
+      "seen": 1,
+      "kept": 1
     },
     {
       "name": "Emerging Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Awwwnc.cdc.gov%2Feid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
       "name": "Pediatrics journal",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Apublications.aap.org%2Fpediatrics&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 3,
       "kept": 1
     },
     {
@@ -425,7 +425,7 @@
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aijidonline.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
       "seen": 1,
-      "kept": 1
+      "kept": 0
     },
     {
       "name": "Clinical Microbiology and Infection",
@@ -445,7 +445,7 @@
       "name": "Cochrane vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Acochranelibrary.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
@@ -464,16 +464,152 @@
     }
   ],
   "weekly_ai_summary": {
-    "generated_at": "2026-06-30T22:23:07.533645+00:00",
+    "generated_at": "2026-07-01T22:37:59.628112+00:00",
     "period_days": 7,
-    "policy_count": 7,
-    "academic_count": 3,
+    "policy_count": 5,
+    "academic_count": 0,
     "status": "ok",
     "model": "gpt-4o-mini",
-    "policy_summary": "米国では予防接種に対する躊躇が続いており、ワシントン・ポストがその影響を報告しています。また、汎米保健機関（PAHO）は、ベネズエラの地震後に健康リスクに対処するための支援を拡大しています。",
-    "academic_summary": "香港での研究では、男性と性交渉を持つ男性に対する4CMenBワクチンの有効性が評価されました。さらに、米国小児病院における入院患者への予防接種に関する障壁と促進要因についての定性的研究も発表されています。"
+    "policy_summary": "PAHOは、ベネズエラの壊滅的な地震後の健康対応を支援するために2,400万米ドルの緊急呼びかけを開始しました。また、欧州委員会はサノフィのインフルエンザワクチンキャンペーンに対する独占禁止法調査を開始しました。",
+    "academic_summary": "該当なし"
   },
   "items": [
+    {
+      "id": "77e0cf7fdff75078",
+      "title": "PAHO、ベネズエラの壊滅的な地震後の健康対応を支援するために2,400万米ドルの呼びかけを開始",
+      "summary": "PAHO、ベネズエラの壊滅的な地震後の健康対応支援に2,400万米ドルの呼びかけを開始 クリスティーナ・ミッチェル 2026年7月1日",
+      "summary_ai": "ワシントン D.C.、2026 年 7 月 1 日 (PAHO) – 世界保健機関 (WHO)の南北アメリカ地域事務所である汎米保健機構 (PAHO)は、壊滅的な地震後の最初の 6 か月間の健康対応と早期復興を支援するために 2,400 万米ドルの緊急呼びかけを開始しました。",
+      "title_original": "PAHO launches US$24 million appeal to support health response following devastating earthquakes in Venezuela",
+      "summary_original": "PAHO launches US$24 million appeal to support health response following devastating earthquakes in Venezuela Cristina Mitchell 1 Jul 2026",
+      "summary_ai_original": "Washington, D.C., 1 July 2026 (PAHO) – The Pan American Health Organization (PAHO), the Regional Office for the Americas of the World Health Organization (WHO), has launched a US$24 million emergency appeal to support the first six months of the health response and early recovery following the devastating earthquakes t",
+      "article_text_original": "Washington, D.C., 1 July 2026 (PAHO) – The Pan American Health Organization (PAHO), the Regional Office for the Americas of the World Health Organization (WHO), has launched a US$24 million emergency appeal to support the first six months of the health response and early recovery following the devastating earthquakes that struck Venezuela on 24 June. The funds will support the delivery of lifesaving health services, restoring essential health care, strengthening disease surveillance and outbreak prevention, ensuring continued access to essential medicines and vaccines, and rebuilding the operational capacity of the health system in the areas hardest hit by the disaster. The appeal aims to support approximately 700,000 people living in the municipalities most severely affected by the earthquakes, while strengthening referral hospitals and health services serving millions more whose access to care has been disrupted. \"While search and rescue efforts continue, the health emergency is entering a new phase,\" said PAHO Director Dr. Jarbas Barbosa. \"Thousands of injured people require ongoing care, hospitals remain under enormous pressure, and the risk of disease outbreaks is increasing. This appeal will help save lives today while supporting the recovery of essential health services for the months ahead.\" On 24 June, two powerful earthquakes measuring magnitude 7.2 and 7.5 struck north-central Venezuela, causing one of the country's most devastating natural disasters in decades. According to official reports, as of 29 June, more than 1,943 people have died and over 10,500 have been injured. The earthquakes affected densely populated urban areas already facing significant humanitarian challenges, severely damaging health facilities and critical infrastructure, including electricity, water, transport and telecommunications. Hospitals continue to operate well beyond capacity as they care for large numbers of trauma patients, while shortages of medicines, surgical supplies, laboratory reagents and critical medical equipment threaten the continuity of lifesaving services. Beyond the immediate injuries, health risks are expected to grow in the coming weeks. Damage to health facilities, population displacement, overcrowded shelters, disruptions to vaccination services, and interruptions to water and sanitation systems increase the likelihood of outbreaks of vaccine-preventable and other communicable diseases, while the psychological impact on affected communities and health workers continues to mount. Since the earthquakes, PAHO has been working closely with the Ministry of Health, Civil Protection, United Nations partners and Health Cluster members to coordinate the health response. The Organization has activated its Incident Management System and Regional Response Team, deployed emergency specialists, carried out rapid assessments of priority hospitals, and coordinated the deployment of international Emergency Medical Teams available to support the response. PAHO has also mobilized supplies from its Strategic Reserve in Panama, including trauma kits, medicines and emergency equipment, while supporting the urgent procurement of additional vaccines, medicines, laboratory supplies and other critical health commodities. The appeal will finance six priority areas over the next six months: - Delivering emergency trauma, surgical and critical care to save lives. - Restoring the functionality and safety of essential health services. - Procuring and distributing essential medicines, vaccines, laboratory reagents and medical equipment. - Preventing disease outbreaks through surveillance, vaccination, laboratory strengthening, infection prevention and control, water and sanitation interventions, and vector control. - Expanding mental health and psychosocial support and protecting the health and wellbeing of affected communities. - Strengthening health sector coordination, emergency management and the transition to early recovery. \"Investing in health now will not only help save lives but also prevent secondary public health emergencies that could prolong the humanitarian impact of this disaster,\" Dr. Barbosa said. \"We call on governments, development partners, international financial institutions, philanthropic organizations and the private sector to support this appeal and stand in solidarity with the people of Venezuela.\" Organizations that wish to contribute to the appeal should contact PAHO at (donate@paho.org or mauvernj@paho.org)",
+      "link": "https://www.paho.org/en/news/1-7-2026-paho-launches-us24-million-appeal-support-health-response-following-devastating",
+      "source": "PAHO News",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 8,
+      "published_at": "2026-07-01T15:24:33+00:00",
+      "topics": [
+        "communication",
+        "policy"
+      ],
+      "policy_tags": [
+        "communication",
+        "financing",
+        "outbreak_response",
+        "safety"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "PAHO / Washington DC"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "PAHO / Washington DC"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "PAHO News"
+      ]
+    },
+    {
+      "id": "cff6cdddffe21d9e",
+      "title": "新たに診断された星状細胞腫におけるIDH1変異ワクチン：多施設共同、単群、非盲検、ファーストインヒト第1相NOA16試験の最終分析",
+      "summary": "新たに診断された星状細胞腫におけるIDH1変異ワクチン：多施設共同、単群、非盲検、ファーストインヒト第1相NOA16試験の最終分析",
+      "summary_ai": "新たに診断された星状細胞腫におけるIDH1変異ワクチン：多施設共同、単群、非盲検、ファーストインヒト第1相NOA16試験の最終分析",
+      "title_original": "IDH1 -mutant vaccine in newly diagnosed astrocytoma: final analysis of the multicenter, single-arm, open-label, first-in-human phase 1 NOA16 trial",
+      "summary_original": "IDH1 -mutant vaccine in newly diagnosed astrocytoma: final analysis of the multicenter, single-arm, open-label, first-in-human phase 1 NOA16 trial",
+      "summary_ai_original": "IDH1 -mutant vaccine in newly diagnosed astrocytoma: final analysis of the multicenter, single-arm, open-label, first-in-human phase 1 NOA16 trial",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YVDZ4bXFQZkp3bk1JZElfQ25lR3k3R2hqWDhNOTZrampHcVB0R3JzbDYyQVVWVmtRTnJERmxGOHJ3S0MtWENYSEhyamJzSFFtUXVZMWYtUTU2RE5CU3dZ?oc=5",
+      "source": "Nature News Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 5,
+      "published_at": "2026-07-01T10:12:01+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Nature News"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Nature News"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Nature News Vaccines / Immunization"
+      ]
+    },
     {
       "id": "8a7903229c0a2c28",
       "title": "米国の予防接種躊躇が継続する影響 - ワシントン・ポスト",
@@ -611,138 +747,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "PAHO News"
-      ]
-    },
-    {
-      "id": "72d5fa93db048f1a",
-      "title": "バイエルン州ノルディックがチクングニア熱ワクチンのカナダ保健省の承認を取得 - 企業発表 - フィナンシャル・タイムズ",
-      "summary": "北欧バイエルン州、カナダ保健省からチクングニア熱ワクチンの承認を取得 – 企業発表 フィナンシャル・タイムズ",
-      "summary_ai": "北欧バイエルン州、カナダ保健省からチクングニア熱ワクチンの承認を取得 – 企業発表 フィナンシャル・タイムズ",
-      "title_original": "Bavarian Nordic Receives Health Canada Approval for Chikungunya Vaccine – Company Announcement - Financial Times",
-      "summary_original": "Bavarian Nordic Receives Health Canada Approval for Chikungunya Vaccine – Company Announcement Financial Times",
-      "summary_ai_original": "Bavarian Nordic Receives Health Canada Approval for Chikungunya Vaccine – Company Announcement Financial Times",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPc09SbEpEN0tCbXJra2pxYTdGblZISlhRWnUybnFIUWRGWXhQTzVYZ1p3RUdqTUVmZWJFZFRuVmxCWGptRkd6dTFQd0JNV1lHNGpnbmt1QzV4YXlSbEg5dEpfdWhmYUZTU3d3VHRmNmdRS2ppd29YWU41bWZsOVZtZHpWbUxka2twZ0hpbmV0SkEwMzBPU0hGYjZ5Yw?oc=5",
-      "source": "Financial Times Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-06-29T03:30:00+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [
-        "approval"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "カナダ",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "Financial Times"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "Financial Times"
-        },
-        "target": {
-          "key": "canada",
-          "name_ja": "カナダ",
-          "lat": 45.4215,
-          "lng": -75.6972,
-          "region": "North America",
-          "label": "カナダ"
-        }
-      },
-      "location": {
-        "key": "canada",
-        "name_ja": "カナダ",
-        "lat": 45.4215,
-        "lng": -75.6972,
-        "region": "North America",
-        "label": "カナダ"
-      },
-      "region": "North America",
-      "country": "カナダ",
-      "lat": 45.4215,
-      "lng": -75.6972,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Financial Times Vaccines / Immunization"
-      ]
-    },
-    {
-      "id": "fea26e15462a58fb",
-      "title": "香港で男性と性交渉を持つ男性の淋病に対する4CMenBワクチンの有効性：二重盲検ランダム化プラセボ対照試験",
-      "summary": "香港で男性と性交渉を持つ男性の淋病に対する4CMenBワクチンの有効性：二重盲検ランダム化プラセボ対照試験",
-      "summary_ai": "香港で男性と性交渉を持つ男性の淋病に対する4CMenBワクチンの有効性：二重盲検ランダム化プラセボ対照試験",
-      "title_original": "Efficacy of the 4CMenB vaccine against gonorrhoea among men who have sex with men in Hong Kong: a double-blind randomised placebo-controlled trial",
-      "summary_original": "Efficacy of the 4CMenB vaccine against gonorrhoea among men who have sex with men in Hong Kong: a double-blind randomised placebo-controlled trial",
-      "summary_ai_original": "Efficacy of the 4CMenB vaccine against gonorrhoea among men who have sex with men in Hong Kong: a double-blind randomised placebo-controlled trial",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5WMXhIYW1oR0loS25kNjdVVU45TkNrLTdkVWhpc1ZJcjVHRExxT203Ums3dmFrTUdTUUZHVUdoeHpoN0lHeGhOLXoyMTFJeHRfQUxMeFozelJPS0NrQWl2UlppTDN5eExfRzhZaU4xRFAzbG8?oc=5",
-      "source": "International Journal of Infectious Diseases",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 7,
-      "published_at": "2026-06-27T08:02:35+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "香港",
-      "source_location": {
-        "key": "netherlands",
-        "name_ja": "オランダ",
-        "lat": 52.3676,
-        "lng": 4.9041,
-        "region": "Europe",
-        "label": "IJID"
-      },
-      "plot": {
-        "source": {
-          "key": "netherlands",
-          "name_ja": "オランダ",
-          "lat": 52.3676,
-          "lng": 4.9041,
-          "region": "Europe",
-          "label": "IJID"
-        },
-        "target": {
-          "key": "hong kong",
-          "name_ja": "香港",
-          "lat": 22.3193,
-          "lng": 114.1694,
-          "region": "Asia",
-          "label": "香港"
-        }
-      },
-      "location": {
-        "key": "hong kong",
-        "name_ja": "香港",
-        "lat": 22.3193,
-        "lng": 114.1694,
-        "region": "Asia",
-        "label": "香港"
-      },
-      "region": "Asia",
-      "country": "香港",
-      "lat": 22.3193,
-      "lng": 114.1694,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "International Journal of Infectious Diseases"
       ]
     },
     {
@@ -1015,71 +1019,6 @@
       ]
     },
     {
-      "id": "d7ff996cc43cb8b4",
-      "title": "ワクチン完全性プロジェクト、証拠集団がワクチン政策を改善し、信頼を回復するプロジェクトを発表 - CIDRAP",
-      "summary": "ワクチン完全性プロジェクト、証拠集団がワクチン政策を改善し、信頼を回復するプロジェクトを発表 CIDRAP",
-      "summary_ai": "ワクチン完全性プロジェクト、証拠集団がワクチン政策を改善し、信頼を回復するプロジェクトを発表 CIDRAP",
-      "title_original": "Vaccine Integrity Project, The Evidence Collective announce projects to improve vaccine policy, restore trust - CIDRAP",
-      "summary_original": "Vaccine Integrity Project, The Evidence Collective announce projects to improve vaccine policy, restore trust CIDRAP",
-      "summary_ai_original": "Vaccine Integrity Project, The Evidence Collective announce projects to improve vaccine policy, restore trust CIDRAP",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc3NLNzVxODMxRFU0dXJKWGtpN1VhTE5udXVIS1piMGlkc2h6V0tfWENEdXlRaDdIVHl6M3NYaXpLZk9oaDdDRHk4WXl5MWZHOWdaMzRYTjRtdlQycWtzZE96Rm9PUFJPZFVzWWltY2tQeXlJWm1hVk5FWDgwUDdWU0E5SWtFUHVkWXFkdGNseXkwNjBkLU0wRnE5eFEycGZNY09sZ0R2dmhNZ0FXT2V0WkFza1dzWUI1WC0yQXlmUDhNQQ?oc=5",
-      "source": "CIDRAP Vaccines & Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 8,
-      "published_at": "2026-06-24T15:05:53+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "CIDRAP / Minnesota"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "CIDRAP / Minnesota"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "CIDRAP Vaccines & Immunization"
-      ]
-    },
-    {
       "id": "0a89b9545133ba8f",
       "title": "米国小児病院における入院患者への予防接種の障壁と促進要因：定性的研究 - AAP",
       "summary": "米国小児病院における入院患者への予防接種の障壁と促進要因: 定性的研究 AAP",
@@ -1282,73 +1221,6 @@
       ]
     },
     {
-      "id": "35c8300589067fa8",
-      "title": "CDC長官は新型コロナウイルスワクチンの研究を阻止した。今では一流の医学雑誌に掲載されています。 - ワシントン・ポスト紙",
-      "summary": "CDC長官は新型コロナウイルスワクチンの研究を阻止した。今では一流の医学雑誌に掲載されています。ワシントン・ポスト",
-      "summary_ai": "CDC長官は新型コロナウイルスワクチンの研究を阻止した。今では一流の医学雑誌に掲載されています。",
-      "title_original": "CDC’s chief blocked a covid vaccine study. Now it’s in a top medical journal. - The Washington Post",
-      "summary_original": "CDC’s chief blocked a covid vaccine study. Now it’s in a top medical journal. The Washington Post",
-      "summary_ai_original": "CDC’s chief blocked a covid vaccine study. Now it’s in a top medical journal.",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUktjazNVV05CNmMzMmhWejNNVFdVeUNsd1R4bWNWWFhFaGFJQ3UzMDdHTDJVeFN4WXpWVjdCZ2pXeHZsak0taV9LUUZUNkk4S2R6MTc5U1dWNTF2SUs4YzB2WlNzWUw2c2dMc0hwM081SlFLYThORTlJc3JQT1B0NU1pcWk0Z2ZMZXZuYjZYV1NEd25Fakx1bUVhRUJwMHlGS2Y1aFdqTzAtc1JwaG1nRkkzazUybFU?oc=5",
-      "source": "Washington Post Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-06-23T22:10:00+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "covid"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "Washington Post"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "Washington Post"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Washington Post Vaccines / Immunization"
-      ]
-    },
-    {
       "id": "af3f294e50a4314e",
       "title": "台湾における65歳以上の成人のインフルエンザ関連の受診、入院、死亡に対するインフルエンザワクチンの有効性：2024～2025年シーズン - SSRN eLibrary",
       "summary": "台湾における65歳以上の成人のインフルエンザ関連の受診、入院、死亡に対するインフルエンザワクチンの有効性：2024～2025年シーズン SSRN eLibrary",
@@ -1413,143 +1285,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "SSRN vaccine preprints"
-      ]
-    },
-    {
-      "id": "9c13ba6cc3ec9cd0",
-      "title": "研究によると、2025-26年の新型コロナウイルスワクチンにより、救急医療の受診が半減することが示唆されている - CIDRAP",
-      "summary": "研究によると、2025-26年の新型コロナウイルスワクチンにより、救急医療の受診が半減することが示唆されている CIDRAP",
-      "summary_ai": "研究によると、2025-26年の新型コロナウイルスワクチンにより、救急医療の受診が半減することが示唆されている CIDRAP",
-      "title_original": "Study suggests 2025-26 COVID vaccine cuts emergency, urgent care visits by half - CIDRAP",
-      "summary_original": "Study suggests 2025-26 COVID vaccine cuts emergency, urgent care visits by half CIDRAP",
-      "summary_ai_original": "Study suggests 2025-26 COVID vaccine cuts emergency, urgent care visits by half CIDRAP",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR1dmUkhuaXFaSzY0QWNpTmc5V25IX2hEaUljMWRFcktxU3RCM25QYVkzUUV5Q3Bna0hDRVhMci00OW5QQkZ4NEtfOXJtWFdfd1R2T2E5bzQtWWdVSWJHVVN5UXZrczdyUkd2ZlIzQjNieFJld1ZRMDltV1lNS3JpZUNLMEtZbmN4UUlfWncwSTR0U2V0cG1hVW01YkNPemYzdTRnZnlYSzVaOWxUa3dRRA?oc=5",
-      "source": "CIDRAP Vaccines & Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 8,
-      "published_at": "2026-06-23T16:17:43+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [
-        "outbreak_response"
-      ],
-      "vaccines": [
-        "covid"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "CIDRAP / Minnesota"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "CIDRAP / Minnesota"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "CIDRAP Vaccines & Immunization"
-      ]
-    },
-    {
-      "id": "6ad1c6743595da93",
-      "title": "検査陰性デザインを使用した成人における2025～2026年の新型コロナウイルス感染症ワクチンの有効性の暫定推定値",
-      "summary": "検査陰性デザインを使用した成人における2025～2026年の新型コロナウイルス感染症ワクチンの有効性の暫定推定値",
-      "summary_ai": "検査陰性デザインを使用した成人における2025～2026年の新型コロナウイルス感染症ワクチンの有効性の暫定推定値",
-      "title_original": "Interim Estimated Effectiveness of 2025-2026 COVID-19 Vaccines in Adults Using a Test-Negative Design",
-      "summary_original": "Interim Estimated Effectiveness of 2025-2026 COVID-19 Vaccines in Adults Using a Test-Negative Design",
-      "summary_ai_original": "Interim Estimated Effectiveness of 2025-2026 COVID-19 Vaccines in Adults Using a Test-Negative Design",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9GY1ZBVTctN3NGS3NockczWWNEY2k5bGs0TklFQm9veHZmU0lmcV9wM2ppYXJMMVdsVW54d3hBU3ZHUFZNX0dncTJHcDJ1ZjdTWElEZHhtRGdjNmhiY2tINFU0ZTMyOTN5Zld2dy1IemYtVUZjaFdR?oc=5",
-      "source": "JAMA Network Open vaccines",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 9,
-      "published_at": "2026-06-23T15:37:50+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "covid"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "JAMA Network Open"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "JAMA Network Open"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 2,
-      "duplicate_sources": [
-        "JAMA Network Open vaccines",
-        "JAMA Network vaccines"
       ]
     },
     {
@@ -1625,6 +1360,210 @@
       ]
     },
     {
+      "id": "6ad1c6743595da93",
+      "title": "検査陰性デザインを使用した成人における2025～2026年の新型コロナウイルス感染症ワクチンの有効性の暫定推定値",
+      "summary": "検査陰性デザインを使用した成人における2025～2026年の新型コロナウイルス感染症ワクチンの有効性の暫定推定値",
+      "summary_ai": "検査陰性デザインを使用した成人における2025～2026年の新型コロナウイルス感染症ワクチンの有効性の暫定推定値",
+      "title_original": "Interim Estimated Effectiveness of 2025-2026 COVID-19 Vaccines in Adults Using a Test-Negative Design",
+      "summary_original": "Interim Estimated Effectiveness of 2025-2026 COVID-19 Vaccines in Adults Using a Test-Negative Design",
+      "summary_ai_original": "Interim Estimated Effectiveness of 2025-2026 COVID-19 Vaccines in Adults Using a Test-Negative Design",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9GY1ZBVTctN3NGS3NockczWWNEY2k5bGs0TklFQm9veHZmU0lmcV9wM2ppYXJMMVdsVW54d3hBU3ZHUFZNX0dncTJHcDJ1ZjdTWElEZHhtRGdjNmhiY2tINFU0ZTMyOTN5Zld2dy1IemYtVUZjaFdR?oc=5",
+      "source": "JAMA Network Open vaccines",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 9,
+      "published_at": "2026-06-23T07:00:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "covid"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "JAMA Network Open"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "JAMA Network Open"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 2,
+      "duplicate_sources": [
+        "JAMA Network Open vaccines",
+        "JAMA Network vaccines"
+      ]
+    },
+    {
+      "id": "9c13ba6cc3ec9cd0",
+      "title": "研究によると、2025-26年の新型コロナウイルスワクチンにより、救急医療の受診が半減することが示唆されている - CIDRAP",
+      "summary": "研究によると、2025-26年の新型コロナウイルスワクチンにより、救急医療の受診が半減することが示唆されている CIDRAP",
+      "summary_ai": "研究によると、2025-26年の新型コロナウイルスワクチンにより、救急医療の受診が半減することが示唆されている CIDRAP",
+      "title_original": "Study suggests 2025-26 COVID vaccine cuts emergency, urgent care visits by half - CIDRAP",
+      "summary_original": "Study suggests 2025-26 COVID vaccine cuts emergency, urgent care visits by half CIDRAP",
+      "summary_ai_original": "Study suggests 2025-26 COVID vaccine cuts emergency, urgent care visits by half CIDRAP",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR1dmUkhuaXFaSzY0QWNpTmc5V25IX2hEaUljMWRFcktxU3RCM25QYVkzUUV5Q3Bna0hDRVhMci00OW5QQkZ4NEtfOXJtWFdfd1R2T2E5bzQtWWdVSWJHVVN5UXZrczdyUkd2ZlIzQjNieFJld1ZRMDltV1lNS3JpZUNLMEtZbmN4UUlfWncwSTR0U2V0cG1hVW01YkNPemYzdTRnZnlYSzVaOWxUa3dRRA?oc=5",
+      "source": "CIDRAP Vaccines & Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 8,
+      "published_at": "2026-06-23T07:00:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [
+        "outbreak_response"
+      ],
+      "vaccines": [
+        "covid"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "CIDRAP / Minnesota"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "CIDRAP / Minnesota"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "CIDRAP Vaccines & Immunization"
+      ]
+    },
+    {
+      "id": "35c8300589067fa8",
+      "title": "CDC長官は新型コロナウイルスワクチンの研究を阻止した。今では一流の医学雑誌に掲載されています。 - ワシントン・ポスト紙",
+      "summary": "CDC長官は新型コロナウイルスワクチンの研究を阻止した。今では一流の医学雑誌に掲載されています。ワシントン・ポスト",
+      "summary_ai": "CDC長官は新型コロナウイルスワクチンの研究を阻止した。今では一流の医学雑誌に掲載されています。",
+      "title_original": "CDC’s chief blocked a covid vaccine study. Now it’s in a top medical journal. - The Washington Post",
+      "summary_original": "CDC’s chief blocked a covid vaccine study. Now it’s in a top medical journal. The Washington Post",
+      "summary_ai_original": "CDC’s chief blocked a covid vaccine study. Now it’s in a top medical journal.",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUktjazNVV05CNmMzMmhWejNNVFdVeUNsd1R4bWNWWFhFaGFJQ3UzMDdHTDJVeFN4WXpWVjdCZ2pXeHZsak0taV9LUUZUNkk4S2R6MTc5U1dWNTF2SUs4YzB2WlNzWUw2c2dMc0hwM081SlFLYThORTlJc3JQT1B0NU1pcWk0Z2ZMZXZuYjZYV1NEd25Fakx1bUVhRUJwMHlGS2Y1aFdqTzAtc1JwaG1nRkkzazUybFU?oc=5",
+      "source": "Washington Post Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-06-23T07:00:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "covid"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "Washington Post"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "Washington Post"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Washington Post Vaccines / Immunization"
+      ]
+    },
+    {
       "id": "ead569d59ad3739a",
       "title": "2 つの不活化日本脳炎ワクチンの交換可能な予防接種スケジュールの免疫原性と安全性: 多中心、第 IV 相、非盲検、ランダム化対照試験 - SSRN eLibrary",
       "summary": "2 つの不活化日本脳炎ワクチンの交換可能な予防接種スケジュールの免疫原性と安全性: 多中心、第 IV 相、非盲検、ランダム化比較試験 SSRN eLibrary",
@@ -1691,6 +1630,71 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "SSRN vaccine preprints"
+      ]
+    },
+    {
+      "id": "befb45c33da59a3e",
+      "title": "P-1428。米国の65～74歳、75～84歳、85歳以上の成人における20価肺炎球菌複合体ワクチンの現リアルワールドの有効性 - オックスフォード・アカデミック",
+      "summary": "P-1428。米国における65～74歳、75～84歳、85歳以上の成人における20価肺炎球菌複合体ワクチンの現リアルワールドの有効性 オックスフォード・アカデミック",
+      "summary_ai": "米国における65～74歳、75～84歳、85歳以上の成人における20価肺炎球菌複合体ワクチンの現リアルワールドの有効性 オックスフォード・アカデミック",
+      "title_original": "P-1428. Real-World Effectiveness of 20-Valent Pneumococcal Conjugate Vaccine among Adults 65-74, 75-84, and ≥85 Years of Age in the United States - Oxford Academic",
+      "summary_original": "P-1428. Real-World Effectiveness of 20-Valent Pneumococcal Conjugate Vaccine among Adults 65-74, 75-84, and ≥85 Years of Age in the United States Oxford Academic",
+      "summary_ai_original": "Real-World Effectiveness of 20-Valent Pneumococcal Conjugate Vaccine among Adults 65-74, 75-84, and ≥85 Years of Age in the United States Oxford Academic",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRkdwa3lKOXJlRnVCOHRLenpJVmtSeFc0dkZtV0ZIaHZpSGtCVVpjUzZ2YTQ4Z1VvTkNsN0loWU5LbTViZi1xV3hIUS1kTkhNNVYxMllYZXg5YmVJbm1aWXZnNHdjbXE0UUI2T2tfSmUwM0g2U0FUM1VnbVdNamR2RXVRcU95Tm1yLUJySg?oc=5",
+      "source": "Open Forum Infectious Diseases",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-06-21T13:22:39+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "米国",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "Open Forum Infectious Diseases"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "Open Forum Infectious Diseases"
+        },
+        "target": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "米国"
+        }
+      },
+      "location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "米国"
+      },
+      "region": "North America",
+      "country": "米国",
+      "lat": 38.9072,
+      "lng": -77.0369,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Open Forum Infectious Diseases"
       ]
     },
     {
@@ -1824,71 +1828,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "eClinicalMedicine vaccines"
-      ]
-    },
-    {
-      "id": "8e465bebbf27a6b0",
-      "title": "生後0～6か月の乳児のRSV関連入院に対する母親のRSV予防接種の有効性と集団レベルでの影響：デンマーク全国コホート研究 - SSRN eLibrary",
-      "summary": "生後0～6か月の乳児のRSV関連入院に対する母親のRSV予防接種の有効性と集団レベルでの影響：デンマーク全国コホート研究 SSRN eLibrary",
-      "summary_ai": "生後0～6か月の乳児のRSV関連入院に対する母親のRSV予防接種の有効性と集団レベルでの影響：デンマーク全国コホート研究 SSRN eLibrary",
-      "title_original": "Effectiveness and Population-Level Impact of Maternal RSV Vaccination against RSV-Related Hospitalisation among Infants Aged 0–6 Months: A Danish Nationwide Cohort Study - SSRN eLibrary",
-      "summary_original": "Effectiveness and Population-Level Impact of Maternal RSV Vaccination against RSV-Related Hospitalisation among Infants Aged 0–6 Months: A Danish Nationwide Cohort Study SSRN eLibrary",
-      "summary_ai_original": "Effectiveness and Population-Level Impact of Maternal RSV Vaccination against RSV-Related Hospitalisation among Infants Aged 0–6 Months: A Danish Nationwide Cohort Study SSRN eLibrary",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5fSzBoY1NPUmtyemFMaUZVR2o4UGdvdmpXTDFha1lVNzFBWEpKMzBlRWpDZnhoaEdzVlZNT3E3WVliZVV0bjZGOXRPamEwRTNFdlNMUFJFUFlfcXFINE1SdXdZdllEUXhlZUZF?oc=5",
-      "source": "SSRN vaccine preprints",
-      "source_type": "preprint",
-      "source_tier": "Tier 3",
-      "source_priority": 6,
-      "published_at": "2026-06-19T10:44:01+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "SSRN"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "SSRN"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "SSRN vaccine preprints"
       ]
     },
     {
@@ -2166,20 +2105,20 @@
       ]
     },
     {
-      "id": "f8047ae0e1f57b83",
-      "title": "2025年から2026年のインフルエンザシーズンにおけるインフルエンザの活動性と推定されるワクチンの有効性",
-      "summary": "2025年から2026年のインフルエンザシーズンにおけるインフルエンザの活動性と推定されるワクチンの有効性",
-      "summary_ai": "2025年から2026年のインフルエンザシーズンにおけるインフルエンザの活動性と推定されるワクチンの有効性",
-      "title_original": "Influenza Activity and Estimated Vaccine Effectiveness in the 2025-2026 Influenza Season",
-      "summary_original": "Influenza Activity and Estimated Vaccine Effectiveness in the 2025-2026 Influenza Season",
-      "summary_ai_original": "Influenza Activity and Estimated Vaccine Effectiveness in the 2025-2026 Influenza Season",
+      "id": "8e465bebbf27a6b0",
+      "title": "生後0～6か月の乳児のRSV関連入院に対する母親のRSV予防接種の有効性と集団レベルでの影響：デンマーク全国コホート研究 - SSRN eLibrary",
+      "summary": "生後0～6か月の乳児のRSV関連入院に対する母親のRSV予防接種の有効性と集団レベルでの影響：デンマーク全国コホート研究 SSRN eLibrary",
+      "summary_ai": "生後0～6か月の乳児のRSV関連入院に対する母親のRSV予防接種の有効性と集団レベルでの影響：デンマーク全国コホート研究 SSRN eLibrary",
+      "title_original": "Effectiveness and Population-Level Impact of Maternal RSV Vaccination against RSV-Related Hospitalisation among Infants Aged 0–6 Months: A Danish Nationwide Cohort Study - SSRN eLibrary",
+      "summary_original": "Effectiveness and Population-Level Impact of Maternal RSV Vaccination against RSV-Related Hospitalisation among Infants Aged 0–6 Months: A Danish Nationwide Cohort Study SSRN eLibrary",
+      "summary_ai_original": "Effectiveness and Population-Level Impact of Maternal RSV Vaccination against RSV-Related Hospitalisation among Infants Aged 0–6 Months: A Danish Nationwide Cohort Study SSRN eLibrary",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE12elRqeVNmUzZNWGs1S05feU9iZzZSVDlrdzBJR21IcVN0d2JEX1lKSHFqSnlHOXUzbHRJTHlhWjhoV2RaaG5HcEZoelEyVmN2Z2Y0ejJLU1FnZnZYUmEtTHpFdXBhYlNndWhud0hVaktFcDZkc1FN?oc=5",
-      "source": "JAMA Network Open vaccines",
-      "source_type": "academic",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5fSzBoY1NPUmtyemFMaUZVR2o4UGdvdmpXTDFha1lVNzFBWEpKMzBlRWpDZnhoaEdzVlZNT3E3WVliZVV0bjZGOXRPamEwRTNFdlNMUFJFUFlfcXFINE1SdXdZdllEUXhlZUZF?oc=5",
+      "source": "SSRN vaccine preprints",
+      "source_type": "preprint",
       "source_tier": "Tier 3",
-      "source_priority": 9,
-      "published_at": "2026-06-17T07:00:00+00:00",
+      "source_priority": 6,
+      "published_at": "2026-06-18T07:00:00+00:00",
       "topics": [
         "research"
       ],
@@ -2193,7 +2132,7 @@
         "lat": 38.9072,
         "lng": -77.0369,
         "region": "North America",
-        "label": "JAMA Network Open"
+        "label": "SSRN"
       },
       "plot": {
         "source": {
@@ -2202,75 +2141,7 @@
           "lat": 38.9072,
           "lng": -77.0369,
           "region": "North America",
-          "label": "JAMA Network Open"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 2,
-      "duplicate_sources": [
-        "JAMA Network Open vaccines",
-        "JAMA Network vaccines"
-      ]
-    },
-    {
-      "id": "08fa027f0aece9ef",
-      "title": "肺炎による死亡者の９７．８％が高齢者 ＲＳウイルス、肺炎球菌…４月以降の予防接種スケジュールは？ - 読売新聞",
-      "summary": "肺炎による死亡者の９７．８％が高齢者 ＲＳウイルス、肺炎球菌…４月以降の予防接種スケジュールは？ 読売新聞",
-      "summary_ai": "肺炎による死亡者の９７．８％が高齢者 ＲＳウイルス、肺炎球菌…４月以降の予防接種スケジュールは？",
-      "title_original": "肺炎による死亡者の９７．８％が高齢者 ＲＳウイルス、肺炎球菌…４月以降のワクチン接種スケジュールは？ - 読売新聞",
-      "summary_original": "肺炎による死亡者の９７．８％が高齢者 ＲＳウイルス、肺炎球菌…４月以降のワクチン接種スケジュールは？ 読売新聞",
-      "summary_ai_original": "肺炎による死亡者の９７．８％が高齢者 ＲＳウイルス、肺炎球菌…４月以降のワクチン接種スケジュールは？",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcnNDZUVxSWhBWXN2N3U5Q1dISVZKWVRmWFkzRnN0bXl5ZThEekV0b3ZfMXgxeWpGaE9lTmNmcXFab2tuT2pSaXNsdy1BZjc5dEFGTVBSMEI5UjhGWkNlaDZvbldnR2tnMi1lM2UzX3NLTlBCaHlPY3h0czduOVVobk5ZNnpCdjlHbDZFbC02MA?oc=5",
-      "source": "読売新聞 ワクチン / 予防接種",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-06-17T07:00:00+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [
-        "schedule"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "japan",
-        "name_ja": "日本",
-        "lat": 35.6762,
-        "lng": 139.6503,
-        "region": "Asia",
-        "label": "読売新聞"
-      },
-      "plot": {
-        "source": {
-          "key": "japan",
-          "name_ja": "日本",
-          "lat": 35.6762,
-          "lng": 139.6503,
-          "region": "Asia",
-          "label": "読売新聞"
+          "label": "SSRN"
         },
         "target": {
           "key": "unknown",
@@ -2295,7 +2166,7 @@
       "lng": 0.0,
       "duplicate_count": 1,
       "duplicate_sources": [
-        "読売新聞 ワクチン / 予防接種"
+        "SSRN vaccine preprints"
       ]
     }
   ]
