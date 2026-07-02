@@ -1,9 +1,9 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-07-01T22:37:59.628112+00:00",
-  "item_count": 25,
-  "archive_count": 343,
+  "generated_at": "2026-07-02T22:16:10.905063+00:00",
+  "item_count": 22,
+  "archive_count": 345,
   "days_back": 14,
   "plot_mode_default": "source",
   "feed_status": [
@@ -57,7 +57,7 @@
       "url": "https://www.gov.uk/government/organisations/medicines-and-healthcare-products-regulatory-agency.atom",
       "status": "ok",
       "seen": 20,
-      "kept": 0
+      "kept": 1
     },
     {
       "name": "Health Canada Recalls and Safety Alerts",
@@ -81,8 +81,8 @@
       "name": "PAHO News",
       "url": "https://www.paho.org/en/rss.xml",
       "status": "ok",
-      "seen": 8,
-      "kept": 5
+      "seen": 7,
+      "kept": 4
     },
     {
       "name": "The Lancet series",
@@ -95,15 +95,15 @@
       "name": "Lancet Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Athelancet.com%2Fjournals%2Flaninf&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 1,
-      "kept": 0
+      "seen": 2,
+      "kept": 1
     },
     {
       "name": "NEJM",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Anejm.org%20(trial%20OR%20effectiveness%20OR%20policy%20OR%20safety)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 3,
-      "kept": 1
+      "seen": 2,
+      "kept": 0
     },
     {
       "name": "BMJ",
@@ -158,7 +158,7 @@
       "name": "Nature Reviews Immunology vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fnri%20(review%20OR%20immunogenicity%20OR%20policy%20OR%20effectiveness)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
@@ -235,50 +235,50 @@
       "name": "bioRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abiorxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 21,
-      "kept": 3
+      "seen": 24,
+      "kept": 4
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 17,
-      "kept": 2
+      "seen": 22,
+      "kept": 1
     },
     {
       "name": "AP Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 6,
+      "seen": 3,
       "kept": 1
     },
     {
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 10,
+      "seen": 25,
       "kept": 0
     },
     {
       "name": "Financial Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aft.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 7,
+      "seen": 6,
       "kept": 0
     },
     {
       "name": "STAT Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 17,
-      "kept": 1
+      "seen": 12,
+      "kept": 0
     },
     {
       "name": "Nature News Vaccines / Immunization",
@@ -291,21 +291,21 @@
       "name": "Science Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Ascience.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 3,
       "kept": 0
     },
     {
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 9,
+      "seen": 8,
       "kept": 0
     },
     {
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 35,
+      "seen": 21,
       "kept": 0
     },
     {
@@ -326,28 +326,28 @@
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 26,
+      "seen": 31,
       "kept": 0
     },
     {
       "name": "朝日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Aasahi.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 4,
+      "seen": 3,
       "kept": 0
     },
     {
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 57,
+      "seen": 31,
       "kept": 0
     },
     {
       "name": "毎日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 7,
+      "seen": 0,
       "kept": 0
     },
     {
@@ -389,14 +389,14 @@
       "name": "Emerging Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Awwwnc.cdc.gov%2Feid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 1,
       "kept": 0
     },
     {
       "name": "Pediatrics journal",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Apublications.aap.org%2Fpediatrics&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 2,
       "kept": 1
     },
     {
@@ -410,8 +410,8 @@
       "name": "eClinicalMedicine vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Athelancet.com%2Fjournals%2Feclinm&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 1,
-      "kept": 1
+      "seen": 0,
+      "kept": 0
     },
     {
       "name": "EBioMedicine vaccines",
@@ -424,7 +424,7 @@
       "name": "International Journal of Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aijidonline.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
@@ -459,21 +459,91 @@
       "name": "SSRN vaccine preprints",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Apapers.ssrn.com%20(effectiveness%20OR%20safety%20OR%20policy%20OR%20trial)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 3,
-      "kept": 3
+      "seen": 2,
+      "kept": 2
     }
   ],
   "weekly_ai_summary": {
-    "generated_at": "2026-07-01T22:37:59.628112+00:00",
+    "generated_at": "2026-07-02T22:16:10.905063+00:00",
     "period_days": 7,
     "policy_count": 5,
-    "academic_count": 0,
+    "academic_count": 1,
     "status": "ok",
     "model": "gpt-4o-mini",
-    "policy_summary": "PAHOは、ベネズエラの壊滅的な地震後の健康対応を支援するために2,400万米ドルの緊急呼びかけを開始しました。また、欧州委員会はサノフィのインフルエンザワクチンキャンペーンに対する独占禁止法調査を開始しました。",
-    "academic_summary": "該当なし"
+    "policy_summary": "英国では、COVID-19パンデミックを受けて、規制がライフサイエンスの障壁ではなく触媒として機能することが求められています。PAHOは、ベネズエラの地震後の健康対応を支援するために2,400万米ドルの緊急呼びかけを開始しました。",
+    "academic_summary": "米国で実施された第2相の二重盲検ランダム化プラセボ対照試験において、WRSs2（弱毒化生赤ワインワクチン）が赤疹症に対して有効であることが示されました。"
   },
   "items": [
+    {
+      "id": "46dfc5be3cc732a2",
+      "title": "規制を英国のライフサイエンスの障壁ではなく触媒にする",
+      "summary": "MHRA CEO、英国の長期的な健全性と繁栄のためには、規制はイノベーションを後追いするのではなく、先導するのに役立つべきだと主張",
+      "summary_ai": "今世紀これまでで最も壊滅的な感染症パンデミックである新型コロナウイルス感染症（COVID-19）に直面したとき、私たちは前例のないスピードでワクチンを開発することができ、世界中で何百万もの命を救い、プレッシャーの下で科学、医療システム、規制が連携して何を達成できるかを実証しました。よく覚えている、希望だけじゃない",
+      "title_original": "Making regulation a catalyst, not a barrier, for UK life sciences",
+      "summary_original": "MHRA CEO argues that for the UK’s long-term health and prosperity, regulation should help lead, rather than follow, innovation",
+      "summary_ai_original": "When we faced the most devastating infectious pandemic of this century so far, COVID-19, we were able to develop vaccines at unprecedented speed, saving many millions of lives worldwide and demonstrating what science, health systems and regulation can achieve together under pressure. I remember well, not only the hope",
+      "article_text_original": "Whilst the U.K. finds itself in a temporary political interregnum, it will be our country’s ability to navigate long-term trends in science and technology that will define our enduring success in a highly competitive geopolitical future. That will require both policy changes and rethinking some of the barriers that have held us back, including our approach to balancing risk with the benefits of innovation. And it will require a thoughtful and open approach to harnessing the benefits of AI. We are in a period of extraordinary scientific discovery, helping us predict, prevent, diagnose, treat and cure diseases more effectively than we could have dreamt of a generation or two ago. I moved from the hospital sector to healthcare regulation a little over a year ago, when I became CEO of the MHRA. I came to realise that if we want to harness cutting-edge science and technology to transform patient outcomes and experience, regulation is a key part of the jigsaw. And it needs to change its shape in an era of personalized medicines and AI. There is plenty of progress to learn from. Whereas food scarcity was once the cause of malnutrition, disease and death, now calorie abundance in the developed world has given rise to obesity, Type II diabetes and a host of other diseases. Suddenly, in historical terms, we have a new class of highly effective medicines in the GLP-1 receptor agonists to combat obesity and diabetes, potentially with multiple other purposes on the horizon. Our ability to anticipate, treat and survive cancer has come on leaps and bounds in a generation, particularly through personalized therapies that harness the immune system of our own bodies to identify and attack cancerous cells. HIV was an infectious disease that struck fear into individuals and communities as a probable death sentence a generation ago. With the right treatments, it is now a manageable chronic condition; and we must ensure that remains the case in the global south too. When we faced the most devastating infectious pandemic of this century so far, COVID-19, we were able to develop vaccines at unprecedented speed, saving many millions of lives worldwide and demonstrating what science, health systems and regulation can achieve together under pressure. Among the most profound advances of our times is the discovery and deployment of cell and gene therapies to treat, amongst other things, rare diseases which affect some 3.5 million people in the U.K. alone. I have seen first-hand the life-changing impact of developments such as these as a hospital executive in the NHS. I remember well, not only the hope this gave to the children and their families, but also the halo effect for the whole hospital group, when the Evelina London Children’s Hospital first delivered a new gene therapy for children with the devastating, degenerative condition of spinal muscular atrophy. How do we keep pace to regulate these powerful new treatments and the adaptive technologies that are being used to develop them? The MHRA is rethinking how we regulate for the greatest benefit to patients. The common thread in our strategy is to shorten timelines, reduce requirements that have low impact, and speed the generation of new therapies to patients. MHRA’s new rare disease framework will take a novel approach to evidence-generation, replacing the traditional three-phase clinical trial and licensing with a new, iterative Investigational Marketing Authorisation. This new approach will cut years from the traditional development timescale of these treatments without compromising safety. The pace of advances in AI and digital technologies is exponential, inspiring both awe and fear. We can envisage scenarios now, or in the very near future, where AI may be better at identifying a tumour on a scan than a human. But it is almost impossible to envisage a scenario when anyone would want their cancer diagnosis broken to them by a computer, rather than a skilled and compassionate clinician. We need to blend the technological future with the intrinsically human qualities of healthcare. Harnessed well, and with strong safeguards, AI could make healthcare faster, safer, more precise and more personalized. But to realise this potential, regulation needs to change and evolve – retaining what works well for pharmaceuticals, while creating a new regulatory paradigm for novel types of product development and performance. That is why the MHRA established a National Commission on AI in healthcare. It brings together patients, clinicians, academics, technologists, investors and ethicists to define a new regulatory approach. The Commission will publish its final report in September and I anticipate we will see these findings point to fundamental changes. It is too easy for regulators, in any sector, not just healthcare, to be overly cautious in decision-making. I’ve witnessed it myself as a hospital executive on the receiving end of regulation. That can inhibit the pace of innovation. Safety is non-negotiable, but I do not believe regulation should be a barrier to innovation or paternalistic to patients; it should be empowering of informed patient choices when different treatment options are available. Above all, we need systems that are faster, highly expert and more open to innovation. This is how we are trying to compete globally and make the U.K. one of the best places in the world to develop and deploy innovative medicines. We should be in no doubt that global competition for investment in life sciences is fierce, and we either lead and adapt or we will get left behind. Last week I gave a guest lecture at Cedars-Sinai’s Global Healthcare Grand Rounds, routinely recognized as one of the best hospitals in the United States, that, for 125 years has been serving the diverse communities of Los Angeles and beyond, most recently opening the Cedars-Sinai Clinic London in Harley Street Health District. There I set out this challenge: how can we ensure regulation keeps pace with the science and technology now reshaping healthcare? The UK and US are already taking decisive steps together. The new Economic Prosperity Deal will strengthen collaboration in pharmaceuticals and health AI and support closer alignment in regulatory decision-making. Together we can set global standards, so that safe, effective and innovative medicines and technologies can reach patients more quickly in our countries. That is also in the best interests of economic growth driven by our world-class science sectors. Our guiding motivation is clear: putting patients’ best interests at the heart of our regulatory system, which means listening to them carefully, protecting them from avoidable harms and facilitating access to innovative medicines and technologies that could transform their lives, as quickly and safely as possible. If we get this right, regulation will not follow innovation, it will help to lead it. This article was published in BioCentury Read Lawrence’s speech at Cedars-Sinai International Global Healthcare Grand Rounds",
+      "link": "https://www.gov.uk/government/news/making-regulation-a-catalyst-not-a-barrier-for-uk-life-sciences",
+      "source": "MHRA",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 8,
+      "published_at": "2026-07-02T13:54:37+00:00",
+      "topics": [
+        "policy",
+        "research"
+      ],
+      "policy_tags": [
+        "approval",
+        "recommendation",
+        "safety"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "米国",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "MHRA / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "MHRA / London"
+        },
+        "target": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "米国"
+        }
+      },
+      "location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "米国"
+      },
+      "region": "North America",
+      "country": "米国",
+      "lat": 38.9072,
+      "lng": -77.0369,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "MHRA"
+      ]
+    },
     {
       "id": "77e0cf7fdff75078",
       "title": "PAHO、ベネズエラの壊滅的な地震後の健康対応を支援するために2,400万米ドルの呼びかけを開始",
@@ -608,6 +678,71 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "Nature News Vaccines / Immunization"
+      ]
+    },
+    {
+      "id": "a8f11fe2bc20834d",
+      "title": "米国における対照ヒト感染モデルにおける赤疹症に対するWRSs2（弱毒化生赤ワインワクチン）の有効性：第2相、二重盲検、ランダム化、プラセボ対照試験",
+      "summary": "米国における対照ヒト感染モデルにおける赤疹症に対するWRSs2（弱毒化生赤ワインワクチン）の有効性：第2相、二重盲検、ランダム化、プラセボ対照試験",
+      "summary_ai": "米国における対照ヒト感染モデルにおける赤疹症に対するWRSs2（弱毒化生赤ワインワクチン）の有効性：第2相、二重盲検、ランダム化、プラセボ対照試験",
+      "title_original": "Efficacy of WRSs2, a live-attenuated Shigella sonnei vaccine, against shigellosis in a controlled human infection model in the USA: a phase 2, double-blind, randomised, placebo-controlled trial",
+      "summary_original": "Efficacy of WRSs2, a live-attenuated Shigella sonnei vaccine, against shigellosis in a controlled human infection model in the USA: a phase 2, double-blind, randomised, placebo-controlled trial",
+      "summary_ai_original": "Efficacy of WRSs2, a live-attenuated Shigella sonnei vaccine, against shigellosis in a controlled human infection model in the USA: a phase 2, double-blind, randomised, placebo-controlled trial",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUHdLSmdkVkxEbU5uQUlVcUg2S1dKX0JxLVJFdmozbUQ3M0RlblUwcEd5WXIwWlFGX01MNEhUTDZKNXY2N29XT201em1ra2RWMjljTU9ZRUJUd05IZThtd1pjLXFWaDNic1FfdzNpSHVFaHlyUzdwWlpHT1NtVVdlTkFlXzVQYVNhdERv?oc=5",
+      "source": "Lancet Infectious Diseases",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-06-30T23:16:03+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "米国",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Lancet Infectious Diseases / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Lancet Infectious Diseases / London"
+        },
+        "target": {
+          "key": "usa",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "米国"
+        }
+      },
+      "location": {
+        "key": "usa",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "米国"
+      },
+      "region": "North America",
+      "country": "米国",
+      "lat": 38.9072,
+      "lng": -77.0369,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Lancet Infectious Diseases"
       ]
     },
     {
@@ -1019,7 +1154,72 @@
       ]
     },
     {
-      "id": "0a89b9545133ba8f",
+      "id": "d7ff996cc43cb8b4",
+      "title": "ワクチン完全性プロジェクト、証拠集団がワクチン政策を改善し、信頼を回復するプロジェクトを発表 - CIDRAP",
+      "summary": "ワクチン完全性プロジェクト、証拠集団がワクチン政策を改善し、信頼を回復するプロジェクトを発表 CIDRAP",
+      "summary_ai": "ワクチン完全性プロジェクト、証拠集団がワクチン政策を改善し、信頼を回復するプロジェクトを発表 CIDRAP",
+      "title_original": "Vaccine Integrity Project, The Evidence Collective announce projects to improve vaccine policy, restore trust - CIDRAP",
+      "summary_original": "Vaccine Integrity Project, The Evidence Collective announce projects to improve vaccine policy, restore trust CIDRAP",
+      "summary_ai_original": "Vaccine Integrity Project, The Evidence Collective announce projects to improve vaccine policy, restore trust CIDRAP",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc3NLNzVxODMxRFU0dXJKWGtpN1VhTE5udXVIS1piMGlkc2h6V0tfWENEdXlRaDdIVHl6M3NYaXpLZk9oaDdDRHk4WXl5MWZHOWdaMzRYTjRtdlQycWtzZE96Rm9PUFJPZFVzWWltY2tQeXlJWm1hVk5FWDgwUDdWU0E5SWtFUHVkWXFkdGNseXkwNjBkLU0wRnE5eFEycGZNY09sZ0R2dmhNZ0FXT2V0WkFza1dzWUI1WC0yQXlmUDhNQQ?oc=5",
+      "source": "CIDRAP Vaccines & Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 8,
+      "published_at": "2026-06-24T15:05:53+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "CIDRAP / Minnesota"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "CIDRAP / Minnesota"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "CIDRAP Vaccines & Immunization"
+      ]
+    },
+    {
+      "id": "02ce1496f1c6e982",
       "title": "米国小児病院における入院患者への予防接種の障壁と促進要因：定性的研究 - AAP",
       "summary": "米国小児病院における入院患者への予防接種の障壁と促進要因: 定性的研究 AAP",
       "summary_ai": "米国小児病院における入院患者への予防接種の障壁と促進要因: 定性的研究 AAP",
@@ -1027,7 +1227,7 @@
       "summary_original": "Barriers and Facilitators of Inpatient Vaccine Delivery at US Children’s Hospitals: A Qualitative Study AAP",
       "summary_ai_original": "Barriers and Facilitators of Inpatient Vaccine Delivery at US Children’s Hospitals: A Qualitative Study AAP",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcmI0MF9yNm5ER2dibUtyV1NscTlrLVR5V3U5UjJpb2laUkRsMVY1ZWJmOGJMaFByNklzOHFwdmIzeG9YbEtTQWg5alBNblRDbEFkbFlMUEVBdUwtaGFZY2ozd2h0Y0wyN1RCelVyakFoR0ctUmpPTmFSenRhb2YwRWxvMEJGQjMwQmk3bmdERFpZVDVFXzZtNGZldDBXUEhUMURoREZmckVwdFh5cjFnUXJiTXZuV0ladHgzYnMtQU5xTEpnQkZzX1N1elNQWHVrLWJCTEpocFRyV2tKQXc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNUsxWXhoWEdsbGllWUVURkRTRG16eUxXZ2Zpa1NXa1VoTlZrWHJhTTVxNUs4SDVVOGUyZXNqUGdJYk5yd1BrX2JtUkd3SmVtOUtDbDhXOGlOTEdzS2pKTFdEblhQMGY5UjNaejh1bTFfMFlweVhRZlNyeDhuRHhGNks3MGJJdEtSOFFvUnp2Ny1naGJtZ3dleWFwYmUzZzRQYzNEc0pWbDd6T2hKajJiaGpfdFhPUENpcnFwRDFBb25Qdi1ObDZtTTB3?oc=5",
       "source": "Pediatrics journal",
       "source_type": "academic",
       "source_tier": "Tier 3",
@@ -1761,412 +1961,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "PLOS journals vaccines"
-      ]
-    },
-    {
-      "id": "918b57807051c0a3",
-      "title": "米国の健康な女性参加者を対象とした複数回用量バイアルで製剤化された二価 RSVpreF ワクチンの安全性と免疫原性：多施設共同、無作為化、非盲検、非劣性第 3 相試験",
-      "summary": "米国の健康な女性参加者を対象とした複数回用量バイアルで製剤化された二価 RSVpreF ワクチンの安全性と免疫原性：多施設共同、無作為化、非盲検、非劣性第 3 相試験",
-      "summary_ai": "米国の健康な女性参加者を対象とした複数回用量バイアルで製剤化された二価 RSVpreF ワクチンの安全性と免疫原性：多施設共同、無作為化、非盲検、非劣性第 3 相試験",
-      "title_original": "Safety and immunogenicity of bivalent RSVpreF vaccine formulated in a multidose vial in healthy female participants in the USA: a multicentre, randomised, open-label, noninferiority phase 3 study",
-      "summary_original": "Safety and immunogenicity of bivalent RSVpreF vaccine formulated in a multidose vial in healthy female participants in the USA: a multicentre, randomised, open-label, noninferiority phase 3 study",
-      "summary_ai_original": "Safety and immunogenicity of bivalent RSVpreF vaccine formulated in a multidose vial in healthy female participants in the USA: a multicentre, randomised, open-label, noninferiority phase 3 study",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRFpYRW5VVHFfV3BQTUFIWFJsNTRJY09Eb3Q5ZUUyQWppa3BxU25QRHZCU1VidmF5WmZDdjh3VFJTV00wQU5Bd1N4R25zazhiWG5RaVhCcWMxMWxjay0yVzBKQVZoN3UyLWlKTGYxZ1BKSklVUjF6bVRkZmhRUmhIQ0JSSzlYTjN2cW5JRTM1ZG41bnh0LW14VFVsVjN1NU9IQ0FGMllOcWhqX3V6d19FUEdJU1lZaENFNFV0TjdZa1BEQVl1bE5tU2xCU3E?oc=5",
-      "source": "eClinicalMedicine vaccines",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 7,
-      "published_at": "2026-06-20T11:18:52+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [
-        "safety"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "米国",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "eClinicalMedicine"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "eClinicalMedicine"
-        },
-        "target": {
-          "key": "usa",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "米国"
-        }
-      },
-      "location": {
-        "key": "usa",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "米国"
-      },
-      "region": "North America",
-      "country": "米国",
-      "lat": 38.9072,
-      "lng": -77.0369,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "eClinicalMedicine vaccines"
-      ]
-    },
-    {
-      "id": "0ac7c064b39bcba2",
-      "title": "PAHO執行委員会、南北アメリカ全土の健康強化に向けた重要な決定を下し、第178回会合を終了",
-      "summary": "PAHO執行委員会、南北アメリカ全土の健康強化に向けた重要な決定で第178回会合を終了 クリスティーナ・ミッチェル 2026年6月18日",
-      "summary_ai": "ワシントン D.C.、2026 年 6 月 18 日 (PAHO) – 汎米保健機関 (PAHO) 執行委員会の第 178 回会合は、この地域の最も差し迫った公衆衛生の優先事項に関する 4 日間の議論を経て、加盟国が一連の戦略、行動計画、決議を承認し、本日閉会しました。",
-      "title_original": "PAHO Executive Committee concludes 178th session with key decisions to strengthen health across the Americas",
-      "summary_original": "PAHO Executive Committee concludes 178th session with key decisions to strengthen health across the Americas Cristina Mitchell 18 Jun 2026",
-      "summary_ai_original": "Washington, D.C., 18 June 2026 (PAHO) – The 178th Session of the Executive Committee of the Pan American Health Organization (PAHO) concluded today after four days of discussions on the Region's most pressing public health priorities, with Member States approving a series of strategies, plans of action and resolutions",
-      "article_text_original": "Washington, D.C., 18 June 2026 (PAHO) – The 178th Session of the Executive Committee of the Pan American Health Organization (PAHO) concluded today after four days of discussions on the Region's most pressing public health priorities, with Member States approving a series of strategies, plans of action and resolutions that will help strengthen health systems, improve preparedness for health emergencies, and expand access to essential health services across the Americas. Throughout the week, delegates reviewed the Organization's technical and financial priorities and agreed on measures to advance regional cooperation in areas including health emergency preparedness, antimicrobial resistance, arboviral diseases, food safety, and access to vaccines, medicines and other strategic health supplies through PAHO's Regional Revolving Funds. In total, the Executive Committee considered 41 agenda items, approved 13 resolutions, adopted four policy documents, and reviewed seven progress reports and four final reports. Among the key decisions were the approval of the Strategy for Strengthening Health Emergency and Risk Management for Health Security 2026–2031, the Plan of Action on Antimicrobial Resistance 2027–2031, the Integrated Management Strategy for the Prevention and Control of Arboviral Diseases 2026–2035, the Strategy and Plan of Action on Food Safety 2026–2031, and measures to strengthen and align PAHO's Regional Revolving Funds. The Committee also reviewed the Preliminary End-of-Biennium Assessment of the PAHO Program Budget 2024–2025 and the Final Report on the Implementation of the PAHO Strategic Plan 2020–2025, reflecting on progress made toward improving health across the Region while identifying priorities for the years ahead. Delegates received updates on the implementation of the International Health Regulations (2005), the Organization's Shared Services Initiative, ethics and internal oversight, human resources management, and efforts to prevent and respond to sexual exploitation and abuse. The Committee also discussed an innovative financing mechanism being developed jointly by PAHO and the Inter-American Development Bank to expand countries' access to financing for high-cost medicines through the Regional Revolving Funds. Closing the session, PAHO Director Dr. Jarbas Barbosa thanked Member States for their constructive engagement and commitment throughout the week. \"Members States took full responsibility for their role in this session of the Executive Committee and renewed their commitment to the Pan American Health Organization, and their efforts in reaching agreement in the discussions this week emphasized the trust and value you place on us,\" said Dr. Barbosa. The Director also reiterated the importance of ensuring PAHO's financial sustainability by urging Member States to make timely payment of their assessed contributions, noting that adequate financing is essential for the Organization to deliver on the priorities established by countries through the Strategic Plan. Concluding the meeting, Dr. Barbosa called on countries to continue working together in the spirit of Pan American solidarity to address the Region's shared health challenges. \"Today, as we bid farewell, I respectfully ask that we recommit ourselves to Pan Americanism by ensuring better health for the people of the Hemisphere. Once again, I congratulate you all on a job well done.\" The Executive Committee is one of PAHO's governing bodies and meets twice a year to consider technical and administrative matters and provide guidance to the Pan American Sanitary Bureau. The recommendations and decisions adopted during the 178th Session will inform the work of the Organization and contribute to discussions at the 63rd PAHO Directing Council later this year.",
-      "link": "https://www.paho.org/en/news/18-6-2026-paho-executive-committee-concludes-178th-session-key-decisions-strengthen-health",
-      "source": "PAHO News",
-      "source_type": "official",
-      "source_tier": "Tier 1",
-      "source_priority": 8,
-      "published_at": "2026-06-18T19:29:40+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [
-        "approval",
-        "financing",
-        "outbreak_response",
-        "recommendation",
-        "safety"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "PAHO / Washington DC"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "PAHO / Washington DC"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "PAHO News"
-      ]
-    },
-    {
-      "id": "0b550d59e737787e",
-      "title": "健康な小児における 4 価デング熱ワクチンの安全性、免疫原性、および有効性 - NEJM 臨床医",
-      "summary": "健康な小児における 4 価デング熱ワクチンの安全性、免疫原性、および有効性 NEJM 臨床医",
-      "summary_ai": "健康な小児における 4 価デング熱ワクチンの安全性、免疫原性、および有効性 NEJM 臨床医",
-      "title_original": "Safety, Immunogenicity, and Efficacy of a Tetravalent Dengue Vaccine in Healthy Children - NEJM Clinician",
-      "summary_original": "Safety, Immunogenicity, and Efficacy of a Tetravalent Dengue Vaccine in Healthy Children NEJM Clinician",
-      "summary_ai_original": "Safety, Immunogenicity, and Efficacy of a Tetravalent Dengue Vaccine in Healthy Children NEJM Clinician",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSDhoMVRpZlBxVlBKQUpLemkxdGp1ZUdBVUhkd09WQWNmWXhXMk1URHMxRjBQWDBFQkRlR3pFNzVpQlU0OWRZWWl2U09kbHRNNWhLV3VTMlJYS2kxRm5fS0lGR2hSZW5pT0p0WTNJbF82a2Q2bWVmLWlXWnZ1U0kzbFZmQm5QLVEyeVdpcHg1Sk9MbHdkVDNCclRySzNXbFk4d2lPQ0xsU3RVTlRFOXRKMDN1VGVHdFRn?oc=5",
-      "source": "NEJM",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-06-18T13:47:59+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [
-        "safety"
-      ],
-      "vaccines": [
-        "dengue"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "NEJM / Boston"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "NEJM / Boston"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "NEJM"
-      ]
-    },
-    {
-      "id": "f1388b36f6125f8b",
-      "title": "メルクの肺炎球菌ワクチン、米国で高リスクの子供や十代向けの承認を獲得 - ロイター",
-      "summary": "メルクの肺炎球菌ワクチン、米国で高リスクの子供と十代の若者向けに承認獲得 Reuters",
-      "summary_ai": "メルクの肺炎球菌ワクチン、米国で高リスクの子供と十代の若者向けに承認獲得 Reuters",
-      "title_original": "Merck's pneumococcal vaccine wins US approval for high-risk children, teens - Reuters",
-      "summary_original": "Merck's pneumococcal vaccine wins US approval for high-risk children, teens Reuters",
-      "summary_ai_original": "Merck's pneumococcal vaccine wins US approval for high-risk children, teens Reuters",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeXZyWms1LVFUZXVKaFkyaERHUHJQRWJRaDk4Q01JNlB5eUFIWUVjTFotZFlDVTF5LWh1bEIxQjB2Q0c4ZTFJekVjcUdDVkJ4UzhzZFdxdU5rdkxFSDlGNWRyZk5YSGl5dmdFVnpWZ1VSeWNPRHNZY3Myc2QwY29GUHFjWncybTloZlZJQTdsZ1doVFNSc3MtQVpORVdaWTJRbGl5RXE3aHBfWk9SMzR2b0w4TWtMcl9xUlZZOHMzRU04alprMGg3N3I2cVROdnJZZWRkRG5jeWg?oc=5",
-      "source": "Reuters Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-06-18T07:00:00+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [
-        "approval"
-      ],
-      "vaccines": [
-        "pneumococcal"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "Reuters"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "Reuters"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Reuters Vaccines / Immunization"
-      ]
-    },
-    {
-      "id": "fc75acf55fecc7ea",
-      "title": "上院民主党、HHSに対し連邦ワクチン政策に関する記録の提供を要求 - statnews.com",
-      "summary": "上院民主党、HHSに対し連邦ワクチン政策に関する記録の提供を要求 statnews.com",
-      "summary_ai": "上院民主党、HHSに対し連邦ワクチン政策に関する記録の提供を要求 statnews.com",
-      "title_original": "Senate Democrats demand HHS provide records on federal vaccine policy - statnews.com",
-      "summary_original": "Senate Democrats demand HHS provide records on federal vaccine policy statnews.com",
-      "summary_ai_original": "Senate Democrats demand HHS provide records on federal vaccine policy statnews.com",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQmR0UWlQZ0hrQmszQUFjVmRGdENhZzR1dm5iOGhhdXRlUjRrb1ktOWxERDF0WmRhOXRGT3lrV0dvZ0l0VzFOeG1GREJvRnZUeG5YZGlxQnhKZy1KMlAwcFhvdE1oMDlBbjNlTk1EODYxSjg1a2toSC1qSkYxeXJmNTBWZHNFLXlK?oc=5",
-      "source": "STAT Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-06-18T07:00:00+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "STAT"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "STAT"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "STAT Vaccines / Immunization"
-      ]
-    },
-    {
-      "id": "8e465bebbf27a6b0",
-      "title": "生後0～6か月の乳児のRSV関連入院に対する母親のRSV予防接種の有効性と集団レベルでの影響：デンマーク全国コホート研究 - SSRN eLibrary",
-      "summary": "生後0～6か月の乳児のRSV関連入院に対する母親のRSV予防接種の有効性と集団レベルでの影響：デンマーク全国コホート研究 SSRN eLibrary",
-      "summary_ai": "生後0～6か月の乳児のRSV関連入院に対する母親のRSV予防接種の有効性と集団レベルでの影響：デンマーク全国コホート研究 SSRN eLibrary",
-      "title_original": "Effectiveness and Population-Level Impact of Maternal RSV Vaccination against RSV-Related Hospitalisation among Infants Aged 0–6 Months: A Danish Nationwide Cohort Study - SSRN eLibrary",
-      "summary_original": "Effectiveness and Population-Level Impact of Maternal RSV Vaccination against RSV-Related Hospitalisation among Infants Aged 0–6 Months: A Danish Nationwide Cohort Study SSRN eLibrary",
-      "summary_ai_original": "Effectiveness and Population-Level Impact of Maternal RSV Vaccination against RSV-Related Hospitalisation among Infants Aged 0–6 Months: A Danish Nationwide Cohort Study SSRN eLibrary",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5fSzBoY1NPUmtyemFMaUZVR2o4UGdvdmpXTDFha1lVNzFBWEpKMzBlRWpDZnhoaEdzVlZNT3E3WVliZVV0bjZGOXRPamEwRTNFdlNMUFJFUFlfcXFINE1SdXdZdllEUXhlZUZF?oc=5",
-      "source": "SSRN vaccine preprints",
-      "source_type": "preprint",
-      "source_tier": "Tier 3",
-      "source_priority": 6,
-      "published_at": "2026-06-18T07:00:00+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "SSRN"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "SSRN"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "SSRN vaccine preprints"
       ]
     }
   ]
