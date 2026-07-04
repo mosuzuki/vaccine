@@ -1,9 +1,9 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-07-03T22:13:29.192227+00:00",
-  "item_count": 22,
-  "archive_count": 349,
+  "generated_at": "2026-07-04T22:07:58.156592+00:00",
+  "item_count": 21,
+  "archive_count": 350,
   "days_back": 14,
   "plot_mode_default": "source",
   "feed_status": [
@@ -23,7 +23,7 @@
       "name": "CDC Newsroom",
       "url": "https://tools.cdc.gov/api/v2/resources/media/316422.rss",
       "status": "ok",
-      "seen": 8,
+      "seen": 9,
       "kept": 0
     },
     {
@@ -95,14 +95,14 @@
       "name": "Lancet Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Athelancet.com%2Fjournals%2Flaninf&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 3,
       "kept": 1
     },
     {
       "name": "NEJM",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Anejm.org%20(trial%20OR%20effectiveness%20OR%20policy%20OR%20safety)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -165,7 +165,7 @@
       "name": "Science vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ascience.org%2Fdoi%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20antibody)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 4,
       "kept": 0
     },
     {
@@ -242,14 +242,14 @@
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 21,
+      "seen": 18,
       "kept": 3
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 11,
+      "seen": 10,
       "kept": 0
     },
     {
@@ -263,57 +263,57 @@
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 19,
+      "seen": 16,
       "kept": 0
     },
     {
       "name": "Financial Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aft.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 2,
       "kept": 0
     },
     {
       "name": "STAT Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 10,
+      "seen": 7,
       "kept": 0
     },
     {
       "name": "Nature News Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 24,
+      "seen": 19,
       "kept": 2
     },
     {
       "name": "Science Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Ascience.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 4,
+      "seen": 5,
       "kept": 0
     },
     {
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 10,
+      "seen": 7,
       "kept": 0
     },
     {
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 33,
+      "seen": 18,
       "kept": 0
     },
     {
       "name": "Washington Post Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 18,
-      "kept": 2
+      "seen": 19,
+      "kept": 1
     },
     {
       "name": "NHK ワクチン / 予防接種",
@@ -326,21 +326,21 @@
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 31,
+      "seen": 30,
       "kept": 0
     },
     {
       "name": "朝日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Aasahi.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 2,
+      "seen": 1,
       "kept": 0
     },
     {
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 14,
+      "seen": 9,
       "kept": 0
     },
     {
@@ -354,8 +354,8 @@
       "name": "JAMA Network vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 5,
-      "kept": 1
+      "seen": 4,
+      "kept": 0
     },
     {
       "name": "JAMA Pediatrics vaccines",
@@ -382,8 +382,8 @@
       "name": "Open Forum Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fofid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
-      "kept": 0
+      "seen": 2,
+      "kept": 1
     },
     {
       "name": "Emerging Infectious Diseases",
@@ -396,15 +396,15 @@
       "name": "Pediatrics journal",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Apublications.aap.org%2Fpediatrics&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 2,
       "kept": 1
     },
     {
       "name": "PLOS journals vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajournals.plos.org%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20uptake%20OR%20policy)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
-      "kept": 1
+      "seen": 1,
+      "kept": 0
     },
     {
       "name": "eClinicalMedicine vaccines",
@@ -417,7 +417,7 @@
       "name": "EBioMedicine vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Athelancet.com%2Fjournals%2Febiom&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -464,14 +464,14 @@
     }
   ],
   "weekly_ai_summary": {
-    "generated_at": "2026-07-03T22:13:29.192227+00:00",
+    "generated_at": "2026-07-04T22:07:58.156592+00:00",
     "period_days": 7,
     "policy_count": 4,
     "academic_count": 4,
     "status": "ok",
     "model": "gpt-4o-mini",
-    "policy_summary": "英国では、COVID-19パンデミックを受けて、規制がライフサイエンスの障壁ではなく触媒として機能することが強調されています。また、PAHOはベネズエラの地震後の健康対応に2,400万米ドルを呼びかけています。",
-    "academic_summary": "Mpox予防接種に関する旅行者への推奨事項の更新が議論されています。さらに、米国CDCが中止したCovid-19ワクチン研究が発表され、赤疹症に対する新しいワクチンの有効性が評価されています。"
+    "policy_summary": "英国では、COVID-19パンデミックを受けて、規制がライフサイエンスの進展を促進する役割を果たすべきとの見解が示されています。また、PAHOはベネズエラの地震後の健康対応に2,400万米ドルの支援を行うことを発表しました。",
+    "academic_summary": "Mpox予防接種に関する旅行者への推奨事項の更新が検討されています。さらに、米国CDCによって中止されたCovid-19ワクチン研究の結果が発表されました。"
   },
   "items": [
     {
@@ -1157,26 +1157,24 @@
       ]
     },
     {
-      "id": "ce3ef44e96b449ff",
-      "title": "いらっしゃいませ！すべて順調です…ACIP の定足数がまだないことを除けば：米国のワクチン政策の現状 - CIDRAP",
-      "summary": "いらっしゃいませ！すべて順調です…ACIP の定足数がまだないことを除けば: 米国のワクチン政策の現状 CIDRAP",
-      "summary_ai": "すべて順調です…ACIP の定足数がまだないことを除けば: 米国のワクチン政策の現状 CIDRAP",
-      "title_original": "Welcome! Everything is fine…except there is still no ACIP quorum: The State of US Vaccine Policy - CIDRAP",
-      "summary_original": "Welcome! Everything is fine…except there is still no ACIP quorum: The State of US Vaccine Policy CIDRAP",
-      "summary_ai_original": "Everything is fine…except there is still no ACIP quorum: The State of US Vaccine Policy CIDRAP",
+      "id": "c7de80994cb34667",
+      "title": "6 月 25 日: 米国のワクチン政策の現状 - CIDRAP",
+      "summary": "6 月 25 日: 米国のワクチン政策の現状 CIDRAP",
+      "summary_ai": "6 月 25 日: 米国のワクチン政策の現状 CIDRAP",
+      "title_original": "June 25: State of U.S. Vaccine Policy - CIDRAP",
+      "summary_original": "June 25: State of U.S. Vaccine Policy CIDRAP",
+      "summary_ai_original": "June 25: State of U.S. Vaccine Policy CIDRAP",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLURfQzRwZzB3YlJEVFk4VEMxZ0NCNEk3Q3BIR0lwVTlZYVIxbG9VVUptcVpmU1I0V3hCQlBEX1VEczU2c1kwZFJEaDBKY1FtY2J6cmVSX1d6TERiWjJPQk9mb3ZEY1BZcy1LWWlGam56NG1CMDE2dl9wQVo0YmxLQTMzV081YWJGdTV2ZnBlSnBSc19rZERDekwtWkU3Y0FyY21vYnBlNGNQa2QyVTVTQnIySm5vNnZOMkZiRWd0ZTM3dw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNW5yVGRqTmRlSkZQMGVTS0RJWEN0b2tXQkxYNjlxT2VOVmJJN0RQTnVoa0tOdV9FZE4tN3VvRldqdDg2YlI0T1BMaTA3eXlXV0pKQVJ0QTRuN2ptUGhiSnloWFJyLXA3N0VIbzZkMUdEd3JicGNCWXltRVE4SFE0MGpVVmZvdmt6NDUtQjZ6YjFQVDZPNExOb3pqQmduVWNzTUxId1o0QWhlUV9nSndkNm5R?oc=5",
       "source": "CIDRAP Vaccines & Immunization",
       "source_type": "media",
       "source_tier": "Tier 2",
       "source_priority": 8,
-      "published_at": "2026-06-25T18:21:37+00:00",
+      "published_at": "2026-06-25T21:27:07+00:00",
       "topics": [
         "policy"
       ],
-      "policy_tags": [
-        "recommendation"
-      ],
+      "policy_tags": [],
       "vaccines": [],
       "variants": [],
       "target_country": "不明",
@@ -1615,10 +1613,9 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicate_sources": [
-        "JAMA Network Open vaccines",
-        "JAMA Network vaccines"
+        "JAMA Network Open vaccines"
       ]
     },
     {
@@ -1761,73 +1758,6 @@
       ]
     },
     {
-      "id": "35c8300589067fa8",
-      "title": "CDC長官は新型コロナウイルスワクチンの研究を阻止した。今では一流の医学雑誌に掲載されています。 - ワシントン・ポスト紙",
-      "summary": "CDC長官は新型コロナウイルスワクチンの研究を阻止した。今では一流の医学雑誌に掲載されています。ワシントン・ポスト",
-      "summary_ai": "CDC長官は新型コロナウイルスワクチンの研究を阻止した。今では一流の医学雑誌に掲載されています。",
-      "title_original": "CDC’s chief blocked a covid vaccine study. Now it’s in a top medical journal. - The Washington Post",
-      "summary_original": "CDC’s chief blocked a covid vaccine study. Now it’s in a top medical journal. The Washington Post",
-      "summary_ai_original": "CDC’s chief blocked a covid vaccine study. Now it’s in a top medical journal.",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUktjazNVV05CNmMzMmhWejNNVFdVeUNsd1R4bWNWWFhFaGFJQ3UzMDdHTDJVeFN4WXpWVjdCZ2pXeHZsak0taV9LUUZUNkk4S2R6MTc5U1dWNTF2SUs4YzB2WlNzWUw2c2dMc0hwM081SlFLYThORTlJc3JQT1B0NU1pcWk0Z2ZMZXZuYjZYV1NEd25Fakx1bUVhRUJwMHlGS2Y1aFdqTzAtc1JwaG1nRkkzazUybFU?oc=5",
-      "source": "Washington Post Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-06-23T07:00:00+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "covid"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "Washington Post"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "Washington Post"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Washington Post Vaccines / Immunization"
-      ]
-    },
-    {
       "id": "ead569d59ad3739a",
       "title": "2 つの不活化日本脳炎ワクチンの交換可能な予防接種スケジュールの免疫原性と安全性: 多中心、第 IV 相、非盲検、ランダム化対照試験 - SSRN eLibrary",
       "summary": "2 つの不活化日本脳炎ワクチンの交換可能な予防接種スケジュールの免疫原性と安全性: 多中心、第 IV 相、非盲検、ランダム化比較試験 SSRN eLibrary",
@@ -1897,35 +1827,34 @@
       ]
     },
     {
-      "id": "a80ab234b2ab4202",
-      "title": "エチオピアのアムハラ、オロミア、ソマリア地域における小児予防接種の障壁とそれを可能にする要因：多視点の質的研究",
-      "summary": "エチオピアのアムハラ、オロミア、ソマリア地域における小児予防接種の障壁とそれを可能にする要因：多視点の質的研究",
-      "summary_ai": "エチオピアのアムハラ、オロミア、ソマリア地域における小児予防接種の障壁とそれを可能にする要因：多視点の質的研究",
-      "title_original": "Barriers to and enablers of childhood immunization uptake in Ethiopia’s Amhara, Oromia, and Somali Regions: A multi-perspective qualitative study",
-      "summary_original": "Barriers to and enablers of childhood immunization uptake in Ethiopia’s Amhara, Oromia, and Somali Regions: A multi-perspective qualitative study",
-      "summary_ai_original": "Barriers to and enablers of childhood immunization uptake in Ethiopia’s Amhara, Oromia, and Somali Regions: A multi-perspective qualitative study",
+      "id": "befb45c33da59a3e",
+      "title": "P-1428。米国の65～74歳、75～84歳、85歳以上の成人における20価肺炎球菌複合体ワクチンの現リアルワールドの有効性 - オックスフォード・アカデミック",
+      "summary": "P-1428。米国における65～74歳、75～84歳、85歳以上の成人における20価肺炎球菌複合体ワクチンの現リアルワールドの有効性 オックスフォード・アカデミック",
+      "summary_ai": "米国における65～74歳、75～84歳、85歳以上の成人における20価肺炎球菌複合体ワクチンの現リアルワールドの有効性 オックスフォード・アカデミック",
+      "title_original": "P-1428. Real-World Effectiveness of 20-Valent Pneumococcal Conjugate Vaccine among Adults 65-74, 75-84, and ≥85 Years of Age in the United States - Oxford Academic",
+      "summary_original": "P-1428. Real-World Effectiveness of 20-Valent Pneumococcal Conjugate Vaccine among Adults 65-74, 75-84, and ≥85 Years of Age in the United States Oxford Academic",
+      "summary_ai_original": "Real-World Effectiveness of 20-Valent Pneumococcal Conjugate Vaccine among Adults 65-74, 75-84, and ≥85 Years of Age in the United States Oxford Academic",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeG9JUUIzZ0tJRlo3d2JaVjZPckREZGRGdEJFd3VKUEpzQ3hJaTJVVHJRUXp2alVoNWcxd1U4RFBpT0w1d3gzb2xxRnhxa3RaLUQwYnZTaHMydHdmeHNEX3Vta3Rjb093LW81d0MxYkhZQlJvdXltcGJNZklUdXFkV1NwZnk2alBhNEpNSw?oc=5",
-      "source": "PLOS journals vaccines",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRkdwa3lKOXJlRnVCOHRLenpJVmtSeFc0dkZtV0ZIaHZpSGtCVVpjUzZ2YTQ4Z1VvTkNsN0loWU5LbTViZi1xV3hIUS1kTkhNNVYxMllYZXg5YmVJbm1aWXZnNHdjbXE0UUI2T2tfSmUwM0g2U0FUM1VnbVdNamR2RXVRcU95Tm1yLUJySg?oc=5",
+      "source": "Open Forum Infectious Diseases",
       "source_type": "academic",
       "source_tier": "Tier 3",
       "source_priority": 7,
-      "published_at": "2026-06-20T18:38:35+00:00",
+      "published_at": "2026-06-21T13:22:39+00:00",
       "topics": [
-        "communication",
         "research"
       ],
       "policy_tags": [],
       "vaccines": [],
       "variants": [],
-      "target_country": "エチオピア",
+      "target_country": "米国",
       "source_location": {
         "key": "united states",
         "name_ja": "米国",
         "lat": 38.9072,
         "lng": -77.0369,
         "region": "North America",
-        "label": "PLOS"
+        "label": "Open Forum Infectious Diseases"
       },
       "plot": {
         "source": {
@@ -1934,32 +1863,32 @@
           "lat": 38.9072,
           "lng": -77.0369,
           "region": "North America",
-          "label": "PLOS"
+          "label": "Open Forum Infectious Diseases"
         },
         "target": {
-          "key": "ethiopia",
-          "name_ja": "エチオピア",
-          "lat": 8.9806,
-          "lng": 38.7578,
-          "region": "Africa",
-          "label": "エチオピア"
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "米国"
         }
       },
       "location": {
-        "key": "ethiopia",
-        "name_ja": "エチオピア",
-        "lat": 8.9806,
-        "lng": 38.7578,
-        "region": "Africa",
-        "label": "エチオピア"
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "米国"
       },
-      "region": "Africa",
-      "country": "エチオピア",
-      "lat": 8.9806,
-      "lng": 38.7578,
+      "region": "North America",
+      "country": "米国",
+      "lat": 38.9072,
+      "lng": -77.0369,
       "duplicate_count": 1,
       "duplicate_sources": [
-        "PLOS journals vaccines"
+        "Open Forum Infectious Diseases"
       ]
     }
   ]
