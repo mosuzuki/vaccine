@@ -1,8 +1,8 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-07-04T22:07:58.156592+00:00",
-  "archive_count": 350,
+  "generated_at": "2026-07-05T22:10:53.749658+00:00",
+  "archive_count": 354,
   "days_back": 14,
   "items": [
     {
@@ -72,7 +72,7 @@
         "Nature News Vaccines / Immunization"
       ],
       "first_seen_at": "2026-07-03T14:15:15+00:00",
-      "last_seen_at": "2026-07-04T22:09:09.484127+00:00"
+      "last_seen_at": "2026-07-05T22:12:13.932878+00:00"
     },
     {
       "id": "2a687313ca53e480",
@@ -142,7 +142,7 @@
         "Journal of Travel Medicine vaccines"
       ],
       "first_seen_at": "2026-07-03T02:53:49+00:00",
-      "last_seen_at": "2026-07-04T22:09:09.484141+00:00"
+      "last_seen_at": "2026-07-05T22:12:13.932892+00:00"
     },
     {
       "id": "9c560166a39756d7",
@@ -214,7 +214,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-05-30T13:54:14+00:00",
-      "last_seen_at": "2026-07-04T22:09:09.484147+00:00"
+      "last_seen_at": "2026-07-05T22:12:13.932898+00:00"
     },
     {
       "id": "132260f2e57f1b60",
@@ -283,7 +283,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-07-02T14:10:14+00:00",
-      "last_seen_at": "2026-07-04T22:09:09.484152+00:00"
+      "last_seen_at": "2026-07-05T22:12:13.932905+00:00"
     },
     {
       "id": "46dfc5be3cc732a2",
@@ -355,7 +355,7 @@
         "MHRA"
       ],
       "first_seen_at": "2026-07-02T13:54:37+00:00",
-      "last_seen_at": "2026-07-04T22:09:09.484157+00:00"
+      "last_seen_at": "2026-07-05T22:12:13.932911+00:00"
     },
     {
       "id": "77e0cf7fdff75078",
@@ -428,7 +428,78 @@
         "PAHO News"
       ],
       "first_seen_at": "2026-07-01T15:24:33+00:00",
-      "last_seen_at": "2026-07-04T22:09:09.484162+00:00"
+      "last_seen_at": "2026-07-05T22:12:13.932916+00:00"
+    },
+    {
+      "id": "11c11b93d2355dd2",
+      "title": "ブラジルの健康な成人を対象とした弱毒化四価デング熱生ワクチン V181 の安全性と免疫原性をブタンタン DV と比較: 無作為化二重盲検第 2 相試験 - オックスフォード・アカデミック",
+      "summary": "ブラジルの健康な成人における弱毒生四価デング熱ワクチン V181 の安全性と免疫原性をブタンタン DV と比較: ランダム化二重盲検第 2 相試験 Oxford Academic",
+      "summary_ai": "ブラジルの健康な成人における弱毒生四価デング熱ワクチン V181 の安全性と免疫原性をブタンタン DV と比較: ランダム化二重盲検第 2 相試験 Oxford Academic",
+      "title_original": "Safety and Immunogenicity of the Live-Attenuated Quadrivalent Dengue Vaccine V181 Compared With Butantan-DV Among Healthy Adults in Brazil: A Randomized, Double-Blind, Phase 2 Trial - Oxford Academic",
+      "summary_original": "Safety and Immunogenicity of the Live-Attenuated Quadrivalent Dengue Vaccine V181 Compared With Butantan-DV Among Healthy Adults in Brazil: A Randomized, Double-Blind, Phase 2 Trial Oxford Academic",
+      "summary_ai_original": "Safety and Immunogenicity of the Live-Attenuated Quadrivalent Dengue Vaccine V181 Compared With Butantan-DV Among Healthy Adults in Brazil: A Randomized, Double-Blind, Phase 2 Trial Oxford Academic",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQY1pRUXNsQ09oUEtYdlF2aHJza3N0TmV5bm92LTZVNGlLckF3SzRMX0E4UzNqRTAzS2lvU0hwa3hkMUdaNXdHVm1BOFJobUlBc19QTFNER1RFVHJxRmpJaUlraGpQR0p3MGxBVkl2VlZlV0ZpQ0JxOHZ2bWJYSkFJZWFB?oc=5",
+      "source": "Clinical Infectious Diseases",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-07-01T14:46:25+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [
+        "safety"
+      ],
+      "vaccines": [
+        "dengue"
+      ],
+      "variants": [],
+      "target_country": "ブラジル",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "Clinical Infectious Diseases"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "Clinical Infectious Diseases"
+        },
+        "target": {
+          "key": "brazil",
+          "name_ja": "ブラジル",
+          "lat": -15.7939,
+          "lng": -47.8828,
+          "region": "South America",
+          "label": "ブラジル"
+        }
+      },
+      "location": {
+        "key": "brazil",
+        "name_ja": "ブラジル",
+        "lat": -15.7939,
+        "lng": -47.8828,
+        "region": "South America",
+        "label": "ブラジル"
+      },
+      "region": "South America",
+      "country": "ブラジル",
+      "lat": -15.7939,
+      "lng": -47.8828,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Clinical Infectious Diseases"
+      ],
+      "first_seen_at": "2026-07-01T14:46:25+00:00",
+      "last_seen_at": "2026-07-05T22:12:13.932918+00:00"
     },
     {
       "id": "cff6cdddffe21d9e",
@@ -495,7 +566,146 @@
         "Nature News Vaccines / Immunization"
       ],
       "first_seen_at": "2026-07-01T10:12:01+00:00",
-      "last_seen_at": "2026-07-04T22:09:09.484167+00:00"
+      "last_seen_at": "2026-07-05T22:12:13.932926+00:00"
+    },
+    {
+      "id": "fe2a0a0bea7a16bb",
+      "title": "1929. シアトルの 6 か所のホームレス保護施設における新型コロナウイルス感染症予防接種の意図と住民および職員の接種率を高めるための推奨事項の定性分析 - オックスフォード・アカデミック",
+      "summary": "1929年。シアトルのホームレス保護施設6か所における新型コロナウイルス感染症予防接種の意図と住民と職員の接種率を高めるための推奨事項の定性分析 オックスフォード大学",
+      "summary_ai": "シアトルのホームレス保護施設6か所における新型コロナウイルス感染症予防接種の意図と住民と職員の接種率を高めるための推奨事項の定性的分析 オックスフォード・アカデミック",
+      "title_original": "1929. A Qualitative Analysis of COVID-19 Vaccination Intent and Recommendations to Increase Uptake Among Residents and Staff in Six Seattle Homeless Shelters - Oxford Academic",
+      "summary_original": "1929. A Qualitative Analysis of COVID-19 Vaccination Intent and Recommendations to Increase Uptake Among Residents and Staff in Six Seattle Homeless Shelters Oxford Academic",
+      "summary_ai_original": "A Qualitative Analysis of COVID-19 Vaccination Intent and Recommendations to Increase Uptake Among Residents and Staff in Six Seattle Homeless Shelters Oxford Academic",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQV25QaXBnaEgzNElnZ1NreUZmbkYtd1pmbWVsMlBKbEZmRzRwWExrOTh2cGJ5MDhwTEF6X1NINHRWUjRZT2xJWEFqOWJJLWZzRVlYRFJPa3pPQ19OTmJuY2hiTXQydEFSb1RWU2tzVmxuWGJkQ0xJZ0NiZS1FbE1ZVDlYV01CZEVwOE1NSg?oc=5",
+      "source": "Open Forum Infectious Diseases",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-07-01T08:02:12+00:00",
+      "topics": [
+        "communication",
+        "policy"
+      ],
+      "policy_tags": [
+        "recommendation"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "Open Forum Infectious Diseases"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "Open Forum Infectious Diseases"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Open Forum Infectious Diseases"
+      ],
+      "first_seen_at": "2026-07-01T08:02:12+00:00",
+      "last_seen_at": "2026-07-05T22:12:13.932929+00:00"
+    },
+    {
+      "id": "e87a450503c01a93",
+      "title": "商業慣行を代表する予防接種スケジュールを使用した、採卵鶏の糞便微生物叢におけるワクチンに関連した変化の縦断的分析 - bioRxiv",
+      "summary": "商行為bioRxivを代表する予防接種スケジュールを使用した、採卵鶏の糞便微生物叢におけるワクチンに関連した変化の縦断的分析",
+      "summary_ai": "商行為bioRxivを代表する予防接種スケジュールを使用した、採卵鶏の糞便微生物叢におけるワクチンに関連した変化の縦断的分析",
+      "title_original": "Longitudinal analysis of vaccine-associated alterations in the faecal microbiota of layer chickens using a vaccination schedule representative of commercial practice - bioRxiv",
+      "summary_original": "Longitudinal analysis of vaccine-associated alterations in the faecal microbiota of layer chickens using a vaccination schedule representative of commercial practice bioRxiv",
+      "summary_ai_original": "Longitudinal analysis of vaccine-associated alterations in the faecal microbiota of layer chickens using a vaccination schedule representative of commercial practice bioRxiv",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NbXpLZVlyeFFyWWtaaS1RNnFiZkFKTFdZOEM5a1d5TW1SNWx0TmMtNEhpM0tNanJWVlU5ZEtFRWFZSUhyTlpqQzJzRTlvSGhHaF9LeWlhT1E4cVQ3WnZVZy1nVW55cVd4UEsyWA?oc=5",
+      "source": "bioRxiv vaccines",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-07-01T06:34:29+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [
+        "schedule"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "bioRxiv"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "bioRxiv"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "bioRxiv vaccines"
+      ],
+      "first_seen_at": "2026-07-01T06:34:29+00:00",
+      "last_seen_at": "2026-07-05T22:12:13.932932+00:00"
     },
     {
       "id": "a8f11fe2bc20834d",
@@ -562,7 +772,7 @@
         "Lancet Infectious Diseases"
       ],
       "first_seen_at": "2026-06-30T23:16:03+00:00",
-      "last_seen_at": "2026-07-04T22:09:09.484174+00:00"
+      "last_seen_at": "2026-07-05T22:12:13.932938+00:00"
     },
     {
       "id": "8a7903229c0a2c28",
@@ -631,7 +841,7 @@
         "Washington Post Vaccines / Immunization"
       ],
       "first_seen_at": "2026-06-30T18:30:00+00:00",
-      "last_seen_at": "2026-07-04T22:09:09.484179+00:00"
+      "last_seen_at": "2026-07-05T22:12:13.932943+00:00"
     },
     {
       "id": "7e055c2d97584dfd",
@@ -705,7 +915,76 @@
         "PAHO News"
       ],
       "first_seen_at": "2026-06-30T14:57:37+00:00",
-      "last_seen_at": "2026-07-04T22:09:09.484186+00:00"
+      "last_seen_at": "2026-07-05T22:12:13.932949+00:00"
+    },
+    {
+      "id": "5b17408700d37c74",
+      "title": "米国乳児における幼少期の腸内マイクロバイオーム組成とロタウイルスワクチン誘発性 IgA 反応：縦断的コホート研究",
+      "summary": "米国乳児における幼少期の腸内マイクロバイオーム組成とロタウイルスワクチン誘発性 IgA 反応：縦断的コホート研究",
+      "summary_ai": "米国乳児における幼少期の腸内マイクロバイオーム組成とロタウイルスワクチン誘発性 IgA 反応：縦断的コホート研究",
+      "title_original": "Early-life gut microbiome composition and rotavirus vaccine-induced IgA responses in U.S. infants: a longitudinal cohort study",
+      "summary_original": "Early-life gut microbiome composition and rotavirus vaccine-induced IgA responses in U.S. infants: a longitudinal cohort study",
+      "summary_ai_original": "Early-life gut microbiome composition and rotavirus vaccine-induced IgA responses in U.S. infants: a longitudinal cohort study",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVklpWkFDMG9tMzFIODJuR0lLSUlVdFFGT3oyR0xQejNVVmc4LVBRMjFxQ09NMkFOTklZekVjSnFwZnAwbXdNQWo5Qm1GMXlfV3hvNGZZSFBEUmE5NDdHSUgxQjN0ckI4MlhtTF90cEhiZHJuc2h4ZFdhY3JDZHh3azVuVnRmNXlxbnc?oc=5",
+      "source": "EBioMedicine vaccines",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-06-30T08:42:35+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "rotavirus"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "EBioMedicine"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "EBioMedicine"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "EBioMedicine vaccines"
+      ],
+      "first_seen_at": "2026-06-30T08:42:35+00:00",
+      "last_seen_at": "2026-07-05T22:12:13.932951+00:00"
     },
     {
       "id": "72d5fa93db048f1a",
@@ -979,7 +1258,7 @@
         "CIDRAP Vaccines & Immunization"
       ],
       "first_seen_at": "2026-06-25T21:27:07+00:00",
-      "last_seen_at": "2026-07-04T22:09:09.484189+00:00"
+      "last_seen_at": "2026-07-05T22:12:13.932956+00:00"
     },
     {
       "id": "ce3ef44e96b449ff",
@@ -1115,7 +1394,7 @@
         "CIDRAP Vaccines & Immunization"
       ],
       "first_seen_at": "2026-06-25T09:17:27+00:00",
-      "last_seen_at": "2026-07-04T22:09:09.484195+00:00"
+      "last_seen_at": "2026-07-05T22:12:13.932960+00:00"
     },
     {
       "id": "19fac615a23e74b8",
@@ -1182,7 +1461,7 @@
         "CIDRAP Vaccines & Immunization"
       ],
       "first_seen_at": "2026-06-25T20:12:36+00:00",
-      "last_seen_at": "2026-07-04T22:09:09.484200+00:00"
+      "last_seen_at": "2026-07-05T22:12:13.932964+00:00"
     },
     {
       "id": "d17f7fd5756f0bd5",
@@ -1252,7 +1531,7 @@
         "PAHO News"
       ],
       "first_seen_at": "2026-06-24T20:02:37+00:00",
-      "last_seen_at": "2026-07-04T22:09:09.484206+00:00"
+      "last_seen_at": "2026-07-05T22:12:13.932970+00:00"
     },
     {
       "id": "20870af6d8315ec8",
@@ -1458,7 +1737,7 @@
       "last_seen_at": "2026-07-02T22:17:35.036374+00:00"
     },
     {
-      "id": "0a89b9545133ba8f",
+      "id": "02ce1496f1c6e982",
       "title": "米国小児病院における入院患者への予防接種の障壁と促進要因：定性的研究 - AAP",
       "summary": "米国小児病院における入院患者への予防接種の障壁と促進要因: 定性的研究 AAP",
       "summary_ai": "米国小児病院における入院患者への予防接種の障壁と促進要因: 定性的研究 AAP",
@@ -1466,12 +1745,12 @@
       "summary_original": "Barriers and Facilitators of Inpatient Vaccine Delivery at US Children’s Hospitals: A Qualitative Study AAP",
       "summary_ai_original": "Barriers and Facilitators of Inpatient Vaccine Delivery at US Children’s Hospitals: A Qualitative Study AAP",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcmI0MF9yNm5ER2dibUtyV1NscTlrLVR5V3U5UjJpb2laUkRsMVY1ZWJmOGJMaFByNklzOHFwdmIzeG9YbEtTQWg5alBNblRDbEFkbFlMUEVBdUwtaGFZY2ozd2h0Y0wyN1RCelVyakFoR0ctUmpPTmFSenRhb2YwRWxvMEJGQjMwQmk3bmdERFpZVDVFXzZtNGZldDBXUEhUMURoREZmckVwdFh5cjFnUXJiTXZuV0ladHgzYnMtQU5xTEpnQkZzX1N1elNQWHVrLWJCTEpocFRyV2tKQXc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNUsxWXhoWEdsbGllWUVURkRTRG16eUxXZ2Zpa1NXa1VoTlZrWHJhTTVxNUs4SDVVOGUyZXNqUGdJYk5yd1BrX2JtUkd3SmVtOUtDbDhXOGlOTEdzS2pKTFdEblhQMGY5UjNaejh1bTFfMFlweVhRZlNyeDhuRHhGNks3MGJJdEtSOFFvUnp2Ny1naGJtZ3dleWFwYmUzZzRQYzNEc0pWbDd6T2hKajJiaGpfdFhPUENpcnFwRDFBb25Qdi1ObDZtTTB3?oc=5",
       "source": "Pediatrics journal",
       "source_type": "academic",
       "source_tier": "Tier 3",
       "source_priority": 7,
-      "published_at": "2026-06-24T05:48:03+00:00",
+      "published_at": "2026-06-24T07:00:00+00:00",
       "topics": [
         "research"
       ],
@@ -1521,8 +1800,8 @@
       "duplicate_sources": [
         "Pediatrics journal"
       ],
-      "first_seen_at": "2026-06-24T05:48:03+00:00",
-      "last_seen_at": "2026-07-01T22:39:58.061063+00:00"
+      "first_seen_at": "2026-06-24T07:00:00+00:00",
+      "last_seen_at": "2026-07-05T22:12:13.932972+00:00"
     },
     {
       "id": "af3f294e50a4314e",
@@ -1591,76 +1870,7 @@
         "SSRN vaccine preprints"
       ],
       "first_seen_at": "2026-06-23T21:52:59+00:00",
-      "last_seen_at": "2026-07-04T22:09:09.484214+00:00"
-    },
-    {
-      "id": "6ad1c6743595da93",
-      "title": "検査陰性デザインを使用した成人における2025～2026年の新型コロナウイルス感染症ワクチンの有効性の暫定推定値",
-      "summary": "検査陰性デザインを使用した成人における2025～2026年の新型コロナウイルス感染症ワクチンの有効性の暫定推定値",
-      "summary_ai": "検査陰性デザインを使用した成人における2025～2026年の新型コロナウイルス感染症ワクチンの有効性の暫定推定値",
-      "title_original": "Interim Estimated Effectiveness of 2025-2026 COVID-19 Vaccines in Adults Using a Test-Negative Design",
-      "summary_original": "Interim Estimated Effectiveness of 2025-2026 COVID-19 Vaccines in Adults Using a Test-Negative Design",
-      "summary_ai_original": "Interim Estimated Effectiveness of 2025-2026 COVID-19 Vaccines in Adults Using a Test-Negative Design",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9GY1ZBVTctN3NGS3NockczWWNEY2k5bGs0TklFQm9veHZmU0lmcV9wM2ppYXJMMVdsVW54d3hBU3ZHUFZNX0dncTJHcDJ1ZjdTWElEZHhtRGdjNmhiY2tINFU0ZTMyOTN5Zld2dy1IemYtVUZjaFdR?oc=5",
-      "source": "JAMA Network Open vaccines",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 9,
-      "published_at": "2026-06-23T15:37:50+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "covid"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "JAMA Network Open"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "JAMA Network Open"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "JAMA Network Open vaccines"
-      ],
-      "first_seen_at": "2026-06-23T15:37:50+00:00",
-      "last_seen_at": "2026-07-04T22:09:09.484219+00:00"
+      "last_seen_at": "2026-07-05T22:12:13.932977+00:00"
     },
     {
       "id": "82dcea3e3f61f008",
@@ -1734,7 +1944,76 @@
         "PAHO News"
       ],
       "first_seen_at": "2026-06-23T13:16:38+00:00",
-      "last_seen_at": "2026-07-04T22:09:09.484224+00:00"
+      "last_seen_at": "2026-07-05T22:12:13.932981+00:00"
+    },
+    {
+      "id": "6ad1c6743595da93",
+      "title": "検査陰性デザインを使用した成人における2025～2026年の新型コロナウイルス感染症ワクチンの有効性の暫定推定値",
+      "summary": "検査陰性デザインを使用した成人における2025～2026年の新型コロナウイルス感染症ワクチンの有効性の暫定推定値",
+      "summary_ai": "検査陰性デザインを使用した成人における2025～2026年の新型コロナウイルス感染症ワクチンの有効性の暫定推定値",
+      "title_original": "Interim Estimated Effectiveness of 2025-2026 COVID-19 Vaccines in Adults Using a Test-Negative Design",
+      "summary_original": "Interim Estimated Effectiveness of 2025-2026 COVID-19 Vaccines in Adults Using a Test-Negative Design",
+      "summary_ai_original": "Interim Estimated Effectiveness of 2025-2026 COVID-19 Vaccines in Adults Using a Test-Negative Design",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9GY1ZBVTctN3NGS3NockczWWNEY2k5bGs0TklFQm9veHZmU0lmcV9wM2ppYXJMMVdsVW54d3hBU3ZHUFZNX0dncTJHcDJ1ZjdTWElEZHhtRGdjNmhiY2tINFU0ZTMyOTN5Zld2dy1IemYtVUZjaFdR?oc=5",
+      "source": "JAMA Network Open vaccines",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 9,
+      "published_at": "2026-06-23T07:00:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "covid"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "JAMA Network Open"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "JAMA Network Open"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "JAMA Network Open vaccines"
+      ],
+      "first_seen_at": "2026-06-23T15:37:50+00:00",
+      "last_seen_at": "2026-07-05T22:12:13.932986+00:00"
     },
     {
       "id": "390faec6ec4cf7fb",
@@ -2014,7 +2293,7 @@
         "SSRN vaccine preprints"
       ],
       "first_seen_at": "2026-06-23T07:00:00+00:00",
-      "last_seen_at": "2026-07-04T22:09:09.484234+00:00"
+      "last_seen_at": "2026-07-05T22:12:13.932991+00:00"
     },
     {
       "id": "f1660bb833350a70",
