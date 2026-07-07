@@ -1,9 +1,9 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-07-06T22:22:38.814035+00:00",
-  "item_count": 21,
-  "archive_count": 355,
+  "generated_at": "2026-07-07T22:20:12.265963+00:00",
+  "item_count": 19,
+  "archive_count": 356,
   "days_back": 14,
   "plot_mode_default": "source",
   "feed_status": [
@@ -23,7 +23,7 @@
       "name": "CDC Newsroom",
       "url": "https://tools.cdc.gov/api/v2/resources/media/316422.rss",
       "status": "ok",
-      "seen": 10,
+      "seen": 11,
       "kept": 0
     },
     {
@@ -81,14 +81,14 @@
       "name": "PAHO News",
       "url": "https://www.paho.org/en/rss.xml",
       "status": "ok",
-      "seen": 7,
-      "kept": 4
+      "seen": 6,
+      "kept": 3
     },
     {
       "name": "The Lancet series",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Athelancet.com%20(trial%20OR%20policy%20OR%20effectiveness%20OR%20safety)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 2,
       "kept": 0
     },
     {
@@ -137,14 +137,14 @@
       "name": "Nature Communications vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fncomms%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20surveillance)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 5,
       "kept": 0
     },
     {
       "name": "Nature Microbiology vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fnmicrobiol%20(effectiveness%20OR%20safety%20OR%20immunogenicity%20OR%20variant%20OR%20pathogen)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
@@ -165,7 +165,7 @@
       "name": "Science vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ascience.org%2Fdoi%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20antibody)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 4,
+      "seen": 3,
       "kept": 0
     },
     {
@@ -193,21 +193,21 @@
       "name": "JAMA vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjama%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 1,
       "kept": 0
     },
     {
       "name": "JAMA Network Open vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjamanetworkopen%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
-      "kept": 1
+      "seen": 0,
+      "kept": 0
     },
     {
       "name": "JAMA Internal Medicine vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjamainternalmedicine%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 2,
       "kept": 0
     },
     {
@@ -235,35 +235,35 @@
       "name": "bioRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abiorxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 2,
       "kept": 0
     },
     {
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 14,
-      "kept": 3
+      "seen": 20,
+      "kept": 4
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 13,
+      "seen": 8,
       "kept": 0
     },
     {
       "name": "AP Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 2,
       "kept": 0
     },
     {
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 18,
+      "seen": 12,
       "kept": 0
     },
     {
@@ -277,42 +277,42 @@
       "name": "STAT Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 6,
+      "seen": 7,
       "kept": 0
     },
     {
       "name": "Nature News Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 18,
+      "seen": 16,
       "kept": 2
     },
     {
       "name": "Science Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Ascience.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 6,
+      "seen": 7,
       "kept": 0
     },
     {
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 4,
+      "seen": 10,
       "kept": 0
     },
     {
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 11,
+      "seen": 9,
       "kept": 0
     },
     {
       "name": "Washington Post Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 14,
+      "seen": 13,
       "kept": 1
     },
     {
@@ -326,28 +326,28 @@
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 17,
+      "seen": 21,
       "kept": 0
     },
     {
       "name": "朝日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Aasahi.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 1,
+      "seen": 2,
       "kept": 0
     },
     {
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 10,
+      "seen": 16,
       "kept": 1
     },
     {
       "name": "毎日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 8,
+      "seen": 7,
       "kept": 0
     },
     {
@@ -368,7 +368,7 @@
       "name": "Clinical Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fcid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
@@ -445,7 +445,7 @@
       "name": "Cochrane vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Acochranelibrary.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 3,
       "kept": 0
     },
     {
@@ -459,21 +459,86 @@
       "name": "SSRN vaccine preprints",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Apapers.ssrn.com%20(effectiveness%20OR%20safety%20OR%20policy%20OR%20trial)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
-      "kept": 1
+      "seen": 0,
+      "kept": 0
     }
   ],
   "weekly_ai_summary": {
-    "generated_at": "2026-07-06T22:22:38.814035+00:00",
+    "generated_at": "2026-07-07T22:20:12.265963+00:00",
     "period_days": 7,
-    "policy_count": 5,
-    "academic_count": 6,
+    "policy_count": 3,
+    "academic_count": 5,
     "status": "ok",
     "model": "gpt-4o-mini",
-    "policy_summary": "新型コロナウイルス感染症（COVID-19）に対するワクチン開発の迅速な進展が、規制の役割を再評価する契機となっています。また、ベネズエラでは地震後の健康リスクに対処するため、PAHOが支援を拡大しています。",
-    "academic_summary": "米国における小児死亡に対するインフルエンザワクチンの有効性に関する研究が発表されました。さらに、異種ワクチン接種スケジュールの有効性や、ロタウイルスワクチンに関連する研究も進行中です。"
+    "policy_summary": "英国では、COVID-19パンデミックを通じて、規制がライフサイエンスの進展を促進する役割を果たすことが示されました。高齢者が肺炎による死亡者の97.8%を占める中、予防接種スケジュールの見直しが求められています。",
+    "academic_summary": "米国におけるインフルエンザワクチンの小児死亡に対する有効性に関する研究が発表されました。また、Covid-19ワクチン研究の結果が米国CDCによって公開され、異種接種スケジュールの有効性も比較されています。"
   },
   "items": [
+    {
+      "id": "0b56b223d6f66a91",
+      "title": "赤癬ワクチンは第2相試験で有望性を示す - CIDRAP",
+      "summary": "赤癬ワクチンは第2相試験CIDRAPで有望性を示す",
+      "summary_ai": "赤癬ワクチンは第2相試験CIDRAPで有望性を示す",
+      "title_original": "Shigella vaccine shows promise in phase 2 trial - CIDRAP",
+      "summary_original": "Shigella vaccine shows promise in phase 2 trial CIDRAP",
+      "summary_ai_original": "Shigella vaccine shows promise in phase 2 trial CIDRAP",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdUlIVlJyb0ZRUkN5bV9ZbUhhbzdjV3NwN2ZrekpYLWx5OV9vaGVuaFhQMlAwZGpyQWMtUHFUV2FzeXJFcUtLVGtUaWxhbU9ETFFzSVpMRnYzYjRCSTF0aFpPeE1EN0ZIWU9fakE2TXowNzBZMGZyb3RaUUg1QWRyTnRjR0N0aHc?oc=5",
+      "source": "CIDRAP Vaccines & Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 8,
+      "published_at": "2026-07-07T14:42:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "CIDRAP / Minnesota"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "CIDRAP / Minnesota"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "CIDRAP Vaccines & Immunization"
+      ]
+    },
     {
       "id": "dca971c52d2b794c",
       "title": "米国における小児死亡に対するインフルエンザワクチンの有効性：2016～2025年 - AAP",
@@ -677,76 +742,6 @@
       ]
     },
     {
-      "id": "9c560166a39756d7",
-      "title": "ノーミクロン優勢時の重篤な covid-19 に対する異種 3 回目の接種スケジュールの有効性の比較 -",
-      "summary": "ノーザでのオミクロン優勢時の重篤な covid-19 に対する異種 3 回目の接種スケジュールの有効性の比較",
-      "summary_ai": "ノーザでのオミクロン優勢時の重篤な covid-19 に対する異種 3 回目の接種スケジュールの有効性の比較",
-      "title_original": "Comparative effectiveness of heterologous third dose vaccine schedules against severe covid-19 during omicron predominance in No - The",
-      "summary_original": "Comparative effectiveness of heterologous third dose vaccine schedules against severe covid-19 during omicron predominance in No The",
-      "summary_ai_original": "Comparative effectiveness of heterologous third dose vaccine schedules against severe covid-19 during omicron predominance in No The",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XMlUyRHlxQXRaUnFGNjhNcGJqNFVMNlBaQlo2bzNoMHhTSzNsS0dFMVJFamxSOHIyaFJGaE5IVmFYaXNudFo5WFlsSHVYbm9SVDRQUGVHNWJ1aXFrQkJUejdNYzNtVVhuZ191NQ?oc=5",
-      "source": "BMJ",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-07-02T23:48:58+00:00",
-      "topics": [
-        "policy",
-        "research"
-      ],
-      "policy_tags": [
-        "schedule"
-      ],
-      "vaccines": [],
-      "variants": [
-        "omicron"
-      ],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BMJ / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BMJ / London"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "BMJ"
-      ]
-    },
-    {
       "id": "132260f2e57f1b60",
       "title": "米国CDCによって中止されたCovid-19ワクチン研究がついに発表 -",
       "summary": "米国CDCが推進したCovid-19ワクチン研究がついに発表",
@@ -881,6 +876,76 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "MHRA"
+      ]
+    },
+    {
+      "id": "9c560166a39756d7",
+      "title": "ノーミクロン優勢時の重篤な covid-19 に対する異種 3 回目の接種スケジュールの有効性の比較 -",
+      "summary": "ノーザでのオミクロン優勢時の重篤な covid-19 に対する異種 3 回目の接種スケジュールの有効性の比較",
+      "summary_ai": "ノーザでのオミクロン優勢時の重篤な covid-19 に対する異種 3 回目の接種スケジュールの有効性の比較",
+      "title_original": "Comparative effectiveness of heterologous third dose vaccine schedules against severe covid-19 during omicron predominance in No - The",
+      "summary_original": "Comparative effectiveness of heterologous third dose vaccine schedules against severe covid-19 during omicron predominance in No The",
+      "summary_ai_original": "Comparative effectiveness of heterologous third dose vaccine schedules against severe covid-19 during omicron predominance in No The",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XMlUyRHlxQXRaUnFGNjhNcGJqNFVMNlBaQlo2bzNoMHhTSzNsS0dFMVJFamxSOHIyaFJGaE5IVmFYaXNudFo5WFlsSHVYbm9SVDRQUGVHNWJ1aXFrQkJUejdNYzNtVVhuZ191NQ?oc=5",
+      "source": "BMJ",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-07-02T07:00:00+00:00",
+      "topics": [
+        "policy",
+        "research"
+      ],
+      "policy_tags": [
+        "schedule"
+      ],
+      "vaccines": [],
+      "variants": [
+        "omicron"
+      ],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BMJ / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BMJ / London"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "BMJ"
       ]
     },
     {
@@ -1358,24 +1423,26 @@
       ]
     },
     {
-      "id": "c7de80994cb34667",
-      "title": "6 月 25 日: 米国のワクチン政策の現状 - CIDRAP",
-      "summary": "6 月 25 日: 米国のワクチン政策の現状 CIDRAP",
-      "summary_ai": "6 月 25 日: 米国のワクチン政策の現状 CIDRAP",
-      "title_original": "June 25: State of U.S. Vaccine Policy - CIDRAP",
-      "summary_original": "June 25: State of U.S. Vaccine Policy CIDRAP",
-      "summary_ai_original": "June 25: State of U.S. Vaccine Policy CIDRAP",
+      "id": "ce3ef44e96b449ff",
+      "title": "いらっしゃいませ！すべて順調です…ACIP の定足数がまだないことを除けば：米国のワクチン政策の現状 - CIDRAP",
+      "summary": "いらっしゃいませ！すべて順調です…ACIP の定足数がまだないことを除けば: 米国のワクチン政策の現状 CIDRAP",
+      "summary_ai": "すべて順調です…ACIP の定足数がまだないことを除けば: 米国のワクチン政策の現状 CIDRAP",
+      "title_original": "Welcome! Everything is fine…except there is still no ACIP quorum: The State of US Vaccine Policy - CIDRAP",
+      "summary_original": "Welcome! Everything is fine…except there is still no ACIP quorum: The State of US Vaccine Policy CIDRAP",
+      "summary_ai_original": "Everything is fine…except there is still no ACIP quorum: The State of US Vaccine Policy CIDRAP",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNW5yVGRqTmRlSkZQMGVTS0RJWEN0b2tXQkxYNjlxT2VOVmJJN0RQTnVoa0tOdV9FZE4tN3VvRldqdDg2YlI0T1BMaTA3eXlXV0pKQVJ0QTRuN2ptUGhiSnloWFJyLXA3N0VIbzZkMUdEd3JicGNCWXltRVE4SFE0MGpVVmZvdmt6NDUtQjZ6YjFQVDZPNExOb3pqQmduVWNzTUxId1o0QWhlUV9nSndkNm5R?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLURfQzRwZzB3YlJEVFk4VEMxZ0NCNEk3Q3BIR0lwVTlZYVIxbG9VVUptcVpmU1I0V3hCQlBEX1VEczU2c1kwZFJEaDBKY1FtY2J6cmVSX1d6TERiWjJPQk9mb3ZEY1BZcy1LWWlGam56NG1CMDE2dl9wQVo0YmxLQTMzV081YWJGdTV2ZnBlSnBSc19rZERDekwtWkU3Y0FyY21vYnBlNGNQa2QyVTVTQnIySm5vNnZOMkZiRWd0ZTM3dw?oc=5",
       "source": "CIDRAP Vaccines & Immunization",
       "source_type": "media",
       "source_tier": "Tier 2",
       "source_priority": 8,
-      "published_at": "2026-06-25T21:27:07+00:00",
+      "published_at": "2026-06-25T18:21:37+00:00",
       "topics": [
         "policy"
       ],
-      "policy_tags": [],
+      "policy_tags": [
+        "recommendation"
+      ],
       "vaccines": [],
       "variants": [],
       "target_country": "不明",
@@ -1683,214 +1750,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "Pediatrics journal"
-      ]
-    },
-    {
-      "id": "6ad1c6743595da93",
-      "title": "検査陰性デザインを使用した成人における2025～2026年の新型コロナウイルス感染症ワクチンの有効性の暫定推定値",
-      "summary": "検査陰性デザインを使用した成人における2025～2026年の新型コロナウイルス感染症ワクチンの有効性の暫定推定値",
-      "summary_ai": "検査陰性デザインを使用した成人における2025～2026年の新型コロナウイルス感染症ワクチンの有効性の暫定推定値",
-      "title_original": "Interim Estimated Effectiveness of 2025-2026 COVID-19 Vaccines in Adults Using a Test-Negative Design",
-      "summary_original": "Interim Estimated Effectiveness of 2025-2026 COVID-19 Vaccines in Adults Using a Test-Negative Design",
-      "summary_ai_original": "Interim Estimated Effectiveness of 2025-2026 COVID-19 Vaccines in Adults Using a Test-Negative Design",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9GY1ZBVTctN3NGS3NockczWWNEY2k5bGs0TklFQm9veHZmU0lmcV9wM2ppYXJMMVdsVW54d3hBU3ZHUFZNX0dncTJHcDJ1ZjdTWElEZHhtRGdjNmhiY2tINFU0ZTMyOTN5Zld2dy1IemYtVUZjaFdR?oc=5",
-      "source": "JAMA Network Open vaccines",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 9,
-      "published_at": "2026-06-23T15:37:50+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "covid"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "JAMA Network Open"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "JAMA Network Open"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "JAMA Network Open vaccines"
-      ]
-    },
-    {
-      "id": "82dcea3e3f61f008",
-      "title": "ワクチンの誤った情報を特定し、それに対抗する方法: ジャーナリストとコンテンツ作成者向けの PAHO ガイダンス",
-      "summary": "ワクチンの誤った情報を特定し、それに対抗する方法: ジャーナリストとコンテンツ作成者向けの PAHO ガイダンス クリスティーナ・ミッチェル 2026 年 6 月 23 日",
-      "summary_ai": "これに対処するために、汎米保健機関 (PAHO)はジャーナリストやコンテンツ作成者向けのガイダンスを発行し、視聴者が誤った情報を特定するのに役立つ実用的なツールを提供しました。コンテンツ作成者への推奨事項 コンテンツ作成者向けのガイダンスでは、誤った情報は拡散するように設計されていることが多いと述べています。",
-      "title_original": "How to identify and counter vaccine misinformation: PAHO guidance for journalists and content creators",
-      "summary_original": "How to identify and counter vaccine misinformation: PAHO guidance for journalists and content creators Cristina Mitchell 23 Jun 2026",
-      "summary_ai_original": "To address this, the Pan American Health Organization (PAHO) has published guidance for journalists and content creators, offering practical tools to help audiences identify false information. Recommendations for content creators The guidance for content creators notes that misinformation is often designed to go viral,",
-      "article_text_original": "Washington, D.C., 23 June 2026 (PAHO) – Despite strong scientific consensus on the safety and effectiveness of vaccines, misinformation continues to undermine confidence in immunization and remains a challenge for health in the Americas. To address this, the Pan American Health Organization (PAHO) has published guidance for journalists and content creators, offering practical tools to help audiences identify false information. The guidance highlights that misinformation often spreads faster and reaches wider audiences than evidence-based information, particularly when it appeals to strong emotions or contains elements that make it appear credible. Much of this content originates from so-called “superspreaders”—actors who undermine scientific evidence and, in some cases, profit from promoting unproven products or charging for access to exclusive content. “They use a range of strategies to make content more likely to go viral, including appealing to strong emotions such as fear, disgust or sadness,” said Lauren Vulanovic, author of the guidance and consultant with PAHO’s Comprehensive Immunization Program. “They also tend to rely on stories—often fabricated or exaggerated—to bolster their claims, because scientific evidence does not support their arguments,” she added. Recommendations for content creators The guidance for content creators notes that misinformation is often designed to go viral, taking advantage of emotions, pre-existing beliefs and the demand for simple explanations to complex issues. To identify potentially false information, PAHO advises looking for warning signs such as broken links, questionable author credentials, spelling errors or claims without verifiable sources. It recommends avoiding amplifying misinformation—even when attempting to debunk it—and adopting an empathetic tone that supports constructive dialogue. Content creators are also encouraged to challenge incorrect information without attacking individuals, as personal confrontation can reduce trust and discourage engagement. The guidance further emphasizes the importance of using clear, accessible language and collaborating with trusted experts to share accurate information. Recommendations for journalists For journalists, PAHO underscores that in areas where there is clear scientific consensus—such as vaccination—it is not appropriate to present opposing views as equally valid. Instead, reporting should reflect the “weight of evidence,” giving greater prominence to information supported by scientific data. The guidance also cautions against repeating misinformation, as this can reinforce its visibility, and advises avoiding sensationalist headlines that may mislead audiences. Journalists are encouraged to verify sources carefully, disclose potential conflicts of interest, and clearly communicate the risks that misinformation poses to public health. PAHO also notes that even brief exposure to vaccine misinformation can negatively influence attitudes and intentions regarding vaccination. A growing challenge in the digital age Experts highlight that misinformation has increased in recent years, in part due to the use of generative artificial intelligence (AI), which facilitates the creation and spread of misleading content that is increasingly difficult to distinguish from reliable information. “We need to be very cautious, as these tools can produce images and videos that appear highly convincing. One of the most effective ways to counter misinformation is to learn how to identify AI-generated content and share this knowledge with others,” Vulanovic said. In response, PAHO recommends strengthening digital literacy, promoting critical thinking, and supporting fact-checking initiatives. The Organization also provides resources for health workers, educators and communication teams as part of its efforts to strengthen confidence in vaccination. The importance of vaccination Over the past 50 years, immunization programs have saved more than 15 million lives in the Americas. However, vaccination coverage remains insufficient in some countries to ensure sustained population-level protection. “Vaccines are safe and highly effective in preventing disease, but we need to strengthen trust in them so that people are motivated to get vaccinated ,” said Daniel Salas, Executive Manager of PAHO’s Comprehensive Immunization Program. “We must counter vaccine misinformation, as it is denying individuals, families and communities the opportunity to be adequately protected.” According to the World Health Organization (WHO), immunization prevents between 3.5 and 5 million deaths each year from diseases such as diphtheria, tetanus, pertussis, influenza and measles.",
-      "link": "https://www.paho.org/en/news/23-6-2026-how-identify-and-counter-vaccine-misinformation-paho-guidance-journalists-and",
-      "source": "PAHO News",
-      "source_type": "official",
-      "source_tier": "Tier 1",
-      "source_priority": 8,
-      "published_at": "2026-06-23T13:16:38+00:00",
-      "topics": [
-        "communication",
-        "policy",
-        "research"
-      ],
-      "policy_tags": [
-        "communication",
-        "outbreak_response",
-        "recommendation",
-        "safety"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "PAHO / Washington DC"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "PAHO / Washington DC"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "PAHO News"
-      ]
-    },
-    {
-      "id": "ead569d59ad3739a",
-      "title": "2 つの不活化日本脳炎ワクチンの交換可能な予防接種スケジュールの免疫原性と安全性: 多中心、第 IV 相、非盲検、ランダム化対照試験 - SSRN eLibrary",
-      "summary": "2 つの不活化日本脳炎ワクチンの交換可能な予防接種スケジュールの免疫原性と安全性: 多中心、第 IV 相、非盲検、ランダム化比較試験 SSRN eLibrary",
-      "summary_ai": "2 つの不活化日本脳炎ワクチンの交換可能な予防接種スケジュールの免疫原性と安全性: 多中心、第 IV 相、非盲検、ランダム化比較試験 SSRN eLibrary",
-      "title_original": "Immunogenicity and Safety of An Interchangeable Vaccination Schedule of Two Inactivated Japanese Encephalitis Vaccines: A Multicentric, Phase IV, Open-Label, Randomized Controlled Trial - SSRN eLibrary",
-      "summary_original": "Immunogenicity and Safety of An Interchangeable Vaccination Schedule of Two Inactivated Japanese Encephalitis Vaccines: A Multicentric, Phase IV, Open-Label, Randomized Controlled Trial SSRN eLibrary",
-      "summary_ai_original": "Immunogenicity and Safety of An Interchangeable Vaccination Schedule of Two Inactivated Japanese Encephalitis Vaccines: A Multicentric, Phase IV, Open-Label, Randomized Controlled Trial SSRN eLibrary",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5xU2NuR1MyaE1DTmlPc2hsdmFlQU9vV3lSNHpNQlVXLXp5cG8wZjRrUlNGakV1SmMxNVUyLTdjVGVvdy1FclUzZkkxOWNoVG15YVdjZU92U2YtTW9UTExXX2ZhNHJiT1REbm9Z?oc=5",
-      "source": "SSRN vaccine preprints",
-      "source_type": "preprint",
-      "source_tier": "Tier 3",
-      "source_priority": 6,
-      "published_at": "2026-06-23T07:00:00+00:00",
-      "topics": [
-        "policy",
-        "research"
-      ],
-      "policy_tags": [
-        "safety",
-        "schedule"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "SSRN"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "SSRN"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "SSRN vaccine preprints"
       ]
     }
   ]
