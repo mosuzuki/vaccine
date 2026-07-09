@@ -1,10 +1,79 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-07-08T22:14:55.703980+00:00",
-  "archive_count": 359,
+  "generated_at": "2026-07-09T22:41:05.683323+00:00",
+  "archive_count": 363,
   "days_back": 14,
   "items": [
+    {
+      "id": "e1546c4afdc6fe0c",
+      "title": "ACIPの定足数はいまだ満たされていない、訴訟の崩壊、ワクチンに関する疑問への回答：米国のワクチン政策の現状 - CIDRAP",
+      "summary": "ACIPの定足数はいまだ満たされておらず、訴訟の崩壊、ワクチンに関する質問への回答：米国のワクチン政策の現状 CIDRAP",
+      "summary_ai": "ACIPの定足数はいまだ満たされておらず、訴訟の崩壊、ワクチンに関する質問への回答：米国のワクチン政策の現状 CIDRAP",
+      "title_original": "Still no ACIP quorum, collapsing lawsuits, and vaccine questions answered: The State of U.S. Vaccine Policy - CIDRAP",
+      "summary_original": "Still no ACIP quorum, collapsing lawsuits, and vaccine questions answered: The State of U.S. Vaccine Policy CIDRAP",
+      "summary_ai_original": "Still no ACIP quorum, collapsing lawsuits, and vaccine questions answered: The State of U.S. Vaccine Policy CIDRAP",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTGlRVTZXN0NnNWZWalZSSnItN0stNVNicVBwelR6bGl6RjFGRVMtVmM5cUo4U2dLZmZkcG9MMU52ZGRMWnhJcVN0N204Skx3QWlCaXpTc05nbXNfWlBZOEIzZ3BvcTRDMVY0cGtkMjN5STdmTU56TkJuU2x6U0ZCRjFLUTFTMU5QOFdCOWVSTjJLN1pHYzQ3SFlEWU5IWWN2ZU0wRXBhU3gwWkxDTDMtcUxKMFlFSzJoeXg3UDFDOA?oc=5",
+      "source": "CIDRAP Vaccines & Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 8,
+      "published_at": "2026-07-09T20:12:04+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [
+        "recommendation"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "CIDRAP / Minnesota"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "CIDRAP / Minnesota"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "CIDRAP Vaccines & Immunization"
+      ],
+      "first_seen_at": "2026-07-09T20:12:04+00:00",
+      "last_seen_at": "2026-07-09T22:42:53.753178+00:00"
+    },
     {
       "id": "1f5cce2d2884320f",
       "title": "髄膜炎ワクチンが淋病も予防できるという期待が研究で薄れるAAAS",
@@ -71,6 +140,73 @@
       ],
       "first_seen_at": "2026-07-08T21:18:24+00:00",
       "last_seen_at": "2026-07-08T22:16:36.024092+00:00"
+    },
+    {
+      "id": "717c4d21f93b5ff7",
+      "title": "MenBワクチンは男性を淋病から守る効果はない、大規模研究が主張 - BBC",
+      "summary": "MenBワクチンは男性を淋病から守る効果はない、主要研究BBCが主張",
+      "summary_ai": "MenBワクチンは男性を淋病から守る効果はない、主要研究BBCが主張",
+      "title_original": "MenB vaccine offers men no protection from gonorrhoea, claims major study - BBC",
+      "summary_original": "MenB vaccine offers men no protection from gonorrhoea, claims major study BBC",
+      "summary_ai_original": "MenB vaccine offers men no protection from gonorrhoea, claims major study BBC",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NNVNWM0hfNXNMeTVvbWloY1plNExyOHRxYk1hUTRvSHQzWHNKc1R0YW14ei13QXB6c3VlZS02WUVvNlQxelBya3ZLQld3aGJKZVJMaElCVjUyQQ?oc=5",
+      "source": "BBC Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-07-08T21:06:53+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BBC"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BBC"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "BBC Vaccines / Immunization"
+      ],
+      "first_seen_at": "2026-07-08T21:06:53+00:00",
+      "last_seen_at": "2026-07-09T22:42:53.753190+00:00"
     },
     {
       "id": "9f9b3aa262c6cc8d",
@@ -142,7 +278,7 @@
         "PAHO News"
       ],
       "first_seen_at": "2026-07-08T20:36:16+00:00",
-      "last_seen_at": "2026-07-08T22:16:36.024104+00:00"
+      "last_seen_at": "2026-07-09T22:42:53.753200+00:00"
     },
     {
       "id": "406b5c0794c0121c",
@@ -215,7 +351,78 @@
         "FDA Vaccines / Biologics"
       ],
       "first_seen_at": "2026-07-08T17:03:04+00:00",
-      "last_seen_at": "2026-07-08T22:16:36.024107+00:00"
+      "last_seen_at": "2026-07-09T22:42:53.753207+00:00"
+    },
+    {
+      "id": "d7babf2394bcc1d6",
+      "title": "HIV 感染および HIV 陰性の青年および若年成人における 4 価ヒトパピローマウイルスワクチンの安全性と免疫原性",
+      "summary": "HIV 感染および HIV 陰性の青年および若年成人における 4 価ヒトパピローマウイルスワクチンの安全性と免疫原性",
+      "summary_ai": "HIV 感染および HIV 陰性の青年および若年成人における 4 価ヒトパピローマウイルスワクチンの安全性と免疫原性",
+      "title_original": "Safety and immunogenicity of a quadrivalent human papillomavirus vaccine in HIV-infected and HIV-negative adolescents and young adults",
+      "summary_original": "Safety and immunogenicity of a quadrivalent human papillomavirus vaccine in HIV-infected and HIV-negative adolescents and young adults",
+      "summary_ai_original": "Safety and immunogenicity of a quadrivalent human papillomavirus vaccine in HIV-infected and HIV-negative adolescents and young adults",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8zRlI5cHZISlFfanpjUnhwZWkwLU1tcEZrdmpFMHB6Q2Y2WXh4Skx4S3J1UkhGTWJ0UTgzY0V4UE5OSGMxWDlUZ1lrWUVtMHJidWpUX0hkYlcwTXVZT25QaHN0a2JFNTNSZ1ZYN2wxeldudlZiLW1mdnNKZWM?oc=5",
+      "source": "Cochrane vaccines",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-07-08T00:47:12+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [
+        "safety"
+      ],
+      "vaccines": [
+        "hpv"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Cochrane Library"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Cochrane Library"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Cochrane vaccines"
+      ],
+      "first_seen_at": "2026-07-08T00:47:12+00:00",
+      "last_seen_at": "2026-07-09T22:42:53.753209+00:00"
     },
     {
       "id": "0b56b223d6f66a91",
@@ -351,7 +558,7 @@
         "Pediatrics journal"
       ],
       "first_seen_at": "2026-07-06T01:40:36+00:00",
-      "last_seen_at": "2026-07-08T22:16:36.024123+00:00"
+      "last_seen_at": "2026-07-09T22:42:53.753215+00:00"
     },
     {
       "id": "b02e5091b904f9c9",
@@ -420,7 +627,7 @@
         "Nature News Vaccines / Immunization"
       ],
       "first_seen_at": "2026-07-03T14:15:15+00:00",
-      "last_seen_at": "2026-07-08T22:16:36.024128+00:00"
+      "last_seen_at": "2026-07-09T22:42:53.753220+00:00"
     },
     {
       "id": "2a687313ca53e480",
@@ -703,7 +910,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-05-30T13:54:14+00:00",
-      "last_seen_at": "2026-07-08T22:16:36.024146+00:00"
+      "last_seen_at": "2026-07-09T22:42:53.753228+00:00"
     },
     {
       "id": "08fa027f0aece9ef",
@@ -772,7 +979,143 @@
         "読売新聞 ワクチン / 予防接種"
       ],
       "first_seen_at": "2026-04-15T07:00:00+00:00",
-      "last_seen_at": "2026-07-08T22:16:36.024152+00:00"
+      "last_seen_at": "2026-07-09T22:42:53.753242+00:00"
+    },
+    {
+      "id": "a661e1de7d05fcf4",
+      "title": "スリランカにおけるBBIBP-CorV Sinopharm COVID-19ワクチンの有効性の評価：検査陰性症例対照研究 - BMJ Open",
+      "summary": "スリランカにおける BBIBP-CorV Sinopharm COVID-19ワクチンの有効性の評価: 検査陰性症例対照研究 BMJ Open",
+      "summary_ai": "スリランカにおける BBIBP-CorV Sinopharm COVID-19ワクチンの有効性の評価: 検査陰性症例対照研究 BMJ Open",
+      "title_original": "Evaluation of BBIBP- CorV Sinopharm COVID- 19 vaccine effectiveness in Sri Lanka: a test- negative case control study - BMJ Open",
+      "summary_original": "Evaluation of BBIBP- CorV Sinopharm COVID- 19 vaccine effectiveness in Sri Lanka: a test- negative case control study BMJ Open",
+      "summary_ai_original": "Evaluation of BBIBP- CorV Sinopharm COVID- 19 vaccine effectiveness in Sri Lanka: a test- negative case control study BMJ Open",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE01cEhSeEMzQkFIamREc2I4YkdnUUlEbTN6dDBvZmVqQU14WkhpX1hSRHJSVXJfaGNZNEhlOHAxMmxjY0YwaUEyYl9VZjFuaGVNYk5fSXp4VlFSdVdGUzdCdzJVTTVwVFhZVHhURTBCNA?oc=5",
+      "source": "BMJ",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-07-02T07:00:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "スリランカ",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BMJ / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BMJ / London"
+        },
+        "target": {
+          "key": "sri lanka",
+          "name_ja": "スリランカ",
+          "lat": 6.9271,
+          "lng": 79.8612,
+          "region": "Asia",
+          "label": "スリランカ"
+        }
+      },
+      "location": {
+        "key": "sri lanka",
+        "name_ja": "スリランカ",
+        "lat": 6.9271,
+        "lng": 79.8612,
+        "region": "Asia",
+        "label": "スリランカ"
+      },
+      "region": "Asia",
+      "country": "スリランカ",
+      "lat": 6.9271,
+      "lng": 79.8612,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "BMJ"
+      ],
+      "first_seen_at": "2026-03-19T00:51:35+00:00",
+      "last_seen_at": "2026-07-09T22:42:53.753237+00:00"
+    },
+    {
+      "id": "6ae71730d7930e61",
+      "title": "新型コロナウイルス感染症ワクチンの治験プロトコルが発表 -",
+      "summary": "新型コロナウイルス感染症ワクチンの治験プロトコルが発表",
+      "summary_ai": "新型コロナウイルス感染症ワクチンの治験プロトコルが発表",
+      "title_original": "Covid-19 vaccine trial protocols released - The",
+      "summary_original": "Covid-19 vaccine trial protocols released The",
+      "summary_ai_original": "Covid-19 vaccine trial protocols released The",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pMzJUUUo3OUVHZ3hBMVZtVkxrMnh4dWtvTHVXeG5GZEJPc1VueFZWNGJwZnpRVk9UOHo4TUNwWXZIcTRScGRDUngxRllBbl8xXzlLRHdlYlZJOE9GQ09KZjEtNzNGTkI4VG5ybjZJZGc?oc=5",
+      "source": "BMJ",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-07-02T07:00:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "covid"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BMJ / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BMJ / London"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "BMJ"
+      ],
+      "first_seen_at": "2026-07-02T07:00:00+00:00",
+      "last_seen_at": "2026-07-09T22:42:53.753231+00:00"
     },
     {
       "id": "77e0cf7fdff75078",
@@ -845,7 +1188,7 @@
         "PAHO News"
       ],
       "first_seen_at": "2026-07-01T15:24:33+00:00",
-      "last_seen_at": "2026-07-08T22:16:36.024157+00:00"
+      "last_seen_at": "2026-07-09T22:42:53.753246+00:00"
     },
     {
       "id": "11c11b93d2355dd2",
@@ -983,7 +1326,7 @@
         "Nature News Vaccines / Immunization"
       ],
       "first_seen_at": "2026-07-01T10:12:01+00:00",
-      "last_seen_at": "2026-07-08T22:16:36.024163+00:00"
+      "last_seen_at": "2026-07-09T22:42:53.753251+00:00"
     },
     {
       "id": "fe2a0a0bea7a16bb",
@@ -1191,7 +1534,7 @@
         "Washington Post Vaccines / Immunization"
       ],
       "first_seen_at": "2026-06-30T18:30:00+00:00",
-      "last_seen_at": "2026-07-08T22:16:36.024168+00:00"
+      "last_seen_at": "2026-07-09T22:42:53.753256+00:00"
     },
     {
       "id": "7e055c2d97584dfd",
@@ -1265,7 +1608,7 @@
         "PAHO News"
       ],
       "first_seen_at": "2026-06-30T14:57:37+00:00",
-      "last_seen_at": "2026-07-08T22:16:36.024172+00:00"
+      "last_seen_at": "2026-07-09T22:42:53.753260+00:00"
     },
     {
       "id": "5b17408700d37c74",
@@ -1334,7 +1677,7 @@
         "EBioMedicine vaccines"
       ],
       "first_seen_at": "2026-06-30T08:42:35+00:00",
-      "last_seen_at": "2026-07-08T22:16:36.024176+00:00"
+      "last_seen_at": "2026-07-09T22:42:53.753264+00:00"
     },
     {
       "id": "a8f11fe2bc20834d",
@@ -1401,7 +1744,7 @@
         "Lancet Infectious Diseases"
       ],
       "first_seen_at": "2026-06-30T23:16:03+00:00",
-      "last_seen_at": "2026-07-08T22:16:36.024181+00:00"
+      "last_seen_at": "2026-07-09T22:42:53.753269+00:00"
     },
     {
       "id": "72d5fa93db048f1a",
@@ -8927,73 +9270,6 @@
       ],
       "first_seen_at": "2026-03-24T04:01:03+00:00",
       "last_seen_at": "2026-06-06T22:15:33.354407+00:00"
-    },
-    {
-      "id": "a661e1de7d05fcf4",
-      "title": "スリランカにおけるBBIBP-CorV Sinopharm COVID-19ワクチンの有効性の評価：検査陰性症例対照研究 - BMJ Open",
-      "summary": "スリランカにおける BBIBP-CorV Sinopharm COVID-19ワクチンの有効性の評価: 検査陰性症例対照研究 BMJ Open",
-      "summary_ai": "スリランカにおける BBIBP-CorV Sinopharm COVID-19ワクチンの有効性の評価: 検査陰性症例対照研究 BMJ Open",
-      "title_original": "Evaluation of BBIBP- CorV Sinopharm COVID- 19 vaccine effectiveness in Sri Lanka: a test- negative case control study - BMJ Open",
-      "summary_original": "Evaluation of BBIBP- CorV Sinopharm COVID- 19 vaccine effectiveness in Sri Lanka: a test- negative case control study BMJ Open",
-      "summary_ai_original": "Evaluation of BBIBP- CorV Sinopharm COVID- 19 vaccine effectiveness in Sri Lanka: a test- negative case control study BMJ Open",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE01cEhSeEMzQkFIamREc2I4YkdnUUlEbTN6dDBvZmVqQU14WkhpX1hSRHJSVXJfaGNZNEhlOHAxMmxjY0YwaUEyYl9VZjFuaGVNYk5fSXp4VlFSdVdGUzdCdzJVTTVwVFhZVHhURTBCNA?oc=5",
-      "source": "BMJ",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-05-24T14:06:40+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "スリランカ",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BMJ / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BMJ / London"
-        },
-        "target": {
-          "key": "sri lanka",
-          "name_ja": "スリランカ",
-          "lat": 6.9271,
-          "lng": 79.8612,
-          "region": "Asia",
-          "label": "スリランカ"
-        }
-      },
-      "location": {
-        "key": "sri lanka",
-        "name_ja": "スリランカ",
-        "lat": 6.9271,
-        "lng": 79.8612,
-        "region": "Asia",
-        "label": "スリランカ"
-      },
-      "region": "Asia",
-      "country": "スリランカ",
-      "lat": 6.9271,
-      "lng": 79.8612,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "BMJ"
-      ],
-      "first_seen_at": "2026-03-19T00:51:35+00:00",
-      "last_seen_at": "2026-06-06T22:15:33.354412+00:00"
     },
     {
       "id": "d0b2dd2e7b50ad55",
