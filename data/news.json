@@ -1,9 +1,9 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-07-09T22:41:05.683323+00:00",
-  "item_count": 17,
-  "archive_count": 363,
+  "generated_at": "2026-07-10T22:12:59.178242+00:00",
+  "item_count": 20,
+  "archive_count": 364,
   "days_back": 14,
   "plot_mode_default": "source",
   "feed_status": [
@@ -23,7 +23,7 @@
       "name": "CDC Newsroom",
       "url": "https://tools.cdc.gov/api/v2/resources/media/316422.rss",
       "status": "ok",
-      "seen": 8,
+      "seen": 6,
       "kept": 0
     },
     {
@@ -81,7 +81,7 @@
       "name": "PAHO News",
       "url": "https://www.paho.org/en/rss.xml",
       "status": "ok",
-      "seen": 7,
+      "seen": 8,
       "kept": 3
     },
     {
@@ -109,7 +109,7 @@
       "name": "BMJ",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abmj.com%20(policy%20OR%20trial%20OR%20effectiveness%20OR%20communication)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 6,
+      "seen": 4,
       "kept": 3
     },
     {
@@ -137,7 +137,7 @@
       "name": "Nature Communications vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fncomms%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20surveillance)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 7,
+      "seen": 6,
       "kept": 0
     },
     {
@@ -165,7 +165,7 @@
       "name": "Science vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ascience.org%2Fdoi%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20antibody)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 5,
+      "seen": 6,
       "kept": 0
     },
     {
@@ -193,7 +193,7 @@
       "name": "JAMA vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjama%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -221,7 +221,7 @@
       "name": "Human Vaccines & Immunotherapeutics",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Atandfonline.com%20%22Human%20Vaccines%20%26%20Immunotherapeutics%22&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
@@ -235,21 +235,21 @@
       "name": "bioRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abiorxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 4,
+      "seen": 2,
       "kept": 0
     },
     {
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 20,
-      "kept": 1
+      "seen": 19,
+      "kept": 2
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 49,
+      "seen": 54,
       "kept": 0
     },
     {
@@ -263,42 +263,42 @@
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 45,
+      "seen": 23,
       "kept": 1
     },
     {
       "name": "Financial Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aft.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 5,
+      "seen": 6,
       "kept": 0
     },
     {
       "name": "STAT Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 6,
+      "seen": 7,
       "kept": 0
     },
     {
       "name": "Nature News Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 17,
+      "seen": 15,
       "kept": 2
     },
     {
       "name": "Science Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Ascience.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 23,
-      "kept": 0
+      "seen": 22,
+      "kept": 1
     },
     {
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 61,
+      "seen": 58,
       "kept": 0
     },
     {
@@ -312,7 +312,7 @@
       "name": "Washington Post Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 16,
+      "seen": 14,
       "kept": 1
     },
     {
@@ -326,35 +326,35 @@
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 48,
+      "seen": 43,
       "kept": 0
     },
     {
       "name": "朝日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Aasahi.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 4,
+      "seen": 7,
       "kept": 0
     },
     {
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 18,
-      "kept": 1
+      "seen": 17,
+      "kept": 0
     },
     {
       "name": "毎日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 9,
+      "seen": 6,
       "kept": 0
     },
     {
       "name": "JAMA Network vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -368,15 +368,15 @@
       "name": "Clinical Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fcid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
-      "kept": 0
+      "seen": 1,
+      "kept": 1
     },
     {
       "name": "Journal of Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fjid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
-      "kept": 0
+      "seen": 3,
+      "kept": 1
     },
     {
       "name": "Open Forum Infectious Diseases",
@@ -417,7 +417,7 @@
       "name": "EBioMedicine vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Athelancet.com%2Fjournals%2Febiom&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 1,
       "kept": 1
     },
     {
@@ -464,26 +464,91 @@
     }
   ],
   "weekly_ai_summary": {
-    "generated_at": "2026-07-09T22:41:05.683323+00:00",
+    "generated_at": "2026-07-10T22:12:59.178242+00:00",
     "period_days": 7,
     "policy_count": 3,
-    "academic_count": 2,
+    "academic_count": 3,
     "status": "ok",
     "model": "gpt-4o-mini",
-    "policy_summary": "米国のACIPは定足数を満たしておらず、ワクチン政策に関する訴訟が進行中である。WHOは2050年までにがん患者数がほぼ2倍になるとの予測を受け、がん予防に向けた緊急行動を呼びかけている。",
-    "academic_summary": "HIV感染および陰性の青年における4価ヒトパピローマウイルスワクチンの安全性と免疫原性に関する研究が発表された。米国における2016～2025年の小児死亡に対するインフルエンザワクチンの有効性についての研究も報告されている。"
+    "policy_summary": "ACIPの定足数が未達成であり、米国のワクチン政策に関する疑問が残っている。WHOは2050年までにがん患者数がほぼ2倍になると予測し、がん予防のための緊急行動を呼びかけている。",
+    "academic_summary": "60歳以上の成人におけるmRNA-1345 RSVワクチンの再予防接種に関する研究が行われ、安全性と免疫原性が評価された。HIV感染および陰性の青年に対する4価HPVワクチンの安全性と免疫原性についても調査が行われた。"
   },
   "items": [
     {
-      "id": "e1546c4afdc6fe0c",
-      "title": "ACIPの定足数はいまだ満たされていない、訴訟の崩壊、ワクチンに関する疑問への回答：米国のワクチン政策の現状 - CIDRAP",
-      "summary": "ACIPの定足数はいまだ満たされておらず、訴訟の崩壊、ワクチンに関する質問への回答：米国のワクチン政策の現状 CIDRAP",
-      "summary_ai": "ACIPの定足数はいまだ満たされておらず、訴訟の崩壊、ワクチンに関する質問への回答：米国のワクチン政策の現状 CIDRAP",
-      "title_original": "Still no ACIP quorum, collapsing lawsuits, and vaccine questions answered: The State of U.S. Vaccine Policy - CIDRAP",
-      "summary_original": "Still no ACIP quorum, collapsing lawsuits, and vaccine questions answered: The State of U.S. Vaccine Policy CIDRAP",
-      "summary_ai_original": "Still no ACIP quorum, collapsing lawsuits, and vaccine questions answered: The State of U.S. Vaccine Policy CIDRAP",
+      "id": "1f5cce2d2884320f",
+      "title": "髄膜炎ワクチンが淋病も予防できるという期待が研究で薄れるAAAS",
+      "summary": "髄膜炎ワクチンが淋病も予防できるという期待が研究で薄れるAAAS",
+      "summary_ai": "髄膜炎ワクチンが淋病も予防できるという期待が研究で薄れるAAAS",
+      "title_original": "Study dampens hope that meningitis vaccine can also prevent gonorrhea - Science | AAAS",
+      "summary_original": "Study dampens hope that meningitis vaccine can also prevent gonorrhea Science | AAAS",
+      "summary_ai_original": "Study dampens hope that meningitis vaccine can also prevent gonorrhea Science | AAAS",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTGlRVTZXN0NnNWZWalZSSnItN0stNVNicVBwelR6bGl6RjFGRVMtVmM5cUo4U2dLZmZkcG9MMU52ZGRMWnhJcVN0N204Skx3QWlCaXpTc05nbXNfWlBZOEIzZ3BvcTRDMVY0cGtkMjN5STdmTU56TkJuU2x6U0ZCRjFLUTFTMU5QOFdCOWVSTjJLN1pHYzQ3SFlEWU5IWWN2ZU0wRXBhU3gwWkxDTDMtcUxKMFlFSzJoeXg3UDFDOA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMUFtSlAyZWhncks0Vk5jNXBoREZhcHFfUnRHMzhXWk5TLXFVSEtfZW1rc0VqNTZ2MXFtSTFCTkhqNkl0Ml9uZlJCT1lrYjlZZ2tOWnA1REZIaUFzdEg5OWZZQ1RnQnA3eGd3eVdUcDd6VmRiQjVpX1VZYUxEemtValZRWll4dUp4djEweUFNSHotelBpZXd5aEVMdldoX1VUaktMaXA4OA?oc=5",
+      "source": "Science Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 5,
+      "published_at": "2026-07-10T11:49:25+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "Science"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "Science"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Science Vaccines / Immunization"
+      ]
+    },
+    {
+      "id": "849b4e7f79c5b4e5",
+      "title": "ACIPの定足数はいまだ満たされていない、訴訟の崩壊、ワクチンに関する疑問への答え：米国のワクチン政策の現状 - CIDRAP",
+      "summary": "ACIPの定足数はいまだ満たされていない、訴訟の崩壊、ワクチンに関する疑問への答え：米国のワクチン政策の現状 CIDRAP",
+      "summary_ai": "ACIPの定足数はいまだ満たされていない、訴訟の崩壊、ワクチンに関する疑問への答え：米国のワクチン政策の現状 CIDRAP",
+      "title_original": "Still no ACIP quorum, collapsing lawsuits, and vaccine questions answered: The State of US Vaccine Policy - CIDRAP",
+      "summary_original": "Still no ACIP quorum, collapsing lawsuits, and vaccine questions answered: The State of US Vaccine Policy CIDRAP",
+      "summary_ai_original": "Still no ACIP quorum, collapsing lawsuits, and vaccine questions answered: The State of US Vaccine Policy CIDRAP",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWXk0aklJRm9IR3Z6SnhRbXpoZlN2SEVlSEMyQjh1cjVqTUNEVnc2UXoyMnJmZm5BMzZXdGRnMmNzZWxfYV9nSWIzVHJEV2trRGZJNndrUk05ZWl5VnNhTU9UaVlPQUFlR0R2eEJ5Zks2b2N5dFowMkxuLTBtenN5OVBsWVlocmVta21SWlZScUVEd210SU0zS2RBLUxxYXBGX3hhRTliUWE1YzZENFM1Zmdvc1lxRERFUldIOGxn?oc=5",
       "source": "CIDRAP Vaccines & Immunization",
       "source_type": "media",
       "source_tier": "Tier 2",
@@ -539,6 +604,76 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "CIDRAP Vaccines & Immunization"
+      ]
+    },
+    {
+      "id": "cae2faa9472ff603",
+      "title": "60歳以上の成人における初回投与後24か月後に投与されたmRNA-1345 RSVワクチンによる再予防接種の安全性、忍容性、免疫原性 - オックスフォード・アカデミック",
+      "summary": "60歳以上の成人における初回投与後24か月後に投与されたmRNA-1345 RSVワクチンによる再予防接種の安全性、忍容性、および免疫原性 Oxford Academic",
+      "summary_ai": "60歳以上の成人における初回投与後24か月後に投与されたmRNA-1345 RSVワクチンによる再予防接種の安全性、忍容性、および免疫原性 Oxford Academic",
+      "title_original": "Safety, Tolerability, and Immunogenicity of Revaccination With mRNA-1345 RSV Vaccine Administered 24 Months Following a Primary Dose in Adults ≥60 Years of Age - Oxford Academic",
+      "summary_original": "Safety, Tolerability, and Immunogenicity of Revaccination With mRNA-1345 RSV Vaccine Administered 24 Months Following a Primary Dose in Adults ≥60 Years of Age Oxford Academic",
+      "summary_ai_original": "Safety, Tolerability, and Immunogenicity of Revaccination With mRNA-1345 RSV Vaccine Administered 24 Months Following a Primary Dose in Adults ≥60 Years of Age Oxford Academic",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUGw3cHA3cjBweF94bWJOVUlkdVVYSTN5ZnAwNTNaeUtaQ21jbWdTS0V4RnpHZmZkOTBsSGwwNUZreW9nT0M4STlKNXJrQW12QmlOLUVidEFFVTRYRnFGYjZQSFJZYkFJWE4yRlVwM2ZMRzZCdHFzWmhUSGtYazZ2XzJyRmthUQ?oc=5",
+      "source": "Journal of Infectious Diseases",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-07-09T02:10:57+00:00",
+      "topics": [
+        "policy",
+        "research"
+      ],
+      "policy_tags": [
+        "safety"
+      ],
+      "vaccines": [
+        "rsv"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "Journal of Infectious Diseases"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "Journal of Infectious Diseases"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Journal of Infectious Diseases"
       ]
     },
     {
@@ -814,6 +949,71 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "Cochrane vaccines"
+      ]
+    },
+    {
+      "id": "0b56b223d6f66a91",
+      "title": "赤癬ワクチンは第2相試験で有望性を示す - CIDRAP",
+      "summary": "赤癬ワクチンは第2相試験CIDRAPで有望性を示す",
+      "summary_ai": "赤癬ワクチンは第2相試験CIDRAPで有望性を示す",
+      "title_original": "Shigella vaccine shows promise in phase 2 trial - CIDRAP",
+      "summary_original": "Shigella vaccine shows promise in phase 2 trial CIDRAP",
+      "summary_ai_original": "Shigella vaccine shows promise in phase 2 trial CIDRAP",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdUlIVlJyb0ZRUkN5bV9ZbUhhbzdjV3NwN2ZrekpYLWx5OV9vaGVuaFhQMlAwZGpyQWMtUHFUV2FzeXJFcUtLVGtUaWxhbU9ETFFzSVpMRnYzYjRCSTF0aFpPeE1EN0ZIWU9fakE2TXowNzBZMGZyb3RaUUg1QWRyTnRjR0N0aHc?oc=5",
+      "source": "CIDRAP Vaccines & Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 8,
+      "published_at": "2026-07-07T14:42:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "CIDRAP / Minnesota"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "CIDRAP / Minnesota"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "CIDRAP Vaccines & Immunization"
       ]
     },
     {
@@ -1153,73 +1353,6 @@
       ]
     },
     {
-      "id": "08fa027f0aece9ef",
-      "title": "肺炎による死亡者の９７．８％が高齢者 ＲＳウイルス、肺炎球菌…４月以降の予防接種スケジュールは？ - 読売新聞",
-      "summary": "肺炎による死亡者の９７．８％が高齢者 ＲＳウイルス、肺炎球菌…４月以降の予防接種スケジュールは？ 読売新聞",
-      "summary_ai": "肺炎による死亡者の９７．８％が高齢者 ＲＳウイルス、肺炎球菌…４月以降の予防接種スケジュールは？",
-      "title_original": "肺炎による死亡者の９７．８％が高齢者 ＲＳウイルス、肺炎球菌…４月以降のワクチン接種スケジュールは？ - 読売新聞",
-      "summary_original": "肺炎による死亡者の９７．８％が高齢者 ＲＳウイルス、肺炎球菌…４月以降のワクチン接種スケジュールは？ 読売新聞",
-      "summary_ai_original": "肺炎による死亡者の９７．８％が高齢者 ＲＳウイルス、肺炎球菌…４月以降のワクチン接種スケジュールは？",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcnNDZUVxSWhBWXN2N3U5Q1dISVZKWVRmWFkzRnN0bXl5ZThEekV0b3ZfMXgxeWpGaE9lTmNmcXFab2tuT2pSaXNsdy1BZjc5dEFGTVBSMEI5UjhGWkNlaDZvbldnR2tnMi1lM2UzX3NLTlBCaHlPY3h0czduOVVobk5ZNnpCdjlHbDZFbC02MA?oc=5",
-      "source": "読売新聞 ワクチン / 予防接種",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-07-02T07:00:00+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [
-        "schedule"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "japan",
-        "name_ja": "日本",
-        "lat": 35.6762,
-        "lng": 139.6503,
-        "region": "Asia",
-        "label": "読売新聞"
-      },
-      "plot": {
-        "source": {
-          "key": "japan",
-          "name_ja": "日本",
-          "lat": 35.6762,
-          "lng": 139.6503,
-          "region": "Asia",
-          "label": "読売新聞"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "読売新聞 ワクチン / 予防接種"
-      ]
-    },
-    {
       "id": "77e0cf7fdff75078",
       "title": "PAHO、ベネズエラの壊滅的な地震後の健康対応を支援するために2,400万米ドルの呼びかけを開始",
       "summary": "PAHO、ベネズエラの壊滅的な地震後の健康対応支援に2,400万米ドルの呼びかけを開始 クリスティーナ・ミッチェル 2026年7月1日",
@@ -1291,6 +1424,75 @@
       ]
     },
     {
+      "id": "11c11b93d2355dd2",
+      "title": "ブラジルの健康な成人を対象とした弱毒化四価デング熱生ワクチン V181 の安全性と免疫原性をブタンタン DV と比較: 無作為化二重盲検第 2 相試験 - オックスフォード・アカデミック",
+      "summary": "ブラジルの健康な成人における弱毒生四価デング熱ワクチン V181 の安全性と免疫原性をブタンタン DV と比較: ランダム化二重盲検第 2 相試験 Oxford Academic",
+      "summary_ai": "ブラジルの健康な成人における弱毒生四価デング熱ワクチン V181 の安全性と免疫原性をブタンタン DV と比較: ランダム化二重盲検第 2 相試験 Oxford Academic",
+      "title_original": "Safety and Immunogenicity of the Live-Attenuated Quadrivalent Dengue Vaccine V181 Compared With Butantan-DV Among Healthy Adults in Brazil: A Randomized, Double-Blind, Phase 2 Trial - Oxford Academic",
+      "summary_original": "Safety and Immunogenicity of the Live-Attenuated Quadrivalent Dengue Vaccine V181 Compared With Butantan-DV Among Healthy Adults in Brazil: A Randomized, Double-Blind, Phase 2 Trial Oxford Academic",
+      "summary_ai_original": "Safety and Immunogenicity of the Live-Attenuated Quadrivalent Dengue Vaccine V181 Compared With Butantan-DV Among Healthy Adults in Brazil: A Randomized, Double-Blind, Phase 2 Trial Oxford Academic",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQY1pRUXNsQ09oUEtYdlF2aHJza3N0TmV5bm92LTZVNGlLckF3SzRMX0E4UzNqRTAzS2lvU0hwa3hkMUdaNXdHVm1BOFJobUlBc19QTFNER1RFVHJxRmpJaUlraGpQR0p3MGxBVkl2VlZlV0ZpQ0JxOHZ2bWJYSkFJZWFB?oc=5",
+      "source": "Clinical Infectious Diseases",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-07-01T14:46:25+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [
+        "safety"
+      ],
+      "vaccines": [
+        "dengue"
+      ],
+      "variants": [],
+      "target_country": "ブラジル",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "Clinical Infectious Diseases"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "Clinical Infectious Diseases"
+        },
+        "target": {
+          "key": "brazil",
+          "name_ja": "ブラジル",
+          "lat": -15.7939,
+          "lng": -47.8828,
+          "region": "South America",
+          "label": "ブラジル"
+        }
+      },
+      "location": {
+        "key": "brazil",
+        "name_ja": "ブラジル",
+        "lat": -15.7939,
+        "lng": -47.8828,
+        "region": "South America",
+        "label": "ブラジル"
+      },
+      "region": "South America",
+      "country": "ブラジル",
+      "lat": -15.7939,
+      "lng": -47.8828,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Clinical Infectious Diseases"
+      ]
+    },
+    {
       "id": "cff6cdddffe21d9e",
       "title": "新たに診断された星状細胞腫におけるIDH1変異ワクチン：多施設共同、単群、非盲検、ファーストインヒト第1相NOA16試験の最終分析",
       "summary": "新たに診断された星状細胞腫におけるIDH1変異ワクチン：多施設共同、単群、非盲検、ファーストインヒト第1相NOA16試験の最終分析",
@@ -1304,7 +1506,7 @@
       "source_type": "media",
       "source_tier": "Tier 2",
       "source_priority": 5,
-      "published_at": "2026-07-01T10:12:01+00:00",
+      "published_at": "2026-07-01T07:00:00+00:00",
       "topics": [
         "research"
       ],
