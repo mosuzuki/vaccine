@@ -1,8 +1,8 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-07-11T22:01:18.796916+00:00",
-  "item_count": 19,
+  "generated_at": "2026-07-12T22:03:36.472985+00:00",
+  "item_count": 18,
   "archive_count": 365,
   "days_back": 14,
   "plot_mode_default": "source",
@@ -88,7 +88,7 @@
       "name": "The Lancet series",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Athelancet.com%20(trial%20OR%20policy%20OR%20effectiveness%20OR%20safety)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
@@ -96,7 +96,7 @@
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Athelancet.com%2Fjournals%2Flaninf&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
       "seen": 2,
-      "kept": 2
+      "kept": 1
     },
     {
       "name": "NEJM",
@@ -109,8 +109,8 @@
       "name": "BMJ",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abmj.com%20(policy%20OR%20trial%20OR%20effectiveness%20OR%20communication)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 4,
-      "kept": 3
+      "seen": 5,
+      "kept": 4
     },
     {
       "name": "Vaccine journal",
@@ -137,7 +137,7 @@
       "name": "Nature Communications vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fncomms%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20surveillance)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 6,
+      "seen": 4,
       "kept": 0
     },
     {
@@ -242,14 +242,14 @@
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 26,
+      "seen": 21,
       "kept": 2
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 40,
+      "seen": 34,
       "kept": 0
     },
     {
@@ -263,21 +263,21 @@
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 37,
+      "seen": 33,
       "kept": 1
     },
     {
       "name": "Financial Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aft.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 5,
+      "seen": 6,
       "kept": 0
     },
     {
       "name": "STAT Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 8,
+      "seen": 7,
       "kept": 0
     },
     {
@@ -291,28 +291,28 @@
       "name": "Science Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Ascience.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 13,
+      "seen": 11,
       "kept": 1
     },
     {
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 33,
+      "seen": 22,
       "kept": 0
     },
     {
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 7,
+      "seen": 9,
       "kept": 0
     },
     {
       "name": "Washington Post Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 11,
+      "seen": 8,
       "kept": 1
     },
     {
@@ -326,14 +326,14 @@
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 34,
+      "seen": 30,
       "kept": 0
     },
     {
       "name": "朝日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Aasahi.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 3,
+      "seen": 4,
       "kept": 0
     },
     {
@@ -347,7 +347,7 @@
       "name": "毎日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 5,
+      "seen": 6,
       "kept": 0
     },
     {
@@ -368,15 +368,15 @@
       "name": "Clinical Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fcid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 1,
       "kept": 0
     },
     {
       "name": "Journal of Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fjid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 3,
-      "kept": 1
+      "seen": 2,
+      "kept": 0
     },
     {
       "name": "Open Forum Infectious Diseases",
@@ -424,7 +424,7 @@
       "name": "International Journal of Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aijidonline.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -464,14 +464,14 @@
     }
   ],
   "weekly_ai_summary": {
-    "generated_at": "2026-07-11T22:01:18.796916+00:00",
+    "generated_at": "2026-07-12T22:03:36.472985+00:00",
     "period_days": 7,
     "policy_count": 3,
-    "academic_count": 4,
+    "academic_count": 2,
     "status": "ok",
     "model": "gpt-4o-mini",
-    "policy_summary": "ACIPの定足数が満たされていない中、米国のワクチン政策に関する疑問が提起されています。WHOはがん患者数の増加に対し、予防接種プログラムを含む緊急の行動を呼びかけています。",
-    "academic_summary": "ガンビアの小児におけるETVAXワクチンの有効性に関する第2b相試験が実施されました。また、60歳以上の成人におけるmRNA-1345 RSVワクチンの再予防接種に関する研究が行われ、安全性や免疫原性が評価されています。"
+    "policy_summary": "ACIPの定足数が満たされていない状況が続いており、米国のワクチン政策に関する疑問が提起されています。また、WHOは2050年までに新規がん患者数がほぼ2倍になると予測し、がん予防に向けた緊急の行動を呼びかけています。",
+    "academic_summary": "HIV感染およびHIV陰性の青年における4価ヒトパピローマウイルスワクチンの安全性と免疫原性に関する研究が発表されました。さらに、米国における小児死亡に対するインフルエンザワクチンの有効性についての調査結果も報告されています。"
   },
   "items": [
     {
@@ -539,141 +539,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "CIDRAP Vaccines & Immunization"
-      ]
-    },
-    {
-      "id": "8d1a3c061b1ab9f3",
-      "title": "ガンビアの小児における腸毒素原性大腸菌陽性下痢症に対するワクチンであるETVAXの有効性：二重盲検、無作為化、プラセボ対照、第2b相試験",
-      "summary": "ガンビアの小児における腸毒素原性大腸菌陽性下痢症に対するワクチンであるETVAXの有効性：二重盲検、無作為化、プラセボ対照、第2b相試験",
-      "summary_ai": "ガンビアの小児における腸毒素原性大腸菌陽性下痢症に対するワクチンであるETVAXの有効性：二重盲検、無作為化、プラセボ対照、第2b相試験",
-      "title_original": "Efficacy of ETVAX, a vaccine against enterotoxigenic Escherichia coli-positive diarrhoea in Gambian children: a double-blind, randomised, placebo-controlled, phase 2b trial",
-      "summary_original": "Efficacy of ETVAX, a vaccine against enterotoxigenic Escherichia coli-positive diarrhoea in Gambian children: a double-blind, randomised, placebo-controlled, phase 2b trial",
-      "summary_ai_original": "Efficacy of ETVAX, a vaccine against enterotoxigenic Escherichia coli-positive diarrhoea in Gambian children: a double-blind, randomised, placebo-controlled, phase 2b trial",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQURtYk5ucGx0MElkSFJ5Sm9xZmlydUZUdnVQMzB5NWhncjBNeG4zOE9xMjJDdV9wUVg3WlVacU9zalpXSGV1aFJ6OUt1WW0wQ2FMejZfWlBCYVo5REVrbWN3d1VkU2ktekpfY19NSXFTOTVIZ1FDU2VzOFFJci04SVlxWHJIVmR3b21mZ3Y2eWdDR0VYSHpGYzQ2cVJlTUhhSmxhZHNxbk91SHBYcEE?oc=5",
-      "source": "Lancet Infectious Diseases",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-07-09T18:32:54+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "Lancet Infectious Diseases / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "Lancet Infectious Diseases / London"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Lancet Infectious Diseases"
-      ]
-    },
-    {
-      "id": "cae2faa9472ff603",
-      "title": "60歳以上の成人における初回投与後24か月後に投与されたmRNA-1345 RSVワクチンによる再予防接種の安全性、忍容性、免疫原性 - オックスフォード・アカデミック",
-      "summary": "60歳以上の成人における初回投与後24か月後に投与されたmRNA-1345 RSVワクチンによる再予防接種の安全性、忍容性、および免疫原性 Oxford Academic",
-      "summary_ai": "60歳以上の成人における初回投与後24か月後に投与されたmRNA-1345 RSVワクチンによる再予防接種の安全性、忍容性、および免疫原性 Oxford Academic",
-      "title_original": "Safety, Tolerability, and Immunogenicity of Revaccination With mRNA-1345 RSV Vaccine Administered 24 Months Following a Primary Dose in Adults ≥60 Years of Age - Oxford Academic",
-      "summary_original": "Safety, Tolerability, and Immunogenicity of Revaccination With mRNA-1345 RSV Vaccine Administered 24 Months Following a Primary Dose in Adults ≥60 Years of Age Oxford Academic",
-      "summary_ai_original": "Safety, Tolerability, and Immunogenicity of Revaccination With mRNA-1345 RSV Vaccine Administered 24 Months Following a Primary Dose in Adults ≥60 Years of Age Oxford Academic",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUGw3cHA3cjBweF94bWJOVUlkdVVYSTN5ZnAwNTNaeUtaQ21jbWdTS0V4RnpHZmZkOTBsSGwwNUZreW9nT0M4STlKNXJrQW12QmlOLUVidEFFVTRYRnFGYjZQSFJZYkFJWE4yRlVwM2ZMRzZCdHFzWmhUSGtYazZ2XzJyRmthUQ?oc=5",
-      "source": "Journal of Infectious Diseases",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-07-09T02:10:57+00:00",
-      "topics": [
-        "policy",
-        "research"
-      ],
-      "policy_tags": [
-        "safety"
-      ],
-      "vaccines": [
-        "rsv"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "Journal of Infectious Diseases"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "Journal of Infectious Diseases"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Journal of Infectious Diseases"
       ]
     },
     {
@@ -1213,6 +1078,73 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "Nature News Vaccines / Immunization"
+      ]
+    },
+    {
+      "id": "751bda81cea519d3",
+      "title": "予防接種時の年齢および接種回数別の HPVワクチンの有効性: 集団ベースの適合症例対照研究のプロトコール - BMJ Open",
+      "summary": "予防接種時の年齢および接種回数別の HPVワクチンの有効性: 集団ベースの適合症例対照研究のプロトコール BMJ Open",
+      "summary_ai": "予防接種時の年齢および接種回数別の HPVワクチンの有効性: 集団ベースの適合症例対照研究のプロトコール BMJ Open",
+      "title_original": "Effectiveness of HPV vaccine by age at vaccination and number of doses: protocol for a population- based matched case–control study - BMJ Open",
+      "summary_original": "Effectiveness of HPV vaccine by age at vaccination and number of doses: protocol for a population- based matched case–control study BMJ Open",
+      "summary_ai_original": "Effectiveness of HPV vaccine by age at vaccination and number of doses: protocol for a population- based matched case–control study BMJ Open",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83Z3M2bjBHRE8wbVZNMW9JZlhZTFBReDdCNFF2UlNLX0p2NWcycmRORzRtV2pGOHJON3MyNlNZbU5aRGpuc0I5aHpNSWVxQS1lSVlZRjNjZU92V3htNVpFNllzUWNKN1RFblhUS3F3?oc=5",
+      "source": "BMJ",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-07-03T07:00:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "hpv"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BMJ / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BMJ / London"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "BMJ"
       ]
     },
     {
