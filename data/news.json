@@ -1,9 +1,9 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-07-14T22:08:57.710964+00:00",
-  "item_count": 26,
-  "archive_count": 376,
+  "generated_at": "2026-07-15T22:10:09.187654+00:00",
+  "item_count": 22,
+  "archive_count": 377,
   "days_back": 14,
   "plot_mode_default": "source",
   "feed_status": [
@@ -95,14 +95,14 @@
       "name": "Lancet Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Athelancet.com%2Fjournals%2Flaninf&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
       "name": "NEJM",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Anejm.org%20(trial%20OR%20effectiveness%20OR%20policy%20OR%20safety)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 2,
       "kept": 0
     },
     {
@@ -137,7 +137,7 @@
       "name": "Nature Communications vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fncomms%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20surveillance)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 5,
       "kept": 0
     },
     {
@@ -200,14 +200,14 @@
       "name": "JAMA Network Open vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjamanetworkopen%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 1,
       "kept": 0
     },
     {
       "name": "JAMA Internal Medicine vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjamainternalmedicine%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
@@ -235,35 +235,35 @@
       "name": "bioRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abiorxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 1,
       "kept": 0
     },
     {
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 21,
-      "kept": 1
+      "seen": 26,
+      "kept": 2
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 49,
+      "seen": 26,
       "kept": 2
     },
     {
       "name": "AP Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 3,
       "kept": 0
     },
     {
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 46,
+      "seen": 38,
       "kept": 4
     },
     {
@@ -277,15 +277,15 @@
       "name": "STAT Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 4,
+      "seen": 10,
       "kept": 0
     },
     {
       "name": "Nature News Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 14,
-      "kept": 2
+      "seen": 15,
+      "kept": 1
     },
     {
       "name": "Science Vaccines / Immunization",
@@ -298,14 +298,14 @@
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 11,
+      "seen": 10,
       "kept": 0
     },
     {
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 11,
+      "seen": 22,
       "kept": 0
     },
     {
@@ -326,7 +326,7 @@
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 28,
+      "seen": 27,
       "kept": 0
     },
     {
@@ -340,21 +340,21 @@
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 27,
+      "seen": 20,
       "kept": 0
     },
     {
       "name": "毎日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 12,
+      "seen": 14,
       "kept": 0
     },
     {
       "name": "JAMA Network vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 2,
       "kept": 0
     },
     {
@@ -368,8 +368,8 @@
       "name": "Clinical Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fcid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 3,
-      "kept": 1
+      "seen": 2,
+      "kept": 0
     },
     {
       "name": "Journal of Infectious Diseases",
@@ -382,8 +382,8 @@
       "name": "Open Forum Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fofid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 3,
-      "kept": 1
+      "seen": 2,
+      "kept": 0
     },
     {
       "name": "Emerging Infectious Diseases",
@@ -445,8 +445,8 @@
       "name": "Cochrane vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Acochranelibrary.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 1,
-      "kept": 1
+      "seen": 0,
+      "kept": 0
     },
     {
       "name": "Journal of Travel Medicine vaccines",
@@ -464,16 +464,88 @@
     }
   ],
   "weekly_ai_summary": {
-    "generated_at": "2026-07-14T22:08:57.710964+00:00",
+    "generated_at": "2026-07-15T22:10:09.187654+00:00",
     "period_days": 7,
-    "policy_count": 4,
-    "academic_count": 7,
+    "policy_count": 5,
+    "academic_count": 6,
     "status": "ok",
     "model": "gpt-4o-mini",
-    "policy_summary": "ベネズエラでは、地震後の医療対応が重要な医療サービスの復旧に移行し、初期回復段階に入っています。また、WHOは新規がん患者数の増加に対して緊急行動を呼びかけています。",
-    "academic_summary": "英国でエボラ出血熱ワクチンの治験が開始され、オーストラリアの研究は淋病ワクチンの展開に懸念を示しています。さらに、インフルエンザワクチンの免疫原性に対する予防接種前の鎮痛薬の影響についての研究も行われています。"
+    "policy_summary": "南北アメリカ大陸では定期予防接種が回復しているが、麻疹の普及率が減少しており、地域社会は流行に対して脆弱な状況にある。ベネズエラでは地震後の医療対応が重要な医療サービスの復旧に移行している。",
+    "academic_summary": "英国でエボラ出血熱ワクチンの治験が開始され、オーストラリアの研究は淋病ワクチンの展開に懸念を示している。さらに、インフルエンザワクチンに関する複数の研究が免疫原性や有効性に関する新たな知見を提供している。"
   },
   "items": [
+    {
+      "id": "1a84421e22c54d9c",
+      "title": "WHOとユニセフの推計によると、南北アメリカ大陸では定期予防接種が回復しているが、麻疹の普及率が減少しているため、地域社会は流行に対して脆弱になっている",
+      "summary": "WHOとユニセフの推計によると、南北アメリカ大陸では定期予防接種が回復しているが、麻疹罹患率の減少により地域社会は流行に対して脆弱になっている クリスティーナ・ミッチェル 2026年7月15日",
+      "summary_ai": "この地域はパンデミック前の定期予防接種レベルを超えているが、免疫力のギャップが、特に予防接種を受けていない、または予防接種が不十分な地域社会で麻疹の流行を助長し続けている ワシントンD.C.、2026年7月15日（PAHO） – アメリカ大陸における小児予防接種は2025年も引き続き回復し、ワクチン未接種者の数も増加した",
+      "title_original": "WHO and UNICEF estimates show routine immunization has rebounded in the Americas, but declining measles coverage leaves communities vulnerable to outbreaks",
+      "summary_original": "WHO and UNICEF estimates show routine immunization has rebounded in the Americas, but declining measles coverage leaves communities vulnerable to outbreaks Cristina Mitchell 15 Jul 2026",
+      "summary_ai_original": "The Region has surpassed pre-pandemic routine vaccination levels, but immunity gaps continue to fuel measles outbreaks, particularly among unvaccinated and under-vaccinated communities Washington, D.C., 15 July 2026 (PAHO) – Childhood vaccination in the Americas continued to recover in 2025, with the number of unvaccin",
+      "article_text_original": "The Region has surpassed pre-pandemic routine vaccination levels, but immunity gaps continue to fuel measles outbreaks, particularly among unvaccinated and under-vaccinated communities Washington, D.C., 15 July 2026 (PAHO) – Childhood vaccination in the Americas continued to recover in 2025, with the number of unvaccinated children under the age of one falling from 1.3 million to 1.1 million. However, declining measles vaccination coverage is leaving communities increasingly vulnerable to outbreaks, according to the latest WHO and UNICEF Estimates of National Immunization Coverage (WUENIC), released today. Progress towards strengthening routine immunization programmes in the region is moving forward: Coverage with the first dose of diphtheria, tetanus and pertussis vaccine (DTP1) reached 92%, while coverage with the third dose (DTP3) held steady at 86%, confirming that the Americas have not only recovered from pandemic-related setbacks but also surpassed pre-pandemic routine immunization levels. “The Americas have demonstrated that progress is possible. Countries have strengthened routine immunization programmes, reduced the number of children missing lifesaving vaccines, and continue to lead globally in important areas such as HPV vaccination. But the resurgence of measles is a warning that we cannot take these achievements for granted,” said Dr. Jarbas Barbosa, Director of PAHO. Persistent challenges in measles coverage Measles vaccination coverage, which increased in 2024, experienced a decline in 2025. Since 2024, coverage with the first dose of measles-containing vaccine (MCV1) has fallen from 89% to 88%, while second-dose coverage (MCV2) has dropped from 79% to 78% - both well below the 95% required to prevent outbreaks of this highly contagious disease. The estimates also reveal marked differences in coverage both between and within countries. While some have consistently achieved measles vaccination coverage above 90%, others remain well below this threshold, reflecting persistent geographic and socio-economic inequalities in access to immunization services. Several countries in the region continue to respond to measles outbreaks, most of which have occurred among people who were not vaccinated or who had not received all recommended doses. These outbreaks highlight how quickly measles can spread when immunity gaps persist, underscoring the importance of continued investment in maintaining high vaccination coverage, strong surveillance systems, and rapid outbreak response capacities. “As long as measles continues to circulate anywhere in the world, no country or community can afford to lower its guard. Vaccination is our strongest protection, and we must continue working to reach every child, close immunity gaps, and maintain the high levels of coverage needed to prevent outbreaks,” added Dr. Jarbas Barbosa. Measles is one of the most contagious diseases in the world. Even small pockets of under-immunized populations can allow transmission to continue and fuel outbreaks. Achieving and sustaining at least 95% coverage with two doses of a measles-containing vaccine in every community remains essential to interrupt transmission and protect vulnerable populations. A global leader in HPV vaccination Alongside continued progress in routine childhood immunization, the Americas remain the global leader in human papillomavirus (HPV) vaccination. Coverage reached 71% in 2025, reflecting sustained political commitment and investment in protecting adolescents against cervical cancer, the second leading cause of cancer death among women in many countries of the Region. This achievement demonstrates what is possible when countries prioritize immunization, expand equitable access to vaccines, and build programmes that protect people throughout the life course. Maintaining progress requires sustained investment The recovery of routine immunization in the Americas marks an important public health milestone, but the latest estimates make clear that the work is far from over. Persistent immunity gaps continue to leave communities vulnerable to vaccine-preventable diseases, particularly measles, and threaten decades of hard-won progress. PAHO is working closely with countries to strengthen national immunization programs, reach children who have missed routine vaccination, increase confidence in vaccines through clear, evidence-based communication, and reinforce surveillance and outbreak response systems. Through the PAHO Revolving Fund, the Organization also supports countries in securing timely, affordable access to quality-assured vaccines, helping them strengthen immunization programmes, increase coverage, and close immunity gaps. Maintaining high vaccination coverage in every community will be essential not only to prevent future outbreaks, but also to protect the health gains achieved across the Americas and ensure that every child benefits from the lifesaving protection vaccines provide. Notes to editors: Access the WHO dataset: Global dashboard, country profiles, and additional resources Access the UNICEF dataset: Overview page, Full datasets, Data visualisation, Regional data visualisation, Country profiles WUENIC estimates, including historical data, are revised annually as new country data become available. Figures in this release should not be compared against previous years' published reports. Based on country-reported data, the WHO and UNICEF estimates of national immunization coverage (WUENIC) provide the world’s largest and most comprehensive dataset on immunization trends for vaccinations against 13 diseases given through regular health systems - normally at clinics, community centres, outreach services, or health worker visits. For 2025 data were provided from 185 countries. WHO and UNICEF are working with Gavi, the Vaccine Alliance and other partners to deliver the global Immunization Agenda 2030 (IA2030), a strategy for all countries and relevant global partners to achieve set goals on preventing diseases through immunization and delivering vaccines to everyone, everywhere, at every age.",
+      "link": "https://www.paho.org/en/news/15-7-2026-who-and-unicef-estimates-show-routine-immunization-has-rebounded-americas-declining",
+      "source": "PAHO News",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 8,
+      "published_at": "2026-07-15T12:38:55+00:00",
+      "topics": [
+        "communication",
+        "policy"
+      ],
+      "policy_tags": [
+        "communication",
+        "financing",
+        "outbreak_response"
+      ],
+      "vaccines": [
+        "pertussis"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "PAHO / Washington DC"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "PAHO / Washington DC"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "PAHO News"
+      ]
+    },
     {
       "id": "cc681707a6fea960",
       "title": "ベネズエラ地震の医療対応は、重要な医療サービスの復旧に焦点が移り、初期の回復段階に入る",
@@ -671,7 +743,7 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "duplicate_sources": [
         "BMJ"
       ]
@@ -1214,6 +1286,73 @@
       ]
     },
     {
+      "id": "849b4e7f79c5b4e5",
+      "title": "ACIPの定足数はいまだ満たされていない、訴訟の崩壊、ワクチンに関する疑問への答え：米国のワクチン政策の現状 - CIDRAP",
+      "summary": "ACIPの定足数はいまだ満たされていない、訴訟の崩壊、ワクチンに関する疑問への答え：米国のワクチン政策の現状 CIDRAP",
+      "summary_ai": "ACIPの定足数はいまだ満たされていない、訴訟の崩壊、ワクチンに関する疑問への答え：米国のワクチン政策の現状 CIDRAP",
+      "title_original": "Still no ACIP quorum, collapsing lawsuits, and vaccine questions answered: The State of US Vaccine Policy - CIDRAP",
+      "summary_original": "Still no ACIP quorum, collapsing lawsuits, and vaccine questions answered: The State of US Vaccine Policy CIDRAP",
+      "summary_ai_original": "Still no ACIP quorum, collapsing lawsuits, and vaccine questions answered: The State of US Vaccine Policy CIDRAP",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWXk0aklJRm9IR3Z6SnhRbXpoZlN2SEVlSEMyQjh1cjVqTUNEVnc2UXoyMnJmZm5BMzZXdGRnMmNzZWxfYV9nSWIzVHJEV2trRGZJNndrUk05ZWl5VnNhTU9UaVlPQUFlR0R2eEJ5Zks2b2N5dFowMkxuLTBtenN5OVBsWVlocmVta21SWlZScUVEd210SU0zS2RBLUxxYXBGX3hhRTliUWE1YzZENFM1Zmdvc1lxRERFUldIOGxn?oc=5",
+      "source": "CIDRAP Vaccines & Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 8,
+      "published_at": "2026-07-09T20:12:04+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [
+        "recommendation"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "CIDRAP / Minnesota"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "CIDRAP / Minnesota"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "CIDRAP Vaccines & Immunization"
+      ]
+    },
+    {
       "id": "cae2faa9472ff603",
       "title": "60歳以上の成人における初回投与後24か月後に投与されたmRNA-1345 RSVワクチンによる再予防接種の安全性、忍容性、免疫原性 - オックスフォード・アカデミック",
       "summary": "60歳以上の成人における初回投与後24か月後に投与されたmRNA-1345 RSVワクチンによる再予防接種の安全性、忍容性、および免疫原性 Oxford Academic",
@@ -1484,75 +1623,6 @@
       ]
     },
     {
-      "id": "d7babf2394bcc1d6",
-      "title": "HIV 感染および HIV 陰性の青年および若年成人における 4 価ヒトパピローマウイルスワクチンの安全性と免疫原性",
-      "summary": "HIV 感染および HIV 陰性の青年および若年成人における 4 価ヒトパピローマウイルスワクチンの安全性と免疫原性",
-      "summary_ai": "HIV 感染および HIV 陰性の青年および若年成人における 4 価ヒトパピローマウイルスワクチンの安全性と免疫原性",
-      "title_original": "Safety and immunogenicity of a quadrivalent human papillomavirus vaccine in HIV-infected and HIV-negative adolescents and young adults",
-      "summary_original": "Safety and immunogenicity of a quadrivalent human papillomavirus vaccine in HIV-infected and HIV-negative adolescents and young adults",
-      "summary_ai_original": "Safety and immunogenicity of a quadrivalent human papillomavirus vaccine in HIV-infected and HIV-negative adolescents and young adults",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8zRlI5cHZISlFfanpjUnhwZWkwLU1tcEZrdmpFMHB6Q2Y2WXh4Skx4S3J1UkhGTWJ0UTgzY0V4UE5OSGMxWDlUZ1lrWUVtMHJidWpUX0hkYlcwTXVZT25QaHN0a2JFNTNSZ1ZYN2wxeldudlZiLW1mdnNKZWM?oc=5",
-      "source": "Cochrane vaccines",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 7,
-      "published_at": "2026-07-08T00:47:12+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [
-        "safety"
-      ],
-      "vaccines": [
-        "hpv"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "Cochrane Library"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "Cochrane Library"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Cochrane vaccines"
-      ]
-    },
-    {
       "id": "0b56b223d6f66a91",
       "title": "赤癬ワクチンは第2相試験で有望性を示す - CIDRAP",
       "summary": "赤癬ワクチンは第2相試験CIDRAPで有望性を示す",
@@ -1566,7 +1636,7 @@
       "source_type": "media",
       "source_tier": "Tier 2",
       "source_priority": 8,
-      "published_at": "2026-07-07T14:42:00+00:00",
+      "published_at": "2026-07-07T07:00:00+00:00",
       "topics": [
         "research"
       ],
@@ -1618,7 +1688,7 @@
       ]
     },
     {
-      "id": "e6fc196d61714e0c",
+      "id": "a5f974945fbad064",
       "title": "米国における小児死亡に対するインフルエンザワクチンの有効性：2016～2025年 - AAP",
       "summary": "米国における小児死亡に対するインフルエンザワクチンの有効性: 2016–2025 AAP",
       "summary_ai": "米国における小児死亡に対するインフルエンザワクチンの有効性: 2016–2025 AAP",
@@ -1626,12 +1696,12 @@
       "summary_original": "Influenza Vaccine Effectiveness Against Pediatric Death in the United States: 2016–2025 AAP",
       "summary_ai_original": "Influenza Vaccine Effectiveness Against Pediatric Death in the United States: 2016–2025 AAP",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNRmVtdkFqMHRsZm5mSlRtcW1TeEJSeXFwQmcxSk9KN29OekNfN0pjRHh0OVVBWWZfS3dOYmJaazFBOWlhN2toRUdvUU5ocVhUV1dkTHk2UHRsVlVoVGd2Mm50NV95bDlxXzFxdXg4OEIyZjNsN0djM3BLeUx1dzQ2Z0RRQXlualM0amkzSlE4YU5RbXppZ0dqZ1ZoczdqRkU2UDV1R2wwWjZ1ZGZLU0FoejhKOGJ0QjY4U3NIc2VNYzR2UW1NdjZ4Qjl5S2JETWF3blJrV2V6RW8zSkVEZzhTRHlXVUJVQkdWN2RGU2JGM3p3UndLX2pxNkpTZ2ZNS191OXVKOHJfTktKYV9MX2tGbFdPQkpIbUpzcXd5Yg?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNbUNxUW5yOUgtNUlOMHlOU2xVMzdCdXhYQm9wVzl6R2RJOGt0VTFaMkNjendGbjNQRHhXWDZKTE9KMHROYUZHbjNiM21weDVCREFvcURySWxETkROeUF3VUd6R3N2aS1LTzZSVEtEV3BaVklWbF9UVVY1WDI3eWJnVjQxVkhWLXRCTFk1LWY2MEROY0ZuV1RIOV9hLWp6RXBrd00teGZZU2J6azU4VUQ2WUM4bXRSRDlhV2RwSVV0T0RYRTY1eFJvMHpIeW5CQm4yNE4teXBRaEVEZDg3ekNzVUxKY1BwdmRIR1VqNXhqTl8tYWtBS3pwbXZn?oc=5",
       "source": "Pediatrics journal",
       "source_type": "academic",
       "source_tier": "Tier 3",
       "source_priority": 7,
-      "published_at": "2026-07-06T07:00:00+00:00",
+      "published_at": "2026-07-06T20:13:38+00:00",
       "topics": [
         "research"
       ],
@@ -1682,73 +1752,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "Pediatrics journal"
-      ]
-    },
-    {
-      "id": "751bda81cea519d3",
-      "title": "予防接種時の年齢および接種回数別の HPVワクチンの有効性: 集団ベースの適合症例対照研究のプロトコール - BMJ Open",
-      "summary": "予防接種時の年齢および接種回数別の HPVワクチンの有効性: 集団ベースの適合症例対照研究のプロトコール BMJ Open",
-      "summary_ai": "予防接種時の年齢および接種回数別の HPVワクチンの有効性: 集団ベースの適合症例対照研究のプロトコール BMJ Open",
-      "title_original": "Effectiveness of HPV vaccine by age at vaccination and number of doses: protocol for a population- based matched case–control study - BMJ Open",
-      "summary_original": "Effectiveness of HPV vaccine by age at vaccination and number of doses: protocol for a population- based matched case–control study BMJ Open",
-      "summary_ai_original": "Effectiveness of HPV vaccine by age at vaccination and number of doses: protocol for a population- based matched case–control study BMJ Open",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83Z3M2bjBHRE8wbVZNMW9JZlhZTFBReDdCNFF2UlNLX0p2NWcycmRORzRtV2pGOHJON3MyNlNZbU5aRGpuc0I5aHpNSWVxQS1lSVlZRjNjZU92V3htNVpFNllzUWNKN1RFblhUS3F3?oc=5",
-      "source": "BMJ",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-07-03T07:00:00+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "hpv"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BMJ / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BMJ / London"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "BMJ"
       ]
     },
     {
@@ -1948,279 +1951,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "BMJ"
-      ]
-    },
-    {
-      "id": "77e0cf7fdff75078",
-      "title": "PAHO、ベネズエラの壊滅的な地震後の健康対応を支援するために2,400万米ドルの呼びかけを開始",
-      "summary": "PAHO、ベネズエラの壊滅的な地震後の健康対応支援に2,400万米ドルの呼びかけを開始 クリスティーナ・ミッチェル 2026年7月1日",
-      "summary_ai": "ワシントン D.C.、2026 年 7 月 1 日 (PAHO) – 世界保健機関 (WHO)の南北アメリカ地域事務所である汎米保健機構 (PAHO)は、壊滅的な地震後の最初の 6 か月間の健康対応と早期復興を支援するために 2,400 万米ドルの緊急呼びかけを開始しました。",
-      "title_original": "PAHO launches US$24 million appeal to support health response following devastating earthquakes in Venezuela",
-      "summary_original": "PAHO launches US$24 million appeal to support health response following devastating earthquakes in Venezuela Cristina Mitchell 1 Jul 2026",
-      "summary_ai_original": "Washington, D.C., 1 July 2026 (PAHO) – The Pan American Health Organization (PAHO), the Regional Office for the Americas of the World Health Organization (WHO), has launched a US$24 million emergency appeal to support the first six months of the health response and early recovery following the devastating earthquakes t",
-      "article_text_original": "Washington, D.C., 1 July 2026 (PAHO) – The Pan American Health Organization (PAHO), the Regional Office for the Americas of the World Health Organization (WHO), has launched a US$24 million emergency appeal to support the first six months of the health response and early recovery following the devastating earthquakes that struck Venezuela on 24 June. The funds will support the delivery of lifesaving health services, restoring essential health care, strengthening disease surveillance and outbreak prevention, ensuring continued access to essential medicines and vaccines, and rebuilding the operational capacity of the health system in the areas hardest hit by the disaster. The appeal aims to support approximately 700,000 people living in the municipalities most severely affected by the earthquakes, while strengthening referral hospitals and health services serving millions more whose access to care has been disrupted. \"While search and rescue efforts continue, the health emergency is entering a new phase,\" said PAHO Director Dr. Jarbas Barbosa. \"Thousands of injured people require ongoing care, hospitals remain under enormous pressure, and the risk of disease outbreaks is increasing. This appeal will help save lives today while supporting the recovery of essential health services for the months ahead.\" On 24 June, two powerful earthquakes measuring magnitude 7.2 and 7.5 struck north-central Venezuela, causing one of the country's most devastating natural disasters in decades. According to official reports, as of 29 June, more than 1,943 people have died and over 10,500 have been injured. The earthquakes affected densely populated urban areas already facing significant humanitarian challenges, severely damaging health facilities and critical infrastructure, including electricity, water, transport and telecommunications. Hospitals continue to operate well beyond capacity as they care for large numbers of trauma patients, while shortages of medicines, surgical supplies, laboratory reagents and critical medical equipment threaten the continuity of lifesaving services. Beyond the immediate injuries, health risks are expected to grow in the coming weeks. Damage to health facilities, population displacement, overcrowded shelters, disruptions to vaccination services, and interruptions to water and sanitation systems increase the likelihood of outbreaks of vaccine-preventable and other communicable diseases, while the psychological impact on affected communities and health workers continues to mount. Since the earthquakes, PAHO has been working closely with the Ministry of Health, Civil Protection, United Nations partners and Health Cluster members to coordinate the health response. The Organization has activated its Incident Management System and Regional Response Team, deployed emergency specialists, carried out rapid assessments of priority hospitals, and coordinated the deployment of international Emergency Medical Teams available to support the response. PAHO has also mobilized supplies from its Strategic Reserve in Panama, including trauma kits, medicines and emergency equipment, while supporting the urgent procurement of additional vaccines, medicines, laboratory supplies and other critical health commodities. The appeal will finance six priority areas over the next six months: - Delivering emergency trauma, surgical and critical care to save lives. - Restoring the functionality and safety of essential health services. - Procuring and distributing essential medicines, vaccines, laboratory reagents and medical equipment. - Preventing disease outbreaks through surveillance, vaccination, laboratory strengthening, infection prevention and control, water and sanitation interventions, and vector control. - Expanding mental health and psychosocial support and protecting the health and wellbeing of affected communities. - Strengthening health sector coordination, emergency management and the transition to early recovery. \"Investing in health now will not only help save lives but also prevent secondary public health emergencies that could prolong the humanitarian impact of this disaster,\" Dr. Barbosa said. \"We call on governments, development partners, international financial institutions, philanthropic organizations and the private sector to support this appeal and stand in solidarity with the people of Venezuela.\" Organizations that wish to contribute to the appeal should contact PAHO at (donate@paho.org or mauvernj@paho.org)",
-      "link": "https://www.paho.org/en/news/1-7-2026-paho-launches-us24-million-appeal-support-health-response-following-devastating",
-      "source": "PAHO News",
-      "source_type": "official",
-      "source_tier": "Tier 1",
-      "source_priority": 8,
-      "published_at": "2026-07-01T15:24:33+00:00",
-      "topics": [
-        "communication",
-        "policy"
-      ],
-      "policy_tags": [
-        "communication",
-        "financing",
-        "outbreak_response",
-        "safety"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "PAHO / Washington DC"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "PAHO / Washington DC"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "PAHO News"
-      ]
-    },
-    {
-      "id": "fe2a0a0bea7a16bb",
-      "title": "1929. シアトルの 6 か所のホームレス保護施設における新型コロナウイルス感染症予防接種の意図と住民および職員の接種率を高めるための推奨事項の定性分析 - オックスフォード・アカデミック",
-      "summary": "1929年。シアトルのホームレス保護施設6か所における新型コロナウイルス感染症予防接種の意図と住民と職員の接種率を高めるための推奨事項の定性分析 オックスフォード大学",
-      "summary_ai": "シアトルのホームレス保護施設6か所における新型コロナウイルス感染症予防接種の意図と住民と職員の接種率を高めるための推奨事項の定性的分析 オックスフォード・アカデミック",
-      "title_original": "1929. A Qualitative Analysis of COVID-19 Vaccination Intent and Recommendations to Increase Uptake Among Residents and Staff in Six Seattle Homeless Shelters - Oxford Academic",
-      "summary_original": "1929. A Qualitative Analysis of COVID-19 Vaccination Intent and Recommendations to Increase Uptake Among Residents and Staff in Six Seattle Homeless Shelters Oxford Academic",
-      "summary_ai_original": "A Qualitative Analysis of COVID-19 Vaccination Intent and Recommendations to Increase Uptake Among Residents and Staff in Six Seattle Homeless Shelters Oxford Academic",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQV25QaXBnaEgzNElnZ1NreUZmbkYtd1pmbWVsMlBKbEZmRzRwWExrOTh2cGJ5MDhwTEF6X1NINHRWUjRZT2xJWEFqOWJJLWZzRVlYRFJPa3pPQ19OTmJuY2hiTXQydEFSb1RWU2tzVmxuWGJkQ0xJZ0NiZS1FbE1ZVDlYV01CZEVwOE1NSg?oc=5",
-      "source": "Open Forum Infectious Diseases",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 7,
-      "published_at": "2026-07-01T08:02:12+00:00",
-      "topics": [
-        "communication",
-        "policy"
-      ],
-      "policy_tags": [
-        "recommendation"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "Open Forum Infectious Diseases"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "Open Forum Infectious Diseases"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Open Forum Infectious Diseases"
-      ]
-    },
-    {
-      "id": "11c11b93d2355dd2",
-      "title": "ブラジルの健康な成人を対象とした弱毒化四価デング熱生ワクチン V181 の安全性と免疫原性をブタンタン DV と比較: 無作為化二重盲検第 2 相試験 - オックスフォード・アカデミック",
-      "summary": "ブラジルの健康な成人における弱毒生四価デング熱ワクチン V181 の安全性と免疫原性をブタンタン DV と比較: ランダム化二重盲検第 2 相試験 Oxford Academic",
-      "summary_ai": "ブラジルの健康な成人における弱毒生四価デング熱ワクチン V181 の安全性と免疫原性をブタンタン DV と比較: ランダム化二重盲検第 2 相試験 Oxford Academic",
-      "title_original": "Safety and Immunogenicity of the Live-Attenuated Quadrivalent Dengue Vaccine V181 Compared With Butantan-DV Among Healthy Adults in Brazil: A Randomized, Double-Blind, Phase 2 Trial - Oxford Academic",
-      "summary_original": "Safety and Immunogenicity of the Live-Attenuated Quadrivalent Dengue Vaccine V181 Compared With Butantan-DV Among Healthy Adults in Brazil: A Randomized, Double-Blind, Phase 2 Trial Oxford Academic",
-      "summary_ai_original": "Safety and Immunogenicity of the Live-Attenuated Quadrivalent Dengue Vaccine V181 Compared With Butantan-DV Among Healthy Adults in Brazil: A Randomized, Double-Blind, Phase 2 Trial Oxford Academic",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQY1pRUXNsQ09oUEtYdlF2aHJza3N0TmV5bm92LTZVNGlLckF3SzRMX0E4UzNqRTAzS2lvU0hwa3hkMUdaNXdHVm1BOFJobUlBc19QTFNER1RFVHJxRmpJaUlraGpQR0p3MGxBVkl2VlZlV0ZpQ0JxOHZ2bWJYSkFJZWFB?oc=5",
-      "source": "Clinical Infectious Diseases",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-07-01T07:00:00+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [
-        "safety"
-      ],
-      "vaccines": [
-        "dengue"
-      ],
-      "variants": [],
-      "target_country": "ブラジル",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "Clinical Infectious Diseases"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "Clinical Infectious Diseases"
-        },
-        "target": {
-          "key": "brazil",
-          "name_ja": "ブラジル",
-          "lat": -15.7939,
-          "lng": -47.8828,
-          "region": "South America",
-          "label": "ブラジル"
-        }
-      },
-      "location": {
-        "key": "brazil",
-        "name_ja": "ブラジル",
-        "lat": -15.7939,
-        "lng": -47.8828,
-        "region": "South America",
-        "label": "ブラジル"
-      },
-      "region": "South America",
-      "country": "ブラジル",
-      "lat": -15.7939,
-      "lng": -47.8828,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Clinical Infectious Diseases"
-      ]
-    },
-    {
-      "id": "cff6cdddffe21d9e",
-      "title": "新たに診断された星状細胞腫におけるIDH1変異ワクチン：多施設共同、単群、非盲検、ファーストインヒト第1相NOA16試験の最終分析",
-      "summary": "新たに診断された星状細胞腫におけるIDH1変異ワクチン：多施設共同、単群、非盲検、ファーストインヒト第1相NOA16試験の最終分析",
-      "summary_ai": "新たに診断された星状細胞腫におけるIDH1変異ワクチン：多施設共同、単群、非盲検、ファーストインヒト第1相NOA16試験の最終分析",
-      "title_original": "IDH1 -mutant vaccine in newly diagnosed astrocytoma: final analysis of the multicenter, single-arm, open-label, first-in-human phase 1 NOA16 trial",
-      "summary_original": "IDH1 -mutant vaccine in newly diagnosed astrocytoma: final analysis of the multicenter, single-arm, open-label, first-in-human phase 1 NOA16 trial",
-      "summary_ai_original": "IDH1 -mutant vaccine in newly diagnosed astrocytoma: final analysis of the multicenter, single-arm, open-label, first-in-human phase 1 NOA16 trial",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YVDZ4bXFQZkp3bk1JZElfQ25lR3k3R2hqWDhNOTZrampHcVB0R3JzbDYyQVVWVmtRTnJERmxGOHJ3S0MtWENYSEhyamJzSFFtUXVZMWYtUTU2RE5CU3dZ?oc=5",
-      "source": "Nature News Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 5,
-      "published_at": "2026-07-01T07:00:00+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "Nature News"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "Nature News"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Nature News Vaccines / Immunization"
       ]
     }
   ]
