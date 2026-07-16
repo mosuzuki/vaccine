@@ -1,9 +1,9 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-07-15T22:10:09.187654+00:00",
-  "item_count": 22,
-  "archive_count": 377,
+  "generated_at": "2026-07-16T22:12:17.626740+00:00",
+  "item_count": 23,
+  "archive_count": 379,
   "days_back": 14,
   "plot_mode_default": "source",
   "feed_status": [
@@ -57,7 +57,7 @@
       "url": "https://www.gov.uk/government/organisations/medicines-and-healthcare-products-regulatory-agency.atom",
       "status": "ok",
       "seen": 20,
-      "kept": 0
+      "kept": 1
     },
     {
       "name": "Health Canada Recalls and Safety Alerts",
@@ -109,8 +109,8 @@
       "name": "BMJ",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abmj.com%20(policy%20OR%20trial%20OR%20effectiveness%20OR%20communication)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 8,
-      "kept": 6
+      "seen": 5,
+      "kept": 4
     },
     {
       "name": "Vaccine journal",
@@ -130,14 +130,14 @@
       "name": "Nature Medicine vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fnm%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20uptake%20OR%20policy)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 1,
       "kept": 0
     },
     {
       "name": "Nature Communications vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fncomms%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20surveillance)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 5,
+      "seen": 3,
       "kept": 0
     },
     {
@@ -165,7 +165,7 @@
       "name": "Science vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ascience.org%2Fdoi%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20antibody)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 4,
+      "seen": 5,
       "kept": 0
     },
     {
@@ -193,7 +193,7 @@
       "name": "JAMA vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjama%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
@@ -221,7 +221,7 @@
       "name": "Human Vaccines & Immunotherapeutics",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Atandfonline.com%20%22Human%20Vaccines%20%26%20Immunotherapeutics%22&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
@@ -235,35 +235,35 @@
       "name": "bioRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abiorxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 26,
-      "kept": 2
+      "seen": 25,
+      "kept": 1
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 26,
+      "seen": 84,
       "kept": 2
     },
     {
       "name": "AP Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 4,
       "kept": 0
     },
     {
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 38,
+      "seen": 74,
       "kept": 4
     },
     {
@@ -277,14 +277,14 @@
       "name": "STAT Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 10,
+      "seen": 15,
       "kept": 0
     },
     {
       "name": "Nature News Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 15,
+      "seen": 16,
       "kept": 1
     },
     {
@@ -298,21 +298,21 @@
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 10,
+      "seen": 13,
       "kept": 0
     },
     {
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 22,
+      "seen": 91,
       "kept": 0
     },
     {
       "name": "Washington Post Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 8,
+      "seen": 9,
       "kept": 0
     },
     {
@@ -326,7 +326,7 @@
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 27,
+      "seen": 30,
       "kept": 0
     },
     {
@@ -340,21 +340,21 @@
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 20,
+      "seen": 15,
       "kept": 0
     },
     {
       "name": "毎日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 14,
+      "seen": 15,
       "kept": 0
     },
     {
       "name": "JAMA Network vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -368,8 +368,8 @@
       "name": "Clinical Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fcid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
-      "kept": 0
+      "seen": 3,
+      "kept": 1
     },
     {
       "name": "Journal of Infectious Diseases",
@@ -382,7 +382,7 @@
       "name": "Open Forum Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fofid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 3,
       "kept": 0
     },
     {
@@ -403,7 +403,7 @@
       "name": "PLOS journals vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajournals.plos.org%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20uptake%20OR%20policy)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -445,8 +445,8 @@
       "name": "Cochrane vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Acochranelibrary.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 0,
-      "kept": 0
+      "seen": 1,
+      "kept": 1
     },
     {
       "name": "Journal of Travel Medicine vaccines",
@@ -459,21 +459,90 @@
       "name": "SSRN vaccine preprints",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Apapers.ssrn.com%20(effectiveness%20OR%20safety%20OR%20policy%20OR%20trial)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
-      "kept": 0
+      "seen": 2,
+      "kept": 1
     }
   ],
   "weekly_ai_summary": {
-    "generated_at": "2026-07-15T22:10:09.187654+00:00",
+    "generated_at": "2026-07-16T22:12:17.626740+00:00",
     "period_days": 7,
     "policy_count": 5,
-    "academic_count": 6,
+    "academic_count": 7,
     "status": "ok",
     "model": "gpt-4o-mini",
-    "policy_summary": "南北アメリカ大陸では定期予防接種が回復しているが、麻疹の普及率が減少しており、地域社会は流行に対して脆弱な状況にある。ベネズエラでは地震後の医療対応が重要な医療サービスの復旧に移行している。",
-    "academic_summary": "英国でエボラ出血熱ワクチンの治験が開始され、オーストラリアの研究は淋病ワクチンの展開に懸念を示している。さらに、インフルエンザワクチンに関する複数の研究が免疫原性や有効性に関する新たな知見を提供している。"
+    "policy_summary": "MHRAは2025-26年の年次報告書で記録的な業績を達成し、921件のメディア承認を行ったことを強調した。南北アメリカでは定期予防接種が回復しているが、麻疹の流行に対する脆弱性が懸念されている。",
+    "academic_summary": "英国でエボラ出血熱ワクチンの治験が開始され、オーストラリアの研究は淋病ワクチンの展開に懸念を示している。インフルエンザワクチンに関する複数の研究が、ワクチンの有効性や免疫原性に関する新たな知見を提供している。"
   },
   "items": [
+    {
+      "id": "587f286487fcfd57",
+      "title": "2025-26年の年次報告書と決算で世界的な影響力の増大が確認され、MHRAは記録的な業績を達成",
+      "summary": "医薬品・ヘルスケア製品規制庁（MHRA）は、2025～26年の年次報告書と決算を発表し、今年初めに同庁の最初の結果と予測報告書で述べたように、力強く一貫した成果を上げた1年を強調した。",
+      "summary_ai": "医薬品・ヘルスケア製品規制庁（MHRA）は、2025～26年の年次報告書と決算を発表し、今年初めに同庁の最初の結果と予測報告書で述べたように、力強く一貫した成果を上げた1年を強調した。 2025 ～ 26 年の MHRA の取り組みのハイライトは次のとおりです。 - 921 件のメディアの承認",
+      "title_original": "MHRA delivers record performance as 2025-26 Annual Report and Accounts confirms growing global influence",
+      "summary_original": "The Medicines and Healthcare products Regulatory Agency (MHRA) has published its 2025–26 Annual Report and Accounts highlighting a year of strong and consistent delivery as set out in the agency’s first Results and Forecast report earlier this year.",
+      "summary_ai_original": "The Medicines and Healthcare products Regulatory Agency (MHRA) has published its 2025–26 Annual Report and Accounts highlighting a year of strong and consistent delivery as set out in the agency’s first Results and Forecast report earlier this year. Highlights of the MHRA’s work in 2025–26 include: - Approving 921 medi",
+      "article_text_original": "The Medicines and Healthcare products Regulatory Agency (MHRA) has published its 2025–26 Annual Report and Accounts highlighting a year of strong and consistent delivery as set out in the agency’s first Results and Forecast report earlier this year. The annual report, which is being laid before Parliament, demonstrates how the MHRA has maintained a consistently high level of performance throughout the year, delivering for patients, the public and industry while building a strong foundation for future innovation and growth. It highlights the breadth of the agency’s impact in protecting public health and supporting the UK’s life sciences sector, including authorising hundreds of medicines, removing a record number of illegally traded products from circulation, and pioneering new approaches to AI regulation. Lawrence Tallon, MHRA Chief Executive, said: “This year’s Annual Report shows the MHRA delivering faster, more consistently and with even greater impact for patients, the NHS and innovators. From approving new medicines and supporting clinical research to disrupting criminal supply chains, our focus remains on protecting public health while embracing innovation.” The MHRA further strengthened its international standing during the year. The agency was designated a World Health Organization (WHO) Listed Authority, recognising the quality and robustness of the UK regulatory system, while continuing to play a leading role in international regulatory collaboration through initiatives including the ACCESS consortium. Highlights of the MHRA’s work in 2025–26 include: - Approving 921 medicinal products for use, including 39 new medicines, while assessing 100% of clinical trial applications and national medicines licence applications within target timelines. - Removing a record 28.5 million doses of illegally traded medicines from circulation, with an estimated street value of £64.4 million, including the shutdown of the UK’s first known illegal factory producing unlicensed weight loss injections. - Playing a leading role in shaping the future regulation of AI in healthcare, with the launch of the National Commission into the Regulation of AI in Healthcare bringing together global AI leaders, clinicians and regulators to advise the MHRA on the development of a new regulatory framework. - Proposing a new Rare Disease Therapies Regulatory Framework to support earlier, more frequent, and iterative engagement with developers, providing structured regulatory flexibility where conventional approaches are not feasible. Jointly launching the MHRA-NICE aligned regulatory pathway, which aims to accelerate patient access to some medicines by up to six months. - Securing £7.5 million in new research grant funding to advance regulatory science and support innovation in medicines and medical devices. - Supporting public health research and regulatory decision-making through the Clinical Practice Research Datalink (CPRD), using anonymised UK primary care data to generate real-world evidence. - Supplying more than 154,000 biological reference materials globally, supporting the quality, safety and effectiveness of medicines and vaccines worldwide. Looking ahead to 2026–27, the MHRA will implement new Clinical Trials Regulations, including a 14-day first assessment for phase 1 clinical trials, making it easier and faster to run safe, high-quality clinical trials in the UK. The agency will publish its new MHRA2030 Strategy, setting out how it will build on sustained performance to strengthen patient safety, support innovation and enhance its development as a modern, science-led regulator. This year’s Annual Report and Accounts builds on the agency’s Results and Forecast 2025/26; 2026/27 report, published earlier in the year, which set out the MHRA’s key achievements to date and its priorities for the year ahead. Further information on the agency’s performance and future plans can be found in that report, alongside today’s publication. Notes to editors: - The Medicines and Healthcare products Regulatory Agency (MHRA) is responsible for regulating all medicines and medical devices in the UK by ensuring they work and are acceptably safe. All our work is underpinned by robust and fact-based judgements to ensure that the benefits justify any risks. - The MHRA is an executive agency of the Department of Health and Social Care. - For media enquiries, please contact the newscentre@mhra.gov.uk, or call on 020 3080 7651.",
+      "link": "https://www.gov.uk/government/news/mhra-delivers-record-performance-as-2025-26-annual-report-and-accounts-confirms-growing-global-influence",
+      "source": "MHRA",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 8,
+      "published_at": "2026-07-16T10:58:51+00:00",
+      "topics": [
+        "policy",
+        "research"
+      ],
+      "policy_tags": [
+        "financing",
+        "safety"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "英国",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "MHRA / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "MHRA / London"
+        },
+        "target": {
+          "key": "uk",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "英国"
+        }
+      },
+      "location": {
+        "key": "uk",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "英国"
+      },
+      "region": "Europe",
+      "country": "英国",
+      "lat": 51.5074,
+      "lng": -0.1278,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "MHRA"
+      ]
+    },
     {
       "id": "1a84421e22c54d9c",
       "title": "WHOとユニセフの推計によると、南北アメリカ大陸では定期予防接種が回復しているが、麻疹の普及率が減少しているため、地域社会は流行に対して脆弱になっている",
@@ -883,6 +952,73 @@
       ]
     },
     {
+      "id": "dea86852757fc627",
+      "title": "臨床検査でインフルエンザが確認された外来急性呼吸器疾患に対するインフルエンザワクチンの有効性、米国、2024～25年シーズン - オックスフォード・アカデミック",
+      "summary": "臨床検査でインフルエンザが確認された外来急性呼吸器疾患に対するインフルエンザワクチンの有効性、米国、2024～25年シーズン オックスフォード・アカデミック",
+      "summary_ai": "臨床検査でインフルエンザが確認された外来急性呼吸器疾患に対するインフルエンザワクチンの有効性、米国、2024～25年シーズン オックスフォード・アカデミック",
+      "title_original": "Influenza vaccine effectiveness against outpatient acute respiratory illness with laboratory-confirmed influenza, United States, 2024–25 season - Oxford Academic",
+      "summary_original": "Influenza vaccine effectiveness against outpatient acute respiratory illness with laboratory-confirmed influenza, United States, 2024–25 season Oxford Academic",
+      "summary_ai_original": "Influenza vaccine effectiveness against outpatient acute respiratory illness with laboratory-confirmed influenza, United States, 2024–25 season Oxford Academic",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNWpTeXBPNnRQM1laRHFOUlF3ZGt1aUZqRmRockY0Z0NoZV9fSHdmUURfSmdENEdSZWJFandNeEVJMV9VSDZ1UGVjZUZENUhtbHlWODRaa2QyTDMzR0RLaXZLeEVvNFl1VkpDeXo2TmFGcll5emIyNEZ2cjlBbjY4NmR3djFYTVd4alVpNVJB?oc=5",
+      "source": "Clinical Infectious Diseases",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-07-14T04:45:09+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "influenza"
+      ],
+      "variants": [],
+      "target_country": "米国",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "Clinical Infectious Diseases"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "Clinical Infectious Diseases"
+        },
+        "target": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "米国"
+        }
+      },
+      "location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "米国"
+      },
+      "region": "North America",
+      "country": "米国",
+      "lat": 38.9072,
+      "lng": -77.0369,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Clinical Infectious Diseases"
+      ]
+    },
+    {
       "id": "e3707c8ddf8d95da",
       "title": "オックスフォード、ブンディブギョエボラワクチンの初の人体治験を開始 - ロイター",
       "summary": "オックスフォード、ブンディブギョエボラワクチンの初の人体治験を開始 ロイター",
@@ -1154,6 +1290,71 @@
       ]
     },
     {
+      "id": "9abac52cf681365f",
+      "title": "2 シーズンにわたる介護施設入居者における RSV 感染に対する 2 価 RSVpreF のワクチン有効性: 遡及コホート研究 - SSRN eLibrary",
+      "summary": "2 シーズンにわたる介護施設入居者における RSV 感染症に対する 2 価 RSVpreF のワクチン有効性: 遡及コホート研究 SSRN eLibrary",
+      "summary_ai": "2 シーズンにわたる介護施設入居者における RSV 感染症に対する 2 価 RSVpreF のワクチン有効性: 遡及コホート研究 SSRN eLibrary",
+      "title_original": "Vaccine Effectiveness of Bivalent RSVpreF against RSV Infection in Nursing Home Residents Over Two Seasons: A Retrospective Cohort Study - SSRN eLibrary",
+      "summary_original": "Vaccine Effectiveness of Bivalent RSVpreF against RSV Infection in Nursing Home Residents Over Two Seasons: A Retrospective Cohort Study SSRN eLibrary",
+      "summary_ai_original": "Vaccine Effectiveness of Bivalent RSVpreF against RSV Infection in Nursing Home Residents Over Two Seasons: A Retrospective Cohort Study SSRN eLibrary",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1EcFlBVnJyVGRjUk01SE16cTVVdzM4OVBucGxiMTdIQjdPenZGdXhCOXlVelJOemJmR2g1Z2NhQXh3N3RoR2VOeEktYXh4bXM0ZWxjVURUTVpWX21WTWxDVl9lOU4yMXl1aUpR?oc=5",
+      "source": "SSRN vaccine preprints",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 6,
+      "published_at": "2026-07-12T02:31:49+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "SSRN"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "SSRN"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "SSRN vaccine preprints"
+      ]
+    },
+    {
       "id": "193ab5b36494ac05",
       "title": "季節前の感染と予防接種によるインフルエンザの発症率とワクチンの有効性: 17シーズンの分析 - オックスフォード・アカデミック",
       "summary": "季節前の感染と予防接種によるインフルエンザの発症率とワクチンの有効性: 17シーズンの分析 オックスフォード・アカデミック",
@@ -1219,7 +1420,7 @@
       ]
     },
     {
-      "id": "1cdd1c83a2911c00",
+      "id": "2ca16c404dd8a679",
       "title": "インフルエンザワクチンの免疫原性と有効性に対する予防接種前鎮痛薬の影響 - オックスフォード・アカデミック",
       "summary": "インフルエンザワクチンの免疫原性と有効性に対する予防接種前鎮痛薬の影響 オックスフォード・アカデミック",
       "summary_ai": "インフルエンザワクチンの免疫原性と有効性に対する予防接種前鎮痛薬の影響 オックスフォード・アカデミック",
@@ -1227,12 +1428,12 @@
       "summary_original": "The Effect of Prevaccination Analgesics on Influenza Vaccine Immunogenicity and Effectiveness Oxford Academic",
       "summary_ai_original": "The Effect of Prevaccination Analgesics on Influenza Vaccine Immunogenicity and Effectiveness Oxford Academic",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOb1J0OEY2dGl0NmV1d0tMS21RVHpuZG1ZX2E0bWlxUk1VOV9wUXhVVWNJNG5Oc0FMcUVlV1ZpXzEwZGJ2REhhWmRSQmZ2T1I5N2VoSVNGbzQyZmpQUjc0V1lWTUgtelB1R01nNFcwdkxlWkJHQjFkbzUySjh0blRQREVVbFhuQ2tqMGttcDVBTU9EN3pTWWZsWG9R?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQemVjdmhtVENHOXFKZEtUamRQU183MTU3S2ZYc013ZVR1WF9jdWphN3lzSkwxckswUjN6MUgwZmhxR0puSEs5Z2szUEFhdDhiODd1dGlpVGtDOS1jUFFQUHdHSXJDMklpTFFTcjdDSGF2M25OU3l1WTZwLVFOazRUR0ZBQTRBdw?oc=5",
       "source": "Journal of Infectious Diseases",
       "source_type": "academic",
       "source_tier": "Tier 3",
       "source_priority": 8,
-      "published_at": "2026-07-10T14:11:57+00:00",
+      "published_at": "2026-07-10T14:51:54+00:00",
       "topics": [
         "research"
       ],
@@ -1283,73 +1484,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "Journal of Infectious Diseases"
-      ]
-    },
-    {
-      "id": "849b4e7f79c5b4e5",
-      "title": "ACIPの定足数はいまだ満たされていない、訴訟の崩壊、ワクチンに関する疑問への答え：米国のワクチン政策の現状 - CIDRAP",
-      "summary": "ACIPの定足数はいまだ満たされていない、訴訟の崩壊、ワクチンに関する疑問への答え：米国のワクチン政策の現状 CIDRAP",
-      "summary_ai": "ACIPの定足数はいまだ満たされていない、訴訟の崩壊、ワクチンに関する疑問への答え：米国のワクチン政策の現状 CIDRAP",
-      "title_original": "Still no ACIP quorum, collapsing lawsuits, and vaccine questions answered: The State of US Vaccine Policy - CIDRAP",
-      "summary_original": "Still no ACIP quorum, collapsing lawsuits, and vaccine questions answered: The State of US Vaccine Policy CIDRAP",
-      "summary_ai_original": "Still no ACIP quorum, collapsing lawsuits, and vaccine questions answered: The State of US Vaccine Policy CIDRAP",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWXk0aklJRm9IR3Z6SnhRbXpoZlN2SEVlSEMyQjh1cjVqTUNEVnc2UXoyMnJmZm5BMzZXdGRnMmNzZWxfYV9nSWIzVHJEV2trRGZJNndrUk05ZWl5VnNhTU9UaVlPQUFlR0R2eEJ5Zks2b2N5dFowMkxuLTBtenN5OVBsWVlocmVta21SWlZScUVEd210SU0zS2RBLUxxYXBGX3hhRTliUWE1YzZENFM1Zmdvc1lxRERFUldIOGxn?oc=5",
-      "source": "CIDRAP Vaccines & Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 8,
-      "published_at": "2026-07-09T20:12:04+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [
-        "recommendation"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "CIDRAP / Minnesota"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "CIDRAP / Minnesota"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "CIDRAP Vaccines & Immunization"
       ]
     },
     {
@@ -1420,71 +1554,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "Journal of Infectious Diseases"
-      ]
-    },
-    {
-      "id": "717c4d21f93b5ff7",
-      "title": "MenBワクチンは男性を淋病から守る効果はない、大規模研究が主張 - BBC",
-      "summary": "MenBワクチンは男性を淋病から守る効果はない、主要研究BBCが主張",
-      "summary_ai": "MenBワクチンは男性を淋病から守る効果はない、主要研究BBCが主張",
-      "title_original": "MenB vaccine offers men no protection from gonorrhoea, claims major study - BBC",
-      "summary_original": "MenB vaccine offers men no protection from gonorrhoea, claims major study BBC",
-      "summary_ai_original": "MenB vaccine offers men no protection from gonorrhoea, claims major study BBC",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NNVNWM0hfNXNMeTVvbWloY1plNExyOHRxYk1hUTRvSHQzWHNKc1R0YW14ei13QXB6c3VlZS02WUVvNlQxelBya3ZLQld3aGJKZVJMaElCVjUyQQ?oc=5",
-      "source": "BBC Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-07-08T21:06:53+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BBC"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BBC"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "BBC Vaccines / Immunization"
       ]
     },
     {
@@ -1620,6 +1689,140 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "PAHO News"
+      ]
+    },
+    {
+      "id": "717c4d21f93b5ff7",
+      "title": "MenBワクチンは男性を淋病から守る効果はない、大規模研究が主張 - BBC",
+      "summary": "MenBワクチンは男性を淋病から守る効果はない、主要研究BBCが主張",
+      "summary_ai": "MenBワクチンは男性を淋病から守る効果はない、主要研究BBCが主張",
+      "title_original": "MenB vaccine offers men no protection from gonorrhoea, claims major study - BBC",
+      "summary_original": "MenB vaccine offers men no protection from gonorrhoea, claims major study BBC",
+      "summary_ai_original": "MenB vaccine offers men no protection from gonorrhoea, claims major study BBC",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NNVNWM0hfNXNMeTVvbWloY1plNExyOHRxYk1hUTRvSHQzWHNKc1R0YW14ei13QXB6c3VlZS02WUVvNlQxelBya3ZLQld3aGJKZVJMaElCVjUyQQ?oc=5",
+      "source": "BBC Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-07-08T07:00:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BBC"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BBC"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "BBC Vaccines / Immunization"
+      ]
+    },
+    {
+      "id": "d7babf2394bcc1d6",
+      "title": "HIV 感染および HIV 陰性の青年および若年成人における 4 価ヒトパピローマウイルスワクチンの安全性と免疫原性",
+      "summary": "HIV 感染および HIV 陰性の青年および若年成人における 4 価ヒトパピローマウイルスワクチンの安全性と免疫原性",
+      "summary_ai": "HIV 感染および HIV 陰性の青年および若年成人における 4 価ヒトパピローマウイルスワクチンの安全性と免疫原性",
+      "title_original": "Safety and immunogenicity of a quadrivalent human papillomavirus vaccine in HIV-infected and HIV-negative adolescents and young adults",
+      "summary_original": "Safety and immunogenicity of a quadrivalent human papillomavirus vaccine in HIV-infected and HIV-negative adolescents and young adults",
+      "summary_ai_original": "Safety and immunogenicity of a quadrivalent human papillomavirus vaccine in HIV-infected and HIV-negative adolescents and young adults",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8zRlI5cHZISlFfanpjUnhwZWkwLU1tcEZrdmpFMHB6Q2Y2WXh4Skx4S3J1UkhGTWJ0UTgzY0V4UE5OSGMxWDlUZ1lrWUVtMHJidWpUX0hkYlcwTXVZT25QaHN0a2JFNTNSZ1ZYN2wxeldudlZiLW1mdnNKZWM?oc=5",
+      "source": "Cochrane vaccines",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-07-08T00:47:12+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [
+        "safety"
+      ],
+      "vaccines": [
+        "hpv"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Cochrane Library"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Cochrane Library"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Cochrane vaccines"
       ]
     },
     {
@@ -1819,138 +2022,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "Nature News Vaccines / Immunization"
-      ]
-    },
-    {
-      "id": "6ae71730d7930e61",
-      "title": "新型コロナウイルス感染症ワクチンの治験プロトコルが発表 -",
-      "summary": "新型コロナウイルス感染症ワクチンの治験プロトコルが発表",
-      "summary_ai": "新型コロナウイルス感染症ワクチンの治験プロトコルが発表",
-      "title_original": "Covid-19 vaccine trial protocols released - The",
-      "summary_original": "Covid-19 vaccine trial protocols released The",
-      "summary_ai_original": "Covid-19 vaccine trial protocols released The",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pMzJUUUo3OUVHZ3hBMVZtVkxrMnh4dWtvTHVXeG5GZEJPc1VueFZWNGJwZnpRVk9UOHo4TUNwWXZIcTRScGRDUngxRllBbl8xXzlLRHdlYlZJOE9GQ09KZjEtNzNGTkI4VG5ybjZJZGc?oc=5",
-      "source": "BMJ",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-07-02T07:00:00+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "covid"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BMJ / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BMJ / London"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "BMJ"
-      ]
-    },
-    {
-      "id": "a661e1de7d05fcf4",
-      "title": "スリランカにおけるBBIBP-CorV Sinopharm COVID-19ワクチンの有効性の評価：検査陰性症例対照研究 - BMJ Open",
-      "summary": "スリランカにおける BBIBP-CorV Sinopharm COVID-19ワクチンの有効性の評価: 検査陰性症例対照研究 BMJ Open",
-      "summary_ai": "スリランカにおける BBIBP-CorV Sinopharm COVID-19ワクチンの有効性の評価: 検査陰性症例対照研究 BMJ Open",
-      "title_original": "Evaluation of BBIBP- CorV Sinopharm COVID- 19 vaccine effectiveness in Sri Lanka: a test- negative case control study - BMJ Open",
-      "summary_original": "Evaluation of BBIBP- CorV Sinopharm COVID- 19 vaccine effectiveness in Sri Lanka: a test- negative case control study BMJ Open",
-      "summary_ai_original": "Evaluation of BBIBP- CorV Sinopharm COVID- 19 vaccine effectiveness in Sri Lanka: a test- negative case control study BMJ Open",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE01cEhSeEMzQkFIamREc2I4YkdnUUlEbTN6dDBvZmVqQU14WkhpX1hSRHJSVXJfaGNZNEhlOHAxMmxjY0YwaUEyYl9VZjFuaGVNYk5fSXp4VlFSdVdGUzdCdzJVTTVwVFhZVHhURTBCNA?oc=5",
-      "source": "BMJ",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-07-02T07:00:00+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "スリランカ",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BMJ / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BMJ / London"
-        },
-        "target": {
-          "key": "sri lanka",
-          "name_ja": "スリランカ",
-          "lat": 6.9271,
-          "lng": 79.8612,
-          "region": "Asia",
-          "label": "スリランカ"
-        }
-      },
-      "location": {
-        "key": "sri lanka",
-        "name_ja": "スリランカ",
-        "lat": 6.9271,
-        "lng": 79.8612,
-        "region": "Asia",
-        "label": "スリランカ"
-      },
-      "region": "Asia",
-      "country": "スリランカ",
-      "lat": 6.9271,
-      "lng": 79.8612,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "BMJ"
       ]
     }
   ]
