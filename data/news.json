@@ -1,9 +1,9 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-07-18T22:01:43.817991+00:00",
-  "item_count": 20,
-  "archive_count": 380,
+  "generated_at": "2026-07-19T22:04:17.747190+00:00",
+  "item_count": 22,
+  "archive_count": 381,
   "days_back": 14,
   "plot_mode_default": "source",
   "feed_status": [
@@ -130,14 +130,14 @@
       "name": "Nature Medicine vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fnm%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20uptake%20OR%20policy)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 4,
       "kept": 0
     },
     {
       "name": "Nature Communications vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fncomms%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20surveillance)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 5,
       "kept": 0
     },
     {
@@ -165,7 +165,7 @@
       "name": "Science vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ascience.org%2Fdoi%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20antibody)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 2,
       "kept": 0
     },
     {
@@ -242,14 +242,14 @@
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 21,
+      "seen": 17,
       "kept": 1
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 22,
+      "seen": 19,
       "kept": 2
     },
     {
@@ -264,27 +264,27 @@
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
       "seen": 32,
-      "kept": 2
+      "kept": 3
     },
     {
       "name": "Financial Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aft.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 11,
-      "kept": 0
+      "seen": 12,
+      "kept": 1
     },
     {
       "name": "STAT Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 17,
+      "seen": 18,
       "kept": 0
     },
     {
       "name": "Nature News Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 13,
+      "seen": 12,
       "kept": 0
     },
     {
@@ -298,21 +298,21 @@
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 12,
+      "seen": 13,
       "kept": 0
     },
     {
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 18,
+      "seen": 21,
       "kept": 0
     },
     {
       "name": "Washington Post Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 8,
+      "seen": 10,
       "kept": 0
     },
     {
@@ -326,14 +326,14 @@
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 39,
+      "seen": 26,
       "kept": 0
     },
     {
       "name": "朝日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Aasahi.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 4,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -347,14 +347,14 @@
       "name": "毎日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 11,
+      "seen": 12,
       "kept": 0
     },
     {
       "name": "JAMA Network vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 2,
       "kept": 0
     },
     {
@@ -368,7 +368,7 @@
       "name": "Clinical Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fcid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 2,
       "kept": 1
     },
     {
@@ -382,7 +382,7 @@
       "name": "Open Forum Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fofid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
@@ -403,7 +403,7 @@
       "name": "PLOS journals vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajournals.plos.org%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20uptake%20OR%20policy)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
@@ -464,14 +464,14 @@
     }
   ],
   "weekly_ai_summary": {
-    "generated_at": "2026-07-18T22:01:43.817991+00:00",
+    "generated_at": "2026-07-19T22:04:17.747190+00:00",
     "period_days": 7,
-    "policy_count": 4,
-    "academic_count": 6,
+    "policy_count": 6,
+    "academic_count": 4,
     "status": "ok",
     "model": "gpt-4o-mini",
-    "policy_summary": "MHRAは2025-26年の年次報告書で記録的な業績を達成し、921件のメディア承認を強調した。また、南北アメリカ大陸では定期予防接種が回復しているが、麻疹の普及率が減少し、地域社会は流行に対して脆弱である。",
-    "academic_summary": "オックスフォード大学がエボラ出血熱ワクチンの治験を開始した。さらに、オーストラリアの研究は、英国での淋病ワクチンの展開が成功しない可能性を示唆している。"
+    "policy_summary": "MHRAは2025-26年の年次報告書で記録的な業績を達成したことを発表した。南北アメリカでは定期予防接種が回復しているが、麻疹の流行に対する脆弱性が懸念されている。",
+    "academic_summary": "ワクチン臨床試験における人工知能の役割についての研究が発表された。エボラ出血熱ワクチンの治験が英国で開始され、淋病ワクチンの展開に関するオーストラリアの研究が示唆を提供している。"
   },
   "items": [
     {
@@ -945,6 +945,142 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "Reuters Vaccines / Immunization"
+      ]
+    },
+    {
+      "id": "c7e138aa95a87945",
+      "title": "ニュースアワー |コンゴ民主共和国での流行激化を受け、英国がエボラワクチンの治験を開始 - BBC",
+      "summary": "ニュースアワー |コンゴ民主共和国での流行が激化する中、英国がエボラワクチンの治験を開始 BBC",
+      "summary_ai": "ニュースアワー |コンゴ民主共和国での流行が激化する中、英国がエボラワクチンの治験を開始 BBC",
+      "title_original": "Newshour | UK begins trials of Ebola vaccine as outbreak in DRC intensifies - BBC",
+      "summary_original": "Newshour | UK begins trials of Ebola vaccine as outbreak in DRC intensifies BBC",
+      "summary_ai_original": "Newshour | UK begins trials of Ebola vaccine as outbreak in DRC intensifies BBC",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fYl9rYlRSNjFHV0ZxU1puS2ppbGg0cUxTQWxRWVVueDMxem9BQ2tLZGoySC0xdThPZWcyRVg1ODIyMXlBTkRWN1RyR01RNzRqOWZqRXNDZ1hHZw?oc=5",
+      "source": "BBC Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-07-14T04:51:30+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [
+        "outbreak_response"
+      ],
+      "vaccines": [
+        "ebola"
+      ],
+      "variants": [],
+      "target_country": "英国",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BBC"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BBC"
+        },
+        "target": {
+          "key": "uk",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "英国"
+        }
+      },
+      "location": {
+        "key": "uk",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "英国"
+      },
+      "region": "Europe",
+      "country": "英国",
+      "lat": 51.5074,
+      "lng": -0.1278,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "BBC Vaccines / Immunization"
+      ]
+    },
+    {
+      "id": "5c466685a5803ad2",
+      "title": "Bavarian Nordic社のチクングニア熱ワクチンがブラジルで規制当局の承認を申請 – 企業発表 – Financial Times",
+      "summary": "Bavarian Nordic社のチクングニア熱ワクチンがブラジルで規制当局の承認を申請 – 企業発表 フィナンシャル・タイムズ",
+      "summary_ai": "Bavarian Nordic社のチクングニア熱ワクチンがブラジルで規制当局の承認を申請 – 企業発表 フィナンシャル・タイムズ",
+      "title_original": "Bavarian Nordic’s Chikungunya Vaccine Submitted for Regulatory Approval in Brazil – Company Announcement - Financial Times",
+      "summary_original": "Bavarian Nordic’s Chikungunya Vaccine Submitted for Regulatory Approval in Brazil – Company Announcement Financial Times",
+      "summary_ai_original": "Bavarian Nordic’s Chikungunya Vaccine Submitted for Regulatory Approval in Brazil – Company Announcement Financial Times",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNjREb0VBd3phS3lRX1ZSWml1ckNOLVQ2YlBNRnNZRjZLS1JieExCZFI3bUYxdklnWGd2bkRFa2M4aWprLUNTdzJ5czRQTExyc3B1MjUxdnNWak1VTjg0UEIzSzViM2hHNHVfcDhBQVBpWEt3S3BVRk43Sl9GdEJocnpFMDdPb1hYWDN1ZTFsdUpxa2N4ZG1kcA?oc=5",
+      "source": "Financial Times Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-07-13T11:00:00+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [
+        "approval"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "ブラジル",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Financial Times"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Financial Times"
+        },
+        "target": {
+          "key": "brazil",
+          "name_ja": "ブラジル",
+          "lat": -15.7939,
+          "lng": -47.8828,
+          "region": "South America",
+          "label": "ブラジル"
+        }
+      },
+      "location": {
+        "key": "brazil",
+        "name_ja": "ブラジル",
+        "lat": -15.7939,
+        "lng": -47.8828,
+        "region": "South America",
+        "label": "ブラジル"
+      },
+      "region": "South America",
+      "country": "ブラジル",
+      "lat": -15.7939,
+      "lng": -47.8828,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Financial Times Vaccines / Immunization"
       ]
     },
     {
