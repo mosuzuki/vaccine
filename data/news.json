@@ -1,9 +1,9 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-07-19T22:04:17.747190+00:00",
+  "generated_at": "2026-07-20T22:09:29.029426+00:00",
   "item_count": 22,
-  "archive_count": 381,
+  "archive_count": 383,
   "days_back": 14,
   "plot_mode_default": "source",
   "feed_status": [
@@ -82,7 +82,7 @@
       "url": "https://www.paho.org/en/rss.xml",
       "status": "ok",
       "seen": 10,
-      "kept": 3
+      "kept": 2
     },
     {
       "name": "The Lancet series",
@@ -95,7 +95,7 @@
       "name": "Lancet Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Athelancet.com%2Fjournals%2Flaninf&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -130,7 +130,7 @@
       "name": "Nature Medicine vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fnm%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20uptake%20OR%20policy)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 4,
+      "seen": 3,
       "kept": 0
     },
     {
@@ -242,35 +242,35 @@
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 17,
+      "seen": 16,
       "kept": 1
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 19,
+      "seen": 99,
       "kept": 2
     },
     {
       "name": "AP Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 4,
+      "seen": 3,
       "kept": 0
     },
     {
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 32,
-      "kept": 3
+      "seen": 38,
+      "kept": 2
     },
     {
       "name": "Financial Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aft.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 12,
+      "seen": 10,
       "kept": 1
     },
     {
@@ -278,7 +278,7 @@
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
       "seen": 18,
-      "kept": 0
+      "kept": 1
     },
     {
       "name": "Nature News Vaccines / Immunization",
@@ -298,56 +298,56 @@
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 13,
+      "seen": 12,
       "kept": 0
     },
     {
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 21,
+      "seen": 18,
       "kept": 0
     },
     {
       "name": "Washington Post Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 10,
+      "seen": 9,
       "kept": 0
     },
     {
       "name": "NHK ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anhk.or.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 6,
+      "seen": 2,
       "kept": 0
     },
     {
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 26,
+      "seen": 20,
       "kept": 0
     },
     {
       "name": "朝日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Aasahi.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 1,
+      "seen": 4,
       "kept": 0
     },
     {
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 8,
-      "kept": 0
+      "seen": 10,
+      "kept": 1
     },
     {
       "name": "毎日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 12,
+      "seen": 10,
       "kept": 0
     },
     {
@@ -361,8 +361,8 @@
       "name": "JAMA Pediatrics vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjamapediatrics&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
-      "kept": 0
+      "seen": 1,
+      "kept": 1
     },
     {
       "name": "Clinical Infectious Diseases",
@@ -382,7 +382,7 @@
       "name": "Open Forum Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fofid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 2,
       "kept": 0
     },
     {
@@ -396,8 +396,8 @@
       "name": "Pediatrics journal",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Apublications.aap.org%2Fpediatrics&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
-      "kept": 1
+      "seen": 0,
+      "kept": 0
     },
     {
       "name": "PLOS journals vaccines",
@@ -424,7 +424,7 @@
       "name": "International Journal of Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aijidonline.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
@@ -459,23 +459,155 @@
       "name": "SSRN vaccine preprints",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Apapers.ssrn.com%20(effectiveness%20OR%20safety%20OR%20policy%20OR%20trial)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 2,
       "kept": 1
     }
   ],
   "weekly_ai_summary": {
-    "generated_at": "2026-07-19T22:04:17.747190+00:00",
+    "generated_at": "2026-07-20T22:09:29.029426+00:00",
     "period_days": 7,
-    "policy_count": 6,
+    "policy_count": 7,
     "academic_count": 4,
     "status": "ok",
     "model": "gpt-4o-mini",
-    "policy_summary": "MHRAは2025-26年の年次報告書で記録的な業績を達成したことを発表した。南北アメリカでは定期予防接種が回復しているが、麻疹の流行に対する脆弱性が懸念されている。",
-    "academic_summary": "ワクチン臨床試験における人工知能の役割についての研究が発表された。エボラ出血熱ワクチンの治験が英国で開始され、淋病ワクチンの展開に関するオーストラリアの研究が示唆を提供している。"
+    "policy_summary": "HHSワクチン委員会が新しい憲章を取得し、今後のワクチン政策に影響を与える可能性がある。南北アメリカ大陸では定期予防接種が回復しているが、麻疹の流行に対する脆弱性が指摘されている。",
+    "academic_summary": "ワクチン政策の価値とトレードオフを透明化する研究が発表された。エボラ出血熱ワクチンに関する英国での治験が開始され、淋病ワクチンの展開に関するオーストラリアの研究が示唆を提供している。"
   },
   "items": [
     {
-      "id": "fda29da04cdae00e",
+      "id": "050b6e88dd6cc39d",
+      "title": "ワクチン政策の価値とトレードオフの透明化—予防接種を支持するコンセンサスの再構築",
+      "summary": "ワクチン政策の価値とトレードオフの透明化—予防接種を支持するコンセンサスの再構築",
+      "summary_ai": "ワクチン政策の価値とトレードオフの透明化—予防接種を支持するコンセンサスの再構築",
+      "title_original": "Making Vaccine Policy Values and Trade-Offs Transparent—Rebuilding a Consensus Supporting Immunization",
+      "summary_original": "Making Vaccine Policy Values and Trade-Offs Transparent—Rebuilding a Consensus Supporting Immunization",
+      "summary_ai_original": "Making Vaccine Policy Values and Trade-Offs Transparent—Rebuilding a Consensus Supporting Immunization",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGY0lDeV9hWXphcy1LQVA1NVZkY00td3h5WU5xd0YzUU1scGNMdWZMWTJnOWFEeFpxdlk4Q1dJM25pa2VMSHVNVlEyYVNVMDdVcllYd1gySF9YV0Mwb3hCSW11VmRzaHROOW55REZ5dHB3SDR5bmc?oc=5",
+      "source": "JAMA Pediatrics vaccines",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-07-20T15:09:34+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "JAMA Pediatrics"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "JAMA Pediatrics"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "JAMA Pediatrics vaccines"
+      ]
+    },
+    {
+      "id": "d70581d193a442be",
+      "title": "HHSワクチン委員会が静かに新しい憲章を取得-STAT",
+      "summary": "HHSワクチン委員会が静かに新しい憲章STATを取得",
+      "summary_ai": "HHSワクチン委員会が静かに新しい憲章STATを取得",
+      "title_original": "HHS vaccine committee quietly gets new charter - STAT",
+      "summary_original": "HHS vaccine committee quietly gets new charter STAT",
+      "summary_ai_original": "HHS vaccine committee quietly gets new charter STAT",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRzVQTUc1NnB1QnpYc2l1UzZ1akU5Wl83NFA0WmtFWWJXYXk4NmQwT210NjU4UE1kbll0TEdiOGkxOWlUSXQzV2UxUXdqLVVEa0ZRQTFzdlJYX2Z6cmZBemVvVHliZWVSaDFqUEZmSGE5MXBRcXRoTjFXa0Q3dTNDdUJKV0VLR25kM2cyRDhOM0dya0hqWUNfSFFTcw?oc=5",
+      "source": "STAT Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-07-20T13:03:34+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [
+        "recommendation"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "STAT"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "STAT"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "STAT Vaccines / Immunization"
+      ]
+    },
+    {
+      "id": "e68874617d398227",
       "title": "ワクチン臨床試験のライフサイクル全体にわたる人工知能: 証拠、準備状況、およびガードレール - Oxford Academic",
       "summary": "ワクチン臨床試験のライフサイクル全体にわたる人工知能: 証拠、準備、およびガードレール Oxford Academic",
       "summary_ai": "ワクチン臨床試験のライフサイクル全体にわたる人工知能: 証拠、準備、およびガードレール Oxford Academic",
@@ -483,7 +615,7 @@
       "summary_original": "Artificial Intelligence Across the Vaccine Clinical Trial Lifecycle: Evidence, Readiness, and Guardrails Oxford Academic",
       "summary_ai_original": "Artificial Intelligence Across the Vaccine Clinical Trial Lifecycle: Evidence, Readiness, and Guardrails Oxford Academic",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPS082ckhlQVliY1h5aThsbDRSeDJhbl8wUk5PTEh2bnRxNHgxMDdpN3pBdGszSXJiZVc2Qzd6ZFJvQ0Q3RHhmdFRpMFg4cF94SEUtdkNoZHlEWTh2M1NKbWNYaThGekJCM3RFX21MYnVxX0JHdXVMOTl0Yk1IR3IxbDRSYzZzallrM01rOVExZnEwbEhtaHc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMVZ4OUxqalVGOFhXelA3a1RhS3hMZ2Q0c0FtcmZCakFjdWg4bWh0ZG1ZUzI0LUN5MlozNGJNNDkwTUdGcWNlSzVHN0xoaVpfcXZJbnNGbkdaZy11U1hPXzUtNngtNEtONWtZWFNQcTNMekZjN0J6MXJmbEdIU19nc1hmYnFHQ1RnWHpsMmFB?oc=5",
       "source": "Clinical Infectious Diseases",
       "source_type": "academic",
       "source_tier": "Tier 3",
@@ -678,6 +810,73 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "PAHO News"
+      ]
+    },
+    {
+      "id": "08fa027f0aece9ef",
+      "title": "肺炎による死亡者の９７．８％が高齢者 ＲＳウイルス、肺炎球菌…４月以降の予防接種スケジュールは？ - 読売新聞",
+      "summary": "肺炎による死亡者の９７．８％が高齢者 ＲＳウイルス、肺炎球菌…４月以降の予防接種スケジュールは？ 読売新聞",
+      "summary_ai": "肺炎による死亡者の９７．８％が高齢者 ＲＳウイルス、肺炎球菌…４月以降の予防接種スケジュールは？",
+      "title_original": "肺炎による死亡者の９７．８％が高齢者 ＲＳウイルス、肺炎球菌…４月以降のワクチン接種スケジュールは？ - 読売新聞",
+      "summary_original": "肺炎による死亡者の９７．８％が高齢者 ＲＳウイルス、肺炎球菌…４月以降のワクチン接種スケジュールは？ 読売新聞",
+      "summary_ai_original": "肺炎による死亡者の９７．８％が高齢者 ＲＳウイルス、肺炎球菌…４月以降のワクチン接種スケジュールは？",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcnNDZUVxSWhBWXN2N3U5Q1dISVZKWVRmWFkzRnN0bXl5ZThEekV0b3ZfMXgxeWpGaE9lTmNmcXFab2tuT2pSaXNsdy1BZjc5dEFGTVBSMEI5UjhGWkNlaDZvbldnR2tnMi1lM2UzX3NLTlBCaHlPY3h0czduOVVobk5ZNnpCdjlHbDZFbC02MA?oc=5",
+      "source": "読売新聞 ワクチン / 予防接種",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-07-15T07:00:00+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [
+        "schedule"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "japan",
+        "name_ja": "日本",
+        "lat": 35.6762,
+        "lng": 139.6503,
+        "region": "Asia",
+        "label": "読売新聞"
+      },
+      "plot": {
+        "source": {
+          "key": "japan",
+          "name_ja": "日本",
+          "lat": 35.6762,
+          "lng": 139.6503,
+          "region": "Asia",
+          "label": "読売新聞"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "読売新聞 ワクチン / 予防接種"
       ]
     },
     {
@@ -1151,73 +1350,6 @@
       ]
     },
     {
-      "id": "b9fcfb899cb2b217",
-      "title": "英国製エボラワクチン、治験準備完了 - BBC",
-      "summary": "英国製エボラワクチン、治験準備完了 BBC",
-      "summary_ai": "英国製エボラワクチン、治験準備完了 BBC",
-      "title_original": "Ebola vaccine made in UK now ready for trials - BBC",
-      "summary_original": "Ebola vaccine made in UK now ready for trials BBC",
-      "summary_ai_original": "Ebola vaccine made in UK now ready for trials BBC",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9pdVNyNkdJSE5fZW9XTlR5WXpDa0dxVUVzMDlmN1RlX0JiWldGTXJEVGp3S09pQUZRTnVlRG9DWW1oSHNWeWVLcE9iYnFFdFAwTW5ZUl9kWQ?oc=5",
-      "source": "BBC Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-07-13T08:36:21+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "ebola"
-      ],
-      "variants": [],
-      "target_country": "英国",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BBC"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BBC"
-        },
-        "target": {
-          "key": "uk",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "英国"
-        }
-      },
-      "location": {
-        "key": "uk",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "英国"
-      },
-      "region": "Europe",
-      "country": "英国",
-      "lat": 51.5074,
-      "lng": -0.1278,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "BBC Vaccines / Immunization"
-      ]
-    },
-    {
       "id": "b712137724c1c063",
       "title": "英国、わずか8週間で開発されたエボラ出血熱ワクチンの治験を開始 - BBC",
       "summary": "英国、わずか8週間で開発されたエボラワクチンの治験を開始 BBC",
@@ -1687,76 +1819,6 @@
       ]
     },
     {
-      "id": "9f9b3aa262c6cc8d",
-      "title": "新規がん患者数は2050年までにほぼ2倍に増加すると予測されており、WHOは緊急の行動を呼びかけている",
-      "summary": "新規がん症例は2050年までにほぼ2倍に増加すると予測され、WHOは緊急の行動を呼びかける クリスティーナ・ミッチェル 2026年7月8日",
-      "summary_ai": "国際がん研究機関（IARC）と共同で作成されたWHO世界がん現状報告書2026では、政治的取り組み、がん予防（特にタバコ規制や予防接種プログラムを通じたもの）、医療への投資などの主要分野にわたる進歩の包括的な分析が提供されています。",
-      "title_original": "WHO calls for urgent action as new cancer cases are projected to nearly double by 2050",
-      "summary_original": "WHO calls for urgent action as new cancer cases are projected to nearly double by 2050 Cristina Mitchell 8 Jul 2026",
-      "summary_ai_original": "The WHO Global Status Report on Cancer 2026, developed jointly with the International Agency for Research on Cancer (IARC), provides comprehensive analysis of progress across key areas such as political commitment, cancer prevention – particularly through tobacco control and vaccination programmes – and investment in t",
-      "article_text_original": "Geneva, 8 July 2026 (WHO).- Millions of people are facing physical, emotional and financial toll of cancer, a disease that claims more than 26 000 lives every day, according to a report released today by the World Health Organization (WHO). With an estimated 20.6 million new cases and close to 10 million deaths annually, cancer remains the second leading cause of death globally, after cardiovascular disease. Reversing this trend will require a fundamental shift towards a people-centred approach that responds to the health needs and lived experiences of affected people and communities. Without urgent action, annual cancer cases are projected to rise to nearly 35 million by 2050. The WHO Global Status Report on Cancer 2026, developed jointly with the International Agency for Research on Cancer (IARC), provides comprehensive analysis of progress across key areas such as political commitment, cancer prevention – particularly through tobacco control and vaccination programmes – and investment in treatment. However, the report also reveals persistent and widening inequities in access to prevention, diagnosis, treatment and supportive care, leaving millions of people without the services they need. Its analysis shows that while 87% of women with breast cancer survive at 5 years after their diagnosis in high-income countries, only about 42% do so in low-income countries. Fewer than one in three countries currently include cancer care in their universal health coverage packages. \"Cancer is a deeply personal disease that touches nearly all of us. But whether a person survives cancer should never depend on where they were born or what they earn,” said WHO Director-General Dr Tedros Adhanom Ghebreyesus. “The inequities documented in this report are not inevitable; they are the consequence of choices, and they can be reversed through stronger and unified action.\" Most people will be affected by cancer at some point in their lives, either through their own diagnosis or that of a close family member. Beyond its health impact, cancer remains one of the most financially and socially devastating challenges a household can face. WHO's first-ever survey of people affected by cancer found that at least 45% experience financial hardship, more than half report mental health challenges, and nearly all caregivers report strain including unpaid services and social isolation. Cancer rates in different regions The burden of cancer varies markedly across regions. In 2024, Asia accounted for the largest share, with more than half of all cancer cases (50.7%) and deaths (56.5%), reflecting its large population. Europe carried a disproportionately high burden, contributing 21% of global cases and 20% of deaths despite having only about 9% of the world's population. In contrast, many countries in Africa and parts of Asia experience lower incidence but disproportionately high mortality. Lung cancer remains the leading cause of cancer death globally. Lung, prostate and colorectal cancers are among the most common cancers in men, while breast, lung and colorectal cancers account for a substantial share of the burden among women. Nearly four in ten cancer cases globally are linked to preventable risk factors, particularly infections such as human papillomavirus (HPV), hepatitis B and C, and helicobacter pylori, alcohol, tobacco use, high body mass index and insufficient physical activity, highlighting the critical role of prevention. \"While we are seeing reductions in some cancer rates in countries that have implemented prevention policies, progress has been too slow,\" said Dr Elisabete Weiderpass, Director of WHO's International Agency for Research on Cancer (IARC). \"The cancer profile is evolving, increasingly driven by rising rates of obesity, physical inactivity, unhealthy diets, and air pollution. Cancer prevention must remain a political priority.\" Cancer in the Americas In the Region of the Americas, cancer remains one of the leading causes of illness and death. According to the report, nearly 1.5 million new cancer cases and more than 750,000 cancer deaths were estimated in Latin America and the Caribbean in 2024. While the burden of disease varies considerably across countries, significant inequalities persist in access to early detection, timely diagnosis, treatment, palliative care and financial protection against the costs associated with cancer. The report also highlights that, if current trends continue, the number of new cancer cases in the Americas will keep rising over the coming decades due to population ageing, demographic growth and the persistence of preventable risk factors, including tobacco and alcohol use, obesity, physical inactivity and certain infections. At the same time, inequities in access to cancer services remain a major challenge in several countries across the Region. Major gains, yet gaps persist The report notes substantial gains in key policy areas. Tobacco use has declined by 27% since 2010, contributing to reductions in lung cancer cases and deaths in some regions. Infection-related cancers are also decreasing thanks to expanding vaccination coverage and improved water, sanitation and hygiene (WASH) as well as infection prevention and control. Political commitment has strengthened, with 82% of countries now having national cancer control plans, up from 50% in 2010. In high-income countries, early detection programmes catch most breast cancers and 74% of women have been screened for cervical cancer. Scientific innovation is accelerating; registered clinical trials have increased at an annual rate of 7.3% between 2005 and 2021. Yet these advances are not translating into life-saving actions at the pace required. Essential cancer medicines remain far out of reach for many: availability of the top 20 priority cancer medicines ranges from just 9% to 54% in low- and lower-middle-income countries, compared with 68% to 94% in high-income countries. And the consequences of these gaps are felt most acutely by people living with cancer and their families. “Cancer is not just a medical diagnosis – it profoundly, indefinitely affects every aspect of a person’s life, and their family's as well,” said Clarissa Schilstra, a childhood cancer survivor and a lead of WHO's survey. “We urge policymakers to meaningfully engage with people affected by cancer. By voicing our lived experiences, we can inform more equitable, effective solutions to protect and promote the lives and wellbeing of future generations.” Moving towards a people-centered cancer control agenda The report marks an important opportunity to place people affected by cancer at the centre of cancer control efforts. It calls on governments, international organisations, civil society, academic institutions, the private sector, and WHO to work together to deliver a people-centred and holistic approach to care for individuals and families affected by cancer. To support this vision, the report outlines seven key recommendations and three strategic shifts to be implemented across all countries and communities: - Better capabilities: Integrate cancer control into universal health coverage and invest in human capital to prevent and control cancer; - Better protections: Place people with lived experience at the centre of cancer systems while strengthening social protection; and - Better value: Align research and innovation with public health needs and ensure equitable access to valued-based advances in care. The choices made and actions taken today will shape the cancer burden borne by future generations. By adopting a people-centred approach, making strategic and sustained investments, and maintaining an unwavering commitment to equity, countries can reduce the cancer burden and improve outcomes for everyone, everywhere. Editor’s note The latest global cancer estimates were produced by the International Agency for Research on Cancer (IARC) and are available through IARC's Global Cancer Observatory (GCO). The GCO provides the most recent estimates of cancer incidence and mortality worldwide, covering 36 cancer types across 186 countries and territories. More information: Global Cancer Observatory (GCO), an interactive web-based platform (IARC database). About WHO Dedicated to the well-being of all people and guided by science, the World Health Organization leads and champions global efforts to give everyone, everywhere, an equal chance at a safe and healthy life. We are the United Nations’ agency for health that connects nations, partners and people in 150+ locations – leading the world’s response to health emergencies, preventing disease, addressing the root causes of health issues and expanding access to medicines and health care. Our mission is to support all countries to promote, provide and protect health. “Together for health. Stand with science”, the theme of World Health Day 2026, marks a year-long campaign to highlight science as the foundation for protecting health and well-being worldwide.",
-      "link": "https://www.paho.org/en/news/8-7-2026-who-calls-urgent-action-new-cancer-cases-are-projected-nearly-double-2050",
-      "source": "PAHO News",
-      "source_type": "official",
-      "source_tier": "Tier 1",
-      "source_priority": 8,
-      "published_at": "2026-07-08T20:36:16+00:00",
-      "topics": [
-        "communication",
-        "policy",
-        "research"
-      ],
-      "policy_tags": [
-        "outbreak_response",
-        "recommendation"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "PAHO / Washington DC"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "PAHO / Washington DC"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "PAHO News"
-      ]
-    },
-    {
       "id": "d7babf2394bcc1d6",
       "title": "HIV 感染および HIV 陰性の青年および若年成人における 4 価ヒトパピローマウイルスワクチンの安全性と免疫原性",
       "summary": "HIV 感染および HIV 陰性の青年および若年成人における 4 価ヒトパピローマウイルスワクチンの安全性と免疫原性",
@@ -1888,73 +1950,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "CIDRAP Vaccines & Immunization"
-      ]
-    },
-    {
-      "id": "a5f974945fbad064",
-      "title": "米国における小児死亡に対するインフルエンザワクチンの有効性：2016～2025年 - AAP",
-      "summary": "米国における小児死亡に対するインフルエンザワクチンの有効性: 2016–2025 AAP",
-      "summary_ai": "米国における小児死亡に対するインフルエンザワクチンの有効性: 2016–2025 AAP",
-      "title_original": "Influenza Vaccine Effectiveness Against Pediatric Death in the United States: 2016–2025 - AAP",
-      "summary_original": "Influenza Vaccine Effectiveness Against Pediatric Death in the United States: 2016–2025 AAP",
-      "summary_ai_original": "Influenza Vaccine Effectiveness Against Pediatric Death in the United States: 2016–2025 AAP",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNbUNxUW5yOUgtNUlOMHlOU2xVMzdCdXhYQm9wVzl6R2RJOGt0VTFaMkNjendGbjNQRHhXWDZKTE9KMHROYUZHbjNiM21weDVCREFvcURySWxETkROeUF3VUd6R3N2aS1LTzZSVEtEV3BaVklWbF9UVVY1WDI3eWJnVjQxVkhWLXRCTFk1LWY2MEROY0ZuV1RIOV9hLWp6RXBrd00teGZZU2J6azU4VUQ2WUM4bXRSRDlhV2RwSVV0T0RYRTY1eFJvMHpIeW5CQm4yNE4teXBRaEVEZDg3ekNzVUxKY1BwdmRIR1VqNXhqTl8tYWtBS3pwbXZn?oc=5",
-      "source": "Pediatrics journal",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 7,
-      "published_at": "2026-07-06T20:13:38+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "influenza"
-      ],
-      "variants": [],
-      "target_country": "米国",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "Pediatrics"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "Pediatrics"
-        },
-        "target": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "米国"
-        }
-      },
-      "location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "米国"
-      },
-      "region": "North America",
-      "country": "米国",
-      "lat": 38.9072,
-      "lng": -77.0369,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Pediatrics journal"
       ]
     }
   ]
