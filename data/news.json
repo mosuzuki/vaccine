@@ -1,8 +1,8 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-07-25T22:04:53.970184+00:00",
-  "item_count": 21,
+  "generated_at": "2026-07-26T22:08:23.618160+00:00",
+  "item_count": 17,
   "archive_count": 388,
   "days_back": 14,
   "plot_mode_default": "source",
@@ -95,22 +95,22 @@
       "name": "Lancet Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Athelancet.com%2Fjournals%2Flaninf&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 3,
       "kept": 0
     },
     {
       "name": "NEJM",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Anejm.org%20(trial%20OR%20effectiveness%20OR%20policy%20OR%20safety)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 1,
       "kept": 0
     },
     {
       "name": "BMJ",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abmj.com%20(policy%20OR%20trial%20OR%20effectiveness%20OR%20communication)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 6,
-      "kept": 5
+      "seen": 5,
+      "kept": 4
     },
     {
       "name": "Vaccine journal",
@@ -130,14 +130,14 @@
       "name": "Nature Medicine vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fnm%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20uptake%20OR%20policy)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 1,
       "kept": 0
     },
     {
       "name": "Nature Communications vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fncomms%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20surveillance)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 3,
       "kept": 0
     },
     {
@@ -165,7 +165,7 @@
       "name": "Science vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ascience.org%2Fdoi%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20antibody)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -193,14 +193,14 @@
       "name": "JAMA vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjama%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 2,
       "kept": 0
     },
     {
       "name": "JAMA Network Open vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjamanetworkopen%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 2,
       "kept": 0
     },
     {
@@ -249,49 +249,49 @@
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 38,
+      "seen": 26,
       "kept": 2
     },
     {
       "name": "AP Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 7,
+      "seen": 5,
       "kept": 0
     },
     {
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 44,
+      "seen": 24,
       "kept": 1
     },
     {
       "name": "Financial Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aft.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 9,
-      "kept": 1
+      "seen": 8,
+      "kept": 0
     },
     {
       "name": "STAT Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 11,
+      "seen": 8,
       "kept": 1
     },
     {
       "name": "Nature News Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 8,
+      "seen": 6,
       "kept": 0
     },
     {
       "name": "Science Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Ascience.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 11,
+      "seen": 5,
       "kept": 1
     },
     {
@@ -305,14 +305,14 @@
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 16,
+      "seen": 19,
       "kept": 0
     },
     {
       "name": "Washington Post Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 12,
+      "seen": 10,
       "kept": 0
     },
     {
@@ -326,28 +326,28 @@
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 31,
+      "seen": 21,
       "kept": 0
     },
     {
       "name": "朝日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Aasahi.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 7,
+      "seen": 6,
       "kept": 0
     },
     {
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 13,
+      "seen": 12,
       "kept": 1
     },
     {
       "name": "毎日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 12,
+      "seen": 10,
       "kept": 0
     },
     {
@@ -368,15 +368,15 @@
       "name": "Clinical Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fcid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 2,
       "kept": 1
     },
     {
       "name": "Journal of Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fjid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
-      "kept": 2
+      "seen": 1,
+      "kept": 1
     },
     {
       "name": "Open Forum Infectious Diseases",
@@ -417,7 +417,7 @@
       "name": "EBioMedicine vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Athelancet.com%2Fjournals%2Febiom&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -459,18 +459,18 @@
       "name": "SSRN vaccine preprints",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Apapers.ssrn.com%20(effectiveness%20OR%20safety%20OR%20policy%20OR%20trial)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
-      "kept": 1
+      "seen": 3,
+      "kept": 0
     }
   ],
   "weekly_ai_summary": {
-    "generated_at": "2026-07-25T22:04:53.970184+00:00",
+    "generated_at": "2026-07-26T22:08:23.618160+00:00",
     "period_days": 7,
     "policy_count": 1,
     "academic_count": 6,
     "status": "ok",
     "model": "gpt-4o-mini",
-    "policy_summary": "HHSワクチン委員会が新しい憲章を取得しました。これは、ワクチンに関する政策の推進に寄与する可能性があります。",
+    "policy_summary": "HHSワクチン委員会が新しい憲章を取得しました。これはワクチンに関する推奨事項に影響を与える可能性があります。",
     "academic_summary": "第2相ランダム化二価RSVpreF母体ワクチン試験の結果が発表され、安全性や抗体の持続性が評価されています。また、Qdenga (TAK-003) デング熱ワクチンに関する各国の旅行者向けガイダンスの比較分析も行われています。"
   },
   "items": [
@@ -676,13 +676,13 @@
       ]
     },
     {
-      "id": "5b5f4d3de40478bb",
-      "title": "新型コロナウイルス感染症（COVID-19）ワクチンの有効性と肝硬変患者におけるアルファ、デルタ、オミクロン変異体の地域有病率 - Gut",
-      "summary": "新型コロナウイルス感染症（COVID-19）ワクチンの有効性と肝硬変患者におけるアルファ、デルタ、オミクロン変異体の市中感染率",
-      "summary_ai": "新型コロナウイルス感染症（COVID-19）ワクチンの有効性と肝硬変患者におけるアルファ、デルタ、オミクロン変異体の市中感染率",
-      "title_original": "COVID-19 vaccine effectiveness and community prevalence of Alpha, Delta and Omicron variants in patients with cirrhosis - Gut",
-      "summary_original": "COVID-19 vaccine effectiveness and community prevalence of Alpha, Delta and Omicron variants in patients with cirrhosis Gut",
-      "summary_ai_original": "COVID-19 vaccine effectiveness and community prevalence of Alpha, Delta and Omicron variants in patients with cirrhosis Gut",
+      "id": "c337722f98fd5ac1",
+      "title": "新型コロナウイルス感染症ワクチンの有効性と肝硬変患者におけるアルファ、デルタ、オミクロン変異体の地域有病率 - Gut Journal",
+      "summary": "新型コロナウイルス感染症ワクチンの有効性と肝硬変患者におけるアルファ、デルタ、オミクロン変異体の地域有病率 Gut Journal",
+      "summary_ai": "新型コロナウイルス感染症ワクチンの有効性と肝硬変患者におけるアルファ、デルタ、オミクロン変異体の地域有病率 Gut Journal",
+      "title_original": "COVID-19 vaccine effectiveness and community prevalence of Alpha, Delta and Omicron variants in patients with cirrhosis - Gut Journal",
+      "summary_original": "COVID-19 vaccine effectiveness and community prevalence of Alpha, Delta and Omicron variants in patients with cirrhosis Gut Journal",
+      "summary_ai_original": "COVID-19 vaccine effectiveness and community prevalence of Alpha, Delta and Omicron variants in patients with cirrhosis Gut Journal",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVmp2NHVpaElyaXBKQl9CUnN2TmgtSmJXYkFTanY0ZGpGLVVPelR0ZHQ2MmNHNU5oazNmV3lybXZ5WUZOYndjNDUwSTl3bERxRkxXOGZ6eGJIMVBUN2lFM2Y0M3VTTjBUTDAwZXlnVFpRb0doUFVsWkNORE1qbUgwRDloTGNtdw?oc=5",
       "source": "BMJ",
@@ -1421,73 +1421,6 @@
       ]
     },
     {
-      "id": "6a6ac73f2c656c9b",
-      "title": "エボラ出血熱ワクチン：オックスフォード、ブンディブギョ株に対する英国の治験を開始",
-      "summary": "エボラ出血熱ワクチン：オックスフォード、ブンディブギョ株に対する英国の治験を開始",
-      "summary_ai": "エボラ出血熱ワクチン：オックスフォード、ブンディブギョ株に対する英国の治験を開始",
-      "title_original": "Ebola vaccine: Oxford starts UK trial against Bundibugyo strain - The",
-      "summary_original": "Ebola vaccine: Oxford starts UK trial against Bundibugyo strain The",
-      "summary_ai_original": "Ebola vaccine: Oxford starts UK trial against Bundibugyo strain The",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TUWMxZE1hRV9QVTZUOXFCTE43d0p4ZGRWb2FHNkJSZXZQVzBUMGNTR21xQkljbmVVeU9YZXZtd1RSUFBOMW1lbFhlaHVIR0N3dHA3UC1keXJTbEU?oc=5",
-      "source": "BMJ",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-07-14T07:00:00+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "ebola"
-      ],
-      "variants": [],
-      "target_country": "英国",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BMJ / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BMJ / London"
-        },
-        "target": {
-          "key": "uk",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "英国"
-        }
-      },
-      "location": {
-        "key": "uk",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "英国"
-      },
-      "region": "Europe",
-      "country": "英国",
-      "lat": 51.5074,
-      "lng": -0.1278,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "BMJ"
-      ]
-    },
-    {
       "id": "f3863c623bf77586",
       "title": "数十年にわたる米国のワクチン政策の解体を目指すRFKジュニアの内部 - ロイター",
       "summary": "数十年にわたる米国のワクチン政策廃止を目指すRFKジュニアの内部 Reuters",
@@ -1550,73 +1483,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "Reuters Vaccines / Immunization"
-      ]
-    },
-    {
-      "id": "5c466685a5803ad2",
-      "title": "Bavarian Nordic社のチクングニア熱ワクチンがブラジルで規制当局の承認を申請 – 企業発表 – Financial Times",
-      "summary": "Bavarian Nordic社のチクングニア熱ワクチンがブラジルで規制当局の承認を申請 – 企業発表 フィナンシャル・タイムズ",
-      "summary_ai": "Bavarian Nordic社のチクングニア熱ワクチンがブラジルで規制当局の承認を申請 – 企業発表 フィナンシャル・タイムズ",
-      "title_original": "Bavarian Nordic’s Chikungunya Vaccine Submitted for Regulatory Approval in Brazil – Company Announcement - Financial Times",
-      "summary_original": "Bavarian Nordic’s Chikungunya Vaccine Submitted for Regulatory Approval in Brazil – Company Announcement Financial Times",
-      "summary_ai_original": "Bavarian Nordic’s Chikungunya Vaccine Submitted for Regulatory Approval in Brazil – Company Announcement Financial Times",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNjREb0VBd3phS3lRX1ZSWml1ckNOLVQ2YlBNRnNZRjZLS1JieExCZFI3bUYxdklnWGd2bkRFa2M4aWprLUNTdzJ5czRQTExyc3B1MjUxdnNWak1VTjg0UEIzSzViM2hHNHVfcDhBQVBpWEt3S3BVRk43Sl9GdEJocnpFMDdPb1hYWDN1ZTFsdUpxa2N4ZG1kcA?oc=5",
-      "source": "Financial Times Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-07-13T11:00:00+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [
-        "approval"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "ブラジル",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "Financial Times"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "Financial Times"
-        },
-        "target": {
-          "key": "brazil",
-          "name_ja": "ブラジル",
-          "lat": -15.7939,
-          "lng": -47.8828,
-          "region": "South America",
-          "label": "ブラジル"
-        }
-      },
-      "location": {
-        "key": "brazil",
-        "name_ja": "ブラジル",
-        "lat": -15.7939,
-        "lng": -47.8828,
-        "region": "South America",
-        "label": "ブラジル"
-      },
-      "region": "South America",
-      "country": "ブラジル",
-      "lat": -15.7939,
-      "lng": -47.8828,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Financial Times Vaccines / Immunization"
       ]
     },
     {
@@ -1751,136 +1617,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "BBC Vaccines / Immunization"
-      ]
-    },
-    {
-      "id": "9abac52cf681365f",
-      "title": "2 シーズンにわたる介護施設入居者における RSV 感染に対する 2 価 RSVpreF のワクチン有効性: 遡及コホート研究 - SSRN eLibrary",
-      "summary": "2 シーズンにわたる介護施設入居者における RSV 感染症に対する 2 価 RSVpreF のワクチン有効性: 遡及コホート研究 SSRN eLibrary",
-      "summary_ai": "2 シーズンにわたる介護施設入居者における RSV 感染症に対する 2 価 RSVpreF のワクチン有効性: 遡及コホート研究 SSRN eLibrary",
-      "title_original": "Vaccine Effectiveness of Bivalent RSVpreF against RSV Infection in Nursing Home Residents Over Two Seasons: A Retrospective Cohort Study - SSRN eLibrary",
-      "summary_original": "Vaccine Effectiveness of Bivalent RSVpreF against RSV Infection in Nursing Home Residents Over Two Seasons: A Retrospective Cohort Study SSRN eLibrary",
-      "summary_ai_original": "Vaccine Effectiveness of Bivalent RSVpreF against RSV Infection in Nursing Home Residents Over Two Seasons: A Retrospective Cohort Study SSRN eLibrary",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1EcFlBVnJyVGRjUk01SE16cTVVdzM4OVBucGxiMTdIQjdPenZGdXhCOXlVelJOemJmR2g1Z2NhQXh3N3RoR2VOeEktYXh4bXM0ZWxjVURUTVpWX21WTWxDVl9lOU4yMXl1aUpR?oc=5",
-      "source": "SSRN vaccine preprints",
-      "source_type": "preprint",
-      "source_tier": "Tier 3",
-      "source_priority": 6,
-      "published_at": "2026-07-12T02:31:49+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "SSRN"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "SSRN"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "SSRN vaccine preprints"
-      ]
-    },
-    {
-      "id": "193ab5b36494ac05",
-      "title": "季節前の感染と予防接種によるインフルエンザの発症率とワクチンの有効性: 17シーズンの分析 - オックスフォード・アカデミック",
-      "summary": "季節前の感染と予防接種によるインフルエンザの発症率とワクチンの有効性: 17シーズンの分析 オックスフォード・アカデミック",
-      "summary_ai": "季節前の感染と予防接種によるインフルエンザの発症率とワクチンの有効性: 17シーズンの分析 オックスフォード・アカデミック",
-      "title_original": "Influenza Attack Rates and Vaccine Effectiveness by Prior-Season Infection and Vaccination: A 17-Season Analysis - Oxford Academic",
-      "summary_original": "Influenza Attack Rates and Vaccine Effectiveness by Prior-Season Infection and Vaccination: A 17-Season Analysis Oxford Academic",
-      "summary_ai_original": "Influenza Attack Rates and Vaccine Effectiveness by Prior-Season Infection and Vaccination: A 17-Season Analysis Oxford Academic",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWEIwRlBranVBb3BFalV4RF9pU2dFNnJNSWFNdGVweko5QUJVZHRDVWFVVFc0RFNMMlAyTkdkbWdrUkFZeWhxVkxiX3RXaFZvOGY3Y2taenl2WHd3MVBoczdRUEc5VDkyRVpkMGlOX3VWQUFvTFpfWDUwUzk2RnJuN1JlQkRNaDctc2NBLUZ0T1Q5eXZlcXhEMW9n?oc=5",
-      "source": "Journal of Infectious Diseases",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-07-11T22:20:21+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "Journal of Infectious Diseases"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "Journal of Infectious Diseases"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Journal of Infectious Diseases"
       ]
     }
   ]
