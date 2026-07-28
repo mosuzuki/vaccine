@@ -1,9 +1,9 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-07-27T22:14:39.284259+00:00",
+  "generated_at": "2026-07-28T22:13:59.290847+00:00",
   "item_count": 15,
-  "archive_count": 389,
+  "archive_count": 393,
   "days_back": 14,
   "plot_mode_default": "source",
   "feed_status": [
@@ -23,7 +23,7 @@
       "name": "CDC Newsroom",
       "url": "https://tools.cdc.gov/api/v2/resources/media/316422.rss",
       "status": "ok",
-      "seen": 9,
+      "seen": 8,
       "kept": 0
     },
     {
@@ -82,7 +82,7 @@
       "url": "https://www.paho.org/en/rss.xml",
       "status": "ok",
       "seen": 10,
-      "kept": 2
+      "kept": 1
     },
     {
       "name": "The Lancet series",
@@ -102,7 +102,7 @@
       "name": "NEJM",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Anejm.org%20(trial%20OR%20effectiveness%20OR%20policy%20OR%20safety)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 2,
       "kept": 0
     },
     {
@@ -137,7 +137,7 @@
       "name": "Nature Communications vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fncomms%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20surveillance)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 5,
       "kept": 0
     },
     {
@@ -151,7 +151,7 @@
       "name": "Nature Immunology vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fni%20(immunogenicity%20OR%20antibody%20OR%20immune%20response%20OR%20trial)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -235,7 +235,7 @@
       "name": "bioRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abiorxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 4,
+      "seen": 5,
       "kept": 0
     },
     {
@@ -249,21 +249,21 @@
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 48,
-      "kept": 2
+      "seen": 40,
+      "kept": 0
     },
     {
       "name": "AP Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 5,
+      "seen": 6,
       "kept": 0
     },
     {
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 22,
+      "seen": 24,
       "kept": 0
     },
     {
@@ -285,34 +285,34 @@
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
       "seen": 7,
-      "kept": 0
+      "kept": 1
     },
     {
       "name": "Science Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Ascience.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 5,
+      "seen": 4,
       "kept": 1
     },
     {
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 12,
+      "seen": 13,
       "kept": 0
     },
     {
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 16,
+      "seen": 22,
       "kept": 0
     },
     {
       "name": "Washington Post Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 10,
+      "seen": 13,
       "kept": 0
     },
     {
@@ -326,28 +326,28 @@
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 21,
-      "kept": 0
+      "seen": 18,
+      "kept": 1
     },
     {
       "name": "朝日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Aasahi.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 7,
+      "seen": 5,
       "kept": 0
     },
     {
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 11,
+      "seen": 13,
       "kept": 0
     },
     {
       "name": "毎日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 10,
+      "seen": 8,
       "kept": 0
     },
     {
@@ -389,7 +389,7 @@
       "name": "Emerging Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Awwwnc.cdc.gov%2Feid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 2,
       "kept": 0
     },
     {
@@ -459,36 +459,36 @@
       "name": "SSRN vaccine preprints",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Apapers.ssrn.com%20(effectiveness%20OR%20safety%20OR%20policy%20OR%20trial)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 3,
-      "kept": 0
+      "seen": 2,
+      "kept": 1
     }
   ],
   "weekly_ai_summary": {
-    "generated_at": "2026-07-27T22:14:39.284259+00:00",
+    "generated_at": "2026-07-28T22:13:59.290847+00:00",
     "period_days": 7,
-    "policy_count": 0,
-    "academic_count": 2,
+    "policy_count": 1,
+    "academic_count": 4,
     "status": "ok",
     "model": "gpt-4o-mini",
-    "policy_summary": "該当する政策関連の情報はありません。",
-    "academic_summary": "第2相ランダム化二価RSVpreF母体ワクチン試験において、安全性、抗体の持続性、有効性が評価されています。また、Qdenga (TAK-003) デング熱ワクチンに関する各国の旅行者向けガイダンスの比較分析が行われています。"
+    "policy_summary": "全国のケアマネジャーを介した帯状疱疹ワクチンの定期接種啓発活動が行われ、約6.5万人の要支援・要介護高齢者およびその家族の接種促進に寄与したと推計されている。",
+    "academic_summary": "ウガンダでのワクチン治験における炭素排出量の評価が行われ、研究者の環境責任を強化するための行動が特定された。また、百日咳予防接種に関する将来の政策についての考慮事項が示された。"
   },
   "items": [
     {
-      "id": "dd68e934687101b6",
-      "title": "初のボランティアが治験でエボラ出血熱ブンディブギョ株ワクチンを接種 - ロイター",
-      "summary": "初のボランティアが治験でエボラ出血熱ブンディブギョ株ワクチンを接種 ロイター",
-      "summary_ai": "初のボランティアが治験でエボラ出血熱ブンディブギョ株ワクチンを接種 ロイター",
-      "title_original": "First volunteer receives Ebola Bundibugyo strain vaccine in trial - Reuters",
-      "summary_original": "First volunteer receives Ebola Bundibugyo strain vaccine in trial Reuters",
-      "summary_ai_original": "First volunteer receives Ebola Bundibugyo strain vaccine in trial Reuters",
+      "id": "c433e3b479bc3791",
+      "title": "非妊娠および妊娠中の女性を対象とした母体用 6 価グループ B 連鎖球菌ワクチン: ランダム化第 1/2 相試験",
+      "summary": "非妊娠および妊娠中の女性を対象とした母体用 6 価グループ B 連鎖球菌ワクチン: ランダム化第 1/2 相試験",
+      "summary_ai": "非妊娠および妊娠中の女性を対象とした母体用 6 価グループ B 連鎖球菌ワクチン: ランダム化第 1/2 相試験",
+      "title_original": "Maternal 6-valent group B Streptococcus vaccine in non-pregnant and pregnant females: a randomized phase 1/2 trial",
+      "summary_original": "Maternal 6-valent group B Streptococcus vaccine in non-pregnant and pregnant females: a randomized phase 1/2 trial",
+      "summary_ai_original": "Maternal 6-valent group B Streptococcus vaccine in non-pregnant and pregnant females: a randomized phase 1/2 trial",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzcTI1aF9UQm9CZ2pydHUwSDVpdWlKM0FUQ1k3STZQYWFOaU01WHJWV2prQm5mSkNaRjBRSlNOcXIzV0RjenlGalptNnk3X3phYThPbGM5Yl9KVkplcThhalVvXzRDTEk?oc=5",
-      "source": "Reuters Vaccines / Immunization",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE03ZDRBX0NuYXZ2S19CaTVGVGlLMExJcUs5aW9XNmttc3B6VXRrWXFINF9meDBiNVZhcjJ6NUJZWmM3RVlVSDVSdjFGMU9ldG1lTjRYSWdHM1d0YkNWWU9V?oc=5",
+      "source": "Nature News Vaccines / Immunization",
       "source_type": "media",
       "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-07-27T16:35:07+00:00",
+      "source_priority": 5,
+      "published_at": "2026-07-28T09:56:45+00:00",
       "topics": [
         "research"
       ],
@@ -502,7 +502,7 @@
         "lat": 51.5074,
         "lng": -0.1278,
         "region": "Europe",
-        "label": "Reuters"
+        "label": "Nature News"
       },
       "plot": {
         "source": {
@@ -511,7 +511,7 @@
           "lat": 51.5074,
           "lng": -0.1278,
           "region": "Europe",
-          "label": "Reuters"
+          "label": "Nature News"
         },
         "target": {
           "key": "unknown",
@@ -536,7 +536,204 @@
       "lng": 0.0,
       "duplicate_count": 1,
       "duplicate_sources": [
-        "Reuters Vaccines / Immunization"
+        "Nature News Vaccines / Immunization"
+      ]
+    },
+    {
+      "id": "27d3b60b4d2f3715",
+      "title": "インターネットインフィニティー[6545]：全国のケアマネジャーを介した帯状疱疹ワクチン定期接種啓発活動の結果 ～推計約6.5万人の要支援・要介護高齢者および家族の接種の一助に～ 2026年7月28日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "summary": "インターネットインフィニティー[6545]：全国のケアマネジャーを介した帯状疱疹ワクチン定期接種啓発活動の結果 ～推計約6.5万人の要支援・要介護高齢者および家族の接種の一助に～ 2026年7月28日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
+      "summary_ai": "インターネットインフィニティー[6545]：全国のケアマネジャーを介した帯状疱疹ワクチン定期接種啓発活動の結果 ～推計約6.5万人の要支援・要介護高齢者および家族の接種の一助に～ 2026年7月28日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
+      "title_original": "インターネットインフィニティー[6545]：全国のケアマネジャーを介した帯状疱疹ワクチン定期接種啓発活動の結果 ～推計約6.5万人の要支援・要介護高齢者および家族の接種の一助に～ 2026年7月28日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "summary_original": "インターネットインフィニティー[6545]：全国のケアマネジャーを介した帯状疱疹ワクチン定期接種啓発活動の結果 ～推計約6.5万人の要支援・要介護高齢者および家族の接種の一助に～ 2026年7月28日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
+      "summary_ai_original": "インターネットインフィニティー[6545]：全国のケアマネジャーを介した帯状疱疹ワクチン定期接種啓発活動の結果 ～推計約6.5万人の要支援・要介護高齢者および家族の接種の一助に～ 2026年7月28日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wckIzeWZkY0NMQUYxMlNvMUlNTnBkMXNmN0RyUS1xMmR3WndualhIU0NVYWtoRk12a1N1eDlIUWRvM2VpN1lKTzcxaWdxOFlUazlOUFQwM1h3RV90MU5ESDdZd0hMSUZpVHc?oc=5",
+      "source": "日経 ワクチン / 予防接種",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-07-28T02:30:00+00:00",
+      "topics": [
+        "communication"
+      ],
+      "policy_tags": [
+        "communication"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "japan",
+        "name_ja": "日本",
+        "lat": 35.6762,
+        "lng": 139.6503,
+        "region": "Asia",
+        "label": "日本経済新聞"
+      },
+      "plot": {
+        "source": {
+          "key": "japan",
+          "name_ja": "日本",
+          "lat": 35.6762,
+          "lng": 139.6503,
+          "region": "Asia",
+          "label": "日本経済新聞"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "日経 ワクチン / 予防接種"
+      ]
+    },
+    {
+      "id": "d3c4a86b6b735ba3",
+      "title": "ウガンダで実施されたワクチン治験の炭素排出量：研究者の環境責任を強化するための行動を特定するための遡及的評価 - BMJ Open",
+      "summary": "ウガンダで実施されたワクチン治験の炭素排出量：研究者の環境責任を強化するための行動を特定するための遡及的評価 BMJ Open",
+      "summary_ai": "ウガンダで実施されたワクチン治験の炭素排出量：研究者の環境責任を強化するための行動を特定するための遡及的評価 BMJ Open",
+      "title_original": "Carbon emissions of a vaccine trial implemented in Uganda: retrospective assessment to identify actions to enhance researchers’ environmental responsibilities - BMJ Open",
+      "summary_original": "Carbon emissions of a vaccine trial implemented in Uganda: retrospective assessment to identify actions to enhance researchers’ environmental responsibilities BMJ Open",
+      "summary_ai_original": "Carbon emissions of a vaccine trial implemented in Uganda: retrospective assessment to identify actions to enhance researchers’ environmental responsibilities BMJ Open",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HYnhLNjRsRGYxa0R2cnI4cmRZUU5ickNoM25XNzVjc3NTRWhwc0FaOGFPY2dlNkdzaXpWX1liU3lyd191QjdBYlp2QmYtOC1mN1poUU1uNEV5YTBzakVHcmhFXzNtLWVfYTVB?oc=5",
+      "source": "BMJ",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-07-27T18:45:11+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "ウガンダ",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BMJ / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BMJ / London"
+        },
+        "target": {
+          "key": "uganda",
+          "name_ja": "ウガンダ",
+          "lat": 0.3476,
+          "lng": 32.5825,
+          "region": "Africa",
+          "label": "ウガンダ"
+        }
+      },
+      "location": {
+        "key": "uganda",
+        "name_ja": "ウガンダ",
+        "lat": 0.3476,
+        "lng": 32.5825,
+        "region": "Africa",
+        "label": "ウガンダ"
+      },
+      "region": "Africa",
+      "country": "ウガンダ",
+      "lat": 0.3476,
+      "lng": 32.5825,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "BMJ"
+      ]
+    },
+    {
+      "id": "de6c4954261f94fb",
+      "title": "変化する状況における百日咳予防接種: 将来の政策に関する考慮事項 - SSRN eLibrary",
+      "summary": "変化する状況における百日咳予防接種: 将来の政策に関する考慮事項 SSRN eLibrary",
+      "summary_ai": "変化する状況における百日咳予防接種: 将来の政策に関する考慮事項 SSRN eLibrary",
+      "title_original": "Pertussis Vaccination in a Changing Landscape: Considerations for Future Policy - SSRN eLibrary",
+      "summary_original": "Pertussis Vaccination in a Changing Landscape: Considerations for Future Policy SSRN eLibrary",
+      "summary_ai_original": "Pertussis Vaccination in a Changing Landscape: Considerations for Future Policy SSRN eLibrary",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtVWN4eWJKRWVHZkRRZWluSXYzaGJ2OVBJS004R014aG03SVdNTGViTi1ZdW5MNm1fT1pqUlRMYUVqUHozX3phbXB6aUx2SHU2Yko4QS1PVUpwbVV0V08zY2loQjB1SldmR3FN?oc=5",
+      "source": "SSRN vaccine preprints",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 6,
+      "published_at": "2026-07-27T10:43:39+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "SSRN"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "SSRN"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "SSRN vaccine preprints"
       ]
     },
     {
@@ -741,13 +938,13 @@
       ]
     },
     {
-      "id": "c337722f98fd5ac1",
-      "title": "新型コロナウイルス感染症ワクチンの有効性と肝硬変患者におけるアルファ、デルタ、オミクロン変異体の地域有病率 - Gut Journal",
-      "summary": "新型コロナウイルス感染症ワクチンの有効性と肝硬変患者におけるアルファ、デルタ、オミクロン変異体の地域有病率 Gut Journal",
-      "summary_ai": "新型コロナウイルス感染症ワクチンの有効性と肝硬変患者におけるアルファ、デルタ、オミクロン変異体の地域有病率 Gut Journal",
-      "title_original": "COVID-19 vaccine effectiveness and community prevalence of Alpha, Delta and Omicron variants in patients with cirrhosis - Gut Journal",
-      "summary_original": "COVID-19 vaccine effectiveness and community prevalence of Alpha, Delta and Omicron variants in patients with cirrhosis Gut Journal",
-      "summary_ai_original": "COVID-19 vaccine effectiveness and community prevalence of Alpha, Delta and Omicron variants in patients with cirrhosis Gut Journal",
+      "id": "5b5f4d3de40478bb",
+      "title": "新型コロナウイルス感染症（COVID-19）ワクチンの有効性と肝硬変患者におけるアルファ、デルタ、オミクロン変異体の地域有病率 - Gut",
+      "summary": "新型コロナウイルス感染症（COVID-19）ワクチンの有効性と肝硬変患者におけるアルファ、デルタ、オミクロン変異体の市中感染率",
+      "summary_ai": "新型コロナウイルス感染症（COVID-19）ワクチンの有効性と肝硬変患者におけるアルファ、デルタ、オミクロン変異体の市中感染率",
+      "title_original": "COVID-19 vaccine effectiveness and community prevalence of Alpha, Delta and Omicron variants in patients with cirrhosis - Gut",
+      "summary_original": "COVID-19 vaccine effectiveness and community prevalence of Alpha, Delta and Omicron variants in patients with cirrhosis Gut",
+      "summary_ai_original": "COVID-19 vaccine effectiveness and community prevalence of Alpha, Delta and Omicron variants in patients with cirrhosis Gut",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVmp2NHVpaElyaXBKQl9CUnN2TmgtSmJXYkFTanY0ZGpGLVVPelR0ZHQ2MmNHNU5oazNmV3lybXZ5WUZOYndjNDUwSTl3bERxRkxXOGZ6eGJIMVBUN2lFM2Y0M3VTTjBUTDAwZXlnVFpRb0doUFVsWkNORE1qbUgwRDloTGNtdw?oc=5",
       "source": "BMJ",
@@ -1282,208 +1479,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "PAHO News"
-      ]
-    },
-    {
-      "id": "cc681707a6fea960",
-      "title": "ベネズエラ地震の医療対応は、重要な医療サービスの復旧に焦点が移り、初期の回復段階に入る",
-      "summary": "ベネズエラ地震の医療対応は重要な医療サービスの復旧に焦点を移し、初期の回復段階に入る オスカー・レイエス 2026年7月14日",
-      "summary_ai": "ワシントン D.C.、2026 年 7 月 14 日 (PAHO) – 6 月 24 日にベネズエラを襲った壊滅的な地震からほぼ 3 週間が経過し、医療対応は不可欠な医療サービスの回復、紹介ネットワークの強化、二次的な公衆衛生上の緊急事態の防止に重点を置いた重要な初期回復段階に入りつつあります。",
-      "title_original": "Venezuela earthquake health response enters early recovery phase as focus shifts to restoring essential health services",
-      "summary_original": "Venezuela earthquake health response enters early recovery phase as focus shifts to restoring essential health services Oscar Reyes 14 Jul 2026",
-      "summary_ai_original": "Washington, D.C., 14 July 2026 (PAHO) – Nearly three weeks after the devastating earthquakes struck Venezuela on 24 June, the health response is entering a critical early recovery phase focused on restoring essential health services, strengthening referral networks and preventing secondary public health emergencies, ac",
-      "article_text_original": "Washington, D.C., 14 July 2026 (PAHO) – Nearly three weeks after the devastating earthquakes struck Venezuela on 24 June, the health response is entering a critical early recovery phase focused on restoring essential health services, strengthening referral networks and preventing secondary public health emergencies, according to PAHO's latest Situation Report, which provides an overview of the evolving response, and the Organization's accompanying Public Health Situation Analysis for Venezuela. According to the Situation Report, the earthquakes have claimed 4,333 lives, left 16,740 people injured, displaced 17,907 people and damaged 38 health facilities. While emergency medical care and rapid assessments helped save lives in the immediate aftermath, the priority is now shifting to restoring health services, rehabilitating damaged facilities and ensuring people continue to receive essential care as recovery begins. PAHO response As the response transitions into this new phase, PAHO continues to support the Ministry of Health, including through technical cooperation and the coordination of the Health Cluster, which brings together 110 organizations involved in the health response and is co-led by PAHO and the International Rescue Committee. Seven specialists from PAHO/WHO's Regional and Global Response Teams have joined the Organization's office in Caracas, providing expertise in emergency coordination, epidemiological surveillance, logistics, information management, Emergency Medical Team (EMT) coordination, health facility assessments and risk communication. Through the Ministry of Health-led Coordination Cell (CICOM), supported by PAHO, 17 international Emergency Medical Teams are operating across the affected areas. To date, these teams have treated 8,489 people and performed 148 surgeries. As demand for emergency trauma care declines, the teams are increasingly supporting primary health care, rehabilitation and community-based services, helping restore referral pathways and continuity of care. Public health situation and early recovery The Public Health Situation Analysis highlights the main health risks expected over the coming three months and is helping guide priorities for surveillance, vaccination, water, sanitation and hygiene (WASH) interventions, and continuity of care. Displacement, overcrowding and disruptions to essential services increase the risk of diarrheal and respiratory diseases, vector-borne and vaccine-preventable diseases, while also exacerbating malnutrition, maternal health complications and mental health needs. To strengthen early detection and rapid response, national authorities have designated 18 priority diseases and public health events for immediate notification. PAHO field teams have also conducted epidemiological assessments in nine temporary shelters in La Guaira, integrating disease surveillance with infection prevention and control, vaccination, WASH activities and rapid outbreak response. The assessments have also identified broader health needs, including mental health support, nutrition screening and continuity of care for people living with chronic diseases and pregnant women. Vaccination remains a critical component of the recovery, helping reduce the risk of outbreaks among displaced populations and affected communities. More than 24,406 vaccine doses have been administered across the affected states, including tetanus-diphtheria, yellow fever and other priority vaccines. PAHO is working with national authorities to strengthen immunization planning, cold chain management and vaccination strategies to sustain coverage during the recovery phase. Maintaining access to medicines and essential medical supplies is equally critical to restoring health services. PAHO has already delivered six metric tons of emergency medical supplies, including trauma and emergency surgery kits, chronic disease medicines and essential medical equipment, to hospitals and primary health care services. A further 27.5 metric tons of humanitarian supplies are now being deployed, including Interagency Emergency Health Kits capable of supporting primary health care for approximately 200,000 people over three months, alongside trauma and emergency surgery kits, orthopedic supplies and treatment kits for severe acute malnutrition. Mental health and psychosocial support remain an integral part of the response as communities begin to recover from the disaster. PAHO is working with national authorities to strengthen services through technical guidance, standardized protocols, Psychological First Aid and training for frontline health workers, particularly in the most affected communities and temporary shelters. The Situation Report notes that, while significant progress has been made, substantial needs remain. Continued efforts are required to restore the continuity of essential health services, strengthen referral networks and hospital resilience, expand rehabilitation and mental health services, improve water, sanitation and hygiene in temporary shelters, sustain disease surveillance and vaccination activities, and ensure continued access to care for people living with chronic diseases, pregnant women, children and other vulnerable groups. As the response moves beyond the immediate emergency, maintaining access to essential health services will remain central to protecting the health of affected communities. PAHO will continue working alongside the Ministry of Health and partners to strengthen national capacities and support a recovery that not only restores health services but also strengthens the resilience of the health system for the future.",
-      "link": "https://www.paho.org/en/news/14-7-2026-venezuela-earthquake-health-response-enters-early-recovery-phase-focus-shifts",
-      "source": "PAHO News",
-      "source_type": "official",
-      "source_tier": "Tier 1",
-      "source_priority": 8,
-      "published_at": "2026-07-14T18:05:20+00:00",
-      "topics": [
-        "communication",
-        "policy"
-      ],
-      "policy_tags": [
-        "communication",
-        "outbreak_response",
-        "recommendation"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "PAHO / Washington DC"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "PAHO / Washington DC"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "PAHO News"
-      ]
-    },
-    {
-      "id": "6a6ac73f2c656c9b",
-      "title": "エボラ出血熱ワクチン：オックスフォード、ブンディブギョ株に対する英国の治験を開始",
-      "summary": "エボラ出血熱ワクチン：オックスフォード、ブンディブギョ株に対する英国の治験を開始",
-      "summary_ai": "エボラ出血熱ワクチン：オックスフォード、ブンディブギョ株に対する英国の治験を開始",
-      "title_original": "Ebola vaccine: Oxford starts UK trial against Bundibugyo strain - The",
-      "summary_original": "Ebola vaccine: Oxford starts UK trial against Bundibugyo strain The",
-      "summary_ai_original": "Ebola vaccine: Oxford starts UK trial against Bundibugyo strain The",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TUWMxZE1hRV9QVTZUOXFCTE43d0p4ZGRWb2FHNkJSZXZQVzBUMGNTR21xQkljbmVVeU9YZXZtd1RSUFBOMW1lbFhlaHVIR0N3dHA3UC1keXJTbEU?oc=5",
-      "source": "BMJ",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-07-14T07:00:00+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "ebola"
-      ],
-      "variants": [],
-      "target_country": "英国",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BMJ / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BMJ / London"
-        },
-        "target": {
-          "key": "uk",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "英国"
-        }
-      },
-      "location": {
-        "key": "uk",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "英国"
-      },
-      "region": "Europe",
-      "country": "英国",
-      "lat": 51.5074,
-      "lng": -0.1278,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "BMJ"
-      ]
-    },
-    {
-      "id": "f3863c623bf77586",
-      "title": "数十年にわたる米国のワクチン政策の解体を目指すRFKジュニアの内部 - ロイター",
-      "summary": "数十年にわたる米国のワクチン政策廃止を目指すRFKジュニアの内部 Reuters",
-      "summary_ai": "数十年にわたる米国のワクチン政策廃止を目指すRFKジュニアの内部 Reuters",
-      "title_original": "Inside RFK Jr.’s push to dismantle decades of U.S. vaccine policy - Reuters",
-      "summary_original": "Inside RFK Jr.’s push to dismantle decades of U.S. vaccine policy Reuters",
-      "summary_ai_original": "Inside RFK Jr.’s push to dismantle decades of U.S. vaccine policy Reuters",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeGtkMGMwWTF4Nk9SNE5wTjZmVjB0dlhxVmxldEhyaFR2QTMyZE42Y1A4V1c0SkhVc2RFbGU1V1ZyTlo0R19HRGljVUJXa3pIZk1HN3FoNHRITzVLSk9NQXg5ME9lTG5UbGxIYzhFS3hNNTJKbFJpb05mVU5RWjktRzUzSWhjTG5nVm9YZkhwSzdwS1dVNnNTQ3FhaDNITWUtQThMTHZxMTlidw?oc=5",
-      "source": "Reuters Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-07-14T07:00:00+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "Reuters"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "Reuters"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Reuters Vaccines / Immunization"
       ]
     }
   ]
