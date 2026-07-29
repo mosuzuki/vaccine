@@ -1,9 +1,9 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-07-28T22:13:59.290847+00:00",
-  "item_count": 15,
-  "archive_count": 393,
+  "generated_at": "2026-07-29T22:09:01.167726+00:00",
+  "item_count": 17,
+  "archive_count": 395,
   "days_back": 14,
   "plot_mode_default": "source",
   "feed_status": [
@@ -81,7 +81,7 @@
       "name": "PAHO News",
       "url": "https://www.paho.org/en/rss.xml",
       "status": "ok",
-      "seen": 10,
+      "seen": 9,
       "kept": 1
     },
     {
@@ -109,8 +109,8 @@
       "name": "BMJ",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abmj.com%20(policy%20OR%20trial%20OR%20effectiveness%20OR%20communication)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 4,
-      "kept": 4
+      "seen": 7,
+      "kept": 7
     },
     {
       "name": "Vaccine journal",
@@ -137,7 +137,7 @@
       "name": "Nature Communications vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fncomms%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20surveillance)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 5,
+      "seen": 9,
       "kept": 0
     },
     {
@@ -151,7 +151,7 @@
       "name": "Nature Immunology vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fni%20(immunogenicity%20OR%20antibody%20OR%20immune%20response%20OR%20trial)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
@@ -193,7 +193,7 @@
       "name": "JAMA vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjama%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 2,
       "kept": 0
     },
     {
@@ -249,28 +249,28 @@
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 40,
-      "kept": 0
+      "seen": 90,
+      "kept": 1
     },
     {
       "name": "AP Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 6,
+      "seen": 4,
       "kept": 0
     },
     {
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 24,
+      "seen": 35,
       "kept": 0
     },
     {
       "name": "Financial Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aft.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 8,
+      "seen": 7,
       "kept": 0
     },
     {
@@ -284,7 +284,7 @@
       "name": "Nature News Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 7,
+      "seen": 11,
       "kept": 1
     },
     {
@@ -298,21 +298,21 @@
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 13,
+      "seen": 19,
       "kept": 0
     },
     {
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 22,
+      "seen": 24,
       "kept": 0
     },
     {
       "name": "Washington Post Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 13,
+      "seen": 12,
       "kept": 0
     },
     {
@@ -326,28 +326,28 @@
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 18,
-      "kept": 1
+      "seen": 11,
+      "kept": 0
     },
     {
       "name": "朝日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Aasahi.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 5,
+      "seen": 4,
       "kept": 0
     },
     {
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 13,
+      "seen": 11,
       "kept": 0
     },
     {
       "name": "毎日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 8,
+      "seen": 9,
       "kept": 0
     },
     {
@@ -389,7 +389,7 @@
       "name": "Emerging Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Awwwnc.cdc.gov%2Feid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -464,16 +464,154 @@
     }
   ],
   "weekly_ai_summary": {
-    "generated_at": "2026-07-28T22:13:59.290847+00:00",
+    "generated_at": "2026-07-29T22:09:01.167726+00:00",
     "period_days": 7,
     "policy_count": 1,
-    "academic_count": 4,
+    "academic_count": 5,
     "status": "ok",
     "model": "gpt-4o-mini",
-    "policy_summary": "全国のケアマネジャーを介した帯状疱疹ワクチンの定期接種啓発活動が行われ、約6.5万人の要支援・要介護高齢者およびその家族の接種促進に寄与したと推計されている。",
-    "academic_summary": "ウガンダでのワクチン治験における炭素排出量の評価が行われ、研究者の環境責任を強化するための行動が特定された。また、百日咳予防接種に関する将来の政策についての考慮事項が示された。"
+    "policy_summary": "ブラジルはB型肝炎の母子感染根絶の検証を求める文書をPAHO/WHOに提出した。この措置により、ブラジルは世界で最初の国の1つとなる可能性がある。",
+    "academic_summary": "コンゴ民主共和国でのMVA-BNワクチンの母体に対する免疫原性と安全性を評価する第3相試験が実施されている。また、ウガンダでのワクチン治験の炭素排出量に関する研究が行われ、研究者の環境責任を強化するための行動が特定されている。"
   },
   "items": [
+    {
+      "id": "6bb69865354f6238",
+      "title": "ブラジル、B型肝炎の母子感染根絶の検証を求める",
+      "summary": "ブラジル、B型肝炎の母子感染根絶の検証を求める クリスティーナ・ミッチェル 2026年7月29日",
+      "summary_ai": "リオデジャネイロ、2026年7月29日（PAHO） – ブラジルは汎アメリカ保健機関/世界保健機関（PAHO/WHO）に、公衆衛生上の問題としてB型肝炎の母子感染の根絶の検証を求める文書を提出した。これは同国を世界で最初の国の1つとなる可能性がある措置である。",
+      "title_original": "Brazil seeks validation of the elimination of mother-to-child transmission of hepatitis B",
+      "summary_original": "Brazil seeks validation of the elimination of mother-to-child transmission of hepatitis B Cristina Mitchell 29 Jul 2026",
+      "summary_ai_original": "Rio de Janeiro, July 29, 2026 (PAHO) – Brazil has submitted a dossier to the Pan American Health Organization/World Health Organization (PAHO/WHO) requesting validation of the elimination of mother-to-child transmission of hepatitis B as a public health problem, a step that could make the country one of the first in th",
+      "article_text_original": "The request, submitted on World Hepatitis Day, launches an international review process that could make Brazil one of the first countries in the Americas to officially validate this public health achievement. Rio de Janeiro, July 29, 2026 (PAHO) – Brazil has submitted a dossier to the Pan American Health Organization/World Health Organization (PAHO/WHO) requesting validation of the elimination of mother-to-child transmission of hepatitis B as a public health problem, a step that could make the country one of the first in the Americas to officially achieve this milestone. The dossier was formally presented on July 28 during a ceremony attended by Brazil’s President Luiz Inácio Lula da Silva; Minister of Health Alexandre Padilha; World Health Organization (WHO) Director-General Dr. Tedros Adhanom Ghebreyesus; and PAHO Director Dr. Jarbas Barbosa. The submission coincided with World Hepatitis Day, marked during the International AIDS Conference (AIDS 2026) at an event organized by the Government of Brazil and WHO under the theme “Hepatitis: Let’s Break Down the Barriers.” Brazil reported that it has met, for two consecutive years, the international criteria required to request validation of the elimination of mother-to-child transmission of hepatitis B. These include an estimated prevalence of active hepatitis B infection below the target threshold of 0.1% among children under five years of age, as well as coverage above 95% for antenatal care and over 90% for the hepatitis B birth dose vaccine. “The Region of the Americas has shown that it is possible to protect new generations from hepatitis B through vaccination, strong maternal and child health services, and sustained commitment from countries,” said Dr. Jarbas Barbosa, Director of PAHO. “Brazil is well positioned to advance toward validation, and its experience can serve as an inspiration for other countries across the region.” The request will undergo an initial assessment by PAHO, followed by a review by an independent panel of experts and a final evaluation by WHO’s Global Validation Advisory Committee, which determines whether countries meet the established validation criteria. Validation of the elimination of mother-to-child transmission is part of a global effort to end the transmission of preventable infections from mothers to their children. Hepatitis B is a viral infection that affects the liver and can lead to chronic disease, cirrhosis, and liver cancer. Preventing mother-to-child transmission is especially important because infections acquired during infancy are far more likely to become chronic. In the Americas, PAHO expanded this approach in 2017 through the ETMI Plus initiative, adding hepatitis B and Chagas disease to regional efforts to eliminate diseases that can be transmitted from mother to child. WHO later formally incorporated hepatitis B into its global validation framework for the elimination of mother-to-child transmission as part of the “triple elimination” strategy targeting HIV, syphilis, and hepatitis B. To achieve validation, countries must demonstrate that infection has been reduced to extremely low levels among young children while maintaining high coverage of vaccination and antenatal care services. In December 2025, Brazil became the largest country in the world to be validated by WHO for eliminating mother-to-child transmission of HIV. The country is now pursuing the elimination of other infections transmitted from mother to child, including hepatitis B, as part of a broader public health strategy. Regional progress toward elimination Speaking at the World Hepatitis Day event, Dr. Barbosa highlighted the significant progress made across the Americas in reducing hepatitis B among children through decades of investment in immunization and stronger maternal and child health services. He also noted that the Turks and Caicos Islands recently became the first territory in the Americas to be validated by WHO for eliminating mother-to-child transmission of hepatitis B, demonstrating that countries can build on progress made against HIV and syphilis to reach new elimination goals. “Today, the prevalence of hepatitis B among children under five in the Americas is well below the targets set for 2030,” he said. “However, our work is far from over. Around 10 million people in the region are still living with hepatitis B or hepatitis C, and too many remain undiagnosed, untreated, or without timely access to quality services.” The PAHO Director also emphasized that lessons learned from the HIV response have shown how scientific evidence, political leadership, community engagement, and sustained investment can translate into tangible progress toward disease elimination. “Brazil, Mexico, Colombia, Chile, Guyana, and other countries are expanding access to testing and treatment, bringing services closer to communities, and integrating hepatitis care into primary health care,” he said. According to PAHO data, countries in the Americas procured more than US$574 million worth of hepatitis-related vaccines, diagnostics, and medicines through the Organization’s pooled procurement mechanisms between 2018 and 2025, helping expand access to essential prevention and treatment technologies. PAHO is working with countries across the Americas to eliminate more than 30 communicable diseases and related conditions by 2030 through its Elimination Initiative. Eliminating mother-to-child transmission of HIV, syphilis, hepatitis B, and Chagas disease is part of this broader regional effort to ensure that future generations are born free from preventable infections.",
+      "link": "https://www.paho.org/en/news/29-7-2026-brazil-seeks-validation-elimination-mother-child-transmission-hepatitis-b",
+      "source": "PAHO News",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 8,
+      "published_at": "2026-07-29T13:14:41+00:00",
+      "topics": [
+        "communication",
+        "policy"
+      ],
+      "policy_tags": [
+        "financing",
+        "recommendation"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "メキシコ",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "PAHO / Washington DC"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "PAHO / Washington DC"
+        },
+        "target": {
+          "key": "mexico",
+          "name_ja": "メキシコ",
+          "lat": 19.4326,
+          "lng": -99.1332,
+          "region": "North America",
+          "label": "メキシコ"
+        }
+      },
+      "location": {
+        "key": "mexico",
+        "name_ja": "メキシコ",
+        "lat": 19.4326,
+        "lng": -99.1332,
+        "region": "North America",
+        "label": "メキシコ"
+      },
+      "region": "North America",
+      "country": "メキシコ",
+      "lat": 19.4326,
+      "lng": -99.1332,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "PAHO News"
+      ]
+    },
+    {
+      "id": "4770c6974b4bb865",
+      "title": "PregInPoxVac 母体プロトコル: コンゴ民主共和国における母体の免疫原性と MVA-BNワクチンの安全性を評価する第 3 相試験 - BMJ Open",
+      "summary": "PregInPoxVac 母体プロトコル: コンゴ民主共和国における母体の免疫原性と MVA-BNワクチンの安全性を評価する第 3 相試験 BMJ Open",
+      "summary_ai": "PregInPoxVac 母体プロトコル: コンゴ民主共和国における母体の免疫原性と MVA-BNワクチンの安全性を評価する第 3 相試験 BMJ Open",
+      "title_original": "PregInPoxVac maternal protocol: a phase 3 trial evaluating maternal immunogenicity and safety of the MVA-BN vaccine in the Democratic Republic of the Congo - BMJ Open",
+      "summary_original": "PregInPoxVac maternal protocol: a phase 3 trial evaluating maternal immunogenicity and safety of the MVA-BN vaccine in the Democratic Republic of the Congo BMJ Open",
+      "summary_ai_original": "PregInPoxVac maternal protocol: a phase 3 trial evaluating maternal immunogenicity and safety of the MVA-BN vaccine in the Democratic Republic of the Congo BMJ Open",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9VNG5meUhNVDhFcnhuRE8wU1BReHdrY3BEX1JfdktJVzk0eFZqaVZVcjlFQms5czFRWlpScnNNMmtMOXpuM0ZKWVRiWEpZVG5nOG9wQXNmTQ?oc=5",
+      "source": "BMJ",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-07-29T07:47:44+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [
+        "safety"
+      ],
+      "vaccines": [
+        "mpox"
+      ],
+      "variants": [],
+      "target_country": "コンゴ民主共和国",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BMJ / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BMJ / London"
+        },
+        "target": {
+          "key": "democratic republic of the congo",
+          "name_ja": "コンゴ民主共和国",
+          "lat": -4.4419,
+          "lng": 15.2663,
+          "region": "Africa",
+          "label": "コンゴ民主共和国"
+        }
+      },
+      "location": {
+        "key": "democratic republic of the congo",
+        "name_ja": "コンゴ民主共和国",
+        "lat": -4.4419,
+        "lng": 15.2663,
+        "region": "Africa",
+        "label": "コンゴ民主共和国"
+      },
+      "region": "Africa",
+      "country": "コンゴ民主共和国",
+      "lat": -4.4419,
+      "lng": 15.2663,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "BMJ"
+      ]
+    },
     {
       "id": "c433e3b479bc3791",
       "title": "非妊娠および妊娠中の女性を対象とした母体用 6 価グループ B 連鎖球菌ワクチン: ランダム化第 1/2 相試験",
@@ -540,73 +678,6 @@
       ]
     },
     {
-      "id": "27d3b60b4d2f3715",
-      "title": "インターネットインフィニティー[6545]：全国のケアマネジャーを介した帯状疱疹ワクチン定期接種啓発活動の結果 ～推計約6.5万人の要支援・要介護高齢者および家族の接種の一助に～ 2026年7月28日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "summary": "インターネットインフィニティー[6545]：全国のケアマネジャーを介した帯状疱疹ワクチン定期接種啓発活動の結果 ～推計約6.5万人の要支援・要介護高齢者および家族の接種の一助に～ 2026年7月28日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
-      "summary_ai": "インターネットインフィニティー[6545]：全国のケアマネジャーを介した帯状疱疹ワクチン定期接種啓発活動の結果 ～推計約6.5万人の要支援・要介護高齢者および家族の接種の一助に～ 2026年7月28日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
-      "title_original": "インターネットインフィニティー[6545]：全国のケアマネジャーを介した帯状疱疹ワクチン定期接種啓発活動の結果 ～推計約6.5万人の要支援・要介護高齢者および家族の接種の一助に～ 2026年7月28日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "summary_original": "インターネットインフィニティー[6545]：全国のケアマネジャーを介した帯状疱疹ワクチン定期接種啓発活動の結果 ～推計約6.5万人の要支援・要介護高齢者および家族の接種の一助に～ 2026年7月28日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
-      "summary_ai_original": "インターネットインフィニティー[6545]：全国のケアマネジャーを介した帯状疱疹ワクチン定期接種啓発活動の結果 ～推計約6.5万人の要支援・要介護高齢者および家族の接種の一助に～ 2026年7月28日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wckIzeWZkY0NMQUYxMlNvMUlNTnBkMXNmN0RyUS1xMmR3WndualhIU0NVYWtoRk12a1N1eDlIUWRvM2VpN1lKTzcxaWdxOFlUazlOUFQwM1h3RV90MU5ESDdZd0hMSUZpVHc?oc=5",
-      "source": "日経 ワクチン / 予防接種",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-07-28T02:30:00+00:00",
-      "topics": [
-        "communication"
-      ],
-      "policy_tags": [
-        "communication"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "japan",
-        "name_ja": "日本",
-        "lat": 35.6762,
-        "lng": 139.6503,
-        "region": "Asia",
-        "label": "日本経済新聞"
-      },
-      "plot": {
-        "source": {
-          "key": "japan",
-          "name_ja": "日本",
-          "lat": 35.6762,
-          "lng": 139.6503,
-          "region": "Asia",
-          "label": "日本経済新聞"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "日経 ワクチン / 予防接種"
-      ]
-    },
-    {
       "id": "d3c4a86b6b735ba3",
       "title": "ウガンダで実施されたワクチン治験の炭素排出量：研究者の環境責任を強化するための行動を特定するための遡及的評価 - BMJ Open",
       "summary": "ウガンダで実施されたワクチン治験の炭素排出量：研究者の環境責任を強化するための行動を特定するための遡及的評価 BMJ Open",
@@ -666,9 +737,74 @@
       "country": "ウガンダ",
       "lat": 0.3476,
       "lng": 32.5825,
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "duplicate_sources": [
         "BMJ"
+      ]
+    },
+    {
+      "id": "2eef8af1d95d0b98",
+      "title": "初のボランティアが試験でエボラ出血熱ブンディブギョ株ワクチンを接種 - ロイター",
+      "summary": "初のボランティアが治験でエボラ出血熱ブンディブギョ株ワクチンを接種 ロイター.com",
+      "summary_ai": "初のボランティアが治験でエボラ出血熱ブンディブギョ株ワクチンを接種 ロイター.com",
+      "title_original": "First volunteer receives Ebola Bundibugyo strain vaccine in trial - reuters.com",
+      "summary_original": "First volunteer receives Ebola Bundibugyo strain vaccine in trial reuters.com",
+      "summary_ai_original": "First volunteer receives Ebola Bundibugyo strain vaccine in trial reuters.com",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzcTI1aF9UQm9CZ2pydHUwSDVpdWlKM0FUQ1k3STZQYWFOaU01WHJWV2prQm5mSkNaRjBRSlNOcXIzV0RjenlGalptNnk3X3phYThPbGM5Yl9KVkplcThhalVvXzRDTEk?oc=5",
+      "source": "Reuters Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-07-27T16:40:46+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Reuters"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Reuters"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Reuters Vaccines / Immunization"
       ]
     },
     {
@@ -734,6 +870,73 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "SSRN vaccine preprints"
+      ]
+    },
+    {
+      "id": "b836ec77dfbff8f1",
+      "title": "エボラ出血熱ワクチン：オックスフォード、ブンディブギョ株に対する英国の治験を開始 - bmj.com",
+      "summary": "エボラ出血熱ワクチン：オックスフォード、ブンディブギョ株に対する英国の治験を開始 bmj.com",
+      "summary_ai": "エボラ出血熱ワクチン：オックスフォード、ブンディブギョ株に対する英国の治験を開始 bmj.com",
+      "title_original": "Ebola vaccine: Oxford starts UK trial against Bundibugyo strain - bmj.com",
+      "summary_original": "Ebola vaccine: Oxford starts UK trial against Bundibugyo strain bmj.com",
+      "summary_ai_original": "Ebola vaccine: Oxford starts UK trial against Bundibugyo strain bmj.com",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KSzhVZGZrNG9acHBYRjVuM2dDb0ZDUEd6S3RGS2NDOHByOVdfUU1qTml3ak5xbWY0cEdiLUZQc0NmbmNSbFdheVVqT25SOU1uNk5tNkMzRmVZdFd2TllyYw?oc=5",
+      "source": "BMJ",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-07-23T07:00:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "ebola"
+      ],
+      "variants": [],
+      "target_country": "英国",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BMJ / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BMJ / London"
+        },
+        "target": {
+          "key": "uk",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "英国"
+        }
+      },
+      "location": {
+        "key": "uk",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "英国"
+      },
+      "region": "Europe",
+      "country": "英国",
+      "lat": 51.5074,
+      "lng": -0.1278,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "BMJ"
       ]
     },
     {
@@ -886,7 +1089,7 @@
       "source_type": "media",
       "source_tier": "Tier 2",
       "source_priority": 5,
-      "published_at": "2026-07-21T19:25:00+00:00",
+      "published_at": "2026-07-21T07:00:00+00:00",
       "topics": [
         "research"
       ],
@@ -938,13 +1141,13 @@
       ]
     },
     {
-      "id": "5b5f4d3de40478bb",
-      "title": "新型コロナウイルス感染症（COVID-19）ワクチンの有効性と肝硬変患者におけるアルファ、デルタ、オミクロン変異体の地域有病率 - Gut",
-      "summary": "新型コロナウイルス感染症（COVID-19）ワクチンの有効性と肝硬変患者におけるアルファ、デルタ、オミクロン変異体の市中感染率",
-      "summary_ai": "新型コロナウイルス感染症（COVID-19）ワクチンの有効性と肝硬変患者におけるアルファ、デルタ、オミクロン変異体の市中感染率",
-      "title_original": "COVID-19 vaccine effectiveness and community prevalence of Alpha, Delta and Omicron variants in patients with cirrhosis - Gut",
-      "summary_original": "COVID-19 vaccine effectiveness and community prevalence of Alpha, Delta and Omicron variants in patients with cirrhosis Gut",
-      "summary_ai_original": "COVID-19 vaccine effectiveness and community prevalence of Alpha, Delta and Omicron variants in patients with cirrhosis Gut",
+      "id": "c337722f98fd5ac1",
+      "title": "新型コロナウイルス感染症ワクチンの有効性と肝硬変患者におけるアルファ、デルタ、オミクロン変異体の地域有病率 - Gut Journal",
+      "summary": "新型コロナウイルス感染症ワクチンの有効性と肝硬変患者におけるアルファ、デルタ、オミクロン変異体の地域有病率 Gut Journal",
+      "summary_ai": "新型コロナウイルス感染症ワクチンの有効性と肝硬変患者におけるアルファ、デルタ、オミクロン変異体の地域有病率 Gut Journal",
+      "title_original": "COVID-19 vaccine effectiveness and community prevalence of Alpha, Delta and Omicron variants in patients with cirrhosis - Gut Journal",
+      "summary_original": "COVID-19 vaccine effectiveness and community prevalence of Alpha, Delta and Omicron variants in patients with cirrhosis Gut Journal",
+      "summary_ai_original": "COVID-19 vaccine effectiveness and community prevalence of Alpha, Delta and Omicron variants in patients with cirrhosis Gut Journal",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVmp2NHVpaElyaXBKQl9CUnN2TmgtSmJXYkFTanY0ZGpGLVVPelR0ZHQ2MmNHNU5oazNmV3lybXZ5WUZOYndjNDUwSTl3bERxRkxXOGZ6eGJIMVBUN2lFM2Y0M3VTTjBUTDAwZXlnVFpRb0doUFVsWkNORE1qbUgwRDloTGNtdw?oc=5",
       "source": "BMJ",
@@ -1141,13 +1344,13 @@
       ]
     },
     {
-      "id": "d70581d193a442be",
-      "title": "HHSワクチン委員会が静かに新しい憲章を取得-STAT",
-      "summary": "HHSワクチン委員会が静かに新しい憲章STATを取得",
-      "summary_ai": "HHSワクチン委員会が静かに新しい憲章STATを取得",
-      "title_original": "HHS vaccine committee quietly gets new charter - STAT",
-      "summary_original": "HHS vaccine committee quietly gets new charter STAT",
-      "summary_ai_original": "HHS vaccine committee quietly gets new charter STAT",
+      "id": "53b722c63590242f",
+      "title": "HHSワクチン委員会が静かに新しい憲章を取得 - statnews.com",
+      "summary": "HHSワクチン委員会が静かに新しい憲章を取得 statnews.com",
+      "summary_ai": "HHSワクチン委員会が静かに新しい憲章を取得 statnews.com",
+      "title_original": "HHS vaccine committee quietly gets new charter - statnews.com",
+      "summary_original": "HHS vaccine committee quietly gets new charter statnews.com",
+      "summary_ai_original": "HHS vaccine committee quietly gets new charter statnews.com",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRzVQTUc1NnB1QnpYc2l1UzZ1akU5Wl83NFA0WmtFWWJXYXk4NmQwT210NjU4UE1kbll0TEdiOGkxOWlUSXQzV2UxUXdqLVVEa0ZRQTFzdlJYX2Z6cmZBemVvVHliZWVSaDFqUEZmSGE5MXBRcXRoTjFXa0Q3dTNDdUJKV0VLR25kM2cyRDhOM0dya0hqWUNfSFFTcw?oc=5",
       "source": "STAT Vaccines / Immunization",
@@ -1275,13 +1478,13 @@
       ]
     },
     {
-      "id": "9c560166a39756d7",
-      "title": "ノーミクロン優勢時の重篤な covid-19 に対する異種 3 回目の接種スケジュールの有効性の比較 -",
-      "summary": "ノーザでのオミクロン優勢時の重篤な covid-19 に対する異種 3 回目の接種スケジュールの有効性の比較",
-      "summary_ai": "ノーザでのオミクロン優勢時の重篤な covid-19 に対する異種 3 回目の接種スケジュールの有効性の比較",
-      "title_original": "Comparative effectiveness of heterologous third dose vaccine schedules against severe covid-19 during omicron predominance in No - The",
-      "summary_original": "Comparative effectiveness of heterologous third dose vaccine schedules against severe covid-19 during omicron predominance in No The",
-      "summary_ai_original": "Comparative effectiveness of heterologous third dose vaccine schedules against severe covid-19 during omicron predominance in No The",
+      "id": "dbce53d5dc7ea045",
+      "title": "ノーミクロン優勢時の重篤な covid-19 に対する異種 3 回目の接種スケジュールの有効性の比較 - bmj.com",
+      "summary": "No bmj.com におけるオミクロン優勢時の重篤な covid-19 に対する異種 3 回目の接種スケジュールの有効性の比較",
+      "summary_ai": "No bmj.com におけるオミクロン優勢時の重篤な covid-19 に対する異種 3 回目の接種スケジュールの有効性の比較",
+      "title_original": "Comparative effectiveness of heterologous third dose vaccine schedules against severe covid-19 during omicron predominance in No - bmj.com",
+      "summary_original": "Comparative effectiveness of heterologous third dose vaccine schedules against severe covid-19 during omicron predominance in No bmj.com",
+      "summary_ai_original": "Comparative effectiveness of heterologous third dose vaccine schedules against severe covid-19 during omicron predominance in No bmj.com",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XMlUyRHlxQXRaUnFGNjhNcGJqNFVMNlBaQlo2bzNoMHhTSzNsS0dFMVJFamxSOHIyaFJGaE5IVmFYaXNudFo5WFlsSHVYbm9SVDRQUGVHNWJ1aXFrQkJUejdNYzNtVVhuZ191NQ?oc=5",
       "source": "BMJ",
@@ -1407,78 +1610,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "Clinical Infectious Diseases"
-      ]
-    },
-    {
-      "id": "1a84421e22c54d9c",
-      "title": "WHOとユニセフの推計によると、南北アメリカ大陸では定期予防接種が回復しているが、麻疹の普及率が減少しているため、地域社会は流行に対して脆弱になっている",
-      "summary": "WHOとユニセフの推計によると、南北アメリカ大陸では定期予防接種が回復しているが、麻疹罹患率の減少により地域社会は流行に対して脆弱になっている クリスティーナ・ミッチェル 2026年7月15日",
-      "summary_ai": "この地域はパンデミック前の定期予防接種レベルを超えているが、免疫力のギャップが、特に予防接種を受けていない、または予防接種が不十分な地域社会で麻疹の流行を助長し続けている ワシントンD.C.、2026年7月15日（PAHO） – アメリカ大陸における小児予防接種は2025年も引き続き回復し、ワクチン未接種者の数も増加した",
-      "title_original": "WHO and UNICEF estimates show routine immunization has rebounded in the Americas, but declining measles coverage leaves communities vulnerable to outbreaks",
-      "summary_original": "WHO and UNICEF estimates show routine immunization has rebounded in the Americas, but declining measles coverage leaves communities vulnerable to outbreaks Cristina Mitchell 15 Jul 2026",
-      "summary_ai_original": "The Region has surpassed pre-pandemic routine vaccination levels, but immunity gaps continue to fuel measles outbreaks, particularly among unvaccinated and under-vaccinated communities Washington, D.C., 15 July 2026 (PAHO) – Childhood vaccination in the Americas continued to recover in 2025, with the number of unvaccin",
-      "article_text_original": "The Region has surpassed pre-pandemic routine vaccination levels, but immunity gaps continue to fuel measles outbreaks, particularly among unvaccinated and under-vaccinated communities Washington, D.C., 15 July 2026 (PAHO) – Childhood vaccination in the Americas continued to recover in 2025, with the number of unvaccinated children under the age of one falling from 1.3 million to 1.1 million. However, declining measles vaccination coverage is leaving communities increasingly vulnerable to outbreaks, according to the latest WHO and UNICEF Estimates of National Immunization Coverage (WUENIC), released today. Progress towards strengthening routine immunization programmes in the region is moving forward: Coverage with the first dose of diphtheria, tetanus and pertussis vaccine (DTP1) reached 92%, while coverage with the third dose (DTP3) held steady at 86%, confirming that the Americas have not only recovered from pandemic-related setbacks but also surpassed pre-pandemic routine immunization levels. “The Americas have demonstrated that progress is possible. Countries have strengthened routine immunization programmes, reduced the number of children missing lifesaving vaccines, and continue to lead globally in important areas such as HPV vaccination. But the resurgence of measles is a warning that we cannot take these achievements for granted,” said Dr. Jarbas Barbosa, Director of PAHO. Persistent challenges in measles coverage Measles vaccination coverage, which increased in 2024, experienced a decline in 2025. Since 2024, coverage with the first dose of measles-containing vaccine (MCV1) has fallen from 89% to 88%, while second-dose coverage (MCV2) has dropped from 79% to 78% - both well below the 95% required to prevent outbreaks of this highly contagious disease. The estimates also reveal marked differences in coverage both between and within countries. While some have consistently achieved measles vaccination coverage above 90%, others remain well below this threshold, reflecting persistent geographic and socio-economic inequalities in access to immunization services. Several countries in the region continue to respond to measles outbreaks, most of which have occurred among people who were not vaccinated or who had not received all recommended doses. These outbreaks highlight how quickly measles can spread when immunity gaps persist, underscoring the importance of continued investment in maintaining high vaccination coverage, strong surveillance systems, and rapid outbreak response capacities. “As long as measles continues to circulate anywhere in the world, no country or community can afford to lower its guard. Vaccination is our strongest protection, and we must continue working to reach every child, close immunity gaps, and maintain the high levels of coverage needed to prevent outbreaks,” added Dr. Jarbas Barbosa. Measles is one of the most contagious diseases in the world. Even small pockets of under-immunized populations can allow transmission to continue and fuel outbreaks. Achieving and sustaining at least 95% coverage with two doses of a measles-containing vaccine in every community remains essential to interrupt transmission and protect vulnerable populations. A global leader in HPV vaccination Alongside continued progress in routine childhood immunization, the Americas remain the global leader in human papillomavirus (HPV) vaccination. Coverage reached 71% in 2025, reflecting sustained political commitment and investment in protecting adolescents against cervical cancer, the second leading cause of cancer death among women in many countries of the Region. This achievement demonstrates what is possible when countries prioritize immunization, expand equitable access to vaccines, and build programmes that protect people throughout the life course. Maintaining progress requires sustained investment The recovery of routine immunization in the Americas marks an important public health milestone, but the latest estimates make clear that the work is far from over. Persistent immunity gaps continue to leave communities vulnerable to vaccine-preventable diseases, particularly measles, and threaten decades of hard-won progress. PAHO is working closely with countries to strengthen national immunization programs, reach children who have missed routine vaccination, increase confidence in vaccines through clear, evidence-based communication, and reinforce surveillance and outbreak response systems. Through the PAHO Revolving Fund, the Organization also supports countries in securing timely, affordable access to quality-assured vaccines, helping them strengthen immunization programmes, increase coverage, and close immunity gaps. Maintaining high vaccination coverage in every community will be essential not only to prevent future outbreaks, but also to protect the health gains achieved across the Americas and ensure that every child benefits from the lifesaving protection vaccines provide. Notes to editors: Access the WHO dataset: Global dashboard, country profiles, and additional resources Access the UNICEF dataset: Overview page, Full datasets, Data visualisation, Regional data visualisation, Country profiles WUENIC estimates, including historical data, are revised annually as new country data become available. Figures in this release should not be compared against previous years' published reports. Based on country-reported data, the WHO and UNICEF estimates of national immunization coverage (WUENIC) provide the world’s largest and most comprehensive dataset on immunization trends for vaccinations against 13 diseases given through regular health systems - normally at clinics, community centres, outreach services, or health worker visits. For 2025 data were provided from 185 countries. WHO and UNICEF are working with Gavi, the Vaccine Alliance and other partners to deliver the global Immunization Agenda 2030 (IA2030), a strategy for all countries and relevant global partners to achieve set goals on preventing diseases through immunization and delivering vaccines to everyone, everywhere, at every age.",
-      "link": "https://www.paho.org/en/news/15-7-2026-who-and-unicef-estimates-show-routine-immunization-has-rebounded-americas-declining",
-      "source": "PAHO News",
-      "source_type": "official",
-      "source_tier": "Tier 1",
-      "source_priority": 8,
-      "published_at": "2026-07-15T12:38:55+00:00",
-      "topics": [
-        "communication",
-        "policy"
-      ],
-      "policy_tags": [
-        "communication",
-        "financing",
-        "outbreak_response"
-      ],
-      "vaccines": [
-        "pertussis"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "PAHO / Washington DC"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "PAHO / Washington DC"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "PAHO News"
       ]
     }
   ]
