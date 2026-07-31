@@ -1,9 +1,9 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-07-30T22:16:00.837907+00:00",
-  "item_count": 17,
-  "archive_count": 397,
+  "generated_at": "2026-07-31T22:13:05.486630+00:00",
+  "item_count": 21,
+  "archive_count": 403,
   "days_back": 14,
   "plot_mode_default": "source",
   "feed_status": [
@@ -23,7 +23,7 @@
       "name": "CDC Newsroom",
       "url": "https://tools.cdc.gov/api/v2/resources/media/316422.rss",
       "status": "ok",
-      "seen": 11,
+      "seen": 10,
       "kept": 0
     },
     {
@@ -103,14 +103,14 @@
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Anejm.org%20(trial%20OR%20effectiveness%20OR%20policy%20OR%20safety)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
       "seen": 3,
-      "kept": 0
+      "kept": 1
     },
     {
       "name": "BMJ",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abmj.com%20(policy%20OR%20trial%20OR%20effectiveness%20OR%20communication)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 7,
-      "kept": 6
+      "seen": 6,
+      "kept": 5
     },
     {
       "name": "Vaccine journal",
@@ -137,7 +137,7 @@
       "name": "Nature Communications vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fncomms%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20surveillance)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 9,
+      "seen": 7,
       "kept": 0
     },
     {
@@ -207,7 +207,7 @@
       "name": "JAMA Internal Medicine vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjamainternalmedicine%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -221,8 +221,8 @@
       "name": "Human Vaccines & Immunotherapeutics",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Atandfonline.com%20%22Human%20Vaccines%20%26%20Immunotherapeutics%22&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
-      "kept": 0
+      "seen": 1,
+      "kept": 1
     },
     {
       "name": "medRxiv vaccines",
@@ -242,28 +242,28 @@
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 22,
+      "seen": 20,
       "kept": 1
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 99,
-      "kept": 1
+      "seen": 74,
+      "kept": 2
     },
     {
       "name": "AP Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 5,
+      "seen": 4,
       "kept": 0
     },
     {
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 32,
+      "seen": 26,
       "kept": 0
     },
     {
@@ -277,7 +277,7 @@
       "name": "STAT Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 9,
+      "seen": 6,
       "kept": 1
     },
     {
@@ -285,7 +285,7 @@
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
       "seen": 15,
-      "kept": 1
+      "kept": 0
     },
     {
       "name": "Science Vaccines / Immunization",
@@ -305,7 +305,7 @@
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 28,
+      "seen": 27,
       "kept": 0
     },
     {
@@ -333,43 +333,43 @@
       "name": "朝日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Aasahi.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 7,
+      "seen": 3,
       "kept": 0
     },
     {
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 12,
+      "seen": 8,
       "kept": 0
     },
     {
       "name": "毎日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 10,
+      "seen": 4,
       "kept": 0
     },
     {
       "name": "JAMA Network vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 6,
-      "kept": 2
+      "seen": 8,
+      "kept": 1
     },
     {
       "name": "JAMA Pediatrics vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjamapediatrics&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
-      "kept": 2
+      "seen": 1,
+      "kept": 1
     },
     {
       "name": "Clinical Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fcid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
-      "kept": 1
+      "seen": 0,
+      "kept": 0
     },
     {
       "name": "Journal of Infectious Diseases",
@@ -382,14 +382,14 @@
       "name": "Open Forum Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fofid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
-      "kept": 0
+      "seen": 3,
+      "kept": 1
     },
     {
       "name": "Emerging Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Awwwnc.cdc.gov%2Feid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 2,
       "kept": 0
     },
     {
@@ -438,7 +438,7 @@
       "name": "Vaccine X",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Asciencedirect.com%2Fjournal%2Fvaccine-x&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -459,21 +459,223 @@
       "name": "SSRN vaccine preprints",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Apapers.ssrn.com%20(effectiveness%20OR%20safety%20OR%20policy%20OR%20trial)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
-      "kept": 1
+      "seen": 6,
+      "kept": 4
     }
   ],
   "weekly_ai_summary": {
-    "generated_at": "2026-07-30T22:16:00.837907+00:00",
+    "generated_at": "2026-07-31T22:13:05.486630+00:00",
     "period_days": 7,
     "policy_count": 2,
-    "academic_count": 2,
+    "academic_count": 8,
     "status": "ok",
     "model": "gpt-4o-mini",
-    "policy_summary": "米国では400以上の州ワクチン法案が提案され、9つの新しい法律が成立した。ブラジルはB型肝炎の母子感染根絶を求める文書をPAHO/WHOに提出した。",
-    "academic_summary": "ウガンダでのワクチン治験に関する研究が、環境責任を強化するための炭素排出量評価を行った。百日咳予防接種に関する将来の政策についての考慮事項が提起された。"
+    "policy_summary": "米国では400以上の州ワクチン法案が提出され、9つの新しい法律が成立した。ブラジルはB型肝炎の母子感染根絶を目指し、PAHO/WHOに検証を求める文書を提出した。",
+    "academic_summary": "中国での研究により、生後6～71ヵ月の小児に対する二価EV71およびCA16不活化ワクチンの安全性と免疫原性が評価された。HPVワクチンの接種率向上に向けた戦略に関する系統的レビューも発表された。"
   },
   "items": [
+    {
+      "id": "fc76bfda57ae0ecc",
+      "title": "中国の生後6～71ヵ月の小児における二価EV71およびCA16不活化ワクチンの安全性と免疫原性：無作為化、二重盲検、実薬対照、第1/2相用量設定試験 - SSRN eLibrary",
+      "summary": "中国の生後6～71ヵ月の小児における二価EV71およびCA16不活化ワクチンの安全性と免疫原性：無作為化、二重盲検、実薬対照、第1/2相用量設定試験 SSRN eLibrary",
+      "summary_ai": "中国の生後6～71ヵ月の小児における二価EV71およびCA16不活化ワクチンの安全性と免疫原性：無作為化、二重盲検、実薬対照、第1/2相用量設定試験 SSRN eLibrary",
+      "title_original": "Safety and Immunogenicity of a Bivalent EV71 and CA16 Inactivated Vaccine in Children Aged 6–71 Months in China: A Randomised, Double-Blind, Active-Controlled, Phase 1/2 Dose-Finding Trial - SSRN eLibrary",
+      "summary_original": "Safety and Immunogenicity of a Bivalent EV71 and CA16 Inactivated Vaccine in Children Aged 6–71 Months in China: A Randomised, Double-Blind, Active-Controlled, Phase 1/2 Dose-Finding Trial SSRN eLibrary",
+      "summary_ai_original": "Safety and Immunogenicity of a Bivalent EV71 and CA16 Inactivated Vaccine in Children Aged 6–71 Months in China: A Randomised, Double-Blind, Active-Controlled, Phase 1/2 Dose-Finding Trial SSRN eLibrary",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iSEFvLXBucVY5TjIxOHVTYnRUYTMzeXhmS2p0TFAxTDNGd001TlNOUHZXRFI1MFI0VkxsRExrT3NFY0lZOUVVWkx2OUpsbmZjbWhkVE5TN0JzdEVUOFJhaGEyUkM5c0tkTE5n?oc=5",
+      "source": "SSRN vaccine preprints",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 6,
+      "published_at": "2026-07-31T17:05:17+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [
+        "safety"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "中国",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "SSRN"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "SSRN"
+        },
+        "target": {
+          "key": "china",
+          "name_ja": "中国",
+          "lat": 39.9042,
+          "lng": 116.4074,
+          "region": "Asia",
+          "label": "中国"
+        }
+      },
+      "location": {
+        "key": "china",
+        "name_ja": "中国",
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "region": "Asia",
+        "label": "中国"
+      },
+      "region": "Asia",
+      "country": "中国",
+      "lat": 39.9042,
+      "lng": 116.4074,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "SSRN vaccine preprints"
+      ]
+    },
+    {
+      "id": "603ea9f76067969c",
+      "title": "男性およびトランスジェンダーの人々と性交渉を持つ男性の間で HPVワクチンの接種率と自信を高めるために実施された戦略: 系統的レビュー - Taylor & Francis Online",
+      "summary": "男性およびトランスジェンダーの人々と性交渉を持つ男性の間で HPVワクチンの接種率と自信を高めるために実施された戦略: 系統的レビュー Taylor & Francis Online",
+      "summary_ai": "男性およびトランスジェンダーの人々と性交渉を持つ男性の間で HPVワクチンの接種率と自信を高めるために実施された戦略: 系統的レビュー Taylor & Francis Online",
+      "title_original": "Strategies implemented to increase HPV vaccine uptake and confidence among men who have sex with men and transgender people: A systematic review - Taylor & Francis Online",
+      "summary_original": "Strategies implemented to increase HPV vaccine uptake and confidence among men who have sex with men and transgender people: A systematic review Taylor & Francis Online",
+      "summary_ai_original": "Strategies implemented to increase HPV vaccine uptake and confidence among men who have sex with men and transgender people: A systematic review Taylor & Francis Online",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE81amlxeTVXQ0FtdEdNZmlxMkhLREhvNEw3UTJtYS1YQnpUeW40OHFJbThDOEs5ZEZ1S2s3TnlmYXlEQXVtWGJQM2NJTE5kZXcyQ3cxd3lpS24xaWxrbzU1MXJRZVRJQzd0aTJMaU95alNIM1E?oc=5",
+      "source": "Human Vaccines & Immunotherapeutics",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-07-31T12:33:55+00:00",
+      "topics": [
+        "communication",
+        "research"
+      ],
+      "policy_tags": [
+        "communication"
+      ],
+      "vaccines": [
+        "hpv"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "HV&I"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "HV&I"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Human Vaccines & Immunotherapeutics"
+      ]
+    },
+    {
+      "id": "48108b8e2e645070",
+      "title": "Tdap ワクチンの有効性と青少年における防御力の低下 - NEJM 臨床医",
+      "summary": "Tdap ワクチンの有効性と青少年における防御の低下 NEJM 臨床医",
+      "summary_ai": "Tdap ワクチンの有効性と青少年における防御の低下 NEJM 臨床医",
+      "title_original": "Tdap Vaccine Effectiveness and Waning Protection in Adolescents - NEJM Clinician",
+      "summary_original": "Tdap Vaccine Effectiveness and Waning Protection in Adolescents NEJM Clinician",
+      "summary_ai_original": "Tdap Vaccine Effectiveness and Waning Protection in Adolescents NEJM Clinician",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5CWUhFTHQyb3M0dERkX0V5akhjai1YelgycURCS3ZPdmNPb1owU1REYk5SUVNKVUxUc2pidmZQSmhjMzg5UExVZTgxd0xyUndtQ1d5Zw?oc=5",
+      "source": "NEJM",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-07-31T02:45:13+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "NEJM / Boston"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "NEJM / Boston"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "NEJM"
+      ]
+    },
     {
       "id": "210f8968741152e8",
       "title": "400以上の州ワクチン法案、9つの新しい法律、2つの連邦憲章、そしてCDC長官に一歩近づいた：米国のワクチン政策の現状 - CIDRAP",
@@ -537,6 +739,73 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "CIDRAP Vaccines & Immunization"
+      ]
+    },
+    {
+      "id": "124c87ba6b271eac",
+      "title": "予防接種後のオミクロン時代における新型コロナウイルス感染症に対する抗ウイルス薬の有効性の評価：系統的レビューとメタ分析 - オックスフォード・アカデミック",
+      "summary": "予防接種後のオミクロン時代における新型コロナウイルス感染症に対する抗ウイルス薬の有効性の評価：体系的レビューとメタ分析 オックスフォード・アカデミック",
+      "summary_ai": "予防接種後のオミクロン時代における新型コロナウイルス感染症に対する抗ウイルス薬の有効性の評価：体系的レビューとメタ分析 オックスフォード・アカデミック",
+      "title_original": "Evaluating the Effectiveness of Antivirals for COVID-19 in the Post-vaccine, Omicron Era: A Systematic Review and Meta-analysis - Oxford Academic",
+      "summary_original": "Evaluating the Effectiveness of Antivirals for COVID-19 in the Post-vaccine, Omicron Era: A Systematic Review and Meta-analysis Oxford Academic",
+      "summary_ai_original": "Evaluating the Effectiveness of Antivirals for COVID-19 in the Post-vaccine, Omicron Era: A Systematic Review and Meta-analysis Oxford Academic",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1JbGxEUTBwdWRRLVVfQW1ZSXBwMVBtZFNueFUxVVRxem5aWXZBbEpsOFZVcWtVdllpVWFUNUNOSk1HZGtTa2hOXzlEZUx1MjNlWktkTEJxOHE1SEpuRUF5WjFqTEU3V3VIeVE?oc=5",
+      "source": "Open Forum Infectious Diseases",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-07-30T20:53:14+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [
+        "omicron"
+      ],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "Open Forum Infectious Diseases"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "Open Forum Infectious Diseases"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Open Forum Infectious Diseases"
       ]
     },
     {
@@ -676,43 +945,45 @@
       ]
     },
     {
-      "id": "22db1d92a5e9c0e6",
-      "title": "非妊娠および妊娠中の女性における母親の 6 価グループ B 連鎖球菌ワクチン: ランダム化第 1/2 相試験 - Nature.com",
-      "summary": "非妊娠および妊娠中の女性における母体用 6 価グループ B 連鎖球菌ワクチン：ランダム化第 1/2 相試験 Nature.com",
-      "summary_ai": "非妊娠および妊娠中の女性における母体用 6 価グループ B 連鎖球菌ワクチン：ランダム化第 1/2 相試験 Nature.com",
-      "title_original": "Maternal 6-valent group B Streptococcus vaccine in non-pregnant and pregnant females: a randomized phase 1/2 trial - nature.com",
-      "summary_original": "Maternal 6-valent group B Streptococcus vaccine in non-pregnant and pregnant females: a randomized phase 1/2 trial nature.com",
-      "summary_ai_original": "Maternal 6-valent group B Streptococcus vaccine in non-pregnant and pregnant females: a randomized phase 1/2 trial nature.com",
+      "id": "8d97a56f5bbba2db",
+      "title": "全国予防接種技術諮問グループ間の連携: アメリカ大陸における証拠に基づいた予防接種政策を強化する革新的なアプローチ - SSRN eLibrary",
+      "summary": "全国予防接種技術諮問グループ間の連携：南北アメリカ SSRN eLibrary における証拠に基づいた予防接種政策を強化する革新的なアプローチ",
+      "summary_ai": "全国予防接種技術諮問グループ間の連携：南北アメリカ SSRN eLibrary における証拠に基づいた予防接種政策を強化する革新的なアプローチ",
+      "title_original": "Twinning between National Immunization Technical Advisory Groups: An innovative approach to strengthening evidence-informed immunization policy in the Americas - SSRN eLibrary",
+      "summary_original": "Twinning between National Immunization Technical Advisory Groups: An innovative approach to strengthening evidence-informed immunization policy in the Americas SSRN eLibrary",
+      "summary_ai_original": "Twinning between National Immunization Technical Advisory Groups: An innovative approach to strengthening evidence-informed immunization policy in the Americas SSRN eLibrary",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE03ZDRBX0NuYXZ2S19CaTVGVGlLMExJcUs5aW9XNmttc3B6VXRrWXFINF9meDBiNVZhcjJ6NUJZWmM3RVlVSDVSdjFGMU9ldG1lTjRYSWdHM1d0YkNWWU9V?oc=5",
-      "source": "Nature News Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 5,
-      "published_at": "2026-07-28T09:56:45+00:00",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE02YVk4TDF5SWdtS1BVeDZzMzlXT3h0czZtWHVaR3hqSGtqRS1SeTBta1BaT1l0YU9DV2t0eG5UZFFDdklpSlZUd2lua25pTEZ5UjhpQThENnZUbnltZHpRcDJoaVNCTXI5Sjkw?oc=5",
+      "source": "SSRN vaccine preprints",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 6,
+      "published_at": "2026-07-29T07:00:00+00:00",
       "topics": [
-        "research"
+        "policy"
       ],
-      "policy_tags": [],
+      "policy_tags": [
+        "recommendation"
+      ],
       "vaccines": [],
       "variants": [],
       "target_country": "不明",
       "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "Nature News"
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "SSRN"
       },
       "plot": {
         "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "Nature News"
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "SSRN"
         },
         "target": {
           "key": "unknown",
@@ -737,38 +1008,38 @@
       "lng": 0.0,
       "duplicate_count": 1,
       "duplicate_sources": [
-        "Nature News Vaccines / Immunization"
+        "SSRN vaccine preprints"
       ]
     },
     {
-      "id": "d3c4a86b6b735ba3",
-      "title": "ウガンダで実施されたワクチン治験の炭素排出量：研究者の環境責任を強化するための行動を特定するための遡及的評価 - BMJ Open",
-      "summary": "ウガンダで実施されたワクチン治験の炭素排出量：研究者の環境責任を強化するための行動を特定するための遡及的評価 BMJ Open",
-      "summary_ai": "ウガンダで実施されたワクチン治験の炭素排出量：研究者の環境責任を強化するための行動を特定するための遡及的評価 BMJ Open",
-      "title_original": "Carbon emissions of a vaccine trial implemented in Uganda: retrospective assessment to identify actions to enhance researchers’ environmental responsibilities - BMJ Open",
-      "summary_original": "Carbon emissions of a vaccine trial implemented in Uganda: retrospective assessment to identify actions to enhance researchers’ environmental responsibilities BMJ Open",
-      "summary_ai_original": "Carbon emissions of a vaccine trial implemented in Uganda: retrospective assessment to identify actions to enhance researchers’ environmental responsibilities BMJ Open",
+      "id": "dd68e934687101b6",
+      "title": "初のボランティアが治験でエボラ出血熱ブンディブギョ株ワクチンを接種 - ロイター",
+      "summary": "初のボランティアが治験でエボラ出血熱ブンディブギョ株ワクチンを接種 ロイター",
+      "summary_ai": "初のボランティアが治験でエボラ出血熱ブンディブギョ株ワクチンを接種 ロイター",
+      "title_original": "First volunteer receives Ebola Bundibugyo strain vaccine in trial - Reuters",
+      "summary_original": "First volunteer receives Ebola Bundibugyo strain vaccine in trial Reuters",
+      "summary_ai_original": "First volunteer receives Ebola Bundibugyo strain vaccine in trial Reuters",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HYnhLNjRsRGYxa0R2cnI4cmRZUU5ickNoM25XNzVjc3NTRWhwc0FaOGFPY2dlNkdzaXpWX1liU3lyd191QjdBYlp2QmYtOC1mN1poUU1uNEV5YTBzakVHcmhFXzNtLWVfYTVB?oc=5",
-      "source": "BMJ",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-07-27T18:45:11+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzcTI1aF9UQm9CZ2pydHUwSDVpdWlKM0FUQ1k3STZQYWFOaU01WHJWV2prQm5mSkNaRjBRSlNOcXIzV0RjenlGalptNnk3X3phYThPbGM5Yl9KVkplcThhalVvXzRDTEk?oc=5",
+      "source": "Reuters Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-07-28T08:33:21+00:00",
       "topics": [
         "research"
       ],
       "policy_tags": [],
       "vaccines": [],
       "variants": [],
-      "target_country": "ウガンダ",
+      "target_country": "不明",
       "source_location": {
         "key": "united kingdom",
         "name_ja": "英国",
         "lat": 51.5074,
         "lng": -0.1278,
         "region": "Europe",
-        "label": "BMJ / London"
+        "label": "Reuters"
       },
       "plot": {
         "source": {
@@ -777,32 +1048,97 @@
           "lat": 51.5074,
           "lng": -0.1278,
           "region": "Europe",
-          "label": "BMJ / London"
+          "label": "Reuters"
         },
         "target": {
-          "key": "uganda",
-          "name_ja": "ウガンダ",
-          "lat": 0.3476,
-          "lng": 32.5825,
-          "region": "Africa",
-          "label": "ウガンダ"
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
         }
       },
       "location": {
-        "key": "uganda",
-        "name_ja": "ウガンダ",
-        "lat": 0.3476,
-        "lng": 32.5825,
-        "region": "Africa",
-        "label": "ウガンダ"
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
       },
-      "region": "Africa",
-      "country": "ウガンダ",
-      "lat": 0.3476,
-      "lng": 32.5825,
-      "duplicate_count": 2,
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
       "duplicate_sources": [
-        "BMJ"
+        "Reuters Vaccines / Immunization"
+      ]
+    },
+    {
+      "id": "964ed33c8eb7c8f7",
+      "title": "インフルエンザ予防接種に対する宝くじインセンティブの効果: 大規模ランダム化試験と因果関係フォレスト分析からの証拠 - SSRN eLibrary",
+      "summary": "インフルエンザ予防接種に対する宝くじインセンティブの効果: 大規模ランダム化試験と因果関係フォレスト分析からの証拠 SSRN eLibrary",
+      "summary_ai": "インフルエンザ予防接種に対する宝くじインセンティブの効果: 大規模ランダム化試験と因果関係フォレスト分析からの証拠 SSRN eLibrary",
+      "title_original": "Effects of Lottery Incentives for Influenza Vaccination: Evidence from a Large-Scale Randomized Trial and Causal Forest Analysis - SSRN eLibrary",
+      "summary_original": "Effects of Lottery Incentives for Influenza Vaccination: Evidence from a Large-Scale Randomized Trial and Causal Forest Analysis SSRN eLibrary",
+      "summary_ai_original": "Effects of Lottery Incentives for Influenza Vaccination: Evidence from a Large-Scale Randomized Trial and Causal Forest Analysis SSRN eLibrary",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56Uk9iclVXYzNmWGk2cXFPNGp4eVVoMmozSDdmZElfUkUweHd5VzUxUHZVcjFUSHFCQmRmRWY4UEwzd2VyMUtpTVRWNXVXd0dOemtJcWIybzJ1NHpfYVA2Z1M1dkJSelZpREVB?oc=5",
+      "source": "SSRN vaccine preprints",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 6,
+      "published_at": "2026-07-28T07:00:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "SSRN"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "SSRN"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "SSRN vaccine preprints"
       ]
     },
     {
@@ -868,6 +1204,141 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "SSRN vaccine preprints"
+      ]
+    },
+    {
+      "id": "ddf813c77382562d",
+      "title": "ウガンダで実施されたワクチン治験の炭素排出量：研究者の環境責任を強化するための行動を特定するための遡及的評価 - BMJ Open",
+      "summary": "ウガンダで実施されたワクチン治験の炭素排出量：研究者の環境責任を強化するための行動を特定するための遡及的評価 BMJ Open",
+      "summary_ai": "ウガンダで実施されたワクチン治験の炭素排出量：研究者の環境責任を強化するための行動を特定するための遡及的評価 BMJ Open",
+      "title_original": "Carbon emissions of a vaccine trial implemented in Uganda: retrospective assessment to identify actions to enhance researchers’ environmental responsibilities - BMJ Open",
+      "summary_original": "Carbon emissions of a vaccine trial implemented in Uganda: retrospective assessment to identify actions to enhance researchers’ environmental responsibilities BMJ Open",
+      "summary_ai_original": "Carbon emissions of a vaccine trial implemented in Uganda: retrospective assessment to identify actions to enhance researchers’ environmental responsibilities BMJ Open",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02dUd5c25rU2xrSlVpenFJaUNWUk5nMjh2T2FnZElwN0x1djBFMldkaWp0RWdqbU9xN3lCY2g1Tk1HYk9rN25OZEZWSl9tS0dlS0Vfa2RRU1RqS2FYdlE?oc=5",
+      "source": "BMJ",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-07-26T21:45:55+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "ウガンダ",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BMJ / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BMJ / London"
+        },
+        "target": {
+          "key": "uganda",
+          "name_ja": "ウガンダ",
+          "lat": 0.3476,
+          "lng": 32.5825,
+          "region": "Africa",
+          "label": "ウガンダ"
+        }
+      },
+      "location": {
+        "key": "uganda",
+        "name_ja": "ウガンダ",
+        "lat": 0.3476,
+        "lng": 32.5825,
+        "region": "Africa",
+        "label": "ウガンダ"
+      },
+      "region": "Africa",
+      "country": "ウガンダ",
+      "lat": 0.3476,
+      "lng": 32.5825,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "BMJ"
+      ]
+    },
+    {
+      "id": "9c560166a39756d7",
+      "title": "ノーミクロン優勢時の重篤な covid-19 に対する異種 3 回目の接種スケジュールの有効性の比較 -",
+      "summary": "ノーザでのオミクロン優勢時の重篤な covid-19 に対する異種 3 回目の接種スケジュールの有効性の比較",
+      "summary_ai": "ノーザでのオミクロン優勢時の重篤な covid-19 に対する異種 3 回目の接種スケジュールの有効性の比較",
+      "title_original": "Comparative effectiveness of heterologous third dose vaccine schedules against severe covid-19 during omicron predominance in No - The",
+      "summary_original": "Comparative effectiveness of heterologous third dose vaccine schedules against severe covid-19 during omicron predominance in No The",
+      "summary_ai_original": "Comparative effectiveness of heterologous third dose vaccine schedules against severe covid-19 during omicron predominance in No The",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XMlUyRHlxQXRaUnFGNjhNcGJqNFVMNlBaQlo2bzNoMHhTSzNsS0dFMVJFamxSOHIyaFJGaE5IVmFYaXNudFo5WFlsSHVYbm9SVDRQUGVHNWJ1aXFrQkJUejdNYzNtVVhuZ191NQ?oc=5",
+      "source": "BMJ",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-07-24T07:00:00+00:00",
+      "topics": [
+        "policy",
+        "research"
+      ],
+      "policy_tags": [
+        "schedule"
+      ],
+      "vaccines": [],
+      "variants": [
+        "omicron"
+      ],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BMJ / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BMJ / London"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "BMJ"
       ]
     },
     {
@@ -1005,13 +1476,13 @@
       ]
     },
     {
-      "id": "996fc352f93d271d",
-      "title": "共有された証拠、異なる推奨事項: 各国の旅行者に対する Qdenga (TAK-003) デング熱ワクチン指導の比較分析 -Academic.oup.com",
-      "summary": "共有された証拠、異なる推奨事項: 各国の旅行者に対する Qdenga (TAK-003) デング熱ワクチン ガイダンスの比較分析Academic.oup.com",
-      "summary_ai": "共有された証拠、異なる推奨事項: 各国の旅行者に対する Qdenga (TAK-003) デング熱ワクチン ガイダンスの比較分析Academic.oup.com",
-      "title_original": "Shared evidence, different recommendations: a comparative analysis of Qdenga (TAK-003) dengue vaccine guidance for travellers across countries - academic.oup.com",
-      "summary_original": "Shared evidence, different recommendations: a comparative analysis of Qdenga (TAK-003) dengue vaccine guidance for travellers across countries academic.oup.com",
-      "summary_ai_original": "Shared evidence, different recommendations: a comparative analysis of Qdenga (TAK-003) dengue vaccine guidance for travellers across countries academic.oup.com",
+      "id": "854bb8d142d9022c",
+      "title": "共有された証拠、異なる推奨事項: 各国の旅行者に対する Qdenga (TAK-003) デング熱ワクチン ガイダンスの比較分析 - オックスフォード アカデミック",
+      "summary": "共有された証拠、異なる推奨事項: 各国の旅行者に対する Qdenga (TAK-003) デング熱ワクチン ガイダンスの比較分析 オックスフォード アカデミック",
+      "summary_ai": "共有された証拠、異なる推奨事項: 各国の旅行者に対する Qdenga (TAK-003) デング熱ワクチン ガイダンスの比較分析 オックスフォード アカデミック",
+      "title_original": "Shared evidence, different recommendations: a comparative analysis of Qdenga (TAK-003) dengue vaccine guidance for travellers across countries - Oxford Academic",
+      "summary_original": "Shared evidence, different recommendations: a comparative analysis of Qdenga (TAK-003) dengue vaccine guidance for travellers across countries Oxford Academic",
+      "summary_ai_original": "Shared evidence, different recommendations: a comparative analysis of Qdenga (TAK-003) dengue vaccine guidance for travellers across countries Oxford Academic",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaG82c0p3R3l5dDdsSzRubXZKUTdCd09VTzVDaUxjNFpMUnNWUTM5MmlVMlhqRk5BSHFCY1ItSWcwN2lnNlRNOE1VMUhGWkstWWtISHNfVElWZHZOYTVCczV0cDJ2aGdvTkxmS3NFcnpaeTZMQlV2dEZ4azlQMFdzWnRn?oc=5",
       "source": "Journal of Travel Medicine vaccines",
@@ -1139,13 +1610,13 @@
       ]
     },
     {
-      "id": "c337722f98fd5ac1",
-      "title": "新型コロナウイルス感染症ワクチンの有効性と肝硬変患者におけるアルファ、デルタ、オミクロン変異体の地域有病率 - Gut Journal",
-      "summary": "新型コロナウイルス感染症ワクチンの有効性と肝硬変患者におけるアルファ、デルタ、オミクロン変異体の地域有病率 Gut Journal",
-      "summary_ai": "新型コロナウイルス感染症ワクチンの有効性と肝硬変患者におけるアルファ、デルタ、オミクロン変異体の地域有病率 Gut Journal",
-      "title_original": "COVID-19 vaccine effectiveness and community prevalence of Alpha, Delta and Omicron variants in patients with cirrhosis - Gut Journal",
-      "summary_original": "COVID-19 vaccine effectiveness and community prevalence of Alpha, Delta and Omicron variants in patients with cirrhosis Gut Journal",
-      "summary_ai_original": "COVID-19 vaccine effectiveness and community prevalence of Alpha, Delta and Omicron variants in patients with cirrhosis Gut Journal",
+      "id": "5b5f4d3de40478bb",
+      "title": "新型コロナウイルス感染症（COVID-19）ワクチンの有効性と肝硬変患者におけるアルファ、デルタ、オミクロン変異体の地域有病率 - Gut",
+      "summary": "新型コロナウイルス感染症（COVID-19）ワクチンの有効性と肝硬変患者におけるアルファ、デルタ、オミクロン変異体の市中感染率",
+      "summary_ai": "新型コロナウイルス感染症（COVID-19）ワクチンの有効性と肝硬変患者におけるアルファ、デルタ、オミクロン変異体の市中感染率",
+      "title_original": "COVID-19 vaccine effectiveness and community prevalence of Alpha, Delta and Omicron variants in patients with cirrhosis - Gut",
+      "summary_original": "COVID-19 vaccine effectiveness and community prevalence of Alpha, Delta and Omicron variants in patients with cirrhosis Gut",
+      "summary_ai_original": "COVID-19 vaccine effectiveness and community prevalence of Alpha, Delta and Omicron variants in patients with cirrhosis Gut",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVmp2NHVpaElyaXBKQl9CUnN2TmgtSmJXYkFTanY0ZGpGLVVPelR0ZHQ2MmNHNU5oazNmV3lybXZ5WUZOYndjNDUwSTl3bERxRkxXOGZ6eGJIMVBUN2lFM2Y0M3VTTjBUTDAwZXlnVFpRb0doUFVsWkNORE1qbUgwRDloTGNtdw?oc=5",
       "source": "BMJ",
@@ -1207,205 +1678,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "BMJ"
-      ]
-    },
-    {
-      "id": "6b5f0e09fe32e22a",
-      "title": "ワクチン政策の価値とトレードオフを透明にする—予防接種を支持するコンセンサスの再構築",
-      "summary": "ワクチン政策の価値とトレードオフを透明にする—予防接種を支持するコンセンサスの再構築",
-      "summary_ai": "ワクチン政策の価値とトレードオフを透明にする—予防接種を支持するコンセンサスの再構築",
-      "title_original": "Making Vaccine Policy Values and Trade-Offs Transparent— Rebuilding a Consensus Supporting Immunization",
-      "summary_original": "Making Vaccine Policy Values and Trade-Offs Transparent— Rebuilding a Consensus Supporting Immunization",
-      "summary_ai_original": "Making Vaccine Policy Values and Trade-Offs Transparent— Rebuilding a Consensus Supporting Immunization",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRW1MRTN6U3hQbllpd013cjBuTHlRakdLX0pfNVZnOFczeWdwbnVyN2lYSVljeUVwelp0RWdEY0JQMmpnZFVtZnlQMDlyVHFEWkV2WGJ6ejFkd0NMVmNBSjIzM1dnZEwtbWhCNUttSGE0a2lIaGxUcWY3cF9fZWdWdVJNU3BScmpGM3g2dF9IU1Y1UjdUUGx5VWZjalNOX2xsY1VlUTdoRG15cEhEVk8teU1xbzFDajA4U0EtWFJDVnIyLW8?oc=5",
-      "source": "JAMA Network vaccines",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-07-20T19:08:55+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "JAMA Network"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "JAMA Network"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 2,
-      "duplicate_sources": [
-        "JAMA Network vaccines",
-        "JAMA Pediatrics vaccines"
-      ]
-    },
-    {
-      "id": "050b6e88dd6cc39d",
-      "title": "ワクチン政策の価値とトレードオフの透明化—予防接種を支持するコンセンサスの再構築",
-      "summary": "ワクチン政策の価値とトレードオフの透明化—予防接種を支持するコンセンサスの再構築",
-      "summary_ai": "ワクチン政策の価値とトレードオフの透明化—予防接種を支持するコンセンサスの再構築",
-      "title_original": "Making Vaccine Policy Values and Trade-Offs Transparent—Rebuilding a Consensus Supporting Immunization",
-      "summary_original": "Making Vaccine Policy Values and Trade-Offs Transparent—Rebuilding a Consensus Supporting Immunization",
-      "summary_ai_original": "Making Vaccine Policy Values and Trade-Offs Transparent—Rebuilding a Consensus Supporting Immunization",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGY0lDeV9hWXphcy1LQVA1NVZkY00td3h5WU5xd0YzUU1scGNMdWZMWTJnOWFEeFpxdlk4Q1dJM25pa2VMSHVNVlEyYVNVMDdVcllYd1gySF9YV0Mwb3hCSW11VmRzaHROOW55REZ5dHB3SDR5bmc?oc=5",
-      "source": "JAMA Network vaccines",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-07-20T15:09:34+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "JAMA Network"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "JAMA Network"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 2,
-      "duplicate_sources": [
-        "JAMA Network vaccines",
-        "JAMA Pediatrics vaccines"
-      ]
-    },
-    {
-      "id": "d70581d193a442be",
-      "title": "HHSワクチン委員会が静かに新しい憲章を取得-STAT",
-      "summary": "HHSワクチン委員会が静かに新しい憲章STATを取得",
-      "summary_ai": "HHSワクチン委員会が静かに新しい憲章STATを取得",
-      "title_original": "HHS vaccine committee quietly gets new charter - STAT",
-      "summary_original": "HHS vaccine committee quietly gets new charter STAT",
-      "summary_ai_original": "HHS vaccine committee quietly gets new charter STAT",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRzVQTUc1NnB1QnpYc2l1UzZ1akU5Wl83NFA0WmtFWWJXYXk4NmQwT210NjU4UE1kbll0TEdiOGkxOWlUSXQzV2UxUXdqLVVEa0ZRQTFzdlJYX2Z6cmZBemVvVHliZWVSaDFqUEZmSGE5MXBRcXRoTjFXa0Q3dTNDdUJKV0VLR25kM2cyRDhOM0dya0hqWUNfSFFTcw?oc=5",
-      "source": "STAT Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-07-20T13:03:34+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [
-        "recommendation"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "STAT"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "STAT"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "STAT Vaccines / Immunization"
       ]
     },
     {
@@ -1476,92 +1748,22 @@
       ]
     },
     {
-      "id": "9c560166a39756d7",
-      "title": "ノーミクロン優勢時の重篤な covid-19 に対する異種 3 回目の接種スケジュールの有効性の比較 -",
-      "summary": "ノーザでのオミクロン優勢時の重篤な covid-19 に対する異種 3 回目の接種スケジュールの有効性の比較",
-      "summary_ai": "ノーザでのオミクロン優勢時の重篤な covid-19 に対する異種 3 回目の接種スケジュールの有効性の比較",
-      "title_original": "Comparative effectiveness of heterologous third dose vaccine schedules against severe covid-19 during omicron predominance in No - The",
-      "summary_original": "Comparative effectiveness of heterologous third dose vaccine schedules against severe covid-19 during omicron predominance in No The",
-      "summary_ai_original": "Comparative effectiveness of heterologous third dose vaccine schedules against severe covid-19 during omicron predominance in No The",
+      "id": "15fc3e9d8d4b6c23",
+      "title": "ワクチン政策の価値とトレードオフの透明化 - 予防接種を支持するコンセンサスの再構築 - jamenetwork.com",
+      "summary": "ワクチン政策の価値とトレードオフを透明にする—予防接種をサポートするコンセンサスの再構築 jamanetwork.com",
+      "summary_ai": "ワクチン政策の価値とトレードオフを透明にする—予防接種をサポートするコンセンサスの再構築 jamanetwork.com",
+      "title_original": "Making Vaccine Policy Values and Trade-Offs Transparent—Rebuilding a Consensus Supporting Immunization - jamanetwork.com",
+      "summary_original": "Making Vaccine Policy Values and Trade-Offs Transparent—Rebuilding a Consensus Supporting Immunization jamanetwork.com",
+      "summary_ai_original": "Making Vaccine Policy Values and Trade-Offs Transparent—Rebuilding a Consensus Supporting Immunization jamanetwork.com",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XMlUyRHlxQXRaUnFGNjhNcGJqNFVMNlBaQlo2bzNoMHhTSzNsS0dFMVJFamxSOHIyaFJGaE5IVmFYaXNudFo5WFlsSHVYbm9SVDRQUGVHNWJ1aXFrQkJUejdNYzNtVVhuZ191NQ?oc=5",
-      "source": "BMJ",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGY0lDeV9hWXphcy1LQVA1NVZkY00td3h5WU5xd0YzUU1scGNMdWZMWTJnOWFEeFpxdlk4Q1dJM25pa2VMSHVNVlEyYVNVMDdVcllYd1gySF9YV0Mwb3hCSW11VmRzaHROOW55REZ5dHB3SDR5bmc?oc=5",
+      "source": "JAMA Network vaccines",
       "source_type": "academic",
       "source_tier": "Tier 3",
       "source_priority": 8,
-      "published_at": "2026-07-18T07:00:00+00:00",
+      "published_at": "2026-07-20T07:00:00+00:00",
       "topics": [
-        "policy",
-        "research"
-      ],
-      "policy_tags": [
-        "schedule"
-      ],
-      "vaccines": [],
-      "variants": [
-        "omicron"
-      ],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BMJ / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BMJ / London"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "BMJ"
-      ]
-    },
-    {
-      "id": "e68874617d398227",
-      "title": "ワクチン臨床試験のライフサイクル全体にわたる人工知能: 証拠、準備状況、およびガードレール - Oxford Academic",
-      "summary": "ワクチン臨床試験のライフサイクル全体にわたる人工知能: 証拠、準備、およびガードレール Oxford Academic",
-      "summary_ai": "ワクチン臨床試験のライフサイクル全体にわたる人工知能: 証拠、準備、およびガードレール Oxford Academic",
-      "title_original": "Artificial Intelligence Across the Vaccine Clinical Trial Lifecycle: Evidence, Readiness, and Guardrails - Oxford Academic",
-      "summary_original": "Artificial Intelligence Across the Vaccine Clinical Trial Lifecycle: Evidence, Readiness, and Guardrails Oxford Academic",
-      "summary_ai_original": "Artificial Intelligence Across the Vaccine Clinical Trial Lifecycle: Evidence, Readiness, and Guardrails Oxford Academic",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMVZ4OUxqalVGOFhXelA3a1RhS3hMZ2Q0c0FtcmZCakFjdWg4bWh0ZG1ZUzI0LUN5MlozNGJNNDkwTUdGcWNlSzVHN0xoaVpfcXZJbnNGbkdaZy11U1hPXzUtNngtNEtONWtZWFNQcTNMekZjN0J6MXJmbEdIU19nc1hmYnFHQ1RnWHpsMmFB?oc=5",
-      "source": "Clinical Infectious Diseases",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-07-17T11:00:27+00:00",
-      "topics": [
-        "research"
+        "policy"
       ],
       "policy_tags": [],
       "vaccines": [],
@@ -1573,7 +1775,7 @@
         "lat": 38.9072,
         "lng": -77.0369,
         "region": "North America",
-        "label": "Clinical Infectious Diseases"
+        "label": "JAMA Network"
       },
       "plot": {
         "source": {
@@ -1582,7 +1784,75 @@
           "lat": 38.9072,
           "lng": -77.0369,
           "region": "North America",
-          "label": "Clinical Infectious Diseases"
+          "label": "JAMA Network"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 2,
+      "duplicate_sources": [
+        "JAMA Network vaccines",
+        "JAMA Pediatrics vaccines"
+      ]
+    },
+    {
+      "id": "d70581d193a442be",
+      "title": "HHSワクチン委員会が静かに新しい憲章を取得-STAT",
+      "summary": "HHSワクチン委員会が静かに新しい憲章STATを取得",
+      "summary_ai": "HHSワクチン委員会が静かに新しい憲章STATを取得",
+      "title_original": "HHS vaccine committee quietly gets new charter - STAT",
+      "summary_original": "HHS vaccine committee quietly gets new charter STAT",
+      "summary_ai_original": "HHS vaccine committee quietly gets new charter STAT",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRzVQTUc1NnB1QnpYc2l1UzZ1akU5Wl83NFA0WmtFWWJXYXk4NmQwT210NjU4UE1kbll0TEdiOGkxOWlUSXQzV2UxUXdqLVVEa0ZRQTFzdlJYX2Z6cmZBemVvVHliZWVSaDFqUEZmSGE5MXBRcXRoTjFXa0Q3dTNDdUJKV0VLR25kM2cyRDhOM0dya0hqWUNfSFFTcw?oc=5",
+      "source": "STAT Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-07-20T07:00:00+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [
+        "recommendation"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "STAT"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "STAT"
         },
         "target": {
           "key": "unknown",
@@ -1607,7 +1877,7 @@
       "lng": 0.0,
       "duplicate_count": 1,
       "duplicate_sources": [
-        "Clinical Infectious Diseases"
+        "STAT Vaccines / Immunization"
       ]
     }
   ]
