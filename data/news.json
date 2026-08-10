@@ -1,9 +1,9 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-08-09T21:43:50.613575+00:00",
-  "item_count": 33,
-  "archive_count": 422,
+  "generated_at": "2026-08-10T21:53:21.948409+00:00",
+  "item_count": 31,
+  "archive_count": 426,
   "days_back": 14,
   "plot_mode_default": "source",
   "feed_status": [
@@ -23,7 +23,7 @@
       "name": "CDC Newsroom",
       "url": "https://tools.cdc.gov/api/v2/resources/media/316422.rss",
       "status": "ok",
-      "seen": 15,
+      "seen": 16,
       "kept": 0
     },
     {
@@ -81,7 +81,7 @@
       "name": "PAHO News",
       "url": "https://www.paho.org/en/rss.xml",
       "status": "ok",
-      "seen": 7,
+      "seen": 6,
       "kept": 2
     },
     {
@@ -109,8 +109,8 @@
       "name": "BMJ",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abmj.com%20(policy%20OR%20trial%20OR%20effectiveness%20OR%20communication)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 9,
-      "kept": 7
+      "seen": 8,
+      "kept": 5
     },
     {
       "name": "Vaccine journal",
@@ -130,14 +130,14 @@
       "name": "Nature Medicine vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fnm%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20uptake%20OR%20policy)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
       "name": "Nature Communications vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fncomms%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20surveillance)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 4,
+      "seen": 2,
       "kept": 0
     },
     {
@@ -165,7 +165,7 @@
       "name": "Science vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ascience.org%2Fdoi%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20antibody)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 2,
       "kept": 0
     },
     {
@@ -193,7 +193,7 @@
       "name": "JAMA vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjama%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -207,14 +207,14 @@
       "name": "JAMA Internal Medicine vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjamainternalmedicine%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 1,
       "kept": 0
     },
     {
       "name": "Eurosurveillance",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Aeurosurveillance.org&hl=en-US&gl=EU&ceid=EU%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 2,
       "kept": 0
     },
     {
@@ -242,43 +242,43 @@
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 24,
-      "kept": 4
+      "seen": 18,
+      "kept": 3
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 20,
-      "kept": 2
+      "seen": 42,
+      "kept": 1
     },
     {
       "name": "AP Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 99,
+      "seen": 71,
       "kept": 0
     },
     {
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 20,
+      "seen": 40,
       "kept": 0
     },
     {
       "name": "Financial Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aft.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 4,
+      "seen": 3,
       "kept": 0
     },
     {
       "name": "STAT Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 23,
-      "kept": 2
+      "seen": 24,
+      "kept": 3
     },
     {
       "name": "Nature News Vaccines / Immunization",
@@ -291,7 +291,7 @@
       "name": "Science Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Ascience.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 16,
+      "seen": 13,
       "kept": 0
     },
     {
@@ -305,15 +305,15 @@
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 18,
-      "kept": 0
+      "seen": 60,
+      "kept": 1
     },
     {
       "name": "Washington Post Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 14,
-      "kept": 0
+      "seen": 73,
+      "kept": 2
     },
     {
       "name": "NHK ワクチン / 予防接種",
@@ -326,14 +326,14 @@
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 16,
+      "seen": 14,
       "kept": 0
     },
     {
       "name": "朝日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Aasahi.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 6,
+      "seen": 4,
       "kept": 0
     },
     {
@@ -354,14 +354,14 @@
       "name": "JAMA Network vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 1,
       "kept": 0
     },
     {
       "name": "JAMA Pediatrics vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjamapediatrics&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -369,20 +369,20 @@
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fcid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
       "seen": 1,
-      "kept": 1
+      "kept": 0
     },
     {
       "name": "Journal of Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fjid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 1,
       "kept": 0
     },
     {
       "name": "Open Forum Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fofid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 6,
+      "seen": 7,
       "kept": 5
     },
     {
@@ -424,8 +424,8 @@
       "name": "International Journal of Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aijidonline.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
-      "kept": 1
+      "seen": 0,
+      "kept": 0
     },
     {
       "name": "Clinical Microbiology and Infection",
@@ -460,20 +460,288 @@
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Apapers.ssrn.com%20(effectiveness%20OR%20safety%20OR%20policy%20OR%20trial)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
       "seen": 8,
-      "kept": 4
+      "kept": 3
     }
   ],
   "weekly_ai_summary": {
-    "generated_at": "2026-08-09T21:43:50.613575+00:00",
+    "generated_at": "2026-08-10T21:53:21.948409+00:00",
     "period_days": 7,
-    "policy_count": 4,
-    "academic_count": 9,
+    "policy_count": 8,
+    "academic_count": 6,
     "status": "ok",
     "model": "gpt-4o-mini",
-    "policy_summary": "PAHOはアメリカ大陸での麻疹症例の増加を受け、各国に予防接種と監視の強化を要請しました。初のmRNAインフルエンザワクチンがFDAの承認を得たことにより、より効果的なワクチンへの期待が高まっています。",
-    "academic_summary": "構造認識型ディープラーニングを用いたインフルエンザ抗原性の予測が、ワクチン株の推奨に寄与する可能性があります。また、破傷風・ジフテリアに対する「冷蔵庫不要」ワクチンが初の人体臨床試験で有望性を示しました。"
+    "policy_summary": "トランプ大統領が小児ワクチン推奨の大幅な変更を要求し、CDCの予防接種スケジュールを無視してMMR接種を中止する命令に署名しました。また、アメリカ大陸で麻疹症例が増加する中、PAHOが各国に予防接種と監視の強化を要請しています。",
+    "academic_summary": "構造認識型ディープラーニングを用いてインフルエンザ抗原性を予測し、ワクチン株の推奨をガイドする研究が発表されました。さらに、冷蔵庫不要のワクチンが初のヒト臨床試験で有望性を示しました。"
   },
   "items": [
+    {
+      "id": "c6f3dca8d890c11a",
+      "title": "トランプ大統領、小児ワクチン推奨の大幅な変更を要求 - ワシントン・ポスト",
+      "summary": "トランプ大統領、小児ワクチン推奨の大幅な変更を要求 ワシントン・ポスト",
+      "summary_ai": "トランプ大統領、小児ワクチン推奨の大幅な変更を要求 ワシントン・ポスト",
+      "title_original": "Trump demands major changes to childhood vaccine recommendations - The Washington Post",
+      "summary_original": "Trump demands major changes to childhood vaccine recommendations The Washington Post",
+      "summary_ai_original": "Trump demands major changes to childhood vaccine recommendations The Washington Post",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMjRtRm1FVTFOMWg4Qm0xWG5LWXg1cWtQQmt1d2I1V0NLc1FBbVNOUFpNdHhPN1YwTm9wMnNnSGpnZm9mdDZhb0NaYVdRRWF5QU1WNElWMmxiY240ZHVZZjVDWUpVb09VLWZXWm5TY3NqNlE1UVVzX2xVZHBRdlZza3QtUnVWMzlxMWlSRmFQTFNiUm4wSHJXQ0p0ZlRhWXRSdXJmT3hydm53SXVTS2RlXzJrS0w2cVJCaFA0dkV5Um1uTU0?oc=5",
+      "source": "Washington Post Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-08-10T21:15:58+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [
+        "recommendation"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "Washington Post"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "Washington Post"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Washington Post Vaccines / Immunization"
+      ]
+    },
+    {
+      "id": "370ce1b86cc872a1",
+      "title": "トランプ大統領、CDCの予防接種スケジュールを無視しMMR接種を中止する命令に署名 - theguardian.com",
+      "summary": "トランプ大統領、CDCの予防接種スケジュールを無視しMMR注射を打ち切る命令に署名 theguardian.com",
+      "summary_ai": "トランプ大統領、CDCの予防接種スケジュールを無視しMMR注射を打ち切る命令に署名 theguardian.com",
+      "title_original": "Trump signs order attempting to override CDC vaccine schedule and break up MMR shots - theguardian.com",
+      "summary_original": "Trump signs order attempting to override CDC vaccine schedule and break up MMR shots theguardian.com",
+      "summary_ai_original": "Trump signs order attempting to override CDC vaccine schedule and break up MMR shots theguardian.com",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZm5ydFZzXy1BUTZFVUllVlc4RjZXOWI5WkVyRzFRWGtQMzdJdDhMMVJjYWVwMjB0OC1OREg0M1o5Zno5MDMwSVBlNTZBeWQyNFhrRkt1R2ZJMFBvR2kxZUF5OVFGT25ueVhQaUtnN1UtUlcyNHVWOE9USUtNVkxxZktHVVQtcjBaWTNxUVVhZw?oc=5",
+      "source": "Guardian Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-08-10T20:04:00+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [
+        "schedule"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "The Guardian"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "The Guardian"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Guardian Vaccines / Immunization"
+      ]
+    },
+    {
+      "id": "6848c467b23dcd21",
+      "title": "トランプ大統領、幼少期のスケジュールを疑問視する命令で物議を醸すワクチン政策に復帰 - STAT",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_ai": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_original": "Trump returns to controversial vaccine policy with order questioning childhood schedule - STAT",
+      "summary_original": "Trump returns to controversial vaccine policy with order questioning childhood schedule STAT",
+      "summary_ai_original": "Trump returns to controversial vaccine policy with order questioning childhood schedule STAT",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUDFnOTYyNlhYU0FyeHpzU21MWlNjNW9jSm5HUzQ1b055MFpmNDlaaHA1Nmtva1A5bDF4SHVIUFZQZnQ3blU4VGt3QmVSODBuajcxTG5xbDBsMDd4LWpTNGxEQXJHQkIzNHRUVkdnZEZ6dURtVlhoR2xhcnkwcEFYRWF3d2lVOHdSTTNR?oc=5",
+      "source": "STAT Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-08-10T19:33:57+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [
+        "schedule"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "STAT"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "STAT"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "STAT Vaccines / Immunization"
+      ]
+    },
+    {
+      "id": "e6f4199f4ff91816",
+      "title": "審議前大統領令草案 - - - - - - - AM 向けにゴールドスタンダードの小児用ワクチン推奨案を提出 - ワシントン・ポスト",
+      "summary": "審議前大統領令草案 - - - - - - - ワシントン・ポスト紙にゴールドスタンダードの小児用ワクチン推奨案を提出",
+      "summary_ai": "審議前大統領令草案 - - - - - - - ワシントン・ポスト紙にゴールドスタンダードの小児用ワクチン推奨案を提出",
+      "title_original": "DRAFT-DELIBERATIVE-PREDECISIONAL EXECUTIVE ORDER - - - - - - - DELIVERING GOLD-STANDARD CHILDHOOD VACCINE RECOMMENDATIONS FOR AM - The Washington Post",
+      "summary_original": "DRAFT-DELIBERATIVE-PREDECISIONAL EXECUTIVE ORDER - - - - - - - DELIVERING GOLD-STANDARD CHILDHOOD VACCINE RECOMMENDATIONS FOR AM The Washington Post",
+      "summary_ai_original": "DRAFT-DELIBERATIVE-PREDECISIONAL EXECUTIVE ORDER - - - - - - - DELIVERING GOLD-STANDARD CHILDHOOD VACCINE RECOMMENDATIONS FOR AM The Washington Post",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNWhya2poT0VuNTJuc2NIRHlyYXA5dGN4aUd6WjIxV0tUNktZN2ItbU9CS3FhSXdQMnNfZVRnNzdXRFVEWWM2NG9zUmhxd1o1SVRXTzlWdFhyR0xDSElTNVlCU19KT2tvbW05bnhTUkQ2WjVFZEJlUmItMi1vbnVhdGFXYlRMSmVW?oc=5",
+      "source": "Washington Post Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-08-10T18:14:04+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [
+        "recommendation"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "Washington Post"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "Washington Post"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Washington Post Vaccines / Immunization"
+      ]
+    },
     {
       "id": "20a3051d55b37e83",
       "title": "アメリカ大陸で麻疹症例が増加する中、PAHOが各国に予防接種と監視を強化するよう要請",
@@ -611,13 +879,13 @@
       ]
     },
     {
-      "id": "67b83ce4c212dcbf",
-      "title": "固形臓器移植レシピエントにおける高用量インフルエンザワクチンの1回投与対2回投与の無作為化二重盲検臨床試験 -Academic.oup.com",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary_ai": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_original": "A Randomized, Double-Blind Clinical Trial of One vs. Two Doses of High-Dose Influenza Vaccine in Solid Organ Transplant Recipients - academic.oup.com",
-      "summary_original": "A Randomized, Double-Blind Clinical Trial of One vs. Two Doses of High-Dose Influenza Vaccine in Solid Organ Transplant Recipients academic.oup.com",
-      "summary_ai_original": "A Randomized, Double-Blind Clinical Trial of One vs. Two Doses of High-Dose Influenza Vaccine in Solid Organ Transplant Recipients academic.oup.com",
+      "id": "f0b2335fd5c41002",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary": "固形臓器移植レシピエントにおける高用量インフルエンザワクチンの1回対2回投与の無作為化二重盲検臨床試験 オックスフォード・アカデミック",
+      "summary_ai": "固形臓器移植レシピエントにおける高用量インフルエンザワクチンの1回対2回投与の無作為化二重盲検臨床試験 オックスフォード・アカデミック",
+      "title_original": "A Randomized, Double-Blind Clinical Trial of One vs. Two Doses of High-Dose Influenza Vaccine in Solid Organ Transplant Recipients - Oxford Academic",
+      "summary_original": "A Randomized, Double-Blind Clinical Trial of One vs. Two Doses of High-Dose Influenza Vaccine in Solid Organ Transplant Recipients Oxford Academic",
+      "summary_ai_original": "A Randomized, Double-Blind Clinical Trial of One vs. Two Doses of High-Dose Influenza Vaccine in Solid Organ Transplant Recipients Oxford Academic",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYXZ6ZWo0UlhjdW90WnpPSFBwWmZOX1ZxM0NBNVprWDF0Y21UZkhqSWZ6ZmZNUlJjN2ZQdkRPcExxM2NGN0M2ZEEyRWVESmxvclZ2SWdLc3NvYm9NZE5kdU9FZ3pvY2stR0s5dHZPcjhrZDFVb1otRHh0NGdLZzFhR1BrMFU?oc=5",
       "source": "Open Forum Infectious Diseases",
@@ -678,13 +946,13 @@
       ]
     },
     {
-      "id": "a3ae314a700d0031",
-      "title": "初のmRNAインフルエンザワクチンがFDAの承認を得て、より効果的なワクチンへの期待が高まる - cidrap.umn.edu",
-      "summary": "初のmRNAインフルエンザワクチンがFDAの承認を得て、より効果的なワクチンへの期待が高まる cidrap.umn.edu",
-      "summary_ai": "初のmRNAインフルエンザワクチンがFDAの承認を得て、より効果的なワクチンへの期待が高まる cidrap.umn.edu",
-      "title_original": "First mRNA flu shot gets FDA approval, raising hopes for a more effective vaccine - cidrap.umn.edu",
-      "summary_original": "First mRNA flu shot gets FDA approval, raising hopes for a more effective vaccine cidrap.umn.edu",
-      "summary_ai_original": "First mRNA flu shot gets FDA approval, raising hopes for a more effective vaccine cidrap.umn.edu",
+      "id": "58ad65d5c17c6877",
+      "title": "初のmRNAインフルエンザワクチンがFDAの承認を得て、より効果的なワクチンへの期待が高まる - CIDRAP",
+      "summary": "初のmRNAインフルエンザワクチンがFDAの承認を得て、より効果的なワクチンCIDRAPへの期待が高まる",
+      "summary_ai": "初のmRNAインフルエンザワクチンがFDAの承認を得て、より効果的なワクチンCIDRAPへの期待が高まる",
+      "title_original": "First mRNA flu shot gets FDA approval, raising hopes for a more effective vaccine - CIDRAP",
+      "summary_original": "First mRNA flu shot gets FDA approval, raising hopes for a more effective vaccine CIDRAP",
+      "summary_ai_original": "First mRNA flu shot gets FDA approval, raising hopes for a more effective vaccine CIDRAP",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR1dicEVTYl8wSXgxR3pjbzRXSThfZHFEcFJwR29FLUhOODRhTnJRQi1RRk01dUtJemIyQWVwYklXbGlnbVJBN0J6ZEtWZnhjeXZvaGkyMmR4MEg1SUpZeXFTV1BjNTlqVUdKSXlMdjZfbkwyd203OWRrYkVmZ0ZSU0ltMnBfWFc3b2RxTjh0SzRrNUtCUmpZc2VTcVZEdWpuc0pWd2ZYT3pXVzA5NVFiektJOW0yOGtYaGdHYg?oc=5",
       "source": "CIDRAP Vaccines & Immunization",
@@ -742,73 +1010,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "CIDRAP Vaccines & Immunization"
-      ]
-    },
-    {
-      "id": "b1cd6d366d75d12f",
-      "title": "アイルランド島全土における乳児入院に対するニルセビマブと母体のRSVpreF予防接種の有効性",
-      "summary": "アイルランド島全土における乳児入院に対するニルセビマブと母体のRSVpreF予防接種の有効性",
-      "summary_ai": "アイルランド島全土における乳児入院に対するニルセビマブと母体のRSVpreF予防接種の有効性",
-      "title_original": "Effectiveness of nirsevimab and maternal RSVpreF vaccination against infant hospitalisation across the island of Ireland",
-      "summary_original": "Effectiveness of nirsevimab and maternal RSVpreF vaccination against infant hospitalisation across the island of Ireland",
-      "summary_ai_original": "Effectiveness of nirsevimab and maternal RSVpreF vaccination against infant hospitalisation across the island of Ireland",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB1NzV5S281dklTTEM5c1VTeG03WHNPcVhTcnBBQlR2Q3dmQktVNGlyeG9Fc3J6VmJNX2JFTXpYZjlHbjc3aG1YVmhzMlZLRUVkYzJHaGwtWEF0dXdkcmtFYjlwQy1OTlNwOUtuYUgwMUI2blE?oc=5",
-      "source": "International Journal of Infectious Diseases",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 7,
-      "published_at": "2026-08-06T14:24:04+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "rsv"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "netherlands",
-        "name_ja": "オランダ",
-        "lat": 52.3676,
-        "lng": 4.9041,
-        "region": "Europe",
-        "label": "IJID"
-      },
-      "plot": {
-        "source": {
-          "key": "netherlands",
-          "name_ja": "オランダ",
-          "lat": 52.3676,
-          "lng": 4.9041,
-          "region": "Europe",
-          "label": "IJID"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "International Journal of Infectious Diseases"
       ]
     },
     {
@@ -879,13 +1080,13 @@
       ]
     },
     {
-      "id": "2eac6eeab6a7ce40",
-      "title": "破傷風・ジフテリアに対する「冷蔵庫不要」ワクチン、初の人体臨床試験で有望性を示す -",
-      "summary": "破傷風・ジフテリアに対する「冷蔵庫不要」ワクチン、初のヒト臨床試験で有望性を示す",
-      "summary_ai": "破傷風・ジフテリアに対する「冷蔵庫不要」ワクチン、初のヒト臨床試験で有望性を示す",
-      "title_original": "“Fridge-free” vaccine for tetanus-diphtheria shows promise in first human trial - The",
-      "summary_original": "“Fridge-free” vaccine for tetanus-diphtheria shows promise in first human trial The",
-      "summary_ai_original": "“Fridge-free” vaccine for tetanus-diphtheria shows promise in first human trial The",
+      "id": "63253c79559ea065",
+      "title": "破傷風・ジフテリアに対する「冷蔵庫不要」ワクチン、初のヒト臨床試験で有望性を示す - bmj.com",
+      "summary": "ジフテリア破傷風に対する「冷蔵庫不要」ワクチン、初の人体臨床試験で有望性を示す bmj.com",
+      "summary_ai": "ジフテリア破傷風に対する「冷蔵庫不要」ワクチン、初の人体臨床試験で有望性を示す bmj.com",
+      "title_original": "“Fridge-free” vaccine for tetanus-diphtheria shows promise in first human trial - bmj.com",
+      "summary_original": "“Fridge-free” vaccine for tetanus-diphtheria shows promise in first human trial bmj.com",
+      "summary_ai_original": "“Fridge-free” vaccine for tetanus-diphtheria shows promise in first human trial bmj.com",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Gbk51cmpTZTZabVYweWRfVXlBX1hNeWNjZHJneEwzWDRsU2hRMFFLVXg3QzJOUm1pZGRMb1duRkJXUjA0VXBnS3pSSThfdWYya3g1SWRhR25XVmM?oc=5",
       "source": "BMJ",
@@ -1011,73 +1212,6 @@
       ]
     },
     {
-      "id": "4a5ee203e87361e4",
-      "title": "ワクチン、偏見、査読のない研究の危険性：誤った情報とワクチンへの躊躇を助長する -Academic.oup.com",
-      "summary": "ワクチン、偏見、査読のない研究の危険性：誤った情報とワクチンへの躊躇を助長するAcademic.oup.com",
-      "summary_ai": "ワクチン、偏見、査読のない研究の危険性：誤った情報とワクチンへの躊躇を助長するAcademic.oup.com",
-      "title_original": "Vaccines, Bias, and the Perils of Non-peer-reviewed Studies: Fueling Misinformation and Vaccine Hesitancy - academic.oup.com",
-      "summary_original": "Vaccines, Bias, and the Perils of Non-peer-reviewed Studies: Fueling Misinformation and Vaccine Hesitancy academic.oup.com",
-      "summary_ai_original": "Vaccines, Bias, and the Perils of Non-peer-reviewed Studies: Fueling Misinformation and Vaccine Hesitancy academic.oup.com",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOd01VOFFJaTVpOFJQZFpkR0drZElsOUJUbDRwaEtPWXBrcnowZHdtM1N2U0NlLTBmRmtOcEJrVWE4WmRoVF9WUHh4OFVycnJEMmNCeHJPT0pHTk83QmFkQ2NhMHd3SHBlQUtnNTg1SXNZaDZCT2s5MzZXMFlsUDFlVWlB?oc=5",
-      "source": "Clinical Infectious Diseases",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-08-05T15:27:15+00:00",
-      "topics": [
-        "communication"
-      ],
-      "policy_tags": [
-        "communication"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "Clinical Infectious Diseases"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "Clinical Infectious Diseases"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Clinical Infectious Diseases"
-      ]
-    },
-    {
       "id": "72e4442fa13f8983",
       "title": "モデルナ、ブンディブギョエボラワクチンの初の人体治験を開始 - ロイター",
       "summary": "モデルナ、ブンディブギョエボラ出血熱ワクチンの初の人体治験を開始 ロイター",
@@ -1145,13 +1279,13 @@
       ]
     },
     {
-      "id": "6287c104a8659def",
-      "title": "子供と成人の間でのインフルエンザ関連の入院および救急部門または救急医療への遭遇に対するインフルエンザワクチンの有効性 — VISION、米国、2024-25 シーズン -Academic.oup.com",
-      "summary": "子供と成人の間でのインフルエンザ関連の入院および救急部門または救急医療への遭遇に対するインフルエンザワクチンの有効性 — VISION、米国、2024-25 シーズンAcademic.oup.com",
-      "summary_ai": "子供と成人の間でのインフルエンザ関連の入院および救急部門または救急医療への遭遇に対するインフルエンザワクチンの有効性 — VISION、米国、2024-25 シーズンAcademic.oup.com",
-      "title_original": "Influenza vaccine effectiveness against influenza-associated hospitalizations and emergency department or urgent care encounters among children and adults — VISION, United States, 2024–25 season - academic.oup.com",
-      "summary_original": "Influenza vaccine effectiveness against influenza-associated hospitalizations and emergency department or urgent care encounters among children and adults — VISION, United States, 2024–25 season academic.oup.com",
-      "summary_ai_original": "Influenza vaccine effectiveness against influenza-associated hospitalizations and emergency department or urgent care encounters among children and adults — VISION, United States, 2024–25 season academic.oup.com",
+      "id": "201ba31ae260f1e2",
+      "title": "子供と成人の間でのインフルエンザ関連の入院および救急部門または救急医療への遭遇に対するインフルエンザワクチンの有効性 — VISION、米国、2024-25 シーズン - オックスフォード・アカデミック",
+      "summary": "子供と成人の間でのインフルエンザ関連の入院および救急部門または救急医療への遭遇に対するインフルエンザワクチンの有効性 — VISION、米国、2024-25 シーズン オックスフォード アカデミック",
+      "summary_ai": "子供と成人の間でのインフルエンザ関連の入院および救急部門または救急医療への遭遇に対するインフルエンザワクチンの有効性 — VISION、米国、2024-25 シーズン オックスフォード アカデミック",
+      "title_original": "Influenza vaccine effectiveness against influenza-associated hospitalizations and emergency department or urgent care encounters among children and adults — VISION, United States, 2024–25 season - Oxford Academic",
+      "summary_original": "Influenza vaccine effectiveness against influenza-associated hospitalizations and emergency department or urgent care encounters among children and adults — VISION, United States, 2024–25 season Oxford Academic",
+      "summary_ai_original": "Influenza vaccine effectiveness against influenza-associated hospitalizations and emergency department or urgent care encounters among children and adults — VISION, United States, 2024–25 season Oxford Academic",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPa3JrYS1HT2NzX3B0M0dyTGU5VDBwY3VWNlYwNUI0NU1Fd3JMY0FiZzZ2ZnZPdEtUSkZLS0NTWlJTSEVjdWRxS3lEQklheURMRGdBUHV1ZndORkRlT0tGX243c25pcXFOYnlscEQ3U3lRYmdoR0VVM0VGWnBDQWpIR1NhMzc?oc=5",
       "source": "Open Forum Infectious Diseases",
@@ -1281,13 +1415,13 @@
       ]
     },
     {
-      "id": "29a7d0d501b0bf27",
-      "title": "ノーザンテリトリーの青少年および若者における4CMenBワクチンの有効性と髄膜炎菌保菌および淋病への影響に関するマルチデザイン研究 -Academic.oup.com",
-      "summary": "ノーザンテリトリーの青少年および若者における4CMenBワクチンの有効性と髄膜炎菌保菌および淋病への影響に関するマルチデザイン研究Academic.oup.com",
-      "summary_ai": "ノーザンテリトリーの青少年および若者における4CMenBワクチンの有効性と髄膜炎菌保菌および淋病への影響に関するマルチデザイン研究Academic.oup.com",
-      "title_original": "A Multidesign Study of 4CMenB Vaccine Effectiveness and Impact on Meningococcal Carriage and Gonorrhea in Northern Territory Adolescents and Young People - academic.oup.com",
-      "summary_original": "A Multidesign Study of 4CMenB Vaccine Effectiveness and Impact on Meningococcal Carriage and Gonorrhea in Northern Territory Adolescents and Young People academic.oup.com",
-      "summary_ai_original": "A Multidesign Study of 4CMenB Vaccine Effectiveness and Impact on Meningococcal Carriage and Gonorrhea in Northern Territory Adolescents and Young People academic.oup.com",
+      "id": "bf86c96c052941f9",
+      "title": "ノーザンテリトリーの青少年および若者における4CMenBワクチンの有効性と髄膜炎菌保菌および淋病への影響に関するマルチデザイン研究 - オックスフォード・アカデミック",
+      "summary": "ノーザンテリトリーの青少年および若者における4CMenBワクチンの有効性と髄膜炎菌保菌および淋病への影響に関するマルチデザイン研究 オックスフォード・アカデミック",
+      "summary_ai": "ノーザンテリトリーの青少年および若者における4CMenBワクチンの有効性と髄膜炎菌保菌および淋病への影響に関するマルチデザイン研究 オックスフォード・アカデミック",
+      "title_original": "A Multidesign Study of 4CMenB Vaccine Effectiveness and Impact on Meningococcal Carriage and Gonorrhea in Northern Territory Adolescents and Young People - Oxford Academic",
+      "summary_original": "A Multidesign Study of 4CMenB Vaccine Effectiveness and Impact on Meningococcal Carriage and Gonorrhea in Northern Territory Adolescents and Young People Oxford Academic",
+      "summary_ai_original": "A Multidesign Study of 4CMenB Vaccine Effectiveness and Impact on Meningococcal Carriage and Gonorrhea in Northern Territory Adolescents and Young People Oxford Academic",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUZlJIQ3NXekxQVkZhbWJJTDVHcE0yOUoyRGdqcTlZanpSaXdlMTktc1ZkaU8yS3FPbGlWNXIzdVZlYldrSUJodTVWN1NIWTJxQlJoem02MHl0LWhLRFdUYk5lVm1kSDI5emc?oc=5",
       "source": "Open Forum Infectious Diseases",
@@ -1415,13 +1549,13 @@
       ]
     },
     {
-      "id": "d124b4f1102ffa04",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "id": "b55c1e1f7eb79400",
+      "title": "2歳未満のMMR予防接種と自閉症の間に関連性はない、米国の大規模研究が示唆 - CIDRAP",
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "summary_ai": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_original": "No link between MMR vaccination before age 2 and autism, large US study suggests - cidrap.umn.edu",
-      "summary_original": "No link between MMR vaccination before age 2 and autism, large US study suggests cidrap.umn.edu",
-      "summary_ai_original": "No link between MMR vaccination before age 2 and autism, large US study suggests cidrap.umn.edu",
+      "title_original": "No link between MMR vaccination before age 2 and autism, large US study suggests - CIDRAP",
+      "summary_original": "No link between MMR vaccination before age 2 and autism, large US study suggests CIDRAP",
+      "summary_ai_original": "No link between MMR vaccination before age 2 and autism, large US study suggests CIDRAP",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVFk4Nlp3enNJblA4LVhyOVFmeW1uSFl1VVJDZFVCZnJ3SE9fYmtyd3pDWFlXaXFvc0lPUWU4bXE1VDBBcHlsR1dKaEpjT1JWVzh3Ui1BYmZleWFXcjQ0WWVRMDk3N0w5cENRWGlRNXRLTV8xYkYzZEp0ZndjMVMwUldxeFprZGFuall0bXJqRk9EdDRIbHpkbktnSy0xT0R0Y3pOY2RBUVYzS0YxUlFlYUNBQ0NSQTdPSXc?oc=5",
       "source": "CIDRAP Vaccines & Immunization",
@@ -1547,7 +1681,7 @@
       ]
     },
     {
-      "id": "dda6d7749d4344b0",
+      "id": "da04421c777d0973",
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "summary": "パキスタンにおける将来の赤癬ワクチン導入の準備：政策の準備状況と実施に関するマルチステークホルダーの定性的研究 medRxiv",
       "summary_ai": "パキスタンにおける将来の赤癬ワクチン導入の準備：政策の準備状況と実施に関するマルチステークホルダーの定性的研究 medRxiv",
@@ -1555,7 +1689,7 @@
       "summary_original": "Preparing for future Shigella vaccine introduction in Pakistan: a multi-stakeholder qualitative study of policy readiness and implementation medRxiv",
       "summary_ai_original": "Preparing for future Shigella vaccine introduction in Pakistan: a multi-stakeholder qualitative study of policy readiness and implementation medRxiv",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GaXY5am4xQmM2QjF6ZzltWEtQMHYtV1lRa0RnUVN1RXZHQVk3aEtMVlQ3bHdMMXlZN3ltVE1uc2VkV1hmcVVnV3prUFE0YjNRUjZKV3FNWUc2QnV5amhEY0VQRUFoNFNkdzJsaVZxS0NWRVd4ZHc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9BbGZIU0hhcm1vdDlRaFpJcGtsdUZlYUNzSlNHazVxdXVuRkRVTVg3UzBDUkVScFZ4RFVkWHdNOU9DVkIwMWtkbGJGMnJqU1daRXR5OVB1SHhxNjVUNEFoLW02YlZWcFRqanliNGRkQm8xUVFYSmN4ZldEOE4?oc=5",
       "source": "medRxiv vaccines",
       "source_type": "preprint",
       "source_tier": "Tier 3",
@@ -1613,13 +1747,13 @@
       ]
     },
     {
-      "id": "6371aa09a0cc0d63",
-      "title": "ワクチン政策と国民の信頼に関する物語を再考する -",
-      "summary": "ワクチン政策と国民の信頼に関する物語を再考する",
-      "summary_ai": "ワクチン政策と国民の信頼に関する物語を再考する",
-      "title_original": "Rethinking the narrative on vaccine policy and public trust - The",
-      "summary_original": "Rethinking the narrative on vaccine policy and public trust The",
-      "summary_ai_original": "Rethinking the narrative on vaccine policy and public trust The",
+      "id": "9efd83ff247d0a96",
+      "title": "ワクチン政策と国民の信頼に関する物語を再考する - bmj.com",
+      "summary": "ワクチン政策と国民の信頼に関する物語を再考する bmj.com",
+      "summary_ai": "ワクチン政策と国民の信頼に関する物語を再考する bmj.com",
+      "title_original": "Rethinking the narrative on vaccine policy and public trust - bmj.com",
+      "summary_original": "Rethinking the narrative on vaccine policy and public trust bmj.com",
+      "summary_ai_original": "Rethinking the narrative on vaccine policy and public trust bmj.com",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Wb1JLcW1YUlotNHB4ZzZGTDh6TFYzbGZvS0x4eHVScWpiaklUTmVaMUtqOGRrUGUtQ2VLSVl2M0JleUhKZHJmMEVaQXRnSllCaWgwREJMbm5mUkJWY0tn?oc=5",
       "source": "BMJ",
@@ -1944,13 +2078,13 @@
       ]
     },
     {
-      "id": "76d35d8d3fd86113",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary_ai": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_original": "Evaluating the Effectiveness of Antivirals for COVID-19 in the Post-vaccine, Omicron Era: A Systematic Review and Meta-analysis - academic.oup.com",
-      "summary_original": "Evaluating the Effectiveness of Antivirals for COVID-19 in the Post-vaccine, Omicron Era: A Systematic Review and Meta-analysis academic.oup.com",
-      "summary_ai_original": "Evaluating the Effectiveness of Antivirals for COVID-19 in the Post-vaccine, Omicron Era: A Systematic Review and Meta-analysis academic.oup.com",
+      "id": "124c87ba6b271eac",
+      "title": "予防接種後のオミクロン時代における新型コロナウイルス感染症に対する抗ウイルス薬の有効性の評価：系統的レビューとメタ分析 - オックスフォード・アカデミック",
+      "summary": "予防接種後のオミクロン時代における新型コロナウイルス感染症に対する抗ウイルス薬の有効性の評価：体系的レビューとメタ分析 オックスフォード・アカデミック",
+      "summary_ai": "予防接種後のオミクロン時代における新型コロナウイルス感染症に対する抗ウイルス薬の有効性の評価：体系的レビューとメタ分析 オックスフォード・アカデミック",
+      "title_original": "Evaluating the Effectiveness of Antivirals for COVID-19 in the Post-vaccine, Omicron Era: A Systematic Review and Meta-analysis - Oxford Academic",
+      "summary_original": "Evaluating the Effectiveness of Antivirals for COVID-19 in the Post-vaccine, Omicron Era: A Systematic Review and Meta-analysis Oxford Academic",
+      "summary_ai_original": "Evaluating the Effectiveness of Antivirals for COVID-19 in the Post-vaccine, Omicron Era: A Systematic Review and Meta-analysis Oxford Academic",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1JbGxEUTBwdWRRLVVfQW1ZSXBwMVBtZFNueFUxVVRxem5aWXZBbEpsOFZVcWtVdllpVWFUNUNOSk1HZGtTa2hOXzlEZUx1MjNlWktkTEJxOHE1SEpuRUF5WjFqTEU3V3VIeVE?oc=5",
       "source": "Open Forum Infectious Diseases",
@@ -2024,7 +2158,7 @@
       "source_type": "academic",
       "source_tier": "Tier 3",
       "source_priority": 8,
-      "published_at": "2026-07-30T20:47:06+00:00",
+      "published_at": "2026-07-30T07:41:09+00:00",
       "topics": [
         "research"
       ],
@@ -2078,13 +2212,13 @@
       ]
     },
     {
-      "id": "9446112f2718b957",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "400以上の州ワクチン法案、9つの新しい法律、2つの連邦憲章、そしてCDC長官に一歩近づいた：米国ワクチン政策の現状 cidrap.umn.edu",
-      "summary_ai": "400以上の州ワクチン法案、9つの新しい法律、2つの連邦憲章、そしてCDC長官に一歩近づいた：米国ワクチン政策の現状 cidrap.umn.edu",
-      "title_original": "Over 400 state vaccine bills, 9 new laws, 2 fed charters, and 1 step closer to a CDC director: The State of US Vaccine Policy - cidrap.umn.edu",
-      "summary_original": "Over 400 state vaccine bills, 9 new laws, 2 fed charters, and 1 step closer to a CDC director: The State of US Vaccine Policy cidrap.umn.edu",
-      "summary_ai_original": "Over 400 state vaccine bills, 9 new laws, 2 fed charters, and 1 step closer to a CDC director: The State of US Vaccine Policy cidrap.umn.edu",
+      "id": "210f8968741152e8",
+      "title": "400以上の州ワクチン法案、9つの新しい法律、2つの連邦憲章、そしてCDC長官に一歩近づいた：米国のワクチン政策の現状 - CIDRAP",
+      "summary": "400以上の州ワクチン法案、9つの新しい法律、2つの連邦憲章、そしてCDC長官に一歩近づいた：米国ワクチン政策の現状 CIDRAP",
+      "summary_ai": "400以上の州ワクチン法案、9つの新しい法律、2つの連邦憲章、そしてCDC長官に一歩近づいた：米国ワクチン政策の現状 CIDRAP",
+      "title_original": "Over 400 state vaccine bills, 9 new laws, 2 fed charters, and 1 step closer to a CDC director: The State of US Vaccine Policy - CIDRAP",
+      "summary_original": "Over 400 state vaccine bills, 9 new laws, 2 fed charters, and 1 step closer to a CDC director: The State of US Vaccine Policy CIDRAP",
+      "summary_ai_original": "Over 400 state vaccine bills, 9 new laws, 2 fed charters, and 1 step closer to a CDC director: The State of US Vaccine Policy CIDRAP",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPU2ljN29vQWpnbW1wal9nSXZ5Q3dPYVdmSTNEUEJCSnBjNklsMkx4MFhOQXlVQlludlVEdjRpdG9meGNVZ29fVHo3elhKLVpObXVwaE9uUnBUSjB4VUxVTzJaajBURE8tMDZpVUlsbFZvbHRoMk12bjB3UHpkdF96STVObEFWYW44ZWFodHRMN1BuMVZ4UC1JcmJMVnFtQ2JUNlZWeFU2WHUtUjNZZUFmYTh2ME40REgtZ1A1eDFDUQ?oc=5",
       "source": "CIDRAP Vaccines & Immunization",
@@ -2410,268 +2544,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "SSRN vaccine preprints"
-      ]
-    },
-    {
-      "id": "d3c4a86b6b735ba3",
-      "title": "ウガンダで実施されたワクチン治験の炭素排出量：研究者の環境責任を強化するための行動を特定するための遡及的評価 - BMJ Open",
-      "summary": "ウガンダで実施されたワクチン治験の炭素排出量：研究者の環境責任を強化するための行動を特定するための遡及的評価 BMJ Open",
-      "summary_ai": "ウガンダで実施されたワクチン治験の炭素排出量：研究者の環境責任を強化するための行動を特定するための遡及的評価 BMJ Open",
-      "title_original": "Carbon emissions of a vaccine trial implemented in Uganda: retrospective assessment to identify actions to enhance researchers’ environmental responsibilities - BMJ Open",
-      "summary_original": "Carbon emissions of a vaccine trial implemented in Uganda: retrospective assessment to identify actions to enhance researchers’ environmental responsibilities BMJ Open",
-      "summary_ai_original": "Carbon emissions of a vaccine trial implemented in Uganda: retrospective assessment to identify actions to enhance researchers’ environmental responsibilities BMJ Open",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HYnhLNjRsRGYxa0R2cnI4cmRZUU5ickNoM25XNzVjc3NTRWhwc0FaOGFPY2dlNkdzaXpWX1liU3lyd191QjdBYlp2QmYtOC1mN1poUU1uNEV5YTBzakVHcmhFXzNtLWVfYTVB?oc=5",
-      "source": "BMJ",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-07-27T18:45:11+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "ウガンダ",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BMJ / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BMJ / London"
-        },
-        "target": {
-          "key": "uganda",
-          "name_ja": "ウガンダ",
-          "lat": 0.3476,
-          "lng": 32.5825,
-          "region": "Africa",
-          "label": "ウガンダ"
-        }
-      },
-      "location": {
-        "key": "uganda",
-        "name_ja": "ウガンダ",
-        "lat": 0.3476,
-        "lng": 32.5825,
-        "region": "Africa",
-        "label": "ウガンダ"
-      },
-      "region": "Africa",
-      "country": "ウガンダ",
-      "lat": 0.3476,
-      "lng": 32.5825,
-      "duplicate_count": 2,
-      "duplicate_sources": [
-        "BMJ"
-      ]
-    },
-    {
-      "id": "de6c4954261f94fb",
-      "title": "変化する状況における百日咳予防接種: 将来の政策に関する考慮事項 - SSRN eLibrary",
-      "summary": "変化する状況における百日咳予防接種: 将来の政策に関する考慮事項 SSRN eLibrary",
-      "summary_ai": "変化する状況における百日咳予防接種: 将来の政策に関する考慮事項 SSRN eLibrary",
-      "title_original": "Pertussis Vaccination in a Changing Landscape: Considerations for Future Policy - SSRN eLibrary",
-      "summary_original": "Pertussis Vaccination in a Changing Landscape: Considerations for Future Policy SSRN eLibrary",
-      "summary_ai_original": "Pertussis Vaccination in a Changing Landscape: Considerations for Future Policy SSRN eLibrary",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtVWN4eWJKRWVHZkRRZWluSXYzaGJ2OVBJS004R014aG03SVdNTGViTi1ZdW5MNm1fT1pqUlRMYUVqUHozX3phbXB6aUx2SHU2Yko4QS1PVUpwbVV0V08zY2loQjB1SldmR3FN?oc=5",
-      "source": "SSRN vaccine preprints",
-      "source_type": "preprint",
-      "source_tier": "Tier 3",
-      "source_priority": 6,
-      "published_at": "2026-07-27T10:43:39+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "SSRN"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "SSRN"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "SSRN vaccine preprints"
-      ]
-    },
-    {
-      "id": "9dbf587838de4c66",
-      "title": "エボラ出血熱ワクチン試験で予防接種を受けた最初のボランティア - cidrap.umn.edu",
-      "summary": "エボラ出血熱ワクチン試験で予防接種を受けた初のボランティア cidrap.umn.edu",
-      "summary_ai": "エボラ出血熱ワクチン試験で予防接種を受けた初のボランティア cidrap.umn.edu",
-      "title_original": "First volunteer vaccinated in Ebola vaccine trial - cidrap.umn.edu",
-      "summary_original": "First volunteer vaccinated in Ebola vaccine trial cidrap.umn.edu",
-      "summary_ai_original": "First volunteer vaccinated in Ebola vaccine trial cidrap.umn.edu",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbVNnZjExWkZSZ3BGYkVoNjh1NmVsWEwtVmdUZHZWT1RNYUEtT2ozRWxXdFBKZVZ2UlRDaGQtVlRyQ3ljY2FMVXB0ZXMzb3VQZnhQZ3JOX0szUGRfYmJidXZQLVJkTG43bFVTQXlTM1BqYk1YZS1JaW5jNy1UdGgyN1lfRkdaZw?oc=5",
-      "source": "CIDRAP Vaccines & Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 8,
-      "published_at": "2026-07-27T07:00:00+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "ebola"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "CIDRAP / Minnesota"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "CIDRAP / Minnesota"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "CIDRAP Vaccines & Immunization"
-      ]
-    },
-    {
-      "id": "dd68e934687101b6",
-      "title": "初のボランティアが治験でエボラ出血熱ブンディブギョ株ワクチンを接種 - ロイター",
-      "summary": "初のボランティアが治験でエボラ出血熱ブンディブギョ株ワクチンを接種 ロイター",
-      "summary_ai": "初のボランティアが治験でエボラ出血熱ブンディブギョ株ワクチンを接種 ロイター",
-      "title_original": "First volunteer receives Ebola Bundibugyo strain vaccine in trial - Reuters",
-      "summary_original": "First volunteer receives Ebola Bundibugyo strain vaccine in trial Reuters",
-      "summary_ai_original": "First volunteer receives Ebola Bundibugyo strain vaccine in trial Reuters",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzcTI1aF9UQm9CZ2pydHUwSDVpdWlKM0FUQ1k3STZQYWFOaU01WHJWV2prQm5mSkNaRjBRSlNOcXIzV0RjenlGalptNnk3X3phYThPbGM5Yl9KVkplcThhalVvXzRDTEk?oc=5",
-      "source": "Reuters Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-07-27T07:00:00+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "Reuters"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "Reuters"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Reuters Vaccines / Immunization"
       ]
     }
   ]
