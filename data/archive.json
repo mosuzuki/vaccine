@@ -1,10 +1,86 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-08-11T21:58:54.271453+00:00",
-  "archive_count": 430,
+  "generated_at": "2026-08-12T21:57:02.061401+00:00",
+  "archive_count": 431,
   "days_back": 14,
   "items": [
+    {
+      "id": "7279d7916cb0fd4c",
+      "title": "MHRA、小児予防接種の安全性を再確認",
+      "summary": "予防接種は、多くの深刻な感染症から身を守るための最も効果的かつ安全な方法の 1 つです",
+      "summary_ai": "予防接種は、多くの重篤な感染症から身を守るための最も効果的で安全な方法の 1 つである MHRA の最高安全責任者であるアリソン・ケイブ博士は次のように述べています。",
+      "title_original": "MHRA reaffirms the safety of childhood vaccination",
+      "summary_original": "Vaccination is one of the most effective and safest ways to protect against many serious infectious diseases",
+      "summary_ai_original": "Vaccination is one of the most effective and safest ways to protect against many serious infectious diseases Dr Alison Cave, Chief Safety Officer at the MHRA, said: “Multiple large, well-conducted studies involving millions of children worldwide have consistently demonstrated that there is no evidence that vaccines cau",
+      "article_text_original": "Vaccination is one of the most effective and safest ways to protect against many serious infectious diseases Dr Alison Cave, Chief Safety Officer at the MHRA, said: “Multiple large, well-conducted studies involving millions of children worldwide have consistently demonstrated that there is no evidence that vaccines cause autism in children. “Vaccination remains one of the most effective and safest ways to protect against serious and potentially life-threatening diseases, supported by decades of scientific evidence in the UK and internationally. “The benefits of vaccination are endorsed by the NHS and all major UK public health and paediatric bodies as part of the recommended routine childhood vaccination schedule. “All vaccines approved for use in the UK undergo a rigorous assessment of their safety, quality and efficacy and once approved for use, we continuously monitor their safety through robust surveillance systems, real-world data, and international evidence. “We encourage parents to follow NHS guidance on vaccination and speak to a healthcare professional if they have any questions. “Patient safety is our top priority. We encourage anyone to report any suspected side effects to us via the MHRA Yellow Card scheme.” Notes to Editors: - Childhood vaccination is recommended by the NHS, the World Health Organization, and public health authorities globally as the most effective way to protect children from serious infectious diseases. - Before approval, all vaccines undergo robust independent assessment by the MHRA to ensure they meet strict standards of safety, quality, and efficacy. - The UK childhood vaccination schedule is informed by evidence-based recommendations from the Joint Committee on Vaccination and Immunisation (JCVI) and supported by NHS clinical guidance. - Multiple large, well-conducted international studies, including national registry studies and sibling-controlled studies, have found no evidence that vaccines cause autism in children. - In 2.56 million US children, researchers found no association between MMR vaccination before age 2 and childhood autism. (Burstain, et al, Vaccine Reports (2026) - A major meta-analysis of data from over 1.26 million children in cohort studies and nearly 10,000 children in case-control studies found no association between vaccination and autism and autism spectrum disorder (Taylor, et al., Vaccine (2014) - Some vaccines contain substances called adjuvants that boost the body’s immune response to the vaccine. A commonly used vaccine adjuvant is aluminium, although this isn’t used in the MMR vaccine. A recent large-scale study did not find evidence to support an increased risk for neurodevelopmental disorders including autism, with early childhood exposure to aluminium containing vaccines. - The MHRA has published a vaccine safety patient factsheet to give patients and the public clear, accessible and evidence-based information about how vaccines work and how their safety is assured and a meningitis patient factsheet to help people understand meningitis, recognise its potentially urgent symptoms, and understand the role and safety of vaccination to help prevent it. - The MHRA conducts continuous safety surveillance through the Yellow Card scheme, analysis of large healthcare datasets, review of international safety data, and there is ongoing review by independent scientific experts. - Should new evidence indicate a change in vaccine safety, the MHRA will act promptly to update guidance and information for healthcare professionals and the public. - Parents and carers should continue to follow NHS vaccination guidance to protect children from preventable diseases such as measles, meningitis, and whooping cough. - Members of the public and healthcare professionals are encouraged to report any suspected side effect from medicines and vaccines through the MHRA’s Yellow Card scheme. - The Medicines and Healthcare products Regulatory Agency (MHRA) is responsible for regulating all medicines and medical devices in the UK by ensuring they work and are acceptably safe. All work is underpinned by robust and fact-based judgements to ensure that benefits justify any risks. - The MHRA is an executive agency of the Department of Health and Social Care. - For media enquiries, please contact newscentre@mhra.gov.uk or call 020 3080 7651.",
+      "link": "https://www.gov.uk/government/news/mhra-reaffirms-the-safety-of-childhood-vaccination",
+      "source": "MHRA",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 8,
+      "published_at": "2026-08-12T11:41:06+00:00",
+      "topics": [
+        "policy",
+        "research"
+      ],
+      "policy_tags": [
+        "approval",
+        "outbreak_response",
+        "recommendation",
+        "safety",
+        "schedule"
+      ],
+      "vaccines": [
+        "measles"
+      ],
+      "variants": [],
+      "target_country": "英国",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "MHRA / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "MHRA / London"
+        },
+        "target": {
+          "key": "uk",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "英国"
+        }
+      },
+      "location": {
+        "key": "uk",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "英国"
+      },
+      "region": "Europe",
+      "country": "英国",
+      "lat": 51.5074,
+      "lng": -0.1278,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "MHRA"
+      ],
+      "first_seen_at": "2026-08-12T11:41:06+00:00",
+      "last_seen_at": "2026-08-12T22:04:39.272968+00:00"
+    },
     {
       "id": "e7e3636af7b01de8",
       "title": "憲章改訂後、HHS、国家ワクチン諮問委員会の候補者を募集 - CIDRAP",
@@ -626,7 +702,7 @@
         "PAHO News"
       ],
       "first_seen_at": "2026-08-08T21:09:48+00:00",
-      "last_seen_at": "2026-08-11T22:01:20.312012+00:00"
+      "last_seen_at": "2026-08-12T22:04:39.272991+00:00"
     },
     {
       "id": "c1078725417ee4f6",
@@ -690,7 +766,7 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicate_sources": [
         "bioRxiv vaccines"
       ],
@@ -1033,7 +1109,7 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicate_sources": [
         "BMJ"
       ],
@@ -1721,7 +1797,7 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicate_sources": [
         "CIDRAP Vaccines & Immunization"
       ],
@@ -1925,7 +2001,7 @@
       "country": "パキスタン",
       "lat": 33.6844,
       "lng": 73.0479,
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicate_sources": [
         "medRxiv vaccines"
       ],
@@ -2130,7 +2206,7 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicate_sources": [
         "medRxiv vaccines"
       ],
