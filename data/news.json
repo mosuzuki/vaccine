@@ -1,9 +1,9 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-08-16T21:30:37.835028+00:00",
+  "generated_at": "2026-08-17T21:35:08.447943+00:00",
   "item_count": 30,
-  "archive_count": 441,
+  "archive_count": 445,
   "days_back": 14,
   "plot_mode_default": "source",
   "feed_status": [
@@ -23,7 +23,7 @@
       "name": "CDC Newsroom",
       "url": "https://tools.cdc.gov/api/v2/resources/media/316422.rss",
       "status": "ok",
-      "seen": 18,
+      "seen": 17,
       "kept": 0
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/biologics/rss.xml",
       "status": "ok",
       "seen": 20,
-      "kept": 0
+      "kept": 1
     },
     {
       "name": "EMA News",
@@ -81,15 +81,15 @@
       "name": "PAHO News",
       "url": "https://www.paho.org/en/rss.xml",
       "status": "ok",
-      "seen": 3,
+      "seen": 4,
       "kept": 1
     },
     {
       "name": "The Lancet series",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Athelancet.com%20(trial%20OR%20policy%20OR%20effectiveness%20OR%20safety)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 0,
-      "kept": 0
+      "seen": 1,
+      "kept": 1
     },
     {
       "name": "Lancet Infectious Diseases",
@@ -102,15 +102,15 @@
       "name": "NEJM",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Anejm.org%20(trial%20OR%20effectiveness%20OR%20policy%20OR%20safety)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 1,
       "kept": 1
     },
     {
       "name": "BMJ",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abmj.com%20(policy%20OR%20trial%20OR%20effectiveness%20OR%20communication)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 3,
-      "kept": 3
+      "seen": 0,
+      "kept": 0
     },
     {
       "name": "Vaccine journal",
@@ -193,14 +193,14 @@
       "name": "JAMA vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjama%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 3,
       "kept": 0
     },
     {
       "name": "JAMA Network Open vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjamanetworkopen%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -235,35 +235,35 @@
       "name": "bioRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abiorxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 7,
+      "seen": 6,
       "kept": 1
     },
     {
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 25,
-      "kept": 4
+      "seen": 22,
+      "kept": 3
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 16,
+      "seen": 24,
       "kept": 3
     },
     {
       "name": "AP Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 51,
+      "seen": 100,
       "kept": 0
     },
     {
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 61,
+      "seen": 42,
       "kept": 0
     },
     {
@@ -284,36 +284,36 @@
       "name": "Nature News Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 12,
+      "seen": 13,
       "kept": 0
     },
     {
       "name": "Science Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Ascience.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 9,
+      "seen": 8,
       "kept": 0
     },
     {
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 35,
+      "seen": 33,
       "kept": 0
     },
     {
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 74,
+      "seen": 99,
       "kept": 1
     },
     {
       "name": "Washington Post Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 24,
-      "kept": 2
+      "seen": 27,
+      "kept": 3
     },
     {
       "name": "NHK ワクチン / 予防接種",
@@ -326,28 +326,28 @@
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 8,
+      "seen": 12,
       "kept": 0
     },
     {
       "name": "朝日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Aasahi.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 2,
+      "seen": 5,
       "kept": 0
     },
     {
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 42,
+      "seen": 26,
       "kept": 1
     },
     {
       "name": "毎日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 12,
+      "seen": 8,
       "kept": 0
     },
     {
@@ -376,7 +376,7 @@
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fjid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
       "seen": 2,
-      "kept": 0
+      "kept": 1
     },
     {
       "name": "Open Forum Infectious Diseases",
@@ -464,16 +464,157 @@
     }
   ],
   "weekly_ai_summary": {
-    "generated_at": "2026-08-16T21:30:37.835028+00:00",
+    "generated_at": "2026-08-17T21:35:08.447943+00:00",
     "period_days": 7,
     "policy_count": 11,
-    "academic_count": 2,
+    "academic_count": 3,
     "status": "ok",
     "model": "gpt-4o-mini",
-    "policy_summary": "ファイザーとヴァルネバのライム病ワクチン候補が欧州医薬品庁で販売承認申請中。トランプ大統領の小児ワクチン推奨の変更が議論を呼び、WHOが予防接種スケジュールを擁護している。",
-    "academic_summary": "証拠に基づいた医療が米国のワクチン政策において誤用されている事例が報告された。成人向け肺炎球菌ワクチンの推奨事項について再考が求められている。"
+    "policy_summary": "トランプ大統領がワクチン推奨を撤回し、学校の位置を確認するよう呼びかけています。また、WHOはトランプ大統領の小児期ワクチン削減命令に対し、予防接種スケジュールを擁護しています。",
+    "academic_summary": "証拠に基づいた医療が米国のワクチン政策において誤用されていることが指摘されています。成人向け肺炎球菌ワクチンの推奨事項の再考や、ロタウイルスワクチンの有効性に関する研究も報告されています。"
   },
   "items": [
+    {
+      "id": "601461eff8af1748",
+      "title": "トランプ大統領、ワクチン推奨を撤回。あなたの学校がどのような位置にあるかを確認してください。 - ワシントン・ポスト紙",
+      "summary": "トランプ大統領、ワクチン推奨を撤回。あなたの学校がどのような位置にあるかを確認してください。ワシントン・ポスト",
+      "summary_ai": "トランプ大統領、ワクチン推奨を撤回。あなたの学校がどのような位置にあるかを確認してください。",
+      "title_original": "Trump rolls back vaccine recommendations. See where your school stands. - The Washington Post",
+      "summary_original": "Trump rolls back vaccine recommendations. See where your school stands. The Washington Post",
+      "summary_ai_original": "Trump rolls back vaccine recommendations. See where your school stands.",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMElVb1lJazFOZDRGZGdva3BHamdrRENYT3l1RmtJM0lsLUdRWklHM0hZTGVtZXB3OXkwdmR4aHJqRGlibkpTRWo1VzN4cGhuVE1TcHdlRjRJclp0bklPVVFPM3h6LUpBbUhnMHpXX1pvNjJXcE4wTWJ4Ui1MZ2lEdW1IaloxdlhuZHlHVkdpTHNOQTJMeWJELTVvTW1WbzNDaVRZUE9jMmw3QzhPR3gwLXowV0tIdmtCZXNF?oc=5",
+      "source": "Washington Post Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-08-17T19:00:00+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [
+        "recommendation"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "Washington Post"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "Washington Post"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Washington Post Vaccines / Immunization"
+      ]
+    },
+    {
+      "id": "2eafc8008768a422",
+      "title": "ワクチン有害事象報告システム (VAERS)の質問と回答",
+      "summary": "VAERS は、1986 年国家小児ワクチン傷害法 (NCVIA)の発展として作成された国家ワクチン安全性監視プログラムであり、食品医薬品局 (FDA)と疾病管理予防センター (CDC)によって管理されています。",
+      "summary_ai": "- VAERS の定義 - VAERS への報告に関する質問 - VAERS への報告で考えられる結果 - VAERS の詳細について VAERS の定義 VAERS とは何ですか? Questions about Reporting to VAERS Who can report to VAERS?",
+      "title_original": "Vaccine Adverse Event Reporting System (VAERS) Questions and Answers",
+      "summary_original": "VAERS is a national vaccine safety surveillance program created as an outgrowth of the National Childhood Vaccine Injury Act of 1986 (NCVIA) and is administered by the Food and Drug Administration (FDA) and Centers for Disease Control and Prevention (CDC).",
+      "summary_ai_original": "- Defining VAERS - Questions about Reporting to VAERS - Possible Outcomes of Reporting to VAERS - For More Information about VAERS Defining VAERS What is VAERS? Questions about Reporting to VAERS Who can report to VAERS?",
+      "article_text_original": "- Defining VAERS - Questions about Reporting to VAERS - Possible Outcomes of Reporting to VAERS - For More Information about VAERS Defining VAERS What is VAERS? VAERS is a national vaccine safety surveillance program created as an outgrowth of the National Childhood Vaccine Injury Act of 1986 (NCVIA) and is administered by the Food and Drug Administration (FDA) and Centers for Disease Control and Prevention (CDC). VAERS collects and analyzes data from reports of adverse events following vaccination. Since 1990, VAERS has received over 2 million reports, most of which describe mild side effects such as fever. Very rarely, people experience serious adverse events following immunization. By monitoring such events, VAERS helps to identify any important new safety concerns that otherwise may not come to light before licensure. Questions about Reporting to VAERS Who can report to VAERS? Anyone can report to VAERS. VAERS reports are usually submitted by health care providers, vaccine manufacturers, vaccine recipients (or their parents/guardians) and state immunization programs. Patients, parents, and guardians are encouraged to seek the help of a health-care professional in reporting to VAERS. Why should I report to VAERS? VAERS is a valuable tool for post-marketing safety surveillance. Each report provides valuable information that is added to the VAERS database. Complete reporting of post-vaccination events supplies public health professionals with the information they need to ensure the safest strategies of vaccine administration. What events should be reported to VAERS? VAERS encourages the reporting of any significant adverse event occurring after the administration of any vaccine licensed in the United States. You should report any significant adverse event even if you are unsure whether a vaccine caused the event. The National Childhood Vaccine Injury Act (NCVIA) requires health care providers to report: - Any event listed by the vaccine manufacturer as a contraindication to subsequent doses of the vaccine. - Any event listed in the Reportable Events Table that occurs within the specified time period after vaccination. The Reportable Events Table specifically outlines the reportable post-vaccination events and the time frames in which they must occur in order to qualify as being reportable. To obtain a copy of the Reportable Events Table, click here or call 1-800-822-7967. How do I report to VAERS? Reports may be submitted online at https://vaers.hhs.gov/ You can also download the PDF form and fax to 1-877-721-0366 or mail the completed form to: VAERS P.O. Box 1100 Rockville, MD, 20849-1100 If you require assistance with reporting, you can contact VAERS by email at info@vaers.org or by phone at 1-800-822-7967 I am hearing about false reports being made to VAERS? As stated on the VAERS report form, “knowingly filing a false VAERS report with the intent to mislead the Department of Health and Human Services is a violation of Federal law (18 U.S. Code § 1001) punishable by fine and imprisonment.” Possible Outcomes of Reporting to VAERS How are VAERS reports analyzed? Analyzing VAERS reports is a complex task. Both FDA and CDC review data reported to VAERS. FDA reviews reports to assess whether a reported event is adequately reflected in the Emergency Use Authorization prescribing information, or product labeling for licensed (approved) vaccines. In addition, FDA closely monitors reporting trends for individual vaccine lots. Can information reported to VAERS lead to FDA actions? Based on information reported to VAERS and/or other systems in place to monitor vaccine safety, FDA may undertake a number of regulatory actions. These could include changes to the vaccine labeling, Fact Sheets, communications to the public and healthcare providers, or requiring the manufacturer to conduct additional studies. Are all events reported to VAERS caused by vaccinations? No. VAERS reports generally cannot be used to determine if a vaccine caused or contributed to an adverse event or illness. Some events may occur coincidentally after the administration of a vaccine while others may in fact be caused by a vaccine. If a safety signal is found in VAERS, further studies can be conducted in safety systems such as the CDC's Vaccine Safety Datalink (VSD) or the Clinical Immunization Safety Assessment (CISA) project. These systems do not have the same limitations as VAERS and can better assess health risks and possible connections between adverse events and a vaccine. Additional information about VAERS, VSD, and the CISA project are available here. What if I can't tell if a reaction was caused by a vaccine or another medication? We encourage you to report any reaction following vaccination to VAERS, even if you cannot tell if the vaccine or another product caused it. Reports sent to the VAERS program that also refer to non-vaccine pharmaceutical products are shared with MedWatch, FDA's drug safety surveillance system. How will I know if VAERS has received my report? You will receive a confirmation number electronically - or a VAERS identification number by mail - depending on your method of reporting. Will I be contacted by VAERS after submitting a report? You will be contacted by VAERS if follow-up information (e.g., medical records or other medical documentation) is needed. Please be aware that not everyone who submits a report is contacted and there may be a delay of when someone is contacted. Can I access my VAERS report? You can access a copy of your report at the CDC VAERS WONDER website by using your VAERS identification number. You can also contact VAERS at 1-800 822-7967 or info@vaers.org if you need assistance with access to your report – or have specific questions about your report. Due to the large volume of calls, there may be a delay in speaking with a VAERS representative. How do I find out if a vaccine adverse event has been reported to VAERS? The VAERS and CDC WONDER websites allow you to access adverse events reports submitted to VAERS. Please note that a VAERS report does not mean that the vaccine caused the adverse event, only that symptoms occurred after vaccination. De-identified VAERS data are usually available 4-6 weeks after the report is received. You may submit a Freedom of Information Act (FOIA) request for information not available through VAERS and CDC WONDER. Food and Drug Administration Division of Freedom of Information Office of the Executive Secretariat, OC 5630 Fishers Lane, Room 1035 Rockville, MD 20857 Phone: 301-796-3900 Fax: 301-827-9267 For More Information about VAERS Is VAERS involved in the Vaccine Injury Compensation Program? No. The National Childhood Vaccine Injury Act created the Vaccine Injury Compensation Program (VICP) to compensate individuals whose injuries may have been caused by vaccines recommended by the CDC for routine use. VICP is separate from the VAERS program. For more information about VICP go to https://www.hrsa.gov/vaccinecompensation/index.html, or call 1-800-338-2382. Reporting an event to VAERS does not file a claim for compensation to the VICP. A petition must be filed with VICP to start a claim for compensation. Where can I find more information about electronic reporting to VAERS? Information concerning regulatory submissions in electronic format for biologics products can be found here. Are there other systems in place to monitor the safety of vaccines? Yes, VAERS is not the only system in place to monitor vaccine safety. The U.S. government - in partnership with health systems, academic centers, and private sector partners - uses multiple existing vaccine safety monitoring systems to monitor COVID-19 vaccines in the post-authorization/approval period. These systems include the VSD, Biologics Effectiveness and Safety (BEST) and Medicare claims data. Further information about VAERS, including the main strengths and limitations, can be found here.",
+      "link": "http://www.fda.gov/vaccines-blood-biologics/vaccine-adverse-events/vaccine-adverse-event-reporting-system-vaers-questions-and-answers",
+      "source": "FDA Vaccines / Biologics",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 9,
+      "published_at": "2026-08-17T15:36:53+00:00",
+      "topics": [
+        "communication",
+        "policy",
+        "research"
+      ],
+      "policy_tags": [
+        "approval",
+        "communication",
+        "outbreak_response",
+        "safety"
+      ],
+      "vaccines": [
+        "covid"
+      ],
+      "variants": [],
+      "target_country": "米国",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "FDA / Silver Spring"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "FDA / Silver Spring"
+        },
+        "target": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "米国"
+        }
+      },
+      "location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "米国"
+      },
+      "region": "North America",
+      "country": "米国",
+      "lat": 38.9072,
+      "lng": -77.0369,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "FDA Vaccines / Biologics"
+      ]
+    },
     {
       "id": "ec1db22804599798",
       "title": "証拠に基づいた医療はどのようにしてワクチンに反対するようになったのでしょうか?米国のワクチン政策における EBM 原則の誤用 - SSRN eLibrary",
@@ -607,13 +748,13 @@
       ]
     },
     {
-      "id": "ac2be27febb20073",
-      "title": "大統領令、承認された取締役、そして20か月連続の麻疹：米国のワクチン政策の現状 - cidrap.umn.edu",
-      "summary": "大統領令、承認された取締役、そして20か月連続の麻疹：米国のワクチン政策の現状 cidrap.umn.edu",
-      "summary_ai": "大統領令、承認された取締役、そして20か月連続の麻疹：米国のワクチン政策の現状 cidrap.umn.edu",
-      "title_original": "An executive order, a confirmed director, and 20 straight months of measles: The State of US Vaccine Policy - cidrap.umn.edu",
-      "summary_original": "An executive order, a confirmed director, and 20 straight months of measles: The State of US Vaccine Policy cidrap.umn.edu",
-      "summary_ai_original": "An executive order, a confirmed director, and 20 straight months of measles: The State of US Vaccine Policy cidrap.umn.edu",
+      "id": "c3d0f9abb73af551",
+      "title": "大統領令、承認された取締役、そして20か月連続の麻疹：米国のワクチン政策の現状 - CIDRAP",
+      "summary": "大統領令、承認された取締役、そして20か月連続の麻疹：米国のワクチン政策の現状 CIDRAP",
+      "summary_ai": "大統領令、承認された取締役、そして20か月連続の麻疹：米国のワクチン政策の現状 CIDRAP",
+      "title_original": "An executive order, a confirmed director, and 20 straight months of measles: The State of US Vaccine Policy - CIDRAP",
+      "summary_original": "An executive order, a confirmed director, and 20 straight months of measles: The State of US Vaccine Policy CIDRAP",
+      "summary_ai_original": "An executive order, a confirmed director, and 20 straight months of measles: The State of US Vaccine Policy CIDRAP",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOekpMWjhVRDFncnY2Ui1qU3FTSFVyRVRwMGN3V2VHd2ZnMHY0QUc4UVpxbmMwNlNtQWFFbDEzN3V0ZnNRU0pfaFNGaTBlRy1xWXgyb3M5MGRQXzBTQWp3Nk1XTXhhVGE3YmE1ZHlIWERnX3h3VkhFWWN0MEpjNGx1dlhVcUdSYS1yWE5PTkR6YVh6bGZadUx4TFhoTGhacURsWnFPZk1WT1FkVkI3ZVdFdUhFS3g4bGh4eU8yeA?oc=5",
       "source": "CIDRAP Vaccines & Immunization",
@@ -1019,13 +1160,80 @@
       ]
     },
     {
-      "id": "fa8a8bea0c1f0ac3",
-      "title": "新型コロナウイルスワクチン陰謀論と政府や主流メディアへの不信感を結びつける研究 - cidrap.umn.edu",
-      "summary": "新型コロナウイルスワクチン陰謀論と政府や主流メディアへの不信感を結びつける研究 cidrap.umn.edu",
-      "summary_ai": "新型コロナウイルスワクチン陰謀論と政府や主流メディアへの不信感を結びつける研究 cidrap.umn.edu",
-      "title_original": "Study ties COVID vaccine conspiracy theories to distrust of government, mainstream media - cidrap.umn.edu",
-      "summary_original": "Study ties COVID vaccine conspiracy theories to distrust of government, mainstream media cidrap.umn.edu",
-      "summary_ai_original": "Study ties COVID vaccine conspiracy theories to distrust of government, mainstream media cidrap.umn.edu",
+      "id": "7d36b37003ed4d54",
+      "title": "ロタウイルスおよび急性胃腸炎死亡率に対するロタウイルスワクチンの有効性: MNSSTER-V データセットからのプールされた症例対照研究の分析",
+      "summary": "ロタウイルスおよび急性胃腸炎死亡率に対するロタウイルスワクチンの有効性: MNSSTER-V データセットからのプールされた症例対照研究の分析",
+      "summary_ai": "ロタウイルスおよび急性胃腸炎死亡率に対するロタウイルスワクチンの有効性: MNSSTER-V データセットからのプールされた症例対照研究の分析",
+      "title_original": "Rotavirus vaccine effectiveness against rotavirus and acute gastroenteritis mortality: an analysis of pooled case–control studies from the MNSSTER-V dataset",
+      "summary_original": "Rotavirus vaccine effectiveness against rotavirus and acute gastroenteritis mortality: an analysis of pooled case–control studies from the MNSSTER-V dataset",
+      "summary_ai_original": "Rotavirus vaccine effectiveness against rotavirus and acute gastroenteritis mortality: an analysis of pooled case–control studies from the MNSSTER-V dataset",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOS016QmJHeHlvZml6LUxDR1dwekN4OHhEWkktNHV5VW5mdVBOUG56WUM3U00yU0VvRWZLY3dFYWMyaWxqeGhKQ2VUMVpuRjdRRm9UMWZ4azRPNHlhazVwaDdQN2VrWnZVcjJ3VFZFS09EMk5PRWR1djNtR3hNcGt0d0EwSHNRSmNMb1dr?oc=5",
+      "source": "The Lancet series",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-08-12T07:00:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "rotavirus"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "The Lancet / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "The Lancet / London"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "The Lancet series"
+      ]
+    },
+    {
+      "id": "4c532a7efd760999",
+      "title": "新型コロナワクチン陰謀論と政府や主流メディアへの不信感を結びつける研究 - CIDRAP",
+      "summary": "新型コロナウイルスワクチン陰謀論と政府や主流メディアへの不信感を結びつける研究 CIDRAP",
+      "summary_ai": "新型コロナウイルスワクチン陰謀論と政府や主流メディアへの不信感を結びつける研究 CIDRAP",
+      "title_original": "Study ties COVID vaccine conspiracy theories to distrust of government, mainstream media - CIDRAP",
+      "summary_original": "Study ties COVID vaccine conspiracy theories to distrust of government, mainstream media CIDRAP",
+      "summary_ai_original": "Study ties COVID vaccine conspiracy theories to distrust of government, mainstream media CIDRAP",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ2RCTmN6ck5BS1Z6VXZkZUZCcVBqdWJuN081STI4aE1GYjdjRFBhQXY1Y0JHSXVBTVBfdmNaN1V0UU5maFNydVZ6Wmg4QU82bUpBNFB0OExiU1VVZXBNNWpzaUIwS1lwT3dTbWRDM0ZOeHpWU09RbElaZllWUTNkaHUyQkt0c1JQdFRLR0psNk95YlFUMzJVUEZmeWlfeHdfbEN3MkVoOVdfQUx5TTBJb0Y3blJ4LUdV?oc=5",
       "source": "CIDRAP Vaccines & Immunization",
@@ -1624,78 +1832,13 @@
       ]
     },
     {
-      "id": "2eac6eeab6a7ce40",
-      "title": "破傷風・ジフテリアに対する「冷蔵庫不要」ワクチン、初の人体臨床試験で有望性を示す -",
-      "summary": "破傷風・ジフテリアに対する「冷蔵庫不要」ワクチン、初のヒト臨床試験で有望性を示す",
-      "summary_ai": "破傷風・ジフテリアに対する「冷蔵庫不要」ワクチン、初のヒト臨床試験で有望性を示す",
-      "title_original": "“Fridge-free” vaccine for tetanus-diphtheria shows promise in first human trial - The",
-      "summary_original": "“Fridge-free” vaccine for tetanus-diphtheria shows promise in first human trial The",
-      "summary_ai_original": "“Fridge-free” vaccine for tetanus-diphtheria shows promise in first human trial The",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Gbk51cmpTZTZabVYweWRfVXlBX1hNeWNjZHJneEwzWDRsU2hRMFFLVXg3QzJOUm1pZGRMb1duRkJXUjA0VXBnS3pSSThfdWYya3g1SWRhR25XVmM?oc=5",
-      "source": "BMJ",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-08-06T11:39:27+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BMJ / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BMJ / London"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "BMJ"
-      ]
-    },
-    {
-      "id": "a3ae314a700d0031",
-      "title": "初のmRNAインフルエンザワクチンがFDAの承認を得て、より効果的なワクチンへの期待が高まる - cidrap.umn.edu",
-      "summary": "初のmRNAインフルエンザワクチンがFDAの承認を得て、より効果的なワクチンへの期待が高まる cidrap.umn.edu",
-      "summary_ai": "初のmRNAインフルエンザワクチンがFDAの承認を得て、より効果的なワクチンへの期待が高まる cidrap.umn.edu",
-      "title_original": "First mRNA flu shot gets FDA approval, raising hopes for a more effective vaccine - cidrap.umn.edu",
-      "summary_original": "First mRNA flu shot gets FDA approval, raising hopes for a more effective vaccine cidrap.umn.edu",
-      "summary_ai_original": "First mRNA flu shot gets FDA approval, raising hopes for a more effective vaccine cidrap.umn.edu",
+      "id": "58ad65d5c17c6877",
+      "title": "初のmRNAインフルエンザワクチンがFDAの承認を得て、より効果的なワクチンへの期待が高まる - CIDRAP",
+      "summary": "初のmRNAインフルエンザワクチンがFDAの承認を得て、より効果的なワクチンCIDRAPへの期待が高まる",
+      "summary_ai": "初のmRNAインフルエンザワクチンがFDAの承認を得て、より効果的なワクチンCIDRAPへの期待が高まる",
+      "title_original": "First mRNA flu shot gets FDA approval, raising hopes for a more effective vaccine - CIDRAP",
+      "summary_original": "First mRNA flu shot gets FDA approval, raising hopes for a more effective vaccine CIDRAP",
+      "summary_ai_original": "First mRNA flu shot gets FDA approval, raising hopes for a more effective vaccine CIDRAP",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR1dicEVTYl8wSXgxR3pjbzRXSThfZHFEcFJwR29FLUhOODRhTnJRQi1RRk01dUtJemIyQWVwYklXbGlnbVJBN0J6ZEtWZnhjeXZvaGkyMmR4MEg1SUpZeXFTV1BjNTlqVUdKSXlMdjZfbkwyd203OWRrYkVmZ0ZSU0ltMnBfWFc3b2RxTjh0SzRrNUtCUmpZc2VTcVZEdWpuc0pWd2ZYT3pXVzA5NVFiektJOW0yOGtYaGdHYg?oc=5",
       "source": "CIDRAP Vaccines & Immunization",
@@ -1957,12 +2100,12 @@
       ]
     },
     {
-      "id": "7c18ffcce0b1924f",
-      "title": "男性とセックスする男性の淋病予防のための髄膜炎菌B型予防接種 – 推奨を再考する時期が来たのか? - ijidonline.com",
-      "summary": "男性とセックスする男性の淋病予防のための髄膜炎菌B型予防接種 – 推奨を再考する時期が来たのか? ijidonline.com",
+      "id": "03ad8126a34b93bc",
+      "title": "男性とセックスする男性の淋病予防のための髄膜炎菌B型予防接種 – 推奨を再考する時期が来たのか?",
+      "summary": "男性とセックスする男性の淋病予防のための髄膜炎菌B型予防接種 – 推奨を再考する時期が来たのか?",
       "summary_ai": "男性とセックスする男性の淋病予防のための髄膜炎菌B型予防接種 – 推奨を再考する時期が来たのか?",
-      "title_original": "Meningococcal B vaccination for gonorrhoea prevention in men who have sex with men – time to revisit the recommendation? - ijidonline.com",
-      "summary_original": "Meningococcal B vaccination for gonorrhoea prevention in men who have sex with men – time to revisit the recommendation? ijidonline.com",
+      "title_original": "Meningococcal B vaccination for gonorrhoea prevention in men who have sex with men – time to revisit the recommendation?",
+      "summary_original": "Meningococcal B vaccination for gonorrhoea prevention in men who have sex with men – time to revisit the recommendation?",
       "summary_ai_original": "Meningococcal B vaccination for gonorrhoea prevention in men who have sex with men – time to revisit the recommendation?",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqc0tlYmlDZDN5LVdGMzVQNV9oQW1VVUp5MWxDUTY2RmVrVXVwWE9OWHlObmZwUXdTZEotcU10Nkxja19ZQlZMMDd5ZExxR3hmZHVIdVk2bFJDd0FVUXBGZ0R3VXNqNjJIS2J3cGJJNDBVWGM?oc=5",
@@ -2160,7 +2303,7 @@
       ]
     },
     {
-      "id": "bf86c96c052941f9",
+      "id": "962ec33de6681966",
       "title": "ノーザンテリトリーの青少年および若者における4CMenBワクチンの有効性と髄膜炎菌保菌および淋病への影響に関するマルチデザイン研究 - オックスフォード・アカデミック",
       "summary": "ノーザンテリトリーの青少年および若者における4CMenBワクチンの有効性と髄膜炎菌保菌および淋病への影響に関するマルチデザイン研究 オックスフォード・アカデミック",
       "summary_ai": "ノーザンテリトリーの青少年および若者における4CMenBワクチンの有効性と髄膜炎菌保菌および淋病への影響に関するマルチデザイン研究 オックスフォード・アカデミック",
@@ -2168,7 +2311,7 @@
       "summary_original": "A Multidesign Study of 4CMenB Vaccine Effectiveness and Impact on Meningococcal Carriage and Gonorrhea in Northern Territory Adolescents and Young People Oxford Academic",
       "summary_ai_original": "A Multidesign Study of 4CMenB Vaccine Effectiveness and Impact on Meningococcal Carriage and Gonorrhea in Northern Territory Adolescents and Young People Oxford Academic",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUZlJIQ3NXekxQVkZhbWJJTDVHcE0yOUoyRGdqcTlZanpSaXdlMTktc1ZkaU8yS3FPbGlWNXIzdVZlYldrSUJodTVWN1NIWTJxQlJoem02MHl0LWhLRFdUYk5lVm1kSDI5emc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbjF2c2taZXNGckp3cmgyTW94eGZaanZvbEdQWEJIelFhQkFpeGF6UDdJeEdDeWR6a3FDbEs1ZV9KSVlhd3Boa3I3LS0zVy1JTm1aV2pkV3ZZNnppTkR3ZlRTTmc2RXEtX3FlNmxrTmRneUZFdVNNZE1TQWxUSTZpUA?oc=5",
       "source": "Open Forum Infectious Diseases",
       "source_type": "academic",
       "source_tier": "Tier 3",
@@ -2225,13 +2368,78 @@
       ]
     },
     {
-      "id": "ce724b2e4b461ef7",
-      "title": "日本の16～26歳の男性を対象とした9価ヒトパピローマウイルスワクチンの有効性、免疫原性、安全性：ランダム化二重盲検プラセボ対照試験 - thelancet.com",
-      "summary": "日本の16～26歳の男性を対象とした9価ヒトパピローマウイルスワクチンの有効性、免疫原性、安全性：ランダム化二重盲検プラセボ対照試験 thelancet.com",
-      "summary_ai": "日本の16～26歳の男性を対象とした9価ヒトパピローマウイルスワクチンの有効性、免疫原性、安全性：ランダム化二重盲検プラセボ対照試験 thelancet.com",
-      "title_original": "Efficacy, immunogenicity, and safety of the 9-valent human papillomavirus vaccine in males aged 16–26 years in Japan: a randomised, double-blind, placebo-controlled trial - thelancet.com",
-      "summary_original": "Efficacy, immunogenicity, and safety of the 9-valent human papillomavirus vaccine in males aged 16–26 years in Japan: a randomised, double-blind, placebo-controlled trial thelancet.com",
-      "summary_ai_original": "Efficacy, immunogenicity, and safety of the 9-valent human papillomavirus vaccine in males aged 16–26 years in Japan: a randomised, double-blind, placebo-controlled trial thelancet.com",
+      "id": "1a7c09e5c57fc088",
+      "title": "高リスクで十分に研究されていないグループ：女性セックスワーカーにおけるヒトパピローマウイルスウイルスワクチンの免疫原性 - オックスフォード・アカデミック",
+      "summary": "高リスクで研究が不十分なグループにおけるヒトパピローマウイルスウイルスワクチンの免疫原性：女性セックスワーカー、オックスフォード・アカデミック",
+      "summary_ai": "高リスクで研究が不十分なグループにおけるヒトパピローマウイルスウイルスワクチンの免疫原性：女性セックスワーカー、オックスフォード・アカデミック",
+      "title_original": "Immunogenicity of Human Papillomavirus Virus Vaccine in a High-risk and Understudied Group: Female Sex Workers - Oxford Academic",
+      "summary_original": "Immunogenicity of Human Papillomavirus Virus Vaccine in a High-risk and Understudied Group: Female Sex Workers Oxford Academic",
+      "summary_ai_original": "Immunogenicity of Human Papillomavirus Virus Vaccine in a High-risk and Understudied Group: Female Sex Workers Oxford Academic",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xd2xabU1VbWxkYjhPRW41eG9xT0xDVV81Z1ZiTGVmd1NnTmRWMkFxUk5FLVJObE8yM3NxTW4zZlRaXzByT254cGlVTFdUaGQyT3VyNlZvUV94TENqanVaWlMzcVY?oc=5",
+      "source": "Journal of Infectious Diseases",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-08-04T04:09:03+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "Journal of Infectious Diseases"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "Journal of Infectious Diseases"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Journal of Infectious Diseases"
+      ]
+    },
+    {
+      "id": "a30a783dad6b9142",
+      "title": "日本の16～26歳の男性を対象とした9価ヒトパピローマウイルスワクチンの有効性、免疫原性、安全性：ランダム化二重盲検プラセボ対照試験",
+      "summary": "日本の16～26歳の男性を対象とした9価ヒトパピローマウイルスワクチンの有効性、免疫原性、安全性：ランダム化二重盲検プラセボ対照試験",
+      "summary_ai": "日本の16～26歳の男性を対象とした9価ヒトパピローマウイルスワクチンの有効性、免疫原性、安全性：ランダム化二重盲検プラセボ対照試験",
+      "title_original": "Efficacy, immunogenicity, and safety of the 9-valent human papillomavirus vaccine in males aged 16–26 years in Japan: a randomised, double-blind, placebo-controlled trial",
+      "summary_original": "Efficacy, immunogenicity, and safety of the 9-valent human papillomavirus vaccine in males aged 16–26 years in Japan: a randomised, double-blind, placebo-controlled trial",
+      "summary_ai_original": "Efficacy, immunogenicity, and safety of the 9-valent human papillomavirus vaccine in males aged 16–26 years in Japan: a randomised, double-blind, placebo-controlled trial",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMXFBck0tSjBYLVdrVVRLQmdvM3VELUJhVWdBNjlSUE1kTGlOZFFVeXA0eGRhMmJPamdGUWRBMVFIVG8zbUItZlBoSFJ4Q3ZGempNQ3RQV0pGaXFLVlRiWHpCZHlzZUExQklZQ25BRU14ZDVrVXk0MF91VURzWUNQaW9VcVZxcU11RU13?oc=5",
       "source": "Lancet Infectious Diseases",
@@ -2291,208 +2499,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "Lancet Infectious Diseases"
-      ]
-    },
-    {
-      "id": "749b91e9242d3a3d",
-      "title": "非ランダム化研究における新型コロナウイルス感染症ワクチンの推定有効性に影響を与える要因 - BMJ Evidence-Based Medicine",
-      "summary": "非ランダム化研究における新型コロナウイルス感染症ワクチンの推定有効性に影響を与える要因 BMJ Evidence-Based Medicine",
-      "summary_ai": "非ランダム化研究における新型コロナウイルス感染症ワクチンの推定有効性に影響を与える要因 BMJ Evidence-Based Medicine",
-      "title_original": "Factors influencing estimated effectiveness of COVID-19 vaccines in non-randomised studies - BMJ Evidence-Based Medicine",
-      "summary_original": "Factors influencing estimated effectiveness of COVID-19 vaccines in non-randomised studies BMJ Evidence-Based Medicine",
-      "summary_ai_original": "Factors influencing estimated effectiveness of COVID-19 vaccines in non-randomised studies BMJ Evidence-Based Medicine",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Jb3Vqalh5RlNDN1NPMXNwZ0VOMXJqQ1lkcWFnVmhvSmNneW5RTEVXczU5SDBoYjZtY0lEd3lMaVpZa1BTWnBHZVRFZExFVUpFUW0tZWVpelBrdDRMSDBtSQ?oc=5",
-      "source": "BMJ",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-08-03T07:00:00+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "covid"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BMJ / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BMJ / London"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "BMJ"
-      ]
-    },
-    {
-      "id": "d124b4f1102ffa04",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary_ai": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_original": "No link between MMR vaccination before age 2 and autism, large US study suggests - cidrap.umn.edu",
-      "summary_original": "No link between MMR vaccination before age 2 and autism, large US study suggests cidrap.umn.edu",
-      "summary_ai_original": "No link between MMR vaccination before age 2 and autism, large US study suggests cidrap.umn.edu",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVFk4Nlp3enNJblA4LVhyOVFmeW1uSFl1VVJDZFVCZnJ3SE9fYmtyd3pDWFlXaXFvc0lPUWU4bXE1VDBBcHlsR1dKaEpjT1JWVzh3Ui1BYmZleWFXcjQ0WWVRMDk3N0w5cENRWGlRNXRLTV8xYkYzZEp0ZndjMVMwUldxeFprZGFuall0bXJqRk9EdDRIbHpkbktnSy0xT0R0Y3pOY2RBUVYzS0YxUlFlYUNBQ0NSQTdPSXc?oc=5",
-      "source": "CIDRAP Vaccines & Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 8,
-      "published_at": "2026-08-03T07:00:00+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "CIDRAP / Minnesota"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "CIDRAP / Minnesota"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "CIDRAP Vaccines & Immunization"
-      ]
-    },
-    {
-      "id": "616071b565e62459",
-      "title": "炎症性腸疾患における不活化インフルエンザワクチンの接種量、安全性、有効性：英国全土の研究 - BMJ Open Gastroenterology",
-      "summary": "炎症性腸疾患における不活化インフルエンザワクチンの接種量、安全性、有効性：英国全土の研究 BMJ Open Gastroenterology",
-      "summary_ai": "炎症性腸疾患における不活化インフルエンザワクチンの接種量、安全性、有効性：英国全土の研究 BMJ Open Gastroenterology",
-      "title_original": "Uptake, safety and effectiveness of inactivated influenza vaccine in inflammatory bowel disease: a UK-wide study - BMJ Open Gastroenterology",
-      "summary_original": "Uptake, safety and effectiveness of inactivated influenza vaccine in inflammatory bowel disease: a UK-wide study BMJ Open Gastroenterology",
-      "summary_ai_original": "Uptake, safety and effectiveness of inactivated influenza vaccine in inflammatory bowel disease: a UK-wide study BMJ Open Gastroenterology",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hVndDQVA5RWFFV2VnQmFnaGdCZkhsc1kzX0NGR21MXzFuNU85T1pTcVdPTmN5c1ZaU2dvNXJnMURmanUzeDN6TXBNWi1yTERyTndOQUxOMlVualB0VExSUG51cWMtVGdlUUlJTENRYzExcEFMR1E?oc=5",
-      "source": "BMJ",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-08-03T00:37:15+00:00",
-      "topics": [
-        "communication",
-        "research"
-      ],
-      "policy_tags": [
-        "safety"
-      ],
-      "vaccines": [
-        "influenza"
-      ],
-      "variants": [],
-      "target_country": "英国",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BMJ / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BMJ / London"
-        },
-        "target": {
-          "key": "uk",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "英国"
-        }
-      },
-      "location": {
-        "key": "uk",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "英国"
-      },
-      "region": "Europe",
-      "country": "英国",
-      "lat": 51.5074,
-      "lng": -0.1278,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "BMJ"
       ]
     }
   ]
