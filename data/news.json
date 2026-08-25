@@ -1,9 +1,9 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-08-24T21:38:54.804306+00:00",
-  "item_count": 20,
-  "archive_count": 460,
+  "generated_at": "2026-08-25T21:38:08.210309+00:00",
+  "item_count": 21,
+  "archive_count": 463,
   "days_back": 14,
   "plot_mode_default": "source",
   "feed_status": [
@@ -23,7 +23,7 @@
       "name": "CDC Newsroom",
       "url": "https://tools.cdc.gov/api/v2/resources/media/316422.rss",
       "status": "ok",
-      "seen": 14,
+      "seen": 13,
       "kept": 0
     },
     {
@@ -75,7 +75,7 @@
       "name": "Africa CDC News",
       "url": "https://africacdc.org/feed/",
       "status": "error",
-      "error": "403 Client Error: Forbidden for url: https://africacdc.org/feed/"
+      "error": "HTTPSConnectionPool(host='africacdc.org', port=443): Max retries exceeded with url: /feed/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1016)')))"
     },
     {
       "name": "PAHO News",
@@ -102,7 +102,7 @@
       "name": "NEJM",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Anejm.org%20(trial%20OR%20effectiveness%20OR%20policy%20OR%20safety)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -165,7 +165,7 @@
       "name": "Science vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ascience.org%2Fdoi%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20antibody)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 4,
+      "seen": 1,
       "kept": 1
     },
     {
@@ -193,14 +193,14 @@
       "name": "JAMA vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjama%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 2,
       "kept": 0
     },
     {
       "name": "JAMA Network Open vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjamanetworkopen%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 2,
       "kept": 0
     },
     {
@@ -235,84 +235,84 @@
       "name": "bioRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abiorxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 3,
       "kept": 0
     },
     {
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 20,
+      "seen": 21,
       "kept": 2
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 59,
+      "seen": 97,
       "kept": 1
     },
     {
       "name": "AP Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 12,
+      "seen": 11,
       "kept": 0
     },
     {
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 17,
-      "kept": 2
+      "seen": 25,
+      "kept": 1
     },
     {
       "name": "Financial Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aft.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 21,
+      "seen": 17,
       "kept": 0
     },
     {
       "name": "STAT Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 36,
+      "seen": 42,
       "kept": 3
     },
     {
       "name": "Nature News Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 17,
+      "seen": 15,
       "kept": 0
     },
     {
       "name": "Science Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Ascience.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 10,
+      "seen": 6,
       "kept": 0
     },
     {
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 33,
+      "seen": 30,
       "kept": 0
     },
     {
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 35,
-      "kept": 2
+      "seen": 38,
+      "kept": 1
     },
     {
       "name": "Washington Post Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 23,
+      "seen": 20,
       "kept": 1
     },
     {
@@ -326,21 +326,21 @@
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 19,
+      "seen": 17,
       "kept": 0
     },
     {
       "name": "朝日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Aasahi.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 9,
+      "seen": 5,
       "kept": 0
     },
     {
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 14,
+      "seen": 13,
       "kept": 0
     },
     {
@@ -354,7 +354,7 @@
       "name": "JAMA Network vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 7,
       "kept": 2
     },
     {
@@ -368,8 +368,8 @@
       "name": "Clinical Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fcid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
-      "kept": 0
+      "seen": 3,
+      "kept": 2
     },
     {
       "name": "Journal of Infectious Diseases",
@@ -403,7 +403,7 @@
       "name": "PLOS journals vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajournals.plos.org%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20uptake%20OR%20policy)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -417,8 +417,8 @@
       "name": "EBioMedicine vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Athelancet.com%2Fjournals%2Febiom&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 1,
-      "kept": 0
+      "seen": 2,
+      "kept": 1
     },
     {
       "name": "International Journal of Infectious Diseases",
@@ -445,7 +445,7 @@
       "name": "Cochrane vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Acochranelibrary.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 4,
+      "seen": 5,
       "kept": 1
     },
     {
@@ -459,21 +459,155 @@
       "name": "SSRN vaccine preprints",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Apapers.ssrn.com%20(effectiveness%20OR%20safety%20OR%20policy%20OR%20trial)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
-      "kept": 1
+      "seen": 2,
+      "kept": 2
     }
   ],
   "weekly_ai_summary": {
-    "generated_at": "2026-08-24T21:38:54.804306+00:00",
+    "generated_at": "2026-08-25T21:38:08.210309+00:00",
     "period_days": 7,
     "policy_count": 3,
-    "academic_count": 4,
+    "academic_count": 6,
     "status": "ok",
     "model": "gpt-4o-mini",
-    "policy_summary": "トランプ大統領がワクチン政策に関する公開協議を行い、専門家がその影響について警鐘を鳴らしています。また、米保健省は大統領の命令を受けてワクチンガイドラインに関する国民の意見を募集しています。",
-    "academic_summary": "ケニアの乳児を対象としたフレクスネリ菌2aワクチンの安全性と免疫原性に関する第2a相試験が実施されました。さらに、健康な成人におけるHIVワクチンの安全性と免疫原性についての研究も報告されています。"
+    "policy_summary": "トランプ大統領がワクチン政策に関する公開協議を行い、専門家が警鐘を鳴らしています。また、米保健省は大統領の命令を受けてワクチンガイドラインに関する国民の意見を募集しています。",
+    "academic_summary": "最近のデータ収集において、サーバーエラーが発生し、情報が得られませんでした。ケニアの乳児を対象としたフレクスネリ菌ワクチンの安全性と免疫原性に関する研究が発表されています。"
   },
   "items": [
+    {
+      "id": "09cc99c66d6b63f5",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_ai": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_original": "IDSA 2025 Guidelines on the Use of Vaccines for the Prevention of Seasonal COVID-19 Infections in Immunocompromised Patients - Oxford Academic",
+      "summary_original": "IDSA 2025 Guidelines on the Use of Vaccines for the Prevention of Seasonal COVID-19 Infections in Immunocompromised Patients Oxford Academic",
+      "summary_ai_original": "IDSA 2025 Guidelines on the Use of Vaccines for the Prevention of Seasonal COVID-19 Infections in Immunocompromised Patients Oxford Academic",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWEZ6SXh0Ykcxa3pEZmpPUWxPdUxuN0h2UzE2aU5aX0dDcEtYS1IxbUIyQ3h5UHc1SWpuWU9ydXRTeFEtNkJXdkpBSUFvZERrbkRfeE5oMHBna2Y3TmJVUUplZ1dObnJ3cXZuS2ZtUHlfU3NoVWlnTzNjUEYyeDd0S1ZENERTWVpoa0E?oc=5",
+      "source": "Clinical Infectious Diseases",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-08-25T17:09:08+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [
+        "recommendation"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "Clinical Infectious Diseases"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "Clinical Infectious Diseases"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 2,
+      "duplicate_sources": [
+        "Clinical Infectious Diseases"
+      ]
+    },
+    {
+      "id": "af5c1321f3e7e6ea",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_ai": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_original": "Preclinical Evaluation and Phase I Clinical Trial of Neomivac, a Lipid Nanoparticle mRNA Vaccine - SSRN eLibrary",
+      "summary_original": "Preclinical Evaluation and Phase I Clinical Trial of Neomivac, a Lipid Nanoparticle mRNA Vaccine SSRN eLibrary",
+      "summary_ai_original": "Preclinical Evaluation and Phase I Clinical Trial of Neomivac, a Lipid Nanoparticle mRNA Vaccine SSRN eLibrary",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HNGpHN0VzQTM3UHFrcUtGdUppX0pDa0hTSnlKaE5DdThnVjA1dlRjQld0bFZfNVVsTTNaTjV3cWJEd1FnbV9KcVhmeXA0VHhiaFdUUGtWRUhkbk1PUlRVdmRYRlM4aXU2WEhn?oc=5",
+      "source": "SSRN vaccine preprints",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 6,
+      "published_at": "2026-08-22T03:07:02+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "covid"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "SSRN"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "SSRN"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "SSRN vaccine preprints"
+      ]
+    },
     {
       "id": "88ff8edbf53e9cfd",
       "title": "ワクチン政策に関するトランプ大統領の公開協議に専門家ら警鐘 - ガーディアン紙",
@@ -607,71 +741,6 @@
       ]
     },
     {
-      "id": "0adfe996bfafea2b",
-      "title": "コンゴ民主共和国のエボラ出血熱：WHOが感染スピードを警告、ワクチン治験開始 - BBC",
-      "summary": "コンゴ民主共和国のエボラ出血熱：WHOが感染速度を警告、ワクチン治験開始へ BBC",
-      "summary_ai": "コンゴ民主共和国のエボラ出血熱：WHOが感染速度を警告、ワクチン治験開始へ BBC",
-      "title_original": "Ebola in DR Congo: Vaccine trial to start as WHO warns about speed of infections - BBC",
-      "summary_original": "Ebola in DR Congo: Vaccine trial to start as WHO warns about speed of infections BBC",
-      "summary_ai_original": "Ebola in DR Congo: Vaccine trial to start as WHO warns about speed of infections BBC",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2WUZmV0dFcjdMTngxNEw3QWg5QWkzU1YwQ012RnRicHo2Vmw4VVhIWTMzZzhwR3p5aktJR0xUdElIRzM4SUNVSUJ1amVjNFRYLTRFZmtkdFdadw?oc=5",
-      "source": "BBC Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-08-21T13:44:43+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BBC"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BBC"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "BBC Vaccines / Immunization"
-      ]
-    },
-    {
       "id": "52a9fd1cd83f5a58",
       "title": "調査データは、アメリカ人の新型コロナウイルスワクチンへの躊躇における人口動態の分断を明らかにする - CIDRAP",
       "summary": "調査データにより、アメリカ人の新型コロナ予防接種に対する人口動態の分断が明らかに CIDRAP",
@@ -738,6 +807,74 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "CIDRAP Vaccines & Immunization"
+      ]
+    },
+    {
+      "id": "67583840f5e2a03e",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_ai": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_original": "The VAccine cLinical study reporting gUidEline: the VALUE checklist with explanation and elaboration",
+      "summary_original": "The VAccine cLinical study reporting gUidEline: the VALUE checklist with explanation and elaboration",
+      "summary_ai_original": "The VAccine cLinical study reporting gUidEline: the VALUE checklist with explanation and elaboration",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMllMd2RzOHhqV1hlbUxhclZFUWtGWHRUc1VfbUJmaE1KUnNjVk54ekY2SXlyeVFsa2RaVnM4TXpnSW1ENmIybkFQMFU1Q1R6Rkx2aWV2cDJ3R2NHUktqQlVOWkt5cWl0b3hzVFlhdmZial9qRVlNa0xrYkF5c2pJVDFnVUlOSXFkY3c?oc=5",
+      "source": "EBioMedicine vaccines",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-08-20T19:35:54+00:00",
+      "topics": [
+        "policy",
+        "research"
+      ],
+      "policy_tags": [
+        "recommendation"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "EBioMedicine"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "EBioMedicine"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "EBioMedicine vaccines"
       ]
     },
     {
@@ -1138,73 +1275,6 @@
       ]
     },
     {
-      "id": "601461eff8af1748",
-      "title": "トランプ大統領、ワクチン推奨を撤回。あなたの学校がどのような位置にあるかを確認してください。 - ワシントン・ポスト紙",
-      "summary": "トランプ大統領、ワクチン推奨を撤回。あなたの学校がどのような位置にあるかを確認してください。ワシントン・ポスト",
-      "summary_ai": "トランプ大統領、ワクチン推奨を撤回。あなたの学校がどのような位置にあるかを確認してください。",
-      "title_original": "Trump rolls back vaccine recommendations. See where your school stands. - The Washington Post",
-      "summary_original": "Trump rolls back vaccine recommendations. See where your school stands. The Washington Post",
-      "summary_ai_original": "Trump rolls back vaccine recommendations. See where your school stands.",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMElVb1lJazFOZDRGZGdva3BHamdrRENYT3l1RmtJM0lsLUdRWklHM0hZTGVtZXB3OXkwdmR4aHJqRGlibkpTRWo1VzN4cGhuVE1TcHdlRjRJclp0bklPVVFPM3h6LUpBbUhnMHpXX1pvNjJXcE4wTWJ4Ui1MZ2lEdW1IaloxdlhuZHlHVkdpTHNOQTJMeWJELTVvTW1WbzNDaVRZUE9jMmw3QzhPR3gwLXowV0tIdmtCZXNF?oc=5",
-      "source": "Washington Post Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-08-17T19:00:00+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [
-        "recommendation"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "Washington Post"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "Washington Post"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Washington Post Vaccines / Immunization"
-      ]
-    },
-    {
       "id": "7397362ebe113bac",
       "title": "入院中の乳児における呼吸器合胞体ウイルスに対する母親の RSVpreF ワクチンの有効性",
       "summary": "入院中の乳児における呼吸器合胞体ウイルスに対する母親の RSVpreF ワクチンの有効性",
@@ -1333,6 +1403,73 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "JAMA Network vaccines"
+      ]
+    },
+    {
+      "id": "601461eff8af1748",
+      "title": "トランプ大統領、ワクチン推奨を撤回。あなたの学校がどのような位置にあるかを確認してください。 - ワシントン・ポスト紙",
+      "summary": "トランプ大統領、ワクチン推奨を撤回。あなたの学校がどのような位置にあるかを確認してください。ワシントン・ポスト",
+      "summary_ai": "トランプ大統領、ワクチン推奨を撤回。あなたの学校がどのような位置にあるかを確認してください。",
+      "title_original": "Trump rolls back vaccine recommendations. See where your school stands. - The Washington Post",
+      "summary_original": "Trump rolls back vaccine recommendations. See where your school stands. The Washington Post",
+      "summary_ai_original": "Trump rolls back vaccine recommendations. See where your school stands.",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMElVb1lJazFOZDRGZGdva3BHamdrRENYT3l1RmtJM0lsLUdRWklHM0hZTGVtZXB3OXkwdmR4aHJqRGlibkpTRWo1VzN4cGhuVE1TcHdlRjRJclp0bklPVVFPM3h6LUpBbUhnMHpXX1pvNjJXcE4wTWJ4Ui1MZ2lEdW1IaloxdlhuZHlHVkdpTHNOQTJMeWJELTVvTW1WbzNDaVRZUE9jMmw3QzhPR3gwLXowV0tIdmtCZXNF?oc=5",
+      "source": "Washington Post Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-08-17T07:00:00+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [
+        "recommendation"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "Washington Post"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "Washington Post"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Washington Post Vaccines / Immunization"
       ]
     },
     {
@@ -1729,73 +1866,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "STAT Vaccines / Immunization"
-      ]
-    },
-    {
-      "id": "fb6573c9bc35bfe4",
-      "title": "ドナルド・トランプ氏の小児期ワクチン推奨は米国内外にどのような影響を与えるでしょうか? - ガーディアン紙",
-      "summary": "ドナルド・トランプ氏の小児期ワクチン推奨は米国内外にどのような影響を与えるでしょうか?ガーディアン",
-      "summary_ai": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_original": "What effect will Donald Trump’s childhood vaccine recommendations have in the US and beyond? - The Guardian",
-      "summary_original": "What effect will Donald Trump’s childhood vaccine recommendations have in the US and beyond? The Guardian",
-      "summary_ai_original": "What effect will Donald Trump’s childhood vaccine recommendations have in the US and beyond?",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQk03T0xudURDVzZULXlRdTkwc3VsRTBjV2FBSTdWc0tqaEZOenVQM1otd2NFcS0yeXhVWjYtQ1JHUVJ2V3Y4VXh4T21hanpMbk1lRVg5U1h1amRNSGhaWGYzbTdYRzVrT3RPbV9ENzlzZkNvdTc0RTA1RVYwS1BzdnhuTm4zQVpzTUpNNml2REdGUW1pWFZIV2lweWdvbkQ4a0Zqc2hHa2JxaVVwcU10Wnh5blIwcTY3cXcydjNUN0EtYWktU2FZNFF4cDVrcEZIZG44UQ?oc=5",
-      "source": "Guardian Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-08-11T07:00:00+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [
-        "recommendation"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "The Guardian"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "The Guardian"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Guardian Vaccines / Immunization"
       ]
     }
   ]
