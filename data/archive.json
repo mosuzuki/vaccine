@@ -1,8 +1,8 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-08-29T23:14:38.699356+00:00",
-  "archive_count": 478,
+  "generated_at": "2026-08-30T23:26:15.364982+00:00",
+  "archive_count": 480,
   "days_back": 14,
   "items": [
     {
@@ -72,7 +72,7 @@
         "Reuters Vaccines / Immunization"
       ],
       "first_seen_at": "2026-08-28T17:12:51+00:00",
-      "last_seen_at": "2026-08-29T03:10:15.541237+00:00"
+      "last_seen_at": "2026-08-30T23:27:55.023453+00:00"
     },
     {
       "id": "af6fa956e8d44221",
@@ -141,7 +141,7 @@
         "STAT Vaccines / Immunization"
       ],
       "first_seen_at": "2026-08-28T15:07:32+00:00",
-      "last_seen_at": "2026-08-29T03:10:15.541245+00:00"
+      "last_seen_at": "2026-08-30T23:27:55.023468+00:00"
     },
     {
       "id": "3c365420f7c8f27c",
@@ -208,7 +208,74 @@
         "BMJ"
       ],
       "first_seen_at": "2026-08-28T12:31:14+00:00",
-      "last_seen_at": "2026-08-29T03:10:15.541248+00:00"
+      "last_seen_at": "2026-08-30T23:27:55.023475+00:00"
+    },
+    {
+      "id": "d332e0b4b764e33c",
+      "title": "帯状疱疹ワクチンは心臓病や脳卒中のリスク低下に関連していると研究が示唆 -",
+      "summary": "帯状疱疹ワクチンは心臓病や脳卒中のリスク低下に関連していると研究が示唆",
+      "summary_ai": "帯状疱疹ワクチンは心臓病や脳卒中のリスク低下に関連していると研究が示唆",
+      "title_original": "Shingles vaccine is linked to lower risk of heart disease and stroke, study suggests - The",
+      "summary_original": "Shingles vaccine is linked to lower risk of heart disease and stroke, study suggests The",
+      "summary_ai_original": "Shingles vaccine is linked to lower risk of heart disease and stroke, study suggests The",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqN09icTdXdzFEMHFRUGZhUE9sTlYyM3ZocWJvUnU4VUlTdU1jVDFENWZCNnFhX2lFd0NLbFlDdmppSkI4RG9Sb1lEUW9HZm5Ba2dJaFFZN3oza1E?oc=5",
+      "source": "BMJ",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-08-28T12:30:23+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BMJ / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BMJ / London"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "BMJ"
+      ],
+      "first_seen_at": "2026-08-28T12:30:23+00:00",
+      "last_seen_at": "2026-08-30T23:27:55.023478+00:00"
     },
     {
       "id": "9a52aca1d69ff18b",
@@ -279,7 +346,7 @@
         "Financial Times Vaccines / Immunization"
       ],
       "first_seen_at": "2026-08-27T20:30:00+00:00",
-      "last_seen_at": "2026-08-29T03:10:15.541258+00:00"
+      "last_seen_at": "2026-08-30T23:27:55.023484+00:00"
     },
     {
       "id": "9604b1233ca35ae8",
@@ -350,7 +417,7 @@
         "Open Forum Infectious Diseases"
       ],
       "first_seen_at": "2026-08-27T20:21:04+00:00",
-      "last_seen_at": "2026-08-29T03:10:15.541264+00:00"
+      "last_seen_at": "2026-08-30T23:27:55.023489+00:00"
     },
     {
       "id": "4cd2f7f6c5bc5bee",
@@ -420,7 +487,7 @@
         "FDA Vaccines / Biologics"
       ],
       "first_seen_at": "2026-08-27T15:40:11+00:00",
-      "last_seen_at": "2026-08-29T23:22:15.232173+00:00"
+      "last_seen_at": "2026-08-30T23:27:55.023494+00:00"
     },
     {
       "id": "23540e6c5b857baa",
@@ -487,7 +554,7 @@
         "Cochrane vaccines"
       ],
       "first_seen_at": "2026-08-27T06:51:59+00:00",
-      "last_seen_at": "2026-08-29T03:10:15.541274+00:00"
+      "last_seen_at": "2026-08-30T23:27:55.023501+00:00"
     },
     {
       "id": "b8821b1b7a48d124",
@@ -555,7 +622,7 @@
         "Cochrane vaccines"
       ],
       "first_seen_at": "2026-08-27T05:40:19+00:00",
-      "last_seen_at": "2026-08-29T03:10:15.541281+00:00"
+      "last_seen_at": "2026-08-30T23:27:55.023507+00:00"
     },
     {
       "id": "9bf84103590b5ed3",
@@ -622,7 +689,7 @@
         "Guardian Vaccines / Immunization"
       ],
       "first_seen_at": "2026-08-26T18:42:00+00:00",
-      "last_seen_at": "2026-08-29T03:10:15.541287+00:00"
+      "last_seen_at": "2026-08-30T23:27:55.023513+00:00"
     },
     {
       "id": "6dc6ef21092ad4f9",
@@ -638,7 +705,7 @@
       "source_type": "academic",
       "source_tier": "Tier 3",
       "source_priority": 8,
-      "published_at": "2026-08-26T16:07:30+00:00",
+      "published_at": "2026-08-26T16:18:24+00:00",
       "topics": [
         "research"
       ],
@@ -691,7 +758,7 @@
         "Journal of Infectious Diseases"
       ],
       "first_seen_at": "2026-08-26T16:07:30+00:00",
-      "last_seen_at": "2026-08-29T03:10:15.541292+00:00"
+      "last_seen_at": "2026-08-30T23:27:55.023518+00:00"
     },
     {
       "id": "8664f2c94108584e",
@@ -758,7 +825,7 @@
         "CIDRAP Vaccines & Immunization"
       ],
       "first_seen_at": "2026-08-26T15:23:57+00:00",
-      "last_seen_at": "2026-08-29T03:10:15.541296+00:00"
+      "last_seen_at": "2026-08-30T23:27:55.023522+00:00"
     },
     {
       "id": "9f6255a9e89811d2",
@@ -827,7 +894,7 @@
         "The Lancet series"
       ],
       "first_seen_at": "2026-08-25T23:32:39+00:00",
-      "last_seen_at": "2026-08-29T03:10:15.541301+00:00"
+      "last_seen_at": "2026-08-30T23:27:55.023528+00:00"
     },
     {
       "id": "f02254b6b3918c23",
@@ -896,7 +963,7 @@
         "Cochrane vaccines"
       ],
       "first_seen_at": "2026-08-25T21:41:59+00:00",
-      "last_seen_at": "2026-08-29T03:10:15.541311+00:00"
+      "last_seen_at": "2026-08-30T23:27:55.023532+00:00"
     },
     {
       "id": "a2b8475d4ac2ac10",
@@ -963,7 +1030,7 @@
         "Cochrane vaccines"
       ],
       "first_seen_at": "2026-08-25T17:34:41+00:00",
-      "last_seen_at": "2026-08-29T03:10:15.541318+00:00"
+      "last_seen_at": "2026-08-30T23:27:55.023536+00:00"
     },
     {
       "id": "09cc99c66d6b63f5",
@@ -1101,7 +1168,7 @@
         "SSRN vaccine preprints"
       ],
       "first_seen_at": "2026-08-25T07:00:00+00:00",
-      "last_seen_at": "2026-08-29T03:10:15.541322+00:00"
+      "last_seen_at": "2026-08-30T23:27:55.023541+00:00"
     },
     {
       "id": "4656323a15854157",
@@ -1168,7 +1235,77 @@
         "Cochrane vaccines"
       ],
       "first_seen_at": "2026-08-24T22:02:39+00:00",
-      "last_seen_at": "2026-08-29T03:10:15.541326+00:00"
+      "last_seen_at": "2026-08-30T23:27:55.023546+00:00"
+    },
+    {
+      "id": "2256c81881c39a0d",
+      "title": "エチオピア北西部、アウィゾーン、ダンギラ地区の成人集団における新型コロナウイルスワクチン接種とそれに関連する要因：混合法研究 |プロスワン",
+      "summary": "エチオピア北西部、アウィゾーン、ダンギラ地区の成人集団における新型コロナウイルスワクチン接種とそれに関連する要因：混合法研究 |プロスワン",
+      "summary_ai": "エチオピア北西部、アウィゾーン、ダンギラ地区の成人集団における新型コロナウイルスワクチン接種とそれに関連する要因：混合法研究 |プロスワン",
+      "title_original": "Covid-19 vaccine uptake and its associated factors among adult population in Dangila district, Awi Zone, Northwest Ethiopia: A mixed method study | PLOS One",
+      "summary_original": "Covid-19 vaccine uptake and its associated factors among adult population in Dangila district, Awi Zone, Northwest Ethiopia: A mixed method study | PLOS One",
+      "summary_ai_original": "Covid-19 vaccine uptake and its associated factors among adult population in Dangila district, Awi Zone, Northwest Ethiopia: A mixed method study | PLOS One",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mcEFVV05vTFM4cDMxZ2FHMVJfRXRHd1Q0RE5XeFhCNEtWc2tTQ2ktdEZJcjJVYlZIamlIalNVNTE1QXhIUHZFVWt2ZHY1SExDWE1KQUYtNWp1QncwTUNTUTgzNTY1a0liLTMzVHVqQjBOZDFXY3ZHXzFQNTN1YVk?oc=5",
+      "source": "PLOS journals vaccines",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-08-23T22:36:50+00:00",
+      "topics": [
+        "communication",
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "covid"
+      ],
+      "variants": [],
+      "target_country": "エチオピア",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "PLOS"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "PLOS"
+        },
+        "target": {
+          "key": "ethiopia",
+          "name_ja": "エチオピア",
+          "lat": 8.9806,
+          "lng": 38.7578,
+          "region": "Africa",
+          "label": "エチオピア"
+        }
+      },
+      "location": {
+        "key": "ethiopia",
+        "name_ja": "エチオピア",
+        "lat": 8.9806,
+        "lng": 38.7578,
+        "region": "Africa",
+        "label": "エチオピア"
+      },
+      "region": "Africa",
+      "country": "エチオピア",
+      "lat": 8.9806,
+      "lng": 38.7578,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "PLOS journals vaccines"
+      ],
+      "first_seen_at": "2026-08-23T22:36:50+00:00",
+      "last_seen_at": "2026-08-30T23:27:55.023549+00:00"
     },
     {
       "id": "af5c1321f3e7e6ea",
@@ -1299,81 +1436,12 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "duplicate_sources": [
         "Guardian Vaccines / Immunization"
       ],
       "first_seen_at": "2026-08-21T19:11:00+00:00",
       "last_seen_at": "2026-08-27T00:46:27.890343+00:00"
-    },
-    {
-      "id": "f06d7fa6ec1ce4f9",
-      "title": "米保健省、トランプ大統領命令を受けワクチンガイドラインに関する国民の意見募集 - ロイター",
-      "summary": "米保健省、トランプ大統領命令を受けワクチンガイドラインに関する国民の意見募集 Reuters",
-      "summary_ai": "米保健省、トランプ大統領命令を受けワクチンガイドラインに関する国民の意見募集 Reuters",
-      "title_original": "US health department seeks public feedback on vaccine guidelines after Trump order - Reuters",
-      "summary_original": "US health department seeks public feedback on vaccine guidelines after Trump order Reuters",
-      "summary_ai_original": "US health department seeks public feedback on vaccine guidelines after Trump order Reuters",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNS08wV1haZ25wU1ZXMHRnaXExR2hQaG5hM2ZGRmJ2R2huWmVlbGFucEpERzl6ZVlvYUZsYWlKUHI1T3hLclNGTmZDOGxSdmNTTTMzUmQ5aGltSW5SVmtrdTBzVnZPdlJ4RUVNcnBkNUdIR1dGa0lDdEJtZEZ6SUZ2ODBlYVdqQVpFenRVYTloVUotdzVJbHZkRVlzOWpOT2l3cmxmaVEyZk1TQXZQU2lwamFLVWZfZjF6SmY0emNROGo2UTFqX1NYSE1ZU0Y?oc=5",
-      "source": "Reuters Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-08-21T18:59:05+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [
-        "recommendation"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "Reuters"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "Reuters"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Reuters Vaccines / Immunization"
-      ],
-      "first_seen_at": "2026-08-21T18:59:05+00:00",
-      "last_seen_at": "2026-08-29T03:10:15.541334+00:00"
     },
     {
       "id": "0adfe996bfafea2b",
@@ -1443,6 +1511,75 @@
       "last_seen_at": "2026-08-24T21:40:13.942023+00:00"
     },
     {
+      "id": "f06d7fa6ec1ce4f9",
+      "title": "米保健省、トランプ大統領命令を受けワクチンガイドラインに関する国民の意見募集 - ロイター",
+      "summary": "米保健省、トランプ大統領命令を受けワクチンガイドラインに関する国民の意見募集 Reuters",
+      "summary_ai": "米保健省、トランプ大統領命令を受けワクチンガイドラインに関する国民の意見募集 Reuters",
+      "title_original": "US health department seeks public feedback on vaccine guidelines after Trump order - Reuters",
+      "summary_original": "US health department seeks public feedback on vaccine guidelines after Trump order Reuters",
+      "summary_ai_original": "US health department seeks public feedback on vaccine guidelines after Trump order Reuters",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNS08wV1haZ25wU1ZXMHRnaXExR2hQaG5hM2ZGRmJ2R2huWmVlbGFucEpERzl6ZVlvYUZsYWlKUHI1T3hLclNGTmZDOGxSdmNTTTMzUmQ5aGltSW5SVmtrdTBzVnZPdlJ4RUVNcnBkNUdIR1dGa0lDdEJtZEZ6SUZ2ODBlYVdqQVpFenRVYTloVUotdzVJbHZkRVlzOWpOT2l3cmxmaVEyZk1TQXZQU2lwamFLVWZfZjF6SmY0emNROGo2UTFqX1NYSE1ZU0Y?oc=5",
+      "source": "Reuters Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-08-21T07:00:00+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [
+        "recommendation"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Reuters"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Reuters"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Reuters Vaccines / Immunization"
+      ],
+      "first_seen_at": "2026-08-21T18:59:05+00:00",
+      "last_seen_at": "2026-08-30T23:27:55.023560+00:00"
+    },
+    {
       "id": "52a9fd1cd83f5a58",
       "title": "調査データは、アメリカ人の新型コロナウイルスワクチンへの躊躇における人口動態の分断を明らかにする - CIDRAP",
       "summary": "調査データにより、アメリカ人の新型コロナ予防接種に対する人口動態の分断が明らかに CIDRAP",
@@ -1456,7 +1593,7 @@
       "source_type": "media",
       "source_tier": "Tier 2",
       "source_priority": 8,
-      "published_at": "2026-08-21T13:08:05+00:00",
+      "published_at": "2026-08-21T07:00:00+00:00",
       "topics": [
         "communication"
       ],
@@ -1511,7 +1648,7 @@
         "CIDRAP Vaccines & Immunization"
       ],
       "first_seen_at": "2026-08-21T13:08:05+00:00",
-      "last_seen_at": "2026-08-29T03:10:15.541340+00:00"
+      "last_seen_at": "2026-08-30T23:27:55.023554+00:00"
     },
     {
       "id": "67583840f5e2a03e",
@@ -1581,7 +1718,7 @@
         "EBioMedicine vaccines"
       ],
       "first_seen_at": "2026-08-20T19:35:54+00:00",
-      "last_seen_at": "2026-08-29T03:10:15.541344+00:00"
+      "last_seen_at": "2026-08-30T23:27:55.023567+00:00"
     },
     {
       "id": "5a0e60c514355a89",
@@ -1648,7 +1785,7 @@
         "BBC Vaccines / Immunization"
       ],
       "first_seen_at": "2026-08-19T19:00:48+00:00",
-      "last_seen_at": "2026-08-29T03:10:15.541349+00:00"
+      "last_seen_at": "2026-08-30T23:27:55.023572+00:00"
     },
     {
       "id": "48cd059718520fab",
@@ -1717,7 +1854,7 @@
         "Lancet Infectious Diseases"
       ],
       "first_seen_at": "2026-08-20T01:02:56+00:00",
-      "last_seen_at": "2026-08-29T03:10:15.541353+00:00"
+      "last_seen_at": "2026-08-30T23:27:55.023577+00:00"
     },
     {
       "id": "67b523ae78b7f62e",
@@ -1848,7 +1985,7 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "duplicate_sources": [
         "STAT Vaccines / Immunization"
       ],
@@ -1990,7 +2127,7 @@
         "The Lancet series"
       ],
       "first_seen_at": "2026-08-19T01:53:46+00:00",
-      "last_seen_at": "2026-08-29T03:10:15.541361+00:00"
+      "last_seen_at": "2026-08-30T23:27:55.023584+00:00"
     },
     {
       "id": "2a340502367356c4",
@@ -2059,7 +2196,7 @@
         "Journal of Infectious Diseases"
       ],
       "first_seen_at": "2026-08-18T15:09:49+00:00",
-      "last_seen_at": "2026-08-29T03:10:15.541366+00:00"
+      "last_seen_at": "2026-08-30T23:27:55.023589+00:00"
     },
     {
       "id": "ed469c644725c480",
@@ -2121,7 +2258,7 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "duplicate_sources": [
         "JAMA Pediatrics vaccines"
       ],
