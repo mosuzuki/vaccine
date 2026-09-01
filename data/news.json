@@ -1,8 +1,8 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-08-30T23:26:15.364982+00:00",
-  "item_count": 28,
+  "generated_at": "2026-09-01T00:33:58.008510+00:00",
+  "item_count": 22,
   "archive_count": 480,
   "days_back": 14,
   "plot_mode_default": "source",
@@ -23,7 +23,7 @@
       "name": "CDC Newsroom",
       "url": "https://tools.cdc.gov/api/v2/resources/media/316422.rss",
       "status": "ok",
-      "seen": 12,
+      "seen": 11,
       "kept": 0
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/biologics/rss.xml",
       "status": "ok",
       "seen": 20,
-      "kept": 1
+      "kept": 0
     },
     {
       "name": "EMA News",
@@ -81,42 +81,42 @@
       "name": "PAHO News",
       "url": "https://www.paho.org/en/rss.xml",
       "status": "ok",
-      "seen": 5,
+      "seen": 4,
       "kept": 0
     },
     {
       "name": "The Lancet series",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Athelancet.com%20(trial%20OR%20policy%20OR%20effectiveness%20OR%20safety)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 2,
-      "kept": 2
+      "seen": 1,
+      "kept": 1
     },
     {
       "name": "Lancet Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Athelancet.com%2Fjournals%2Flaninf&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 2,
-      "kept": 2
+      "seen": 1,
+      "kept": 1
     },
     {
       "name": "NEJM",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Anejm.org%20(trial%20OR%20effectiveness%20OR%20policy%20OR%20safety)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 4,
+      "seen": 6,
       "kept": 0
     },
     {
       "name": "BMJ",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abmj.com%20(policy%20OR%20trial%20OR%20effectiveness%20OR%20communication)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 4,
+      "seen": 3,
       "kept": 2
     },
     {
       "name": "Vaccine journal",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Asciencedirect.com%2Fjournal%2Fvaccine&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
@@ -137,7 +137,7 @@
       "name": "Nature Communications vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fncomms%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20surveillance)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 3,
       "kept": 0
     },
     {
@@ -207,7 +207,7 @@
       "name": "JAMA Internal Medicine vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjamainternalmedicine%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -228,91 +228,91 @@
       "name": "medRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Amedrxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
       "name": "bioRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abiorxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 3,
       "kept": 0
     },
     {
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 23,
-      "kept": 2
+      "seen": 21,
+      "kept": 1
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 66,
+      "seen": 58,
       "kept": 2
     },
     {
       "name": "AP Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 14,
+      "seen": 11,
       "kept": 0
     },
     {
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 36,
+      "seen": 78,
       "kept": 1
     },
     {
       "name": "Financial Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aft.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 11,
+      "seen": 13,
       "kept": 1
     },
     {
       "name": "STAT Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 47,
+      "seen": 46,
       "kept": 2
     },
     {
       "name": "Nature News Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 25,
+      "seen": 21,
       "kept": 0
     },
     {
       "name": "Science Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Ascience.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 5,
+      "seen": 2,
       "kept": 0
     },
     {
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 32,
+      "seen": 31,
       "kept": 0
     },
     {
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 49,
+      "seen": 53,
       "kept": 2
     },
     {
       "name": "Washington Post Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 32,
+      "seen": 29,
       "kept": 0
     },
     {
@@ -326,7 +326,7 @@
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 14,
+      "seen": 12,
       "kept": 0
     },
     {
@@ -347,22 +347,22 @@
       "name": "毎日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 13,
+      "seen": 12,
       "kept": 0
     },
     {
       "name": "JAMA Network vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 2,
       "kept": 0
     },
     {
       "name": "JAMA Pediatrics vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjamapediatrics&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
-      "kept": 1
+      "seen": 0,
+      "kept": 0
     },
     {
       "name": "Clinical Infectious Diseases",
@@ -404,7 +404,7 @@
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajournals.plos.org%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20uptake%20OR%20policy)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
       "seen": 2,
-      "kept": 1
+      "kept": 0
     },
     {
       "name": "eClinicalMedicine vaccines",
@@ -445,14 +445,14 @@
       "name": "Cochrane vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Acochranelibrary.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 8,
+      "seen": 7,
       "kept": 5
     },
     {
       "name": "Journal of Travel Medicine vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fjtm&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
@@ -464,83 +464,16 @@
     }
   ],
   "weekly_ai_summary": {
-    "generated_at": "2026-08-30T23:26:15.364982+00:00",
+    "generated_at": "2026-09-01T00:33:58.008510+00:00",
     "period_days": 7,
-    "policy_count": 4,
-    "academic_count": 11,
+    "policy_count": 3,
+    "academic_count": 9,
     "status": "ok",
     "model": "gpt-4o-mini",
     "policy_summary": "ファイザーとBioNTechは、XFG適応型新型コロナウイルスワクチンについて米国FDAの承認を取得しました。その他の情報はサーバーエラーにより取得できませんでした。",
-    "academic_summary": "帯状疱疹ワクチンが心臓病や脳卒中のリスク低下に関連している可能性が示唆されています。また、若い女性を対象としたHPVワクチンの有効性に関する研究が行われました。"
+    "academic_summary": "帯状疱疹ワクチンが心臓病や脳卒中のリスク低下に関連しているとの研究結果が示唆されています。また、若い女性を対象としたHPVワクチンの有効性に関する研究も発表されています。"
   },
   "items": [
-    {
-      "id": "c56b911dcdff60cf",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary_ai": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_original": "BioNTech halts mRNA colorectal cancer vaccine trial after safety review - Reuters",
-      "summary_original": "BioNTech halts mRNA colorectal cancer vaccine trial after safety review Reuters",
-      "summary_ai_original": "BioNTech halts mRNA colorectal cancer vaccine trial after safety review Reuters",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcXN5LXFjdWNZZ3hkbjdDc05kYTI2VEY5WkJtM1ptall5VFZWSU5hS2o2MUlDUFRVY0Y5NndMX1RWWVBFQnJtLXU2UFlDa0pDNzE1ZlRZOUpqVkxrLVg5SThqeTdjNkRwUnNtdnNzbTA5WEpUN19oYVJ3NjlFRl81bHFHT1NRSUpjcFhkS1lKSVlKTGFHMjdFbnZ2RGc1bTg0d0luRVVzclB0UDRqUUx3Vi10TWQtTnY1Y2ZfUWtSMDZhdjZf?oc=5",
-      "source": "Reuters Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-08-28T17:12:51+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [
-        "safety"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "Reuters"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "Reuters"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Reuters Vaccines / Immunization"
-      ]
-    },
     {
       "id": "af6fa956e8d44221",
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -606,6 +539,73 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "STAT Vaccines / Immunization"
+      ]
+    },
+    {
+      "id": "c56b911dcdff60cf",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_ai": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_original": "BioNTech halts mRNA colorectal cancer vaccine trial after safety review - Reuters",
+      "summary_original": "BioNTech halts mRNA colorectal cancer vaccine trial after safety review Reuters",
+      "summary_ai_original": "BioNTech halts mRNA colorectal cancer vaccine trial after safety review Reuters",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcXN5LXFjdWNZZ3hkbjdDc05kYTI2VEY5WkJtM1ptall5VFZWSU5hS2o2MUlDUFRVY0Y5NndMX1RWWVBFQnJtLXU2UFlDa0pDNzE1ZlRZOUpqVkxrLVg5SThqeTdjNkRwUnNtdnNzbTA5WEpUN19oYVJ3NjlFRl81bHFHT1NRSUpjcFhkS1lKSVlKTGFHMjdFbnZ2RGc1bTg0d0luRVVzclB0UDRqUUx3Vi10TWQtTnY1Y2ZfUWtSMDZhdjZf?oc=5",
+      "source": "Reuters Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-08-28T13:41:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [
+        "safety"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Reuters"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Reuters"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Reuters Vaccines / Immunization"
       ]
     },
     {
@@ -877,74 +877,6 @@
       ]
     },
     {
-      "id": "4cd2f7f6c5bc5bee",
-      "title": "テニバック",
-      "summary": "TENIVAC は、7 歳以上の人の破傷風およびジフテリアの予防のための能動予防接種を適応とする製品として承認されています。",
-      "summary_ai": "機密情報を共有する前に、連邦政府のサイトにアクセスしていることを確認してください。 https:// により、公式 Web サイトに接続し、提供する情報が暗号化されて安全に送信されることが保証されます。",
-      "title_original": "TENIVAC",
-      "summary_original": "TENIVAC is a product approval Indicated for active immunization for the prevention of tetanus and diphtheria in persons 7 years of age and older.",
-      "summary_ai_original": "Before sharing sensitive information, make sure you're on a federal government site. The https:// ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.",
-      "article_text_original": "The .gov means it’s official. Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you're on a federal government site. The site is secure. The https:// ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely. Recall Alert An update on the Cyclospora outbreak available here.",
-      "link": "http://www.fda.gov/vaccines-blood-biologics/vaccines/tenivac",
-      "source": "FDA Vaccines / Biologics",
-      "source_type": "official",
-      "source_tier": "Tier 1",
-      "source_priority": 9,
-      "published_at": "2026-08-27T15:40:11+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [
-        "approval",
-        "outbreak_response"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "FDA / Silver Spring"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "FDA / Silver Spring"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "FDA Vaccines / Biologics"
-      ]
-    },
-    {
       "id": "23540e6c5b857baa",
       "title": "若い女性を対象とした予防的四価ヒトパピローマウイルス（6型、11型、16型、18型）L1ウイルス様粒子ワクチン：ランダム化二重盲検プラセボ対照多施設共同第II相有効性研究",
       "summary": "若い女性を対象とした予防的四価ヒトパピローマウイルス（6型、11型、16型、18型）L1ウイルス様粒子ワクチン：ランダム化二重盲検プラセボ対照多施設共同第II相有効性研究",
@@ -1208,138 +1140,6 @@
       ]
     },
     {
-      "id": "8664f2c94108584e",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary_ai": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_original": "Novel TB vaccine candidate misses the mark in phase 3 trial in newborns - CIDRAP",
-      "summary_original": "Novel TB vaccine candidate misses the mark in phase 3 trial in newborns CIDRAP",
-      "summary_ai_original": "Novel TB vaccine candidate misses the mark in phase 3 trial in newborns CIDRAP",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZGlMM3RRUm9yVkdDeEFaX252VzVVd1R5cmZ2WkE0OGNTS2daZi13Nnphcnp6dTRHNmxQclJ6NmZ6ZG5fRmhQckVpQkI2bkpGQ1UwQjc4NjlOLVNrZ0llUXlPTGFRYjBsSmNHcWo3LUlpckMyUVk5aTZPWkl5ZjhkcXNRbnRWV1FjdURYLTNtbnBfWnhNaUI3d2VRMWJSX1JwdzlV?oc=5",
-      "source": "CIDRAP Vaccines & Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 8,
-      "published_at": "2026-08-26T15:23:57+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "CIDRAP / Minnesota"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "CIDRAP / Minnesota"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "CIDRAP Vaccines & Immunization"
-      ]
-    },
-    {
-      "id": "9f6255a9e89811d2",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary_ai": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_original": "Bundibugyo virus glycoprotein seroreactivity following recombinant vesicular stomatitis virus–Zaire Ebola virus glycoprotein vaccination in outbreak-affected populations of the Democratic Republic of the Congo: a longitudinal cohort study",
-      "summary_original": "Bundibugyo virus glycoprotein seroreactivity following recombinant vesicular stomatitis virus–Zaire Ebola virus glycoprotein vaccination in outbreak-affected populations of the Democratic Republic of the Congo: a longitudinal cohort study",
-      "summary_ai_original": "Bundibugyo virus glycoprotein seroreactivity following recombinant vesicular stomatitis virus–Zaire Ebola virus glycoprotein vaccination in outbreak-affected populations of the Democratic Republic of the Congo: a longitudinal cohort study",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeVM5M01mOUJ5RUpPak1iTXVEMDJPdnlIZUhZdmJ1UjhiLW5QT0xWWFlBR3pHSEM2dXQ3bHplaW5IejZYelFNZzNwUFFiV181bHlGR1B6VXBpc3JQUUF2bDd4VGtIWEZ3RE84eEwxd1Zuakd1cWpOLUtKTGVXeC1Wa3hRQUp5NTFiQjFCYkNXbmhfbEFnS3c?oc=5",
-      "source": "The Lancet series",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-08-25T23:32:39+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [
-        "outbreak_response"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "コンゴ民主共和国",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "The Lancet / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "The Lancet / London"
-        },
-        "target": {
-          "key": "democratic republic of the congo",
-          "name_ja": "コンゴ民主共和国",
-          "lat": -4.4419,
-          "lng": 15.2663,
-          "region": "Africa",
-          "label": "コンゴ民主共和国"
-        }
-      },
-      "location": {
-        "key": "democratic republic of the congo",
-        "name_ja": "コンゴ民主共和国",
-        "lat": -4.4419,
-        "lng": 15.2663,
-        "region": "Africa",
-        "label": "コンゴ民主共和国"
-      },
-      "region": "Africa",
-      "country": "コンゴ民主共和国",
-      "lat": -4.4419,
-      "lng": 15.2663,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "The Lancet series"
-      ]
-    },
-    {
       "id": "f02254b6b3918c23",
       "title": "三価コロナウイルスワクチン候補 VBI-2901a の安全性、忍容性、免疫原性",
       "summary": "三価コロナウイルスワクチン候補 VBI-2901a の安全性、忍容性、免疫原性",
@@ -1472,13 +1272,13 @@
       ]
     },
     {
-      "id": "88940e45527ea34c",
-      "title": "「死亡率に対するファイザー対モデルナの新型コロナウイルス感染症ワクチンの有効性: インディアナ州における関連死亡率と予防接種記録からの証拠」の補足資料 - SSRN eLibrary",
-      "summary": "「ファイザー対モデルナの新型コロナウイルスワクチンの死亡率に対する有効性: インディアナ州における死亡率と予防接種記録の関連性からの証拠」SSRN eLibrary の補足資料",
-      "summary_ai": "「ファイザー対モデルナの新型コロナウイルスワクチンの死亡率に対する有効性: インディアナ州における死亡率と予防接種記録の関連性からの証拠」SSRN eLibrary の補足資料",
-      "title_original": "Supplementary Material for \"Pfizer versus Moderna COVID-19 Vaccine Effectiveness against Mortality: Evidence from Linked Mortality and Vaccination Records in Indiana\" - SSRN eLibrary",
-      "summary_original": "Supplementary Material for \"Pfizer versus Moderna COVID-19 Vaccine Effectiveness against Mortality: Evidence from Linked Mortality and Vaccination Records in Indiana\" SSRN eLibrary",
-      "summary_ai_original": "Supplementary Material for \"Pfizer versus Moderna COVID-19 Vaccine Effectiveness against Mortality: Evidence from Linked Mortality and Vaccination Records in Indiana\" SSRN eLibrary",
+      "id": "8659eb90fd84cbeb",
+      "title": "「死亡率に対するファイザー対モデルナの新型コロナウイルス感染症ワクチンの有効性：インディアナ州における関連死亡率と予防接種記録からの証拠」の補足資料 -papers.ssrn.com",
+      "summary": "「死亡率に対するファイザー対モデルナの新型コロナウイルス感染症ワクチンの有効性: インディアナ州における関連死亡率と予防接種記録からの証拠」の補足資料papers.ssrn.com",
+      "summary_ai": "「死亡率に対するファイザー対モデルナの新型コロナウイルス感染症ワクチンの有効性: インディアナ州における関連死亡率と予防接種記録からの証拠」の補足資料papers.ssrn.com",
+      "title_original": "Supplementary Material for \"Pfizer versus Moderna COVID-19 Vaccine Effectiveness against Mortality: Evidence from Linked Mortality and Vaccination Records in Indiana\" - papers.ssrn.com",
+      "summary_original": "Supplementary Material for \"Pfizer versus Moderna COVID-19 Vaccine Effectiveness against Mortality: Evidence from Linked Mortality and Vaccination Records in Indiana\" papers.ssrn.com",
+      "summary_ai_original": "Supplementary Material for \"Pfizer versus Moderna COVID-19 Vaccine Effectiveness against Mortality: Evidence from Linked Mortality and Vaccination Records in Indiana\" papers.ssrn.com",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0cDB5MC1ON1hMYldBWExEYTcwUjZfMmxfTllVSFJPakdVTk1oSGRjWkFReEpkR05oM1N0dExDTFhTMlNTNWs1bEswSExNODlJT2I3WURUOEFycEQ0NWJRc2FSVEsyV0NPcTlj?oc=5",
       "source": "SSRN vaccine preprints",
@@ -1601,74 +1401,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "Cochrane vaccines"
-      ]
-    },
-    {
-      "id": "2256c81881c39a0d",
-      "title": "エチオピア北西部、アウィゾーン、ダンギラ地区の成人集団における新型コロナウイルスワクチン接種とそれに関連する要因：混合法研究 |プロスワン",
-      "summary": "エチオピア北西部、アウィゾーン、ダンギラ地区の成人集団における新型コロナウイルスワクチン接種とそれに関連する要因：混合法研究 |プロスワン",
-      "summary_ai": "エチオピア北西部、アウィゾーン、ダンギラ地区の成人集団における新型コロナウイルスワクチン接種とそれに関連する要因：混合法研究 |プロスワン",
-      "title_original": "Covid-19 vaccine uptake and its associated factors among adult population in Dangila district, Awi Zone, Northwest Ethiopia: A mixed method study | PLOS One",
-      "summary_original": "Covid-19 vaccine uptake and its associated factors among adult population in Dangila district, Awi Zone, Northwest Ethiopia: A mixed method study | PLOS One",
-      "summary_ai_original": "Covid-19 vaccine uptake and its associated factors among adult population in Dangila district, Awi Zone, Northwest Ethiopia: A mixed method study | PLOS One",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mcEFVV05vTFM4cDMxZ2FHMVJfRXRHd1Q0RE5XeFhCNEtWc2tTQ2ktdEZJcjJVYlZIamlIalNVNTE1QXhIUHZFVWt2ZHY1SExDWE1KQUYtNWp1QncwTUNTUTgzNTY1a0liLTMzVHVqQjBOZDFXY3ZHXzFQNTN1YVk?oc=5",
-      "source": "PLOS journals vaccines",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 7,
-      "published_at": "2026-08-23T22:36:50+00:00",
-      "topics": [
-        "communication",
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "covid"
-      ],
-      "variants": [],
-      "target_country": "エチオピア",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "PLOS"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "PLOS"
-        },
-        "target": {
-          "key": "ethiopia",
-          "name_ja": "エチオピア",
-          "lat": 8.9806,
-          "lng": 38.7578,
-          "region": "Africa",
-          "label": "エチオピア"
-        }
-      },
-      "location": {
-        "key": "ethiopia",
-        "name_ja": "エチオピア",
-        "lat": 8.9806,
-        "lng": 38.7578,
-        "region": "Africa",
-        "label": "エチオピア"
-      },
-      "region": "Africa",
-      "country": "エチオピア",
-      "lat": 8.9806,
-      "lng": 38.7578,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "PLOS journals vaccines"
       ]
     },
     {
@@ -2006,73 +1738,6 @@
       ]
     },
     {
-      "id": "48cd059718520fab",
-      "title": "ケニアの乳児を対象としたフレクスネリ菌 2a に対する合成炭水化物複合体ワクチン SF2a-TT15 の安全性と免疫原性：第 2a 相、年齢降下、用量漸増、二重盲検、ランダム化、プラセボ対照試験",
-      "summary": "ケニアの乳児を対象としたフレクスネリ菌 2a に対する合成炭水化物複合体ワクチン SF2a-TT15 の安全性と免疫原性：第 2a 相、年齢降下、用量漸増、二重盲検、ランダム化、プラセボ対照試験",
-      "summary_ai": "ケニアの乳児を対象としたフレクスネリ菌 2a に対する合成炭水化物複合体ワクチン SF2a-TT15 の安全性と免疫原性：第 2a 相、年齢降下、用量漸増、二重盲検、ランダム化、プラセボ対照試験",
-      "title_original": "Safety and immunogenicity of the synthetic carbohydrate conjugate vaccine, SF2a-TT15, against Shigella flexneri 2a in infants in Kenya: a phase 2a, age-descending, dose-escalating, double-blind, randomised, placebo-controlled study",
-      "summary_original": "Safety and immunogenicity of the synthetic carbohydrate conjugate vaccine, SF2a-TT15, against Shigella flexneri 2a in infants in Kenya: a phase 2a, age-descending, dose-escalating, double-blind, randomised, placebo-controlled study",
-      "summary_ai_original": "Safety and immunogenicity of the synthetic carbohydrate conjugate vaccine, SF2a-TT15, against Shigella flexneri 2a in infants in Kenya: a phase 2a, age-descending, dose-escalating, double-blind, randomised, placebo-controlled study",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUFhsNlRXQ2FPYjZjbnZacGN5UGI0ZUJSeUt4TW03Vlp6NGVwRVJZeDJtYjJHUEV3UDVremFvYklJZ3ZyRHJKUDZYTHJwS1Q5cFJ0ZHNkelRHSGtIUWdwM3ZxclFOcjVGY2JkaGVyWVZfdW9BV3ZNcXM2SFNDamlQSnhUSjh1THdfVHFr?oc=5",
-      "source": "Lancet Infectious Diseases",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-08-20T01:02:56+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [
-        "safety"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "ケニア",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "Lancet Infectious Diseases / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "Lancet Infectious Diseases / London"
-        },
-        "target": {
-          "key": "kenya",
-          "name_ja": "ケニア",
-          "lat": -1.2921,
-          "lng": 36.8219,
-          "region": "Africa",
-          "label": "ケニア"
-        }
-      },
-      "location": {
-        "key": "kenya",
-        "name_ja": "ケニア",
-        "lat": -1.2921,
-        "lng": 36.8219,
-        "region": "Africa",
-        "label": "ケニア"
-      },
-      "region": "Africa",
-      "country": "ケニア",
-      "lat": -1.2921,
-      "lng": 36.8219,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Lancet Infectious Diseases"
-      ]
-    },
-    {
       "id": "93cfe6eed949844a",
       "title": "モデルナとメルク、mRNAがんワクチンの後期黒色腫試験が成功したと発表 - STAT",
       "summary": "モデルナとメルク、mRNAがんワクチンが後期黒色腫試験STATで成功したと発表",
@@ -2268,71 +1933,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "Journal of Infectious Diseases"
-      ]
-    },
-    {
-      "id": "7397362ebe113bac",
-      "title": "入院中の乳児における呼吸器合胞体ウイルスに対する母親の RSVpreF ワクチンの有効性",
-      "summary": "入院中の乳児における呼吸器合胞体ウイルスに対する母親の RSVpreF ワクチンの有効性",
-      "summary_ai": "入院中の乳児における呼吸器合胞体ウイルスに対する母親の RSVpreF ワクチンの有効性",
-      "title_original": "Maternal RSVpreF Vaccine Effectiveness Against Respiratory Syncytial Virus in Hospitalized Infants",
-      "summary_original": "Maternal RSVpreF Vaccine Effectiveness Against Respiratory Syncytial Virus in Hospitalized Infants",
-      "summary_ai_original": "Maternal RSVpreF Vaccine Effectiveness Against Respiratory Syncytial Virus in Hospitalized Infants",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1UN1c4aUJDb0lWdFRKRjVUTkpTMG1jZlMxOE9KV2c4eU8teVpaUkY3RkN0c3RtRkJqclI1Vy1ZMWhQWFpkcXdkWWFHT0FtVmJ6cmpjbndBWEdYdldSZkhDSU0waGNkUTJxTF9GRlNweUw0NGx3Qnc?oc=5",
-      "source": "JAMA Pediatrics vaccines",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-08-17T16:48:47+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "JAMA Pediatrics"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "JAMA Pediatrics"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "JAMA Pediatrics vaccines"
       ]
     }
   ]
