@@ -1,9 +1,9 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-09-02T23:16:07.387464+00:00",
-  "item_count": 28,
-  "archive_count": 489,
+  "generated_at": "2026-09-03T23:14:03.064923+00:00",
+  "item_count": 32,
+  "archive_count": 497,
   "days_back": 14,
   "plot_mode_default": "source",
   "feed_status": [
@@ -23,7 +23,7 @@
       "name": "CDC Newsroom",
       "url": "https://tools.cdc.gov/api/v2/resources/media/316422.rss",
       "status": "ok",
-      "seen": 9,
+      "seen": 10,
       "kept": 0
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/biologics/rss.xml",
       "status": "ok",
       "seen": 20,
-      "kept": 2
+      "kept": 3
     },
     {
       "name": "EMA News",
@@ -83,7 +83,7 @@
       "url": "https://www.paho.org/en/rss.xml",
       "status": "ok",
       "seen": 5,
-      "kept": 0
+      "kept": 1
     },
     {
       "name": "The Lancet series",
@@ -96,28 +96,28 @@
       "name": "Lancet Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Athelancet.com%2Fjournals%2Flaninf&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 1,
-      "kept": 1
+      "seen": 0,
+      "kept": 0
     },
     {
       "name": "NEJM",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Anejm.org%20(trial%20OR%20effectiveness%20OR%20policy%20OR%20safety)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 2,
       "kept": 0
     },
     {
       "name": "BMJ",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abmj.com%20(policy%20OR%20trial%20OR%20effectiveness%20OR%20communication)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 2,
-      "kept": 2
+      "seen": 3,
+      "kept": 3
     },
     {
       "name": "Vaccine journal",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Asciencedirect.com%2Fjournal%2Fvaccine&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -166,7 +166,7 @@
       "name": "Science vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ascience.org%2Fdoi%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20antibody)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 2,
       "kept": 0
     },
     {
@@ -194,7 +194,7 @@
       "name": "JAMA vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjama%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 5,
+      "seen": 4,
       "kept": 3
     },
     {
@@ -243,77 +243,77 @@
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 21,
-      "kept": 0
+      "seen": 23,
+      "kept": 1
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 30,
-      "kept": 3
+      "seen": 34,
+      "kept": 4
     },
     {
       "name": "AP Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 96,
+      "seen": 97,
       "kept": 1
     },
     {
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 57,
-      "kept": 1
+      "seen": 30,
+      "kept": 0
     },
     {
       "name": "Financial Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aft.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 8,
+      "seen": 7,
       "kept": 1
     },
     {
       "name": "STAT Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 38,
+      "seen": 22,
       "kept": 2
     },
     {
       "name": "Nature News Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 20,
+      "seen": 15,
       "kept": 0
     },
     {
       "name": "Science Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Ascience.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 5,
       "kept": 1
     },
     {
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 30,
+      "seen": 27,
       "kept": 0
     },
     {
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 51,
+      "seen": 31,
       "kept": 1
     },
     {
       "name": "Washington Post Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 71,
+      "seen": 80,
       "kept": 0
     },
     {
@@ -327,35 +327,35 @@
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 21,
+      "seen": 18,
       "kept": 0
     },
     {
       "name": "朝日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Aasahi.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 6,
+      "seen": 4,
       "kept": 0
     },
     {
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 54,
+      "seen": 22,
       "kept": 0
     },
     {
       "name": "毎日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 15,
+      "seen": 14,
       "kept": 0
     },
     {
       "name": "JAMA Network vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 10,
+      "seen": 8,
       "kept": 6
     },
     {
@@ -369,8 +369,8 @@
       "name": "Clinical Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fcid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
-      "kept": 0
+      "seen": 4,
+      "kept": 3
     },
     {
       "name": "Journal of Infectious Diseases",
@@ -397,7 +397,7 @@
       "name": "Pediatrics journal",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Apublications.aap.org%2Fpediatrics&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 2,
       "kept": 1
     },
     {
@@ -418,8 +418,8 @@
       "name": "EBioMedicine vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Athelancet.com%2Fjournals%2Febiom&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 1,
-      "kept": 1
+      "seen": 0,
+      "kept": 0
     },
     {
       "name": "International Journal of Infectious Diseases",
@@ -439,15 +439,15 @@
       "name": "Vaccine X",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Asciencedirect.com%2Fjournal%2Fvaccine-x&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 1,
       "kept": 0
     },
     {
       "name": "Cochrane vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Acochranelibrary.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 5,
-      "kept": 4
+      "seen": 4,
+      "kept": 3
     },
     {
       "name": "Journal of Travel Medicine vaccines",
@@ -460,21 +460,561 @@
       "name": "SSRN vaccine preprints",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Apapers.ssrn.com%20(effectiveness%20OR%20safety%20OR%20policy%20OR%20trial)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
-      "kept": 1
+      "seen": 3,
+      "kept": 2
     }
   ],
   "weekly_ai_summary": {
-    "generated_at": "2026-09-02T23:16:07.387464+00:00",
+    "generated_at": "2026-09-03T23:14:03.064923+00:00",
     "period_days": 7,
-    "policy_count": 9,
-    "academic_count": 9,
+    "policy_count": 11,
+    "academic_count": 8,
     "status": "ok",
     "model": "gpt-4o-mini",
-    "policy_summary": "2025年8月27日、食品医薬品局はモデルナおよびファイザー・バイオNTechの新型コロナウイルスワクチンの緊急使用許可を取り消しました。また、米国の医師団体は呼吸器疾患シーズンに向けた予防接種ガイドラインを発表しました。",
-    "academic_summary": "2026年から2027年にかけての乳児、小児、青少年に対する新型コロナウイルスワクチンの推奨に関する政策声明がAAPから発表されました。さらに、組換えインフルエンザワクチンの有効性に関する研究が、米国の老人ホームでのインフルエンザ発生に関する結果を示しました。"
+    "policy_summary": "米国のワクチン政策に関する最近の議論では、麻疹による死亡やインフルエンザワクチンの推奨が焦点となっています。また、ラテンアメリカとカリブ海地域では、犬と猫の個体数データを活用して狂犬病予防に取り組む新しいツールが導入されました。",
+    "academic_summary": "最近の研究では、間接的なインフルエンザワクチンの有効性に関する系統的レビューや、重度肥満成人を対象としたワクチンの比較が行われています。また、帯状疱疹ワクチンが心臓病や脳卒中のリスク低下に関連している可能性が示唆されています。"
   },
   "items": [
+    {
+      "id": "cd6659ec3af390e6",
+      "title": "ワクチンの推奨とアクセス、そして麻疹による死亡: 3 つの質問、ゼロの合意: 米国のワクチン政策の現状 - CIDRAP",
+      "summary": "ワクチンの推奨とアクセス、および麻疹による死亡: 3 つの質問、ゼロの合意: 米国のワクチン政策の現状 CIDRAP",
+      "summary_ai": "ワクチンの推奨とアクセス、および麻疹による死亡: 3 つの質問、ゼロの合意: 米国のワクチン政策の現状 CIDRAP",
+      "title_original": "Vaccine recommendations and access, plus measles deaths: 3 Questions, Zero Consensus: The State of US Vaccine Policy - CIDRAP",
+      "summary_original": "Vaccine recommendations and access, plus measles deaths: 3 Questions, Zero Consensus: The State of US Vaccine Policy CIDRAP",
+      "summary_ai_original": "Vaccine recommendations and access, plus measles deaths: 3 Questions, Zero Consensus: The State of US Vaccine Policy CIDRAP",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObExjUHZTckdjSUtnNmw4MklhUU96STZRVnNiNkwxek1GWTRFSnl5MDdmRURpR3RNcTB6bFdmdk16RXJHdk51NUwyMkZjTHBJVWRhejF5ZVRjZ2xUcVFJRzJza3VMdVJjZzBlMW5ZSWk1WkdtQWE3U1lGLXRHcjd6MGdYUEtrTEZ3MmplSFFOMmRiLW1ibjM0R2kwdXpxQUY0YXJZLWdxSHluelpqU25vcklycFlEWlNB?oc=5",
+      "source": "CIDRAP Vaccines & Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 8,
+      "published_at": "2026-09-03T21:11:15+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [
+        "outbreak_response",
+        "recommendation"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "CIDRAP / Minnesota"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "CIDRAP / Minnesota"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "CIDRAP Vaccines & Immunization"
+      ]
+    },
+    {
+      "id": "58daa21a5f9d2069",
+      "title": "ランダム化条件下での間接的なインフルエンザワクチンの有効性:系統的レビューとメタアナリシス - Oxford Academic",
+      "summary": "ランダム化条件下での間接的なインフルエンザワクチンの有効性:系統的レビューとメタアナリシス オックスフォード・アカデミック",
+      "summary_ai": "ランダム化条件下での間接的なインフルエンザワクチンの有効性:系統的レビューとメタアナリシス オックスフォード・アカデミック",
+      "title_original": "Indirect Influenza Vaccine Effectiveness Under Randomized Conditions: A Systematic Review and Meta-Analysis - Oxford Academic",
+      "summary_original": "Indirect Influenza Vaccine Effectiveness Under Randomized Conditions: A Systematic Review and Meta-Analysis Oxford Academic",
+      "summary_ai_original": "Indirect Influenza Vaccine Effectiveness Under Randomized Conditions: A Systematic Review and Meta-Analysis Oxford Academic",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5kOWgtazd2NFgyaEVyMnpzSUhYdTFCNHhOZExWdXNvUHJxT0ZtZTZDb19sWjdkZjNQSEFzbUZ0Rms1Y0tBUFFQNVM1Q1AwVmZVMlZvUjIxaUt5clVWNlMzNVM1Zw?oc=5",
+      "source": "Clinical Infectious Diseases",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-09-03T21:04:08+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "influenza"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "Clinical Infectious Diseases"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "Clinical Infectious Diseases"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Clinical Infectious Diseases"
+      ]
+    },
+    {
+      "id": "de100ba20caab8ee",
+      "title": "重度肥満成人を対象とした組換え型インフルエンザワクチンと標準型インフルエンザワクチン：ランダム化臨床試験 - オックスフォード・アカデミック",
+      "summary": "重度肥満成人における組換えインフルエンザワクチンと標準インフルエンザワクチン：ランダム化臨床試験 オックスフォード・アカデミック",
+      "summary_ai": "重度肥満成人における組換えインフルエンザワクチンと標準インフルエンザワクチン：ランダム化臨床試験 オックスフォード・アカデミック",
+      "title_original": "Recombinant vs Standard Influenza Vaccine in Adults With Severe Obesity: A Randomized Clinical Trial - Oxford Academic",
+      "summary_original": "Recombinant vs Standard Influenza Vaccine in Adults With Severe Obesity: A Randomized Clinical Trial Oxford Academic",
+      "summary_ai_original": "Recombinant vs Standard Influenza Vaccine in Adults With Severe Obesity: A Randomized Clinical Trial Oxford Academic",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9zcE1UUjhQVUJHWTlxQ2dGWGpmWncyN1lnV194VVhlMU1ZM2pma2ZINjJHMVlvQVRlSmtoMThwMXJBS3RxTVNHb3F3a0dXUTBUR2VPVXJIVlJfcXZfbUNoeGJMZXU5Y3hUY05XVXZtaXpYYU9XVDJxRVpn?oc=5",
+      "source": "Clinical Infectious Diseases",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-09-03T21:04:08+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "influenza"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "Clinical Infectious Diseases"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "Clinical Infectious Diseases"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 2,
+      "duplicate_sources": [
+        "Clinical Infectious Diseases"
+      ]
+    },
+    {
+      "id": "3d335a370a8445e7",
+      "title": "新しいツールは、犬と猫の個体数に関するより優れたデータを通じて、ラテンアメリカとカリブ海諸国が狂犬病やその他の人獣共通感染症を予防するのに役立ちます",
+      "summary": "新しいツールは、犬と猫の個体数に関するより良いデータを通じて、ラテンアメリカとカリブ海の国々が狂犬病やその他の人獣共通感染症を予防するのに役立ちます クリスティーナ・ミッチェル 2026年9月3日",
+      "summary_ai": "リオデジャネイロ、2026 年 9 月 3 日 (PANAFTOSA/VPH-PAHO/WHO) – 汎米保健機関 (PAHO)の汎米口蹄疫獣医公衆衛生センター (PANAFTOSA)は、新しいツール設計であるラテンアメリカおよびカリブ海地域の犬と猫の個体数を推定する方法を開始しました。",
+      "title_original": "New tool will help countries in Latin America and the Caribbean prevent rabies and other zoonotic diseases through better data on dog and cat populations",
+      "summary_original": "New tool will help countries in Latin America and the Caribbean prevent rabies and other zoonotic diseases through better data on dog and cat populations Cristina Mitchell 3 Sep 2026",
+      "summary_ai_original": "Rio de Janeiro, September 3, 2026 (PANAFTOSA/VPH-PAHO/WHO) – The Pan American Center for Foot-and-Mouth Disease and Veterinary Public Health (PANAFTOSA) of the Pan American Health Organization (PAHO) has launched the Methodology for Estimating Dog and Cat Populations in Latin America and the Caribbean, a new tool desig",
+      "article_text_original": "The methodology provides a practical and adaptable approach to estimating dog and cat populations, improving the planning of vaccination campaigns, disease surveillance, and other public health interventions. Rio de Janeiro, September 3, 2026 (PANAFTOSA/VPH-PAHO/WHO) – The Pan American Center for Foot-and-Mouth Disease and Veterinary Public Health (PANAFTOSA) of the Pan American Health Organization (PAHO) has launched the Methodology for Estimating Dog and Cat Populations in Latin America and the Caribbean, a new tool designed to help countries generate more reliable data on dog and cat populations and strengthen the planning of public health and animal health interventions. “Understanding the size, distribution, and characteristics of dog and cat populations is essential for guiding public health and animal health actions,” said Manuel Sánchez Vázquez, Director of PANAFTOSA. “This methodology provides countries with a practical tool to generate reliable information, strengthen the prevention of zoonotic diseases, and support evidence-based decision-making through a One Health approach.” The relationship between people and dogs and cats brings important benefits, ranging from companionship and emotional well-being to support in activities such as guarding, herding, pest control, and assistance for people with disabilities. However, irresponsible ownership, abandonment, and uncontrolled breeding can contribute to the presence of free-roaming animals and create challenges for public health. Close interaction between people, dogs, and cats can also facilitate the transmission of zoonotic diseases, including rabies, sporotrichosis, dermatophytosis, Bartonella henselae infection, visceral leishmaniasis, and echinococcosis. Although countries in the Americas have made significant progress in preventing and controlling dog-mediated rabies, the disease continues to claim lives in the Region. Between 2023 and August 2026, 62 human rabies cases were reported in the Americas, including 32 associated with dog transmission. Each year, countries across the Region vaccinate at least 50 million dogs through public vaccination campaigns as part of efforts to prevent rabies transmission and protect both human and animal health. Sustaining and expanding these gains requires up-to-date information on animal populations and the areas where risks remain highest. An adaptable methodology for different settings Dog and cat populations vary depending on their relationship with people. In urban areas, for example, owned, semi-owned, community, and free-roaming animals may coexist. Understanding how these populations are distributed helps authorities design more effective interventions tailored to local realities. To address this challenge, the methodology offers a standardized yet flexible approach that can be adapted to different geographic and social contexts while generating reliable population estimates for decision-making. The methodology includes practical implementation tools such as adaptable questionnaires, fieldwork checklists, and guidance for data analysis. The approach allows data collection to be tailored to the demographic, geographic, and social characteristics of each locality. Information generated through the methodology can help public health and animal health authorities identify risks, design interventions tailored to local needs and strengthen the prevention and response to zoonotic diseases. The publication is intended to support public health and animal health authorities in generating dog and cat population estimates to strengthen zoonotic disease surveillance and control, improve planning for rabies vaccination campaigns, and support other public health actions.",
+      "link": "https://www.paho.org/en/news/3-9-2026-new-tool-will-help-countries-latin-america-and-caribbean-prevent-rabies-and-other",
+      "source": "PAHO News",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 8,
+      "published_at": "2026-09-03T18:37:22+00:00",
+      "topics": [
+        "communication"
+      ],
+      "policy_tags": [
+        "outbreak_response"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "PAHO / Washington DC"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "PAHO / Washington DC"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "PAHO News"
+      ]
+    },
+    {
+      "id": "708329f406f5e8cf",
+      "title": "新型コロナウイルスワクチン研究：科学的亡命は決して必要ではなかった -",
+      "summary": "新型コロナウイルスワクチン研究：科学的亡命は決して必要ではなかった",
+      "summary_ai": "新型コロナウイルスワクチン研究：科学的亡命は決して必要ではなかった",
+      "title_original": "Covid-19 vaccine study: scientific asylum should never have been necessary - The",
+      "summary_original": "Covid-19 vaccine study: scientific asylum should never have been necessary The",
+      "summary_ai_original": "Covid-19 vaccine study: scientific asylum should never have been necessary The",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aVE5DQnppMWMyUGpQT3VHNFVRVmg5Yks3MDlWUVU3UUFMbTMwZjBWWkxLWTFvOXBoWDQ5U3IwQjFrRDU4RGdHbmVDdDZTSjJmOGliOHRaVWdCTzg?oc=5",
+      "source": "BMJ",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-09-03T14:37:53+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "covid"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BMJ / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BMJ / London"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "BMJ"
+      ]
+    },
+    {
+      "id": "c1547c8b515abd0e",
+      "title": "2026～2027年の米国インフルエンザシーズン向けのインフルエンザワクチン組成",
+      "summary": "FDAのワクチンおよび関連生物製剤諮問委員会（VRBPAC）は2026年3月12日に会合を開き、2026年から2027年の米国のインフルエンザシーズンに向けたインフルエンザワクチンの組成におけるインフルエンザウイルスの選択について議論し、勧告を行った。",
+      "summary_ai": "FDAのワクチンおよび関連生物製剤諮問委員会（VRBPAC）は、2026年3月12日に会合を開き、インフルエンザワクチンの疫学および抗原特性に関連する2026年から2027年の米国の監視データに向けたインフルエンザワクチンの組成におけるインフルエンザウイルスの選択について議論し、勧告を出しました。",
+      "title_original": "Influenza Vaccine Composition for the 2026-2027 U.S. Influenza Season",
+      "summary_original": "FDA's Vaccines and Related Biological Products Advisory Committee (VRBPAC) met on March 12, 2026, to discuss and make recommendations on the selection of influenza viruses for the composition of influenza vaccines for the 2026-2027 U.S. influenza season.",
+      "summary_ai_original": "FDA's Vaccines and Related Biological Products Advisory Committee (VRBPAC) met on March 12, 2026, to discuss and make recommendations on the selection of influenza viruses for the composition of influenza vaccines for the 2026-2027 U.S. surveillance data related to the epidemiology and antigenic characteristics of rece",
+      "article_text_original": "FDA's Vaccines and Related Biological Products Advisory Committee (VRBPAC) met on March 12, 2026, to discuss and make recommendations on the selection of influenza viruses for the composition of influenza vaccines for the 2026-2027 U.S. influenza season. During this meeting, the advisory committee evaluated and analyzed global and U.S. surveillance data related to the epidemiology and antigenic characteristics of recent influenza virus isolates, serological responses to 2025-2026 influenza vaccines, and the availability of candidate influenza virus strains and reagents. Seasonal influenza vaccines include two influenza A viruses (H1N1 and H3N2) and one influenza B virus. Influenza virus strains were selected based on the influenza vaccine production method: egg-based and cell- or recombinant-based. The committee recommended that the formulation of egg-based influenza vaccines for the 2026-2027 U.S. influenza season contain the following: - an A/Missouri/11/2025 (H1N1)pdm09-like virus; - an A/Darwin/1454/2025 (H3N2)-like virus; and - a B/Tokyo /EIS13-175/2025 (B/Victoria lineage)-like virus. The committee recommended that the formulation of cell- or recombinant-based influenza vaccines for the 2025-2026 U.S. influenza season contain the following: - an A/Missouri/11/2025 (H1N1)pdm09-like virus; - an A/Darwin/1415/2025 (H3N2)-like virus; and - a B/Pennsylvania/14/2025 (B/Victoria lineage)-like virus. FDA has informed the manufacturers of FDA-approved seasonal influenza vaccines of these recommendations. FDA anticipates that there will be an adequate and diverse supply of approved seasonal influenza vaccines for the 2026-2027 U.S. influenza season.",
+      "link": "http://www.fda.gov/vaccines-blood-biologics/vaccines/influenza-vaccine-composition-2026-2027-us-influenza-season",
+      "source": "FDA Vaccines / Biologics",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 9,
+      "published_at": "2026-09-03T13:15:08+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [
+        "approval",
+        "recommendation"
+      ],
+      "vaccines": [
+        "influenza"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "FDA / Silver Spring"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "FDA / Silver Spring"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "FDA Vaccines / Biologics"
+      ]
+    },
+    {
+      "id": "7bb8c545d6ed9ecf",
+      "title": "トランスジーン、がんワクチンの初期試験で陽性データを受け20％急上昇 - ロイター",
+      "summary": "トランスジーン、がんワクチンの初期試験で陽性データを受け20％急上昇 ロイター",
+      "summary_ai": "トランスジーン、がんワクチンの初期試験で陽性データを受け20％急上昇 ロイター",
+      "title_original": "Transgene jumps 20% on positive cancer vaccine data in early trial - Reuters",
+      "summary_original": "Transgene jumps 20% on positive cancer vaccine data in early trial Reuters",
+      "summary_ai_original": "Transgene jumps 20% on positive cancer vaccine data in early trial Reuters",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPd0JsWG5KNGNVUm5LbGpuZkRJY0RjbDFJU2hpaDB1TzlzYzFDQmxiaVJ5M2lfRXRuWXNLaVVKSzVhbXVpdE5Ba0I5YXViUU5IMVZYUFZGMkNDcWF5OWQzdHpHM1BfZFl1QzE4aGVYRjNtVlZfUi1HNTVqMC1LSnN1cXdtS1dfUnFnOHIteFBpTVBYME56RUs0QUkyam5ld3pzcjg4d25VaDBvQVd0NW5rRHJSTVB3N3VfWEwweHRyTW9MUjB6MVQwdU51Yw?oc=5",
+      "source": "Reuters Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-09-03T08:22:50+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Reuters"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Reuters"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Reuters Vaccines / Immunization"
+      ]
+    },
+    {
+      "id": "c175223aa65a4a3f",
+      "title": "米国のトップ医師が混乱緩和を目指し、インフルエンザと新型コロナウイルスのワクチン推奨を更新 - AP通信",
+      "summary": "米国のトップ医師がインフルエンザと新型コロナウイルスのワクチン推奨を更新、混乱緩和を目指す AP通信",
+      "summary_ai": "米国のトップ医師がインフルエンザと新型コロナウイルスのワクチン推奨を更新、混乱緩和を目指す AP通信",
+      "title_original": "Top US doctors offer updated flu and COVID vaccine recommendations, aiming to ease confusion - AP News",
+      "summary_original": "Top US doctors offer updated flu and COVID vaccine recommendations, aiming to ease confusion AP News",
+      "summary_ai_original": "Top US doctors offer updated flu and COVID vaccine recommendations, aiming to ease confusion AP News",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRVU4MVZQTEgzNGtFVGZsZGNJRWJyaWtNZTJBQmh5bWZjRldXQXp5SVpoQkQwVVJjWXJZVG1CSU1XTFRiNlpzWGhCR19LWGU0bnhwQVEwaTlDS2FjenVEdzFDb1QxUHBEMmFYeGp2Ukt5cXdCYWhHQlk2eDFyZlJNMGhLTzVvaEJkc0hTOGJnaDU5LUsyY1p5dThpbTBrU3hzM3c?oc=5",
+      "source": "AP Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-09-02T22:56:00+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [
+        "recommendation"
+      ],
+      "vaccines": [
+        "covid"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "AP"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "AP"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "AP Vaccines / Immunization"
+      ]
+    },
     {
       "id": "78e7a3ebb5d2db4c",
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -680,75 +1220,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "STAT Vaccines / Immunization"
-      ]
-    },
-    {
-      "id": "c175223aa65a4a3f",
-      "title": "米国のトップ医師が混乱緩和を目指し、インフルエンザと新型コロナウイルスのワクチン推奨を更新 - AP通信",
-      "summary": "米国のトップ医師がインフルエンザと新型コロナウイルスのワクチン推奨を更新、混乱緩和を目指す AP通信",
-      "summary_ai": "米国のトップ医師がインフルエンザと新型コロナウイルスのワクチン推奨を更新、混乱緩和を目指す AP通信",
-      "title_original": "Top US doctors offer updated flu and COVID vaccine recommendations, aiming to ease confusion - AP News",
-      "summary_original": "Top US doctors offer updated flu and COVID vaccine recommendations, aiming to ease confusion AP News",
-      "summary_ai_original": "Top US doctors offer updated flu and COVID vaccine recommendations, aiming to ease confusion AP News",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRVU4MVZQTEgzNGtFVGZsZGNJRWJyaWtNZTJBQmh5bWZjRldXQXp5SVpoQkQwVVJjWXJZVG1CSU1XTFRiNlpzWGhCR19LWGU0bnhwQVEwaTlDS2FjenVEdzFDb1QxUHBEMmFYeGp2Ukt5cXdCYWhHQlk2eDFyZlJNMGhLTzVvaEJkc0hTOGJnaDU5LUsyY1p5dThpbTBrU3hzM3c?oc=5",
-      "source": "AP Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-09-02T18:04:00+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [
-        "recommendation"
-      ],
-      "vaccines": [
-        "covid"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "AP"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "AP"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "AP Vaccines / Immunization"
       ]
     },
     {
@@ -959,6 +1430,73 @@
       ]
     },
     {
+      "id": "039bddc186d8c62d",
+      "title": "GSK、mRNAインフルエンザワクチンを後期治験へ進める - ロイター",
+      "summary": "ＧＳＫ、ｍＲＮＡインフルエンザワクチンを後期治験へ進める ロイター",
+      "summary_ai": "ＧＳＫ、ｍＲＮＡインフルエンザワクチンを後期治験へ進める ロイター",
+      "title_original": "GSK to advance mRNA flu vaccine to late-stage trial - Reuters",
+      "summary_original": "GSK to advance mRNA flu vaccine to late-stage trial Reuters",
+      "summary_ai_original": "GSK to advance mRNA flu vaccine to late-stage trial Reuters",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTGJNaUdYTzFTV1VfY0ZLdEpGMmtkRXRfVGFLWWNCM2FkclRaeHl4cUM3RmxxTVh4bVg2Y2dydS1aRzEwNzZLbTU5SGdQSnk0Rm1qOThLOTQySzV3cmxhZGRSdi1Bc2x5WXcyYk4wX2lwczVYQ1RMVHJQNktOUHI4UmowX2hUdGdKeHlyM1JMbGZnTkZWSUdEZlI1QmRvUUZlRFF0Q1ljOERWYjFJcjloLXFUZE0yanZa?oc=5",
+      "source": "Reuters Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-09-01T14:48:27+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "influenza"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Reuters"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Reuters"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Reuters Vaccines / Immunization"
+      ]
+    },
+    {
       "id": "776fafeaef8d8a9f",
       "title": "ガイダンス: インフルエンザ (インフルエンザ) ワクチンのファクトシート – 患者、親、介護者向けの情報",
       "summary": "インフルエンザ（インフルエンザ）およびインフルエンザ予防接種に関する情報を提供する患者情報シート。",
@@ -1025,73 +1563,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "MHRA"
-      ]
-    },
-    {
-      "id": "039bddc186d8c62d",
-      "title": "GSK、mRNAインフルエンザワクチンを後期治験へ進める - ロイター",
-      "summary": "ＧＳＫ、ｍＲＮＡインフルエンザワクチンを後期治験へ進める ロイター",
-      "summary_ai": "ＧＳＫ、ｍＲＮＡインフルエンザワクチンを後期治験へ進める ロイター",
-      "title_original": "GSK to advance mRNA flu vaccine to late-stage trial - Reuters",
-      "summary_original": "GSK to advance mRNA flu vaccine to late-stage trial Reuters",
-      "summary_ai_original": "GSK to advance mRNA flu vaccine to late-stage trial Reuters",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTGJNaUdYTzFTV1VfY0ZLdEpGMmtkRXRfVGFLWWNCM2FkclRaeHl4cUM3RmxxTVh4bVg2Y2dydS1aRzEwNzZLbTU5SGdQSnk0Rm1qOThLOTQySzV3cmxhZGRSdi1Bc2x5WXcyYk4wX2lwczVYQ1RMVHJQNktOUHI4UmowX2hUdGdKeHlyM1JMbGZnTkZWSUdEZlI1QmRvUUZlRFF0Q1ljOERWYjFJcjloLXFUZE0yanZa?oc=5",
-      "source": "Reuters Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-09-01T06:15:00+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "influenza"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "Reuters"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "Reuters"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Reuters Vaccines / Immunization"
       ]
     },
     {
@@ -1162,13 +1633,13 @@
       ]
     },
     {
-      "id": "0eca0fb93e2024f1",
-      "title": "自閉症諮問委員会の資金計画には、ベールに包まれた反ワクチンへの焦点が含まれていると批評家らは指摘している。 AAAS",
-      "summary": "自閉症諮問委員会の資金計画には、ベールに包まれた反ワクチンへの焦点が含まれていると批判者らは見ている。 AAAS",
-      "summary_ai": "自閉症諮問委員会の資金計画には、ベールに包まれた反ワクチンへの焦点が含まれていると批判者らは見ている。 AAAS",
-      "title_original": "In autism advisory committee’s funding plan, critics see a veiled antivaccine focus - Science | AAAS",
-      "summary_original": "In autism advisory committee’s funding plan, critics see a veiled antivaccine focus Science | AAAS",
-      "summary_ai_original": "In autism advisory committee’s funding plan, critics see a veiled antivaccine focus Science | AAAS",
+      "id": "ab475b7aae5d2674",
+      "title": "自閉症諮問委員会の資金計画では、ベールに包まれた反ワクチンへの焦点が批判者らに見られる -science.org",
+      "summary": "自閉症諮問委員会の資金計画には、ベールに包まれた反ワクチンへの焦点が含まれていると批評家らは見る Science.org",
+      "summary_ai": "自閉症諮問委員会の資金計画には、ベールに包まれた反ワクチンへの焦点が含まれていると批評家らは見る Science.org",
+      "title_original": "In autism advisory committee’s funding plan, critics see a veiled antivaccine focus - science.org",
+      "summary_original": "In autism advisory committee’s funding plan, critics see a veiled antivaccine focus science.org",
+      "summary_ai_original": "In autism advisory committee’s funding plan, critics see a veiled antivaccine focus science.org",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd3Q5VE0zQ3lVc2EzQ2loQzJBbVVBR2FqcHFVVGN3eDUyaHRxUDZiamhiX21RTUlfLTRka0dvTzdsV3lROXhHdHdVWjhhZmpIeUxyNXcyZTNyU1d4VGZrREVpZUVIcHlxMmo2QVZBYWYxeE81TlJXR1o3aklDdklzakRSdjU0cVVVc2JxZk9KWnV5YXBQRVZ3Z0RFcTRUZmJPMFQwaUxvQkZNb2dwODdNSFQzYXNjbHpP?oc=5",
       "source": "Science Vaccines / Immunization",
@@ -1364,78 +1835,13 @@
       ]
     },
     {
-      "id": "f05423cd4297b490",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary_ai": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_original": "Ebola: WHO declares Uganda free of virus, but doctors express reservations about new vaccine trial - bmj.com",
-      "summary_original": "Ebola: WHO declares Uganda free of virus, but doctors express reservations about new vaccine trial bmj.com",
-      "summary_ai_original": "Ebola: WHO declares Uganda free of virus, but doctors express reservations about new vaccine trial bmj.com",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5SaUhNek5xOUVtZkFBSzZ3aHN5ZV8tWkpJNzBqTU5wUWl5My12NUREU3ZYN0dCOTZRT1poS0NYYldVUEVzeU5La2Z6OVRwRF9JRWc2OG9DQjF6b0k?oc=5",
-      "source": "BMJ",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-08-28T12:31:14+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "ウガンダ",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BMJ / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BMJ / London"
-        },
-        "target": {
-          "key": "uganda",
-          "name_ja": "ウガンダ",
-          "lat": 0.3476,
-          "lng": 32.5825,
-          "region": "Africa",
-          "label": "ウガンダ"
-        }
-      },
-      "location": {
-        "key": "uganda",
-        "name_ja": "ウガンダ",
-        "lat": 0.3476,
-        "lng": 32.5825,
-        "region": "Africa",
-        "label": "ウガンダ"
-      },
-      "region": "Africa",
-      "country": "ウガンダ",
-      "lat": 0.3476,
-      "lng": 32.5825,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "BMJ"
-      ]
-    },
-    {
-      "id": "d307ac2fbba245aa",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary_ai": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_original": "Shingles vaccine is linked to lower risk of heart disease and stroke, study suggests - bmj.com",
-      "summary_original": "Shingles vaccine is linked to lower risk of heart disease and stroke, study suggests bmj.com",
-      "summary_ai_original": "Shingles vaccine is linked to lower risk of heart disease and stroke, study suggests bmj.com",
+      "id": "d332e0b4b764e33c",
+      "title": "帯状疱疹ワクチンは心臓病や脳卒中のリスク低下に関連していると研究が示唆 -",
+      "summary": "帯状疱疹ワクチンは心臓病や脳卒中のリスク低下に関連していると研究が示唆",
+      "summary_ai": "帯状疱疹ワクチンは心臓病や脳卒中のリスク低下に関連していると研究が示唆",
+      "title_original": "Shingles vaccine is linked to lower risk of heart disease and stroke, study suggests - The",
+      "summary_original": "Shingles vaccine is linked to lower risk of heart disease and stroke, study suggests The",
+      "summary_ai_original": "Shingles vaccine is linked to lower risk of heart disease and stroke, study suggests The",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqN09icTdXdzFEMHFRUGZhUE9sTlYyM3ZocWJvUnU4VUlTdU1jVDFENWZCNnFhX2lFd0NLbFlDdmppSkI4RG9Sb1lEUW9HZm5Ba2dJaFFZN3oza1E?oc=5",
       "source": "BMJ",
@@ -1491,75 +1897,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "BMJ"
-      ]
-    },
-    {
-      "id": "9a52aca1d69ff18b",
-      "title": "ファイザーとBioNTech、XFG適応の新型コロナウイルス感染症ワクチンについて米国FDAの承認を取得 – 企業発表 – Financial Times",
-      "summary": "ファイザーとBioNTech、XFG適応型新型コロナウイルスワクチンについて米国FDAの承認を取得 – 企業発表 フィナンシャル・タイムズ",
-      "summary_ai": "ファイザーとBioNTech、XFG適応型新型コロナウイルスワクチンについて米国FDAの承認を取得 – 企業発表 フィナンシャル・タイムズ",
-      "title_original": "Pfizer and BioNTech Receive U.S. FDA Approval for XFG-adapted COVID-19 Vaccine – Company Announcement - Financial Times",
-      "summary_original": "Pfizer and BioNTech Receive U.S. FDA Approval for XFG-adapted COVID-19 Vaccine – Company Announcement Financial Times",
-      "summary_ai_original": "Pfizer and BioNTech Receive U.S. FDA Approval for XFG-adapted COVID-19 Vaccine – Company Announcement Financial Times",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYWpoR0VINlZtMWJZQ1F6d0RhVWNIS1Z4WXlfdVdId05JLUN3YnJUY3NvUUZ4WjhUZE5QODBUSXZWdTFyV3V1V1NVZWZxT2xFcWwtTW5SRzZxdTc2VFpyVWFfVGhIZjNVdWRKbHg2ck9TSWFTMHZ6S3dLT3FWd3Z2ZXBVc1pfcGUwTGFRMGJRNEk1RVpEWnNJaTdVS3JONGRXT2RqMDJB?oc=5",
-      "source": "Financial Times Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-08-27T20:30:00+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [
-        "approval"
-      ],
-      "vaccines": [
-        "covid"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "Financial Times"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "Financial Times"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Financial Times Vaccines / Immunization"
       ]
     },
     {
@@ -1629,6 +1966,75 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "Open Forum Infectious Diseases"
+      ]
+    },
+    {
+      "id": "d077f7402ec5c1b2",
+      "title": "ファイザーとBioNTech、XFG適応の新型コロナウイルス感染症ワクチンについて米国FDAの承認を取得 – 企業発表 – Financial Times",
+      "summary": "ファイザーとBioNTech、XFG適応型新型コロナウイルスワクチンについて米国FDAの承認を取得 – 企業発表 フィナンシャル・タイムズ",
+      "summary_ai": "ファイザーとBioNTech、XFG適応型新型コロナウイルスワクチンについて米国FDAの承認を取得 – 企業発表 フィナンシャル・タイムズ",
+      "title_original": "Pfizer and BioNTech Receive U.S. FDA Approval for XFG-adapted COVID-19 Vaccine – Company Announcement - Financial Times",
+      "summary_original": "Pfizer and BioNTech Receive U.S. FDA Approval for XFG-adapted COVID-19 Vaccine – Company Announcement Financial Times",
+      "summary_ai_original": "Pfizer and BioNTech Receive U.S. FDA Approval for XFG-adapted COVID-19 Vaccine – Company Announcement Financial Times",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdEVUbVZlT2o2SWVBU3pPY1FQZ3NSN21EWklXb3Rucm1fV3NLdWVHcWFaczdGUDJya3N5Q1pfQjNTZElwdEszVnBlLS0wT2JWMHhkdnBfQlBxN04yVVVNZU8tbXNRdnlKSVVCdV9TczFNaml2WTlYSFljdzVrVmRMTmtpaGc0ZGEwUFJoWVk1U0c4SFpyWGdJeQ?oc=5",
+      "source": "Financial Times Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-08-27T18:30:00+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [
+        "approval"
+      ],
+      "vaccines": [
+        "covid"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Financial Times"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Financial Times"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Financial Times Vaccines / Immunization"
       ]
     },
     {
@@ -1763,71 +2169,6 @@
       ]
     },
     {
-      "id": "9bf84103590b5ed3",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "帯状疱疹ワクチンは心臓発作や脳卒中のリスク低下に関連していると研究で判明 ガーディアン紙",
-      "summary_ai": "帯状疱疹ワクチンは心臓発作や脳卒中のリスク低下に関連していると研究で判明 ガーディアン紙",
-      "title_original": "Shingles vaccine linked to lower risk of heart attack and stroke, study finds - The Guardian",
-      "summary_original": "Shingles vaccine linked to lower risk of heart attack and stroke, study finds The Guardian",
-      "summary_ai_original": "Shingles vaccine linked to lower risk of heart attack and stroke, study finds The Guardian",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaGlCcHg1S3hsZkFlZzl0Qy1pWXFjaDVXd1dpYW9ZeUxyR0NUWW4wdkdrbkhMT1pPNlRxYmJscmpDUXZSSU9xTWdfaEE1Mmk4c0NnckJ0eFUtNEQ4Z0tkNmFNb1BPZE5oelFNT3YwVjBsM3NhbVFwRHhYV1hpZDgtdGh4UEJWREJMUXphRHdfMXVDQXg1WmRtaEsyaUN1b0tqcGIw?oc=5",
-      "source": "Guardian Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-08-27T01:30:00+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "The Guardian"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "The Guardian"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Guardian Vaccines / Immunization"
-      ]
-    },
-    {
       "id": "6dc6ef21092ad4f9",
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -1892,6 +2233,71 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "Journal of Infectious Diseases"
+      ]
+    },
+    {
+      "id": "9bf84103590b5ed3",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary": "帯状疱疹ワクチンは心臓発作や脳卒中のリスク低下に関連していると研究で判明 ガーディアン紙",
+      "summary_ai": "帯状疱疹ワクチンは心臓発作や脳卒中のリスク低下に関連していると研究で判明 ガーディアン紙",
+      "title_original": "Shingles vaccine linked to lower risk of heart attack and stroke, study finds - The Guardian",
+      "summary_original": "Shingles vaccine linked to lower risk of heart attack and stroke, study finds The Guardian",
+      "summary_ai_original": "Shingles vaccine linked to lower risk of heart attack and stroke, study finds The Guardian",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaGlCcHg1S3hsZkFlZzl0Qy1pWXFjaDVXd1dpYW9ZeUxyR0NUWW4wdkdrbkhMT1pPNlRxYmJscmpDUXZSSU9xTWdfaEE1Mmk4c0NnckJ0eFUtNEQ4Z0tkNmFNb1BPZE5oelFNT3YwVjBsM3NhbVFwRHhYV1hpZDgtdGh4UEJWREJMUXphRHdfMXVDQXg1WmRtaEsyaUN1b0tqcGIw?oc=5",
+      "source": "Guardian Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-08-26T07:00:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "The Guardian"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "The Guardian"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Guardian Vaccines / Immunization"
       ]
     },
     {
@@ -1962,78 +2368,13 @@
       ]
     },
     {
-      "id": "a2b8475d4ac2ac10",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary_ai": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_original": "CD4+ T cell cytokine responses to the DAR-901 booster vaccine in BCG-primed adults: a randomized, placebo-controlled trial",
-      "summary_original": "CD4+ T cell cytokine responses to the DAR-901 booster vaccine in BCG-primed adults: a randomized, placebo-controlled trial",
-      "summary_ai_original": "CD4+ T cell cytokine responses to the DAR-901 booster vaccine in BCG-primed adults: a randomized, placebo-controlled trial",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxQbUotenQzd0t1cXk3cEJtellTb1U4LXdTWE1qd1ByeUs4Y0N4OTJPaEVYU3M1Zy1ZSTNKdVBlbzRYNlNGUkRqSndFbU9UTmpiSzd3M21mSDh3MWxOVHowZzh0empRT0ZZUFdSX1p3UU1sWXg1LTNaOWVmeks5RW5yYkM5enlMTDBPaHdjcVo3YkZkcXkxdDZFU0pMV0N6RjNtdk10aU1hVkV0bk5kTHhnd0dkZWxUemh1dWRGSGx0Rnc4cE5iLXp6QkxOUTdWTm9XNkNEYkdMMTYySnZhMlFhX0JKWjdmSXdZdHFEY0RKNWNIQW5Sc2RCbUtZcGE5eFV0QnZ2TE1CY2szM2tHSE5RaXI3OXBfZVlPelRyajNBWTFGX005eTBJb2NmMjFua1BJdmtiQVUyS2djLXR0TUJrRVd6eVZ6NVJVYXd4Q2FaOXNwdUo1U2ZGdjZYSlMwb2IwQW5pWG9mTkJEb0NJOVdFa3ZYUV9NOVROckhNS3pjcXZ4SzZvWk4tZ05fNndwYm1TRnJzQldnSmpSUGpEV1hTVG9Ud0hCX3ZSRTBDTVR0bWd5Y3lab2ZyZ0w5aTU2amVjMXktVXVQVmsxZHpHX29MMTI1MlppdUVnUlFta3hiek1TdWJwcU1UYmxXTQ?oc=5",
-      "source": "Cochrane vaccines",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 7,
-      "published_at": "2026-08-25T17:34:41+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "Cochrane Library"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "Cochrane Library"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Cochrane vaccines"
-      ]
-    },
-    {
-      "id": "88940e45527ea34c",
-      "title": "「死亡率に対するファイザー対モデルナの新型コロナウイルス感染症ワクチンの有効性: インディアナ州における関連死亡率と予防接種記録からの証拠」の補足資料 - SSRN eLibrary",
-      "summary": "「ファイザー対モデルナの新型コロナウイルスワクチンの死亡率に対する有効性: インディアナ州における死亡率と予防接種記録の関連性からの証拠」SSRN eLibrary の補足資料",
-      "summary_ai": "「ファイザー対モデルナの新型コロナウイルスワクチンの死亡率に対する有効性: インディアナ州における死亡率と予防接種記録の関連性からの証拠」SSRN eLibrary の補足資料",
-      "title_original": "Supplementary Material for \"Pfizer versus Moderna COVID-19 Vaccine Effectiveness against Mortality: Evidence from Linked Mortality and Vaccination Records in Indiana\" - SSRN eLibrary",
-      "summary_original": "Supplementary Material for \"Pfizer versus Moderna COVID-19 Vaccine Effectiveness against Mortality: Evidence from Linked Mortality and Vaccination Records in Indiana\" SSRN eLibrary",
-      "summary_ai_original": "Supplementary Material for \"Pfizer versus Moderna COVID-19 Vaccine Effectiveness against Mortality: Evidence from Linked Mortality and Vaccination Records in Indiana\" SSRN eLibrary",
+      "id": "8659eb90fd84cbeb",
+      "title": "「死亡率に対するファイザー対モデルナの新型コロナウイルス感染症ワクチンの有効性：インディアナ州における関連死亡率と予防接種記録からの証拠」の補足資料 -papers.ssrn.com",
+      "summary": "「死亡率に対するファイザー対モデルナの新型コロナウイルス感染症ワクチンの有効性: インディアナ州における関連死亡率と予防接種記録からの証拠」の補足資料papers.ssrn.com",
+      "summary_ai": "「死亡率に対するファイザー対モデルナの新型コロナウイルス感染症ワクチンの有効性: インディアナ州における関連死亡率と予防接種記録からの証拠」の補足資料papers.ssrn.com",
+      "title_original": "Supplementary Material for \"Pfizer versus Moderna COVID-19 Vaccine Effectiveness against Mortality: Evidence from Linked Mortality and Vaccination Records in Indiana\" - papers.ssrn.com",
+      "summary_original": "Supplementary Material for \"Pfizer versus Moderna COVID-19 Vaccine Effectiveness against Mortality: Evidence from Linked Mortality and Vaccination Records in Indiana\" papers.ssrn.com",
+      "summary_ai_original": "Supplementary Material for \"Pfizer versus Moderna COVID-19 Vaccine Effectiveness against Mortality: Evidence from Linked Mortality and Vaccination Records in Indiana\" papers.ssrn.com",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0cDB5MC1ON1hMYldBWExEYTcwUjZfMmxfTllVSFJPakdVTk1oSGRjWkFReEpkR05oM1N0dExDTFhTMlNTNWs1bEswSExNODlJT2I3WURUOEFycEQ0NWJRc2FSVEsyV0NPcTlj?oc=5",
       "source": "SSRN vaccine preprints",
@@ -2091,6 +2432,140 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "SSRN vaccine preprints"
+      ]
+    },
+    {
+      "id": "4a51d62b06789351",
+      "title": "小児、青少年、若年成人の HPV 予防接種接種を改善する介入の有効性: 臨床試験の体系的レビューとネットワーク メタ分析 -papers.ssrn.com",
+      "summary": "小児、青少年、若年成人の HPV 予防接種接種を改善する介入の有効性: 臨床試験の体系的レビューとネットワーク メタ分析papers.ssrn.com",
+      "summary_ai": "小児、青少年、若年成人の HPV 予防接種接種を改善する介入の有効性: 臨床試験の体系的レビューとネットワーク メタ分析papers.ssrn.com",
+      "title_original": "Effectiveness of Interventions to Improve HPV Vaccination Uptake among Children, Adolescents, and Young Adults: A Systematic Review and Network Meta-Analysis of Clinical Trials - papers.ssrn.com",
+      "summary_original": "Effectiveness of Interventions to Improve HPV Vaccination Uptake among Children, Adolescents, and Young Adults: A Systematic Review and Network Meta-Analysis of Clinical Trials papers.ssrn.com",
+      "summary_ai_original": "Effectiveness of Interventions to Improve HPV Vaccination Uptake among Children, Adolescents, and Young Adults: A Systematic Review and Network Meta-Analysis of Clinical Trials papers.ssrn.com",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4zRkp2V3plaFZFZ3JIcmpmc2haQnhjUmFmSXFJMVRLZG52cHlXNjZibHoxU2RWRTk0WU56NWFGY040QjEzQTEyZXhFZjJjOGYyeWEyN3UtYlBwbi1qSmJJOTJwN2xWR0hEVU9j?oc=5",
+      "source": "SSRN vaccine preprints",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 6,
+      "published_at": "2026-08-25T07:00:00+00:00",
+      "topics": [
+        "communication",
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "SSRN"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "SSRN"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "SSRN vaccine preprints"
+      ]
+    },
+    {
+      "id": "df7d1fbfdbaed6d0",
+      "title": "ガンビアにおける新型コロナウイルス感染症ワクチンの緊急配布に妊婦はどのように参加したのか?医療従事者と政策影響力者の視点に関する定性的研究 - BMJ Open",
+      "summary": "ガンビアにおける新型コロナウイルス感染症ワクチンの緊急配布に妊婦はどのように参加したのか?医療従事者と政策影響力者の視点に関する定性的研究 BMJ Open",
+      "summary_ai": "ガンビアにおける新型コロナウイルス感染症ワクチンの緊急配布に妊婦はどのように参加したのか?医療従事者と政策影響力者の視点に関する定性的研究 BMJ Open",
+      "title_original": "How were pregnant women included in emergency COVID- 19 vaccine delivery in The Gambia? A qualitative study of perspectives of healthcare workers and policy influencers - BMJ Open",
+      "summary_original": "How were pregnant women included in emergency COVID- 19 vaccine delivery in The Gambia? A qualitative study of perspectives of healthcare workers and policy influencers BMJ Open",
+      "summary_ai_original": "How were pregnant women included in emergency COVID- 19 vaccine delivery in The Gambia? A qualitative study of perspectives of healthcare workers and policy influencers BMJ Open",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MNmlXUDYxSXhRbDBtektzaVRSVmpQZDluZkdrSXh3SlZQYlJfWWY4bHJhMEpTRFgtQjNVYm5qNHdMUG90eVJqLXZRM3lHbDJlWDY1b01iQ196NkJ2ZjZSalhBR0p3enJLUE9jX2FB?oc=5",
+      "source": "BMJ",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-08-22T16:20:23+00:00",
+      "topics": [
+        "policy",
+        "research"
+      ],
+      "policy_tags": [
+        "outbreak_response"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BMJ / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BMJ / London"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "BMJ"
       ]
     },
     {
@@ -2158,206 +2633,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "Reuters Vaccines / Immunization"
-      ]
-    },
-    {
-      "id": "67583840f5e2a03e",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary_ai": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_original": "The VAccine cLinical study reporting gUidEline: the VALUE checklist with explanation and elaboration",
-      "summary_original": "The VAccine cLinical study reporting gUidEline: the VALUE checklist with explanation and elaboration",
-      "summary_ai_original": "The VAccine cLinical study reporting gUidEline: the VALUE checklist with explanation and elaboration",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMllMd2RzOHhqV1hlbUxhclZFUWtGWHRUc1VfbUJmaE1KUnNjVk54ekY2SXlyeVFsa2RaVnM4TXpnSW1ENmIybkFQMFU1Q1R6Rkx2aWV2cDJ3R2NHUktqQlVOWkt5cWl0b3hzVFlhdmZial9qRVlNa0xrYkF5c2pJVDFnVUlOSXFkY3c?oc=5",
-      "source": "EBioMedicine vaccines",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 7,
-      "published_at": "2026-08-20T19:35:54+00:00",
-      "topics": [
-        "policy",
-        "research"
-      ],
-      "policy_tags": [
-        "recommendation"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "EBioMedicine"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "EBioMedicine"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "EBioMedicine vaccines"
-      ]
-    },
-    {
-      "id": "5a0e60c514355a89",
-      "title": "ワクチンの画期的な進歩により、治験でがんの再発が阻止される - BBC",
-      "summary": "ワクチンの進歩により癌の再発が阻止されると治験 BBC",
-      "summary_ai": "ワクチンの進歩により癌の再発が阻止されると治験 BBC",
-      "title_original": "Vaccine breakthrough stops cancer returning in trial - BBC",
-      "summary_original": "Vaccine breakthrough stops cancer returning in trial BBC",
-      "summary_ai_original": "Vaccine breakthrough stops cancer returning in trial BBC",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZUS1xZmFHZEItY0NqNW5tTUNtbnc4cDU2N05tUUhNWU1CQ2thOENyczJWVXFOSFVraGlYbzJsbUFoUHl3ajlqT01ZdkF5YTg1SEhTX1pfejJRQQ?oc=5",
-      "source": "BBC Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-08-20T07:00:00+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BBC"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BBC"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "BBC Vaccines / Immunization"
-      ]
-    },
-    {
-      "id": "48cd059718520fab",
-      "title": "ケニアの乳児を対象としたフレクスネリ菌 2a に対する合成炭水化物複合体ワクチン SF2a-TT15 の安全性と免疫原性：第 2a 相、年齢降下、用量漸増、二重盲検、ランダム化、プラセボ対照試験",
-      "summary": "ケニアの乳児を対象としたフレクスネリ菌 2a に対する合成炭水化物複合体ワクチン SF2a-TT15 の安全性と免疫原性：第 2a 相、年齢降下、用量漸増、二重盲検、ランダム化、プラセボ対照試験",
-      "summary_ai": "ケニアの乳児を対象としたフレクスネリ菌 2a に対する合成炭水化物複合体ワクチン SF2a-TT15 の安全性と免疫原性：第 2a 相、年齢降下、用量漸増、二重盲検、ランダム化、プラセボ対照試験",
-      "title_original": "Safety and immunogenicity of the synthetic carbohydrate conjugate vaccine, SF2a-TT15, against Shigella flexneri 2a in infants in Kenya: a phase 2a, age-descending, dose-escalating, double-blind, randomised, placebo-controlled study",
-      "summary_original": "Safety and immunogenicity of the synthetic carbohydrate conjugate vaccine, SF2a-TT15, against Shigella flexneri 2a in infants in Kenya: a phase 2a, age-descending, dose-escalating, double-blind, randomised, placebo-controlled study",
-      "summary_ai_original": "Safety and immunogenicity of the synthetic carbohydrate conjugate vaccine, SF2a-TT15, against Shigella flexneri 2a in infants in Kenya: a phase 2a, age-descending, dose-escalating, double-blind, randomised, placebo-controlled study",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUFhsNlRXQ2FPYjZjbnZacGN5UGI0ZUJSeUt4TW03Vlp6NGVwRVJZeDJtYjJHUEV3UDVremFvYklJZ3ZyRHJKUDZYTHJwS1Q5cFJ0ZHNkelRHSGtIUWdwM3ZxclFOcjVGY2JkaGVyWVZfdW9BV3ZNcXM2SFNDamlQSnhUSjh1THdfVHFr?oc=5",
-      "source": "Lancet Infectious Diseases",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-08-20T01:02:56+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [
-        "safety"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "ケニア",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "Lancet Infectious Diseases / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "Lancet Infectious Diseases / London"
-        },
-        "target": {
-          "key": "kenya",
-          "name_ja": "ケニア",
-          "lat": -1.2921,
-          "lng": 36.8219,
-          "region": "Africa",
-          "label": "ケニア"
-        }
-      },
-      "location": {
-        "key": "kenya",
-        "name_ja": "ケニア",
-        "lat": -1.2921,
-        "lng": 36.8219,
-        "region": "Africa",
-        "label": "ケニア"
-      },
-      "region": "Africa",
-      "country": "ケニア",
-      "lat": -1.2921,
-      "lng": 36.8219,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Lancet Infectious Diseases"
       ]
     }
   ]
