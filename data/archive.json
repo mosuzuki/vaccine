@@ -1,7 +1,7 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-09-03T23:14:03.064923+00:00",
+  "generated_at": "2026-09-04T23:00:37.512760+00:00",
   "archive_count": 497,
   "days_back": 14,
   "items": [
@@ -68,7 +68,7 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "duplicate_sources": [
         "CIDRAP Vaccines & Immunization"
       ],
@@ -142,7 +142,7 @@
         "Clinical Infectious Diseases"
       ],
       "first_seen_at": "2026-09-03T21:04:08+00:00",
-      "last_seen_at": "2026-09-03T23:16:23.775950+00:00"
+      "last_seen_at": "2026-09-04T23:02:24.176280+00:00"
     },
     {
       "id": "de100ba20caab8ee",
@@ -206,7 +206,7 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "duplicate_sources": [
         "Clinical Infectious Diseases"
       ],
@@ -280,7 +280,78 @@
         "PAHO News"
       ],
       "first_seen_at": "2026-09-03T18:37:22+00:00",
-      "last_seen_at": "2026-09-03T23:16:23.775956+00:00"
+      "last_seen_at": "2026-09-04T23:02:24.176290+00:00"
+    },
+    {
+      "id": "558aa72821ab3b00",
+      "title": "ワクチンおよび関連生物由来製品諮問委員会の名簿",
+      "summary": "これはワクチンおよび関連生物由来製品諮問委員会の名簿です。",
+      "summary_ai": "空席専門知識: グローバルヘルス、遺伝学 任期: 2022/02/01 – 2030/01/30 臨床・医療研究政策部門ディレクター 所長室科学政策室 国立衛生研究所ベセスダ、メリーランド州 専門分野: 小児科、感染症 任期: 2025/02/01 - 2029/01/31 学科教授",
+      "title_original": "Roster of the Vaccines and Related Biological Products Advisory Committee",
+      "summary_original": "This is the Roster of the Vaccines and Related Biological Products Advisory Committee",
+      "summary_ai_original": "Vacant Expertise: Global Health, Genetics Term: 02/01/2022 – 01/30/2030 Director, Division of Clinical and Healthcare Research Policy Office of Science Policy, Office of the Director National Institutes of Health Bethesda, MD Expertise: Pediatrics, Infectious Diseases Term: 02/01/2025 - 01/31/2029 Professor, Department",
+      "article_text_original": "As part of the Food and Drug Administration's (FDA's) ongoing efforts to recruit qualified experts with minimal conflicts of interest who are interested in serving on FDA advisory committees, FDA is requesting nominations for members to serve on its advisory committees. Current Number of Vacancies: 9 Note, one or more vacancies may be in the nomination process or a final appointment may have been made. The names listed below are advisory committee members who have active appointments required to participate in committee meetings, including an unexpired appointment as a Special Government Employee where applicable. Vacant Expertise: Global Health, Genetics Term: 02/01/2022 – 01/30/2030 Director, Division of Clinical and Healthcare Research Policy Office of Science Policy, Office of the Director National Institutes of Health Bethesda, MD Expertise: Pediatrics, Infectious Diseases Term: 02/01/2025 - 01/31/2029 Professor, Department of International Health Director, Center for Immunization Research Johns Hopkins Bloomberg School of Public Health Baltimore, MD 21205 Expertise: Pediatrics, Infectious Diseases Term: 06/21/2019 - 01/31/2027 Clinical Professor Pediatrics - Infectious Diseases Stanford Medicine Children’s Health Stanford, CA 94305 Expertise: Industry Representative (Alternate) Scientific Assoc. Vice President, Global Regulatory Affairs and Clinical Safety, MRL, Vaccines and Infectious Diseases Merck & Co., Inc. North Wales, PA 19454 Expertise: Pediatrics, Vaccines Term: 02/01/2024 - 01/31/2028 Medical Officer Immunization Services Division National Center for Emerging and Zoonotic Infectious Diseases Centers for Disease Control and Prevention Atlanta, GA 30329 Expertise: Pediatrics, Infectious Diseases Term: 02/01/2025 - 01/31/2029 Associate Professor of Pediatrics, Infectious Diseases Molecular Virology and Microbiology Texas Children’s Hospital Baylor College of Medicine Houston, TX 77030 Expertise: Allergy & Immunology Term: 07/05/2024 - 1/31/2028 Chief, Asthma, Allergy, and Immunology Division School of Medicine University of Virginia Charlottesville, VA 22903 Expertise: Pediatrics, Infectious Diseases Term: 02/01/2025 - 01/31/2029 Dean and Professor Lyda Hill Deanship of the School of Public Health UT Southwestern Medical Center Dallas, TX 75225 LCDR Cicely C. Reese, PharmD Center for Biologics Evaluation & Research Food and Drug Administration Silver Spring, MD 20993 E-mail: CBERVRBPAC@fda.hhs.gov ** Consumer Representative *** Industry Representative ~ Alternate Industry Representative",
+      "link": "http://www.fda.gov/advisory-committees/vaccines-and-related-biological-products-advisory-committee/roster-vaccines-and-related-biological-products-advisory-committee",
+      "source": "FDA Vaccines / Biologics",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 9,
+      "published_at": "2026-09-03T16:15:06+00:00",
+      "topics": [
+        "policy",
+        "research"
+      ],
+      "policy_tags": [
+        "recommendation",
+        "safety"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "FDA / Silver Spring"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "FDA / Silver Spring"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "FDA Vaccines / Biologics"
+      ],
+      "first_seen_at": "2026-05-19T17:58:05+00:00",
+      "last_seen_at": "2026-09-04T23:02:24.176297+00:00"
     },
     {
       "id": "708329f406f5e8cf",
@@ -349,7 +420,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-09-03T14:37:53+00:00",
-      "last_seen_at": "2026-09-03T23:16:23.775958+00:00"
+      "last_seen_at": "2026-09-04T23:02:24.176302+00:00"
     },
     {
       "id": "c1547c8b515abd0e",
@@ -421,7 +492,7 @@
         "FDA Vaccines / Biologics"
       ],
       "first_seen_at": "2026-03-13T18:33:14+00:00",
-      "last_seen_at": "2026-09-03T23:16:23.775967+00:00"
+      "last_seen_at": "2026-09-04T23:02:24.176310+00:00"
     },
     {
       "id": "7bb8c545d6ed9ecf",
@@ -559,7 +630,7 @@
         "AP Vaccines / Immunization"
       ],
       "first_seen_at": "2026-09-02T18:04:00+00:00",
-      "last_seen_at": "2026-09-03T23:16:23.775979+00:00"
+      "last_seen_at": "2026-09-04T23:02:24.176317+00:00"
     },
     {
       "id": "78e7a3ebb5d2db4c",
@@ -631,7 +702,7 @@
         "FDA Vaccines / Biologics"
       ],
       "first_seen_at": "2026-09-02T21:15:20+00:00",
-      "last_seen_at": "2026-09-03T23:16:23.775986+00:00"
+      "last_seen_at": "2026-09-04T23:02:24.176323+00:00"
     },
     {
       "id": "fd50690e76514b5b",
@@ -703,7 +774,7 @@
         "FDA Vaccines / Biologics"
       ],
       "first_seen_at": "2026-09-02T21:00:07+00:00",
-      "last_seen_at": "2026-09-03T23:16:23.775995+00:00"
+      "last_seen_at": "2026-09-04T23:02:24.176328+00:00"
     },
     {
       "id": "eaa787730d06cf59",
@@ -772,7 +843,7 @@
         "STAT Vaccines / Immunization"
       ],
       "first_seen_at": "2026-09-02T20:57:16+00:00",
-      "last_seen_at": "2026-09-03T23:16:23.776006+00:00"
+      "last_seen_at": "2026-09-04T23:02:24.176333+00:00"
     },
     {
       "id": "138d9198f5481634",
@@ -841,7 +912,7 @@
         "JAMA vaccines"
       ],
       "first_seen_at": "2026-09-02T16:34:32+00:00",
-      "last_seen_at": "2026-09-03T23:16:23.776010+00:00"
+      "last_seen_at": "2026-09-04T23:02:24.176337+00:00"
     },
     {
       "id": "2f089b6802981d0e",
@@ -912,7 +983,7 @@
         "JAMA vaccines"
       ],
       "first_seen_at": "2026-09-02T14:56:33+00:00",
-      "last_seen_at": "2026-09-03T23:16:23.776015+00:00"
+      "last_seen_at": "2026-09-04T23:02:24.176342+00:00"
     },
     {
       "id": "f06cd9d1868f0398",
@@ -983,7 +1054,7 @@
         "Pediatrics journal"
       ],
       "first_seen_at": "2026-09-02T12:08:08+00:00",
-      "last_seen_at": "2026-09-03T23:16:23.776019+00:00"
+      "last_seen_at": "2026-09-04T23:02:24.176346+00:00"
     },
     {
       "id": "039bddc186d8c62d",
@@ -999,7 +1070,7 @@
       "source_type": "media",
       "source_tier": "Tier 2",
       "source_priority": 7,
-      "published_at": "2026-09-01T14:48:27+00:00",
+      "published_at": "2026-09-01T15:19:27+00:00",
       "topics": [
         "research"
       ],
@@ -1052,7 +1123,7 @@
         "Reuters Vaccines / Immunization"
       ],
       "first_seen_at": "2026-09-01T06:15:00+00:00",
-      "last_seen_at": "2026-09-03T23:16:23.776023+00:00"
+      "last_seen_at": "2026-09-04T23:02:24.176351+00:00"
     },
     {
       "id": "776fafeaef8d8a9f",
@@ -1123,7 +1194,7 @@
         "MHRA"
       ],
       "first_seen_at": "2026-09-01T13:05:58+00:00",
-      "last_seen_at": "2026-09-03T23:16:23.776027+00:00"
+      "last_seen_at": "2026-09-04T23:02:24.176356+00:00"
     },
     {
       "id": "0d8e2f18ccef2b93",
@@ -1187,7 +1258,7 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "duplicate_sources": [
         "JAMA Internal Medicine vaccines"
       ],
@@ -1208,7 +1279,7 @@
       "source_type": "media",
       "source_tier": "Tier 2",
       "source_priority": 5,
-      "published_at": "2026-08-31T22:40:06+00:00",
+      "published_at": "2026-08-31T22:30:00+00:00",
       "topics": [
         "policy"
       ],
@@ -1257,12 +1328,12 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicate_sources": [
         "Science Vaccines / Immunization"
       ],
       "first_seen_at": "2026-08-31T22:40:06+00:00",
-      "last_seen_at": "2026-09-02T23:18:13.914166+00:00"
+      "last_seen_at": "2026-09-04T23:02:24.176364+00:00"
     },
     {
       "id": "c56b911dcdff60cf",
@@ -1331,7 +1402,7 @@
         "Reuters Vaccines / Immunization"
       ],
       "first_seen_at": "2026-08-28T17:12:51+00:00",
-      "last_seen_at": "2026-09-03T23:16:23.776039+00:00"
+      "last_seen_at": "2026-09-04T23:02:24.176368+00:00"
     },
     {
       "id": "af6fa956e8d44221",
@@ -1534,7 +1605,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-08-28T12:30:23+00:00",
-      "last_seen_at": "2026-09-03T23:16:23.776048+00:00"
+      "last_seen_at": "2026-09-04T23:02:24.176373+00:00"
     },
     {
       "id": "9a52aca1d69ff18b",
@@ -1600,12 +1671,12 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicate_sources": [
         "Financial Times Vaccines / Immunization"
       ],
       "first_seen_at": "2026-08-27T20:30:00+00:00",
-      "last_seen_at": "2026-09-02T23:18:13.914185+00:00"
+      "last_seen_at": "2026-09-04T23:02:24.176377+00:00"
     },
     {
       "id": "9604b1233ca35ae8",
@@ -1676,7 +1747,7 @@
         "Open Forum Infectious Diseases"
       ],
       "first_seen_at": "2026-08-27T20:21:04+00:00",
-      "last_seen_at": "2026-09-03T23:16:23.776054+00:00"
+      "last_seen_at": "2026-09-04T23:02:24.176383+00:00"
     },
     {
       "id": "4cd2f7f6c5bc5bee",
@@ -1808,7 +1879,7 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "duplicate_sources": [
         "Cochrane vaccines"
       ],
@@ -1950,7 +2021,7 @@
         "Journal of Infectious Diseases"
       ],
       "first_seen_at": "2026-08-26T16:07:30+00:00",
-      "last_seen_at": "2026-09-03T23:16:23.776071+00:00"
+      "last_seen_at": "2026-09-04T23:02:24.176390+00:00"
     },
     {
       "id": "8664f2c94108584e",
@@ -2084,7 +2155,7 @@
         "Guardian Vaccines / Immunization"
       ],
       "first_seen_at": "2026-08-26T18:42:00+00:00",
-      "last_seen_at": "2026-09-03T23:16:23.776075+00:00"
+      "last_seen_at": "2026-09-04T23:02:24.176395+00:00"
     },
     {
       "id": "9f6255a9e89811d2",
@@ -2422,12 +2493,12 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicate_sources": [
         "SSRN vaccine preprints"
       ],
       "first_seen_at": "2026-08-25T07:00:00+00:00",
-      "last_seen_at": "2026-09-02T23:18:13.914219+00:00"
+      "last_seen_at": "2026-09-04T23:02:24.176400+00:00"
     },
     {
       "id": "4a51d62b06789351",
@@ -2490,7 +2561,7 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "duplicate_sources": [
         "SSRN vaccine preprints"
       ],
@@ -2702,7 +2773,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-08-22T16:20:23+00:00",
-      "last_seen_at": "2026-09-03T23:16:23.776085+00:00"
+      "last_seen_at": "2026-09-04T23:02:24.176408+00:00"
     },
     {
       "id": "af5c1321f3e7e6ea",
@@ -20310,77 +20381,6 @@
       ],
       "first_seen_at": "2026-05-20T14:48:04+00:00",
       "last_seen_at": "2026-05-31T22:12:03.474828+00:00"
-    },
-    {
-      "id": "558aa72821ab3b00",
-      "title": "ワクチンおよび関連生物由来製品諮問委員会の名簿",
-      "summary": "これはワクチンおよび関連生物由来製品諮問委員会の名簿です。",
-      "summary_ai": "空席専門知識: グローバルヘルス、遺伝学 任期: 2022/02/01 – 2030/01/30 臨床・医療研究政策部門ディレクター 所長室科学政策室 国立衛生研究所ベセスダ、メリーランド州 専門分野: 小児科、感染症 任期: 2025/02/01 - 2029/01/31 学科教授",
-      "title_original": "Roster of the Vaccines and Related Biological Products Advisory Committee",
-      "summary_original": "This is the Roster of the Vaccines and Related Biological Products Advisory Committee",
-      "summary_ai_original": "Vacant Expertise: Global Health, Genetics Term: 02/01/2022 – 01/30/2030 Director, Division of Clinical and Healthcare Research Policy Office of Science Policy, Office of the Director National Institutes of Health Bethesda, MD Expertise: Pediatrics, Infectious Diseases Term: 02/01/2025 - 01/31/2029 Professor, Department",
-      "article_text_original": "As part of the Food and Drug Administration's (FDA's) ongoing efforts to recruit qualified experts with minimal conflicts of interest who are interested in serving on FDA advisory committees, FDA is requesting nominations for members to serve on its advisory committees. Current Number of Vacancies: 9 Note, one or more vacancies may be in the nomination process or a final appointment may have been made. The names listed below are advisory committee members who have active appointments required to participate in committee meetings, including an unexpired appointment as a Special Government Employee where applicable. Vacant Expertise: Global Health, Genetics Term: 02/01/2022 – 01/30/2030 Director, Division of Clinical and Healthcare Research Policy Office of Science Policy, Office of the Director National Institutes of Health Bethesda, MD Expertise: Pediatrics, Infectious Diseases Term: 02/01/2025 - 01/31/2029 Professor, Department of International Health Director, Center for Immunization Research Johns Hopkins Bloomberg School of Public Health Baltimore, MD 21205 Expertise: Pediatrics, Infectious Diseases Term: 06/21/2019 - 01/31/2027 Clinical Professor Pediatrics - Infectious Diseases Stanford Medicine Children’s Health Stanford, CA 94305 Expertise: Industry Representative (Alternate) Scientific Assoc. Vice President, Global Regulatory Affairs and Clinical Safety, MRL, Vaccines and Infectious Diseases Merck & Co., Inc. North Wales, PA 19454 Expertise: Pediatrics, Vaccines Term: 02/01/2024 - 01/31/2028 Medical Officer Immunization Services Division National Center for Emerging and Zoonotic Infectious Diseases Centers for Disease Control and Prevention Atlanta, GA 30329 Expertise: Pediatrics, Infectious Diseases Term: 02/01/2025 - 01/31/2029 Associate Professor of Pediatrics, Infectious Diseases Molecular Virology and Microbiology Texas Children’s Hospital Baylor College of Medicine Houston, TX 77030 Expertise: Allergy & Immunology Term: 07/05/2024 - 1/31/2028 Chief, Asthma, Allergy, and Immunology Division School of Medicine University of Virginia Charlottesville, VA 22903 Expertise: Pediatrics, Infectious Diseases Term: 02/01/2025 - 01/31/2029 Dean and Professor Lyda Hill Deanship of the School of Public Health UT Southwestern Medical Center Dallas, TX 75225 LCDR Cicely C. Reese, PharmD Center for Biologics Evaluation & Research Food and Drug Administration Silver Spring, MD 20993 E-mail: CBERVRBPAC@fda.hhs.gov ** Consumer Representative *** Industry Representative ~ Alternate Industry Representative",
-      "link": "http://www.fda.gov/advisory-committees/vaccines-and-related-biological-products-advisory-committee/roster-vaccines-and-related-biological-products-advisory-committee",
-      "source": "FDA Vaccines / Biologics",
-      "source_type": "official",
-      "source_tier": "Tier 1",
-      "source_priority": 9,
-      "published_at": "2026-05-19T17:58:05+00:00",
-      "topics": [
-        "policy",
-        "research"
-      ],
-      "policy_tags": [
-        "recommendation",
-        "safety"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "FDA / Silver Spring"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "FDA / Silver Spring"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "FDA Vaccines / Biologics"
-      ],
-      "first_seen_at": "2026-05-19T17:58:05+00:00",
-      "last_seen_at": "2026-05-21T22:39:59.472690+00:00"
     },
     {
       "id": "b850a5b733f7cc09",
