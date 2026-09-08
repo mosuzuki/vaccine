@@ -1,41 +1,44 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-09-07T23:27:31.960227+00:00",
-  "archive_count": 502,
+  "generated_at": "2026-09-08T23:20:47.989540+00:00",
+  "archive_count": 505,
   "days_back": 14,
   "items": [
     {
-      "id": "db275d10cd410a95",
-      "title": "タイトル: インフルエンザ入院に対する組換え不活化インフルエンザワクチンと標準用量の不活化インフルエンザワクチンの有効性 - SSRN eLibrary",
-      "summary": "タイトル: SSRN eLibrary におけるインフルエンザ入院に対する組換え型不活化インフルエンザワクチンと標準用量の不活化インフルエンザワクチンの有効性",
-      "summary_ai": "タイトル: SSRN eLibrary におけるインフルエンザ入院に対する組換え型不活化インフルエンザワクチンと標準用量の不活化インフルエンザワクチンの有効性",
-      "title_original": "Title: Effectiveness of recombinant versus standard-dose inactivated influenza vaccines against influenza hospitalization among - SSRN eLibrary",
-      "summary_original": "Title: Effectiveness of recombinant versus standard-dose inactivated influenza vaccines against influenza hospitalization among SSRN eLibrary",
-      "summary_ai_original": "Title: Effectiveness of recombinant versus standard-dose inactivated influenza vaccines against influenza hospitalization among SSRN eLibrary",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQV0xjT01yRllKeVV5NkhKQVZKSGFxMVd6dGo1T3RvN0pDb0o5ZDBuN3FteDhGVE9QUWlfbzJCN3ZVNFBSU2E1NGx3Y0xMbjRocmlsdEV2cDU3V0h5eUpBWDljdnFMYkhzSjY2ZTdDeml0NGtXTGRzMDk1ekstVEhEY1pFVWpNSFpYNEdYUXVkNl9LdUs3aVJkbGNuUWVrUmQzVXl2RHR0cVJNLXRnOS00RDk4MW5TSVdJWks1aTJR?oc=5",
-      "source": "SSRN vaccine preprints",
-      "source_type": "preprint",
-      "source_tier": "Tier 3",
-      "source_priority": 6,
-      "published_at": "2026-09-07T09:22:47+00:00",
+      "id": "b11d1893bba72391",
+      "title": "医療提供者 (生物製剤)",
+      "summary": "生物学的製品に関する医療提供者向けのリソース。",
+      "summary_ai": "治験新薬申請 (IND)は、人間に治験薬または生物学的製品を投与するための食品医薬品局 (FDA)への承認の申請です。このような認可は、新薬または生物学的製剤の州間輸送および投与前に確保する必要があります。",
+      "title_original": "Healthcare Providers (Biologics)",
+      "summary_original": "Resources for Healthcare Providers on biological products.",
+      "summary_ai_original": "An Investigational New Drug Application (IND) is a request for authorization from the Food and Drug Administration (FDA) to administer an investigational drug or biological product to humans. Such authorization must be secured prior to interstate shipment and administration of any new drug or biological product that is",
+      "article_text_original": "Biological products include a wide range of products such as vaccines, blood and blood components, allergenics, somatic cells, gene therapy, tissues, and recombinant therapeutic proteins. The Center for Biologics Evaluation and Research (CBER) is responsible for ensuring the safety and efficacy of the biological products. An Investigational New Drug Application (IND) is a request for authorization from the Food and Drug Administration (FDA) to administer an investigational drug or biological product to humans. Such authorization must be secured prior to interstate shipment and administration of any new drug or biological product that is not the subject of an approved New Drug Application or Biologics/Product License Application. In rare instances a physician may request an Emergency Use IND for a patient. Contact information for Emergency Use IND Requests: - For investigational biological products regulated by CBER, call 240-402-7800 - For all other investigational drugs, call 301-796-3400 or 1-855-543-3784 - After working hours, call FDA's Office of Emergency Operations at 301-796-8240 Paragraph Header Contact Us White Oak Campus 10903 New Hampshire Ave Silver Spring, MD 20993 United States",
+      "link": "http://www.fda.gov/vaccines-blood-biologics/resources-you-biologics/healthcare-providers-biologics",
+      "source": "FDA Vaccines / Biologics",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 9,
+      "published_at": "2026-09-08T16:15:06+00:00",
       "topics": [
+        "policy",
         "research"
       ],
-      "policy_tags": [],
-      "vaccines": [
-        "influenza"
+      "policy_tags": [
+        "approval",
+        "outbreak_response",
+        "safety"
       ],
+      "vaccines": [],
       "variants": [],
-      "target_country": "不明",
+      "target_country": "米国",
       "source_location": {
         "key": "united states",
         "name_ja": "米国",
         "lat": 38.9072,
         "lng": -77.0369,
         "region": "North America",
-        "label": "SSRN"
+        "label": "FDA / Silver Spring"
       },
       "plot": {
         "source": {
@@ -44,7 +47,215 @@
           "lat": 38.9072,
           "lng": -77.0369,
           "region": "North America",
-          "label": "SSRN"
+          "label": "FDA / Silver Spring"
+        },
+        "target": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "米国"
+        }
+      },
+      "location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "米国"
+      },
+      "region": "North America",
+      "country": "米国",
+      "lat": 38.9072,
+      "lng": -77.0369,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "FDA Vaccines / Biologics"
+      ],
+      "first_seen_at": "2026-09-08T16:15:06+00:00",
+      "last_seen_at": "2026-09-08T23:22:53.768822+00:00"
+    },
+    {
+      "id": "c0c68ea110f4772a",
+      "title": "ワクチン",
+      "summary": "CBER はワクチン製品を規制しています。ワクチン情報には、市販が承認されたワクチンのリスト、ワクチンに関する質問、ワクチンの安全性と入手可能性、ワクチン関連のガイダンス文書、通知、規則が含まれます。",
+      "summary_ai": "FDA によって規制されているすべての製品と同様に、ワクチンは、これらの製品の安全性、有効性、純度、効力を保証するために、研究室および臨床データの厳格な審査を受けます。市販が承認されたワクチンは、ワクチンをさらに評価し、多くの場合、特定の問題に対処するために追加の研究を受ける必要がある場合があります。",
+      "title_original": "Vaccines",
+      "summary_original": "CBER regulates vaccine products. Vaccine information includes a listing of vaccines approved for marketing, questions about vaccines, vaccine safety and availability, and vaccine-related guidance documents, notices, and rules.",
+      "summary_ai_original": "Vaccines, as with all products regulated by FDA, undergo a rigorous review of laboratory and clinical data to ensure the safety, efficacy, purity and potency of these products. Vaccines approved for marketing may also be required to undergo additional studies to further evaluate the vaccine and often to address specifi",
+      "article_text_original": "Vaccines, as with all products regulated by FDA, undergo a rigorous review of laboratory and clinical data to ensure the safety, efficacy, purity and potency of these products. Vaccines approved for marketing may also be required to undergo additional studies to further evaluate the vaccine and often to address specific questions about the vaccine's safety, effectiveness or possible side effects. According to the Centers for Disease Control and Prevention, vaccines have reduced preventable infectious diseases to an all-time low and now few people experience the devastating effects of measles, pertussis and other illnesses. The Center for Biologics Evaluation and Research (CBER) regulates vaccine products. Many of these are childhood vaccines that have contributed to a significant reduction of vaccine-preventable diseases. Paragraph Header Contact US White Oak Campus 10903 New Hampshire Ave Silver Spring, MD 20993 United States",
+      "link": "http://www.fda.gov/vaccines-blood-biologics/vaccines",
+      "source": "FDA Vaccines / Biologics",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 9,
+      "published_at": "2026-09-08T14:54:45+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [
+        "approval",
+        "outbreak_response",
+        "safety"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "米国",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "FDA / Silver Spring"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "FDA / Silver Spring"
+        },
+        "target": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "米国"
+        }
+      },
+      "location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "米国"
+      },
+      "region": "North America",
+      "country": "米国",
+      "lat": 38.9072,
+      "lng": -77.0369,
+      "duplicate_count": 2,
+      "duplicate_sources": [
+        "FDA Vaccines / Biologics",
+        "SSRN vaccine preprints"
+      ],
+      "first_seen_at": "2026-09-08T14:54:45+00:00",
+      "last_seen_at": "2026-09-08T23:22:53.768838+00:00"
+    },
+    {
+      "id": "d2b74f00cb2d9561",
+      "title": "製品監視 (CBER)",
+      "summary": "以下は CBER 製品監視項目です",
+      "summary_ai": "以下は CBER 製品監視項目です: 製品監視 - ワクチン有害事象 - 市販後臨床試験 - BIMO/チームバイオロジクス/インターネット監視/その他 段落ヘッダー お問い合わせ先 White Oak Campus 10903 New Hampshire Ave Silver Spring, MD 20993 United States",
+      "title_original": "Product Surveillance (CBER)",
+      "summary_original": "The following are CBER Product Surveillance Items",
+      "summary_ai_original": "The following are CBER Product Surveillance Items: Product Surveillance - Vaccine Adverse Events - Postmarketing Clinical Trials - BIMO/Team Biologics/Internet Surveillance/Other Paragraph Header Contact Us White Oak Campus 10903 New Hampshire Ave Silver Spring, MD 20993 United States",
+      "article_text_original": "The following are CBER Product Surveillance Items: Product Surveillance - Vaccine Adverse Events - Postmarketing Clinical Trials - BIMO/Team Biologics/Internet Surveillance/Other Paragraph Header Contact Us White Oak Campus 10903 New Hampshire Ave Silver Spring, MD 20993 United States",
+      "link": "http://www.fda.gov/vaccines-blood-biologics/compliance-actions-biologics/product-surveillance-cber",
+      "source": "FDA Vaccines / Biologics",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 9,
+      "published_at": "2026-09-08T14:46:37+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [
+        "safety"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "米国",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "FDA / Silver Spring"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "FDA / Silver Spring"
+        },
+        "target": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "米国"
+        }
+      },
+      "location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "米国"
+      },
+      "region": "North America",
+      "country": "米国",
+      "lat": 38.9072,
+      "lng": -77.0369,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "FDA Vaccines / Biologics"
+      ],
+      "first_seen_at": "2026-09-08T14:46:37+00:00",
+      "last_seen_at": "2026-09-08T23:22:53.768841+00:00"
+    },
+    {
+      "id": "985eef41a3835544",
+      "title": "10年間にわたるコアラのクラミジアワクチン試験データの再分析により、固有のバイアスと予防効果の欠如が明らかに - bioRxiv",
+      "summary": "10年間にわたるコアラのクラミジアワクチン試験データの再分析により、固有の偏りと予防効果の欠如が明らかに",
+      "summary_ai": "10年間にわたるコアラのクラミジアワクチン試験データの再分析により、固有の偏りと予防効果の欠如が明らかに",
+      "title_original": "Reanalysis of data from ten years of koala chlamydia vaccine trials reveals inherent bias and a lack of protective efficacy - bioRxiv",
+      "summary_original": "Reanalysis of data from ten years of koala chlamydia vaccine trials reveals inherent bias and a lack of protective efficacy bioRxiv",
+      "summary_ai_original": "Reanalysis of data from ten years of koala chlamydia vaccine trials reveals inherent bias and a lack of protective efficacy bioRxiv",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92UGFaX0tKbVpjNnNiMGFSaXV3Sjh5ZTlzRVh2WmFyTDZxZTBXSVlQeVZmRmM4TDBfZ1BMRTFGVnpvRlBBM19ZWjV1bzVHOFMxWnZRTmdaZnBCYXRQX09JeW1vSGk1VzdQaW41MG9RbGxtclZFR0NwZA?oc=5",
+      "source": "bioRxiv vaccines",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-09-08T00:33:18+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "bioRxiv"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "bioRxiv"
         },
         "target": {
           "key": "unknown",
@@ -69,10 +280,10 @@
       "lng": 0.0,
       "duplicate_count": 1,
       "duplicate_sources": [
-        "SSRN vaccine preprints"
+        "bioRxiv vaccines"
       ],
-      "first_seen_at": "2026-09-07T09:22:47+00:00",
-      "last_seen_at": "2026-09-07T23:29:18.194176+00:00"
+      "first_seen_at": "2026-09-08T00:33:18+00:00",
+      "last_seen_at": "2026-09-08T23:22:53.768844+00:00"
     },
     {
       "id": "dafb2fa14cc8cd79",
@@ -136,7 +347,7 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "duplicate_sources": [
         "The Lancet series"
       ],
@@ -278,7 +489,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-09-04T12:12:29+00:00",
-      "last_seen_at": "2026-09-07T23:29:18.194202+00:00"
+      "last_seen_at": "2026-09-08T23:22:53.768861+00:00"
     },
     {
       "id": "cd6659ec3af390e6",
@@ -412,12 +623,12 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicate_sources": [
         "Clinical Infectious Diseases"
       ],
       "first_seen_at": "2026-09-03T21:04:08+00:00",
-      "last_seen_at": "2026-09-06T22:54:18.575779+00:00"
+      "last_seen_at": "2026-09-08T23:22:53.768875+00:00"
     },
     {
       "id": "de100ba20caab8ee",
@@ -555,7 +766,7 @@
         "PAHO News"
       ],
       "first_seen_at": "2026-09-03T18:37:22+00:00",
-      "last_seen_at": "2026-09-07T23:29:18.194211+00:00"
+      "last_seen_at": "2026-09-08T23:22:53.768882+00:00"
     },
     {
       "id": "558aa72821ab3b00",
@@ -765,7 +976,7 @@
         "Reuters Vaccines / Immunization"
       ],
       "first_seen_at": "2026-09-03T08:22:50+00:00",
-      "last_seen_at": "2026-09-07T23:29:18.194229+00:00"
+      "last_seen_at": "2026-09-08T23:22:53.768892+00:00"
     },
     {
       "id": "c175223aa65a4a3f",
@@ -836,7 +1047,7 @@
         "AP Vaccines / Immunization"
       ],
       "first_seen_at": "2026-09-02T18:04:00+00:00",
-      "last_seen_at": "2026-09-07T23:29:18.194233+00:00"
+      "last_seen_at": "2026-09-08T23:22:53.769000+00:00"
     },
     {
       "id": "78e7a3ebb5d2db4c",
@@ -1049,7 +1260,7 @@
         "STAT Vaccines / Immunization"
       ],
       "first_seen_at": "2026-09-02T20:57:16+00:00",
-      "last_seen_at": "2026-09-07T23:29:18.194245+00:00"
+      "last_seen_at": "2026-09-08T23:22:53.769007+00:00"
     },
     {
       "id": "030433c3991482e4",
@@ -1118,7 +1329,7 @@
         "CIDRAP Vaccines & Immunization"
       ],
       "first_seen_at": "2026-09-02T18:57:05+00:00",
-      "last_seen_at": "2026-09-06T22:54:18.575831+00:00"
+      "last_seen_at": "2026-09-08T23:22:53.769011+00:00"
     },
     {
       "id": "138d9198f5481634",
@@ -1187,7 +1398,7 @@
         "JAMA vaccines"
       ],
       "first_seen_at": "2026-09-02T16:34:32+00:00",
-      "last_seen_at": "2026-09-07T23:29:18.194249+00:00"
+      "last_seen_at": "2026-09-08T23:22:53.769017+00:00"
     },
     {
       "id": "2f089b6802981d0e",
@@ -1253,7 +1464,7 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "duplicate_sources": [
         "JAMA vaccines"
       ],
@@ -1391,7 +1602,7 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "duplicate_sources": [
         "EBioMedicine vaccines"
       ],
@@ -1465,7 +1676,7 @@
         "Reuters Vaccines / Immunization"
       ],
       "first_seen_at": "2026-09-01T06:15:00+00:00",
-      "last_seen_at": "2026-09-07T23:29:18.194262+00:00"
+      "last_seen_at": "2026-09-08T23:22:53.769027+00:00"
     },
     {
       "id": "776fafeaef8d8a9f",
@@ -1536,7 +1747,7 @@
         "MHRA"
       ],
       "first_seen_at": "2026-09-01T13:05:58+00:00",
-      "last_seen_at": "2026-09-07T23:29:18.194265+00:00"
+      "last_seen_at": "2026-09-08T23:22:53.769033+00:00"
     },
     {
       "id": "0d8e2f18ccef2b93",
@@ -1621,7 +1832,7 @@
       "source_type": "media",
       "source_tier": "Tier 2",
       "source_priority": 5,
-      "published_at": "2026-08-31T22:30:00+00:00",
+      "published_at": "2026-08-31T07:00:00+00:00",
       "topics": [
         "policy"
       ],
@@ -1675,7 +1886,7 @@
         "Science Vaccines / Immunization"
       ],
       "first_seen_at": "2026-08-31T22:40:06+00:00",
-      "last_seen_at": "2026-09-07T23:29:18.194271+00:00"
+      "last_seen_at": "2026-09-08T23:22:53.769051+00:00"
     },
     {
       "id": "c56b911dcdff60cf",
@@ -1744,7 +1955,7 @@
         "Reuters Vaccines / Immunization"
       ],
       "first_seen_at": "2026-08-28T17:12:51+00:00",
-      "last_seen_at": "2026-09-07T23:29:18.194274+00:00"
+      "last_seen_at": "2026-09-08T23:22:53.769043+00:00"
     },
     {
       "id": "af6fa956e8d44221",
@@ -2018,7 +2229,7 @@
         "Financial Times Vaccines / Immunization"
       ],
       "first_seen_at": "2026-08-27T20:30:00+00:00",
-      "last_seen_at": "2026-09-07T23:29:18.194278+00:00"
+      "last_seen_at": "2026-09-08T23:22:53.769058+00:00"
     },
     {
       "id": "9604b1233ca35ae8",
@@ -2358,7 +2569,7 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicate_sources": [
         "Journal of Infectious Diseases"
       ],
@@ -2903,7 +3114,7 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicate_sources": [
         "SSRN vaccine preprints"
       ],
