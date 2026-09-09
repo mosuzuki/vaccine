@@ -1,9 +1,9 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-09-08T23:20:47.989540+00:00",
-  "item_count": 25,
-  "archive_count": 505,
+  "generated_at": "2026-09-09T23:10:01.104283+00:00",
+  "item_count": 22,
+  "archive_count": 480,
   "days_back": 14,
   "plot_mode_default": "source",
   "feed_status": [
@@ -23,7 +23,7 @@
       "name": "CDC Newsroom",
       "url": "https://tools.cdc.gov/api/v2/resources/media/316422.rss",
       "status": "ok",
-      "seen": 13,
+      "seen": 11,
       "kept": 0
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/biologics/rss.xml",
       "status": "ok",
       "seen": 20,
-      "kept": 3
+      "kept": 2
     },
     {
       "name": "EMA News",
@@ -57,7 +57,7 @@
       "url": "https://www.gov.uk/government/organisations/medicines-and-healthcare-products-regulatory-agency.atom",
       "status": "ok",
       "seen": 20,
-      "kept": 1
+      "kept": 0
     },
     {
       "name": "Health Canada Recalls and Safety Alerts",
@@ -110,8 +110,8 @@
       "name": "BMJ",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abmj.com%20(policy%20OR%20trial%20OR%20effectiveness%20OR%20communication)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 1,
-      "kept": 1
+      "seen": 3,
+      "kept": 2
     },
     {
       "name": "Vaccine journal",
@@ -131,14 +131,14 @@
       "name": "Nature Medicine vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fnm%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20uptake%20OR%20policy)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
       "name": "Nature Communications vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fncomms%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20surveillance)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 5,
+      "seen": 4,
       "kept": 0
     },
     {
@@ -166,7 +166,7 @@
       "name": "Science vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ascience.org%2Fdoi%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20antibody)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 0,
       "kept": 0
     },
     {
@@ -222,7 +222,7 @@
       "name": "Human Vaccines & Immunotherapeutics",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Atandfonline.com%20%22Human%20Vaccines%20%26%20Immunotherapeutics%22&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
@@ -243,14 +243,14 @@
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 19,
-      "kept": 2
+      "seen": 20,
+      "kept": 1
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 36,
+      "seen": 38,
       "kept": 3
     },
     {
@@ -264,36 +264,36 @@
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 24,
+      "seen": 21,
       "kept": 0
     },
     {
       "name": "Financial Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aft.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 9,
+      "seen": 8,
       "kept": 1
     },
     {
       "name": "STAT Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 13,
+      "seen": 16,
       "kept": 1
     },
     {
       "name": "Nature News Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 10,
+      "seen": 7,
       "kept": 0
     },
     {
       "name": "Science Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Ascience.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 4,
-      "kept": 1
+      "seen": 2,
+      "kept": 0
     },
     {
       "name": "New York Times Vaccines / Immunization",
@@ -306,14 +306,14 @@
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 12,
+      "seen": 15,
       "kept": 0
     },
     {
       "name": "Washington Post Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 15,
+      "seen": 18,
       "kept": 0
     },
     {
@@ -327,28 +327,28 @@
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 15,
+      "seen": 12,
       "kept": 0
     },
     {
       "name": "朝日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Aasahi.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 9,
+      "seen": 8,
       "kept": 0
     },
     {
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 12,
+      "seen": 24,
       "kept": 0
     },
     {
       "name": "毎日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 31,
+      "seen": 27,
       "kept": 0
     },
     {
@@ -362,14 +362,14 @@
       "name": "JAMA Pediatrics vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjamapediatrics&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 1,
       "kept": 0
     },
     {
       "name": "Clinical Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fcid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 3,
       "kept": 2
     },
     {
@@ -397,8 +397,8 @@
       "name": "Pediatrics journal",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Apublications.aap.org%2Fpediatrics&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
-      "kept": 1
+      "seen": 1,
+      "kept": 0
     },
     {
       "name": "PLOS journals vaccines",
@@ -460,19 +460,19 @@
       "name": "SSRN vaccine preprints",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Apapers.ssrn.com%20(effectiveness%20OR%20safety%20OR%20policy%20OR%20trial)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 8,
+      "seen": 6,
       "kept": 4
     }
   ],
   "weekly_ai_summary": {
-    "generated_at": "2026-09-08T23:20:47.989540+00:00",
+    "generated_at": "2026-09-09T23:10:01.104283+00:00",
     "period_days": 7,
-    "policy_count": 7,
-    "academic_count": 9,
+    "policy_count": 4,
+    "academic_count": 6,
     "status": "ok",
     "model": "gpt-4o-mini",
-    "policy_summary": "FDAは、生物製剤の治験新薬申請（IND）を通じて、ワクチンの安全性と有効性を確保するための厳格な審査を行っています。また、米国の医師団体は、呼吸器疾患シーズンに向けた予防接種ガイドラインを発表しました。",
-    "academic_summary": "コアラのクラミジアワクチン試験データの再分析により、予防効果の欠如が明らかになりました。さらに、インフルエンザワクチンに関する複数の研究が発表され、特に重度肥満成人におけるワクチンの有効性が検討されています。"
+    "policy_summary": "FDAは新薬や生物製剤の治験薬投与に関する承認を求める申請を受け付けており、ワクチンも厳格な審査を経て市販が承認されます。新たなツールがラテンアメリカとカリブ海地域での狂犬病予防に役立つことが期待されています。",
+    "academic_summary": "コアラのクラミジアワクチン試験データの再分析で、予防効果の欠如が明らかになりました。また、韓国におけるヒトパピローマウイルス予防接種プログラムの有効性に関する研究が発表されています。"
   },
   "items": [
     {
@@ -609,88 +609,20 @@
       "country": "米国",
       "lat": 38.9072,
       "lng": -77.0369,
-      "duplicate_count": 4,
+      "duplicate_count": 3,
       "duplicate_sources": [
         "FDA Vaccines / Biologics",
-        "Pediatrics journal",
         "SSRN vaccine preprints"
       ]
     },
     {
-      "id": "d2b74f00cb2d9561",
-      "title": "製品監視 (CBER)",
-      "summary": "以下は CBER 製品監視項目です",
-      "summary_ai": "以下は CBER 製品監視項目です: 製品監視 - ワクチン有害事象 - 市販後臨床試験 - BIMO/チームバイオロジクス/インターネット監視/その他 段落ヘッダー お問い合わせ先 White Oak Campus 10903 New Hampshire Ave Silver Spring, MD 20993 United States",
-      "title_original": "Product Surveillance (CBER)",
-      "summary_original": "The following are CBER Product Surveillance Items",
-      "summary_ai_original": "The following are CBER Product Surveillance Items: Product Surveillance - Vaccine Adverse Events - Postmarketing Clinical Trials - BIMO/Team Biologics/Internet Surveillance/Other Paragraph Header Contact Us White Oak Campus 10903 New Hampshire Ave Silver Spring, MD 20993 United States",
-      "article_text_original": "The following are CBER Product Surveillance Items: Product Surveillance - Vaccine Adverse Events - Postmarketing Clinical Trials - BIMO/Team Biologics/Internet Surveillance/Other Paragraph Header Contact Us White Oak Campus 10903 New Hampshire Ave Silver Spring, MD 20993 United States",
-      "link": "http://www.fda.gov/vaccines-blood-biologics/compliance-actions-biologics/product-surveillance-cber",
-      "source": "FDA Vaccines / Biologics",
-      "source_type": "official",
-      "source_tier": "Tier 1",
-      "source_priority": 9,
-      "published_at": "2026-09-08T14:46:37+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [
-        "safety"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "米国",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "FDA / Silver Spring"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "FDA / Silver Spring"
-        },
-        "target": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "米国"
-        }
-      },
-      "location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "米国"
-      },
-      "region": "North America",
-      "country": "米国",
-      "lat": 38.9072,
-      "lng": -77.0369,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "FDA Vaccines / Biologics"
-      ]
-    },
-    {
-      "id": "985eef41a3835544",
-      "title": "10年間にわたるコアラのクラミジアワクチン試験データの再分析により、固有のバイアスと予防効果の欠如が明らかに - bioRxiv",
-      "summary": "10年間にわたるコアラのクラミジアワクチン試験データの再分析により、固有の偏りと予防効果の欠如が明らかに",
-      "summary_ai": "10年間にわたるコアラのクラミジアワクチン試験データの再分析により、固有の偏りと予防効果の欠如が明らかに",
-      "title_original": "Reanalysis of data from ten years of koala chlamydia vaccine trials reveals inherent bias and a lack of protective efficacy - bioRxiv",
-      "summary_original": "Reanalysis of data from ten years of koala chlamydia vaccine trials reveals inherent bias and a lack of protective efficacy bioRxiv",
-      "summary_ai_original": "Reanalysis of data from ten years of koala chlamydia vaccine trials reveals inherent bias and a lack of protective efficacy bioRxiv",
+      "id": "58183d42893b4770",
+      "title": "10年間にわたるコアラのクラミジアワクチン試験データの再分析で、固有の偏りと予防効果の欠如が明らかに - biorxiv.org",
+      "summary": "10年間にわたるコアラのクラミジアワクチン試験データの再分析で、固有の偏りや予防効果の欠如が判明 biorxiv.org",
+      "summary_ai": "10年間にわたるコアラのクラミジアワクチン試験データの再分析で、固有の偏りや予防効果の欠如が判明 biorxiv.org",
+      "title_original": "Reanalysis of data from ten years of koala chlamydia vaccine trials reveals inherent bias and a lack of protective efficacy - biorxiv.org",
+      "summary_original": "Reanalysis of data from ten years of koala chlamydia vaccine trials reveals inherent bias and a lack of protective efficacy biorxiv.org",
+      "summary_ai_original": "Reanalysis of data from ten years of koala chlamydia vaccine trials reveals inherent bias and a lack of protective efficacy biorxiv.org",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92UGFaX0tKbVpjNnNiMGFSaXV3Sjh5ZTlzRVh2WmFyTDZxZTBXSVlQeVZmRmM4TDBfZ1BMRTFGVnpvRlBBM19ZWjV1bzVHOFMxWnZRTmdaZnBCYXRQX09JeW1vSGk1VzdQaW41MG9RbGxtclZFR0NwZA?oc=5",
       "source": "bioRxiv vaccines",
@@ -749,13 +681,13 @@
       ]
     },
     {
-      "id": "b430361ef3acf730",
-      "title": "世界的な健康シグナルとしてのゴールドスタンダードのワクチン政策",
-      "summary": "世界的な健康シグナルとしてのゴールドスタンダードのワクチン政策",
-      "summary_ai": "世界的な健康シグナルとしてのゴールドスタンダードのワクチン政策",
-      "title_original": "Gold standard vaccine policy as a global health signal",
-      "summary_original": "Gold standard vaccine policy as a global health signal",
-      "summary_ai_original": "Gold standard vaccine policy as a global health signal",
+      "id": "dafb2fa14cc8cd79",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_ai": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_original": "Gold standard vaccine policy as a global health signal - thelancet.com",
+      "summary_original": "Gold standard vaccine policy as a global health signal thelancet.com",
+      "summary_ai_original": "Gold standard vaccine policy as a global health signal thelancet.com",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV0hraG54SXZTdWNzRnlNUUNLOC12MF90elJXaDhpcG40eUVxTkZOMzhiVmtrbXU2MHl0bUNpU3JpTHBFVHZySlMtSGlkRVJ5aWxEMzVQWmJXR1NwZFMtc2hDTkdzZnRiVklOWjRka1p4OVhHbnloVDlsRHMwcGQ2bEhxX054aDBDckdPczhuM2haU3o5T0E?oc=5",
       "source": "The Lancet series",
@@ -816,13 +748,13 @@
       ]
     },
     {
-      "id": "077cc2343393b854",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary_ai": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_original": "1 Effectiveness of the National Human Papillomavirus Immunization Program in South Korea: A 2 Nationwide Population-Based Cohort - papers.ssrn.com",
-      "summary_original": "1 Effectiveness of the National Human Papillomavirus Immunization Program in South Korea: A 2 Nationwide Population-Based Cohort papers.ssrn.com",
-      "summary_ai_original": "1 Effectiveness of the National Human Papillomavirus Immunization Program in South Korea: A 2 Nationwide Population-Based Cohort papers.ssrn.com",
+      "id": "ce1786897288e568",
+      "title": "1 韓国における国家ヒトパピローマウイルス予防接種プログラムの有効性: A 2 全国の人口ベースのコホート - SSRN eLibrary",
+      "summary": "1 韓国における国家ヒトパピローマウイルス予防接種プログラムの有効性: A 2 全国の人口ベースのコホート SSRN eLibrary",
+      "summary_ai": "1 韓国における国家ヒトパピローマウイルス予防接種プログラムの有効性: A 2 全国の人口ベースのコホート SSRN eLibrary",
+      "title_original": "1 Effectiveness of the National Human Papillomavirus Immunization Program in South Korea: A 2 Nationwide Population-Based Cohort - SSRN eLibrary",
+      "summary_original": "1 Effectiveness of the National Human Papillomavirus Immunization Program in South Korea: A 2 Nationwide Population-Based Cohort SSRN eLibrary",
+      "summary_ai_original": "1 Effectiveness of the National Human Papillomavirus Immunization Program in South Korea: A 2 Nationwide Population-Based Cohort SSRN eLibrary",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbDBYWUsydTN1R0p3MG0yNHNMbHotWnlTTk14dTZqUkJIem9xRnZoTVZsUmlxaGNhVWRMWjJ1M3NIbEFUMUc1UmE1LUlmTGdFbno2RFlqX282T2FPWTg3V0pWUXd3Rms5UVBTcEdjNmprREVDV1NVT1ZhUDg5N2FEWmVkT3VhaDQ4aGpSOEdKdjlNeUthZUVycHIxeWZEOVQ0cjR0Wlg5M0tHVUdOUXFzNHV3d0FNVk85NWFhbThn?oc=5",
       "source": "SSRN vaccine preprints",
@@ -1419,73 +1351,6 @@
       ]
     },
     {
-      "id": "030433c3991482e4",
-      "title": "RSVワクチンは老人ホーム入居者の入院と死亡に有効、研究で判明 - CIDRAP",
-      "summary": "RSVワクチンは特別養護老人ホーム入居者の入院と死亡に有効、研究結果CIDRAP",
-      "summary_ai": "RSVワクチンは特別養護老人ホーム入居者の入院と死亡に有効、研究結果CIDRAP",
-      "title_original": "RSV vaccine effective against hospitalization, death in nursing home residents, study finds - CIDRAP",
-      "summary_original": "RSV vaccine effective against hospitalization, death in nursing home residents, study finds CIDRAP",
-      "summary_ai_original": "RSV vaccine effective against hospitalization, death in nursing home residents, study finds CIDRAP",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSGNRQlVHTmh0YmhhSGw2UGoxZ1BDZUdCRVhxazZlSGRyd2NvMERrdHQta2t2aEVIQ2F3ZkEzUUZCMFRoRHd1YmdyYWREUnR1aEduQTQ0ZnRTQmM1VXM1c1B1bjZsaEN0S2hna0pIaENjX1ZwVmJTM252WXBXWkFoWm5NdzBvbHhzTzdtTkhMdjR1MnFNdElVMFhhVHA2d0pPUmJvM0k5cHVldlZrdzRNbXZxSWZvZGdXMllsN0F4YUxKZw?oc=5",
-      "source": "CIDRAP Vaccines & Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 8,
-      "published_at": "2026-09-02T18:57:05+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "rsv"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "CIDRAP / Minnesota"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "CIDRAP / Minnesota"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "CIDRAP Vaccines & Immunization"
-      ]
-    },
-    {
       "id": "138d9198f5481634",
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -1554,20 +1419,20 @@
       ]
     },
     {
-      "id": "2d9b7ae21b0356a1",
+      "id": "2f089b6802981d0e",
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "summary_ai": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_original": "COVID-19 Vaccine Effectiveness and Safety for the 2026-2027 Respiratory Season",
-      "summary_original": "COVID-19 Vaccine Effectiveness and Safety for the 2026-2027 Respiratory Season",
-      "summary_ai_original": "COVID-19 Vaccine Effectiveness and Safety for the 2026-2027 Respiratory Season",
+      "title_original": "Influenza Vaccine Effectiveness and Safety for the 2026-2027 Respiratory Season",
+      "summary_original": "Influenza Vaccine Effectiveness and Safety for the 2026-2027 Respiratory Season",
+      "summary_ai_original": "Influenza Vaccine Effectiveness and Safety for the 2026-2027 Respiratory Season",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwZm9GZ1FuZ05oSnYwY09WM0VRR3RpT3hTakNvc2RLRHRqODNwU2pveVZrLWExblRQVGhUSzhWYnRhdmdYbTdacXVpN0N4T3h5QzhyTXNZam1KSGt4LTA1YlF4RkhvUWxx?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE45aE9rUDQzMnRuTC1vYTc1b0ZOUldNMGFiVFVjODJQenhETnFNcWpsRXhMZEQxUmFhZU1laHU2NHVhVm1yTkQ4OG01QlNCd3hsbUZXZDduaVRVaWhVbG5sbGdEbFRTV0xw?oc=5",
       "source": "JAMA vaccines",
       "source_type": "academic",
       "source_tier": "Tier 3",
       "source_priority": 9,
-      "published_at": "2026-09-02T14:56:07+00:00",
+      "published_at": "2026-09-02T14:56:33+00:00",
       "topics": [
         "research"
       ],
@@ -1575,7 +1440,7 @@
         "safety"
       ],
       "vaccines": [
-        "covid"
+        "influenza"
       ],
       "variants": [],
       "target_country": "不明",
@@ -1624,13 +1489,13 @@
       ]
     },
     {
-      "id": "401030603dde7368",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary_ai": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_original": "Quantifying how HIV-1 envelope sequence features impact vaccine efficacy in the HVTN 705/HPX2008 randomised trial in southern African women",
-      "summary_original": "Quantifying how HIV-1 envelope sequence features impact vaccine efficacy in the HVTN 705/HPX2008 randomised trial in southern African women",
-      "summary_ai_original": "Quantifying how HIV-1 envelope sequence features impact vaccine efficacy in the HVTN 705/HPX2008 randomised trial in southern African women",
+      "id": "345d7c8a4839bc1c",
+      "title": "アフリカ南部の女性を対象とした HVTN 705/HPX​​2008 ランダム化試験で、HIV-1 エンベロープ配列の特徴がワクチンの有効性にどのような影響を与えるかを定量化 - thelancet.com",
+      "summary": "アフリカ南部の女性を対象とした HVTN 705/HPX​​2008 ランダム化試験で、HIV-1 エンベロープ配列の特徴がワクチンの有効性にどのような影響を与えるかを定量化する thelancet.com",
+      "summary_ai": "アフリカ南部の女性を対象とした HVTN 705/HPX​​2008 ランダム化試験で、HIV-1 エンベロープ配列の特徴がワクチンの有効性にどのような影響を与えるかを定量化する thelancet.com",
+      "title_original": "Quantifying how HIV-1 envelope sequence features impact vaccine efficacy in the HVTN 705/HPX2008 randomised trial in southern African women - thelancet.com",
+      "summary_original": "Quantifying how HIV-1 envelope sequence features impact vaccine efficacy in the HVTN 705/HPX2008 randomised trial in southern African women thelancet.com",
+      "summary_ai_original": "Quantifying how HIV-1 envelope sequence features impact vaccine efficacy in the HVTN 705/HPX2008 randomised trial in southern African women thelancet.com",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRmZCRnB5Z0tVWlVwUjlFMmhXOEVDaW1WbnFTaW1tUUdNOVRLZXRROXFJU19tcDVkTjFCZFA1VXZKcERyTkFTdWJud0lSRC1MRUNzczlydVdnTzBtUEpRRFQwRFlLNXFRRElocldvck5SVjhUcEQxeE1vN2FUeGhkb3hZOWd1Rm54aHc?oc=5",
       "source": "EBioMedicine vaccines",
@@ -1756,75 +1621,6 @@
       ]
     },
     {
-      "id": "776fafeaef8d8a9f",
-      "title": "ガイダンス: インフルエンザ (インフルエンザ) ワクチンのファクトシート – 患者、親、介護者向けの情報",
-      "summary": "インフルエンザ（インフルエンザ）およびインフルエンザ予防接種に関する情報を提供する患者情報シート。",
-      "summary_ai": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_original": "Guidance: Influenza (Flu) vaccine factsheet – Information for patients, parents and carers",
-      "summary_original": "Patient factsheet providing information on influenza (flu) and flu vaccination.",
-      "summary_ai_original": "This means that each year, to prepare for the upcoming flu season, scientists across the world collect and look at information about which new flu viruses are emerging. This factsheet covers: - Overview of flu - Flu vaccination and eligibility - How flu vaccines work - Types of flu vaccines - Flu vaccines and pregnancy",
-      "article_text_original": "Influenza (flu) is a respiratory infection caused by influenza viruses that spread easily through coughs, sneezes, and close contact. Flu can cause sudden fever, tiredness, aches and pains, and difficulty breathing. Many people recover within a week, but flu can sometimes lead to serious illness and complications, especially in young children, older adults, pregnant individuals, and people with long-term health conditions. Influenza is seasonal, which means you are more likely to catch it in winter. Unlike some viruses, the influenza viruses are constantly changing. This means that each year, to prepare for the upcoming flu season, scientists across the world collect and look at information about which new flu viruses are emerging. Seasonal flu vaccines are therefore updated each year to match the strains of the virus that are expected to circulate. Vaccination is one of the safest and most effective ways to help reduce the chance of getting flu and to lower the risk of serious illness if you do catch it. Influenza vaccines used in the UK have been rigorously assessed for safety, quality and effectiveness, and continue to be monitored, including through the Yellow Card scheme. This factsheet covers: - Overview of flu - Flu vaccination and eligibility - How flu vaccines work - Types of flu vaccines - Flu vaccines and pregnancy - Safety and effectiveness of flu vaccines - How flu vaccines are updated - Who should not receive the flu vaccine - Flu vaccine side effects - Less common side effects - Report side effects to the Yellow Card scheme",
-      "link": "https://www.gov.uk/government/publications/influenza-flu-vaccine-factsheet-information-for-patients-parents-and-carers",
-      "source": "MHRA",
-      "source_type": "official",
-      "source_tier": "Tier 1",
-      "source_priority": 8,
-      "published_at": "2026-09-01T13:05:58+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [
-        "safety"
-      ],
-      "vaccines": [
-        "influenza"
-      ],
-      "variants": [],
-      "target_country": "英国",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "MHRA / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "MHRA / London"
-        },
-        "target": {
-          "key": "uk",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "英国"
-        }
-      },
-      "location": {
-        "key": "uk",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "英国"
-      },
-      "region": "Europe",
-      "country": "英国",
-      "lat": 51.5074,
-      "lng": -0.1278,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "MHRA"
-      ]
-    },
-    {
       "id": "4a31a4da7689801c",
       "title": "老人ホームに居住するメディケア受給者における呼吸器合胞体ウイルスワクチンの有効性",
       "summary": "老人ホームに居住するメディケア受給者における呼吸器合胞体ウイルスワクチンの有効性",
@@ -1838,7 +1634,7 @@
       "source_type": "academic",
       "source_tier": "Tier 3",
       "source_priority": 8,
-      "published_at": "2026-08-31T23:48:45+00:00",
+      "published_at": "2026-08-31T07:00:00+00:00",
       "topics": [
         "research"
       ],
@@ -1959,71 +1755,68 @@
       ]
     },
     {
-      "id": "0eca0fb93e2024f1",
-      "title": "自閉症諮問委員会の資金計画には、ベールに包まれた反ワクチンへの焦点が含まれていると批評家らは指摘している。 AAAS",
-      "summary": "自閉症諮問委員会の資金計画には、ベールに包まれた反ワクチンへの焦点が含まれていると批判者らは見ている。 AAAS",
-      "summary_ai": "自閉症諮問委員会の資金計画には、ベールに包まれた反ワクチンへの焦点が含まれていると批判者らは見ている。 AAAS",
-      "title_original": "In autism advisory committee’s funding plan, critics see a veiled antivaccine focus - Science | AAAS",
-      "summary_original": "In autism advisory committee’s funding plan, critics see a veiled antivaccine focus Science | AAAS",
-      "summary_ai_original": "In autism advisory committee’s funding plan, critics see a veiled antivaccine focus Science | AAAS",
+      "id": "3c365420f7c8f27c",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_ai": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_original": "Ebola: WHO declares Uganda free of virus, but doctors express reservations about new vaccine trial - The",
+      "summary_original": "Ebola: WHO declares Uganda free of virus, but doctors express reservations about new vaccine trial The",
+      "summary_ai_original": "Ebola: WHO declares Uganda free of virus, but doctors express reservations about new vaccine trial The",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd3Q5VE0zQ3lVc2EzQ2loQzJBbVVBR2FqcHFVVGN3eDUyaHRxUDZiamhiX21RTUlfLTRka0dvTzdsV3lROXhHdHdVWjhhZmpIeUxyNXcyZTNyU1d4VGZrREVpZUVIcHlxMmo2QVZBYWYxeE81TlJXR1o3aklDdklzakRSdjU0cVVVc2JxZk9KWnV5YXBQRVZ3Z0RFcTRUZmJPMFQwaUxvQkZNb2dwODdNSFQzYXNjbHpP?oc=5",
-      "source": "Science Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 5,
-      "published_at": "2026-08-31T07:00:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5SaUhNek5xOUVtZkFBSzZ3aHN5ZV8tWkpJNzBqTU5wUWl5My12NUREU3ZYN0dCOTZRT1poS0NYYldVUEVzeU5La2Z6OVRwRF9JRWc2OG9DQjF6b0k?oc=5",
+      "source": "BMJ",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-08-28T07:00:00+00:00",
       "topics": [
-        "policy"
+        "research"
       ],
-      "policy_tags": [
-        "financing",
-        "recommendation"
-      ],
+      "policy_tags": [],
       "vaccines": [],
       "variants": [],
-      "target_country": "不明",
+      "target_country": "ウガンダ",
       "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "Science"
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BMJ / London"
       },
       "plot": {
         "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "Science"
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BMJ / London"
         },
         "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
+          "key": "uganda",
+          "name_ja": "ウガンダ",
+          "lat": 0.3476,
+          "lng": 32.5825,
+          "region": "Africa",
+          "label": "ウガンダ"
         }
       },
       "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
+        "key": "uganda",
+        "name_ja": "ウガンダ",
+        "lat": 0.3476,
+        "lng": 32.5825,
+        "region": "Africa",
+        "label": "ウガンダ"
       },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
+      "region": "Africa",
+      "country": "ウガンダ",
+      "lat": 0.3476,
+      "lng": 32.5825,
       "duplicate_count": 1,
       "duplicate_sources": [
-        "Science Vaccines / Immunization"
+        "BMJ"
       ]
     },
     {

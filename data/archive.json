@@ -1,8 +1,8 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-09-08T23:20:47.989540+00:00",
-  "archive_count": 505,
+  "generated_at": "2026-09-09T23:10:01.104283+00:00",
+  "archive_count": 480,
   "days_back": 14,
   "items": [
     {
@@ -75,7 +75,7 @@
         "FDA Vaccines / Biologics"
       ],
       "first_seen_at": "2026-09-08T16:15:06+00:00",
-      "last_seen_at": "2026-09-08T23:22:53.768822+00:00"
+      "last_seen_at": "2026-09-09T23:11:56.954320+00:00"
     },
     {
       "id": "c0c68ea110f4772a",
@@ -141,13 +141,25 @@
       "country": "米国",
       "lat": 38.9072,
       "lng": -77.0369,
-      "duplicate_count": 2,
+      "duplicate_count": 26,
       "duplicate_sources": [
+        "BMJ",
+        "CIDRAP Vaccines & Immunization",
+        "Clinical Infectious Diseases",
         "FDA Vaccines / Biologics",
-        "SSRN vaccine preprints"
+        "Guardian Vaccines / Immunization",
+        "JAMA Network Open vaccines",
+        "Lancet Infectious Diseases",
+        "Nature News Vaccines / Immunization",
+        "New York Times Vaccines / Immunization",
+        "PAHO News",
+        "Pediatrics journal",
+        "Reuters Vaccines / Immunization",
+        "STAT Vaccines / Immunization",
+        "Science vaccines"
       ],
       "first_seen_at": "2026-09-08T14:54:45+00:00",
-      "last_seen_at": "2026-09-08T23:22:53.768838+00:00"
+      "last_seen_at": "2026-09-09T23:11:56.954331+00:00"
     },
     {
       "id": "d2b74f00cb2d9561",
@@ -278,7 +290,7 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "duplicate_sources": [
         "bioRxiv vaccines"
       ],
@@ -347,12 +359,12 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicate_sources": [
         "The Lancet series"
       ],
       "first_seen_at": "2026-09-04T23:10:15+00:00",
-      "last_seen_at": "2026-09-07T23:29:18.194194+00:00"
+      "last_seen_at": "2026-09-09T23:11:56.954339+00:00"
     },
     {
       "id": "ce1786897288e568",
@@ -415,12 +427,12 @@
       "country": "韓国",
       "lat": 37.5665,
       "lng": 126.978,
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicate_sources": [
         "SSRN vaccine preprints"
       ],
       "first_seen_at": "2026-09-04T12:26:29+00:00",
-      "last_seen_at": "2026-09-07T23:29:18.194197+00:00"
+      "last_seen_at": "2026-09-09T23:11:56.954343+00:00"
     },
     {
       "id": "d98c012419fd87b1",
@@ -489,7 +501,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-09-04T12:12:29+00:00",
-      "last_seen_at": "2026-09-08T23:22:53.768861+00:00"
+      "last_seen_at": "2026-09-09T23:11:56.954348+00:00"
     },
     {
       "id": "cd6659ec3af390e6",
@@ -628,7 +640,7 @@
         "Clinical Infectious Diseases"
       ],
       "first_seen_at": "2026-09-03T21:04:08+00:00",
-      "last_seen_at": "2026-09-08T23:22:53.768875+00:00"
+      "last_seen_at": "2026-09-09T23:11:56.954355+00:00"
     },
     {
       "id": "de100ba20caab8ee",
@@ -766,78 +778,7 @@
         "PAHO News"
       ],
       "first_seen_at": "2026-09-03T18:37:22+00:00",
-      "last_seen_at": "2026-09-08T23:22:53.768882+00:00"
-    },
-    {
-      "id": "558aa72821ab3b00",
-      "title": "ワクチンおよび関連生物由来製品諮問委員会の名簿",
-      "summary": "これはワクチンおよび関連生物由来製品諮問委員会の名簿です。",
-      "summary_ai": "空席専門知識: グローバルヘルス、遺伝学 任期: 2022/02/01 – 2030/01/30 臨床・医療研究政策部門ディレクター 所長室科学政策室 国立衛生研究所ベセスダ、メリーランド州 専門分野: 小児科、感染症 任期: 2025/02/01 - 2029/01/31 学科教授",
-      "title_original": "Roster of the Vaccines and Related Biological Products Advisory Committee",
-      "summary_original": "This is the Roster of the Vaccines and Related Biological Products Advisory Committee",
-      "summary_ai_original": "Vacant Expertise: Global Health, Genetics Term: 02/01/2022 – 01/30/2030 Director, Division of Clinical and Healthcare Research Policy Office of Science Policy, Office of the Director National Institutes of Health Bethesda, MD Expertise: Pediatrics, Infectious Diseases Term: 02/01/2025 - 01/31/2029 Professor, Department",
-      "article_text_original": "As part of the Food and Drug Administration's (FDA's) ongoing efforts to recruit qualified experts with minimal conflicts of interest who are interested in serving on FDA advisory committees, FDA is requesting nominations for members to serve on its advisory committees. Current Number of Vacancies: 9 Note, one or more vacancies may be in the nomination process or a final appointment may have been made. The names listed below are advisory committee members who have active appointments required to participate in committee meetings, including an unexpired appointment as a Special Government Employee where applicable. Vacant Expertise: Global Health, Genetics Term: 02/01/2022 – 01/30/2030 Director, Division of Clinical and Healthcare Research Policy Office of Science Policy, Office of the Director National Institutes of Health Bethesda, MD Expertise: Pediatrics, Infectious Diseases Term: 02/01/2025 - 01/31/2029 Professor, Department of International Health Director, Center for Immunization Research Johns Hopkins Bloomberg School of Public Health Baltimore, MD 21205 Expertise: Pediatrics, Infectious Diseases Term: 06/21/2019 - 01/31/2027 Clinical Professor Pediatrics - Infectious Diseases Stanford Medicine Children’s Health Stanford, CA 94305 Expertise: Industry Representative (Alternate) Scientific Assoc. Vice President, Global Regulatory Affairs and Clinical Safety, MRL, Vaccines and Infectious Diseases Merck & Co., Inc. North Wales, PA 19454 Expertise: Pediatrics, Vaccines Term: 02/01/2024 - 01/31/2028 Medical Officer Immunization Services Division National Center for Emerging and Zoonotic Infectious Diseases Centers for Disease Control and Prevention Atlanta, GA 30329 Expertise: Pediatrics, Infectious Diseases Term: 02/01/2025 - 01/31/2029 Associate Professor of Pediatrics, Infectious Diseases Molecular Virology and Microbiology Texas Children’s Hospital Baylor College of Medicine Houston, TX 77030 Expertise: Allergy & Immunology Term: 07/05/2024 - 1/31/2028 Chief, Asthma, Allergy, and Immunology Division School of Medicine University of Virginia Charlottesville, VA 22903 Expertise: Pediatrics, Infectious Diseases Term: 02/01/2025 - 01/31/2029 Dean and Professor Lyda Hill Deanship of the School of Public Health UT Southwestern Medical Center Dallas, TX 75225 LCDR Cicely C. Reese, PharmD Center for Biologics Evaluation & Research Food and Drug Administration Silver Spring, MD 20993 E-mail: CBERVRBPAC@fda.hhs.gov ** Consumer Representative *** Industry Representative ~ Alternate Industry Representative",
-      "link": "http://www.fda.gov/advisory-committees/vaccines-and-related-biological-products-advisory-committee/roster-vaccines-and-related-biological-products-advisory-committee",
-      "source": "FDA Vaccines / Biologics",
-      "source_type": "official",
-      "source_tier": "Tier 1",
-      "source_priority": 9,
-      "published_at": "2026-09-03T16:15:06+00:00",
-      "topics": [
-        "policy",
-        "research"
-      ],
-      "policy_tags": [
-        "recommendation",
-        "safety"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "FDA / Silver Spring"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "FDA / Silver Spring"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "FDA Vaccines / Biologics"
-      ],
-      "first_seen_at": "2026-05-19T17:58:05+00:00",
-      "last_seen_at": "2026-09-07T23:29:18.194218+00:00"
+      "last_seen_at": "2026-09-09T23:11:56.954360+00:00"
     },
     {
       "id": "c1547c8b515abd0e",
@@ -976,7 +917,7 @@
         "Reuters Vaccines / Immunization"
       ],
       "first_seen_at": "2026-09-03T08:22:50+00:00",
-      "last_seen_at": "2026-09-08T23:22:53.768892+00:00"
+      "last_seen_at": "2026-09-09T23:11:56.954367+00:00"
     },
     {
       "id": "c175223aa65a4a3f",
@@ -1047,151 +988,7 @@
         "AP Vaccines / Immunization"
       ],
       "first_seen_at": "2026-09-02T18:04:00+00:00",
-      "last_seen_at": "2026-09-08T23:22:53.769000+00:00"
-    },
-    {
-      "id": "78e7a3ebb5d2db4c",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "Moderna 新型コロナウイルス感染症 (COVID-19) ワクチン、二価についての情報。最新の二価 mRNA COVID-19ワクチンは現在、生後 6 か月以上の個人に対するすべての用量が FDA から認可されています。",
-      "summary_ai": "2025 年 8 月 27 日、食品医薬品局はモデルナ 新型コロナウイルス感染症ワクチンの緊急使用許可 (EUA)を取り消しました。 Moderna COVID-19ワクチン ファクト シートおよび資料 Moderna COVID-19ワクチン規制情報 (緊急使用許可) 連邦官報通知 Rec 用ファクト シートの翻訳",
-      "title_original": "Moderna COVID-19 Vaccines",
-      "summary_original": "Information about Moderna COVID-19 Vaccine, Bivalent. Updated, bivalent mRNA COVID-19 vaccines are now FDA-authorized for all doses for individuals ages 6 months and older.",
-      "summary_ai_original": "On August 27, 2025, the Food and Drug Administration revoked the emergency use authorization (EUA) of Moderna COVID-19 Vaccine. Moderna COVID-19 Vaccine Fact Sheets and Materials Moderna COVID-19 Vaccine Regulatory Information (Emergency Use Authorization) Federal Register Notices Translations of the Fact Sheet for Rec",
-      "article_text_original": "On August 27, 2025, the Food and Drug Administration revoked the emergency use authorization (EUA) of Moderna COVID-19 Vaccine. Spikevax (COVID-19 Vaccine, mRNA), manufactured for Moderna US Inc., is approved for use by FDA. Moderna COVID-19 Vaccine Fact Sheets and Materials Moderna COVID-19 Vaccine Regulatory Information (Emergency Use Authorization) Federal Register Notices Translations of the Fact Sheet for Recipients and Caregivers (August, 2024)",
-      "link": "http://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/moderna-covid-19-vaccines",
-      "source": "FDA Vaccines / Biologics",
-      "source_type": "official",
-      "source_tier": "Tier 1",
-      "source_priority": 9,
-      "published_at": "2026-09-02T21:15:20+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [
-        "approval",
-        "outbreak_response"
-      ],
-      "vaccines": [
-        "covid"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "FDA / Silver Spring"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "FDA / Silver Spring"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "FDA Vaccines / Biologics"
-      ],
-      "first_seen_at": "2026-09-02T21:15:20+00:00",
-      "last_seen_at": "2026-09-07T23:29:18.194237+00:00"
-    },
-    {
-      "id": "fd50690e76514b5b",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "Pfizer-BioNTech COVID-19ワクチン、二価についての情報。最新の二価 mRNA 新型コロナウイルス感染症 (COVID-19) ワクチン追加接種は、すべての用量に対して FDA の認可を受けています。",
-      "summary_ai": "2025 年 8 月 27 日、食品医薬品局はファイザー・バイオNTech 新型コロナウイルス感染症ワクチンの緊急使用許可 (EUA)を取り消しました。 Pfizer-BioNTech COVID-19 ファクトシートおよび資料 Pfizer-BioNTech 規制情報 (緊急使用許可) 連邦官報通知 Reci 用ファクトシートの翻訳",
-      "title_original": "Pfizer-BioNTech COVID-19 Vaccines",
-      "summary_original": "Information about Pfizer-BioNTech COVID-19 Vaccine, Bivalent. Updated, bivalent mRNA COVID-19 vaccine boosters are now FDA-authorized for all doses.",
-      "summary_ai_original": "On August 27, 2025, the Food and Drug Administration revoked the emergency use authorization (EUA) of Pfizer-BioNTech COVID-19 Vaccine. Pfizer-BioNTech COVID-19 Fact Sheets and Materials Pfizer-BioNTech Regulatory Information (Emergency Use Authorization) Federal Register Notices Translations of the Fact Sheet for Reci",
-      "article_text_original": "On August 27, 2025, the Food and Drug Administration revoked the emergency use authorization (EUA) of Pfizer-BioNTech COVID-19 Vaccine. Comirnaty (COVID-19 Vaccine, mRNA), manufactured by Pfizer Inc., is approved for use by FDA. Pfizer-BioNTech COVID-19 Fact Sheets and Materials Pfizer-BioNTech Regulatory Information (Emergency Use Authorization) Federal Register Notices Translations of the Fact Sheet for Recipients and Caregivers",
-      "link": "http://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/pfizer-biontech-covid-19-vaccines",
-      "source": "FDA Vaccines / Biologics",
-      "source_type": "official",
-      "source_tier": "Tier 1",
-      "source_priority": 9,
-      "published_at": "2026-09-02T21:00:07+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [
-        "approval",
-        "outbreak_response"
-      ],
-      "vaccines": [
-        "covid"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "FDA / Silver Spring"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "FDA / Silver Spring"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "FDA Vaccines / Biologics"
-      ],
-      "first_seen_at": "2026-09-02T21:00:07+00:00",
-      "last_seen_at": "2026-09-07T23:29:18.194241+00:00"
+      "last_seen_at": "2026-09-09T23:11:56.954370+00:00"
     },
     {
       "id": "eaa787730d06cf59",
@@ -1260,7 +1057,7 @@
         "STAT Vaccines / Immunization"
       ],
       "first_seen_at": "2026-09-02T20:57:16+00:00",
-      "last_seen_at": "2026-09-08T23:22:53.769007+00:00"
+      "last_seen_at": "2026-09-09T23:11:56.954375+00:00"
     },
     {
       "id": "030433c3991482e4",
@@ -1398,7 +1195,7 @@
         "JAMA vaccines"
       ],
       "first_seen_at": "2026-09-02T16:34:32+00:00",
-      "last_seen_at": "2026-09-08T23:22:53.769017+00:00"
+      "last_seen_at": "2026-09-09T23:11:56.954379+00:00"
     },
     {
       "id": "2f089b6802981d0e",
@@ -1464,83 +1261,12 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicate_sources": [
         "JAMA vaccines"
       ],
       "first_seen_at": "2026-09-02T14:56:33+00:00",
-      "last_seen_at": "2026-09-07T23:29:18.194252+00:00"
-    },
-    {
-      "id": "f06cd9d1868f0398",
-      "title": "2026年から2027年までの乳児、小児、青少年に対する新型コロナウイルス感染症ワクチンの推奨：政策声明 - AAP",
-      "summary": "2026年から2027年までの乳児、小児、青少年に対する新型コロナウイルス感染症ワクチンの推奨: 政策声明AAP",
-      "summary_ai": "2026年から2027年までの乳児、小児、青少年に対する新型コロナウイルス感染症ワクチンの推奨: 政策声明AAP",
-      "title_original": "Recommendations for COVID-19 Vaccines in Infants, Children, and Adolescents, 2026-2027: Policy Statement - AAP",
-      "summary_original": "Recommendations for COVID-19 Vaccines in Infants, Children, and Adolescents, 2026-2027: Policy Statement AAP",
-      "summary_ai_original": "Recommendations for COVID-19 Vaccines in Infants, Children, and Adolescents, 2026-2027: Policy Statement AAP",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdzFGcW4xbkVOb0kzWUw5OVkyRjFVaVhZLU9BQ1Y0RVdCbTU5MW94NC1JRXlySWs5azR4SVZadkRqWVAyRWFldzZOb0QyTkZ6QzEwN3E1VWVlcGt2UzZfQ1Y5UkxIMnFWcVFSd2xpaU1PeGJydWhGRUZmdVVzbFF4Vnl0MUI5RkF5QVZhajE4WFhscml2ajVuZGpDTGZLRURpOEt1dm0wdm9WSmVSWHdxZ0s2VEZLNHo2SW9CdmlSdVZSVm5ZREEwRFA5R1E?oc=5",
-      "source": "Pediatrics journal",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 7,
-      "published_at": "2026-09-02T12:08:08+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [
-        "recommendation"
-      ],
-      "vaccines": [
-        "covid"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "Pediatrics"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "Pediatrics"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Pediatrics journal"
-      ],
-      "first_seen_at": "2026-09-02T12:08:08+00:00",
-      "last_seen_at": "2026-09-07T23:29:18.194256+00:00"
+      "last_seen_at": "2026-09-09T23:11:56.954382+00:00"
     },
     {
       "id": "345d7c8a4839bc1c",
@@ -1602,12 +1328,12 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicate_sources": [
         "EBioMedicine vaccines"
       ],
       "first_seen_at": "2026-09-02T09:21:16+00:00",
-      "last_seen_at": "2026-09-07T23:29:18.194259+00:00"
+      "last_seen_at": "2026-09-09T23:11:56.954386+00:00"
     },
     {
       "id": "039bddc186d8c62d",
@@ -1676,7 +1402,7 @@
         "Reuters Vaccines / Immunization"
       ],
       "first_seen_at": "2026-09-01T06:15:00+00:00",
-      "last_seen_at": "2026-09-08T23:22:53.769027+00:00"
+      "last_seen_at": "2026-09-09T23:11:56.954390+00:00"
     },
     {
       "id": "776fafeaef8d8a9f",
@@ -1955,143 +1681,7 @@
         "Reuters Vaccines / Immunization"
       ],
       "first_seen_at": "2026-08-28T17:12:51+00:00",
-      "last_seen_at": "2026-09-08T23:22:53.769043+00:00"
-    },
-    {
-      "id": "af6fa956e8d44221",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary_ai": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_original": "Vaccines take center stage at federal autism advisory committee - STAT",
-      "summary_original": "Vaccines take center stage at federal autism advisory committee STAT",
-      "summary_ai_original": "Vaccines take center stage at federal autism advisory committee STAT",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYk9WMjUxZjVqbTZOM1RSeTUzbkdYek1Ub25aWVFLT1JtZExsbnBrcEtRbkdqd0pVbmtOMnl6ekhmN2tMbTJmdDY0SWl6TnE0QVJuTm5WRmkxT0lrdnhmQ3NxellqNzNRaUpvZ0JhV1hMY3E3REl0cm5yb2V6clhBblYxVGRuUVF6amVaSGJpd3VHWXFzNFdwRjA3N2NUNk8zeGstMmZELU9jZnJOa3c?oc=5",
-      "source": "STAT Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-08-28T15:07:32+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [
-        "recommendation"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "STAT"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "STAT"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "STAT Vaccines / Immunization"
-      ],
-      "first_seen_at": "2026-08-28T15:07:32+00:00",
-      "last_seen_at": "2026-09-03T23:16:23.776043+00:00"
-    },
-    {
-      "id": "3c365420f7c8f27c",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary_ai": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_original": "Ebola: WHO declares Uganda free of virus, but doctors express reservations about new vaccine trial - The",
-      "summary_original": "Ebola: WHO declares Uganda free of virus, but doctors express reservations about new vaccine trial The",
-      "summary_ai_original": "Ebola: WHO declares Uganda free of virus, but doctors express reservations about new vaccine trial The",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5SaUhNek5xOUVtZkFBSzZ3aHN5ZV8tWkpJNzBqTU5wUWl5My12NUREU3ZYN0dCOTZRT1poS0NYYldVUEVzeU5La2Z6OVRwRF9JRWc2OG9DQjF6b0k?oc=5",
-      "source": "BMJ",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-08-28T12:31:14+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "ウガンダ",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BMJ / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BMJ / London"
-        },
-        "target": {
-          "key": "uganda",
-          "name_ja": "ウガンダ",
-          "lat": 0.3476,
-          "lng": 32.5825,
-          "region": "Africa",
-          "label": "ウガンダ"
-        }
-      },
-      "location": {
-        "key": "uganda",
-        "name_ja": "ウガンダ",
-        "lat": 0.3476,
-        "lng": 32.5825,
-        "region": "Africa",
-        "label": "ウガンダ"
-      },
-      "region": "Africa",
-      "country": "ウガンダ",
-      "lat": 0.3476,
-      "lng": 32.5825,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "BMJ"
-      ],
-      "first_seen_at": "2026-08-28T12:31:14+00:00",
-      "last_seen_at": "2026-09-01T23:17:48.346145+00:00"
+      "last_seen_at": "2026-09-09T23:11:56.954396+00:00"
     },
     {
       "id": "d332e0b4b764e33c",
@@ -2159,6 +1749,73 @@
       ],
       "first_seen_at": "2026-08-28T12:30:23+00:00",
       "last_seen_at": "2026-09-04T23:02:24.176373+00:00"
+    },
+    {
+      "id": "3c365420f7c8f27c",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_ai": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_original": "Ebola: WHO declares Uganda free of virus, but doctors express reservations about new vaccine trial - The",
+      "summary_original": "Ebola: WHO declares Uganda free of virus, but doctors express reservations about new vaccine trial The",
+      "summary_ai_original": "Ebola: WHO declares Uganda free of virus, but doctors express reservations about new vaccine trial The",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5SaUhNek5xOUVtZkFBSzZ3aHN5ZV8tWkpJNzBqTU5wUWl5My12NUREU3ZYN0dCOTZRT1poS0NYYldVUEVzeU5La2Z6OVRwRF9JRWc2OG9DQjF6b0k?oc=5",
+      "source": "BMJ",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-08-28T07:00:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "ウガンダ",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BMJ / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BMJ / London"
+        },
+        "target": {
+          "key": "uganda",
+          "name_ja": "ウガンダ",
+          "lat": 0.3476,
+          "lng": 32.5825,
+          "region": "Africa",
+          "label": "ウガンダ"
+        }
+      },
+      "location": {
+        "key": "uganda",
+        "name_ja": "ウガンダ",
+        "lat": 0.3476,
+        "lng": 32.5825,
+        "region": "Africa",
+        "label": "ウガンダ"
+      },
+      "region": "Africa",
+      "country": "ウガンダ",
+      "lat": 0.3476,
+      "lng": 32.5825,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "BMJ"
+      ],
+      "first_seen_at": "2026-08-28T12:31:14+00:00",
+      "last_seen_at": "2026-09-09T23:11:56.954400+00:00"
     },
     {
       "id": "9a52aca1d69ff18b",
@@ -2229,7 +1886,7 @@
         "Financial Times Vaccines / Immunization"
       ],
       "first_seen_at": "2026-08-27T20:30:00+00:00",
-      "last_seen_at": "2026-09-08T23:22:53.769058+00:00"
+      "last_seen_at": "2026-09-09T23:11:56.954404+00:00"
     },
     {
       "id": "9604b1233ca35ae8",
@@ -2916,75 +2573,6 @@
       "last_seen_at": "2026-09-02T23:18:13.914214+00:00"
     },
     {
-      "id": "09cc99c66d6b63f5",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary_ai": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_original": "IDSA 2025 Guidelines on the Use of Vaccines for the Prevention of Seasonal COVID-19 Infections in Immunocompromised Patients - Oxford Academic",
-      "summary_original": "IDSA 2025 Guidelines on the Use of Vaccines for the Prevention of Seasonal COVID-19 Infections in Immunocompromised Patients Oxford Academic",
-      "summary_ai_original": "IDSA 2025 Guidelines on the Use of Vaccines for the Prevention of Seasonal COVID-19 Infections in Immunocompromised Patients Oxford Academic",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWEZ6SXh0Ykcxa3pEZmpPUWxPdUxuN0h2UzE2aU5aX0dDcEtYS1IxbUIyQ3h5UHc1SWpuWU9ydXRTeFEtNkJXdkpBSUFvZERrbkRfeE5oMHBna2Y3TmJVUUplZ1dObnJ3cXZuS2ZtUHlfU3NoVWlnTzNjUEYyeDd0S1ZENERTWVpoa0E?oc=5",
-      "source": "Clinical Infectious Diseases",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-08-25T17:09:08+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [
-        "recommendation"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "Clinical Infectious Diseases"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "Clinical Infectious Diseases"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Clinical Infectious Diseases"
-      ],
-      "first_seen_at": "2026-08-25T17:09:08+00:00",
-      "last_seen_at": "2026-08-25T21:39:51.211313+00:00"
-    },
-    {
       "id": "88940e45527ea34c",
       "title": "「死亡率に対するファイザー対モデルナの新型コロナウイルス感染症ワクチンの有効性: インディアナ州における関連死亡率と予防接種記録からの証拠」の補足資料 - SSRN eLibrary",
       "summary": "「ファイザー対モデルナの新型コロナウイルスワクチンの死亡率に対する有効性: インディアナ州における死亡率と予防接種記録の関連性からの証拠」SSRN eLibrary の補足資料",
@@ -3396,73 +2984,6 @@
       ],
       "first_seen_at": "2026-08-22T03:07:02+00:00",
       "last_seen_at": "2026-08-25T21:39:51.211323+00:00"
-    },
-    {
-      "id": "88ff8edbf53e9cfd",
-      "title": "ワクチン政策に関するトランプ大統領の公開協議に専門家ら警鐘 - ガーディアン紙",
-      "summary": "ワクチン政策に関するトランプ大統領の公開協議に専門家ら警鐘 ガーディアン紙",
-      "summary_ai": "ワクチン政策に関するトランプ大統領の公開協議に専門家ら警鐘 ガーディアン紙",
-      "title_original": "Experts raise alarm over Trump’s public consultation on vaccines policy - The Guardian",
-      "summary_original": "Experts raise alarm over Trump’s public consultation on vaccines policy The Guardian",
-      "summary_ai_original": "Experts raise alarm over Trump’s public consultation on vaccines policy The Guardian",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQzB6Q01JRWJKU3AyR0FMSlI4d0h0dmNuWjRYNjlSRUExSnk2Um9zaTdVQnNCMVVRNUs1NXo0Zk1nZHpFUVZjeEJTNExyQW1nZVQ2SWVlQXVfYXg2Q216WW8yTmFWSm5ScXYxcThGQ2VVVGlEemtVQkxESDd5TTVEODVEaWxzVTE1bXljbVpPRFZ3dWpRMTd3?oc=5",
-      "source": "Guardian Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-08-21T19:11:00+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "The Guardian"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "The Guardian"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Guardian Vaccines / Immunization"
-      ],
-      "first_seen_at": "2026-08-21T19:11:00+00:00",
-      "last_seen_at": "2026-08-27T00:46:27.890343+00:00"
     },
     {
       "id": "0adfe996bfafea2b",
@@ -7461,75 +6982,6 @@
       ],
       "first_seen_at": "2026-08-03T07:50:05+00:00",
       "last_seen_at": "2026-08-07T01:04:35.660831+00:00"
-    },
-    {
-      "id": "749b91e9242d3a3d",
-      "title": "非ランダム化研究における新型コロナウイルス感染症ワクチンの推定有効性に影響を与える要因 - BMJ Evidence-Based Medicine",
-      "summary": "非ランダム化研究における新型コロナウイルス感染症ワクチンの推定有効性に影響を与える要因 BMJ Evidence-Based Medicine",
-      "summary_ai": "非ランダム化研究における新型コロナウイルス感染症ワクチンの推定有効性に影響を与える要因 BMJ Evidence-Based Medicine",
-      "title_original": "Factors influencing estimated effectiveness of COVID-19 vaccines in non-randomised studies - BMJ Evidence-Based Medicine",
-      "summary_original": "Factors influencing estimated effectiveness of COVID-19 vaccines in non-randomised studies BMJ Evidence-Based Medicine",
-      "summary_ai_original": "Factors influencing estimated effectiveness of COVID-19 vaccines in non-randomised studies BMJ Evidence-Based Medicine",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Jb3Vqalh5RlNDN1NPMXNwZ0VOMXJqQ1lkcWFnVmhvSmNneW5RTEVXczU5SDBoYjZtY0lEd3lMaVpZa1BTWnBHZVRFZExFVUpFUW0tZWVpelBrdDRMSDBtSQ?oc=5",
-      "source": "BMJ",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-08-03T07:00:00+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "covid"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BMJ / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BMJ / London"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "BMJ"
-      ],
-      "first_seen_at": "2026-03-22T11:09:14+00:00",
-      "last_seen_at": "2026-08-16T21:32:10.115311+00:00"
     },
     {
       "id": "616071b565e62459",
@@ -13675,75 +13127,6 @@
       "last_seen_at": "2026-07-05T22:12:13.932977+00:00"
     },
     {
-      "id": "6ad1c6743595da93",
-      "title": "検査陰性デザインを使用した成人における2025～2026年の新型コロナウイルス感染症ワクチンの有効性の暫定推定値",
-      "summary": "検査陰性デザインを使用した成人における2025～2026年の新型コロナウイルス感染症ワクチンの有効性の暫定推定値",
-      "summary_ai": "検査陰性デザインを使用した成人における2025～2026年の新型コロナウイルス感染症ワクチンの有効性の暫定推定値",
-      "title_original": "Interim Estimated Effectiveness of 2025-2026 COVID-19 Vaccines in Adults Using a Test-Negative Design",
-      "summary_original": "Interim Estimated Effectiveness of 2025-2026 COVID-19 Vaccines in Adults Using a Test-Negative Design",
-      "summary_ai_original": "Interim Estimated Effectiveness of 2025-2026 COVID-19 Vaccines in Adults Using a Test-Negative Design",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9GY1ZBVTctN3NGS3NockczWWNEY2k5bGs0TklFQm9veHZmU0lmcV9wM2ppYXJMMVdsVW54d3hBU3ZHUFZNX0dncTJHcDJ1ZjdTWElEZHhtRGdjNmhiY2tINFU0ZTMyOTN5Zld2dy1IemYtVUZjaFdR?oc=5",
-      "source": "JAMA Network Open vaccines",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 9,
-      "published_at": "2026-06-23T15:37:50+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "covid"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "JAMA Network Open"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "JAMA Network Open"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "JAMA Network Open vaccines"
-      ],
-      "first_seen_at": "2026-06-23T15:37:50+00:00",
-      "last_seen_at": "2026-07-06T22:23:56.043530+00:00"
-    },
-    {
       "id": "82dcea3e3f61f008",
       "title": "ワクチンの誤った情報を特定し、それに対抗する方法: ジャーナリストとコンテンツ作成者向けの PAHO ガイダンス",
       "summary": "ワクチンの誤った情報を特定し、それに対抗する方法: ジャーナリストとコンテンツ作成者向けの PAHO ガイダンス クリスティーナ・ミッチェル 2026 年 6 月 23 日",
@@ -16439,77 +15822,6 @@
       "last_seen_at": "2026-06-26T22:23:22.174014+00:00"
     },
     {
-      "id": "273493c75414a811",
-      "title": "ニルセビマブ、母体用 RSVワクチン、高齢者用 RSVワクチンの実際の有効性と安全性 - thorax.bmj.com",
-      "summary": "ニルセビマブ、母体用 RSVワクチン、高齢者用 RSVワクチンの実際の有効性と安全性 thorax.bmj.com",
-      "summary_ai": "ニルセビマブ、母体用 RSVワクチン、高齢者用 RSVワクチンの実際の有効性と安全性 thorax.bmj.com",
-      "title_original": "Real-world effectiveness and safety of nirsevimab, RSV maternal vaccine and RSV vaccines for older adults - thorax.bmj.com",
-      "summary_original": "Real-world effectiveness and safety of nirsevimab, RSV maternal vaccine and RSV vaccines for older adults thorax.bmj.com",
-      "summary_ai_original": "Real-world effectiveness and safety of nirsevimab, RSV maternal vaccine and RSV vaccines for older adults thorax.bmj.com",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16b1dwUEg0SnlPLTQxS3NzQUlZbHlRZVFwME03N2JDbDhEdUdUbFROS2VjcVE1SVdsZFhDUEtONXFOLVBvN3JLcHM3ZDVETXRxUENRVXQ5WFdXcllpcTNEbnFwOExocmhOR29N?oc=5",
-      "source": "BMJ",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-06-13T02:56:05+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [
-        "safety"
-      ],
-      "vaccines": [
-        "rsv"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BMJ / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BMJ / London"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "BMJ"
-      ],
-      "first_seen_at": "2026-06-13T02:56:05+00:00",
-      "last_seen_at": "2026-06-25T22:43:41.870372+00:00"
-    },
-    {
       "id": "8c92a2e85243b855",
       "title": "MHRA の科学リーダーが 2026 年国王誕生日栄誉賞で認められる",
       "summary": "医薬品・ヘルスケア製品規制庁（MHRA）の科学・研究担当エグゼクティブディレクターであるニコラ・ローズ博士が、科学と公衆衛生への貢献が評価され、2026年国王誕生日の栄誉において大英帝国勲章に任命された。",
@@ -18998,75 +18310,6 @@
       "last_seen_at": "2026-06-09T22:46:13.464465+00:00"
     },
     {
-      "id": "a4addb3522bb471e",
-      "title": "WHO、エボラ出血熱流行中、治療薬とワクチンを試験で特定 - ロイター",
-      "summary": "WHO、エボラ出血熱の治療法とワクチンを臨床試験で特定 ロイター",
-      "summary_ai": "WHO、エボラ出血熱の治療法とワクチンを臨床試験で特定 ロイター",
-      "title_original": "WHO identifies Ebola treatments, vaccines to be tested in trials amid outbreak - Reuters",
-      "summary_original": "WHO identifies Ebola treatments, vaccines to be tested in trials amid outbreak Reuters",
-      "summary_ai_original": "WHO identifies Ebola treatments, vaccines to be tested in trials amid outbreak Reuters",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNT2NpS0g2U0RhcjIxWnIzUE1lNUU3U290VnUtQTc5WGZtaVBDWFVJX1BDbFFWXzZHeEFFaHBhMXR6VEFlWkd1T3poMlZjS240Q1pBalBDRW42TlQ5YUpwb3c1TkhDeVJIdGZwczJHNG1CbGJrRE0zSl81MTJIbkI4SHVWUlBTUnZYcVpuenJ0bjUweHJmR1UtSFJXVzNvS3c2cmJ3U3U1U1ZhVU1ZZUw4a1JzaEtHS1EwRnFtT3IxNE5CYnpvSDJob3JCYjZ2RWpCdENLNkIxSmw1bzl5akE?oc=5",
-      "source": "Reuters Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-05-29T07:00:00+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [
-        "outbreak_response"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "Reuters"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "Reuters"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Reuters Vaccines / Immunization"
-      ],
-      "first_seen_at": "2026-05-28T19:21:00+00:00",
-      "last_seen_at": "2026-06-07T22:16:31.367821+00:00"
-    },
-    {
       "id": "f0fa40f766fc3215",
       "title": "コンゴ民主共和国での臨床試験におけるMVA-BNサル痘ワクチンの安全性",
       "summary": "コンゴ民主共和国での臨床試験におけるMVA-BNサル痘ワクチンの安全性",
@@ -19205,75 +18448,6 @@
       ],
       "first_seen_at": "2026-05-28T07:00:00+00:00",
       "last_seen_at": "2026-06-09T22:46:13.464475+00:00"
-    },
-    {
-      "id": "229fb3d2cc3041df",
-      "title": "発症 SARS-CoV-2 感染症に対する BNT162b2 および mRNA-1273 covid-19 ワクチンの有効性 -",
-      "summary": "発症 SARS-CoV-2 感染症に対する BNT162b2 および mRNA-1273 covid-19 ワクチンの有効性",
-      "summary_ai": "発症 SARS-CoV-2 感染症に対する BNT162b2 および mRNA-1273 covid-19 ワクチンの有効性",
-      "title_original": "Effectiveness of BNT162b2 and mRNA-1273 covid-19 vaccines against symptomatic SARS-CoV-2 infection - The",
-      "summary_original": "Effectiveness of BNT162b2 and mRNA-1273 covid-19 vaccines against symptomatic SARS-CoV-2 infection The",
-      "summary_ai_original": "Effectiveness of BNT162b2 and mRNA-1273 covid-19 vaccines against symptomatic SARS-CoV-2 infection The",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE81WEpPLVFZeFo5V0lHcG5oOHk2eVVzcEZiaC1hVjlBZWRlYVNpT2NVSGxjZnZYRHJZc3BRVFZyNmx0Q21kWUJYMDdXbTJzUnVfbXRDZUI3Nld3Y2o1bkRKWlR5aTc?oc=5",
-      "source": "BMJ",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-05-28T04:12:07+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "covid"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BMJ / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BMJ / London"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "BMJ"
-      ],
-      "first_seen_at": "2026-05-28T04:12:07+00:00",
-      "last_seen_at": "2026-06-09T22:46:13.464483+00:00"
     },
     {
       "id": "6d8dcd80e5f23865",
@@ -20032,79 +19206,6 @@
       "last_seen_at": "2026-05-30T22:11:58.601568+00:00"
     },
     {
-      "id": "50b6ecc93ecab108",
-      "title": "2026 年会議資料、ワクチンおよび関連生物製剤諮問委員会",
-      "summary": "これは、2026 年会議資料、ワクチンおよび関連生物製品諮問委員会 (VRBPAC)のメイン ページです。",
-      "summary_ai": "2026年5月28日、委員会は公開セッションで会合を開き、米国で使用する2026～2027年の新型コロナウイルス感染症ワクチンの配合の選択について議論し、勧告を行う予定だ。 2026 年 3 月 12 日に、委員会は公開セッションで会合し、インフルエンザの株構成について議論し、勧告を行う予定です。",
-      "title_original": "2026 Meeting Materials, Vaccines and Related Biological Products Advisory Committee",
-      "summary_original": "This is the main page for the 2026 Meeting Materials, Vaccines and Related Biological Products Advisory Committee (VRBPAC).",
-      "summary_ai_original": "On May 28, 2026, the Committee will meet in open session to discuss and make recommendations on the selection of the 2026-2027 Formula for COVID-19 vaccines for use in the United States. On March 12, 2026, the Committee will meet in open session to discuss and make recommendations on the strain composition of influenza",
-      "article_text_original": "May 28, 2026 The meeting presentations will be heard, viewed, captioned, and recorded through an online teleconferencing platform. On May 28, 2026, the Committee will meet in open session to discuss and make recommendations on the selection of the 2026-2027 Formula for COVID-19 vaccines for use in the United States. March 12, 2026 The meeting presentations will be heard, viewed, captioned, and recorded through an online teleconferencing platform. On March 12, 2026, the Committee will meet in open session to discuss and make recommendations on the strain composition of influenza virus vaccines for use in United States during the 2026-2027 influenza season.",
-      "link": "http://www.fda.gov/advisory-committees/vaccines-and-related-biological-products-advisory-committee/2026-meeting-materials-vaccines-and-related-biological-products-advisory-committee",
-      "source": "FDA Vaccines / Biologics",
-      "source_type": "official",
-      "source_tier": "Tier 1",
-      "source_priority": 9,
-      "published_at": "2026-05-22T13:36:27+00:00",
-      "topics": [
-        "policy",
-        "research"
-      ],
-      "policy_tags": [
-        "recommendation"
-      ],
-      "vaccines": [
-        "covid",
-        "influenza"
-      ],
-      "variants": [],
-      "target_country": "米国",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "FDA / Silver Spring"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "FDA / Silver Spring"
-        },
-        "target": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "米国"
-        }
-      },
-      "location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "米国"
-      },
-      "region": "North America",
-      "country": "米国",
-      "lat": 38.9072,
-      "lng": -77.0369,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "FDA Vaccines / Biologics"
-      ],
-      "first_seen_at": "2026-04-27T12:01:59+00:00",
-      "last_seen_at": "2026-05-29T22:43:25.454145+00:00"
-    },
-    {
       "id": "56c6bcb7fcaeead4",
       "title": "デルタとオミクロンの新型コロナウイルスに対するワクチンの相対的な有効性 - BMJ Open",
       "summary": "デルタおよびオミクロンの新型コロナウイルスに対する相対的なワクチン有効性 BMJ オープン",
@@ -20313,146 +19414,6 @@
       ],
       "first_seen_at": "2026-05-22T01:42:06+00:00",
       "last_seen_at": "2026-05-24T22:08:19.830837+00:00"
-    },
-    {
-      "id": "78df80894de669cf",
-      "title": "エクアドル、PAHOを通じてワクチン用の移動式コールドチェーン車両を取得したラテンアメリカとカリブ海諸国初の国",
-      "summary": "エクアドル、PAHOオスカー・レイエスを通じてワクチン用移動式コールドチェーン車両を取得したラテンアメリカとカリブ海諸国初の国 2026年5月21日",
-      "summary_ai": "キト、2026年5月21日（PAHO） – エクアドルは、汎米保健機関（PAHO）の地域回転基金を通じて、アクティブなコールドチェーン技術を備えた特別に設計されたワクチン輸送車両群を取得したラテンアメリカおよびカリブ海諸国初の国となった。共和国副大統領",
-      "title_original": "Ecuador, first country in Latin America and the Caribbean to acquire mobile cold-chain vehicles for vaccines through PAHO",
-      "summary_original": "Ecuador, first country in Latin America and the Caribbean to acquire mobile cold-chain vehicles for vaccines through PAHO Oscar Reyes 21 May 2026",
-      "summary_ai_original": "Quito, 21 May 2026 (PAHO) – Ecuador has become the first country in Latin America and the Caribbean to acquire a fleet of specially designed vaccine transport vehicles with active cold-chain technology through the Regional Revolving Funds of the Pan American Health Organization (PAHO). The Vice President of the Republi",
-      "article_text_original": "Quito, 21 May 2026 (PAHO) – Ecuador has become the first country in Latin America and the Caribbean to acquire a fleet of specially designed vaccine transport vehicles with active cold-chain technology through the Regional Revolving Funds of the Pan American Health Organization (PAHO). The acquisition consists of 40 four-wheel-drive vehicles equipped with high-tech refrigeration units that keep vaccines at a constant temperature between 2°C and 8°C throughout transport, even on difficult roads, in hot tropical areas, or in remote territories. Traditionally, vaccines have been transported using cold boxes with ice in conventional vehicles or refrigerated trucks. These systems continue to be widely used and have supported immunization programs, but they may present limitations in ensuring and monitoring temperatures over long distances, in tropical climates, or on rough roads. This new solution complements those efforts by providing greater thermal control and stability, helping ensure that vaccines arrive in optimal condition. The vehicles are also the first in the world to receive the World Health Organization’s (WHO) PQS (Performance, Quality and Safety) prequalification, an international standard certifying their quality and reliability for immunization programs. During the delivery ceremony, Jaime Bernabé, the Minister of Public Health of Ecuador, praised the country’s “first fleet of refrigerated, specialized, and state-of-the-art vehicles.” These mobile units “optimize transportation from the central level to every health center, safeguarding vaccine distribution,” he said. This initiative is part of a broader PAHO strategy through its Regional Revolving Funds, combining technological innovation, improvements in procurement processes, and technical support to countries. The organization is also promoting digital tools to better plan equipment needs, as well as other products such as refrigerated trucks and solar-powered equipment that are already being progressively implemented across the Americas. Sonia Quezada, PAHO/WHO Representative in Ecuador, highlighted that the country procures 100% of its vaccines through the Revolving Fund. “In 2025 alone, we facilitated an investment of US$48.5 million to ensure the supply of 21 highest-quality biological products and guarantee access for 4.4 million people to routine immunization schedules and seasonal vaccination campaigns to prevent vaccine-preventable diseases,” she added. With these vehicles, Ecuador will be able to strengthen its routine vaccination campaigns, improve its response capacity during health emergencies, and guarantee more equitable access to vaccines, especially for the most remote communities. The Vice President of the Republic, María José Pinto, also thanked the Revolving Fund for its support, highlighting the importance of protecting the population because “the vaccine will arrive in good condition to your neighborhood, meaning that when a mother goes to the health center, that vaccine will be there, without having to depend on luck or distance.” About PAHO’s Regional Revolving Funds Through its Regional Revolving Funds, PAHO works with Member States to strengthen vaccine production and supply capacities, as well as access to other essential medical technologies, with the goal of ensuring equitable access throughout the region. These efforts include demand planning, coordination of pooled procurement, logistics strengthening, regulatory support, technical assistance, and the development of national capacities to respond rapidly and safely to health emergencies.",
-      "link": "https://www.paho.org/en/news/21-5-2026-ecuador-first-country-latin-america-and-caribbean-acquire-mobile-cold-chain-vehicles",
-      "source": "PAHO News",
-      "source_type": "official",
-      "source_tier": "Tier 1",
-      "source_priority": 8,
-      "published_at": "2026-05-21T18:21:31+00:00",
-      "topics": [
-        "communication",
-        "policy"
-      ],
-      "policy_tags": [
-        "financing",
-        "outbreak_response",
-        "safety",
-        "schedule"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "PAHO / Washington DC"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "PAHO / Washington DC"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "PAHO News"
-      ],
-      "first_seen_at": "2026-05-21T18:21:31+00:00",
-      "last_seen_at": "2026-06-03T23:10:33.017077+00:00"
-    },
-    {
-      "id": "058f1c0d12382a00",
-      "title": "Ad26 ベースのワクチンの免疫原性における天然に存在する Ad26 中和抗体とワクチン誘導性の Ad26 中和抗体の役割",
-      "summary": "Ad26 ベースのワクチンの免疫原性における天然に存在する Ad26 中和抗体とワクチン誘導性の Ad26 中和抗体の役割",
-      "summary_ai": "Ad26 ベースのワクチンの免疫原性における天然に存在する Ad26 中和抗体とワクチン誘導性の Ad26 中和抗体の役割",
-      "title_original": "The role of naturally occurring and vaccine-induced Ad26 neutralizing antibodies in immunogenicity of Ad26-based vaccines",
-      "summary_original": "The role of naturally occurring and vaccine-induced Ad26 neutralizing antibodies in immunogenicity of Ad26-based vaccines",
-      "summary_ai_original": "The role of naturally occurring and vaccine-induced Ad26 neutralizing antibodies in immunogenicity of Ad26-based vaccines",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzQmtaRWtaT05Pby1MWHpBWWVsN3JhSV9wTkRCQ2cycHBwMzIwMEs3cWNZZUF4SlI4NG80cFhObWlTT19iMF82MWxJaUtvOHpaUEJ1Tk02eDVQdG1pTmtv?oc=5",
-      "source": "Nature News Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 5,
-      "published_at": "2026-05-21T16:10:16+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "Nature News"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "Nature News"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Nature News Vaccines / Immunization"
-      ],
-      "first_seen_at": "2026-05-21T16:10:16+00:00",
-      "last_seen_at": "2026-05-25T22:16:42.242500+00:00"
     },
     {
       "id": "07eeb1c890593e10",
@@ -22945,79 +21906,6 @@
       "last_seen_at": "2026-05-14T22:19:40.227533+00:00"
     },
     {
-      "id": "aae6efcd2bacabc3",
-      "title": "ワクチンおよび関連生物由来製品諮問委員会 2026 年 3 月 12 日会議のお知らせ - 03/12/2026",
-      "summary": "2026年3月12日、委員会は公開セッションで会合し、2026年から2027年のインフルエンザシーズン中に米国で使用されるインフルエンザウイルスワクチンの株組成について議論し、勧告を行う予定です。",
-      "summary_ai": "すべての会議参加者は、オンライン電話会議および/またはビデオ会議プラットフォームを通じてこの諮問委員会会議に参加することにご注意ください。 FDA が会議前に背景資料を Web サイトに掲載できない場合、背景資料は",
-      "title_original": "Vaccines and Related Biological Products Advisory Committee March 12, 2026 Meeting Announcement - 03/12/2026",
-      "summary_original": "On March 12, 2026, the Committee will meet in open session to discuss and make recommendations on the strain composition of influenza virus vaccines for use in United States during the 2026-2027 influenza season.",
-      "summary_ai_original": "Please note that all meeting participants will be joining this advisory committee meeting through an online teleconferencing and/or video conferencing platform. If FDA is unable to post the background material on its website prior to the meeting, the background material will be m",
-      "article_text_original": "- Date: - March 12, 2026 - Time: - 9:00 a.m. - 3:30 p.m. ET What is an advisory committee? Advisory committees provide independent expert advice to the FDA on broad scientific topics or on certain products to help the agency make sound decisions based on the available science. Advisory committees make non-binding recommendations to the FDA, which generally follows the recommendations but is not legally bound to do so. Please see, \"Advisory Committees Give FDA Critical Advice and the Public a Voice,\" for more information. Please note that all meeting participants will be joining this advisory committee meeting through an online teleconferencing and/or video conferencing platform. How to Attend CBER plans to provide a free of charge live webcast of the Vaccines and Related Biological Products Advisory Committee Meeting. If there are instances where the webcast transmission is not successful, staff will work to re-establish the transmission as soon as possible. Agenda The meeting presentations will be heard, viewed, captioned, and recorded through an online teleconferencing and/or video conferencing platform. On March 12, 2026, the Committee will meet in open session to discuss and make recommendations on the strain composition of influenza virus vaccines for use in United States during the 2026-2027 influenza season. Meeting Materials FDA intends to make background material available to the public no later than 2 business days before the meeting. If FDA is unable to post the background material on its website prior to the meeting, the background material will be made publicly available at the time of the advisory committee meeting, and the background material will be posted on FDA’s website after the meeting. Background material is available at the Advisory Committee Calendar. Scroll down to the appropriate advisory committee meeting link. The meeting will include slide presentations with audio components to allow the presentation of materials in a manner that most closely resembles an in-person advisory committee meeting. Public Participation Information Interested persons may present data, information, or views, orally or in writing, on issues pending before the committee. Oral presentations from the public will be scheduled between approximately 9:30 a.m. and 10:30 a.m. Eastern Time on March 12, 2026. FDA is establishing a docket for public comment on this meeting. The docket number is FDA-2026-N-0826. The docket will close on March 11, 2026. Submit either electronic or written comments on this public meeting on or before March 11, 2026. Please note that late, untimely filed comments will not be considered. Electronic comments must be submitted on or before March 11, 2026. The https://www.regulations.gov electronic filing system will accept comments until 11:59 p.m. Eastern Time at the end of March 11, 2026. Comments received by mail/hand delivery/courier (for written/paper submissions) will be considered timely if they are received on or before that date. Comments received on or before March 3, 2026, will be provided to the committee. Comments received after that date and on March 11, 2026, will be taken into consideration by FDA. In the event that the meeting is canceled, FDA will continue to evaluate any relevant applications or information, and consider any comments submitted to the docket, as appropriate. You may submit comments as follows: Electronic Submissions Submit electronic comments as follows: - Federal eRulemaking Portal: https://www.regulations.gov. Follow the instructions for submitting comments. Comments submitted electronically, including attachments, to https://www.regulations.gov will be posted to the docket unchanged. Because your comment will be made public, you are solely responsible for ensuring that your comment does not include any confidential information that you or a third party may not wish to be posted, such as medical information, your or anyone else’s Social Security number, or confidential business information, such as a manufacturing process. Please note that if you include your name, contact information, or other information that identifies you in the body of your comments, that information will be posted on https://www.regulations.gov. - If you want to submit a comment with confidential information that you do not wish to be made available to the public, submit the comment as a written/paper submission and in the manner detailed (see “Written/Paper Submissions” and “Instructions”). Written/Paper Submissions Submit written/paper submissions as follows: - Mail/Hand delivery/Courier (for written/paper submissions): Dockets Management Staff (HFA-305), Food and Drug Administration, 5630 Fishers Lane, Rm. 1061, Rockville, MD 20852. - For written/paper comments submitted to the Dockets Management Staff, FDA will post your comment, as well as any attachments, except for information submitted, marked and identified, as confidential, if submitted as detailed in “Instructions.” Instructions: All submissions received must include the Docket No. FDA-2026-N-0826 for “Vaccines and Related Biological Products Advisory Committee; Notice of Meeting; Establishment of a Public Docket; Request for Comments – United States (U.S.) 2026-2027 Influenza Vaccine Strain Composition”. Received comments, those filed in a timely manner (see ADDRESSES), will be placed in the docket and, except for those submitted as “Confidential Submissions,” publicly viewable at https://www.regulations.gov or at the Dockets Management Staff between 9 a.m. and 4 p.m., Monday through Friday, 240-402-7500. Confidential Submissions: To submit a comment with confidential information that you do not wish to be made publicly available, submit your comments only as a written/paper submission. You should submit two copies total. One copy will include the information you claim to be confidential with a heading or cover note that states “THIS DOCUMENT CONTAINS CONFIDENTIAL INFORMATION.” FDA will review this copy, including the claimed confidential information, in its consideration of comments. The second copy, which will have the claimed confidential information redacted/blacked out, will be available for public viewing and posted on https://www.regulations.gov. Submit both copies to the Dockets Management Staff. If you do not wish your name and contact information be made publicly available, you can provide this information on the cover sheet and not in the body of your comments and you must identify the information as “confidential.” Any information marked as “confidential” will not be disclosed except in accordance with 21 CFR 10.20 and other applicable disclosure law. For more information about FDA’s posting of comments to public dockets, see 80 FR 56469, September 18, 2015, or access the information at: https://www.govinfo.gov/content/pkg/FR-2015-09-18/pdf/2015-23389.pdf. Docket: For access to the docket to read background documents or the electronic and written/paper comments received, go to https://www.regulations.gov and insert the docket number, found in brackets in the heading of this document, into the “Search” box and follow the prompts and/or go to the Dockets Management Staff, 5630 Fishers Lane, Rm. 1061, Rockville, MD 20852, 240-402-7500. FOR FURTHER INFORMATION, CONTACT: Cicely Reese; Center for Biologics Evaluation and Research, Food and Drug Administration, 10903 New Hampshire Ave., Bldg. 71, Rm. 1232, Silver Spring, MD 20993-0002, 301-796-9025, email: CBERVRBPAC@fda.hhs.gov, or FDA Advisory Committee Information Line, 1-800-741-8138 (301-443-0572 in the Washington, DC area). Oral Presentations Oral presentations from the public will be scheduled between approximately 9:30 a.m. and 10:30 a.m. Eastern Time on March 12, 2026. Those individuals interested in making formal oral presentations should notify the contact person and submit a brief statement of the general nature of the evidence or arguments they wish to present, the names and addresses of proposed participants, and an indication of the approximate time requested to make their presentation on or before 12 p.m. Eastern Time on March 2, 2026. Time allotted for each presentation may be limited. If the number of registrants requesting to speak is greater than can be reasonably accommodated during the scheduled open public hearing session, FDA may conduct a lottery to determine the speakers for the scheduled open public hearing session. The contact person will notify interested persons regarding their request to speak by 6 p.m. Eastern Time on March 4, 2026. Webcast Information CBER plans to provide a free of charge live webcast of the Vaccines and Related Biological Products Advisory Committee meeting: The online web conference meeting will be available at the following link: If there are instances where the webcast transmission is not successful, staff will work to re-establish the transmission as soon as possible. Contact Information - Cicely Reese: CBERVRBPAC@fda.hhs.gov - FDA Advisory Committee Information Line: 1-800-741-8138 (301-443-0572 in the Washington, DC area). Please call the Information Line for up-to-date information on this meeting. - For press inquiries, please contact the HHS Press Room at www.hhs.gov/press-room/index.html or 202-690-6343. A notice in the Federal Register about last minute modifications that impact a previously announced advisory committee meeting cannot always be published quickly enough to provide timely notice. Therefore, you should always check the agency’s website or call the committee’s Designated Federal Officer (see Contact Information) to learn about possible modifications before coming to the meeting. Persons attending FDA’s advisory committee meetings are advised that the agency is not responsible for providing access to electrical outlets. FDA welcomes the attendance of the public at its advisory committee meetings and will make every effort to accommodate persons with disabilities. If you require accommodations due to a disability, please contact the committee’s Designated Federal Officer (see Contact Information) at least 7 days in advance of the meeting. Answers to commonly asked questions including information regarding special accommodations due to a disability may be accessed at: Common Questions and Answers about FDA Advisory Committee Meetings. FDA is committed to the orderly conduct of its advisory committee meetings. Please visit our Web site at Public Conduct During FDA Advisory Committee Meetings for procedures on public conduct during advisory committee meetings. Notice of this meeting is given under the Federal Advisory Committee Act (5 U.S.C. app.2).",
-      "link": "http://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-march-12-2026-meeting-announcement",
-      "source": "FDA Vaccines / Biologics",
-      "source_type": "official",
-      "source_tier": "Tier 1",
-      "source_priority": 9,
-      "published_at": "2026-05-07T17:22:59+00:00",
-      "topics": [
-        "policy",
-        "research"
-      ],
-      "policy_tags": [
-        "recommendation",
-        "schedule"
-      ],
-      "vaccines": [
-        "influenza"
-      ],
-      "variants": [],
-      "target_country": "米国",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "FDA / Silver Spring"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "FDA / Silver Spring"
-        },
-        "target": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "米国"
-        }
-      },
-      "location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "米国"
-      },
-      "region": "North America",
-      "country": "米国",
-      "lat": 38.9072,
-      "lng": -77.0369,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "FDA Vaccines / Biologics"
-      ],
-      "first_seen_at": "2026-05-07T17:22:59+00:00",
-      "last_seen_at": "2026-05-07T22:14:37.819332+00:00"
-    },
-    {
       "id": "9b8a91953c0b4d7e",
       "title": "Canada Sentinel Practitioner Surveillance Network (SPSN)による、新型コロナウイルス感染症 (COVID-19)に対する 2025/26 年暫定 LP.8.1 ワクチン有効性推定値: インフルエンザと他の呼吸器ウイルスの同時流行の影響の可能性についての洞察 - Eurosurveillance",
       "summary": "Canadian Sentinel Practitioner Surveillance Network (SPSN)による、2025/26 年の新型コロナウイルス感染症 (COVID-19)に対する LP.8.1 ワクチン有効性暫定推定値: インフルエンザと他の呼吸器ウイルスの同時循環の影響の可能性についての洞察 Eurosurveillance",
@@ -23083,73 +21971,6 @@
       ],
       "first_seen_at": "2026-05-07T17:11:43+00:00",
       "last_seen_at": "2026-05-07T22:14:37.819347+00:00"
-    },
-    {
-      "id": "d54dc04d8dec756a",
-      "title": "ワクチン中のアルミニウムは自閉症やその他の健康上の問題と関連していないことが研究で判明 - CIDRAP",
-      "summary": "ワクチン中のアルミニウムは自閉症やその他の健康問題と関連していないことが研究で判明 CIDRAP",
-      "summary_ai": "ワクチン中のアルミニウムは自閉症やその他の健康問題と関連していないことが研究で判明 CIDRAP",
-      "title_original": "Aluminum in vaccines not linked to autism, other health problems, study finds - CIDRAP",
-      "summary_original": "Aluminum in vaccines not linked to autism, other health problems, study finds CIDRAP",
-      "summary_ai_original": "Aluminum in vaccines not linked to autism, other health problems, study finds CIDRAP",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWU9PY0JVR0ltLTFCbjBtVVVCTXhQWFJmcWRNWGZOWHJGaEVFM1NOSUZPa1RRZHJhUE9INVAxSVU1VkFaREJTUXFPdVFHc3F0QTgtaFROYmFmMndTQWhPVGxFT0pkMG85RnpzUmxtODh5V1QyME53VmNoYURaVlhldmREMzdtTXFIVHc3LW5OTHpiWXFmNGFwOG9nMldlY3hLTWtDcXFwZGw1QWFQTmc?oc=5",
-      "source": "CIDRAP Vaccines & Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 8,
-      "published_at": "2026-05-07T14:23:26+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "CIDRAP / Minnesota"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "CIDRAP / Minnesota"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "CIDRAP Vaccines & Immunization"
-      ],
-      "first_seen_at": "2026-05-07T14:23:26+00:00",
-      "last_seen_at": "2026-05-13T22:24:05.550129+00:00"
     },
     {
       "id": "571cc050dde33209",
@@ -23785,75 +22606,6 @@
       ],
       "first_seen_at": "2026-05-04T19:04:06+00:00",
       "last_seen_at": "2026-05-17T22:06:50.240772+00:00"
-    },
-    {
-      "id": "58faea4bba2b4586",
-      "title": "米国の高齢者におけるアジュバント添加ワクチンと高用量インフルエンザワクチンのクラスターランダム化クロスオーバー研究",
-      "summary": "米国の高齢者におけるアジュバント添加ワクチンと高用量インフルエンザワクチンのクラスターランダム化クロスオーバー研究",
-      "summary_ai": "米国の高齢者におけるアジュバント添加ワクチンと高用量インフルエンザワクチンのクラスターランダム化クロスオーバー研究",
-      "title_original": "Adjuvanted vs High-Dose Influenza Vaccines in Older US Adults A Cluster Randomized Crossover Study",
-      "summary_original": "Adjuvanted vs High-Dose Influenza Vaccines in Older US Adults A Cluster Randomized Crossover Study",
-      "summary_ai_original": "Adjuvanted vs High-Dose Influenza Vaccines in Older US Adults A Cluster Randomized Crossover Study",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9naTJtQ2Nkd1ViU3lZSG1OU3dMaEdENkpwS3lPUUZ0aHBCWklfTzl4cjJWcWxOUVk5QzI0SEJFckRCMU16dXdfay1uV1NpdDN6dnlVR094NV9ocXlTLV9RSjF6X29paDluUGVNbVRZWGZyQlBjMzk4?oc=5",
-      "source": "JAMA Network Open vaccines",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 9,
-      "published_at": "2026-05-04T18:18:43+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "influenza"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "JAMA Network Open"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "JAMA Network Open"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "JAMA Network Open vaccines"
-      ],
-      "first_seen_at": "2026-05-04T18:18:43+00:00",
-      "last_seen_at": "2026-05-17T22:06:50.240776+00:00"
     },
     {
       "id": "2e47283387662728",
@@ -24753,75 +23505,6 @@
       ],
       "first_seen_at": "2026-05-01T00:07:30+00:00",
       "last_seen_at": "2026-05-13T22:24:05.550199+00:00"
-    },
-    {
-      "id": "e613dcca938c80a9",
-      "title": "CDCのコミュニケーションがワクチンへの信頼を損なう - 科学 | ニュースAAAS",
-      "summary": "CDC のコミュニケーションがワクチンへの信頼を損なうAAAS",
-      "summary_ai": "CDC のコミュニケーションがワクチンへの信頼を損なうAAAS",
-      "title_original": "CDC communication undermines trust in vaccines - Science | AAAS",
-      "summary_original": "CDC communication undermines trust in vaccines Science | AAAS",
-      "summary_ai_original": "CDC communication undermines trust in vaccines Science | AAAS",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fNUE1TlEyYVRfV1NybUdEd29JU3ZHTHFaQzN6R3NpMGwwZ2IwSmZPb2xIbW1obDNMblNuRzhXYTJ4ZTR3MEQyT1JnNHNRYmQzM2xmU25LVlBYczlYUnB4ZQ?oc=5",
-      "source": "Science vaccines",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 9,
-      "published_at": "2026-04-30T07:00:00+00:00",
-      "topics": [
-        "communication"
-      ],
-      "policy_tags": [
-        "communication"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "Science"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "Science"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Science vaccines"
-      ],
-      "first_seen_at": "2026-04-30T18:22:38+00:00",
-      "last_seen_at": "2026-05-09T21:58:45.777036+00:00"
     },
     {
       "id": "71178966f60f7985",
@@ -26849,75 +25532,6 @@
       "last_seen_at": "2026-05-02T21:57:09.238569+00:00"
     },
     {
-      "id": "4902950b114eb457",
-      "title": "CDC。新型コロナウイルスワクチンの利点を示す研究の出版を中止 - ニューヨーク・タイムズ",
-      "summary": "CDC。新型コロナワクチンの利点を示す研究の出版を中止 ニューヨーク・タイムズ",
-      "summary_ai": "新型コロナワクチンの利点を示す研究の出版を中止 ニューヨーク・タイムズ",
-      "title_original": "C.D.C. Cancels Publication of Study Showing Benefits of Covid Vaccines - The New York Times",
-      "summary_original": "C.D.C. Cancels Publication of Study Showing Benefits of Covid Vaccines The New York Times",
-      "summary_ai_original": "Cancels Publication of Study Showing Benefits of Covid Vaccines The New York Times",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUmtnRnNuUEhjVHR5cjEyUGNEdndnTWxQbHczNHUzWFR6aldhTjloRmxaQ3l6TC0tdFRCOGFKWFRSb1ljQmgtaUEtblpIS09LX2o4VEZhQ0pFaUc3TGJxdkJId3k5QWVmSHNZQm93Zml2WVZsaTdqbXNDV0hHeTFjUg?oc=5",
-      "source": "New York Times Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-04-22T07:00:00+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "covid"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "New York Times"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "New York Times"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "New York Times Vaccines / Immunization"
-      ],
-      "first_seen_at": "2026-04-22T15:08:16+00:00",
-      "last_seen_at": "2026-05-02T21:57:09.238581+00:00"
-    },
-    {
       "id": "5a9c4aa3a36ab98c",
       "title": "法定ガイダンス: MHRA 手数料",
       "summary": "2025 年から MHRA に料金が支払われます。",
@@ -28642,74 +27256,6 @@
       "last_seen_at": "2026-04-26T21:53:10.454065+00:00"
     },
     {
-      "id": "3f4798793e58f4fa",
-      "title": "ブラジルにおけるチクングニア熱に対するワクチン政策の指針：18歳以上のブラジル人成人を対象とした弱毒化生ワクチンと組換えチクングニア熱ワクチンの費用対効果分析 - BMJ公衆衛生",
-      "summary": "ブラジルにおけるチクングニア熱に対するワクチン政策の指針：18歳以上のブラジル成人を対象とした弱毒化生ワクチンと組換えチクングニア熱ワクチンの費用対効果分析 BMJ Public Health",
-      "summary_ai": "ブラジルにおけるチクングニア熱に対するワクチン政策の指針：18歳以上のブラジル成人を対象とした弱毒化生ワクチンと組換えチクングニア熱ワクチンの費用対効果分析 BMJ Public Health",
-      "title_original": "Guiding vaccine policy for chikungunya in Brazil: a cost-effectiveness analysis of live-attenuated versus recombinant chikungunya vaccines in Brazilian adults ≥18 years - BMJ Public Health",
-      "summary_original": "Guiding vaccine policy for chikungunya in Brazil: a cost-effectiveness analysis of live-attenuated versus recombinant chikungunya vaccines in Brazilian adults ≥18 years BMJ Public Health",
-      "summary_ai_original": "Guiding vaccine policy for chikungunya in Brazil: a cost-effectiveness analysis of live-attenuated versus recombinant chikungunya vaccines in Brazilian adults ≥18 years BMJ Public Health",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95enJkLTdfSGZLOERBd1QyNjR2c3R4MXk1RFF5WkpKQWR1b0Z6Um5ZcW5paHNTTC1MQ3A2aUVuZnMzTmhBUkc1aFIxcVZDcnBla0luZ3ZNMGkxRVhiZEZDWA?oc=5",
-      "source": "BMJ",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-04-10T07:00:00+00:00",
-      "topics": [
-        "policy",
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "ブラジル",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BMJ / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BMJ / London"
-        },
-        "target": {
-          "key": "brazil",
-          "name_ja": "ブラジル",
-          "lat": -15.7939,
-          "lng": -47.8828,
-          "region": "South America",
-          "label": "ブラジル"
-        }
-      },
-      "location": {
-        "key": "brazil",
-        "name_ja": "ブラジル",
-        "lat": -15.7939,
-        "lng": -47.8828,
-        "region": "South America",
-        "label": "ブラジル"
-      },
-      "region": "South America",
-      "country": "ブラジル",
-      "lat": -15.7939,
-      "lng": -47.8828,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "BMJ"
-      ],
-      "first_seen_at": "2026-04-10T07:00:00+00:00",
-      "last_seen_at": "2026-04-23T22:02:09.680997+00:00"
-    },
-    {
       "id": "8e0b751249dc4247",
       "title": "新憲章でケネディ大統領、ワクチン委員会を再設計、裁判所の判決を回避する可能性も - ニューヨーク・タイムズ",
       "summary": "新憲章でケネディ大統領、ワクチン委員会を再設計、ニューヨーク・タイムズの判決を回避する可能性も",
@@ -29547,142 +28093,6 @@
       ],
       "first_seen_at": "2026-04-02T19:31:14+00:00",
       "last_seen_at": "2026-04-15T22:03:08.456135+00:00"
-    },
-    {
-      "id": "0793120b52ec1a7d",
-      "title": "自由という観点からワクチンを説明すると、躊躇する一部の高齢者が新型コロナウイルス予防接種を受け入れるようになる可能性があることが研究で判明 - CIDRAP",
-      "summary": "自由という観点からワクチンを説明すると、躊躇する一部の高齢者が新型コロナウイルスの予防接種を受け入れるようになる可能性があることがCIDRAPの研究で判明",
-      "summary_ai": "自由という観点からワクチンを説明すると、躊躇する一部の高齢者が新型コロナウイルスの予防接種を受け入れるようになる可能性があることがCIDRAPの研究で判明",
-      "title_original": "Describing vaccines in terms of freedom can lead some hesitant older adults to accept COVID shots, study finds - CIDRAP",
-      "summary_original": "Describing vaccines in terms of freedom can lead some hesitant older adults to accept COVID shots, study finds CIDRAP",
-      "summary_ai_original": "Describing vaccines in terms of freedom can lead some hesitant older adults to accept COVID shots, study finds CIDRAP",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNGpNZ3FVUVMwbGxsQlEza3RFX0ZNYmQ1QUlkWDRreW4tdlBrLW5wTzFQdFpqa2ZpU3hrdHRVUzJaWGVLTUlabzZnRnpHRW85Z3JmUi03SllkdmRnOTNoTndYaFVFMTNDLUlHYWlPdE5JanNFYXZ3eU1rQmhxUmpqaHc1R19HQWhaeDJadlFMZ2QtTWpYTllHdHJ0dGgzSVlVRVhlRVd5QkhWc2RQNEdlNjBKWlZXV3lRd3QtZ0cxUTBzSms0?oc=5",
-      "source": "CIDRAP Vaccines & Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 8,
-      "published_at": "2026-04-02T07:00:00+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "CIDRAP / Minnesota"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "CIDRAP / Minnesota"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "CIDRAP Vaccines & Immunization"
-      ],
-      "first_seen_at": "2026-04-02T17:03:03+00:00",
-      "last_seen_at": "2026-04-14T22:03:09.596268+00:00"
-    },
-    {
-      "id": "3bee37488b7709ba",
-      "title": "シンガポールの予防接種頻度の高いおよびまれな若年成人における高用量の組換えインフルエンザワクチンと標準用量の卵培養および細胞培養ワクチンの免疫原性：無作為化、対照、二重盲検、単施設、第4相臨床試験 - ランセット",
-      "summary": "シンガポールの予防接種頻度の高いおよびまれな若年成人における高用量の組換えインフルエンザワクチンと標準用量の卵培養および細胞培養ワクチンの免疫原性：無作為化、対照、二重盲検、単施設、第4相臨床試験 The Lancet",
-      "summary_ai": "シンガポールの予防接種頻度の高いおよびまれな若年成人における高用量の組換えインフルエンザワクチンと標準用量の卵培養および細胞培養ワクチンの免疫原性：無作為化、対照、二重盲検、単施設、第4相臨床試験 The Lancet",
-      "title_original": "Immunogenicity of high-dose recombinant influenza vaccine versus standard-dose egg-grown and cell-grown vaccines among frequently and infrequently vaccinated young adults in Singapore: a randomised, controlled, double-blind, single-centre, phase 4 cli - The Lancet",
-      "summary_original": "Immunogenicity of high-dose recombinant influenza vaccine versus standard-dose egg-grown and cell-grown vaccines among frequently and infrequently vaccinated young adults in Singapore: a randomised, controlled, double-blind, single-centre, phase 4 cli The Lancet",
-      "summary_ai_original": "Immunogenicity of high-dose recombinant influenza vaccine versus standard-dose egg-grown and cell-grown vaccines among frequently and infrequently vaccinated young adults in Singapore: a randomised, controlled, double-blind, single-centre, phase 4 cli The Lancet",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRkZRNlVoYXlEOWVzLVg0SklyOHB5clpJUzdRUFh5QXhuT2ozYkkzcFNvOHg5dTk0Qm1RUTNZa050NnhjaWtUazJEdzRxYUtjTmFuejVmdVY4Y3gtcnZITXctWDNoVG95dlhodUlBN05kbk1lWURxc2FsZWhhUkluRGQtUjlpOUY3NmQw?oc=5",
-      "source": "Lancet Infectious Diseases",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-04-02T07:00:00+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "influenza"
-      ],
-      "variants": [],
-      "target_country": "シンガポール",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "Lancet Infectious Diseases / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "Lancet Infectious Diseases / London"
-        },
-        "target": {
-          "key": "singapore",
-          "name_ja": "シンガポール",
-          "lat": 1.3521,
-          "lng": 103.8198,
-          "region": "Asia",
-          "label": "シンガポール"
-        }
-      },
-      "location": {
-        "key": "singapore",
-        "name_ja": "シンガポール",
-        "lat": 1.3521,
-        "lng": 103.8198,
-        "region": "Asia",
-        "label": "シンガポール"
-      },
-      "region": "Asia",
-      "country": "シンガポール",
-      "lat": 1.3521,
-      "lng": 103.8198,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Lancet Infectious Diseases"
-      ],
-      "first_seen_at": "2026-04-02T07:00:00+00:00",
-      "last_seen_at": "2026-04-15T22:03:08.456141+00:00"
     },
     {
       "id": "2bdcf972456a8a5e",
@@ -31410,75 +29820,6 @@
       ],
       "first_seen_at": "2026-03-23T21:42:51+00:00",
       "last_seen_at": "2026-04-05T21:46:44.313182+00:00"
-    },
-    {
-      "id": "f504a0d4dd093042",
-      "title": "新型コロナウイルスワクチンは突然死のリスクと関連していないことが研究で判明 - CIDRAP",
-      "summary": "新型コロナウイルスワクチンは突然死のリスクと結びついていない、研究結果CIDRAP",
-      "summary_ai": "新型コロナウイルスワクチンは突然死のリスクと結びついていない、研究結果CIDRAP",
-      "title_original": "COVID vaccines not tied to risk of sudden death, study shows - CIDRAP",
-      "summary_original": "COVID vaccines not tied to risk of sudden death, study shows CIDRAP",
-      "summary_ai_original": "COVID vaccines not tied to risk of sudden death, study shows CIDRAP",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcnV3Y0hHajJQOThvZkppaWdRWi1MN3pfeWtHeElnOW5mZDRSTUI4MDRsREFfZG1ybUswOVU1Tk1nZVlISVAwTmtrLWR0TXdKSTJfVk5yQXBMWUtPY1pmajRIdjdBbW10YUtXRWNNM190OUx1QlZPLVZWRS0xTWJnbVV4Q0NIbjZuZEtxOU9BbXE1UUU?oc=5",
-      "source": "CIDRAP Vaccines & Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 8,
-      "published_at": "2026-03-23T07:00:00+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "covid"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "CIDRAP / Minnesota"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "CIDRAP / Minnesota"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "CIDRAP Vaccines & Immunization"
-      ],
-      "first_seen_at": "2026-03-23T19:32:00+00:00",
-      "last_seen_at": "2026-03-31T21:53:35.835406+00:00"
     },
     {
       "id": "8d5e51ccce25baca",
@@ -34296,75 +32637,6 @@
       ],
       "first_seen_at": "2026-03-05T12:49:38+00:00",
       "last_seen_at": "2026-03-13T05:53:41.536979+00:00"
-    },
-    {
-      "id": "349129134579785c",
-      "title": "気候変動下におけるザンビアにおけるマラリアワクチンの州別階層化と資本加重の費用対効果 - BMJ Public Health",
-      "summary": "気候変動下におけるザンビアにおけるマラリアワクチンの州の階層化と資本加重の費用対効果 BMJ Public Health",
-      "summary_ai": "気候変動下におけるザンビアにおけるマラリアワクチンの州の階層化と資本加重の費用対効果 BMJ Public Health",
-      "title_original": "Provincial stratification and equity-weighted cost-effectiveness of malaria vaccines in Zambia under climate variability - BMJ Public Health",
-      "summary_original": "Provincial stratification and equity-weighted cost-effectiveness of malaria vaccines in Zambia under climate variability BMJ Public Health",
-      "summary_ai_original": "Provincial stratification and equity-weighted cost-effectiveness of malaria vaccines in Zambia under climate variability BMJ Public Health",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xRy1mNkNiWkNMcXgyNjN6cEtraDkyRXFrVUJBc1ZuRkdja0tRUnlCbVk2dHNCcGZySUtKVjBKdlF6OVZiWGE3WkxwNEtnNjkzYWYzNzlpRktDV3MtLUJ2Nw?oc=5",
-      "source": "BMJ",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-03-05T08:00:00+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "malaria"
-      ],
-      "variants": [],
-      "target_country": "ザンビア",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BMJ / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BMJ / London"
-        },
-        "target": {
-          "key": "zambia",
-          "name_ja": "ザンビア",
-          "lat": -15.3875,
-          "lng": 28.3228,
-          "region": "Africa",
-          "label": "ザンビア"
-        }
-      },
-      "location": {
-        "key": "zambia",
-        "name_ja": "ザンビア",
-        "lat": -15.3875,
-        "lng": 28.3228,
-        "region": "Africa",
-        "label": "ザンビア"
-      },
-      "region": "Africa",
-      "country": "ザンビア",
-      "lat": -15.3875,
-      "lng": 28.3228,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "BMJ"
-      ],
-      "first_seen_at": "2026-03-05T08:00:00+00:00",
-      "last_seen_at": "2026-03-18T21:49:47.166335+00:00"
     },
     {
       "id": "5ef8a4710c348d44",
