@@ -1,10 +1,287 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-09-09T23:10:01.104283+00:00",
-  "archive_count": 480,
+  "generated_at": "2026-09-10T23:06:17.376905+00:00",
+  "archive_count": 482,
   "days_back": 14,
   "items": [
+    {
+      "id": "4cd2f7f6c5bc5bee",
+      "title": "テニバック",
+      "summary": "TENIVAC は、7 歳以上の人の破傷風およびジフテリアの予防のための能動予防接種を適応とする製品として承認されています。",
+      "summary_ai": "機密情報を共有する前に、連邦政府のサイトにアクセスしていることを確認してください。 https:// により、公式 Web サイトに接続し、提供する情報が暗号化されて安全に送信されることが保証されます。",
+      "title_original": "TENIVAC",
+      "summary_original": "TENIVAC is a product approval Indicated for active immunization for the prevention of tetanus and diphtheria in persons 7 years of age and older.",
+      "summary_ai_original": "Before sharing sensitive information, make sure you're on a federal government site. The https:// ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.",
+      "article_text_original": "The .gov means it’s official. Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you're on a federal government site. The site is secure. The https:// ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely. Recall Alert An update on the Cyclospora outbreak available here.",
+      "link": "http://www.fda.gov/vaccines-blood-biologics/vaccines/tenivac",
+      "source": "FDA Vaccines / Biologics",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 9,
+      "published_at": "2026-09-10T16:20:07+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [
+        "approval",
+        "outbreak_response"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "FDA / Silver Spring"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "FDA / Silver Spring"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "FDA Vaccines / Biologics"
+      ],
+      "first_seen_at": "2026-08-27T15:40:11+00:00",
+      "last_seen_at": "2026-09-10T23:08:03.361623+00:00"
+    },
+    {
+      "id": "aa5df6687dde94d7",
+      "title": "インファンリックス",
+      "summary": "インファンリックスとしても知られる、ジフテリア破傷風トキソイドおよび吸着型無細胞百日咳ワクチンの製品承認情報。",
+      "summary_ai": "STN: BL 103647 正式名: ジフテリアおよび破傷風トキソイドおよび無細胞百日咳ワクチン吸着商品名: INFANRIX メーカー: GlaxoSmithKline Biologicals 適応症: - INFANRIX は、生後 6 週間の乳児および小児に対する 5 回投与シリーズとしてのジフテリア、破傷風、および百日咳に対する能動免疫に適応されています。",
+      "title_original": "INFANRIX",
+      "summary_original": "Product approval information for Diphtheria Tetanus Toxoids and Acellular Pertussis Vaccine Adsorbed also known as Infanrix.",
+      "summary_ai_original": "STN: BL 103647 Proper Name: Diphtheria and Tetanus Toxoids and Acellular Pertussis Vaccine Adsorbed Tradename: INFANRIX Manufacturer: GlaxoSmithKline Biologicals Indications: - INFANRIX is indicated for active immunization against diphtheria, tetanus, and pertussis as a 5-dose series in infants and children aged 6 week",
+      "article_text_original": "STN: BL 103647 Proper Name: Diphtheria and Tetanus Toxoids and Acellular Pertussis Vaccine Adsorbed Tradename: INFANRIX Manufacturer: GlaxoSmithKline Biologicals Indications: - INFANRIX is indicated for active immunization against diphtheria, tetanus, and pertussis as a 5-dose series in infants and children aged 6 weeks through 6 years (prior to the seventh birthday).",
+      "link": "http://www.fda.gov/vaccines-blood-biologics/vaccines/infanrix",
+      "source": "FDA Vaccines / Biologics",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 9,
+      "published_at": "2026-09-10T16:14:26+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [
+        "approval"
+      ],
+      "vaccines": [
+        "pertussis"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "FDA / Silver Spring"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "FDA / Silver Spring"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "FDA Vaccines / Biologics"
+      ],
+      "first_seen_at": "2026-05-15T20:52:08+00:00",
+      "last_seen_at": "2026-09-10T23:08:03.361637+00:00"
+    },
+    {
+      "id": "25b3a5d32b3b6c71",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary": "ワクチン政策STATにとって重要となる可能性がある注目すべき5つの中間レース",
+      "summary_ai": "ワクチン政策STATにとって重要となる可能性がある注目すべき5つの中間レース",
+      "title_original": "Five midterm races to watch that could be crucial for vaccine policy - STAT",
+      "summary_original": "Five midterm races to watch that could be crucial for vaccine policy STAT",
+      "summary_ai_original": "Five midterm races to watch that could be crucial for vaccine policy STAT",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcjh0OHFDWmpQREh1VW1KS1RFblZ0R01rbEJtOWxjNy1pTU9HV0x4WXFsVGY4c3RaWU5UMTA4TTMySHpaMWczcGhzYldjdTVKWnpLOWRNeWdPSHEybW14QUEtMFNiUE5rT0xucFk0dDM0N3BWUGlnV2xVbGNST0ljaXhtaWZsZGJKYURnaDdQdkhsVHEyYXJhbw?oc=5",
+      "source": "STAT Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-09-10T08:31:09+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "STAT"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "STAT"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "STAT Vaccines / Immunization"
+      ],
+      "first_seen_at": "2026-09-10T08:31:09+00:00",
+      "last_seen_at": "2026-09-10T23:08:03.361641+00:00"
+    },
+    {
+      "id": "8c7480d0054242a0",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_ai": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_original": "Impact of a quadrivalent inactivated influenza vaccine on influenza-associated complications and health care use in children aged 6 to 35months: analysis of data from a phase III trial in the Northern and Southern Hemispheres",
+      "summary_original": "Impact of a quadrivalent inactivated influenza vaccine on influenza-associated complications and health care use in children aged 6 to 35months: analysis of data from a phase III trial in the Northern and Southern Hemispheres",
+      "summary_ai_original": "Impact of a quadrivalent inactivated influenza vaccine on influenza-associated complications and health care use in children aged 6 to 35months: analysis of data from a phase III trial in the Northern and Southern Hemispheres",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcDJBMEt1N2ZzLVFRaDhtNWdTWXJqd0czOFQxQkZ2T01TSlRFazJicXBrMlBQVDVXdUxIaFF3Z0pvMUJPd0pBckF5aWlXUmtTd08zVExEeFZtNTdQcmxiVnJfa19vUjJmdERFZTNjUl9vTWhsdGJ4Wml6aFQxYUxBQ01wMk5XQQ?oc=5",
+      "source": "Cochrane vaccines",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-09-10T03:12:15+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "influenza"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Cochrane Library"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Cochrane Library"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Cochrane vaccines"
+      ],
+      "first_seen_at": "2026-09-10T03:12:15+00:00",
+      "last_seen_at": "2026-09-10T23:08:03.361643+00:00"
+    },
     {
       "id": "b11d1893bba72391",
       "title": "医療提供者 (生物製剤)",
@@ -141,22 +418,10 @@
       "country": "米国",
       "lat": 38.9072,
       "lng": -77.0369,
-      "duplicate_count": 26,
+      "duplicate_count": 2,
       "duplicate_sources": [
-        "BMJ",
-        "CIDRAP Vaccines & Immunization",
-        "Clinical Infectious Diseases",
         "FDA Vaccines / Biologics",
-        "Guardian Vaccines / Immunization",
-        "JAMA Network Open vaccines",
-        "Lancet Infectious Diseases",
-        "Nature News Vaccines / Immunization",
-        "New York Times Vaccines / Immunization",
-        "PAHO News",
-        "Pediatrics journal",
-        "Reuters Vaccines / Immunization",
-        "STAT Vaccines / Immunization",
-        "Science vaccines"
+        "SSRN vaccine preprints"
       ],
       "first_seen_at": "2026-09-08T14:54:45+00:00",
       "last_seen_at": "2026-09-09T23:11:56.954331+00:00"
@@ -290,12 +555,12 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicate_sources": [
         "bioRxiv vaccines"
       ],
       "first_seen_at": "2026-09-08T00:33:18+00:00",
-      "last_seen_at": "2026-09-08T23:22:53.768844+00:00"
+      "last_seen_at": "2026-09-10T23:08:03.361649+00:00"
     },
     {
       "id": "dafb2fa14cc8cd79",
@@ -359,7 +624,7 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "duplicate_sources": [
         "The Lancet series"
       ],
@@ -427,7 +692,7 @@
       "country": "韓国",
       "lat": 37.5665,
       "lng": 126.978,
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "duplicate_sources": [
         "SSRN vaccine preprints"
       ],
@@ -501,7 +766,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-09-04T12:12:29+00:00",
-      "last_seen_at": "2026-09-09T23:11:56.954348+00:00"
+      "last_seen_at": "2026-09-10T23:08:03.361663+00:00"
     },
     {
       "id": "cd6659ec3af390e6",
@@ -640,7 +905,7 @@
         "Clinical Infectious Diseases"
       ],
       "first_seen_at": "2026-09-03T21:04:08+00:00",
-      "last_seen_at": "2026-09-09T23:11:56.954355+00:00"
+      "last_seen_at": "2026-09-10T23:08:03.361671+00:00"
     },
     {
       "id": "de100ba20caab8ee",
@@ -778,7 +1043,7 @@
         "PAHO News"
       ],
       "first_seen_at": "2026-09-03T18:37:22+00:00",
-      "last_seen_at": "2026-09-09T23:11:56.954360+00:00"
+      "last_seen_at": "2026-09-10T23:08:03.361678+00:00"
     },
     {
       "id": "c1547c8b515abd0e",
@@ -917,78 +1182,7 @@
         "Reuters Vaccines / Immunization"
       ],
       "first_seen_at": "2026-09-03T08:22:50+00:00",
-      "last_seen_at": "2026-09-09T23:11:56.954367+00:00"
-    },
-    {
-      "id": "c175223aa65a4a3f",
-      "title": "米国のトップ医師が混乱緩和を目指し、インフルエンザと新型コロナウイルスのワクチン推奨を更新 - AP通信",
-      "summary": "米国のトップ医師がインフルエンザと新型コロナウイルスのワクチン推奨を更新、混乱緩和を目指す AP通信",
-      "summary_ai": "米国のトップ医師がインフルエンザと新型コロナウイルスのワクチン推奨を更新、混乱緩和を目指す AP通信",
-      "title_original": "Top US doctors offer updated flu and COVID vaccine recommendations, aiming to ease confusion - AP News",
-      "summary_original": "Top US doctors offer updated flu and COVID vaccine recommendations, aiming to ease confusion AP News",
-      "summary_ai_original": "Top US doctors offer updated flu and COVID vaccine recommendations, aiming to ease confusion AP News",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRVU4MVZQTEgzNGtFVGZsZGNJRWJyaWtNZTJBQmh5bWZjRldXQXp5SVpoQkQwVVJjWXJZVG1CSU1XTFRiNlpzWGhCR19LWGU0bnhwQVEwaTlDS2FjenVEdzFDb1QxUHBEMmFYeGp2Ukt5cXdCYWhHQlk2eDFyZlJNMGhLTzVvaEJkc0hTOGJnaDU5LUsyY1p5dThpbTBrU3hzM3c?oc=5",
-      "source": "AP Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-09-02T22:56:00+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [
-        "recommendation"
-      ],
-      "vaccines": [
-        "covid"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "AP"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "AP"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "AP Vaccines / Immunization"
-      ],
-      "first_seen_at": "2026-09-02T18:04:00+00:00",
-      "last_seen_at": "2026-09-09T23:11:56.954370+00:00"
+      "last_seen_at": "2026-09-10T23:08:03.361686+00:00"
     },
     {
       "id": "eaa787730d06cf59",
@@ -1057,7 +1251,7 @@
         "STAT Vaccines / Immunization"
       ],
       "first_seen_at": "2026-09-02T20:57:16+00:00",
-      "last_seen_at": "2026-09-09T23:11:56.954375+00:00"
+      "last_seen_at": "2026-09-10T23:08:03.361691+00:00"
     },
     {
       "id": "030433c3991482e4",
@@ -1195,7 +1389,7 @@
         "JAMA vaccines"
       ],
       "first_seen_at": "2026-09-02T16:34:32+00:00",
-      "last_seen_at": "2026-09-09T23:11:56.954379+00:00"
+      "last_seen_at": "2026-09-10T23:08:03.361696+00:00"
     },
     {
       "id": "2f089b6802981d0e",
@@ -1261,8 +1455,9 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "duplicate_sources": [
+        "JAMA Network vaccines",
         "JAMA vaccines"
       ],
       "first_seen_at": "2026-09-02T14:56:33+00:00",
@@ -1328,12 +1523,83 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "duplicate_sources": [
         "EBioMedicine vaccines"
       ],
       "first_seen_at": "2026-09-02T09:21:16+00:00",
       "last_seen_at": "2026-09-09T23:11:56.954386+00:00"
+    },
+    {
+      "id": "c175223aa65a4a3f",
+      "title": "米国のトップ医師が混乱緩和を目指し、インフルエンザと新型コロナウイルスのワクチン推奨を更新 - AP通信",
+      "summary": "米国のトップ医師がインフルエンザと新型コロナウイルスのワクチン推奨を更新、混乱緩和を目指す AP通信",
+      "summary_ai": "米国のトップ医師がインフルエンザと新型コロナウイルスのワクチン推奨を更新、混乱緩和を目指す AP通信",
+      "title_original": "Top US doctors offer updated flu and COVID vaccine recommendations, aiming to ease confusion - AP News",
+      "summary_original": "Top US doctors offer updated flu and COVID vaccine recommendations, aiming to ease confusion AP News",
+      "summary_ai_original": "Top US doctors offer updated flu and COVID vaccine recommendations, aiming to ease confusion AP News",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRVU4MVZQTEgzNGtFVGZsZGNJRWJyaWtNZTJBQmh5bWZjRldXQXp5SVpoQkQwVVJjWXJZVG1CSU1XTFRiNlpzWGhCR19LWGU0bnhwQVEwaTlDS2FjenVEdzFDb1QxUHBEMmFYeGp2Ukt5cXdCYWhHQlk2eDFyZlJNMGhLTzVvaEJkc0hTOGJnaDU5LUsyY1p5dThpbTBrU3hzM3c?oc=5",
+      "source": "AP Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-09-02T07:00:00+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [
+        "recommendation"
+      ],
+      "vaccines": [
+        "covid"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "AP"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "AP"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "AP Vaccines / Immunization"
+      ],
+      "first_seen_at": "2026-09-02T18:04:00+00:00",
+      "last_seen_at": "2026-09-10T23:08:03.361704+00:00"
     },
     {
       "id": "039bddc186d8c62d",
@@ -1402,7 +1668,7 @@
         "Reuters Vaccines / Immunization"
       ],
       "first_seen_at": "2026-09-01T06:15:00+00:00",
-      "last_seen_at": "2026-09-09T23:11:56.954390+00:00"
+      "last_seen_at": "2026-09-10T23:08:03.361709+00:00"
     },
     {
       "id": "776fafeaef8d8a9f",
@@ -1681,7 +1947,7 @@
         "Reuters Vaccines / Immunization"
       ],
       "first_seen_at": "2026-08-28T17:12:51+00:00",
-      "last_seen_at": "2026-09-09T23:11:56.954396+00:00"
+      "last_seen_at": "2026-09-10T23:08:03.361716+00:00"
     },
     {
       "id": "d332e0b4b764e33c",
@@ -1815,7 +2081,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-08-28T12:31:14+00:00",
-      "last_seen_at": "2026-09-09T23:11:56.954400+00:00"
+      "last_seen_at": "2026-09-10T23:08:03.361721+00:00"
     },
     {
       "id": "9a52aca1d69ff18b",
@@ -1952,82 +2218,12 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicate_sources": [
         "Open Forum Infectious Diseases"
       ],
       "first_seen_at": "2026-08-27T20:21:04+00:00",
       "last_seen_at": "2026-09-04T23:02:24.176383+00:00"
-    },
-    {
-      "id": "4cd2f7f6c5bc5bee",
-      "title": "テニバック",
-      "summary": "TENIVAC は、7 歳以上の人の破傷風およびジフテリアの予防のための能動予防接種を適応とする製品として承認されています。",
-      "summary_ai": "機密情報を共有する前に、連邦政府のサイトにアクセスしていることを確認してください。 https:// により、公式 Web サイトに接続し、提供する情報が暗号化されて安全に送信されることが保証されます。",
-      "title_original": "TENIVAC",
-      "summary_original": "TENIVAC is a product approval Indicated for active immunization for the prevention of tetanus and diphtheria in persons 7 years of age and older.",
-      "summary_ai_original": "Before sharing sensitive information, make sure you're on a federal government site. The https:// ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.",
-      "article_text_original": "The .gov means it’s official. Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you're on a federal government site. The site is secure. The https:// ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely. Recall Alert An update on the Cyclospora outbreak available here.",
-      "link": "http://www.fda.gov/vaccines-blood-biologics/vaccines/tenivac",
-      "source": "FDA Vaccines / Biologics",
-      "source_type": "official",
-      "source_tier": "Tier 1",
-      "source_priority": 9,
-      "published_at": "2026-08-27T15:40:11+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [
-        "approval",
-        "outbreak_response"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "FDA / Silver Spring"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "FDA / Silver Spring"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "FDA Vaccines / Biologics"
-      ],
-      "first_seen_at": "2026-08-27T15:40:11+00:00",
-      "last_seen_at": "2026-08-30T23:27:55.023494+00:00"
     },
     {
       "id": "23540e6c5b857baa",
@@ -20517,77 +20713,6 @@
       ],
       "first_seen_at": "2026-05-15T22:55:36+00:00",
       "last_seen_at": "2026-05-29T22:43:25.454218+00:00"
-    },
-    {
-      "id": "aa5df6687dde94d7",
-      "title": "インファンリックス",
-      "summary": "インファンリックスとしても知られる、ジフテリア破傷風トキソイドおよび吸着型無細胞百日咳ワクチンの製品承認情報。",
-      "summary_ai": "STN: BL 103647 正式名: ジフテリアおよび破傷風トキソイドおよび無細胞百日咳ワクチン吸着商品名: INFANRIX メーカー: GlaxoSmithKline Biologicals 適応症: - INFANRIX は、生後 6 週間の乳児および小児に対する 5 回投与シリーズとしてのジフテリア、破傷風、および百日咳に対する能動免疫に適応されています。",
-      "title_original": "INFANRIX",
-      "summary_original": "Product approval information for Diphtheria Tetanus Toxoids and Acellular Pertussis Vaccine Adsorbed also known as Infanrix.",
-      "summary_ai_original": "STN: BL 103647 Proper Name: Diphtheria and Tetanus Toxoids and Acellular Pertussis Vaccine Adsorbed Tradename: INFANRIX Manufacturer: GlaxoSmithKline Biologicals Indications: - INFANRIX is indicated for active immunization against diphtheria, tetanus, and pertussis as a 5-dose series in infants and children aged 6 week",
-      "article_text_original": "STN: BL 103647 Proper Name: Diphtheria and Tetanus Toxoids and Acellular Pertussis Vaccine Adsorbed Tradename: INFANRIX Manufacturer: GlaxoSmithKline Biologicals Indications: - INFANRIX is indicated for active immunization against diphtheria, tetanus, and pertussis as a 5-dose series in infants and children aged 6 weeks through 6 years (prior to the seventh birthday).",
-      "link": "http://www.fda.gov/vaccines-blood-biologics/vaccines/infanrix",
-      "source": "FDA Vaccines / Biologics",
-      "source_type": "official",
-      "source_tier": "Tier 1",
-      "source_priority": 9,
-      "published_at": "2026-05-15T20:52:08+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [
-        "approval"
-      ],
-      "vaccines": [
-        "pertussis"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "FDA / Silver Spring"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "FDA / Silver Spring"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "FDA Vaccines / Biologics"
-      ],
-      "first_seen_at": "2026-05-15T20:52:08+00:00",
-      "last_seen_at": "2026-05-20T22:42:30.497922+00:00"
     },
     {
       "id": "58640a6a69868df0",
