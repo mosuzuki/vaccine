@@ -1,8 +1,8 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-09-11T23:12:09.890942+00:00",
-  "archive_count": 488,
+  "generated_at": "2026-09-12T22:59:28.925456+00:00",
+  "archive_count": 489,
   "days_back": 14,
   "items": [
     {
@@ -75,7 +75,7 @@
         "MHRA"
       ],
       "first_seen_at": "2026-09-11T14:11:00+00:00",
-      "last_seen_at": "2026-09-11T23:14:04.393426+00:00"
+      "last_seen_at": "2026-09-12T23:01:16.486659+00:00"
     },
     {
       "id": "bd33c7dc57a1481f",
@@ -150,7 +150,7 @@
         "FDA Vaccines / Biologics"
       ],
       "first_seen_at": "2026-09-11T11:46:43+00:00",
-      "last_seen_at": "2026-09-11T23:14:04.393435+00:00"
+      "last_seen_at": "2026-09-12T23:01:16.486673+00:00"
     },
     {
       "id": "a231671b5a3ad737",
@@ -223,7 +223,7 @@
         "FDA Vaccines / Biologics"
       ],
       "first_seen_at": "2026-09-11T11:45:37+00:00",
-      "last_seen_at": "2026-09-11T23:14:04.393438+00:00"
+      "last_seen_at": "2026-09-12T23:01:16.486680+00:00"
     },
     {
       "id": "b11d1893bba72391",
@@ -295,7 +295,7 @@
         "FDA Vaccines / Biologics"
       ],
       "first_seen_at": "2026-09-08T16:15:06+00:00",
-      "last_seen_at": "2026-09-11T23:14:04.393449+00:00"
+      "last_seen_at": "2026-09-12T23:01:16.486686+00:00"
     },
     {
       "id": "64ab96baeb80ad9e",
@@ -364,7 +364,7 @@
         "STAT Vaccines / Immunization"
       ],
       "first_seen_at": "2026-09-11T08:35:48+00:00",
-      "last_seen_at": "2026-09-11T23:14:04.393451+00:00"
+      "last_seen_at": "2026-09-12T23:01:16.486691+00:00"
     },
     {
       "id": "8fdf74d0a3dc6915",
@@ -433,7 +433,78 @@
         "eClinicalMedicine vaccines"
       ],
       "first_seen_at": "2026-09-11T05:21:00+00:00",
-      "last_seen_at": "2026-09-11T23:14:04.393454+00:00"
+      "last_seen_at": "2026-09-12T23:01:16.486696+00:00"
+    },
+    {
+      "id": "b59d8cde2199031e",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_ai": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_original": "Moderna flu vaccine wins FDA approval - nature.com",
+      "summary_original": "Moderna flu vaccine wins FDA approval nature.com",
+      "summary_ai_original": "Moderna flu vaccine wins FDA approval nature.com",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9MSGhoREIxZXF1SElGWVo0eU41X0RGdm5Xbm54SjlnQzRTeDVWc0V2d01KZmV3U3FrTFJkb1FnN1Y3Szk4dHM1S1Z2VW9xdjNFX3hDZ2lxR1ZMLTF1ajlJ?oc=5",
+      "source": "Nature News Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 5,
+      "published_at": "2026-09-10T16:40:00+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [
+        "approval"
+      ],
+      "vaccines": [
+        "influenza"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Nature News"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Nature News"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Nature News Vaccines / Immunization"
+      ],
+      "first_seen_at": "2026-09-10T16:40:00+00:00",
+      "last_seen_at": "2026-09-12T23:01:16.486699+00:00"
     },
     {
       "id": "4cd2f7f6c5bc5bee",
@@ -503,7 +574,7 @@
         "FDA Vaccines / Biologics"
       ],
       "first_seen_at": "2026-08-27T15:40:11+00:00",
-      "last_seen_at": "2026-09-11T23:14:04.393461+00:00"
+      "last_seen_at": "2026-09-12T23:01:16.486706+00:00"
     },
     {
       "id": "aa5df6687dde94d7",
@@ -574,7 +645,7 @@
         "FDA Vaccines / Biologics"
       ],
       "first_seen_at": "2026-05-15T20:52:08+00:00",
-      "last_seen_at": "2026-09-11T23:14:04.393469+00:00"
+      "last_seen_at": "2026-09-12T23:01:16.486710+00:00"
     },
     {
       "id": "25b3a5d32b3b6c71",
@@ -641,7 +712,7 @@
         "STAT Vaccines / Immunization"
       ],
       "first_seen_at": "2026-09-10T08:31:09+00:00",
-      "last_seen_at": "2026-09-11T23:14:04.393475+00:00"
+      "last_seen_at": "2026-09-12T23:01:16.486714+00:00"
     },
     {
       "id": "8c7480d0054242a0",
@@ -705,7 +776,7 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "duplicate_sources": [
         "Cochrane vaccines"
       ],
@@ -776,10 +847,9 @@
       "country": "米国",
       "lat": 38.9072,
       "lng": -77.0369,
-      "duplicate_count": 3,
+      "duplicate_count": 2,
       "duplicate_sources": [
         "FDA Vaccines / Biologics",
-        "Pediatrics journal",
         "SSRN vaccine preprints"
       ],
       "first_seen_at": "2026-09-08T14:54:45+00:00",
@@ -919,7 +989,7 @@
         "bioRxiv vaccines"
       ],
       "first_seen_at": "2026-09-08T00:33:18+00:00",
-      "last_seen_at": "2026-09-11T23:14:04.393486+00:00"
+      "last_seen_at": "2026-09-12T23:01:16.486721+00:00"
     },
     {
       "id": "dafb2fa14cc8cd79",
@@ -1051,7 +1121,7 @@
       "country": "韓国",
       "lat": 37.5665,
       "lng": 126.978,
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "duplicate_sources": [
         "SSRN vaccine preprints"
       ],
@@ -1125,7 +1195,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-09-04T12:12:29+00:00",
-      "last_seen_at": "2026-09-11T23:14:04.393500+00:00"
+      "last_seen_at": "2026-09-12T23:01:16.486728+00:00"
     },
     {
       "id": "cd6659ec3af390e6",
@@ -1328,7 +1398,7 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicate_sources": [
         "Clinical Infectious Diseases"
       ],
@@ -1402,7 +1472,7 @@
         "PAHO News"
       ],
       "first_seen_at": "2026-09-03T18:37:22+00:00",
-      "last_seen_at": "2026-09-11T23:14:04.393511+00:00"
+      "last_seen_at": "2026-09-12T23:01:16.486733+00:00"
     },
     {
       "id": "c1547c8b515abd0e",
@@ -1541,7 +1611,7 @@
         "Reuters Vaccines / Immunization"
       ],
       "first_seen_at": "2026-09-03T08:22:50+00:00",
-      "last_seen_at": "2026-09-11T23:14:04.393518+00:00"
+      "last_seen_at": "2026-09-12T23:01:16.486740+00:00"
     },
     {
       "id": "eaa787730d06cf59",
@@ -1610,7 +1680,7 @@
         "STAT Vaccines / Immunization"
       ],
       "first_seen_at": "2026-09-02T20:57:16+00:00",
-      "last_seen_at": "2026-09-11T23:14:04.393522+00:00"
+      "last_seen_at": "2026-09-12T23:01:16.486743+00:00"
     },
     {
       "id": "030433c3991482e4",
@@ -1748,7 +1818,7 @@
         "JAMA vaccines"
       ],
       "first_seen_at": "2026-09-02T16:34:32+00:00",
-      "last_seen_at": "2026-09-11T23:14:04.393527+00:00"
+      "last_seen_at": "2026-09-12T23:01:16.486747+00:00"
     },
     {
       "id": "2f089b6802981d0e",
@@ -1958,7 +2028,7 @@
         "AP Vaccines / Immunization"
       ],
       "first_seen_at": "2026-09-02T18:04:00+00:00",
-      "last_seen_at": "2026-09-11T23:14:04.393538+00:00"
+      "last_seen_at": "2026-09-12T23:01:16.486755+00:00"
     },
     {
       "id": "776fafeaef8d8a9f",
@@ -2098,7 +2168,7 @@
         "Reuters Vaccines / Immunization"
       ],
       "first_seen_at": "2026-09-01T06:15:00+00:00",
-      "last_seen_at": "2026-09-11T23:14:04.393545+00:00"
+      "last_seen_at": "2026-09-12T23:01:16.486759+00:00"
     },
     {
       "id": "5b3170d96394243a",
@@ -2165,7 +2235,7 @@
         "medRxiv vaccines"
       ],
       "first_seen_at": "2026-09-01T04:20:21+00:00",
-      "last_seen_at": "2026-09-11T23:14:04.393547+00:00"
+      "last_seen_at": "2026-09-12T23:01:16.486763+00:00"
     },
     {
       "id": "0d8e2f18ccef2b93",
@@ -2373,7 +2443,7 @@
         "Reuters Vaccines / Immunization"
       ],
       "first_seen_at": "2026-08-28T17:12:51+00:00",
-      "last_seen_at": "2026-09-11T23:14:04.393555+00:00"
+      "last_seen_at": "2026-09-12T23:01:16.486770+00:00"
     },
     {
       "id": "d332e0b4b764e33c",
