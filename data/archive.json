@@ -1,10 +1,85 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-09-13T23:05:56.369704+00:00",
-  "archive_count": 489,
+  "generated_at": "2026-09-14T23:50:49.166936+00:00",
+  "archive_count": 490,
   "days_back": 14,
   "items": [
+    {
+      "id": "50b6ecc93ecab108",
+      "title": "2026 年会議資料、ワクチンおよび関連生物製剤諮問委員会",
+      "summary": "これは、2026 年会議資料、ワクチンおよび関連生物製品諮問委員会 (VRBPAC)のメイン ページです。",
+      "summary_ai": "2026年5月28日、委員会は公開セッションで会合を開き、米国で使用する2026～2027年の新型コロナウイルス感染症ワクチンの配合の選択について議論し、勧告を行う予定だ。 2026 年 3 月 12 日に、委員会は公開セッションで会合し、インフルエンザの株構成について議論し、勧告を行う予定です。",
+      "title_original": "2026 Meeting Materials, Vaccines and Related Biological Products Advisory Committee",
+      "summary_original": "This is the main page for the 2026 Meeting Materials, Vaccines and Related Biological Products Advisory Committee (VRBPAC).",
+      "summary_ai_original": "On May 28, 2026, the Committee will meet in open session to discuss and make recommendations on the selection of the 2026-2027 Formula for COVID-19 vaccines for use in the United States. On March 12, 2026, the Committee will meet in open session to discuss and make recommendations on the strain composition of influenza",
+      "article_text_original": "May 28, 2026 The meeting presentations will be heard, viewed, captioned, and recorded through an online teleconferencing platform. On May 28, 2026, the Committee will meet in open session to discuss and make recommendations on the selection of the 2026-2027 Formula for COVID-19 vaccines for use in the United States. March 12, 2026 The meeting presentations will be heard, viewed, captioned, and recorded through an online teleconferencing platform. On March 12, 2026, the Committee will meet in open session to discuss and make recommendations on the strain composition of influenza virus vaccines for use in United States during the 2026-2027 influenza season.",
+      "link": "http://www.fda.gov/advisory-committees/vaccines-and-related-biological-products-advisory-committee/2026-meeting-materials-vaccines-and-related-biological-products-advisory-committee",
+      "source": "FDA Vaccines / Biologics",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 9,
+      "published_at": "2026-09-14T14:35:45+00:00",
+      "topics": [
+        "policy",
+        "research"
+      ],
+      "policy_tags": [
+        "recommendation"
+      ],
+      "vaccines": [
+        "covid",
+        "influenza"
+      ],
+      "variants": [],
+      "target_country": "米国",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "FDA / Silver Spring"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "FDA / Silver Spring"
+        },
+        "target": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "米国"
+        }
+      },
+      "location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "米国"
+      },
+      "region": "North America",
+      "country": "米国",
+      "lat": 38.9072,
+      "lng": -77.0369,
+      "duplicate_count": 4,
+      "duplicate_sources": [
+        "FDA Vaccines / Biologics",
+        "Pediatrics journal",
+        "SSRN vaccine preprints"
+      ],
+      "first_seen_at": "2026-09-14T14:35:45+00:00",
+      "last_seen_at": "2026-09-14T23:52:07.944558+00:00"
+    },
     {
       "id": "333dcc77b41054f2",
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -75,7 +150,7 @@
         "MHRA"
       ],
       "first_seen_at": "2026-09-11T14:11:00+00:00",
-      "last_seen_at": "2026-09-13T23:07:18.841066+00:00"
+      "last_seen_at": "2026-09-14T23:52:07.944573+00:00"
     },
     {
       "id": "bd33c7dc57a1481f",
@@ -150,7 +225,7 @@
         "FDA Vaccines / Biologics"
       ],
       "first_seen_at": "2026-09-11T11:46:43+00:00",
-      "last_seen_at": "2026-09-13T23:07:18.841078+00:00"
+      "last_seen_at": "2026-09-14T23:52:07.944580+00:00"
     },
     {
       "id": "a231671b5a3ad737",
@@ -223,7 +298,7 @@
         "FDA Vaccines / Biologics"
       ],
       "first_seen_at": "2026-09-11T11:45:37+00:00",
-      "last_seen_at": "2026-09-13T23:07:18.841083+00:00"
+      "last_seen_at": "2026-09-14T23:52:07.944585+00:00"
     },
     {
       "id": "b11d1893bba72391",
@@ -295,7 +370,7 @@
         "FDA Vaccines / Biologics"
       ],
       "first_seen_at": "2026-09-08T16:15:06+00:00",
-      "last_seen_at": "2026-09-13T23:07:18.841087+00:00"
+      "last_seen_at": "2026-09-14T23:52:07.944591+00:00"
     },
     {
       "id": "64ab96baeb80ad9e",
@@ -364,7 +439,7 @@
         "STAT Vaccines / Immunization"
       ],
       "first_seen_at": "2026-09-11T08:35:48+00:00",
-      "last_seen_at": "2026-09-13T23:07:18.841090+00:00"
+      "last_seen_at": "2026-09-14T23:52:07.944596+00:00"
     },
     {
       "id": "8fdf74d0a3dc6915",
@@ -433,7 +508,7 @@
         "eClinicalMedicine vaccines"
       ],
       "first_seen_at": "2026-09-11T05:21:00+00:00",
-      "last_seen_at": "2026-09-13T23:07:18.841093+00:00"
+      "last_seen_at": "2026-09-14T23:52:07.944601+00:00"
     },
     {
       "id": "b59d8cde2199031e",
@@ -715,6 +790,73 @@
       "last_seen_at": "2026-09-13T23:07:18.841104+00:00"
     },
     {
+      "id": "026f1633ad22361e",
+      "title": "2025/26 subclade-specific influenza A and B vaccine effectiveness estimates and discordant laboratory-based indicators of vaccin - medRxiv",
+      "summary": "2025/26 subclade-specific influenza A and B vaccine effectiveness estimates and discordant laboratory-based indicators of vaccin medRxiv",
+      "summary_ai": "2025/26 subclade-specific influenza A and B vaccine effectiveness estimates and discordant laboratory-based indicators of vaccin medRxiv",
+      "title_original": "2025/26 subclade-specific influenza A and B vaccine effectiveness estimates and discordant laboratory-based indicators of vaccin - medRxiv",
+      "summary_original": "2025/26 subclade-specific influenza A and B vaccine effectiveness estimates and discordant laboratory-based indicators of vaccin medRxiv",
+      "summary_ai_original": "2025/26 subclade-specific influenza A and B vaccine effectiveness estimates and discordant laboratory-based indicators of vaccin medRxiv",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9WWC1vOFF2LUFyak1HU0g2bE5HcmVmUERUX3hXcWZiQk5xd2V5SmVrUWs1d3pyWTBPdzZMajlBY09EcnZRN0VmeVQ3Z1VzcmY1bXNqbFkwUUFlOGYwTnlNQkpEbXdSSU9pVWZ5S1VYdFMwQW1oYTNnNDRvNA?oc=5",
+      "source": "medRxiv vaccines",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-09-10T07:00:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "medRxiv"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "medRxiv"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "medRxiv vaccines"
+      ],
+      "first_seen_at": "2026-09-10T07:00:00+00:00",
+      "last_seen_at": "2026-09-14T23:52:07.944605+00:00"
+    },
+    {
       "id": "8c7480d0054242a0",
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -776,85 +918,12 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "duplicate_sources": [
         "Cochrane vaccines"
       ],
       "first_seen_at": "2026-09-10T03:12:15+00:00",
       "last_seen_at": "2026-09-13T23:07:18.841107+00:00"
-    },
-    {
-      "id": "c0c68ea110f4772a",
-      "title": "ワクチン",
-      "summary": "CBER はワクチン製品を規制しています。ワクチン情報には、市販が承認されたワクチンのリスト、ワクチンに関する質問、ワクチンの安全性と入手可能性、ワクチン関連のガイダンス文書、通知、規則が含まれます。",
-      "summary_ai": "FDA によって規制されているすべての製品と同様に、ワクチンは、これらの製品の安全性、有効性、純度、効力を保証するために、研究室および臨床データの厳格な審査を受けます。市販が承認されたワクチンは、ワクチンをさらに評価し、多くの場合、特定の問題に対処するために追加の研究を受ける必要がある場合があります。",
-      "title_original": "Vaccines",
-      "summary_original": "CBER regulates vaccine products. Vaccine information includes a listing of vaccines approved for marketing, questions about vaccines, vaccine safety and availability, and vaccine-related guidance documents, notices, and rules.",
-      "summary_ai_original": "Vaccines, as with all products regulated by FDA, undergo a rigorous review of laboratory and clinical data to ensure the safety, efficacy, purity and potency of these products. Vaccines approved for marketing may also be required to undergo additional studies to further evaluate the vaccine and often to address specifi",
-      "article_text_original": "Vaccines, as with all products regulated by FDA, undergo a rigorous review of laboratory and clinical data to ensure the safety, efficacy, purity and potency of these products. Vaccines approved for marketing may also be required to undergo additional studies to further evaluate the vaccine and often to address specific questions about the vaccine's safety, effectiveness or possible side effects. According to the Centers for Disease Control and Prevention, vaccines have reduced preventable infectious diseases to an all-time low and now few people experience the devastating effects of measles, pertussis and other illnesses. The Center for Biologics Evaluation and Research (CBER) regulates vaccine products. Many of these are childhood vaccines that have contributed to a significant reduction of vaccine-preventable diseases. Paragraph Header Contact US White Oak Campus 10903 New Hampshire Ave Silver Spring, MD 20993 United States",
-      "link": "http://www.fda.gov/vaccines-blood-biologics/vaccines",
-      "source": "FDA Vaccines / Biologics",
-      "source_type": "official",
-      "source_tier": "Tier 1",
-      "source_priority": 9,
-      "published_at": "2026-09-08T14:54:45+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [
-        "approval",
-        "outbreak_response",
-        "safety"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "米国",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "FDA / Silver Spring"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "FDA / Silver Spring"
-        },
-        "target": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "米国"
-        }
-      },
-      "location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "米国"
-      },
-      "region": "North America",
-      "country": "米国",
-      "lat": 38.9072,
-      "lng": -77.0369,
-      "duplicate_count": 3,
-      "duplicate_sources": [
-        "FDA Vaccines / Biologics",
-        "Pediatrics journal",
-        "SSRN vaccine preprints"
-      ],
-      "first_seen_at": "2026-09-08T14:54:45+00:00",
-      "last_seen_at": "2026-09-09T23:11:56.954331+00:00"
     },
     {
       "id": "d2b74f00cb2d9561",
@@ -990,7 +1059,7 @@
         "bioRxiv vaccines"
       ],
       "first_seen_at": "2026-09-08T00:33:18+00:00",
-      "last_seen_at": "2026-09-13T23:07:18.841111+00:00"
+      "last_seen_at": "2026-09-14T23:52:07.944614+00:00"
     },
     {
       "id": "dafb2fa14cc8cd79",
@@ -1054,7 +1123,7 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "duplicate_sources": [
         "The Lancet series"
       ],
@@ -1196,7 +1265,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-09-04T12:12:29+00:00",
-      "last_seen_at": "2026-09-13T23:07:18.841117+00:00"
+      "last_seen_at": "2026-09-14T23:52:07.944623+00:00"
     },
     {
       "id": "cd6659ec3af390e6",
@@ -1330,12 +1399,12 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicate_sources": [
         "Clinical Infectious Diseases"
       ],
       "first_seen_at": "2026-09-03T21:04:08+00:00",
-      "last_seen_at": "2026-09-11T23:14:04.393506+00:00"
+      "last_seen_at": "2026-09-14T23:52:07.944628+00:00"
     },
     {
       "id": "de100ba20caab8ee",
@@ -1473,7 +1542,7 @@
         "PAHO News"
       ],
       "first_seen_at": "2026-09-03T18:37:22+00:00",
-      "last_seen_at": "2026-09-13T23:07:18.841123+00:00"
+      "last_seen_at": "2026-09-14T23:52:07.944633+00:00"
     },
     {
       "id": "c1547c8b515abd0e",
@@ -1612,7 +1681,7 @@
         "Reuters Vaccines / Immunization"
       ],
       "first_seen_at": "2026-09-03T08:22:50+00:00",
-      "last_seen_at": "2026-09-13T23:07:18.841128+00:00"
+      "last_seen_at": "2026-09-14T23:52:07.944640+00:00"
     },
     {
       "id": "eaa787730d06cf59",
@@ -1751,76 +1820,6 @@
       ],
       "first_seen_at": "2026-09-02T18:57:05+00:00",
       "last_seen_at": "2026-09-08T23:22:53.769011+00:00"
-    },
-    {
-      "id": "138d9198f5481634",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary_ai": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_original": "RSV Immunization Effectiveness and Safety for the 2026-2027 Respiratory Season",
-      "summary_original": "RSV Immunization Effectiveness and Safety for the 2026-2027 Respiratory Season",
-      "summary_ai_original": "RSV Immunization Effectiveness and Safety for the 2026-2027 Respiratory Season",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Hd3hOMWZkWVBYY2tLanRJRHNWS0hYdHprbG9ZNE1sNlE3clJiamJFcEpuMWtEWHE3b3lEeW9ocExBV2k0ZEpraUdBZnZvTEFDLTJuRkJzdmRHU1BNamF2b0NKSkNsemZS?oc=5",
-      "source": "JAMA vaccines",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 9,
-      "published_at": "2026-09-02T16:34:32+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [
-        "safety"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "JAMA"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "JAMA"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 2,
-      "duplicate_sources": [
-        "JAMA Network vaccines",
-        "JAMA vaccines"
-      ],
-      "first_seen_at": "2026-09-02T16:34:32+00:00",
-      "last_seen_at": "2026-09-12T23:01:16.486747+00:00"
     },
     {
       "id": "2f089b6802981d0e",
@@ -1962,6 +1961,75 @@
       "last_seen_at": "2026-09-09T23:11:56.954386+00:00"
     },
     {
+      "id": "138d9198f5481634",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary_ai": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_original": "RSV Immunization Effectiveness and Safety for the 2026-2027 Respiratory Season",
+      "summary_original": "RSV Immunization Effectiveness and Safety for the 2026-2027 Respiratory Season",
+      "summary_ai_original": "RSV Immunization Effectiveness and Safety for the 2026-2027 Respiratory Season",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Hd3hOMWZkWVBYY2tLanRJRHNWS0hYdHprbG9ZNE1sNlE3clJiamJFcEpuMWtEWHE3b3lEeW9ocExBV2k0ZEpraUdBZnZvTEFDLTJuRkJzdmRHU1BNamF2b0NKSkNsemZS?oc=5",
+      "source": "JAMA vaccines",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 9,
+      "published_at": "2026-09-02T07:00:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [
+        "safety"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "JAMA"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "JAMA"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "JAMA vaccines"
+      ],
+      "first_seen_at": "2026-09-02T16:34:32+00:00",
+      "last_seen_at": "2026-09-14T23:52:07.944648+00:00"
+    },
+    {
       "id": "c175223aa65a4a3f",
       "title": "米国のトップ医師が混乱緩和を目指し、インフルエンザと新型コロナウイルスのワクチン推奨を更新 - AP通信",
       "summary": "米国のトップ医師がインフルエンザと新型コロナウイルスのワクチン推奨を更新、混乱緩和を目指す AP通信",
@@ -2030,7 +2098,7 @@
         "AP Vaccines / Immunization"
       ],
       "first_seen_at": "2026-09-02T18:04:00+00:00",
-      "last_seen_at": "2026-09-13T23:07:18.841137+00:00"
+      "last_seen_at": "2026-09-14T23:52:07.944654+00:00"
     },
     {
       "id": "776fafeaef8d8a9f",
@@ -2170,7 +2238,7 @@
         "Reuters Vaccines / Immunization"
       ],
       "first_seen_at": "2026-09-01T06:15:00+00:00",
-      "last_seen_at": "2026-09-13T23:07:18.841142+00:00"
+      "last_seen_at": "2026-09-14T23:52:07.944690+00:00"
     },
     {
       "id": "0d8e2f18ccef2b93",
@@ -2234,7 +2302,7 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicate_sources": [
         "JAMA Internal Medicine vaccines"
       ],
