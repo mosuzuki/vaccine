@@ -1,10 +1,80 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-09-14T23:50:49.166936+00:00",
-  "archive_count": 490,
+  "generated_at": "2026-09-15T23:30:16.655954+00:00",
+  "archive_count": 492,
   "days_back": 14,
   "items": [
+    {
+      "id": "9fa7727ca48b96fe",
+      "title": "Wiping out measles impossible due to vaccine hesitancy in rich countries, says Gates - reuters.com",
+      "summary": "Wiping out measles impossible due to vaccine hesitancy in rich countries, says Gates reuters.com",
+      "summary_ai": "Wiping out measles impossible due to vaccine hesitancy in rich countries, says Gates reuters.com",
+      "title_original": "Wiping out measles impossible due to vaccine hesitancy in rich countries, says Gates - reuters.com",
+      "summary_original": "Wiping out measles impossible due to vaccine hesitancy in rich countries, says Gates reuters.com",
+      "summary_ai_original": "Wiping out measles impossible due to vaccine hesitancy in rich countries, says Gates reuters.com",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUXQ3eVFNMGt6WU8xUlcwVnAzU1hCd2UwMGRibDlwdnBYZ1NwaWozRGJqZTRVQ3cxWk15SGI2VDZPcGZMY2ZqSG5BZnlLQTlCcXh4bTNON0xndTVjdG03NGU2c0UzYjVrbFRTQV93TW5Uak1wclFRX3pRbzhYVzBuRl90eDJGd2lXWWlvOGpURF91X0p4cVFxRC1ETU1nQnR2NHVGWXJvaVQ4RFZNcENmOGxsYXBleWNOUFRWNlB0Y01McGtPcGJwNTV3?oc=5",
+      "source": "Reuters Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-09-15T04:05:00+00:00",
+      "topics": [
+        "communication"
+      ],
+      "policy_tags": [
+        "communication",
+        "outbreak_response"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Reuters"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Reuters"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Reuters Vaccines / Immunization"
+      ],
+      "first_seen_at": "2026-09-15T04:05:00+00:00",
+      "last_seen_at": "2026-09-15T23:32:06.327891+00:00"
+    },
     {
       "id": "50b6ecc93ecab108",
       "title": "2026 年会議資料、ワクチンおよび関連生物製剤諮問委員会",
@@ -71,11 +141,9 @@
       "country": "米国",
       "lat": 38.9072,
       "lng": -77.0369,
-      "duplicate_count": 4,
+      "duplicate_count": 1,
       "duplicate_sources": [
-        "FDA Vaccines / Biologics",
-        "Pediatrics journal",
-        "SSRN vaccine preprints"
+        "FDA Vaccines / Biologics"
       ],
       "first_seen_at": "2026-09-14T14:35:45+00:00",
       "last_seen_at": "2026-09-14T23:52:07.944558+00:00"
@@ -150,7 +218,7 @@
         "MHRA"
       ],
       "first_seen_at": "2026-09-11T14:11:00+00:00",
-      "last_seen_at": "2026-09-14T23:52:07.944573+00:00"
+      "last_seen_at": "2026-09-15T23:32:06.327907+00:00"
     },
     {
       "id": "bd33c7dc57a1481f",
@@ -508,7 +576,7 @@
         "eClinicalMedicine vaccines"
       ],
       "first_seen_at": "2026-09-11T05:21:00+00:00",
-      "last_seen_at": "2026-09-14T23:52:07.944601+00:00"
+      "last_seen_at": "2026-09-15T23:32:06.327916+00:00"
     },
     {
       "id": "b59d8cde2199031e",
@@ -849,7 +917,7 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "duplicate_sources": [
         "medRxiv vaccines"
       ],
@@ -918,12 +986,12 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicate_sources": [
         "Cochrane vaccines"
       ],
       "first_seen_at": "2026-09-10T03:12:15+00:00",
-      "last_seen_at": "2026-09-13T23:07:18.841107+00:00"
+      "last_seen_at": "2026-09-15T23:32:06.327925+00:00"
     },
     {
       "id": "d2b74f00cb2d9561",
@@ -1059,23 +1127,92 @@
         "bioRxiv vaccines"
       ],
       "first_seen_at": "2026-09-08T00:33:18+00:00",
-      "last_seen_at": "2026-09-14T23:52:07.944614+00:00"
+      "last_seen_at": "2026-09-15T23:32:06.327932+00:00"
     },
     {
-      "id": "dafb2fa14cc8cd79",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary_ai": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_original": "Gold standard vaccine policy as a global health signal - thelancet.com",
-      "summary_original": "Gold standard vaccine policy as a global health signal thelancet.com",
-      "summary_ai_original": "Gold standard vaccine policy as a global health signal thelancet.com",
+      "id": "ef97d226cfc92d70",
+      "title": "タイトル: インフルエンザ入院に対する組換え不活化インフルエンザワクチンと標準用量の不活化インフルエンザワクチンの有効性 - SSRN eLibrary",
+      "summary": "タイトル: SSRN eLibrary におけるインフルエンザ入院に対する組換え型不活化インフルエンザワクチンと標準用量の不活化インフルエンザワクチンの有効性",
+      "summary_ai": "タイトル: SSRN eLibrary におけるインフルエンザ入院に対する組換え型不活化インフルエンザワクチンと標準用量の不活化インフルエンザワクチンの有効性",
+      "title_original": "Title: Effectiveness of recombinant versus standard-dose inactivated influenza vaccines against influenza hospitalization among - SSRN eLibrary",
+      "summary_original": "Title: Effectiveness of recombinant versus standard-dose inactivated influenza vaccines against influenza hospitalization among SSRN eLibrary",
+      "summary_ai_original": "Title: Effectiveness of recombinant versus standard-dose inactivated influenza vaccines against influenza hospitalization among SSRN eLibrary",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV0hraG54SXZTdWNzRnlNUUNLOC12MF90elJXaDhpcG40eUVxTkZOMzhiVmtrbXU2MHl0bUNpU3JpTHBFVHZySlMtSGlkRVJ5aWxEMzVQWmJXR1NwZFMtc2hDTkdzZnRiVklOWjRka1p4OVhHbnloVDlsRHMwcGQ2bEhxX054aDBDckdPczhuM2haU3o5T0E?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOHQ1akdHemV4RUhRQVBIVkQzOV9uTm5HRmNzVTJjOWpJTS0xbWZlbzBFWFcyVFlkR1duMTRpVlk5b0RqMnpoY0xhRzdTenY0NzFwZGVKa2lXZnE5SmN6bWhmakc2RDMwcGFleUhVSHdpVlVoNm5fZmY4OFh4bmdXaXdPY19UUFEtYzRjM21rQ2lGRjRWQ1kyQUZoUzdndE4tUzdOZXBzV1hFd0I2ZG1vWFJGbU8?oc=5",
+      "source": "SSRN vaccine preprints",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 6,
+      "published_at": "2026-09-07T10:06:13+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "influenza"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "SSRN"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "SSRN"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "SSRN vaccine preprints"
+      ],
+      "first_seen_at": "2026-09-07T10:06:13+00:00",
+      "last_seen_at": "2026-09-15T23:32:06.327934+00:00"
+    },
+    {
+      "id": "f77b50c519a41096",
+      "title": "世界的な健康シグナルとしてのゴールドスタンダードのワクチン政策",
+      "summary": "世界的な健康シグナルとしてのゴールドスタンダードのワクチン政策",
+      "summary_ai": "世界的な健康シグナルとしてのゴールドスタンダードのワクチン政策",
+      "title_original": "Gold standard vaccine policy as a global health signal",
+      "summary_original": "Gold standard vaccine policy as a global health signal",
+      "summary_ai_original": "Gold standard vaccine policy as a global health signal",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUlZOZ3Q3SmZvTWdDZHJrczYyWTBQVm5RZ05lUGlaNlFSSWVJS1FwYW5hLWxUMUZMVXNRZkh5ZU5wcjFhcEotZGhncWhXbmpNQUxBeWQ0ejI3YXpSckZmcENiRzBjSS1yZkNCY2w2UDUyM0ZESDJLMWVLWEt6ZllOcktEc0JyN0NyRGZn?oc=5",
       "source": "The Lancet series",
       "source_type": "academic",
       "source_tier": "Tier 3",
       "source_priority": 8,
-      "published_at": "2026-09-04T23:10:15+00:00",
+      "published_at": "2026-09-05T13:54:22+00:00",
       "topics": [
         "policy"
       ],
@@ -1127,8 +1264,8 @@
       "duplicate_sources": [
         "The Lancet series"
       ],
-      "first_seen_at": "2026-09-04T23:10:15+00:00",
-      "last_seen_at": "2026-09-09T23:11:56.954339+00:00"
+      "first_seen_at": "2026-09-05T13:54:22+00:00",
+      "last_seen_at": "2026-09-15T23:32:06.327938+00:00"
     },
     {
       "id": "ce1786897288e568",
@@ -1468,7 +1605,7 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "duplicate_sources": [
         "Clinical Infectious Diseases"
       ],
@@ -1542,7 +1679,7 @@
         "PAHO News"
       ],
       "first_seen_at": "2026-09-03T18:37:22+00:00",
-      "last_seen_at": "2026-09-14T23:52:07.944633+00:00"
+      "last_seen_at": "2026-09-15T23:32:06.327946+00:00"
     },
     {
       "id": "c1547c8b515abd0e",
@@ -1676,7 +1813,7 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "duplicate_sources": [
         "Reuters Vaccines / Immunization"
       ],
@@ -2027,7 +2164,7 @@
         "JAMA vaccines"
       ],
       "first_seen_at": "2026-09-02T16:34:32+00:00",
-      "last_seen_at": "2026-09-14T23:52:07.944648+00:00"
+      "last_seen_at": "2026-09-15T23:32:06.327963+00:00"
     },
     {
       "id": "c175223aa65a4a3f",
@@ -2093,7 +2230,7 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "duplicate_sources": [
         "AP Vaccines / Immunization"
       ],
