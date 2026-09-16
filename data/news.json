@@ -1,9 +1,9 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-09-15T23:30:16.655954+00:00",
-  "item_count": 16,
-  "archive_count": 492,
+  "generated_at": "2026-09-16T23:37:44.706746+00:00",
+  "item_count": 15,
+  "archive_count": 495,
   "days_back": 14,
   "plot_mode_default": "source",
   "feed_status": [
@@ -17,13 +17,13 @@
       "name": "WHO Disease Outbreak News",
       "url": "https://www.who.int/feeds/entity/emergencies/disease-outbreak-news/rss.xml",
       "status": "error",
-      "error": "400 Client Error: Bad Request for url: https://www.who.int/feeds/entity/emergencies/disease-outbreak-news/rss.xml"
+      "error": "404 Client Error: Not Found for url: https://www.who.int/feeds/entity/emergencies/disease-outbreak-news/rss.xml"
     },
     {
       "name": "CDC Newsroom",
       "url": "https://tools.cdc.gov/api/v2/resources/media/316422.rss",
       "status": "ok",
-      "seen": 11,
+      "seen": 10,
       "kept": 0
     },
     {
@@ -57,7 +57,7 @@
       "url": "https://www.gov.uk/government/organisations/medicines-and-healthcare-products-regulatory-agency.atom",
       "status": "ok",
       "seen": 20,
-      "kept": 1
+      "kept": 0
     },
     {
       "name": "Health Canada Recalls and Safety Alerts",
@@ -74,22 +74,23 @@
     {
       "name": "Africa CDC News",
       "url": "https://africacdc.org/feed/",
-      "status": "error",
-      "error": "HTTPSConnectionPool(host='africacdc.org', port=443): Max retries exceeded with url: /feed/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1016)')))"
+      "status": "ok",
+      "seen": 0,
+      "kept": 0
     },
     {
       "name": "PAHO News",
       "url": "https://www.paho.org/en/rss.xml",
       "status": "ok",
-      "seen": 6,
-      "kept": 1
+      "seen": 7,
+      "kept": 2
     },
     {
       "name": "The Lancet series",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Athelancet.com%20(trial%20OR%20policy%20OR%20effectiveness%20OR%20safety)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 3,
-      "kept": 2
+      "seen": 2,
+      "kept": 1
     },
     {
       "name": "Lancet Infectious Diseases",
@@ -102,15 +103,15 @@
       "name": "NEJM",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Anejm.org%20(trial%20OR%20effectiveness%20OR%20policy%20OR%20safety)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
       "name": "BMJ",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abmj.com%20(policy%20OR%20trial%20OR%20effectiveness%20OR%20communication)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 0,
-      "kept": 0
+      "seen": 1,
+      "kept": 1
     },
     {
       "name": "Vaccine journal",
@@ -165,7 +166,7 @@
       "name": "Science vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ascience.org%2Fdoi%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20antibody)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 4,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -193,8 +194,8 @@
       "name": "JAMA vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjama%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 5,
-      "kept": 1
+      "seen": 1,
+      "kept": 0
     },
     {
       "name": "JAMA Network Open vaccines",
@@ -235,56 +236,56 @@
       "name": "bioRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abiorxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 4,
       "kept": 1
     },
     {
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 19,
+      "seen": 21,
       "kept": 0
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 60,
+      "seen": 99,
       "kept": 2
     },
     {
       "name": "AP Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 11,
-      "kept": 1
+      "seen": 6,
+      "kept": 0
     },
     {
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 41,
+      "seen": 17,
       "kept": 0
     },
     {
       "name": "Financial Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aft.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 6,
+      "seen": 8,
       "kept": 0
     },
     {
       "name": "STAT Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 21,
-      "kept": 0
+      "seen": 26,
+      "kept": 2
     },
     {
       "name": "Nature News Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 10,
+      "seen": 13,
       "kept": 0
     },
     {
@@ -298,64 +299,64 @@
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 15,
+      "seen": 16,
       "kept": 0
     },
     {
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 12,
+      "seen": 13,
       "kept": 0
     },
     {
       "name": "Washington Post Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 9,
+      "seen": 14,
       "kept": 0
     },
     {
       "name": "NHK ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anhk.or.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 1,
+      "seen": 2,
       "kept": 0
     },
     {
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 15,
-      "kept": 0
+      "seen": 14,
+      "kept": 1
     },
     {
       "name": "朝日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Aasahi.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 40,
+      "seen": 100,
       "kept": 0
     },
     {
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 11,
+      "seen": 7,
       "kept": 0
     },
     {
       "name": "毎日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 13,
+      "seen": 12,
       "kept": 0
     },
     {
       "name": "JAMA Network vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 8,
-      "kept": 4
+      "seen": 1,
+      "kept": 0
     },
     {
       "name": "JAMA Pediatrics vaccines",
@@ -368,7 +369,7 @@
       "name": "Clinical Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fcid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 4,
+      "seen": 2,
       "kept": 1
     },
     {
@@ -417,8 +418,8 @@
       "name": "EBioMedicine vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Athelancet.com%2Fjournals%2Febiom&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 2,
-      "kept": 1
+      "seen": 1,
+      "kept": 0
     },
     {
       "name": "International Journal of Infectious Diseases",
@@ -459,29 +460,233 @@
       "name": "SSRN vaccine preprints",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Apapers.ssrn.com%20(effectiveness%20OR%20safety%20OR%20policy%20OR%20trial)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 6,
-      "kept": 2
+      "seen": 4,
+      "kept": 1
     }
   ],
   "weekly_ai_summary": {
-    "generated_at": "2026-09-15T23:30:16.655954+00:00",
+    "generated_at": "2026-09-16T23:37:44.706746+00:00",
     "period_days": 7,
-    "policy_count": 2,
+    "policy_count": 6,
     "academic_count": 3,
     "status": "ok",
     "model": "gpt-4o-mini",
-    "policy_summary": "ビル・ゲイツ氏は、富裕国におけるワクチンへのためらいが原因で麻疹の撲滅は不可能であると述べています。",
-    "academic_summary": "2025/26年度の亜系統特異的インフルエンザAおよびBワクチンの有効性に関する推定値が報告されていますが、実験室ベースの指標との不一致が見られます。"
+    "policy_summary": "共和党の上院議員が、トランプ政権のワクチン政策が米国の麻疹による死亡に寄与したと批判しました。また、PAHOはパンデミック予防と対応の強化に向けた国際的な取り組みに参加しています。",
+    "academic_summary": "2025/26年の亜系統特異的インフルエンザAおよびBワクチンの有効性に関する推定が発表されました。その他の情報はサーバーエラーにより入手できませんでした。"
   },
   "items": [
     {
-      "id": "9fa7727ca48b96fe",
-      "title": "Wiping out measles impossible due to vaccine hesitancy in rich countries, says Gates - reuters.com",
-      "summary": "Wiping out measles impossible due to vaccine hesitancy in rich countries, says Gates reuters.com",
-      "summary_ai": "Wiping out measles impossible due to vaccine hesitancy in rich countries, says Gates reuters.com",
-      "title_original": "Wiping out measles impossible due to vaccine hesitancy in rich countries, says Gates - reuters.com",
-      "summary_original": "Wiping out measles impossible due to vaccine hesitancy in rich countries, says Gates reuters.com",
-      "summary_ai_original": "Wiping out measles impossible due to vaccine hesitancy in rich countries, says Gates reuters.com",
+      "id": "1911c94a3a0d3044",
+      "title": "Republican senator faults Trump vaccine policy for US measles deaths as panel weighs health nominees - Reuters",
+      "summary": "Republican senator faults Trump vaccine policy for US measles deaths as panel weighs health nominees Reuters",
+      "summary_ai": "Republican senator faults Trump vaccine policy for US measles deaths as panel weighs health nominees Reuters",
+      "title_original": "Republican senator faults Trump vaccine policy for US measles deaths as panel weighs health nominees - Reuters",
+      "summary_original": "Republican senator faults Trump vaccine policy for US measles deaths as panel weighs health nominees Reuters",
+      "summary_ai_original": "Republican senator faults Trump vaccine policy for US measles deaths as panel weighs health nominees Reuters",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY1lKdm5WdWd0cUtIajVxRUxMUG1CNXpQdnlNcU5OQjFsRFBSNXNGcUdCbGhSUFhKeVpSYmRNRWxpclJiVUd1VGU0bzBfdDRvSWd2b19Sd21ZblhEemZMOU9CUFdZNC1LWmdSNDl0QkY3Ym5HbkQzQjNsREFmUENCYmN3VE9uV0o2bm1UX0RFNjlyYWE0V2tEUG9uUHlwN2RCY1ktTXV6MkVlN1hYVTRXTG9HYnQzUlFDSF9uckx2OTlFakcxdmJBaTNn?oc=5",
+      "source": "Reuters Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-09-16T20:30:18+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [
+        "outbreak_response"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Reuters"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Reuters"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Reuters Vaccines / Immunization"
+      ]
+    },
+    {
+      "id": "2547af1bea504f92",
+      "title": "UNGA: PAHO joins global efforts to advance pandemic prevention, preparedness and response",
+      "summary": "UNGA: PAHO joins global efforts to advance pandemic prevention, preparedness and response Oscar Reyes 16 Sep 2026",
+      "summary_ai": "For the Americas, strengthening pandemic preparedness remains critical as countries continue to face emerging and re-emerging health threats, while working to build more resilient health systems and strengthen health security. “The Americas has important experience to share, including the value of regional cooperation",
+      "title_original": "UNGA: PAHO joins global efforts to advance pandemic prevention, preparedness and response",
+      "summary_original": "UNGA: PAHO joins global efforts to advance pandemic prevention, preparedness and response Oscar Reyes 16 Sep 2026",
+      "summary_ai_original": "For the Americas, strengthening pandemic preparedness remains critical as countries continue to face emerging and re-emerging health threats, while working to build more resilient health systems and strengthen health security. “The Americas has important experience to share, including the value of regional cooperation",
+      "article_text_original": "The Organization will participate in a series of events to share the experience and priorities of the Americas region. Washington, D.C., September 16, 2026 (PAHO) – The Pan American Health Organization (PAHO) will join global efforts to advance pandemic prevention, preparedness and response (PPPR) during the 81st session of the United Nations General Assembly (UNGA), as countries and partners prepare for the Second High-Level Meeting on PPPR on September 25. For the Americas, strengthening pandemic preparedness remains critical as countries continue to face emerging and re-emerging health threats, while working to build more resilient health systems and strengthen health security. The General Assembly comes at a pivotal moment for global health, as countries continue to navigate ongoing health emergencies, economic pressures, climate-related threats and declining development assistance while working to strengthen health systems and protect populations from future risks. Against this backdrop, the High-Level Meeting on PPPR will focus on how countries can sustain and strengthen preparedness efforts in an increasingly constrained global financing environment. PAHO Director Dr. Jarbas Barbosa will participate in a series of high-level events throughout UNGA week, highlighting the experience and priorities of the Americas and the importance of sustained investment, strong health systems and regional and international cooperation to strengthen pandemic preparedness and global health security. The second UN High-Level Meeting on Pandemic Prevention, Preparedness and Response will provide an opportunity to review progress since the first meeting in 2023 and renew political commitment to prevent future pandemics through international cooperation. The discussions will take place as countries advance implementation of the WHO Pandemic Agreement, strengthen the International Health Regulations, and pursue other global commitments aimed at improving pandemic prevention, preparedness and response. In the Americas, many of the capacities needed to prepare for future pandemics are the same ones countries rely on every day to protect health, including disease surveillance, laboratory networks, primary health care, infection prevention and control, and resilient health systems. “Pandemic prevention and preparedness cannot be built only when an emergency occurs. It requires sustained investment in the health systems, laboratories, surveillance and public health capacities that countries need every day,” said Dr. Barbosa. “The Americas has important experience to share, including the value of regional cooperation and the importance of strengthening national capacities as part of global health security.” Strengthening pandemic preparedness in the Americas Pandemics can have profound and far-reaching consequences, disrupting health systems, economies and societies and reversing progress towards the Sustainable Development Goals. COVID-19 underscored the need for sustained investment in preparedness, international cooperation and equitable access to the tools and capacities needed to protect populations. Five years after COVID-19, the world has stronger tools and frameworks for preventing and responding to health emergencies, but significant challenges remain. Sustained political commitment, investment in resilient health systems, trust in science and effective international cooperation remain essential to global health security. The Americas has made important progress in strengthening its capacity to detect and respond to health threats. In 2025, PAHO’s regional surveillance system analyzed more than 2.1 million signals and detected 157 public health events, helping countries identify and respond to emerging threats. The Region has also expanded genomic and laboratory surveillance and strengthened mechanisms for coordinated emergency response. PAHO is also working with countries to reduce vulnerabilities in the supply of vaccines, medicines and other health technologies. In 2025, the Organization’s Revolving Funds delivered 234 million vaccine doses and 13 million diagnostic tests, reaching an estimated 85 million people. At the same time, regional production is expanding, with locally produced vaccines accounting for around 26% of procurement volume through the Revolving Funds in 2025, compared with just 1.5% in 2020. Dr. Barbosa’s UNGA agenda During the week, Dr. Barbosa will participate in key side events: September 21 - Crisis in Preparedness: Laboratories and Frontline Readiness in the Time of Ebola – panel discussion on strengthening laboratory capabilities for routine health needs and pandemic preparedness, co-hosted by the Mérieux Foundation USA, Weill Cornell Medicine, GHESKIO, the Association for Public Health Laboratories and PAHO. September 22 - Two Regions, One Future: Financing Pandemic Prevention, Preparedness and Response to Build Global Health Security – regional keynote at an event organized by PAHO, Africa CDC, Guyana and Burundi, with support from the UN Foundation. - Global Brain Economy Initiative Summit – keynote on the burden of neurological disorders in the Americas and why brain health must be a public priority. – keynote on the burden of neurological disorders in the Americas and why brain health must be a public priority. - Devex Impact House and Lilly – fireside chat on accelerating progress in global cardiometabolic health. – fireside chat on accelerating progress in global cardiometabolic health. - The Health System Stress Test: Integrated NCD Care for UHC – panel discussion organized by the International Society of Nephrology and Devex. - United to Beat Malaria – panel discussion on malaria elimination in Latin America and the Caribbean, organized by the UN Foundation and the United to Beat Malaria partnership. September 23 - Foreign Policy Health Forum – session on NCDs and health security. - OneSCD: A Global Partnership to Advance Equity and Transform Sickle Cell Care– panel discussion organized by Nigeria, UNICEF, WHO, Africa CDC, and St. Jude Children’s Research Hospital. – panel discussion organized by Nigeria, UNICEF, WHO, Africa CDC, St. Jude Children’s Research Hospital and Jamaica. September 24 - Bringing Innovation into Healthcare Systems – session organized by the International Alliance for Personalised Medicine. September 25 - UN High-Level Meeting on Pandemic Prevention, Preparedness and Response – global discussions on strengthening pandemic preparedness and advancing international cooperation and action. Media interested in arranging interviews during UNGA week may contact PAHO’s Media Team (mediateam@paho.org). PAHO will continue working with countries across the Americas and with partners around the world to strengthen the capacities needed to prevent, detect and respond to health emergencies, while helping ensure that lessons from recent crises translate into stronger preparedness, more resilient health systems, and greater health security for all.",
+      "link": "https://www.paho.org/en/news/16-9-2026-unga-paho-joins-global-efforts-advance-pandemic-prevention-preparedness-and-response",
+      "source": "PAHO News",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 8,
+      "published_at": "2026-09-16T13:03:21+00:00",
+      "topics": [
+        "policy",
+        "research"
+      ],
+      "policy_tags": [
+        "financing",
+        "outbreak_response",
+        "safety"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "米国",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "PAHO / Washington DC"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "PAHO / Washington DC"
+        },
+        "target": {
+          "key": "usa",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "米国"
+        }
+      },
+      "location": {
+        "key": "usa",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "米国"
+      },
+      "region": "North America",
+      "country": "米国",
+      "lat": 38.9072,
+      "lng": -77.0369,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "PAHO News"
+      ]
+    },
+    {
+      "id": "61001f3b0fe6f2f0",
+      "title": "塩野義製薬[4507]：組み換えタンパクワクチン「コブゴーズ筋注」の国内における一部変更承認の取得について 2026年9月16日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "summary": "塩野義製薬[4507]：組み換えタンパクワクチン「コブゴーズ筋注」の国内における一部変更承認の取得について 2026年9月16日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
+      "summary_ai": "塩野義製薬[4507]：組み換えタンパクワクチン「コブゴーズ筋注」の国内における一部変更承認の取得について 2026年9月16日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
+      "title_original": "塩野義製薬[4507]：組み換えタンパクワクチン「コブゴーズ筋注」の国内における一部変更承認の取得について 2026年9月16日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "summary_original": "塩野義製薬[4507]：組み換えタンパクワクチン「コブゴーズ筋注」の国内における一部変更承認の取得について 2026年9月16日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
+      "summary_ai_original": "塩野義製薬[4507]：組み換えタンパクワクチン「コブゴーズ筋注」の国内における一部変更承認の取得について 2026年9月16日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQN2pJM014UXVzX0xkeHpHeTNYOE9DNjEtT1A3dkZsUnBDdy03YU1RWGkyV2gxX1pkS0lNOTBhMG1pV2k4M3htNnpRVXpqckhDN0Z5S2ZZSWg3djBrRkVFcGlVVS1CUXNpbXczZ2dUOEMtaVRISjNldkVWRTM0MWJlbDQ5V1VoaUlKSXpiRGdqSzdwTUh6aW9yUk4yWll2bGdVVkVWblhEem1qaDczQ2lPMVpGUzBaWmswYVZZRzY3RkhPLVpKU3dUYzhaVXY?oc=5",
+      "source": "日経 ワクチン / 予防接種",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-09-16T06:00:00+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [
+        "approval"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "japan",
+        "name_ja": "日本",
+        "lat": 35.6762,
+        "lng": 139.6503,
+        "region": "Asia",
+        "label": "日本経済新聞"
+      },
+      "plot": {
+        "source": {
+          "key": "japan",
+          "name_ja": "日本",
+          "lat": 35.6762,
+          "lng": 139.6503,
+          "region": "Asia",
+          "label": "日本経済新聞"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "日経 ワクチン / 予防接種"
+      ]
+    },
+    {
+      "id": "4aff74e44902d7e9",
+      "title": "Wiping out measles impossible due to vaccine hesitancy in rich countries, says Gates - Reuters",
+      "summary": "Wiping out measles impossible due to vaccine hesitancy in rich countries, says Gates Reuters",
+      "summary_ai": "Wiping out measles impossible due to vaccine hesitancy in rich countries, says Gates Reuters",
+      "title_original": "Wiping out measles impossible due to vaccine hesitancy in rich countries, says Gates - Reuters",
+      "summary_original": "Wiping out measles impossible due to vaccine hesitancy in rich countries, says Gates Reuters",
+      "summary_ai_original": "Wiping out measles impossible due to vaccine hesitancy in rich countries, says Gates Reuters",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUXQ3eVFNMGt6WU8xUlcwVnAzU1hCd2UwMGRibDlwdnBYZ1NwaWozRGJqZTRVQ3cxWk15SGI2VDZPcGZMY2ZqSG5BZnlLQTlCcXh4bTNON0xndTVjdG03NGU2c0UzYjVrbFRTQV93TW5Uak1wclFRX3pRbzhYVzBuRl90eDJGd2lXWWlvOGpURF91X0p4cVFxRC1ETU1nQnR2NHVGWXJvaVQ4RFZNcENmOGxsYXBleWNOUFRWNlB0Y01McGtPcGJwNTV3?oc=5",
       "source": "Reuters Vaccines / Immunization",
@@ -543,73 +748,70 @@
       ]
     },
     {
-      "id": "333dcc77b41054f2",
+      "id": "64ab96baeb80ad9e",
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "summary_ai": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_original": "Advanced therapy medicinal products: regulation and licensing in UK",
-      "summary_original": "How to get a marketing authorisation (MA) for an advanced therapy medicinal product (ATMP) so it can be sold and/or supplied in the United Kingdom.",
-      "summary_ai_original": "Overview An advanced therapy medicinal product (ATMP) is a medicinal product which is either: - a gene therapy medicinal product - a somatic cell therapy medicinal product - a tissue engineered product The definition of ATMP is in the Human Medicines Regulations 2012 and includes combination ATMPs. The Innovation Offic",
-      "article_text_original": "This page is for licensing ATMPs only. For biosimilars, see Guidance on the licensing of biosimilar products. for PMFs and VAMFs, see Licensing plasma master files and vaccine antigen master files. 1. Overview An advanced therapy medicinal product (ATMP) is a medicinal product which is either: - a gene therapy medicinal product - a somatic cell therapy medicinal product - a tissue engineered product The definition of ATMP is in the Human Medicines Regulations 2012 and includes combination ATMPs. In the UK, the MHRA is the competent authority: - for all medicinal products, including ATMPs - for UK manufacturers or importers of ATMPs 2. Getting a classification opinion or advice about ATMPs If you are not sure if your product is an ATMP or which type of ATMP it is, refer to this flowchart (PDF, 32.1KB, 5 pages). If you are still uncertain, contact the MHRA Innovation Office by either: The MHRA will classify your product as an ATMP where appropriate. The European Medicines Agency (EMA) ATMP classification website provides useful information, including: - examples of products that have been classified - a ‘Reflection paper on classification of advanced therapy medicinal products’ outlining the scientific and regulatory principles as applied to the classification of ATMPs These are also applicable to the UK. 3. Regulatory queries on regenerative medicines (one-stop shop) All regulatory enquiries about regenerative medicines should be made through the MHRA Innovation Office. The Innovation Office is the single point of contact for all the regulators involved in regenerative medicines: - the Human Tissue Authority (HTA) - the Human Fertilisation and Embryology Authority (HFEA) - Health Research Authority (HRA) - the MHRA To contact the innovation office, either: 4. Scientific advice You can get scientific advice from MHRA at any stage of ATMP development. There is usually a fee for this service. See Current MHRA fees. British Pharmacopoeia support for ATMP developers The British Pharmacopoeia (BP) supports innovation in advanced therapies through the provision of public quality standards and non-mandatory guidance to support the development, manufacture and control of advanced therapy medicinal products (ATMPs). Further information, including free to download ATMP-related guidance, can be found on the British Pharmacopoeia website. 5. Apply to conduct a clinical trial for an advanced therapy medicinal product All ATMPs must undergo clinical trials in the same way as all other medicines. Applications for clinical trial approvals in the UK should be made to the MHRA. See Clinical trials for medicines: apply for approval in the UK. 6. Apply for a marketing authorisation for an ATMP All ATMPs to be placed on the market in the UK must have a marketing authorisation (MA). The MHRA is responsible for assessing the quality, safety and efficacy of each ATMP that needs an MA. See the MHRA guidance on the application process in the UK for further information. Following the implementation of the Windsor Framework on 1 January 2025, applications for MAs covering Great Britain only will no longer be possible. All MA applications for ATMPs must be UK-wide. Refer to additional guidance: UK-wide licensing for human medicines - GOV.UK. 7. Combination ATMPs A combination ATMP includes 1 or more medical devices or active implantable medical devices as integral components of the product. The MHRA evaluates combined ATMPs for MAs and UK clinical trials. The application for an MA for a combined ATMP which contains a medical device should include evidence that the device meets the essential requirements set out in the UK Medical Devices Regulations (SI 2002 No 618, as amended) and, where available, the results of an assessment by an approved body or an EU notified body. See the MHRA guidance on the regulation of medical devices in the UK for further information. 8. Applying for a manufacturer’s licence for an ATMP For advice about getting a manufacturer’s licence from the MHRA, refer to the MHRA guidance on licences to manufacture or email gmpinspectorate@mhra.gov.uk. 9. Manufacture of unlicensed ATMPs in the UK There are 2 ways in which unlicensed ATMPs can be made available in the UK: - hospital exemption - the ‘specials’ scheme Hospital exemption applies for ATMPs which are prepared on a non-routine basis and are used in a hospital with a prescription for a specific patient. To apply for a hospital exemption complete the hospital exemption form and email it to pcl@mhra.gov.uk. See . The ‘specials’ scheme applies to all types of medicinal products. Refer to the MHRA guidance on applying for licences. Manufacturers need a manufacturer’s licence from the MHRA to use either scheme. See non-routine guidance on ATMPs (PDF, 661KB, 3 pages). 10. Human tissues and cells in ATMPs If tissues and cells are being used as starting materials in a medicinal product, the donation, procurement and testing of the cells are covered by the The Human Tissue (Quality and Safety for Human application) Regulations 2007. Under this regulation there are two competent authorities. The Human Fertilisation and Embryology Authority (HFEA) is the competent authority for the use of gametes and embryos, which may be used in the derivation (development) of cells in the manufacture of ATMP. The Human Tissues Authority (HTA) is the competent authority for the licensing and inspection for all other tissues and cells. If a human embryonic stem cell line is derived in the UK, a sample of the resulting cell line must be deposited at the UK Stem Cell Bank. Once the starting materials have been made available, medicines legislation applies and is regulated by the MHRA. Advice on the regulatory routes is available from the Innovation Office. The MHRA and Human Tissues Authority (HTA) work closely together in this area. HTA and the MHRA have agreed that the collection of blood as a starting material for an ATMP can be carried out under either a tissues and cells licence or a blood establishment licence. See the joint HTA and MHRA position. 11. Blood and blood components in medicinal products If blood and blood components are used as starting materials in a medicinal product, the donation and testing are covered by the Blood Safety and Quality Regulations 2005. The competent authority for blood product regulation in the UK is the MHRA.",
-      "link": "https://www.gov.uk/guidance/advanced-therapy-medicinal-products-regulation-and-licensing-in-uk",
-      "source": "MHRA",
-      "source_type": "official",
-      "source_tier": "Tier 1",
-      "source_priority": 8,
-      "published_at": "2026-09-11T14:11:00+00:00",
+      "title_original": "I’m a public health communications consultant. Pro-vaccine advocacy needs more fun - STAT",
+      "summary_original": "I’m a public health communications consultant. Pro-vaccine advocacy needs more fun STAT",
+      "summary_ai_original": "I’m a public health communications consultant. Pro-vaccine advocacy needs more fun STAT",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdjJpSFJiUXNHcW5RcF9jY2YxZDJ2ZENGMVNLX3VfUFdtaV8wMDl6SF9SMk1JeFZkd2Nya2hBVGV1SWVoLTdQOVZVVWprSEg4YUNEdmVMdlpyVEJ0SDNuZmpiTnFaczR2X0FTV2VyRzI2ZGJVREoxNWp2UnJRMzM3LQ?oc=5",
+      "source": "STAT Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-09-11T08:35:48+00:00",
       "topics": [
-        "policy",
-        "research"
+        "communication"
       ],
       "policy_tags": [
-        "approval",
-        "financing",
-        "safety"
+        "communication"
       ],
       "vaccines": [],
       "variants": [],
-      "target_country": "英国",
+      "target_country": "不明",
       "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "MHRA / London"
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "STAT"
       },
       "plot": {
         "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "MHRA / London"
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "STAT"
         },
         "target": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "英国"
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
         }
       },
       "location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "英国"
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
       },
-      "region": "Europe",
-      "country": "英国",
-      "lat": 51.5074,
-      "lng": -0.1278,
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
       "duplicate_count": 1,
       "duplicate_sources": [
-        "MHRA"
+        "STAT Vaccines / Immunization"
       ]
     },
     {
@@ -680,13 +882,78 @@
       ]
     },
     {
-      "id": "0ff9704c78a3d0cd",
-      "title": "2025/26 subclade-specific influenza A and B vaccine effectiveness estimates and discordant laboratory-based indicators of vaccin - medrxiv.org",
-      "summary": "2025/26 subclade-specific influenza A and B vaccine effectiveness estimates and discordant laboratory-based indicators of vaccin medrxiv.org",
-      "summary_ai": "2025/26 subclade-specific influenza A and B vaccine effectiveness estimates and discordant laboratory-based indicators of vaccin medrxiv.org",
-      "title_original": "2025/26 subclade-specific influenza A and B vaccine effectiveness estimates and discordant laboratory-based indicators of vaccin - medrxiv.org",
-      "summary_original": "2025/26 subclade-specific influenza A and B vaccine effectiveness estimates and discordant laboratory-based indicators of vaccin medrxiv.org",
-      "summary_ai_original": "2025/26 subclade-specific influenza A and B vaccine effectiveness estimates and discordant laboratory-based indicators of vaccin medrxiv.org",
+      "id": "25b3a5d32b3b6c71",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary": "ワクチン政策STATにとって重要となる可能性がある注目すべき5つの中間レース",
+      "summary_ai": "ワクチン政策STATにとって重要となる可能性がある注目すべき5つの中間レース",
+      "title_original": "Five midterm races to watch that could be crucial for vaccine policy - STAT",
+      "summary_original": "Five midterm races to watch that could be crucial for vaccine policy STAT",
+      "summary_ai_original": "Five midterm races to watch that could be crucial for vaccine policy STAT",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcjh0OHFDWmpQREh1VW1KS1RFblZ0R01rbEJtOWxjNy1pTU9HV0x4WXFsVGY4c3RaWU5UMTA4TTMySHpaMWczcGhzYldjdTVKWnpLOWRNeWdPSHEybW14QUEtMFNiUE5rT0xucFk0dDM0N3BWUGlnV2xVbGNST0ljaXhtaWZsZGJKYURnaDdQdkhsVHEyYXJhbw?oc=5",
+      "source": "STAT Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-09-10T08:31:09+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "STAT"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "STAT"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "STAT Vaccines / Immunization"
+      ]
+    },
+    {
+      "id": "026f1633ad22361e",
+      "title": "2025/26 subclade-specific influenza A and B vaccine effectiveness estimates and discordant laboratory-based indicators of vaccin - medRxiv",
+      "summary": "2025/26 subclade-specific influenza A and B vaccine effectiveness estimates and discordant laboratory-based indicators of vaccin medRxiv",
+      "summary_ai": "2025/26 subclade-specific influenza A and B vaccine effectiveness estimates and discordant laboratory-based indicators of vaccin medRxiv",
+      "title_original": "2025/26 subclade-specific influenza A and B vaccine effectiveness estimates and discordant laboratory-based indicators of vaccin - medRxiv",
+      "summary_original": "2025/26 subclade-specific influenza A and B vaccine effectiveness estimates and discordant laboratory-based indicators of vaccin medRxiv",
+      "summary_ai_original": "2025/26 subclade-specific influenza A and B vaccine effectiveness estimates and discordant laboratory-based indicators of vaccin medRxiv",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9WWC1vOFF2LUFyak1HU0g2bE5HcmVmUERUX3hXcWZiQk5xd2V5SmVrUWs1d3pyWTBPdzZMajlBY09EcnZRN0VmeVQ3Z1VzcmY1bXNqbFkwUUFlOGYwTnlNQkpEbXdSSU9pVWZ5S1VYdFMwQW1oYTNnNDRvNA?oc=5",
       "source": "medRxiv vaccines",
@@ -877,73 +1144,6 @@
       ]
     },
     {
-      "id": "ef97d226cfc92d70",
-      "title": "タイトル: インフルエンザ入院に対する組換え不活化インフルエンザワクチンと標準用量の不活化インフルエンザワクチンの有効性 - SSRN eLibrary",
-      "summary": "タイトル: SSRN eLibrary におけるインフルエンザ入院に対する組換え型不活化インフルエンザワクチンと標準用量の不活化インフルエンザワクチンの有効性",
-      "summary_ai": "タイトル: SSRN eLibrary におけるインフルエンザ入院に対する組換え型不活化インフルエンザワクチンと標準用量の不活化インフルエンザワクチンの有効性",
-      "title_original": "Title: Effectiveness of recombinant versus standard-dose inactivated influenza vaccines against influenza hospitalization among - SSRN eLibrary",
-      "summary_original": "Title: Effectiveness of recombinant versus standard-dose inactivated influenza vaccines against influenza hospitalization among SSRN eLibrary",
-      "summary_ai_original": "Title: Effectiveness of recombinant versus standard-dose inactivated influenza vaccines against influenza hospitalization among SSRN eLibrary",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOHQ1akdHemV4RUhRQVBIVkQzOV9uTm5HRmNzVTJjOWpJTS0xbWZlbzBFWFcyVFlkR1duMTRpVlk5b0RqMnpoY0xhRzdTenY0NzFwZGVKa2lXZnE5SmN6bWhmakc2RDMwcGFleUhVSHdpVlVoNm5fZmY4OFh4bmdXaXdPY19UUFEtYzRjM21rQ2lGRjRWQ1kyQUZoUzdndE4tUzdOZXBzV1hFd0I2ZG1vWFJGbU8?oc=5",
-      "source": "SSRN vaccine preprints",
-      "source_type": "preprint",
-      "source_tier": "Tier 3",
-      "source_priority": 6,
-      "published_at": "2026-09-07T10:06:13+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "influenza"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "SSRN"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "SSRN"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "SSRN vaccine preprints"
-      ]
-    },
-    {
       "id": "f77b50c519a41096",
       "title": "世界的な健康シグナルとしてのゴールドスタンダードのワクチン政策",
       "summary": "世界的な健康シグナルとしてのゴールドスタンダードのワクチン政策",
@@ -1005,9 +1205,143 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicate_sources": [
         "The Lancet series"
+      ]
+    },
+    {
+      "id": "d98c012419fd87b1",
+      "title": "新型コロナウイルスワクチン研究：科学的亡命は決して必要ではなかった -",
+      "summary": "新型コロナウイルスワクチン研究：科学的亡命は決して必要ではなかった",
+      "summary_ai": "新型コロナウイルスワクチン研究：科学的亡命は決して必要ではなかった",
+      "title_original": "Covid-19 vaccine study: scientific asylum should never have been necessary - The",
+      "summary_original": "Covid-19 vaccine study: scientific asylum should never have been necessary The",
+      "summary_ai_original": "Covid-19 vaccine study: scientific asylum should never have been necessary The",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XWVpTWkxJcVc1b09TbWNUMDdTeEJvNHI3RnBMWnRGeF9OazQ1N2pVNGFvbzRKUnc5cUtDZzh2bGNSS3V1Zko4Y05fVG8wRWw4VFhETnF4aDVmRHUtZXowYnVwN0ZRUkk?oc=5",
+      "source": "BMJ",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-09-04T12:12:29+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "covid"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BMJ / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BMJ / London"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "BMJ"
+      ]
+    },
+    {
+      "id": "58daa21a5f9d2069",
+      "title": "ランダム化条件下での間接的なインフルエンザワクチンの有効性:系統的レビューとメタアナリシス - Oxford Academic",
+      "summary": "ランダム化条件下での間接的なインフルエンザワクチンの有効性:系統的レビューとメタアナリシス オックスフォード・アカデミック",
+      "summary_ai": "ランダム化条件下での間接的なインフルエンザワクチンの有効性:系統的レビューとメタアナリシス オックスフォード・アカデミック",
+      "title_original": "Indirect Influenza Vaccine Effectiveness Under Randomized Conditions: A Systematic Review and Meta-Analysis - Oxford Academic",
+      "summary_original": "Indirect Influenza Vaccine Effectiveness Under Randomized Conditions: A Systematic Review and Meta-Analysis Oxford Academic",
+      "summary_ai_original": "Indirect Influenza Vaccine Effectiveness Under Randomized Conditions: A Systematic Review and Meta-Analysis Oxford Academic",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5kOWgtazd2NFgyaEVyMnpzSUhYdTFCNHhOZExWdXNvUHJxT0ZtZTZDb19sWjdkZjNQSEFzbUZ0Rms1Y0tBUFFQNVM1Q1AwVmZVMlZvUjIxaUt5clVWNlMzNVM1Zw?oc=5",
+      "source": "Clinical Infectious Diseases",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-09-03T21:04:08+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "influenza"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "Clinical Infectious Diseases"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "Clinical Infectious Diseases"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Clinical Infectious Diseases"
       ]
     },
     {
@@ -1078,73 +1412,6 @@
       ]
     },
     {
-      "id": "3f0e288b39868b2b",
-      "title": "重度肥満成人を対象とした組換え型インフルエンザワクチンと標準型インフルエンザワクチン：ランダム化臨床試験 - オックスフォード・アカデミック",
-      "summary": "重度肥満成人における組換えインフルエンザワクチンと標準インフルエンザワクチン：ランダム化臨床試験 オックスフォード・アカデミック",
-      "summary_ai": "重度肥満成人における組換えインフルエンザワクチンと標準インフルエンザワクチン：ランダム化臨床試験 オックスフォード・アカデミック",
-      "title_original": "Recombinant vs Standard Influenza Vaccine in Adults With Severe Obesity: A Randomized Clinical Trial - Oxford Academic",
-      "summary_original": "Recombinant vs Standard Influenza Vaccine in Adults With Severe Obesity: A Randomized Clinical Trial Oxford Academic",
-      "summary_ai_original": "Recombinant vs Standard Influenza Vaccine in Adults With Severe Obesity: A Randomized Clinical Trial Oxford Academic",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBOcHp5em0xYWxkNFFLUHdSRWYtVjRIRGJYSTl6NUFKdnZITWtjZTk1UUYxMFh1Z1M3aUk3LUN3TFBGZnRNRzBLanphN0RqaGtOS3hOMVMxek91MU1oLVlFanN4MA?oc=5",
-      "source": "Clinical Infectious Diseases",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-09-03T14:34:19+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "influenza"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "Clinical Infectious Diseases"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "Clinical Infectious Diseases"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Clinical Infectious Diseases"
-      ]
-    },
-    {
       "id": "c28b5ef08eca661b",
       "title": "韓国における国家ヒトパピローマウイルス予防接種プログラムの有効性: 全国規模の人口ベースのコホート研究 - SSRN eLibrary",
       "summary": "韓国における国家ヒトパピローマウイルス予防接種プログラムの有効性: 全国規模の人口ベースのコホート研究 SSRN eLibrary",
@@ -1208,342 +1475,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "SSRN vaccine preprints"
-      ]
-    },
-    {
-      "id": "4b58da3e31cec5e1",
-      "title": "Transgene jumps 20% on positive cancer vaccine data in early trial - reuters.com",
-      "summary": "Transgene jumps 20% on positive cancer vaccine data in early trial reuters.com",
-      "summary_ai": "Transgene jumps 20% on positive cancer vaccine data in early trial reuters.com",
-      "title_original": "Transgene jumps 20% on positive cancer vaccine data in early trial - reuters.com",
-      "summary_original": "Transgene jumps 20% on positive cancer vaccine data in early trial reuters.com",
-      "summary_ai_original": "Transgene jumps 20% on positive cancer vaccine data in early trial reuters.com",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPd0JsWG5KNGNVUm5LbGpuZkRJY0RjbDFJU2hpaDB1TzlzYzFDQmxiaVJ5M2lfRXRuWXNLaVVKSzVhbXVpdE5Ba0I5YXViUU5IMVZYUFZGMkNDcWF5OWQzdHpHM1BfZFl1QzE4aGVYRjNtVlZfUi1HNTVqMC1LSnN1cXdtS1dfUnFnOHIteFBpTVBYME56RUs0QUkyam5ld3pzcjg4d25VaDBvQVd0NW5rRHJSTVB3N3VfWEwweHRyTW9MUjB6MVQwdU51Yw?oc=5",
-      "source": "Reuters Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-09-03T07:00:00+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "Reuters"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "Reuters"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Reuters Vaccines / Immunization"
-      ]
-    },
-    {
-      "id": "4aa2bdfe61f1635c",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary_ai": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_original": "COVID-19 Vaccine Effectiveness and Safety for the 2026-2027 Respiratory Season",
-      "summary_original": "COVID-19 Vaccine Effectiveness and Safety for the 2026-2027 Respiratory Season",
-      "summary_ai_original": "COVID-19 Vaccine Effectiveness and Safety for the 2026-2027 Respiratory Season",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBnZzNVRVgxc2RSaUJnSElUdlRyQlRBdXhBMDgtZmcyUjc4SEdQNVhpWWxlRlZOdl9wTFFCa3NQemJudk5MTUpwVEpVb2RvYzFHV2ppSGJqZjBXek5yNUNBS0lJRHlmbVZ0Q01BZGpTZFlqR3h4eEpJ?oc=5",
-      "source": "JAMA Network vaccines",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-09-02T14:00:00+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [
-        "safety"
-      ],
-      "vaccines": [
-        "covid"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "JAMA Network"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "JAMA Network"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 2,
-      "duplicate_sources": [
-        "JAMA Network vaccines"
-      ]
-    },
-    {
-      "id": "401030603dde7368",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary_ai": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_original": "Quantifying how HIV-1 envelope sequence features impact vaccine efficacy in the HVTN 705/HPX2008 randomised trial in southern African women",
-      "summary_original": "Quantifying how HIV-1 envelope sequence features impact vaccine efficacy in the HVTN 705/HPX2008 randomised trial in southern African women",
-      "summary_ai_original": "Quantifying how HIV-1 envelope sequence features impact vaccine efficacy in the HVTN 705/HPX2008 randomised trial in southern African women",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRmZCRnB5Z0tVWlVwUjlFMmhXOEVDaW1WbnFTaW1tUUdNOVRLZXRROXFJU19tcDVkTjFCZFA1VXZKcERyTkFTdWJud0lSRC1MRUNzczlydVdnTzBtUEpRRFQwRFlLNXFRRElocldvck5SVjhUcEQxeE1vN2FUeGhkb3hZOWd1Rm54aHc?oc=5",
-      "source": "EBioMedicine vaccines",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 7,
-      "published_at": "2026-09-02T09:21:16+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "EBioMedicine"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "EBioMedicine"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "EBioMedicine vaccines"
-      ]
-    },
-    {
-      "id": "138d9198f5481634",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary_ai": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_original": "RSV Immunization Effectiveness and Safety for the 2026-2027 Respiratory Season",
-      "summary_original": "RSV Immunization Effectiveness and Safety for the 2026-2027 Respiratory Season",
-      "summary_ai_original": "RSV Immunization Effectiveness and Safety for the 2026-2027 Respiratory Season",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Hd3hOMWZkWVBYY2tLanRJRHNWS0hYdHprbG9ZNE1sNlE3clJiamJFcEpuMWtEWHE3b3lEeW9ocExBV2k0ZEpraUdBZnZvTEFDLTJuRkJzdmRHU1BNamF2b0NKSkNsemZS?oc=5",
-      "source": "JAMA vaccines",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 9,
-      "published_at": "2026-09-02T07:00:00+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [
-        "safety"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "JAMA"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "JAMA"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 3,
-      "duplicate_sources": [
-        "JAMA Network vaccines",
-        "JAMA vaccines"
-      ]
-    },
-    {
-      "id": "26ea8e95dcbd19f1",
-      "title": "Top US doctors offer updated flu and COVID vaccine recommendations, aiming to ease confusion - apnews.com",
-      "summary": "Top US doctors offer updated flu and COVID vaccine recommendations, aiming to ease confusion apnews.com",
-      "summary_ai": "Top US doctors offer updated flu and COVID vaccine recommendations, aiming to ease confusion apnews.com",
-      "title_original": "Top US doctors offer updated flu and COVID vaccine recommendations, aiming to ease confusion - apnews.com",
-      "summary_original": "Top US doctors offer updated flu and COVID vaccine recommendations, aiming to ease confusion apnews.com",
-      "summary_ai_original": "Top US doctors offer updated flu and COVID vaccine recommendations, aiming to ease confusion apnews.com",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRVU4MVZQTEgzNGtFVGZsZGNJRWJyaWtNZTJBQmh5bWZjRldXQXp5SVpoQkQwVVJjWXJZVG1CSU1XTFRiNlpzWGhCR19LWGU0bnhwQVEwaTlDS2FjenVEdzFDb1QxUHBEMmFYeGp2Ukt5cXdCYWhHQlk2eDFyZlJNMGhLTzVvaEJkc0hTOGJnaDU5LUsyY1p5dThpbTBrU3hzM3c?oc=5",
-      "source": "AP Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-09-02T07:00:00+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [
-        "recommendation"
-      ],
-      "vaccines": [
-        "covid"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "AP"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "AP"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "AP Vaccines / Immunization"
       ]
     }
   ]
