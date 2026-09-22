@@ -1,9 +1,9 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-09-22T00:02:29.068114+00:00",
+  "generated_at": "2026-09-22T23:35:16.311086+00:00",
   "item_count": 19,
-  "archive_count": 507,
+  "archive_count": 508,
   "days_back": 14,
   "plot_mode_default": "source",
   "feed_status": [
@@ -110,7 +110,7 @@
       "name": "BMJ",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abmj.com%20(policy%20OR%20trial%20OR%20effectiveness%20OR%20communication)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 3,
       "kept": 0
     },
     {
@@ -138,7 +138,7 @@
       "name": "Nature Communications vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fncomms%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20surveillance)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 2,
       "kept": 0
     },
     {
@@ -194,7 +194,7 @@
       "name": "JAMA vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjama%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -229,42 +229,42 @@
       "name": "medRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Amedrxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 4,
       "kept": 1
     },
     {
       "name": "bioRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abiorxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 5,
-      "kept": 2
+      "seen": 4,
+      "kept": 0
     },
     {
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 21,
+      "seen": 19,
       "kept": 3
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 22,
+      "seen": 17,
       "kept": 1
     },
     {
       "name": "AP Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 8,
+      "seen": 10,
       "kept": 0
     },
     {
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 44,
+      "seen": 48,
       "kept": 0
     },
     {
@@ -278,28 +278,28 @@
       "name": "STAT Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 18,
+      "seen": 17,
       "kept": 1
     },
     {
       "name": "Nature News Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 8,
+      "seen": 9,
       "kept": 0
     },
     {
       "name": "Science Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Ascience.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 16,
+      "seen": 12,
       "kept": 0
     },
     {
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 26,
+      "seen": 31,
       "kept": 0
     },
     {
@@ -313,14 +313,14 @@
       "name": "Washington Post Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 18,
+      "seen": 82,
       "kept": 0
     },
     {
       "name": "NHK ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anhk.or.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 10,
+      "seen": 8,
       "kept": 0
     },
     {
@@ -334,28 +334,28 @@
       "name": "朝日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Aasahi.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 21,
+      "seen": 13,
       "kept": 0
     },
     {
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 33,
+      "seen": 26,
       "kept": 0
     },
     {
       "name": "毎日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 10,
+      "seen": 14,
       "kept": 0
     },
     {
       "name": "JAMA Network vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -369,8 +369,8 @@
       "name": "Clinical Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fcid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
-      "kept": 2
+      "seen": 0,
+      "kept": 0
     },
     {
       "name": "Journal of Infectious Diseases",
@@ -383,14 +383,14 @@
       "name": "Open Forum Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fofid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
-      "kept": 1
+      "seen": 2,
+      "kept": 2
     },
     {
       "name": "Emerging Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Awwwnc.cdc.gov%2Feid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
@@ -460,29 +460,96 @@
       "name": "SSRN vaccine preprints",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Apapers.ssrn.com%20(effectiveness%20OR%20safety%20OR%20policy%20OR%20trial)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 6,
-      "kept": 0
+      "seen": 8,
+      "kept": 2
     }
   ],
   "weekly_ai_summary": {
-    "generated_at": "2026-09-22T00:02:29.068114+00:00",
+    "generated_at": "2026-09-22T23:35:16.311086+00:00",
     "period_days": 7,
     "policy_count": 7,
-    "academic_count": 6,
+    "academic_count": 8,
     "status": "ok",
     "model": "gpt-4o-mini",
     "policy_summary": "ワクチン接種時の痛みや恐怖を軽減するための新しいガイドラインが発表されました。また、アメリカ大陸の保健大臣が公衆衛生の課題に対処するためにワシントンで会合を開く予定です。",
-    "academic_summary": "日本におけるヒトパピローマウイルスワクチンのリテラシー向上に関するAIチャットボットの使用に関するランダム化臨床試験が報告されました。さらに、米国の高齢者におけるRSVワクチンの効果についての研究が発表されています。"
+    "academic_summary": "COVID-19ワクチン接種に関する全国的な後ろ向きコホート研究が発表され、以前のSARS-CoV-2感染後の接種回数についての比較が行われました。さらに、日本におけるHPVワクチンのリテラシー向上のためのAIチャットボットの使用に関するランダム化臨床試験も報告されています。"
   },
   "items": [
     {
-      "id": "6af6a58354a18614",
-      "title": "Ervebo vaccine trial kicks off in Ebola-ravaged DR Congo - CIDRAP",
-      "summary": "Ervebo vaccine trial kicks off in Ebola-ravaged DR Congo CIDRAP",
-      "summary_ai": "Ervebo vaccine trial kicks off in Ebola-ravaged DR Congo CIDRAP",
-      "title_original": "Ervebo vaccine trial kicks off in Ebola-ravaged DR Congo - CIDRAP",
-      "summary_original": "Ervebo vaccine trial kicks off in Ebola-ravaged DR Congo CIDRAP",
-      "summary_ai_original": "Ervebo vaccine trial kicks off in Ebola-ravaged DR Congo CIDRAP",
+      "id": "ab730c4ef1873750",
+      "title": "Two Versus One COVID-19 Vaccine Dose After Prior SARS-CoV-2 Infection: A Nationwide Retrospective Cohort Study - academic.oup.com",
+      "summary": "Two Versus One COVID-19 Vaccine Dose After Prior SARS-CoV-2 Infection: A Nationwide Retrospective Cohort Study academic.oup.com",
+      "summary_ai": "Two Versus One COVID-19 Vaccine Dose After Prior SARS-CoV-2 Infection: A Nationwide Retrospective Cohort Study academic.oup.com",
+      "title_original": "Two Versus One COVID-19 Vaccine Dose After Prior SARS-CoV-2 Infection: A Nationwide Retrospective Cohort Study - academic.oup.com",
+      "summary_original": "Two Versus One COVID-19 Vaccine Dose After Prior SARS-CoV-2 Infection: A Nationwide Retrospective Cohort Study academic.oup.com",
+      "summary_ai_original": "Two Versus One COVID-19 Vaccine Dose After Prior SARS-CoV-2 Infection: A Nationwide Retrospective Cohort Study academic.oup.com",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeFVMczg3NG9IbUtzd2JRQ0lScV9OeTAyTWNncWh3bDgtMXU0eEo3c0hJeWpRRGc5ZEhLTUVXcVRaaEhJbVlHd2hTVy0yc2ZKeGFRQk5DZ2R0ekhUVXdDUU54eE9ZMGJrd014OVNUODlhRU5CY19GMEtsT2RMbW5QS2FLM2w?oc=5",
+      "source": "Open Forum Infectious Diseases",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-09-22T11:48:45+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "covid"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "Open Forum Infectious Diseases"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "Open Forum Infectious Diseases"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Open Forum Infectious Diseases"
+      ]
+    },
+    {
+      "id": "56fe396942e72cae",
+      "title": "Ervebo vaccine trial kicks off in Ebola-ravaged DR Congo - cidrap.umn.edu",
+      "summary": "Ervebo vaccine trial kicks off in Ebola-ravaged DR Congo cidrap.umn.edu",
+      "summary_ai": "Ervebo vaccine trial kicks off in Ebola-ravaged DR Congo cidrap.umn.edu",
+      "title_original": "Ervebo vaccine trial kicks off in Ebola-ravaged DR Congo - cidrap.umn.edu",
+      "summary_original": "Ervebo vaccine trial kicks off in Ebola-ravaged DR Congo cidrap.umn.edu",
+      "summary_ai_original": "Ervebo vaccine trial kicks off in Ebola-ravaged DR Congo cidrap.umn.edu",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcERpM1dsVEtzMzBJX0JoRnlfNGhwazVPcVV4Q1pGajNwbTdEajdvT0JUai1VVWdqdnhvWTdmYUFERW5EbWtCVWNaMHJnLXJvNlVNRDB1cGxka3FmaWxQZ3VTdEg0UlZsanBEbm1VVVBDb2lGWmxVd0s0T3VJd2RoLXdERjRhVWlBSFE?oc=5",
       "source": "CIDRAP Vaccines & Immunization",
@@ -541,13 +608,13 @@
       ]
     },
     {
-      "id": "c4908a319727b06f",
-      "title": "Updated guideline provides advice for reducing pain, fear during vaccination - CIDRAP",
-      "summary": "Updated guideline provides advice for reducing pain, fear during vaccination CIDRAP",
-      "summary_ai": "Updated guideline provides advice for reducing pain, fear during vaccination CIDRAP",
-      "title_original": "Updated guideline provides advice for reducing pain, fear during vaccination - CIDRAP",
-      "summary_original": "Updated guideline provides advice for reducing pain, fear during vaccination CIDRAP",
-      "summary_ai_original": "Updated guideline provides advice for reducing pain, fear during vaccination CIDRAP",
+      "id": "d280f218bc74e02f",
+      "title": "Updated guideline provides advice for reducing pain, fear during vaccination - cidrap.umn.edu",
+      "summary": "Updated guideline provides advice for reducing pain, fear during vaccination cidrap.umn.edu",
+      "summary_ai": "Updated guideline provides advice for reducing pain, fear during vaccination cidrap.umn.edu",
+      "title_original": "Updated guideline provides advice for reducing pain, fear during vaccination - cidrap.umn.edu",
+      "summary_original": "Updated guideline provides advice for reducing pain, fear during vaccination cidrap.umn.edu",
+      "summary_ai_original": "Updated guideline provides advice for reducing pain, fear during vaccination cidrap.umn.edu",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTXprLUdGTXFLSldFZ0NNNTA2LTZ0LWV0T2hSM09uQVB2WElRbFIxUGtjTHlYRWFmN2Y0TmNwUXlzemRMb0laeTl6MmZfLWRJRFhKbGpPb2QyeThoc0R6NVpzY2hybnZSNkRWeGhJcFFZZHlPOU4tbWNWX1pVSmd0NHl3MG84N1dnV2I4QmNQaEdhS1JXSXVPZ0tLMWRYREU4Uy04bEhUME5UbVpXWjJ2YTFMdWJWWXlJ?oc=5",
       "source": "CIDRAP Vaccines & Immunization",
@@ -691,7 +758,7 @@
       "source_type": "academic",
       "source_tier": "Tier 3",
       "source_priority": 9,
-      "published_at": "2026-09-21T15:33:39+00:00",
+      "published_at": "2026-09-21T15:45:00+00:00",
       "topics": [
         "research"
       ],
@@ -813,7 +880,7 @@
       ]
     },
     {
-      "id": "909a883e0af57998",
+      "id": "a624bb55531cc756",
       "title": "Developing Country Vaccination Recommendations for Travellers: The UK National Travel Health Network and Centre (NaTHNaC) Methodology for Typhoid and Hepatitis A - Oxford Academic",
       "summary": "Developing Country Vaccination Recommendations for Travellers: The UK National Travel Health Network and Centre (NaTHNaC) Methodology for Typhoid and Hepatitis A Oxford Academic",
       "summary_ai": "Developing Country Vaccination Recommendations for Travellers: The UK National Travel Health Network and Centre (NaTHNaC) Methodology for Typhoid and Hepatitis A Oxford Academic",
@@ -821,7 +888,7 @@
       "summary_original": "Developing Country Vaccination Recommendations for Travellers: The UK National Travel Health Network and Centre (NaTHNaC) Methodology for Typhoid and Hepatitis A Oxford Academic",
       "summary_ai_original": "Developing Country Vaccination Recommendations for Travellers: The UK National Travel Health Network and Centre (NaTHNaC) Methodology for Typhoid and Hepatitis A Oxford Academic",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYkpkclNlWjlGOWMyMGRvVTU2aGpzUzZwUXZDN3F6MnJZdkpFQkR1ZnI2TXRTbzNMb0Z5NHNCMWpqelA0dDBEOTRsbElfaWdzeW00YTBfeUY1NkNIZ05pV044WUoxaWxybUFMZm5vZUdJMFg0UWEzRTF1WERYaHh3SUUzVU9ZMmxqQWxFWk9ocTZwWkJhaHc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYnVLLTR3NWE2T2U1VWpOYjJIelhzamRJZ3hPc3FnREtqOHFxV183T0VfZG5zb3UwM19WM1dhc29meTlTVFZRbnB5akEwS28wTnpQOS03MF8wako3ZDduWkZVQTZXTVBDdEp5OVM4Q1hMekRHcjhHU3R0c1JQQTNfV1N3?oc=5",
       "source": "Journal of Travel Medicine vaccines",
       "source_type": "academic",
       "source_tier": "Tier 3",
@@ -1081,13 +1148,13 @@
       ]
     },
     {
-      "id": "46d8ad8e2bacc450",
-      "title": "Four measles deaths, a looming policy comment deadline, and how to read a study: The State of US Vaccine Policy - CIDRAP",
-      "summary": "Four measles deaths, a looming policy comment deadline, and how to read a study: The State of US Vaccine Policy CIDRAP",
-      "summary_ai": "Four measles deaths, a looming policy comment deadline, and how to read a study: The State of US Vaccine Policy CIDRAP",
-      "title_original": "Four measles deaths, a looming policy comment deadline, and how to read a study: The State of US Vaccine Policy - CIDRAP",
-      "summary_original": "Four measles deaths, a looming policy comment deadline, and how to read a study: The State of US Vaccine Policy CIDRAP",
-      "summary_ai_original": "Four measles deaths, a looming policy comment deadline, and how to read a study: The State of US Vaccine Policy CIDRAP",
+      "id": "05ddfd20008c22be",
+      "title": "Four measles deaths, a looming policy comment deadline, and how to read a study: The State of US Vaccine Policy - cidrap.umn.edu",
+      "summary": "Four measles deaths, a looming policy comment deadline, and how to read a study: The State of US Vaccine Policy cidrap.umn.edu",
+      "summary_ai": "Four measles deaths, a looming policy comment deadline, and how to read a study: The State of US Vaccine Policy cidrap.umn.edu",
+      "title_original": "Four measles deaths, a looming policy comment deadline, and how to read a study: The State of US Vaccine Policy - cidrap.umn.edu",
+      "summary_original": "Four measles deaths, a looming policy comment deadline, and how to read a study: The State of US Vaccine Policy cidrap.umn.edu",
+      "summary_ai_original": "Four measles deaths, a looming policy comment deadline, and how to read a study: The State of US Vaccine Policy cidrap.umn.edu",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT2FweEJkZkd2OFZra0tmUjJUbGdFQ2FhVVAtWW1VRTN1ZGF0MF9WcE9QYS1keFJUSUlqZUNvR1ozWHUtTHgyMWtCSG45MDdkdmRpNVBuWWpGc3AtVFpid0NvVXBiLWF4RE45M05fdVBkMHo4R2hkak5qYlZFQVc5THF6bTdEb2dtanUxY0xPbWtacWd5VWo5d2xRUGh1ZDVobWN4MEdzWHk0S1BVeUpVTk9TWWE2N2lsTXozaXNXbGN6X1U?oc=5",
       "source": "CIDRAP Vaccines & Immunization",
@@ -1149,25 +1216,27 @@
       ]
     },
     {
-      "id": "694fc59b5e908f4c",
-      "title": "Electronic Nudges to Increase Influenza Vaccination in Immunosuppressed Adults Across the Age Spectrum: A Pooled Analysis of 2 Nationwide Randomized Trials - Oxford Academic",
-      "summary": "Electronic Nudges to Increase Influenza Vaccination in Immunosuppressed Adults Across the Age Spectrum: A Pooled Analysis of 2 Nationwide Randomized Trials Oxford Academic",
-      "summary_ai": "Electronic Nudges to Increase Influenza Vaccination in Immunosuppressed Adults Across the Age Spectrum: A Pooled Analysis of 2 Nationwide Randomized Trials Oxford Academic",
-      "title_original": "Electronic Nudges to Increase Influenza Vaccination in Immunosuppressed Adults Across the Age Spectrum: A Pooled Analysis of 2 Nationwide Randomized Trials - Oxford Academic",
-      "summary_original": "Electronic Nudges to Increase Influenza Vaccination in Immunosuppressed Adults Across the Age Spectrum: A Pooled Analysis of 2 Nationwide Randomized Trials Oxford Academic",
-      "summary_ai_original": "Electronic Nudges to Increase Influenza Vaccination in Immunosuppressed Adults Across the Age Spectrum: A Pooled Analysis of 2 Nationwide Randomized Trials Oxford Academic",
+      "id": "14cb7453a088db7a",
+      "title": "Supplementary Material for Pfizer versus Moderna COVID-19 Vaccine Effectiveness against Mortality - SSRN eLibrary",
+      "summary": "Supplementary Material for Pfizer versus Moderna COVID-19 Vaccine Effectiveness against Mortality SSRN eLibrary",
+      "summary_ai": "Supplementary Material for Pfizer versus Moderna COVID-19 Vaccine Effectiveness against Mortality SSRN eLibrary",
+      "title_original": "Supplementary Material for Pfizer versus Moderna COVID-19 Vaccine Effectiveness against Mortality - SSRN eLibrary",
+      "summary_original": "Supplementary Material for Pfizer versus Moderna COVID-19 Vaccine Effectiveness against Mortality SSRN eLibrary",
+      "summary_ai_original": "Supplementary Material for Pfizer versus Moderna COVID-19 Vaccine Effectiveness against Mortality SSRN eLibrary",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE93UTRJaUVyTjNHZ3dFRElYaUk3NWk2dnprWkF6eUQzNURXb0RlZFZDZ1JscmpncVZ5MmxFR2ItdzNxel92amZ4VmhrT1ZDTXBmMGMxekdrNnAwRllIRzlHVVVROA?oc=5",
-      "source": "Clinical Infectious Diseases",
-      "source_type": "academic",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVjlqS2pEb0p4YUVId1B6YjQwdFMxQlhiUzZTUExDWG51WVFTRDY3V2hOeGpBNFZZNWhsN2N5MTZLdFlaeC0zQTNqRFl1OTNlTU0yZ0VqRFpLRFptVXBZYXh0QzVRLTNkWmRGUnNmRHBxd3V1aHBhd3pSV2ZNNW1ybXplOWtXdHM?oc=5",
+      "source": "SSRN vaccine preprints",
+      "source_type": "preprint",
       "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-09-17T15:11:24+00:00",
+      "source_priority": 6,
+      "published_at": "2026-09-17T00:39:48+00:00",
       "topics": [
         "research"
       ],
       "policy_tags": [],
-      "vaccines": [],
+      "vaccines": [
+        "covid"
+      ],
       "variants": [],
       "target_country": "不明",
       "source_location": {
@@ -1176,7 +1245,7 @@
         "lat": 38.9072,
         "lng": -77.0369,
         "region": "North America",
-        "label": "Clinical Infectious Diseases"
+        "label": "SSRN"
       },
       "plot": {
         "source": {
@@ -1185,7 +1254,7 @@
           "lat": 38.9072,
           "lng": -77.0369,
           "region": "North America",
-          "label": "Clinical Infectious Diseases"
+          "label": "SSRN"
         },
         "target": {
           "key": "unknown",
@@ -1210,17 +1279,17 @@
       "lng": 0.0,
       "duplicate_count": 1,
       "duplicate_sources": [
-        "Clinical Infectious Diseases"
+        "SSRN vaccine preprints"
       ]
     },
     {
-      "id": "286bf7ef2f3786d8",
-      "title": "Republican senator faults Trump vaccine policy for US measles deaths as panel weighs health nominees - reuters.com",
-      "summary": "Republican senator faults Trump vaccine policy for US measles deaths as panel weighs health nominees reuters.com",
-      "summary_ai": "Republican senator faults Trump vaccine policy for US measles deaths as panel weighs health nominees reuters.com",
-      "title_original": "Republican senator faults Trump vaccine policy for US measles deaths as panel weighs health nominees - reuters.com",
-      "summary_original": "Republican senator faults Trump vaccine policy for US measles deaths as panel weighs health nominees reuters.com",
-      "summary_ai_original": "Republican senator faults Trump vaccine policy for US measles deaths as panel weighs health nominees reuters.com",
+      "id": "1911c94a3a0d3044",
+      "title": "Republican senator faults Trump vaccine policy for US measles deaths as panel weighs health nominees - Reuters",
+      "summary": "Republican senator faults Trump vaccine policy for US measles deaths as panel weighs health nominees Reuters",
+      "summary_ai": "Republican senator faults Trump vaccine policy for US measles deaths as panel weighs health nominees Reuters",
+      "title_original": "Republican senator faults Trump vaccine policy for US measles deaths as panel weighs health nominees - Reuters",
+      "summary_original": "Republican senator faults Trump vaccine policy for US measles deaths as panel weighs health nominees Reuters",
+      "summary_ai_original": "Republican senator faults Trump vaccine policy for US measles deaths as panel weighs health nominees Reuters",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY1lKdm5WdWd0cUtIajVxRUxMUG1CNXpQdnlNcU5OQjFsRFBSNXNGcUdCbGhSUFhKeVpSYmRNRWxpclJiVUd1VGU0bzBfdDRvSWd2b19Sd21ZblhEemZMOU9CUFdZNC1LWmdSNDl0QkY3Ym5HbkQzQjNsREFmUENCYmN3VE9uV0o2bm1UX0RFNjlyYWE0V2tEUG9uUHlwN2RCY1ktTXV6MkVlN1hYVTRXTG9HYnQzUlFDSF9uckx2OTlFakcxdmJBaTNn?oc=5",
       "source": "Reuters Vaccines / Immunization",
@@ -1351,13 +1420,13 @@
       ]
     },
     {
-      "id": "419a6139464d0775",
-      "title": "Recombinant Influenza Vaccine and Influenza Outbreaks in US Nursing Homes: Results From a Pragmatic Cluster-Randomized Clinical Trial - Oxford Academic",
-      "summary": "Recombinant Influenza Vaccine and Influenza Outbreaks in US Nursing Homes: Results From a Pragmatic Cluster-Randomized Clinical Trial Oxford Academic",
-      "summary_ai": "Recombinant Influenza Vaccine and Influenza Outbreaks in US Nursing Homes: Results From a Pragmatic Cluster-Randomized Clinical Trial Oxford Academic",
-      "title_original": "Recombinant Influenza Vaccine and Influenza Outbreaks in US Nursing Homes: Results From a Pragmatic Cluster-Randomized Clinical Trial - Oxford Academic",
-      "summary_original": "Recombinant Influenza Vaccine and Influenza Outbreaks in US Nursing Homes: Results From a Pragmatic Cluster-Randomized Clinical Trial Oxford Academic",
-      "summary_ai_original": "Recombinant Influenza Vaccine and Influenza Outbreaks in US Nursing Homes: Results From a Pragmatic Cluster-Randomized Clinical Trial Oxford Academic",
+      "id": "e8c4dec73738329e",
+      "title": "Recombinant Influenza Vaccine and Influenza Outbreaks in US Nursing Homes: Results From a Pragmatic Cluster-Randomized Clinical Trial - academic.oup.com",
+      "summary": "Recombinant Influenza Vaccine and Influenza Outbreaks in US Nursing Homes: Results From a Pragmatic Cluster-Randomized Clinical Trial academic.oup.com",
+      "summary_ai": "Recombinant Influenza Vaccine and Influenza Outbreaks in US Nursing Homes: Results From a Pragmatic Cluster-Randomized Clinical Trial academic.oup.com",
+      "title_original": "Recombinant Influenza Vaccine and Influenza Outbreaks in US Nursing Homes: Results From a Pragmatic Cluster-Randomized Clinical Trial - academic.oup.com",
+      "summary_original": "Recombinant Influenza Vaccine and Influenza Outbreaks in US Nursing Homes: Results From a Pragmatic Cluster-Randomized Clinical Trial academic.oup.com",
+      "summary_ai_original": "Recombinant Influenza Vaccine and Influenza Outbreaks in US Nursing Homes: Results From a Pragmatic Cluster-Randomized Clinical Trial academic.oup.com",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsWTBNRmhFWGF4cEhRUUhjbmROckhvUElfNHo0YzQyWlRtTTU3bTlkQ3ZTa2FVRjl6cnZWdzFPMVpadUh1TVFfRTU0ckZUalQ5YmZRWFNSSHRIYlRMQ3AxWWgtVmlnZmVnY3c?oc=5",
       "source": "Open Forum Infectious Diseases",
@@ -1417,6 +1486,71 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "Open Forum Infectious Diseases"
+      ]
+    },
+    {
+      "id": "f929fbe2b6222ec0",
+      "title": "Pertussis vaccination in a changing landscape: Considerations for future policy Anna Ong-Lim,1 Mine Durusu Tanriöver,2 Nicole G - SSRN eLibrary",
+      "summary": "Pertussis vaccination in a changing landscape: Considerations for future policy Anna Ong-Lim,1 Mine Durusu Tanriöver,2 Nicole G SSRN eLibrary",
+      "summary_ai": "Pertussis vaccination in a changing landscape: Considerations for future policy Anna Ong-Lim,1 Mine Durusu Tanriöver,2 Nicole G SSRN eLibrary",
+      "title_original": "Pertussis vaccination in a changing landscape: Considerations for future policy Anna Ong-Lim,1 Mine Durusu Tanriöver,2 Nicole G - SSRN eLibrary",
+      "summary_original": "Pertussis vaccination in a changing landscape: Considerations for future policy Anna Ong-Lim,1 Mine Durusu Tanriöver,2 Nicole G SSRN eLibrary",
+      "summary_ai_original": "Pertussis vaccination in a changing landscape: Considerations for future policy Anna Ong-Lim,1 Mine Durusu Tanriöver,2 Nicole G SSRN eLibrary",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPb0lWdGlNNUp1aUJrQ1dmX0FQVm0ybnR3eTFoWmltdlRqdE5zN3ptbzBNdW9FUm1HcGVQSUt0LXlnek54cVhJaUhVcjdYVmtLUngxOUhPWnloTndKNFAzaEdzWS1mdkFaMTV4bnhQYjdQMTFOVmk0aWd3TW1RdmlhLWU5X0tPSFE?oc=5",
+      "source": "SSRN vaccine preprints",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 6,
+      "published_at": "2026-09-16T05:21:31+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "SSRN"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "SSRN"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "SSRN vaccine preprints"
       ]
     },
     {
@@ -1552,13 +1686,13 @@
       ]
     },
     {
-      "id": "25b3a5d32b3b6c71",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "ワクチン政策STATにとって重要となる可能性がある注目すべき5つの中間レース",
-      "summary_ai": "ワクチン政策STATにとって重要となる可能性がある注目すべき5つの中間レース",
-      "title_original": "Five midterm races to watch that could be crucial for vaccine policy - STAT",
-      "summary_original": "Five midterm races to watch that could be crucial for vaccine policy STAT",
-      "summary_ai_original": "Five midterm races to watch that could be crucial for vaccine policy STAT",
+      "id": "bb8173cdb8e6ed98",
+      "title": "Five midterm races to watch that could be crucial for vaccine policy - statnews.com",
+      "summary": "Five midterm races to watch that could be crucial for vaccine policy statnews.com",
+      "summary_ai": "Five midterm races to watch that could be crucial for vaccine policy statnews.com",
+      "title_original": "Five midterm races to watch that could be crucial for vaccine policy - statnews.com",
+      "summary_original": "Five midterm races to watch that could be crucial for vaccine policy statnews.com",
+      "summary_ai_original": "Five midterm races to watch that could be crucial for vaccine policy statnews.com",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcjh0OHFDWmpQREh1VW1KS1RFblZ0R01rbEJtOWxjNy1pTU9HV0x4WXFsVGY4c3RaWU5UMTA4TTMySHpaMWczcGhzYldjdTVKWnpLOWRNeWdPSHEybW14QUEtMFNiUE5rT0xucFk0dDM0N3BWUGlnV2xVbGNST0ljaXhtaWZsZGJKYURnaDdQdkhsVHEyYXJhbw?oc=5",
       "source": "STAT Vaccines / Immunization",
@@ -1614,138 +1748,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "STAT Vaccines / Immunization"
-      ]
-    },
-    {
-      "id": "da9af75f04c792f7",
-      "title": "ランダム化条件下での間接的なインフルエンザワクチンの有効性:系統的レビューとメタアナリシス - Oxford Academic",
-      "summary": "ランダム化条件下での間接的なインフルエンザワクチンの有効性:系統的レビューとメタアナリシス オックスフォード・アカデミック",
-      "summary_ai": "ランダム化条件下での間接的なインフルエンザワクチンの有効性:系統的レビューとメタアナリシス オックスフォード・アカデミック",
-      "title_original": "Indirect Influenza Vaccine Effectiveness Under Randomized Conditions: A Systematic Review and Meta-Analysis - Oxford Academic",
-      "summary_original": "Indirect Influenza Vaccine Effectiveness Under Randomized Conditions: A Systematic Review and Meta-Analysis Oxford Academic",
-      "summary_ai_original": "Indirect Influenza Vaccine Effectiveness Under Randomized Conditions: A Systematic Review and Meta-Analysis Oxford Academic",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5JaFFjS2xGcFUtRDVoZnFzTUNrRi1uUDJWOUFBcU1CX011TTVqOEtrMG9ObWRrbFVVUjl3djI3TmltQ21ZM2JiekZnSDBHSzBOS0tjYmNGdlJBOW5yQjM1YUdKMlBtTjU4M2NORExEaw?oc=5",
-      "source": "Clinical Infectious Diseases",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-09-08T18:56:19+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "influenza"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "Clinical Infectious Diseases"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "Clinical Infectious Diseases"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Clinical Infectious Diseases"
-      ]
-    },
-    {
-      "id": "985eef41a3835544",
-      "title": "10年間にわたるコアラのクラミジアワクチン試験データの再分析により、固有のバイアスと予防効果の欠如が明らかに - bioRxiv",
-      "summary": "10年間にわたるコアラのクラミジアワクチン試験データの再分析により、固有の偏りと予防効果の欠如が明らかに",
-      "summary_ai": "10年間にわたるコアラのクラミジアワクチン試験データの再分析により、固有の偏りと予防効果の欠如が明らかに",
-      "title_original": "Reanalysis of data from ten years of koala chlamydia vaccine trials reveals inherent bias and a lack of protective efficacy - bioRxiv",
-      "summary_original": "Reanalysis of data from ten years of koala chlamydia vaccine trials reveals inherent bias and a lack of protective efficacy bioRxiv",
-      "summary_ai_original": "Reanalysis of data from ten years of koala chlamydia vaccine trials reveals inherent bias and a lack of protective efficacy bioRxiv",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92UGFaX0tKbVpjNnNiMGFSaXV3Sjh5ZTlzRVh2WmFyTDZxZTBXSVlQeVZmRmM4TDBfZ1BMRTFGVnpvRlBBM19ZWjV1bzVHOFMxWnZRTmdaZnBCYXRQX09JeW1vSGk1VzdQaW41MG9RbGxtclZFR0NwZA?oc=5",
-      "source": "bioRxiv vaccines",
-      "source_type": "preprint",
-      "source_tier": "Tier 3",
-      "source_priority": 7,
-      "published_at": "2026-09-08T00:33:18+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "bioRxiv"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "bioRxiv"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 2,
-      "duplicate_sources": [
-        "bioRxiv vaccines"
       ]
     }
   ]
