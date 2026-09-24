@@ -1,9 +1,9 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-09-23T23:37:53.934318+00:00",
+  "generated_at": "2026-09-24T23:51:12.292999+00:00",
   "item_count": 22,
-  "archive_count": 511,
+  "archive_count": 513,
   "days_back": 14,
   "plot_mode_default": "source",
   "feed_status": [
@@ -23,7 +23,7 @@
       "name": "CDC Newsroom",
       "url": "https://tools.cdc.gov/api/v2/resources/media/316422.rss",
       "status": "ok",
-      "seen": 10,
+      "seen": 11,
       "kept": 0
     },
     {
@@ -82,15 +82,15 @@
       "name": "PAHO News",
       "url": "https://www.paho.org/en/rss.xml",
       "status": "ok",
-      "seen": 10,
+      "seen": 9,
       "kept": 4
     },
     {
       "name": "The Lancet series",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Athelancet.com%20(trial%20OR%20policy%20OR%20effectiveness%20OR%20safety)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 1,
-      "kept": 1
+      "seen": 2,
+      "kept": 2
     },
     {
       "name": "Lancet Infectious Diseases",
@@ -103,14 +103,14 @@
       "name": "NEJM",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Anejm.org%20(trial%20OR%20effectiveness%20OR%20policy%20OR%20safety)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 1,
       "kept": 0
     },
     {
       "name": "BMJ",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abmj.com%20(policy%20OR%20trial%20OR%20effectiveness%20OR%20communication)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -131,14 +131,14 @@
       "name": "Nature Medicine vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fnm%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20uptake%20OR%20policy)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 1,
       "kept": 0
     },
     {
       "name": "Nature Communications vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fncomms%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20surveillance)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 2,
       "kept": 0
     },
     {
@@ -166,7 +166,7 @@
       "name": "Science vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ascience.org%2Fdoi%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20antibody)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -201,7 +201,7 @@
       "name": "JAMA Network Open vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjamanetworkopen%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 4,
+      "seen": 3,
       "kept": 2
     },
     {
@@ -229,42 +229,42 @@
       "name": "medRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Amedrxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 4,
-      "kept": 2
+      "seen": 3,
+      "kept": 1
     },
     {
       "name": "bioRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abiorxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 4,
       "kept": 0
     },
     {
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 19,
+      "seen": 22,
       "kept": 3
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 16,
+      "seen": 22,
       "kept": 1
     },
     {
       "name": "AP Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 8,
+      "seen": 6,
       "kept": 0
     },
     {
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 23,
+      "seen": 17,
       "kept": 0
     },
     {
@@ -278,63 +278,63 @@
       "name": "STAT Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 13,
-      "kept": 1
+      "seen": 14,
+      "kept": 0
     },
     {
       "name": "Nature News Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 7,
+      "seen": 6,
       "kept": 0
     },
     {
       "name": "Science Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Ascience.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 10,
+      "seen": 6,
       "kept": 0
     },
     {
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 32,
+      "seen": 28,
       "kept": 0
     },
     {
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 22,
+      "seen": 23,
       "kept": 0
     },
     {
       "name": "Washington Post Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 73,
+      "seen": 79,
       "kept": 0
     },
     {
       "name": "NHK ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anhk.or.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 7,
+      "seen": 8,
       "kept": 0
     },
     {
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 16,
+      "seen": 11,
       "kept": 0
     },
     {
       "name": "朝日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Aasahi.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 9,
+      "seen": 12,
       "kept": 0
     },
     {
@@ -348,7 +348,7 @@
       "name": "毎日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 12,
+      "seen": 10,
       "kept": 0
     },
     {
@@ -369,8 +369,8 @@
       "name": "Clinical Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fcid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
-      "kept": 0
+      "seen": 2,
+      "kept": 1
     },
     {
       "name": "Journal of Infectious Diseases",
@@ -383,7 +383,7 @@
       "name": "Open Forum Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fofid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 3,
       "kept": 2
     },
     {
@@ -404,15 +404,15 @@
       "name": "PLOS journals vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajournals.plos.org%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20uptake%20OR%20policy)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
       "name": "eClinicalMedicine vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Athelancet.com%2Fjournals%2Feclinm&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 1,
-      "kept": 1
+      "seen": 2,
+      "kept": 2
     },
     {
       "name": "EBioMedicine vaccines",
@@ -439,7 +439,7 @@
       "name": "Vaccine X",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Asciencedirect.com%2Fjournal%2Fvaccine-x&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -465,16 +465,149 @@
     }
   ],
   "weekly_ai_summary": {
-    "generated_at": "2026-09-23T23:37:53.934318+00:00",
+    "generated_at": "2026-09-24T23:51:12.292999+00:00",
     "period_days": 7,
-    "policy_count": 6,
+    "policy_count": 5,
     "academic_count": 8,
     "status": "ok",
     "model": "gpt-4o-mini",
-    "policy_summary": "PAHOとアフリカCDCは、パンデミック対策におけるアフリカとアメリカの協力強化を呼びかけている。米国の保健大臣が公衆衛生の課題に対処するため、ワシントンで会合を予定している。",
-    "academic_summary": "COVID-19ワクチンの免疫原性と効果に関する研究が進行中で、特に免疫抑制療法を受けている人々に焦点を当てている。子供とペットに対するワクチンへの信頼性の一貫性が科学への信頼のパラダイムとして示されている。"
+    "policy_summary": "PAHOとアフリカCDCは、パンデミック対策のための持続的な投資とアフリカ・アメリカ間の協力強化を呼びかけています。また、ワシントンD.C.で開催されるPAHOの健康大臣会議では、地域の公衆衛生の課題に取り組む予定です。",
+    "academic_summary": "エチオピアにおける母子感染防止のための肝炎Bワクチンの早期接種の効果が研究されています。また、COVID-19ワクチンのブースター接種が既存の免疫を持つ個人における後遺症に対する効果を評価した研究も発表されています。"
   },
   "items": [
+    {
+      "id": "50e6084265b116ed",
+      "title": "Effectiveness of timely hepatitis B birth dose vaccination to prevent mother-to-child transmission in Ethiopia - Oxford Academic",
+      "summary": "Effectiveness of timely hepatitis B birth dose vaccination to prevent mother-to-child transmission in Ethiopia Oxford Academic",
+      "summary_ai": "Effectiveness of timely hepatitis B birth dose vaccination to prevent mother-to-child transmission in Ethiopia Oxford Academic",
+      "title_original": "Effectiveness of timely hepatitis B birth dose vaccination to prevent mother-to-child transmission in Ethiopia - Oxford Academic",
+      "summary_original": "Effectiveness of timely hepatitis B birth dose vaccination to prevent mother-to-child transmission in Ethiopia Oxford Academic",
+      "summary_ai_original": "Effectiveness of timely hepatitis B birth dose vaccination to prevent mother-to-child transmission in Ethiopia Oxford Academic",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vSGRYRW81ZjlRRGZtamtmdm9pOE9uOUVOZ3A1Vm9xaDRKTnA2SF9vV0R3ZFdraUNtMEZNMlFRZl9OX2xLTFh1blBVQ1BweG1SbDlqTW5oNnF1YmlEeG1taFFn?oc=5",
+      "source": "Clinical Infectious Diseases",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-09-24T12:45:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "エチオピア",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "Clinical Infectious Diseases"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "Clinical Infectious Diseases"
+        },
+        "target": {
+          "key": "ethiopia",
+          "name_ja": "エチオピア",
+          "lat": 8.9806,
+          "lng": 38.7578,
+          "region": "Africa",
+          "label": "エチオピア"
+        }
+      },
+      "location": {
+        "key": "ethiopia",
+        "name_ja": "エチオピア",
+        "lat": 8.9806,
+        "lng": 38.7578,
+        "region": "Africa",
+        "label": "エチオピア"
+      },
+      "region": "Africa",
+      "country": "エチオピア",
+      "lat": 8.9806,
+      "lng": 38.7578,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Clinical Infectious Diseases"
+      ]
+    },
+    {
+      "id": "f6527e96f95dc2a6",
+      "title": "Booster dose of COVID-19 vaccine and its effectiveness against post COVID-19 condition in individuals with pre-existing immunity: a sequential propensity score-matched cohort study",
+      "summary": "Booster dose of COVID-19 vaccine and its effectiveness against post COVID-19 condition in individuals with pre-existing immunity: a sequential propensity score-matched cohort study",
+      "summary_ai": "Booster dose of COVID-19 vaccine and its effectiveness against post COVID-19 condition in individuals with pre-existing immunity: a sequential propensity score-matched cohort study",
+      "title_original": "Booster dose of COVID-19 vaccine and its effectiveness against post COVID-19 condition in individuals with pre-existing immunity: a sequential propensity score-matched cohort study",
+      "summary_original": "Booster dose of COVID-19 vaccine and its effectiveness against post COVID-19 condition in individuals with pre-existing immunity: a sequential propensity score-matched cohort study",
+      "summary_ai_original": "Booster dose of COVID-19 vaccine and its effectiveness against post COVID-19 condition in individuals with pre-existing immunity: a sequential propensity score-matched cohort study",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTy1iZ2M1Vm8yNk8xSXJnaDhLMEphT041alJUaVpZQTBUUDRmcGZIWmdqY0ZKd0FDLTVhN3FHMjAzSDVnamxoQkx2cGFlSE5NMkZUZ3Nobmg1QVZwbUhCOExXeHdDd2lPTWVZTEFyQkhFX2pGUU1nUkdmZ1Exd0dYS2VJQVR4LWR1VFNz?oc=5",
+      "source": "The Lancet series",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-09-23T22:40:19+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "covid"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "The Lancet / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "The Lancet / London"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 2,
+      "duplicate_sources": [
+        "The Lancet series",
+        "eClinicalMedicine vaccines"
+      ]
+    },
     {
       "id": "fb7b7f54991dd283",
       "title": "PAHO and Africa CDC call for sustained investment and stronger Africa-Americas cooperation on pandemic preparedness",
@@ -1083,13 +1216,13 @@
       ]
     },
     {
-      "id": "fb6bc7978425777b",
-      "title": "Developing Country Vaccination Recommendations for Travellers: The UK National Travel Health Network and Centre (NaTHNaC) Methodology for Typhoid and Hepatitis A - academic.oup.com",
-      "summary": "Developing Country Vaccination Recommendations for Travellers: The UK National Travel Health Network and Centre (NaTHNaC) Methodology for Typhoid and Hepatitis A academic.oup.com",
-      "summary_ai": "Developing Country Vaccination Recommendations for Travellers: The UK National Travel Health Network and Centre (NaTHNaC) Methodology for Typhoid and Hepatitis A academic.oup.com",
-      "title_original": "Developing Country Vaccination Recommendations for Travellers: The UK National Travel Health Network and Centre (NaTHNaC) Methodology for Typhoid and Hepatitis A - academic.oup.com",
-      "summary_original": "Developing Country Vaccination Recommendations for Travellers: The UK National Travel Health Network and Centre (NaTHNaC) Methodology for Typhoid and Hepatitis A academic.oup.com",
-      "summary_ai_original": "Developing Country Vaccination Recommendations for Travellers: The UK National Travel Health Network and Centre (NaTHNaC) Methodology for Typhoid and Hepatitis A academic.oup.com",
+      "id": "a624bb55531cc756",
+      "title": "Developing Country Vaccination Recommendations for Travellers: The UK National Travel Health Network and Centre (NaTHNaC) Methodology for Typhoid and Hepatitis A - Oxford Academic",
+      "summary": "Developing Country Vaccination Recommendations for Travellers: The UK National Travel Health Network and Centre (NaTHNaC) Methodology for Typhoid and Hepatitis A Oxford Academic",
+      "summary_ai": "Developing Country Vaccination Recommendations for Travellers: The UK National Travel Health Network and Centre (NaTHNaC) Methodology for Typhoid and Hepatitis A Oxford Academic",
+      "title_original": "Developing Country Vaccination Recommendations for Travellers: The UK National Travel Health Network and Centre (NaTHNaC) Methodology for Typhoid and Hepatitis A - Oxford Academic",
+      "summary_original": "Developing Country Vaccination Recommendations for Travellers: The UK National Travel Health Network and Centre (NaTHNaC) Methodology for Typhoid and Hepatitis A Oxford Academic",
+      "summary_ai_original": "Developing Country Vaccination Recommendations for Travellers: The UK National Travel Health Network and Centre (NaTHNaC) Methodology for Typhoid and Hepatitis A Oxford Academic",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYnVLLTR3NWE2T2U1VWpOYjJIelhzamRJZ3hPc3FnREtqOHFxV183T0VfZG5zb3UwM19WM1dhc29meTlTVFZRbnB5akEwS28wTnpQOS03MF8wako3ZDduWkZVQTZXTVBDdEp5OVM4Q1hMekRHcjhHU3R0c1JQQTNfV1N3?oc=5",
       "source": "Journal of Travel Medicine vaccines",
@@ -1486,73 +1619,6 @@
       ]
     },
     {
-      "id": "1911c94a3a0d3044",
-      "title": "Republican senator faults Trump vaccine policy for US measles deaths as panel weighs health nominees - Reuters",
-      "summary": "Republican senator faults Trump vaccine policy for US measles deaths as panel weighs health nominees Reuters",
-      "summary_ai": "Republican senator faults Trump vaccine policy for US measles deaths as panel weighs health nominees Reuters",
-      "title_original": "Republican senator faults Trump vaccine policy for US measles deaths as panel weighs health nominees - Reuters",
-      "summary_original": "Republican senator faults Trump vaccine policy for US measles deaths as panel weighs health nominees Reuters",
-      "summary_ai_original": "Republican senator faults Trump vaccine policy for US measles deaths as panel weighs health nominees Reuters",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY1lKdm5WdWd0cUtIajVxRUxMUG1CNXpQdnlNcU5OQjFsRFBSNXNGcUdCbGhSUFhKeVpSYmRNRWxpclJiVUd1VGU0bzBfdDRvSWd2b19Sd21ZblhEemZMOU9CUFdZNC1LWmdSNDl0QkY3Ym5HbkQzQjNsREFmUENCYmN3VE9uV0o2bm1UX0RFNjlyYWE0V2tEUG9uUHlwN2RCY1ktTXV6MkVlN1hYVTRXTG9HYnQzUlFDSF9uckx2OTlFakcxdmJBaTNn?oc=5",
-      "source": "Reuters Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-09-16T20:30:18+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [
-        "outbreak_response"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "Reuters"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "Reuters"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Reuters Vaccines / Immunization"
-      ]
-    },
-    {
       "id": "2547af1bea504f92",
       "title": "UNGA: PAHO joins global efforts to advance pandemic prevention, preparedness and response",
       "summary": "UNGA: PAHO joins global efforts to advance pandemic prevention, preparedness and response Oscar Reyes 16 Sep 2026",
@@ -1620,6 +1686,73 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "PAHO News"
+      ]
+    },
+    {
+      "id": "1911c94a3a0d3044",
+      "title": "Republican senator faults Trump vaccine policy for US measles deaths as panel weighs health nominees - Reuters",
+      "summary": "Republican senator faults Trump vaccine policy for US measles deaths as panel weighs health nominees Reuters",
+      "summary_ai": "Republican senator faults Trump vaccine policy for US measles deaths as panel weighs health nominees Reuters",
+      "title_original": "Republican senator faults Trump vaccine policy for US measles deaths as panel weighs health nominees - Reuters",
+      "summary_original": "Republican senator faults Trump vaccine policy for US measles deaths as panel weighs health nominees Reuters",
+      "summary_ai_original": "Republican senator faults Trump vaccine policy for US measles deaths as panel weighs health nominees Reuters",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY1lKdm5WdWd0cUtIajVxRUxMUG1CNXpQdnlNcU5OQjFsRFBSNXNGcUdCbGhSUFhKeVpSYmRNRWxpclJiVUd1VGU0bzBfdDRvSWd2b19Sd21ZblhEemZMOU9CUFdZNC1LWmdSNDl0QkY3Ym5HbkQzQjNsREFmUENCYmN3VE9uV0o2bm1UX0RFNjlyYWE0V2tEUG9uUHlwN2RCY1ktTXV6MkVlN1hYVTRXTG9HYnQzUlFDSF9uckx2OTlFakcxdmJBaTNn?oc=5",
+      "source": "Reuters Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-09-16T07:00:00+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [
+        "outbreak_response"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Reuters"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Reuters"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Reuters Vaccines / Immunization"
       ]
     },
     {
@@ -1821,136 +1954,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "eClinicalMedicine vaccines"
-      ]
-    },
-    {
-      "id": "026f1633ad22361e",
-      "title": "2025/26 subclade-specific influenza A and B vaccine effectiveness estimates and discordant laboratory-based indicators of vaccin - medRxiv",
-      "summary": "2025/26 subclade-specific influenza A and B vaccine effectiveness estimates and discordant laboratory-based indicators of vaccin medRxiv",
-      "summary_ai": "2025/26 subclade-specific influenza A and B vaccine effectiveness estimates and discordant laboratory-based indicators of vaccin medRxiv",
-      "title_original": "2025/26 subclade-specific influenza A and B vaccine effectiveness estimates and discordant laboratory-based indicators of vaccin - medRxiv",
-      "summary_original": "2025/26 subclade-specific influenza A and B vaccine effectiveness estimates and discordant laboratory-based indicators of vaccin medRxiv",
-      "summary_ai_original": "2025/26 subclade-specific influenza A and B vaccine effectiveness estimates and discordant laboratory-based indicators of vaccin medRxiv",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9WWC1vOFF2LUFyak1HU0g2bE5HcmVmUERUX3hXcWZiQk5xd2V5SmVrUWs1d3pyWTBPdzZMajlBY09EcnZRN0VmeVQ3Z1VzcmY1bXNqbFkwUUFlOGYwTnlNQkpEbXdSSU9pVWZ5S1VYdFMwQW1oYTNnNDRvNA?oc=5",
-      "source": "medRxiv vaccines",
-      "source_type": "preprint",
-      "source_tier": "Tier 3",
-      "source_priority": 7,
-      "published_at": "2026-09-10T07:00:00+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "medRxiv"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "medRxiv"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "medRxiv vaccines"
-      ]
-    },
-    {
-      "id": "25b3a5d32b3b6c71",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "ワクチン政策STATにとって重要となる可能性がある注目すべき5つの中間レース",
-      "summary_ai": "ワクチン政策STATにとって重要となる可能性がある注目すべき5つの中間レース",
-      "title_original": "Five midterm races to watch that could be crucial for vaccine policy - STAT",
-      "summary_original": "Five midterm races to watch that could be crucial for vaccine policy STAT",
-      "summary_ai_original": "Five midterm races to watch that could be crucial for vaccine policy STAT",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcjh0OHFDWmpQREh1VW1KS1RFblZ0R01rbEJtOWxjNy1pTU9HV0x4WXFsVGY4c3RaWU5UMTA4TTMySHpaMWczcGhzYldjdTVKWnpLOWRNeWdPSHEybW14QUEtMFNiUE5rT0xucFk0dDM0N3BWUGlnV2xVbGNST0ljaXhtaWZsZGJKYURnaDdQdkhsVHEyYXJhbw?oc=5",
-      "source": "STAT Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-09-10T07:00:00+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "STAT"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "STAT"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "STAT Vaccines / Immunization"
       ]
     }
   ]
