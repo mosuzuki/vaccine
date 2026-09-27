@@ -1,8 +1,8 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-09-26T23:32:38.062684+00:00",
-  "item_count": 23,
+  "generated_at": "2026-09-27T23:46:04.235944+00:00",
+  "item_count": 24,
   "archive_count": 517,
   "days_back": 14,
   "plot_mode_default": "source",
@@ -74,9 +74,8 @@
     {
       "name": "Africa CDC News",
       "url": "https://africacdc.org/feed/",
-      "status": "ok",
-      "seen": 0,
-      "kept": 0
+      "status": "error",
+      "error": "HTTPSConnectionPool(host='africacdc.org', port=443): Read timed out. (read timeout=30)"
     },
     {
       "name": "PAHO News",
@@ -117,7 +116,7 @@
       "name": "Vaccine journal",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Asciencedirect.com%2Fjournal%2Fvaccine&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -131,7 +130,7 @@
       "name": "Nature Medicine vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fnm%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20uptake%20OR%20policy)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
@@ -166,7 +165,7 @@
       "name": "Science vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ascience.org%2Fdoi%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20antibody)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
@@ -201,7 +200,7 @@
       "name": "JAMA Network Open vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjamanetworkopen%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 4,
       "kept": 2
     },
     {
@@ -229,42 +228,42 @@
       "name": "medRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Amedrxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
       "name": "bioRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abiorxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 5,
+      "seen": 6,
       "kept": 1
     },
     {
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 21,
+      "seen": 18,
       "kept": 2
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 6,
+      "seen": 7,
       "kept": 1
     },
     {
       "name": "AP Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 97,
+      "seen": 84,
       "kept": 2
     },
     {
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 12,
+      "seen": 10,
       "kept": 0
     },
     {
@@ -285,77 +284,77 @@
       "name": "Nature News Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 6,
+      "seen": 5,
       "kept": 0
     },
     {
       "name": "Science Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Ascience.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 5,
+      "seen": 4,
       "kept": 0
     },
     {
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 24,
+      "seen": 26,
       "kept": 0
     },
     {
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 25,
+      "seen": 22,
       "kept": 0
     },
     {
       "name": "Washington Post Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 40,
+      "seen": 24,
       "kept": 1
     },
     {
       "name": "NHK ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anhk.or.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 8,
+      "seen": 7,
       "kept": 0
     },
     {
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 17,
+      "seen": 21,
       "kept": 0
     },
     {
       "name": "朝日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Aasahi.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 9,
+      "seen": 6,
       "kept": 0
     },
     {
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 12,
+      "seen": 34,
       "kept": 0
     },
     {
       "name": "毎日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 9,
+      "seen": 6,
       "kept": 0
     },
     {
       "name": "JAMA Network vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 2,
       "kept": 1
     },
     {
@@ -369,8 +368,8 @@
       "name": "Clinical Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fcid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
-      "kept": 1
+      "seen": 3,
+      "kept": 2
     },
     {
       "name": "Journal of Infectious Diseases",
@@ -439,7 +438,7 @@
       "name": "Vaccine X",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Asciencedirect.com%2Fjournal%2Fvaccine-x&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
@@ -460,19 +459,19 @@
       "name": "SSRN vaccine preprints",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Apapers.ssrn.com%20(effectiveness%20OR%20safety%20OR%20policy%20OR%20trial)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 13,
+      "seen": 12,
       "kept": 6
     }
   ],
   "weekly_ai_summary": {
-    "generated_at": "2026-09-26T23:32:38.062684+00:00",
+    "generated_at": "2026-09-27T23:46:04.235944+00:00",
     "period_days": 7,
     "policy_count": 5,
-    "academic_count": 8,
+    "academic_count": 9,
     "status": "ok",
     "model": "gpt-4o-mini",
-    "policy_summary": "HPVワクチン接種に関する推奨事項が議論されており、CDCのワクチン政策が停滞している。PAHOとアフリカCDCは、パンデミック対策のための投資と協力の強化を呼びかけている。",
-    "academic_summary": "韓国におけるHPV予防接種プログラムの有効性や、エチオピアにおける母子感染防止のためのB型肝炎ワクチン接種の効果が研究されている。COVID-19ワクチンのブースター接種に関する研究も行われている。"
+    "policy_summary": "HPVワクチン接種に関する推奨が議論されており、CDCのワクチン政策が停滞している。PAHOとアフリカCDCは、パンデミック対策に向けた投資と協力の強化を呼びかけている。",
+    "academic_summary": "アメリカにおけるインフルエンザワクチンの効果や、エチオピアでの母子感染防止に関する研究が発表された。日本でのHPVワクチンリテラシー向上のためのAIチャットボットの使用に関する臨床試験も行われている。"
   },
   "items": [
     {
@@ -541,6 +540,73 @@
       "duplicate_sources": [
         "AP Vaccines / Immunization",
         "Washington Post Vaccines / Immunization"
+      ]
+    },
+    {
+      "id": "15f69845115f4e24",
+      "title": "Influenza vaccine effectiveness against influenza A-associated hospitalization and severe in-hospital outcomes among adults in the United States, 2024–2025 - Oxford Academic",
+      "summary": "Influenza vaccine effectiveness against influenza A-associated hospitalization and severe in-hospital outcomes among adults in the United States, 2024–2025 Oxford Academic",
+      "summary_ai": "Influenza vaccine effectiveness against influenza A-associated hospitalization and severe in-hospital outcomes among adults in the United States, 2024–2025 Oxford Academic",
+      "title_original": "Influenza vaccine effectiveness against influenza A-associated hospitalization and severe in-hospital outcomes among adults in the United States, 2024–2025 - Oxford Academic",
+      "summary_original": "Influenza vaccine effectiveness against influenza A-associated hospitalization and severe in-hospital outcomes among adults in the United States, 2024–2025 Oxford Academic",
+      "summary_ai_original": "Influenza vaccine effectiveness against influenza A-associated hospitalization and severe in-hospital outcomes among adults in the United States, 2024–2025 Oxford Academic",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSHdqWlpHaE9UbG1kUzdaNGFoVnI5QXExeVlwTFNmSzhoQ2V2X1U2N0s1R3A0V3RyMWZSd0R4SnY5N3BNVDNWaDRtUVNNRFRvSUhULVlfM2tnai1lc0tpQTYtVUdTajExTElBRTdjMThKbjJhbXlVNnJjUTdiMWJDZDZmQkJSeGQtU1NxOGZLcFJ0bXpMLXc?oc=5",
+      "source": "Clinical Infectious Diseases",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-09-26T01:23:47+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "influenza"
+      ],
+      "variants": [],
+      "target_country": "米国",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "Clinical Infectious Diseases"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "Clinical Infectious Diseases"
+        },
+        "target": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "米国"
+        }
+      },
+      "location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "米国"
+      },
+      "region": "North America",
+      "country": "米国",
+      "lat": 38.9072,
+      "lng": -77.0369,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Clinical Infectious Diseases"
       ]
     },
     {
@@ -744,7 +810,7 @@
       ]
     },
     {
-      "id": "54e23d240554a405",
+      "id": "0f9f0a7c16ed0749",
       "title": "Effectiveness of timely hepatitis B birth dose vaccination to prevent mother-to-child transmission in Ethiopia - Oxford Academic",
       "summary": "Effectiveness of timely hepatitis B birth dose vaccination to prevent mother-to-child transmission in Ethiopia Oxford Academic",
       "summary_ai": "Effectiveness of timely hepatitis B birth dose vaccination to prevent mother-to-child transmission in Ethiopia Oxford Academic",
@@ -752,12 +818,12 @@
       "summary_original": "Effectiveness of timely hepatitis B birth dose vaccination to prevent mother-to-child transmission in Ethiopia Oxford Academic",
       "summary_ai_original": "Effectiveness of timely hepatitis B birth dose vaccination to prevent mother-to-child transmission in Ethiopia Oxford Academic",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdVZYWVdScENxRFpveW15aC0tdTdSaEpvSFhKV1M3by1uOEx6RmdmNndURmFGUkxDOW5uME5raXRBUmpXei1xa24wMWYyWFEtU05USG1jS2MwNlo3b0R2d0taT05ZUEN1RERsYWFGYXA5SUVscFcwSjhMcGN2ZTAxc004TzQ0RVdQazkwU2VEc1hoYmJ4blE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZ3lDXzlkMHhFc1FkczJPS2pRUHRpRTVKOURxWVZKc3U5SmFNWlkwZUE4S0lOc2ZXTWdsUUFnS1QzY3Nvam1RQ2NoSlVjYXlacmhDbG5yWHdza050bmU3QXZtaXpUMkhPOGdvM0FSNUVrWHpyZER1djVjVHRtUlJDaWpB?oc=5",
       "source": "Clinical Infectious Diseases",
       "source_type": "academic",
       "source_tier": "Tier 3",
       "source_priority": 8,
-      "published_at": "2026-09-24T11:56:36+00:00",
+      "published_at": "2026-09-24T13:05:25+00:00",
       "topics": [
         "research"
       ],
