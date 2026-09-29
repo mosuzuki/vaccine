@@ -1,9 +1,9 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-09-27T23:46:04.235944+00:00",
-  "item_count": 24,
-  "archive_count": 517,
+  "generated_at": "2026-09-29T00:56:58.034310+00:00",
+  "item_count": 23,
+  "archive_count": 520,
   "days_back": 14,
   "plot_mode_default": "source",
   "feed_status": [
@@ -23,7 +23,7 @@
       "name": "CDC Newsroom",
       "url": "https://tools.cdc.gov/api/v2/resources/media/316422.rss",
       "status": "ok",
-      "seen": 12,
+      "seen": 8,
       "kept": 0
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/biologics/rss.xml",
       "status": "ok",
       "seen": 20,
-      "kept": 1
+      "kept": 0
     },
     {
       "name": "EMA News",
@@ -74,15 +74,16 @@
     {
       "name": "Africa CDC News",
       "url": "https://africacdc.org/feed/",
-      "status": "error",
-      "error": "HTTPSConnectionPool(host='africacdc.org', port=443): Read timed out. (read timeout=30)"
+      "status": "ok",
+      "seen": 0,
+      "kept": 0
     },
     {
       "name": "PAHO News",
       "url": "https://www.paho.org/en/rss.xml",
       "status": "ok",
       "seen": 10,
-      "kept": 4
+      "kept": 3
     },
     {
       "name": "The Lancet series",
@@ -137,7 +138,7 @@
       "name": "Nature Communications vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fncomms%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20surveillance)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 2,
       "kept": 0
     },
     {
@@ -200,7 +201,7 @@
       "name": "JAMA Network Open vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjamanetworkopen%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 4,
+      "seen": 2,
       "kept": 2
     },
     {
@@ -228,49 +229,49 @@
       "name": "medRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Amedrxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 1,
       "kept": 0
     },
     {
       "name": "bioRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abiorxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 6,
+      "seen": 5,
       "kept": 1
     },
     {
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 18,
-      "kept": 2
+      "seen": 19,
+      "kept": 3
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 7,
+      "seen": 28,
       "kept": 1
     },
     {
       "name": "AP Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 84,
+      "seen": 99,
       "kept": 2
     },
     {
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 10,
+      "seen": 13,
       "kept": 0
     },
     {
       "name": "Financial Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aft.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 15,
+      "seen": 14,
       "kept": 0
     },
     {
@@ -284,36 +285,36 @@
       "name": "Nature News Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 5,
+      "seen": 8,
       "kept": 0
     },
     {
       "name": "Science Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Ascience.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 4,
+      "seen": 3,
       "kept": 0
     },
     {
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 26,
+      "seen": 19,
       "kept": 0
     },
     {
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 22,
+      "seen": 23,
       "kept": 0
     },
     {
       "name": "Washington Post Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 24,
-      "kept": 1
+      "seen": 18,
+      "kept": 2
     },
     {
       "name": "NHK ワクチン / 予防接種",
@@ -326,36 +327,36 @@
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 21,
+      "seen": 17,
       "kept": 0
     },
     {
       "name": "朝日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Aasahi.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 6,
+      "seen": 5,
       "kept": 0
     },
     {
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 34,
+      "seen": 29,
       "kept": 0
     },
     {
       "name": "毎日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 6,
+      "seen": 12,
       "kept": 0
     },
     {
       "name": "JAMA Network vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
-      "kept": 1
+      "seen": 0,
+      "kept": 0
     },
     {
       "name": "JAMA Pediatrics vaccines",
@@ -375,7 +376,7 @@
       "name": "Journal of Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fjid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 4,
       "kept": 0
     },
     {
@@ -389,7 +390,7 @@
       "name": "Emerging Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Awwwnc.cdc.gov%2Feid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -459,21 +460,232 @@
       "name": "SSRN vaccine preprints",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Apapers.ssrn.com%20(effectiveness%20OR%20safety%20OR%20policy%20OR%20trial)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 12,
+      "seen": 10,
       "kept": 6
     }
   ],
   "weekly_ai_summary": {
-    "generated_at": "2026-09-27T23:46:04.235944+00:00",
+    "generated_at": "2026-09-29T00:56:58.034310+00:00",
     "period_days": 7,
-    "policy_count": 5,
-    "academic_count": 9,
+    "policy_count": 6,
+    "academic_count": 8,
     "status": "ok",
     "model": "gpt-4o-mini",
-    "policy_summary": "HPVワクチン接種に関する推奨が議論されており、CDCのワクチン政策が停滞している。PAHOとアフリカCDCは、パンデミック対策に向けた投資と協力の強化を呼びかけている。",
-    "academic_summary": "アメリカにおけるインフルエンザワクチンの効果や、エチオピアでの母子感染防止に関する研究が発表された。日本でのHPVワクチンリテラシー向上のためのAIチャットボットの使用に関する臨床試験も行われている。"
+    "policy_summary": "成人のワクチン接種率には、知識不足やアクセスの問題が影響を与える可能性があるとCIDRAPが報告しています。また、PAHOの年次報告書では、アメリカ大陸における健康の向上が強調される一方で、麻疹のない状態の喪失などの健康上の脅威が警告されています。",
+    "academic_summary": "アメリカにおけるインフルエンザワクチンの効果に関する研究が発表され、特に入院や重篤な結果に対する効果が評価されています。また、エチオピアにおける母子感染防止のためのB型肝炎ワクチン接種の効果についても研究が行われています。"
   },
   "items": [
+    {
+      "id": "f9bdb6e7ebb5c926",
+      "title": "Survey: Lack of knowledge, problems with access may affect adult vaccine uptake more than hesitancy - CIDRAP",
+      "summary": "Survey: Lack of knowledge, problems with access may affect adult vaccine uptake more than hesitancy CIDRAP",
+      "summary_ai": "Survey: Lack of knowledge, problems with access may affect adult vaccine uptake more than hesitancy CIDRAP",
+      "title_original": "Survey: Lack of knowledge, problems with access may affect adult vaccine uptake more than hesitancy - CIDRAP",
+      "summary_original": "Survey: Lack of knowledge, problems with access may affect adult vaccine uptake more than hesitancy CIDRAP",
+      "summary_ai_original": "Survey: Lack of knowledge, problems with access may affect adult vaccine uptake more than hesitancy CIDRAP",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSEZFb2w5a3NYOU52XzMxY1Y4SEl3SWVNTmVoNUMyUlJTVkI0VjlUR1VnQk5RQWN2YmdlYVZneG0zd1liRFlpd0piM2UxYkFhNF94UHV6empJdUNjMTg2aWJwM1ZSdDlHcnNyVFBIN1ZxZzhRNWllTml2Z2t6NWEwdE9vU1Q3WlF3bktqNHkzZy1yMmZyQi14U1p2UzhWeG5uNnhTSXNkLXZuOG1jSlZJNWFILXlrQzNoZm5fMQ?oc=5",
+      "source": "CIDRAP Vaccines & Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 8,
+      "published_at": "2026-09-28T19:43:35+00:00",
+      "topics": [
+        "communication"
+      ],
+      "policy_tags": [
+        "communication"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "CIDRAP / Minnesota"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "CIDRAP / Minnesota"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "CIDRAP Vaccines & Immunization"
+      ]
+    },
+    {
+      "id": "4917621292655573",
+      "title": "PAHO Director’s Annual Report highlights health gains across the Americas despite growing challenges",
+      "summary": "PAHO Director’s Annual Report highlights health gains across the Americas despite growing challenges Cristina Mitchell 28 Sep 2026",
+      "summary_ai": "Report highlights disease elimination milestones, progress in immunization and maternal health, and expanded access to medicines, while warning of the loss of the Region’s measles-free status and other health threats Washington, D.C., September 28, 2026 (PAHO) – The Director of the Pan American Health Organization (PAH",
+      "title_original": "PAHO Director’s Annual Report highlights health gains across the Americas despite growing challenges",
+      "summary_original": "PAHO Director’s Annual Report highlights health gains across the Americas despite growing challenges Cristina Mitchell 28 Sep 2026",
+      "summary_ai_original": "Report highlights disease elimination milestones, progress in immunization and maternal health, and expanded access to medicines, while warning of the loss of the Region’s measles-free status and other health threats Washington, D.C., September 28, 2026 (PAHO) – The Director of the Pan American Health Organization (PAH",
+      "article_text_original": "Report highlights disease elimination milestones, progress in immunization and maternal health, and expanded access to medicines, while warning of the loss of the Region’s measles-free status and other health threats Washington, D.C., September 28, 2026 (PAHO) – The Director of the Pan American Health Organization (PAHO), Dr. Jarbas Barbosa, presented his Annual Report today at the opening of the 63rd Directing Council, highlighting important health gains across the Americas despite a complex public health environment and increasing financial constraints. Covering the period from July 2025 through June 2026, the report highlights progress in disease elimination, health security, immunization, maternal health, primary health care, access to essential medicines and health technologies, and the use of innovation to expand access to health services. “These achievements show what is possible when we work together and why we must continue to build on that progress,” said Dr Barbosa. Countries advance toward disease elimination Over the past year, countries and territories achieved important disease elimination milestones. Brazil and the Bahamas were validated as having eliminated mother-to-child transmission of HIV. Turks and Caicos Islands received certification for the elimination of mother-to-child transmission of HIV and became the first territory in the Americas to validate the elimination of mother-to-child transmission of hepatitis B. Chile became the first country in the Region to be verified as having eliminated leprosy, while five provinces in Argentina were confirmed free of vector-borne transmission of Chagas disease. “These milestones demonstrate what can be accomplished through sustained national commitment, with PAHO's support,” Dr. Barbosa said. The report also underscores the fragility of hard-won public health gains. During the reporting period, the Region lost its measles-free status after sustained transmission was reestablished in Canada. Yellow fever outbreaks in several countries, together with declining measles vaccination coverage, also highlighted the risk of setbacks against vaccine-preventable diseases. Strengthening health security and immunization Health security remained a central pillar of PAHO’s work. The Organization mobilized 174 tons of essential supplies to help countries prepare for and respond to disasters, complex humanitarian emergencies and disease outbreaks, and deployed experts and coordinated emergency medical teams during health emergencies. PAHO’s surveillance systems also analyzed more than 2.2 million signals related to potential public health events, supporting early detection and rapid response across the Region. Immunization also continued to recover from declines experienced before and during the COVID-19 pandemic. The number of unvaccinated children under 1 year old fell from 1.3 million to 1.1 million. However, declining measles vaccination coverage demonstrated the need to further strengthen routine immunization programs and increase vaccine uptake through effective communication and public education. Progress in maternal health Reducing preventable maternal deaths remained a priority across the Region. Of the 12 countries receiving targeted PAHO support, 10 recorded declines in maternal mortality ratios during the reporting period. Stronger surveillance systems, supportive policies, improvements in primary health care, and a strengthened health workforce contributed to these gains. Strengthening prevention and care for noncommunicable diseases PAHO expanded its work to prevent and control noncommunicable diseases, with primary health care continuing to serve as the foundation for prevention, early diagnosis and integrated care. By the end of the reporting period, PAHO’s HEARTS initiative was being implemented in more than 14,000 primary health care centers, reaching an estimated 50 million adults. The number of patients receiving treatment for hypertension increased by more than 20% in one year, from 5.7 million in 2025 to 6.9 million in 2026. The growing burden of mental health conditions also prompted new action, including the launch of PAHO’s Regional Suicide Prevention Initiative, which seeks to strengthen national policies and programs through multisectoral action tailored to countries’ needs and contexts. Regional solidarity expands access to medicines and vaccines PAHO’s Regional Revolving Funds continued to demonstrate the value of regional solidarity in improving equitable access to essential medicines and health technologies, supporting the procurement of more than 214 million vaccine doses, over 10 million diagnostic tests and more than 1 million treatments. The Funds also expanded their portfolio to include new high-price medicines, including treatments for breast and prostate cancer, multiple sclerosis and rare diseases. Through pooled procurement, countries were able to achieve significant price reductions. Innovation expands access to health services Innovation also contributed to progress across multiple areas of health. With PAHO’s technical cooperation, countries expanded the use of digital tools and adopted new approaches to address persistent public health challenges. More than 780 telehealth kits were distributed to 20 countries, bringing diagnosis, monitoring and clinical follow-up closer to populations that have historically faced barriers to access. Strengthening regional vaccine production During the reporting period, PAHO signed a landmark agreement with a global influenza vaccine manufacturer to secure a share of pandemic influenza vaccine production for countries in Latin America and the Caribbean. The agreement will support access to vaccines amid surging global demand in the event of a future pandemic. In parallel, PAHO reached a technology transfer agreement to strengthen regional production of seasonal influenza vaccines using cell-based platforms, helping modernize regional vaccine manufacturing and reduce dependence on external suppliers. “The achievements of the past year reflect the strength of our partnership with Member States and the power of regional solidarity,” Dr. Barbosa said. “Despite growing financial constraints, PAHO has once again demonstrated the resilience, adaptability, and leadership that have defined this Organization for more than 120 years.” Building on progress The report also highlights the challenges that remain, including aging populations, the growing burden of noncommunicable diseases, emerging and reemerging health threats, climate-related emergencies and persistent inequities. “Our work is far from finished,” Dr. Barbosa said. “Addressing these challenges will require sustained investment, stronger collaboration, and an unwavering commitment to solidarity.” Member States, with PAHO’s support, will continue working to build stronger health systems, protect public health gains, and ensure that the progress reflected in the report translates into lasting improvements in the lives of people across the Americas. LINKS Coverage of the 63rd Directing Council of PAHO",
+      "link": "https://www.paho.org/en/news/28-9-2026-paho-directors-annual-report-highlights-health-gains-across-americas-despite-growing",
+      "source": "PAHO News",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 8,
+      "published_at": "2026-09-28T18:57:32+00:00",
+      "topics": [
+        "communication",
+        "policy",
+        "research"
+      ],
+      "policy_tags": [
+        "communication",
+        "financing",
+        "outbreak_response",
+        "safety"
+      ],
+      "vaccines": [
+        "influenza"
+      ],
+      "variants": [],
+      "target_country": "カナダ",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "PAHO / Washington DC"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "PAHO / Washington DC"
+        },
+        "target": {
+          "key": "canada",
+          "name_ja": "カナダ",
+          "lat": 45.4215,
+          "lng": -75.6972,
+          "region": "North America",
+          "label": "カナダ"
+        }
+      },
+      "location": {
+        "key": "canada",
+        "name_ja": "カナダ",
+        "lat": 45.4215,
+        "lng": -75.6972,
+        "region": "North America",
+        "label": "カナダ"
+      },
+      "region": "North America",
+      "country": "カナダ",
+      "lat": 45.4215,
+      "lng": -75.6972,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "PAHO News"
+      ]
+    },
+    {
+      "id": "9ac8fdf88604e09f",
+      "title": "The Americas are making progress in health but must accelerate action on emerging challenges, says PAHO Director",
+      "summary": "The Americas are making progress in health but must accelerate action on emerging challenges, says PAHO Director Oscar Reyes 28 Sep 2026",
+      "summary_ai": "Jarbas Barbosa highlighted the Region’s public health gains, called for stronger regional cooperation, and underscored priorities including primary health care, vaccination, digital health and emergency preparedness. The opening session of the Directing Council also featured Lisa Cummins, Minister of Health and Wellnes",
+      "title_original": "The Americas are making progress in health but must accelerate action on emerging challenges, says PAHO Director",
+      "summary_original": "The Americas are making progress in health but must accelerate action on emerging challenges, says PAHO Director Oscar Reyes 28 Sep 2026",
+      "summary_ai_original": "Jarbas Barbosa highlighted the Region’s public health gains, called for stronger regional cooperation, and underscored priorities including primary health care, vaccination, digital health and emergency preparedness. The opening session of the Directing Council also featured Lisa Cummins, Minister of Health and Wellnes",
+      "article_text_original": "At the opening of the 63rd Directing Council, Dr. Jarbas Barbosa highlighted the Region’s public health gains, called for stronger regional cooperation, and underscored priorities including primary health care, vaccination, digital health and emergency preparedness. Washington, D.C., September 28, 2026 (PAHO) – Pan American Health Organization (PAHO) Director Dr. Jarbas Barbosa today highlighted the progress countries across the Americas have made in areas including primary health care, immunization, digital health and disease elimination, and called for accelerated action to address persistent and emerging challenges across the Region. Speaking at the opening of the 63rd Directing Council, which brings together Ministers of Health and other senior health authorities from across the Americas in Washington, D.C., Dr. Barbosa said the Americas continue to serve as a model for other regions of the world in public health, building on more than 120 years of joint efforts to prevent disease, strengthen health systems and protect populations. The opening session of the Directing Council also featured Lisa Cummins, Minister of Health and Wellness of Barbados and outgoing President of the Directing Council; Jayanta Bhattacharya, Director of the National Institutes of Health (NIH) of the United States; Ilan Goldfajn, President of the Inter-American Development Bank (IDB); and Ambassador Steve Ferrol, Permanent Representative of Dominica and President of the Permanent Council of the Organization of American States (OAS). “In public health, success is often measured by what does not happen. There may be no dramatic headlines, but a life may be saved, a family spared, and a community protected because a disease was prevented or an outbreak contained,” he said. Dr. Barbosa highlighted the continued efforts of countries to strengthen primary health care, improve vaccination, expand digital health, prevent and control outbreaks, reduce deaths from chronic diseases, and advance disease elimination. However, he noted that the resurgence of measles is a reminder that the work is far from finished. He called for continued efforts to strengthen surveillance, vaccination and outbreak response, while accelerating progress in maternal, newborn, child and mental health and strengthening preparedness for public health emergencies. He also called for continued focus on advancing universal health and addressing critical challenges, including the persistent shortage of health workers across the Region. “This Directing Council provides a valuable opportunity to shape our collective response to these challenges and strengthen actions to improve health across the Region,” he said. “Lasting public health progress is not delivered to countries. It is built with countries. And it starts here.” Financial sustainability of PAHO Dr. Barbosa also drew attention to the Organization’s financial sustainability and the importance of timely and full payment of assessed contributions by Member States. He recalled that Member States approved a 19% budget reduction last year and noted that, despite prioritization efforts, cost-containment measures and the strong mobilization of additional voluntary contributions, PAHO continues to face a funding gap for its core programs. “This is not simply a budgetary challenge. It affects our ability to provide technical cooperation, respond to emerging health threats, and sustain essential operations across the Region,” he said. The PAHO Director thanked the 31 Member States that have already made full or partial payments in 2026 and called on all countries to complete their contributions as soon as possible. He also thanked partners and donors for their support in advancing the Region’s health priorities. Dr. Barbosa also highlighted the value of partnerships with development banks, foundations and other strategic partners in advancing regional priorities such as digital transformation and strengthening primary health care. Key issues before the 63rd Directing Council During the week, Member States will consider new strategies and action plans to strengthen public health in the Region, including measures related to health security and emergency management, antimicrobial resistance, and the prevention and control of arboviral diseases. They will also consider a proposal to strengthen and harmonize PAHO’s Regional Revolving Funds, one of the Region’s key cooperation mechanisms for facilitating access to vaccines, medicines and other health technologies. In addition, Member States will review the results of the 2020–2025 Strategic Plan and other matters related to the Organization’s priorities and governance. At the conclusion of his remarks, Dr. Barbosa recalled that PAHO was founded on the conviction that the countries of the Americas are stronger when they work together, and called for continued innovation and cooperation to address the Region’s health challenges. “And if there is one thing the history of public health in the Americas has taught us, it is that when we work together, we can make what seems impossible today a reality,” he concluded. Quotes from other speakers at the opening session Lisa Cummins, Minister of Health and Wellness of Barbados and outgoing President of the Directing Council: “PAHO is shared infrastructure for the Americas. We must fund it. We must invest in it. And we must protect it as such. We know what happens when that infrastructure is strong: a country facing an outbreak can draw on regional surveillance and expertise; a small health system can access medicines, technical support and training that it could not readily build up alone; and research conducted in one part of our Region can help save lives in another. The measure of regional solidarity and hemispheric capacity is when we build it together and keep it ready for the people who will need it.” Jayanta Bhattacharya, Director of the National Institutes of Health (NIH): “The United States is reestablishing leadership in the Western Hemisphere. In health, that means working with countries across the Americas to build a stronger, healthier, and more resilient region, one better equipped to prevent disease, confront health threats close to their source, strengthen critical supply chains, and protect the health and security of our people. The United States is committed to extending investments and commercial partnerships across the Western Hemisphere, including sectors such as pharmaceuticals, medical devices, and food systems.” Ambassador Steve Ferrol, Permanent Representative of Dominica and President of the Permanent Council of the Organization of American States (OAS): “Ensuring that people can access essential health services is therefore not only a public health responsibility; it is an essential part of building resilient, secure, and prosperous societies. This is why health belongs at the center of our collective agenda in the Americas. Health policy and foreign policy are no longer separate conversations. The OAS stands ready to work with PAHO and with every Member State to advance this agenda.” Ilan Goldfajn, President of the Inter-American Development Bank (IDB): “The Americas face significant health challenges, including population aging, a growing burden of chronic and infectious diseases, persistent inequities in access to care, and limited public financing. No institution can address these challenges alone. That’s why our partnership with PAHO matters. PAHO brings technical leadership and a strong presence on the ground, while the IDB brings its capacity to mobilize financing and support reforms. Today, I want to highlight three areas where this cooperation can make a difference: primary health care, digital transformation, and access to medicines.” About the Directing Council The Directing Council is one of the governing bodies of the Pan American Health Organization. It brings together health authorities from Member States to set policies, approve strategies and strengthen regional health cooperation. Public sessions can be followed online through the PAHO governance portal.",
+      "link": "https://www.paho.org/en/news/28-9-2026-americas-are-making-progress-health-must-accelerate-action-emerging-challenges-says",
+      "source": "PAHO News",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 8,
+      "published_at": "2026-09-28T14:36:49+00:00",
+      "topics": [
+        "policy",
+        "research"
+      ],
+      "policy_tags": [
+        "approval",
+        "financing",
+        "outbreak_response"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "米国",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "PAHO / Washington DC"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "PAHO / Washington DC"
+        },
+        "target": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "米国"
+        }
+      },
+      "location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "米国"
+      },
+      "region": "North America",
+      "country": "米国",
+      "lat": 38.9072,
+      "lng": -77.0369,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "PAHO News"
+      ]
+    },
     {
       "id": "6d336a595b7e5941",
       "title": "One shot or two? What to know about HPV vaccination recommendations - The Washington Post",
@@ -676,20 +888,20 @@
       ]
     },
     {
-      "id": "92c2681808326278",
-      "title": "CDC vaccine policy recommendations grind to a halt under Health Secretary Kennedy - AP News",
-      "summary": "CDC vaccine policy recommendations grind to a halt under Health Secretary Kennedy AP News",
-      "summary_ai": "CDC vaccine policy recommendations grind to a halt under Health Secretary Kennedy AP News",
-      "title_original": "CDC vaccine policy recommendations grind to a halt under Health Secretary Kennedy - AP News",
-      "summary_original": "CDC vaccine policy recommendations grind to a halt under Health Secretary Kennedy AP News",
-      "summary_ai_original": "CDC vaccine policy recommendations grind to a halt under Health Secretary Kennedy AP News",
+      "id": "3a9ed32f276c85d3",
+      "title": "CDC vaccine policy recommendations grind to a halt under Health Secretary Kennedy - The Washington Post",
+      "summary": "CDC vaccine policy recommendations grind to a halt under Health Secretary Kennedy The Washington Post",
+      "summary_ai": "CDC vaccine policy recommendations grind to a halt under Health Secretary Kennedy The Washington Post",
+      "title_original": "CDC vaccine policy recommendations grind to a halt under Health Secretary Kennedy - The Washington Post",
+      "summary_original": "CDC vaccine policy recommendations grind to a halt under Health Secretary Kennedy The Washington Post",
+      "summary_ai_original": "CDC vaccine policy recommendations grind to a halt under Health Secretary Kennedy The Washington Post",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbnNKUnJmZGYxUWdGczd0NU9JZWJiemlrQWtqRUJjd2w0cG43cklfUmJoRy1QcEZMZUlYX2wxUFdfa2txUUxwSHo4dGxBVVZMMVZRVnA4QlFuSmIyY1hPTUV4RFloaXVMaFhlU1loazZ5d3lsdC1qTkx5VC1CVmNxSTBManhacEhNQ25obmFJSzQwRS14YlE?oc=5",
-      "source": "AP Vaccines / Immunization",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWk5MZHM4N0I1ZzNoYXpsVzdGV2JJOU40SDcwUlVIUVNoMEpzT001SlVGQ3E4SjBubG5JMjN3U1MyTk0yNTJfX3BZamcyc2Z3ZG1MSGZjLXZDdFBweVR5RWxkSVdQdzFJcDJNOWEwdzlBOS1xcHVNVFZkZ0hxOFV4Y24yTTJkSnNhRXNXRmNwaXd3dzRrNjEwR05JSzFmNWg0WnpOVWpvOTQxS3Bjako3a2NrLVl2OVM3TWtwRWx2azVFTTZYLU9n?oc=5",
+      "source": "Washington Post Vaccines / Immunization",
       "source_type": "media",
       "source_tier": "Tier 2",
       "source_priority": 7,
-      "published_at": "2026-09-25T13:04:00+00:00",
+      "published_at": "2026-09-25T20:04:49+00:00",
       "topics": [
         "policy"
       ],
@@ -705,7 +917,7 @@
         "lat": 38.9072,
         "lng": -77.0369,
         "region": "North America",
-        "label": "AP"
+        "label": "Washington Post"
       },
       "plot": {
         "source": {
@@ -714,7 +926,7 @@
           "lat": 38.9072,
           "lng": -77.0369,
           "region": "North America",
-          "label": "AP"
+          "label": "Washington Post"
         },
         "target": {
           "key": "unknown",
@@ -737,9 +949,10 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "duplicate_sources": [
-        "AP Vaccines / Immunization"
+        "AP Vaccines / Immunization",
+        "Washington Post Vaccines / Immunization"
       ]
     },
     {
@@ -1343,83 +1556,13 @@
       ]
     },
     {
-      "id": "b25f020fb0365817",
-      "title": "Health Ministers of the Americas to meet in Washington to address the Region’s leading public health challenges",
-      "summary": "Health Ministers of the Americas to meet in Washington to address the Region’s leading public health challenges Oscar Reyes 21 Sep 2026",
-      "summary_ai": "Washington, D.C., 21 September 2026 (PAHO) – Ministers of Health and other high-level authorities from across the Americas will gather from 28 September to 2 October 2026 at the headquarters of the Pan American Health Organization (PAHO) in Washington, D.C., for the 63rd PAHO Directing Council and other governance meet",
-      "title_original": "Health Ministers of the Americas to meet in Washington to address the Region’s leading public health challenges",
-      "summary_original": "Health Ministers of the Americas to meet in Washington to address the Region’s leading public health challenges Oscar Reyes 21 Sep 2026",
-      "summary_ai_original": "Washington, D.C., 21 September 2026 (PAHO) – Ministers of Health and other high-level authorities from across the Americas will gather from 28 September to 2 October 2026 at the headquarters of the Pan American Health Organization (PAHO) in Washington, D.C., for the 63rd PAHO Directing Council and other governance meet",
-      "article_text_original": "The highest health authorities in the Americas will discuss new strategies on health emergencies, antimicrobial resistance, arboviral diseases, and food safety. Washington, D.C., 21 September 2026 (PAHO) – Ministers of Health and other high-level authorities from across the Americas will gather from 28 September to 2 October 2026 at the headquarters of the Pan American Health Organization (PAHO) in Washington, D.C., for the 63rd PAHO Directing Council and other governance meetings. During the week, Member States will review major public health advances and challenges in the Region and consider the adoption of new policies, strategies, and plans of action that will shape regional cooperation in the years ahead. The opening session will take place on Monday, 28 September, at 9:00 a.m. EDT at PAHO headquarters. Speakers will include Lisa Cummins, Minister of Health and Wellness of Barbados and outgoing President of the Directing Council, and Jarbas Barbosa, Director of PAHO. Senior representatives of the United States Government, the Organization of American States (OAS), and the Inter-American Development Bank (IDB) are also expected to participate. Following the opening session, Dr. Barbosa will present his annual report on the health situation in the Americas and the work of the Organization. The report highlights progress in disease elimination, immunization coverage, digital health, maternal health, emergency preparedness and response, and access to vaccines, medicines, and other health technologies. Key agenda items Among the major issues to be discussed and considered for adoption are: - Strategy for Strengthening Health Emergency and Risk Management for Health Security 2026–2031, aimed at enhancing preparedness, detection, and response to epidemics, disasters, and other health emergencies. - Plan of Action on Antimicrobial Resistance 2027–2031, designed to accelerate action against one of the Region’s growing public health threats through a One Health approach. - Integrated Management Strategy for the Prevention and Control of Arboviral Diseases 2026–2035, intended to strengthen responses to diseases such as dengue, chikungunya, and Oropouche. - Strategy and Plan of Action on Food Safety 2026–2031, aimed at strengthening national food safety systems and reducing the burden of foodborne diseases. - Strengthening and Alignment of PAHO’s Regional Revolving Funds, a proposal to strengthen, integrate, and modernize the Organization’s regional procurement mechanisms for vaccines, medicines, and other health technologies. Delegates will also review reports on the implementation of the PAHO Strategic Plan 2020–2025, the Organization’s financial situation, implementation of the International Health Regulations (IHR), the PAHO Forward initiative, and progress on disease elimination, One Health, cervical cancer, health promotion, genomic surveillance, and data science. Health in the Americas During the week, PAHO will launch Health in the Americas 2026: Prioritizing Avertable Disease Burden to Maximize Impact, the latest edition of the Organization’s flagship publication. The report examines the leading causes of disability and premature mortality in the Region, analyzes health financing trends, and identifies the interventions that offer the greatest potential to improve health outcomes and guide public health decision-making. Featured events Special events during the week will include: - Advancing and Accelerating Digital Transformation in the Americas: The Case of the Pan-American Highway for Digital Health (28 September). - Celebration of the 50th Anniversary of PAHO’s Health Emergencies Program (28 September). - Accelerating Action in Primary Health Care: Innovative Experiences from the Region (29 September). - PAHO Ceremony Recognizing the Elimination of Communicable Diseases in the Americas (29 September). - Catalytic Investments to Accelerate Disease Elimination in the Americas (30 September). Other governance meetings Following the Directing Council, Ministers of Health and national delegations will participate in additional governance meetings during the week, including the 78th Session of the World Health Organization (WHO) Regional Committee for the Americas and the 179th Session of PAHO’s Executive Committee. A special briefing session, “Reforming the Global Health Architecture,” will take place on 2 October, focusing on challenges and opportunities to strengthen global health cooperation and governance. About the Directing Council The Directing Council is one of PAHO’s governing bodies and brings together health authorities from PAHO Member States to define policies, approve strategies, and strengthen regional health cooperation. Media accreditation The meetings will take place at PAHO headquarters, located at 525 23rd Street NW, Washington, D.C. Journalists wishing to attend in person should request accreditation by sending their full name, media affiliation, and identification document to mediateam@paho.org. Public sessions will also be streamed online through PAHO’s governance portal.",
-      "link": "https://www.paho.org/en/news/21-9-2026-health-ministers-americas-meet-washington-address-regions-leading-public-health",
-      "source": "PAHO News",
-      "source_type": "official",
-      "source_tier": "Tier 1",
-      "source_priority": 8,
-      "published_at": "2026-09-21T19:38:56+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [
-        "financing",
-        "outbreak_response",
-        "recommendation",
-        "safety"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "米国",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "PAHO / Washington DC"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "PAHO / Washington DC"
-        },
-        "target": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "米国"
-        }
-      },
-      "location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "米国"
-      },
-      "region": "North America",
-      "country": "米国",
-      "lat": 38.9072,
-      "lng": -77.0369,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "PAHO News"
-      ]
-    },
-    {
-      "id": "9dbef14e94efe17b",
-      "title": "AI Chatbot Use for Human Papillomavirus Vaccine Literacy in Japan A Randomized Clinical Trial - jamanetwork.com",
-      "summary": "AI Chatbot Use for Human Papillomavirus Vaccine Literacy in Japan A Randomized Clinical Trial jamanetwork.com",
-      "summary_ai": "AI Chatbot Use for Human Papillomavirus Vaccine Literacy in Japan A Randomized Clinical Trial jamanetwork.com",
-      "title_original": "AI Chatbot Use for Human Papillomavirus Vaccine Literacy in Japan A Randomized Clinical Trial - jamanetwork.com",
-      "summary_original": "AI Chatbot Use for Human Papillomavirus Vaccine Literacy in Japan A Randomized Clinical Trial jamanetwork.com",
-      "summary_ai_original": "AI Chatbot Use for Human Papillomavirus Vaccine Literacy in Japan A Randomized Clinical Trial jamanetwork.com",
+      "id": "0e81238717716e16",
+      "title": "AI Chatbot Use for Human Papillomavirus Vaccine Literacy in Japan A Randomized Clinical Trial",
+      "summary": "AI Chatbot Use for Human Papillomavirus Vaccine Literacy in Japan A Randomized Clinical Trial",
+      "summary_ai": "AI Chatbot Use for Human Papillomavirus Vaccine Literacy in Japan A Randomized Clinical Trial",
+      "title_original": "AI Chatbot Use for Human Papillomavirus Vaccine Literacy in Japan A Randomized Clinical Trial",
+      "summary_original": "AI Chatbot Use for Human Papillomavirus Vaccine Literacy in Japan A Randomized Clinical Trial",
+      "summary_ai_original": "AI Chatbot Use for Human Papillomavirus Vaccine Literacy in Japan A Randomized Clinical Trial",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA2a1lDaHRJRnRWZWN6QXNmODNDa0JMSVNQSU9ScGN0RU9UVGgwSmVvRTMxMmY2X1JGYlY0bXFqbU5jU1YxQ2JGZ2R6dW1CYlpKUE0tUnFYQWFKeV9FN0pEMFZPSWx1SEFVdlNLQm1vNTg3S2VkM2ow?oc=5",
       "source": "JAMA Network Open vaccines",
@@ -1477,74 +1620,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "JAMA Network Open vaccines"
-      ]
-    },
-    {
-      "id": "22fec32235cd461c",
-      "title": "PAHO: Strengthening El Niño raises growing health risks across the Americas",
-      "summary": "PAHO: Strengthening El Niño raises growing health risks across the Americas Oscar Reyes 18 Sep 2026",
-      "summary_ai": "Washington, D.C., September 18, 2026 (PAHO) – El Niño continues to strengthen and could have significant public health impacts across the Americas in the coming months, according to the Pan American Health Organization’s (PAHO) first regional situation report on the phenomenon. “With a greater than 90% chance of a very",
-      "title_original": "PAHO: Strengthening El Niño raises growing health risks across the Americas",
-      "summary_original": "PAHO: Strengthening El Niño raises growing health risks across the Americas Oscar Reyes 18 Sep 2026",
-      "summary_ai_original": "Washington, D.C., September 18, 2026 (PAHO) – El Niño continues to strengthen and could have significant public health impacts across the Americas in the coming months, according to the Pan American Health Organization’s (PAHO) first regional situation report on the phenomenon. “With a greater than 90% chance of a very",
-      "article_text_original": "Drought, food insecurity, dengue, wildfires, and flooding are already affecting several countries across the region as El Niño intensifies. Washington, D.C., September 18, 2026 (PAHO) – El Niño continues to strengthen and could have significant public health impacts across the Americas in the coming months, according to the Pan American Health Organization’s (PAHO) first regional situation report on the phenomenon. The U.S. National Oceanic and Atmospheric Administration (NOAA) estimates there is a greater than 90% chance of a very strong El Niño during the Northern Hemisphere fall and winter of 2026–27. PAHO reports that impacts are already being seen in different parts of the region. Several countries are experiencing drought, food insecurity, wildfires, and flooding amid the strengthening El Niño, although not all of these events have been directly attributed to the phenomenon. To date, eight countries or territories have issued official emergency declarations or alerts related to threats associated with El Niño. “El Niño is not just a climate phenomenon. It can affect people’s health in many ways, from food insecurity and vector-borne and water-borne diseases to disruptions in health services,” said Dr. Ciro Ugarte, Director of PAHO’s Department of Health Emergencies. “With a greater than 90% chance of a very strong event, this is a risk countries should take seriously and prepare for now.” The report highlights that more than 5.2 million people across the region are affected, exposed to risk, or experiencing acute food insecurity, while several countries are already reporting health impacts associated with extreme weather events. Based on available information, PAHO’s monitoring identified eight countries or territories experiencing active drought or water shortages, six facing wildfires with health impacts or risks, and five reporting damage from heavy rainfall or flooding. In Central America, one of the primary concerns is the Dry Corridor, particularly in Honduras, Guatemala, and El Salvador, where drought is affecting water availability, agricultural production, and food security. In Guatemala, nearly three million people face critical levels of food insecurity, while Honduras reports between 1.8 and 2.2 million people affected by acute food insecurity. In the Andean region, Colombia faces a complex situation marked by wildfires, heavy rainfall, and an active dengue outbreak, along with risks linked to malaria and yellow fever. Peru is experiencing one of the most severe situations in the region, with heavy rains, flooding, and landslides causing at least 70 deaths between December 2025 and August 2026 and affecting more than 600 health facilities. Brazil currently presents some of the most significant environmental warning signs, including declining water levels across the Amazon Basin and worsening air quality linked to wildfires. According to data cited by PAHO, 630 municipalities have recorded fine particulate matter levels above World Health Organization (WHO) guideline levels. As of the reporting period, no direct correlation with specific health outcomes had been established. In the Caribbean, Jamaica, Puerto Rico, and Trinidad and Tobago are reporting drought conditions and risks associated with water scarcity, while countries in the Southern Cone are maintaining preparedness measures in anticipation of increased rainfall, flooding, and other extreme events in the months ahead. The report identifies a range of health risks, including the direct effects of extreme heat, vector-borne and water-borne diseases, deteriorating air quality, and disruptions to essential health services. It also warns that health facilities remain vulnerable to infrastructure damage, interruptions in water and power supplies, impacts on supply chains and vaccination programs, and reduced access to health care. Previous El Niño episodes have also coincided with major public health emergencies, including the reemergence of cholera in the 1990s, the Zika and chikungunya epidemics in 2015–2016, and record dengue transmission in 2023 and 2024. In response, PAHO is supporting preparedness and response efforts across the region, including initiatives to strengthen the resilience of health services, improve disease surveillance, enhance water security, and support continuity of care for vulnerable communities. PAHO is urging countries to strengthen surveillance systems and early warning mechanisms, protect the continuity of essential health services, and ensure access to safe water, vaccination, medicines, and health care for the most vulnerable populations. The Organization also calls for the review and updating of hospital and health network contingency plans to reduce the potential health impacts of what could become one of the strongest El Niño events in recent years.",
-      "link": "https://www.paho.org/en/news/18-9-2026-paho-strengthening-nino-raises-growing-health-risks-across-americas",
-      "source": "PAHO News",
-      "source_type": "official",
-      "source_tier": "Tier 1",
-      "source_priority": 8,
-      "published_at": "2026-09-18T21:22:32+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [
-        "outbreak_response",
-        "recommendation"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "ブラジル",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "PAHO / Washington DC"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "PAHO / Washington DC"
-        },
-        "target": {
-          "key": "brazil",
-          "name_ja": "ブラジル",
-          "lat": -15.7939,
-          "lng": -47.8828,
-          "region": "South America",
-          "label": "ブラジル"
-        }
-      },
-      "location": {
-        "key": "brazil",
-        "name_ja": "ブラジル",
-        "lat": -15.7939,
-        "lng": -47.8828,
-        "region": "South America",
-        "label": "ブラジル"
-      },
-      "region": "South America",
-      "country": "ブラジル",
-      "lat": -15.7939,
-      "lng": -47.8828,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "PAHO News"
       ]
     },
     {
@@ -1615,82 +1690,13 @@
       ]
     },
     {
-      "id": "558aa72821ab3b00",
-      "title": "ワクチンおよび関連生物由来製品諮問委員会の名簿",
-      "summary": "これはワクチンおよび関連生物由来製品諮問委員会の名簿です。",
-      "summary_ai": "空席専門知識: グローバルヘルス、遺伝学 任期: 2022/02/01 – 2030/01/30 臨床・医療研究政策部門ディレクター 所長室科学政策室 国立衛生研究所ベセスダ、メリーランド州 専門分野: 小児科、感染症 任期: 2025/02/01 - 2029/01/31 学科教授",
-      "title_original": "Roster of the Vaccines and Related Biological Products Advisory Committee",
-      "summary_original": "This is the Roster of the Vaccines and Related Biological Products Advisory Committee",
-      "summary_ai_original": "Vacant Expertise: Global Health, Genetics Term: 02/01/2022 – 01/30/2030 Director, Division of Clinical and Healthcare Research Policy Office of Science Policy, Office of the Director National Institutes of Health Bethesda, MD Expertise: Pediatrics, Infectious Diseases Term: 02/01/2025 - 01/31/2029 Professor, Department",
-      "article_text_original": "As part of the Food and Drug Administration's (FDA's) ongoing efforts to recruit qualified experts with minimal conflicts of interest who are interested in serving on FDA advisory committees, FDA is requesting nominations for members to serve on its advisory committees. Current Number of Vacancies: 9 Note, one or more vacancies may be in the nomination process or a final appointment may have been made. The names listed below are advisory committee members who have active appointments required to participate in committee meetings, including an unexpired appointment as a Special Government Employee where applicable. Vacant Expertise: Global Health, Genetics Term: 02/01/2022 – 01/30/2030 Director, Division of Clinical and Healthcare Research Policy Office of Science Policy, Office of the Director National Institutes of Health Bethesda, MD Expertise: Pediatrics, Infectious Diseases Term: 02/01/2025 - 01/31/2029 Professor, Department of International Health Director, Center for Immunization Research Johns Hopkins Bloomberg School of Public Health Baltimore, MD 21205 Expertise: Pediatrics, Infectious Diseases Term: 06/21/2019 - 01/31/2027 Clinical Professor Pediatrics - Infectious Diseases Stanford Medicine Children’s Health Stanford, CA 94305 Expertise: Industry Representative (Alternate) Scientific Assoc. Vice President, Global Regulatory Affairs and Clinical Safety, MRL, Vaccines and Infectious Diseases Merck & Co., Inc. North Wales, PA 19454 Expertise: Pediatrics, Vaccines Term: 02/01/2024 - 01/31/2028 Medical Officer Immunization Services Division National Center for Emerging and Zoonotic Infectious Diseases Centers for Disease Control and Prevention Atlanta, GA 30329 Expertise: Pediatrics, Infectious Diseases Term: 02/01/2025 - 01/31/2029 Associate Professor of Pediatrics, Infectious Diseases Molecular Virology and Microbiology Texas Children’s Hospital Baylor College of Medicine Houston, TX 77030 Expertise: Allergy & Immunology Term: 07/05/2024 - 1/31/2028 Chief, Asthma, Allergy, and Immunology Division School of Medicine University of Virginia Charlottesville, VA 22903 Expertise: Pediatrics, Infectious Diseases Term: 02/01/2025 - 01/31/2029 Dean and Professor Lyda Hill Deanship of the School of Public Health UT Southwestern Medical Center Dallas, TX 75225 LCDR Cicely C. Reese, PharmD Center for Biologics Evaluation & Research Food and Drug Administration Silver Spring, MD 20993 E-mail: CBERVRBPAC@fda.hhs.gov ** Consumer Representative *** Industry Representative ~ Alternate Industry Representative",
-      "link": "http://www.fda.gov/advisory-committees/vaccines-and-related-biological-products-advisory-committee/roster-vaccines-and-related-biological-products-advisory-committee",
-      "source": "FDA Vaccines / Biologics",
-      "source_type": "official",
-      "source_tier": "Tier 1",
-      "source_priority": 9,
-      "published_at": "2026-09-18T18:28:55+00:00",
-      "topics": [
-        "policy",
-        "research"
-      ],
-      "policy_tags": [
-        "recommendation",
-        "safety"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "FDA / Silver Spring"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "FDA / Silver Spring"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "FDA Vaccines / Biologics"
-      ]
-    },
-    {
-      "id": "d0f9b9cbfca5f6b9",
-      "title": "RSV Vaccine Effectiveness Among US Older Adults, 2023-2024 Season - jamanetwork.com",
-      "summary": "RSV Vaccine Effectiveness Among US Older Adults, 2023-2024 Season jamanetwork.com",
-      "summary_ai": "RSV Vaccine Effectiveness Among US Older Adults, 2023-2024 Season jamanetwork.com",
-      "title_original": "RSV Vaccine Effectiveness Among US Older Adults, 2023-2024 Season - jamanetwork.com",
-      "summary_original": "RSV Vaccine Effectiveness Among US Older Adults, 2023-2024 Season jamanetwork.com",
-      "summary_ai_original": "RSV Vaccine Effectiveness Among US Older Adults, 2023-2024 Season jamanetwork.com",
+      "id": "7618941d52307242",
+      "title": "RSV Vaccine Effectiveness Among US Older Adults, 2023-2024 Season",
+      "summary": "RSV Vaccine Effectiveness Among US Older Adults, 2023-2024 Season",
+      "summary_ai": "RSV Vaccine Effectiveness Among US Older Adults, 2023-2024 Season",
+      "title_original": "RSV Vaccine Effectiveness Among US Older Adults, 2023-2024 Season",
+      "summary_original": "RSV Vaccine Effectiveness Among US Older Adults, 2023-2024 Season",
+      "summary_ai_original": "RSV Vaccine Effectiveness Among US Older Adults, 2023-2024 Season",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBzMENiVXhkc0pKRTJpbHgtOEhIRzFuTHk3QnFrS0lWLWVORzdHUk43V2VKeEpOdVhhX01FSmtVQmg4OGN3eEp3NmdXc0FrM2dERklwZk1Kb0ZVUDM4amJsc0NxbHNFOWc0UGYyWFlSVll2X21LVU1F?oc=5",
       "source": "JAMA Network Open vaccines",
@@ -1745,10 +1751,9 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicate_sources": [
-        "JAMA Network Open vaccines",
-        "JAMA Network vaccines"
+        "JAMA Network Open vaccines"
       ]
     },
     {
@@ -1816,76 +1821,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "SSRN vaccine preprints"
-      ]
-    },
-    {
-      "id": "2547af1bea504f92",
-      "title": "UNGA: PAHO joins global efforts to advance pandemic prevention, preparedness and response",
-      "summary": "UNGA: PAHO joins global efforts to advance pandemic prevention, preparedness and response Oscar Reyes 16 Sep 2026",
-      "summary_ai": "For the Americas, strengthening pandemic preparedness remains critical as countries continue to face emerging and re-emerging health threats, while working to build more resilient health systems and strengthen health security. “The Americas has important experience to share, including the value of regional cooperation",
-      "title_original": "UNGA: PAHO joins global efforts to advance pandemic prevention, preparedness and response",
-      "summary_original": "UNGA: PAHO joins global efforts to advance pandemic prevention, preparedness and response Oscar Reyes 16 Sep 2026",
-      "summary_ai_original": "For the Americas, strengthening pandemic preparedness remains critical as countries continue to face emerging and re-emerging health threats, while working to build more resilient health systems and strengthen health security. “The Americas has important experience to share, including the value of regional cooperation",
-      "article_text_original": "The Organization will participate in a series of events to share the experience and priorities of the Americas region. Washington, D.C., September 16, 2026 (PAHO) – The Pan American Health Organization (PAHO) will join global efforts to advance pandemic prevention, preparedness and response (PPPR) during the 81st session of the United Nations General Assembly (UNGA), as countries and partners prepare for the Second High-Level Meeting on PPPR on September 25. For the Americas, strengthening pandemic preparedness remains critical as countries continue to face emerging and re-emerging health threats, while working to build more resilient health systems and strengthen health security. The General Assembly comes at a pivotal moment for global health, as countries continue to navigate ongoing health emergencies, economic pressures, climate-related threats and declining development assistance while working to strengthen health systems and protect populations from future risks. Against this backdrop, the High-Level Meeting on PPPR will focus on how countries can sustain and strengthen preparedness efforts in an increasingly constrained global financing environment. PAHO Director Dr. Jarbas Barbosa will participate in a series of high-level events throughout UNGA week, highlighting the experience and priorities of the Americas and the importance of sustained investment, strong health systems and regional and international cooperation to strengthen pandemic preparedness and global health security. The second UN High-Level Meeting on Pandemic Prevention, Preparedness and Response will provide an opportunity to review progress since the first meeting in 2023 and renew political commitment to prevent future pandemics through international cooperation. The discussions will take place as countries advance implementation of the WHO Pandemic Agreement, strengthen the International Health Regulations, and pursue other global commitments aimed at improving pandemic prevention, preparedness and response. In the Americas, many of the capacities needed to prepare for future pandemics are the same ones countries rely on every day to protect health, including disease surveillance, laboratory networks, primary health care, infection prevention and control, and resilient health systems. “Pandemic prevention and preparedness cannot be built only when an emergency occurs. It requires sustained investment in the health systems, laboratories, surveillance and public health capacities that countries need every day,” said Dr. Barbosa. “The Americas has important experience to share, including the value of regional cooperation and the importance of strengthening national capacities as part of global health security.” Strengthening pandemic preparedness in the Americas Pandemics can have profound and far-reaching consequences, disrupting health systems, economies and societies and reversing progress towards the Sustainable Development Goals. COVID-19 underscored the need for sustained investment in preparedness, international cooperation and equitable access to the tools and capacities needed to protect populations. Five years after COVID-19, the world has stronger tools and frameworks for preventing and responding to health emergencies, but significant challenges remain. Sustained political commitment, investment in resilient health systems, trust in science and effective international cooperation remain essential to global health security. The Americas has made important progress in strengthening its capacity to detect and respond to health threats. In 2025, PAHO’s regional surveillance system analyzed more than 2.1 million signals and detected 157 public health events, helping countries identify and respond to emerging threats. The Region has also expanded genomic and laboratory surveillance and strengthened mechanisms for coordinated emergency response. PAHO is also working with countries to reduce vulnerabilities in the supply of vaccines, medicines and other health technologies. In 2025, the Organization’s Revolving Funds delivered 234 million vaccine doses and 13 million diagnostic tests, reaching an estimated 85 million people. At the same time, regional production is expanding, with locally produced vaccines accounting for around 26% of procurement volume through the Revolving Funds in 2025, compared with just 1.5% in 2020. Dr. Barbosa’s UNGA agenda During the week, Dr. Barbosa will participate in key side events: September 21 - Crisis in Preparedness: Laboratories and Frontline Readiness in the Time of Ebola – panel discussion on strengthening laboratory capabilities for routine health needs and pandemic preparedness, co-hosted by the Mérieux Foundation USA, Weill Cornell Medicine, GHESKIO, the Association for Public Health Laboratories and PAHO. September 22 - Two Regions, One Future: Financing Pandemic Prevention, Preparedness and Response to Build Global Health Security – regional keynote at an event organized by PAHO, Africa CDC, Guyana and Burundi, with support from the UN Foundation. - Global Brain Economy Initiative Summit – keynote on the burden of neurological disorders in the Americas and why brain health must be a public priority. – keynote on the burden of neurological disorders in the Americas and why brain health must be a public priority. - Devex Impact House and Lilly – fireside chat on accelerating progress in global cardiometabolic health. – fireside chat on accelerating progress in global cardiometabolic health. - The Health System Stress Test: Integrated NCD Care for UHC – panel discussion organized by the International Society of Nephrology and Devex. - United to Beat Malaria – panel discussion on malaria elimination in Latin America and the Caribbean, organized by the UN Foundation and the United to Beat Malaria partnership. September 23 - Foreign Policy Health Forum – session on NCDs and health security. - OneSCD: A Global Partnership to Advance Equity and Transform Sickle Cell Care– panel discussion organized by Nigeria, UNICEF, WHO, Africa CDC, and St. Jude Children’s Research Hospital. – panel discussion organized by Nigeria, UNICEF, WHO, Africa CDC, St. Jude Children’s Research Hospital and Jamaica. September 24 - Bringing Innovation into Healthcare Systems – session organized by the International Alliance for Personalised Medicine. September 25 - UN High-Level Meeting on Pandemic Prevention, Preparedness and Response – global discussions on strengthening pandemic preparedness and advancing international cooperation and action. Media interested in arranging interviews during UNGA week may contact PAHO’s Media Team (mediateam@paho.org). PAHO will continue working with countries across the Americas and with partners around the world to strengthen the capacities needed to prevent, detect and respond to health emergencies, while helping ensure that lessons from recent crises translate into stronger preparedness, more resilient health systems, and greater health security for all.",
-      "link": "https://www.paho.org/en/news/16-9-2026-unga-paho-joins-global-efforts-advance-pandemic-prevention-preparedness-and-response",
-      "source": "PAHO News",
-      "source_type": "official",
-      "source_tier": "Tier 1",
-      "source_priority": 8,
-      "published_at": "2026-09-16T13:03:21+00:00",
-      "topics": [
-        "policy",
-        "research"
-      ],
-      "policy_tags": [
-        "financing",
-        "outbreak_response",
-        "safety"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "米国",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "PAHO / Washington DC"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "PAHO / Washington DC"
-        },
-        "target": {
-          "key": "usa",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "米国"
-        }
-      },
-      "location": {
-        "key": "usa",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "米国"
-      },
-      "region": "North America",
-      "country": "米国",
-      "lat": 38.9072,
-      "lng": -77.0369,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "PAHO News"
       ]
     },
     {
