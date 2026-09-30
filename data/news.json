@@ -1,9 +1,9 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-09-29T00:56:58.034310+00:00",
-  "item_count": 23,
-  "archive_count": 520,
+  "generated_at": "2026-09-30T00:21:10.113970+00:00",
+  "item_count": 24,
+  "archive_count": 522,
   "days_back": 14,
   "plot_mode_default": "source",
   "feed_status": [
@@ -23,7 +23,7 @@
       "name": "CDC Newsroom",
       "url": "https://tools.cdc.gov/api/v2/resources/media/316422.rss",
       "status": "ok",
-      "seen": 8,
+      "seen": 7,
       "kept": 0
     },
     {
@@ -57,7 +57,7 @@
       "url": "https://www.gov.uk/government/organisations/medicines-and-healthcare-products-regulatory-agency.atom",
       "status": "ok",
       "seen": 20,
-      "kept": 0
+      "kept": 1
     },
     {
       "name": "Health Canada Recalls and Safety Alerts",
@@ -83,7 +83,7 @@
       "url": "https://www.paho.org/en/rss.xml",
       "status": "ok",
       "seen": 10,
-      "kept": 3
+      "kept": 1
     },
     {
       "name": "The Lancet series",
@@ -110,8 +110,8 @@
       "name": "BMJ",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abmj.com%20(policy%20OR%20trial%20OR%20effectiveness%20OR%20communication)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 0,
-      "kept": 0
+      "seen": 1,
+      "kept": 1
     },
     {
       "name": "Vaccine journal",
@@ -131,7 +131,7 @@
       "name": "Nature Medicine vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fnm%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20uptake%20OR%20policy)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -194,7 +194,7 @@
       "name": "JAMA vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjama%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -229,42 +229,42 @@
       "name": "medRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Amedrxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
       "name": "bioRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abiorxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 5,
+      "seen": 3,
       "kept": 1
     },
     {
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 19,
+      "seen": 23,
       "kept": 3
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 28,
+      "seen": 27,
       "kept": 1
     },
     {
       "name": "AP Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 99,
+      "seen": 32,
       "kept": 2
     },
     {
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 13,
+      "seen": 11,
       "kept": 0
     },
     {
@@ -272,7 +272,7 @@
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aft.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
       "seen": 14,
-      "kept": 0
+      "kept": 1
     },
     {
       "name": "STAT Vaccines / Immunization",
@@ -285,7 +285,7 @@
       "name": "Nature News Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 8,
+      "seen": 5,
       "kept": 0
     },
     {
@@ -299,49 +299,49 @@
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 19,
+      "seen": 22,
       "kept": 0
     },
     {
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 23,
+      "seen": 54,
       "kept": 0
     },
     {
       "name": "Washington Post Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 18,
+      "seen": 20,
       "kept": 2
     },
     {
       "name": "NHK ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anhk.or.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 7,
+      "seen": 4,
       "kept": 0
     },
     {
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 17,
+      "seen": 21,
       "kept": 0
     },
     {
       "name": "朝日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Aasahi.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 5,
+      "seen": 8,
       "kept": 0
     },
     {
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 29,
+      "seen": 77,
       "kept": 0
     },
     {
@@ -355,14 +355,14 @@
       "name": "JAMA Network vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 2,
       "kept": 0
     },
     {
       "name": "JAMA Pediatrics vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjamapediatrics&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -376,7 +376,7 @@
       "name": "Journal of Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fjid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 4,
+      "seen": 2,
       "kept": 0
     },
     {
@@ -390,7 +390,7 @@
       "name": "Emerging Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Awwwnc.cdc.gov%2Feid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 2,
       "kept": 0
     },
     {
@@ -465,16 +465,224 @@
     }
   ],
   "weekly_ai_summary": {
-    "generated_at": "2026-09-29T00:56:58.034310+00:00",
+    "generated_at": "2026-09-30T00:21:10.113970+00:00",
     "period_days": 7,
     "policy_count": 6,
-    "academic_count": 8,
+    "academic_count": 7,
     "status": "ok",
     "model": "gpt-4o-mini",
-    "policy_summary": "成人のワクチン接種率には、知識不足やアクセスの問題が影響を与える可能性があるとCIDRAPが報告しています。また、PAHOの年次報告書では、アメリカ大陸における健康の向上が強調される一方で、麻疹のない状態の喪失などの健康上の脅威が警告されています。",
-    "academic_summary": "アメリカにおけるインフルエンザワクチンの効果に関する研究が発表され、特に入院や重篤な結果に対する効果が評価されています。また、エチオピアにおける母子感染防止のためのB型肝炎ワクチン接種の効果についても研究が行われています。"
+    "policy_summary": "CSL Seqirusは、2026/27年製造キャンペーンの成功を受けて、米国でのインフルエンザワクチンの供給を拡大しました。また、成人のワクチン接種率に対する知識不足やアクセスの問題が、接種躊躇よりも影響を与える可能性があるとの調査結果が報告されています。",
+    "academic_summary": "ネパールにおけるCOVID-19ワクチンの有効性と変異株に関する研究プロトコルが発表されました。さらに、米国におけるインフルエンザワクチンの有効性に関する研究が行われ、成人の入院や重篤な結果に対する効果が評価されています。"
   },
   "items": [
+    {
+      "id": "162b5e7ab04a8216",
+      "title": "CSL Seqirus Expands U.S. Availability of Influenza Vaccine following Successful Completion of the 2026/27 Manufacturing Campaign – Company Announcement - FT.com - Financial Times",
+      "summary": "CSL Seqirus Expands U.S. Availability of Influenza Vaccine following Successful Completion of the 2026/27 Manufacturing Campaign – Company Announcement - FT.com Financial Times",
+      "summary_ai": "CSL Seqirus Expands U.S. Availability of Influenza Vaccine following Successful Completion of the 2026/27 Manufacturing Campaign – Company Announcement - FT.com Financial Times",
+      "title_original": "CSL Seqirus Expands U.S. Availability of Influenza Vaccine following Successful Completion of the 2026/27 Manufacturing Campaign – Company Announcement - FT.com - Financial Times",
+      "summary_original": "CSL Seqirus Expands U.S. Availability of Influenza Vaccine following Successful Completion of the 2026/27 Manufacturing Campaign – Company Announcement - FT.com Financial Times",
+      "summary_ai_original": "CSL Seqirus Expands U.S. Availability of Influenza Vaccine following Successful Completion of the 2026/27 Manufacturing Campaign – Company Announcement - FT.com Financial Times",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdWd5RFpFdHlIUUVBWVlUMmJzX3JMMTNfZnVZcTM1U2J6bHVYb0FFTmkycHkwNUwyaXVfQnNWdEdydC1MRjdGV0t6Zk1nSEN2Zy1Zd0t1bjF3QXNySEFPam9DODlVMzdlejlRN1J0NUZRWmRpd09uYnlVbkZZMVVYYmthQmVocFVyOUM4dk1lc3p5cFhOY09SMw?oc=5",
+      "source": "Financial Times Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-09-29T13:30:00+00:00",
+      "topics": [
+        "communication"
+      ],
+      "policy_tags": [
+        "outbreak_response"
+      ],
+      "vaccines": [
+        "influenza"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Financial Times"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Financial Times"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Financial Times Vaccines / Immunization"
+      ]
+    },
+    {
+      "id": "75ef8927187be462",
+      "title": "MHRA Safety Roundup: September 2026",
+      "summary": "Summary of the latest safety advice for medicines and medical device users",
+      "summary_ai": "National Patient Safety Alert: Patient hoists and slings (all types): risk of death and serious harm from falls (NatPSA/2026/005/MHRA) National Patient Safety Alert Access the full article Summary Fatal and serious harm continues to occur when patients fall from hoists or slings during transfers and repositioning. Acti",
+      "title_original": "MHRA Safety Roundup: September 2026",
+      "summary_original": "Summary of the latest safety advice for medicines and medical device users",
+      "summary_ai_original": "National Patient Safety Alert: Patient hoists and slings (all types): risk of death and serious harm from falls (NatPSA/2026/005/MHRA) National Patient Safety Alert Access the full article Summary Fatal and serious harm continues to occur when patients fall from hoists or slings during transfers and repositioning. Acti",
+      "article_text_original": "To subscribe to monthly email alerts of MHRA Safety Roundup visit our sign up page Download Document Please access the PDF version of our Safety Roundup for our easy-read template and QR codes to access the full articles. National Patient Safety Alert: Patient hoists and slings (all types): risk of death and serious harm from falls (NatPSA/2026/005/MHRA) National Patient Safety Alert Access the full article Summary Fatal and serious harm continues to occur when patients fall from hoists or slings during transfers and repositioning. A review of recent incidents with a fatal outcome and wider surveillance data shows an average of two deaths per year since 2015. This is not confined to any manufacturer, model, or care setting. The most common causes of fatal and serious patient falls from hoists include: - Detachment at critical load-bearing interfaces, including spreader bar hooks, clips, carabiners, fasteners, or other parts that are missing, worn, damaged or incorrectly assembled. - Incompatible hoist and sling combinations, including use of third-party slings not validated for the specific hoist. - Failure to identify damaged or incorrectly seated sling loops, or incorrect attachment to spreader bars during fitting and use. - Failure to conduct effective pre-use checks that would identify unsafe equipment. - Inadequate or overdue maintenance, servicing and examination under the Lifting Operations and Lifting Equipment Regulations 1998 (LOLER). This included continued use of a hoist or component parts beyond their indicated service life without risk assessment. - Use of wrong size or type of sling for the patient. - Insufficient staff training and competence assessment for the relevant hoist and sling types, including failure to follow correct manual handling procedures. - Non-compliance with manufacturer’s instructions for use (IFU) Radiofrequency (RF) Safety Considerations for Wireless Cardiotocography (CTG) Monitoring Systems (DSI/2026/012) Device Safety Information Access the full article Summary The MHRA has conducted a review into the use of wireless cardiotocography (CTG) systems that use radiofrequency (RF) telemetry channels. Signal crossover, erroneous CTG traces and signal dropouts have been identified as patient safety risks associated with these devices. In rare circumstances, signal crossover may result in the fetal heart rate from one CTG monitor being displayed on another CTG monitor operating on the same RF channel. These risks may result in misinterpretation of CTG traces and inappropriate clinical decisions which could lead to adverse consequences. The risk relates to classic telemetry systems operating within the Industrial, Scientific and Medical (ISM) frequency band where a limited number of channels are available. Actions for Healthcare Professionals including Clinical and Medical equipment management staff: Filters should be used during the administration of Parenteral Nutrition for patients in all care settings Drug Safety Update and Device Safety Information Access the full DSU and DSI articles Summary Administration of parenteral nutrition without a filter has been associated with a number of adverse incidents including an embolism which resulted in a fatal outcome. Healthcare professionals are advised to use integrated or add-on filters during the administration of parenteral nutrition for patients in all care settings. All parenteral nutrition solutions should be administered via a filter with a pore size no larger than 1.2μm. Where available, it is good practice to administer aqueous/lipid-free parenteral nutrition solutions with a 0.2μm filter. Key Advice for Healthcare Professionals: - parenteral nutrition is used to provide nutrients directly into the bloodstream bypassing the patient’s digestive system - administration of parenteral nutrition without a filter has been associated with adverse incidents, including an embolism which resulted in a fatal outcome - ensure all parenteral nutrition solutions are administered using a filter with a pore size no larger than 1.2µm - where the solution is aqueous/lipid free, it is good practice to use a filter with a pore size of 0.2µm during administration - filters and administration sets should be changed with each new parenteral nutrition container, based on the parenteral nutrition shelf-life, local infection control policies, and filter shelf-life - use of filters integrated into administration sets are preferred but add-on filters are a suitable alternative providing infection control guidelines are followed - report suspected adverse reactions associated with parenteral nutrition on a Yellow Card Key Advice for Healthcare Professionals to Provide to Patients: - parenteral nutrition is used to provide nutrients directly into the bloodstream while avoiding the digestive system - it is usually administered by a healthcare professional but may also be administered by patients or carers in the home after receiving the appropriate training - filters should be used when administering parenteral nutrition to avoid any unwanted particles entering the bloodstream which may be harmful to the patient - an integrated filter may already be part of your administration set, if it is not, an add-on filter will be required - if you or your family member administer parenteral nutrition at home and an add-on filter is needed, you should be given appropriate training on this - speak to your healthcare professional if you have concerns on the use of filters with your parenteral nutrition - report suspected side effects to parenteral nutrition on a Yellow Card Letters, medicines recalls and device notifications sent to healthcare professionals in September 2026 Direct Healthcare Professional Communications We received notification that the following Direct Healthcare Professional Communications were sent or provided to relevant healthcare professionals in September 2026: - . Sent to relevant stakeholders in August 2026 - . Sent to relevant stakeholder in August 2026 Medicine Recalls and Notifications In September 2026, recalls and notifications for medicines were issued on: Class 4 Medicines Defect Notification: Martindale Pharmaceuticals Ltd, Clobazam Martindale Pharma 5 mg/5 mL and 10 mg/5 mL Oral Suspension 150ml, EL(26)A/38. Issued 17 September 2026. Martindale Pharmaceuticals has informed the MHRA of an error with the linear barcode of some batches of Clobazam 5mg/5mL and 10mg/5mL Oral Suspension 150mL. Class 4 Medicines Defect Notification: B. Braun Melsungen AG, Meropenem 1000 mg powder and solvent for solution for infusion, EL(26)A/39. Issued 23 September 2026. B. Braun Melsungen AG has notified the MHRA that errors have been identified in the Patient Information Leaflet (PIL) included in some batches of Meropenem 1000 mg powder and solvent for solution for infusion. Medical Device Field Safety Notices Find recently published Field Safety Notices Report suspected drug reactions and device incidents on a Yellow Card Please continue to report suspected adverse drug reactions and device incidents. Your report will help us safeguard public health. When reporting, please provide as much information as possible, including information about medical history, any concomitant medication, onset timing, treatment dates and particularly if a side effect continued or started after treatment was stopped. Report a medicine Healthcare professionals should report via a Yellow Card to: Reporting for medical devices Healthcare professionals should report incidents: Reporting for patients Patients should report via a Yellow Card to: News Roundup Fluenz; be aware of increased risk of fainting following administration The product information for Fluenz has been updated to reflect that there is an increased risk of syncope (fainting) immediately following administration of the nasal spray, particularly if the individual has previously fainted following vaccination. Procedures should be put in place to prevent injury from fainting and manage syncopal reactions. Due to timing constraints, this information is not included in the patient information leaflet for this season’s campaign. Therefore, please ensure that parents and patients are informed of this potential risk before administration. Intra-articular Steroid Injections: Reminder of the risks of Anaphylactic Reactions Healthcare professionals who prescribe or administer intra-articular steroid injections are reminded that, although rare, anaphylactic reactions can occur following treatment (see the Summary of Product Characteristics for details). These injections are commonly used for the treatment of painful joints and tendons and remain a useful treatment option for patients requiring relief from joint pain. Anaphylaxis can occur unpredictably after exposure to a wide range of medicines, including steroid injections. An individual’s likelihood of experiencing a reaction can vary, and in some cases a reaction may occur only after repeated exposure to a medicine. Patients receiving intra-articular steroid injections should be directed to appropriate patient information, including NHS guidance on the side effects of hydrocortisone injections and should be provided with a copy of the patient information leaflet. They should also be advised to call 999 or seek urgent medical attention if they develop symptoms suggestive of anaphylaxis after their injection, such as shortness of breath, swelling of the tongue or lips, or tightness in the throat. Healthcare professionals administering these injections should ensure they are familiar with anaphylaxis protocols and the location of emergency adrenaline medication in their workplace. The Resuscitation Council UK anaphylaxis algorithm is available online. Apalutamide and enzalutamide: laboratory test interference leading to falsely elevated digoxin plasma level results Laboratory test interference has been identified in patients treated with apalutamide or enzalutamide, which may cause falsely elevated digoxin plasma level results when measured using the chemiluminescent microparticle immunoassay (CMIA) method. This can occur regardless of whether the patient is taking digoxin. Apalutamide and enzalutamide are androgen receptor inhibitors indicated for the treatment of prostate cancer. Digoxin is a cardiac glycoside used to treat patients with certain types of heart rhythm problems and heart failure. Both apalutamide and enzalutamide share structural similarities with the portion of the digoxin molecule recognised by the CMIA, which may explain this assay-specific interference. Healthcare professionals should interpret digoxin results obtained using CMIA with caution in patients taking apalutamide or enzalutamide. Elevated or unexpected results should be confirmed using an alternative assay method not affected by this interference before making decisions about digoxin dose adjustment or discontinuation. They should also consider reviewing previously reported test results. Laboratories should consider adding an advisory comment to serum digoxin level reports. The product information for apalutamide and enzalutamide has been updated to include this risk and is available on the MHRA products website. The risk was also highlighted in a recent MHRA-agreed safety communication for enzalutamide. Publication of flu vaccine factsheet The MHRA has published a new flu vaccine factsheet, designed to provide information and guidance for patients, parents and carers on influenza (flu) and flu vaccination. The factsheet outlines the safety and effectiveness of flu vaccines, who is eligible for vaccination in the UK, and the different types of flu vaccines available. It also provides information on flu vaccination during pregnancy, how flu vaccines are updated each year, and possible side effects. This resource is available for healthcare professionals to use when discussing flu vaccination and to support patients, parents and carers in understanding flu vaccines and the protection they provide. For further details, view the full Influenza (Flu) Vaccine Factsheet – Information for Patients, Parents and Carers. To subscribe to monthly email alerts of MHRA Safety Roundup visit our sign up page For any enquiries, please contact info@mhra.gov.uk",
+      "link": "https://www.gov.uk/drug-device-alerts/mhra-safety-roundup-september-2026",
+      "source": "MHRA",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 8,
+      "published_at": "2026-09-29T13:12:24+00:00",
+      "topics": [
+        "communication",
+        "policy",
+        "research"
+      ],
+      "policy_tags": [
+        "communication",
+        "outbreak_response",
+        "recommendation",
+        "safety"
+      ],
+      "vaccines": [
+        "influenza"
+      ],
+      "variants": [],
+      "target_country": "英国",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "MHRA / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "MHRA / London"
+        },
+        "target": {
+          "key": "uk",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "英国"
+        }
+      },
+      "location": {
+        "key": "uk",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "英国"
+      },
+      "region": "Europe",
+      "country": "英国",
+      "lat": 51.5074,
+      "lng": -0.1278,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "MHRA"
+      ]
+    },
+    {
+      "id": "c4de19329afbc6ad",
+      "title": "COVID- 19 vaccine effectiveness and variants in Nepal: study protocol for a test - bmjopen.bmj.com",
+      "summary": "COVID- 19 vaccine effectiveness and variants in Nepal: study protocol for a test bmjopen.bmj.com",
+      "summary_ai": "COVID- 19 vaccine effectiveness and variants in Nepal: study protocol for a test bmjopen.bmj.com",
+      "title_original": "COVID- 19 vaccine effectiveness and variants in Nepal: study protocol for a test - bmjopen.bmj.com",
+      "summary_original": "COVID- 19 vaccine effectiveness and variants in Nepal: study protocol for a test bmjopen.bmj.com",
+      "summary_ai_original": "COVID- 19 vaccine effectiveness and variants in Nepal: study protocol for a test bmjopen.bmj.com",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBLVXRDVXJScnJTVGd1ZmZ0U29yRkZpeXdWZENaTkljdFdBR1p2ZXh5TS1ac3BaMTBpTXNoQ2tBdzdHT3JJcTdRWl9LbEw1eC1EbGl5NWR1UnE0WC1CRnh4TFVLMzlaUUJSbnJSSkV3?oc=5",
+      "source": "BMJ",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-09-29T07:04:04+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "ネパール",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BMJ / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BMJ / London"
+        },
+        "target": {
+          "key": "nepal",
+          "name_ja": "ネパール",
+          "lat": 27.7172,
+          "lng": 85.324,
+          "region": "Asia",
+          "label": "ネパール"
+        }
+      },
+      "location": {
+        "key": "nepal",
+        "name_ja": "ネパール",
+        "lat": 27.7172,
+        "lng": 85.324,
+        "region": "Asia",
+        "label": "ネパール"
+      },
+      "region": "Asia",
+      "country": "ネパール",
+      "lat": 27.7172,
+      "lng": 85.324,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "BMJ"
+      ]
+    },
     {
       "id": "f9bdb6e7ebb5c926",
       "title": "Survey: Lack of knowledge, problems with access may affect adult vaccine uptake more than hesitancy - CIDRAP",
@@ -617,76 +825,6 @@
       ]
     },
     {
-      "id": "9ac8fdf88604e09f",
-      "title": "The Americas are making progress in health but must accelerate action on emerging challenges, says PAHO Director",
-      "summary": "The Americas are making progress in health but must accelerate action on emerging challenges, says PAHO Director Oscar Reyes 28 Sep 2026",
-      "summary_ai": "Jarbas Barbosa highlighted the Region’s public health gains, called for stronger regional cooperation, and underscored priorities including primary health care, vaccination, digital health and emergency preparedness. The opening session of the Directing Council also featured Lisa Cummins, Minister of Health and Wellnes",
-      "title_original": "The Americas are making progress in health but must accelerate action on emerging challenges, says PAHO Director",
-      "summary_original": "The Americas are making progress in health but must accelerate action on emerging challenges, says PAHO Director Oscar Reyes 28 Sep 2026",
-      "summary_ai_original": "Jarbas Barbosa highlighted the Region’s public health gains, called for stronger regional cooperation, and underscored priorities including primary health care, vaccination, digital health and emergency preparedness. The opening session of the Directing Council also featured Lisa Cummins, Minister of Health and Wellnes",
-      "article_text_original": "At the opening of the 63rd Directing Council, Dr. Jarbas Barbosa highlighted the Region’s public health gains, called for stronger regional cooperation, and underscored priorities including primary health care, vaccination, digital health and emergency preparedness. Washington, D.C., September 28, 2026 (PAHO) – Pan American Health Organization (PAHO) Director Dr. Jarbas Barbosa today highlighted the progress countries across the Americas have made in areas including primary health care, immunization, digital health and disease elimination, and called for accelerated action to address persistent and emerging challenges across the Region. Speaking at the opening of the 63rd Directing Council, which brings together Ministers of Health and other senior health authorities from across the Americas in Washington, D.C., Dr. Barbosa said the Americas continue to serve as a model for other regions of the world in public health, building on more than 120 years of joint efforts to prevent disease, strengthen health systems and protect populations. The opening session of the Directing Council also featured Lisa Cummins, Minister of Health and Wellness of Barbados and outgoing President of the Directing Council; Jayanta Bhattacharya, Director of the National Institutes of Health (NIH) of the United States; Ilan Goldfajn, President of the Inter-American Development Bank (IDB); and Ambassador Steve Ferrol, Permanent Representative of Dominica and President of the Permanent Council of the Organization of American States (OAS). “In public health, success is often measured by what does not happen. There may be no dramatic headlines, but a life may be saved, a family spared, and a community protected because a disease was prevented or an outbreak contained,” he said. Dr. Barbosa highlighted the continued efforts of countries to strengthen primary health care, improve vaccination, expand digital health, prevent and control outbreaks, reduce deaths from chronic diseases, and advance disease elimination. However, he noted that the resurgence of measles is a reminder that the work is far from finished. He called for continued efforts to strengthen surveillance, vaccination and outbreak response, while accelerating progress in maternal, newborn, child and mental health and strengthening preparedness for public health emergencies. He also called for continued focus on advancing universal health and addressing critical challenges, including the persistent shortage of health workers across the Region. “This Directing Council provides a valuable opportunity to shape our collective response to these challenges and strengthen actions to improve health across the Region,” he said. “Lasting public health progress is not delivered to countries. It is built with countries. And it starts here.” Financial sustainability of PAHO Dr. Barbosa also drew attention to the Organization’s financial sustainability and the importance of timely and full payment of assessed contributions by Member States. He recalled that Member States approved a 19% budget reduction last year and noted that, despite prioritization efforts, cost-containment measures and the strong mobilization of additional voluntary contributions, PAHO continues to face a funding gap for its core programs. “This is not simply a budgetary challenge. It affects our ability to provide technical cooperation, respond to emerging health threats, and sustain essential operations across the Region,” he said. The PAHO Director thanked the 31 Member States that have already made full or partial payments in 2026 and called on all countries to complete their contributions as soon as possible. He also thanked partners and donors for their support in advancing the Region’s health priorities. Dr. Barbosa also highlighted the value of partnerships with development banks, foundations and other strategic partners in advancing regional priorities such as digital transformation and strengthening primary health care. Key issues before the 63rd Directing Council During the week, Member States will consider new strategies and action plans to strengthen public health in the Region, including measures related to health security and emergency management, antimicrobial resistance, and the prevention and control of arboviral diseases. They will also consider a proposal to strengthen and harmonize PAHO’s Regional Revolving Funds, one of the Region’s key cooperation mechanisms for facilitating access to vaccines, medicines and other health technologies. In addition, Member States will review the results of the 2020–2025 Strategic Plan and other matters related to the Organization’s priorities and governance. At the conclusion of his remarks, Dr. Barbosa recalled that PAHO was founded on the conviction that the countries of the Americas are stronger when they work together, and called for continued innovation and cooperation to address the Region’s health challenges. “And if there is one thing the history of public health in the Americas has taught us, it is that when we work together, we can make what seems impossible today a reality,” he concluded. Quotes from other speakers at the opening session Lisa Cummins, Minister of Health and Wellness of Barbados and outgoing President of the Directing Council: “PAHO is shared infrastructure for the Americas. We must fund it. We must invest in it. And we must protect it as such. We know what happens when that infrastructure is strong: a country facing an outbreak can draw on regional surveillance and expertise; a small health system can access medicines, technical support and training that it could not readily build up alone; and research conducted in one part of our Region can help save lives in another. The measure of regional solidarity and hemispheric capacity is when we build it together and keep it ready for the people who will need it.” Jayanta Bhattacharya, Director of the National Institutes of Health (NIH): “The United States is reestablishing leadership in the Western Hemisphere. In health, that means working with countries across the Americas to build a stronger, healthier, and more resilient region, one better equipped to prevent disease, confront health threats close to their source, strengthen critical supply chains, and protect the health and security of our people. The United States is committed to extending investments and commercial partnerships across the Western Hemisphere, including sectors such as pharmaceuticals, medical devices, and food systems.” Ambassador Steve Ferrol, Permanent Representative of Dominica and President of the Permanent Council of the Organization of American States (OAS): “Ensuring that people can access essential health services is therefore not only a public health responsibility; it is an essential part of building resilient, secure, and prosperous societies. This is why health belongs at the center of our collective agenda in the Americas. Health policy and foreign policy are no longer separate conversations. The OAS stands ready to work with PAHO and with every Member State to advance this agenda.” Ilan Goldfajn, President of the Inter-American Development Bank (IDB): “The Americas face significant health challenges, including population aging, a growing burden of chronic and infectious diseases, persistent inequities in access to care, and limited public financing. No institution can address these challenges alone. That’s why our partnership with PAHO matters. PAHO brings technical leadership and a strong presence on the ground, while the IDB brings its capacity to mobilize financing and support reforms. Today, I want to highlight three areas where this cooperation can make a difference: primary health care, digital transformation, and access to medicines.” About the Directing Council The Directing Council is one of the governing bodies of the Pan American Health Organization. It brings together health authorities from Member States to set policies, approve strategies and strengthen regional health cooperation. Public sessions can be followed online through the PAHO governance portal.",
-      "link": "https://www.paho.org/en/news/28-9-2026-americas-are-making-progress-health-must-accelerate-action-emerging-challenges-says",
-      "source": "PAHO News",
-      "source_type": "official",
-      "source_tier": "Tier 1",
-      "source_priority": 8,
-      "published_at": "2026-09-28T14:36:49+00:00",
-      "topics": [
-        "policy",
-        "research"
-      ],
-      "policy_tags": [
-        "approval",
-        "financing",
-        "outbreak_response"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "米国",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "PAHO / Washington DC"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "PAHO / Washington DC"
-        },
-        "target": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "米国"
-        }
-      },
-      "location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "米国"
-      },
-      "region": "North America",
-      "country": "米国",
-      "lat": 38.9072,
-      "lng": -77.0369,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "PAHO News"
-      ]
-    },
-    {
       "id": "6d336a595b7e5941",
       "title": "One shot or two? What to know about HPV vaccination recommendations - The Washington Post",
       "summary": "One shot or two? What to know about HPV vaccination recommendations The Washington Post",
@@ -755,7 +893,7 @@
       ]
     },
     {
-      "id": "15f69845115f4e24",
+      "id": "58036f7aa652edf8",
       "title": "Influenza vaccine effectiveness against influenza A-associated hospitalization and severe in-hospital outcomes among adults in the United States, 2024–2025 - Oxford Academic",
       "summary": "Influenza vaccine effectiveness against influenza A-associated hospitalization and severe in-hospital outcomes among adults in the United States, 2024–2025 Oxford Academic",
       "summary_ai": "Influenza vaccine effectiveness against influenza A-associated hospitalization and severe in-hospital outcomes among adults in the United States, 2024–2025 Oxford Academic",
@@ -763,12 +901,12 @@
       "summary_original": "Influenza vaccine effectiveness against influenza A-associated hospitalization and severe in-hospital outcomes among adults in the United States, 2024–2025 Oxford Academic",
       "summary_ai_original": "Influenza vaccine effectiveness against influenza A-associated hospitalization and severe in-hospital outcomes among adults in the United States, 2024–2025 Oxford Academic",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSHdqWlpHaE9UbG1kUzdaNGFoVnI5QXExeVlwTFNmSzhoQ2V2X1U2N0s1R3A0V3RyMWZSd0R4SnY5N3BNVDNWaDRtUVNNRFRvSUhULVlfM2tnai1lc0tpQTYtVUdTajExTElBRTdjMThKbjJhbXlVNnJjUTdiMWJDZDZmQkJSeGQtU1NxOGZLcFJ0bXpMLXc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNXzZxcFl4QzVoUkNJbklFLWgtY191R3FzY18tbmdUcDUtZDB0WXJVOUZSVF9sbFEtWkJ4RE10ekRteTBIMVRHblYtZ1lmcHYyMUVhS3pZY1k4MHFzWTQ0eDY3bk5qVGRnd3BwODlaeTZXaW1VaW92YkV6WTlKU0Y0RnFR?oc=5",
       "source": "Clinical Infectious Diseases",
       "source_type": "academic",
       "source_tier": "Tier 3",
       "source_priority": 8,
-      "published_at": "2026-09-26T01:23:47+00:00",
+      "published_at": "2026-09-26T03:33:45+00:00",
       "topics": [
         "research"
       ],
@@ -1221,75 +1359,6 @@
       ]
     },
     {
-      "id": "fb7b7f54991dd283",
-      "title": "PAHO and Africa CDC call for sustained investment and stronger Africa-Americas cooperation on pandemic preparedness",
-      "summary": "PAHO and Africa CDC call for sustained investment and stronger Africa-Americas cooperation on pandemic preparedness Cristina Mitchell 23 Sep 2026",
-      "summary_ai": "At UNGA, Burundi and Guyana joined PAHO and Africa CDC to advance country-led cooperation and financing for pandemic prevention, preparedness and response Addis Ababa, New York, 22 September 2026 (PAHO/WHO, Africa CDC) – The Pan American Health Organization (PAHO) and the Africa Centres for Disease Control and Preventi",
-      "title_original": "PAHO and Africa CDC call for sustained investment and stronger Africa-Americas cooperation on pandemic preparedness",
-      "summary_original": "PAHO and Africa CDC call for sustained investment and stronger Africa-Americas cooperation on pandemic preparedness Cristina Mitchell 23 Sep 2026",
-      "summary_ai_original": "At UNGA, Burundi and Guyana joined PAHO and Africa CDC to advance country-led cooperation and financing for pandemic prevention, preparedness and response Addis Ababa, New York, 22 September 2026 (PAHO/WHO, Africa CDC) – The Pan American Health Organization (PAHO) and the Africa Centres for Disease Control and Preventi",
-      "article_text_original": "At UNGA, Burundi and Guyana joined PAHO and Africa CDC to advance country-led cooperation and financing for pandemic prevention, preparedness and response Addis Ababa, New York, 22 September 2026 (PAHO/WHO, Africa CDC) – The Pan American Health Organization (PAHO) and the Africa Centres for Disease Control and Prevention (Africa CDC), together with countries and partners from Africa and the Americas, called for sustained investment in pandemic prevention, preparedness and response (PPPR), alongside stronger cooperation between the two regions to protect lives, economies and societies from future pandemics and public health emergencies. The call came at “Two Regions, One Future: Financing Pandemic Prevention, Preparedness and Response to Build Global Health Security,” a high-level side event during the 81st United Nations General Assembly, organized by the Co-operative Republic of Guyana and the Republic of Burundi, in collaboration with PAHO and Africa CDC with support from the United Nations Foundation. The event brought together leaders and partners from Africa and the Americas to examine how country-led priorities, stronger regional capacities and sustained financing can reinforce preparedness and build more resilient health systems. “The pandemic showed what happens when countries depend too heavily on distant sources for essential medicines, vaccines, diagnostics and protective equipment,” said Dr. Mohamed Irfaan Ali, President of Guyana. “Science should know north or south but access to its fruits must never depend on geography. We must build a world in which the global south has the scientific capacity, not simply to receive life-saving innovation but help create it.” “Preparedness is not a cost we pay during an emergency. It is an investment we make before one strikes – an investment in public health, certainly, but equally in our economic resilience, our social stability and our collective security,” added PAHO Director, Dr. Jarbas Barbosa. “We already have the diagnostic tools, the risk assessments, and the action plans. The real challenged is sustained financing. We must translate priorities into predictable, long-term investments – nationally, regionally, and globally – and maintain those investments during the quiet periods between crises.” Discussions drew on lessons from COVID-19 and recent infectious disease outbreaks, highlighting priorities including disease surveillance and epidemic intelligence, laboratory and genomic surveillance, early warning and rapid response, emergency coordination, and other core preparedness capacities. Sustained investment in these areas can help countries prevent, detect and contain pathogens with epidemic and pandemic potential while protecting essential health services and limiting wider social and economic disruption. “The next pandemic will not wait for the world to mobilize after a crisis begins. We must invest before emergencies strike, with countries setting the priorities and strong regional institutions able to act quickly. Africa and the Americas carry immense experience, scientific expertise and response capacity. By connecting these strengths, sharing knowledge and building predictable financing around country priorities, we can strengthen health security across both regions and contribute to a safer world,” said Dr. Jean Kaseya, Director-General of Africa CDC. Participants emphasized the importance of keeping countries at the centre of pandemic preparedness, with governments defining priorities and directing investments according to their national risks, needs and capacities. Regional organizations such as PAHO and Africa CDC can reinforce these nationally led efforts through technical cooperation, cross-border coordination, knowledge exchange and regional public goods. “The current ebola epidemic in the DRC reminds us forcefully in the urgency of investing in preparation and pandemic response,” added Ambassador Zephyrine Manirataganda, Permanent Representative of Burundi to the United Nations. “Our nation, and the nations of south America and the Caribbean face similar structural threats and we welcome south-south cooperation between our regions in terms of health preparation.” The event also called for a shift from crisis-driven funding towards sustained and strategic investment in preparedness. Such investment protects health, strengthens economic resilience and national security, and supports sustainable development. The discussion advanced a shared agenda for stronger Africa–Americas cooperation, connecting national priorities with regional capacities and more coordinated domestic, regional and global financing for health security and preparedness. “No country can build alone: The regional infrastructure that makes national preparedness coherent; surveillance networks that cross borders; laboratory systems that share capacity; emergency workers that can move where they are needed - these are collective goods, and they require collective investment,” concluded Dr. Anne-Claire Amprou, French Ambassador for Global Health and moderator of the event. The event took place ahead of the Second United Nations High-Level Meeting on Pandemic Prevention, Preparedness and Response, scheduled for September 25, where world leaders will review progress since the first meeting in 2023, and discuss how to sustain political commitment and financing for pandemic preparedness in an increasingly constrained global funding environment. Discussions also came as countries advance implementation of the WHO Pandemic Agreement and other global commitments aimed at strengthening health emergency preparedness and response.",
-      "link": "https://www.paho.org/en/news/23-9-2026-paho-and-africa-cdc-call-sustained-investment-and-stronger-africa-americas",
-      "source": "PAHO News",
-      "source_type": "official",
-      "source_tier": "Tier 1",
-      "source_priority": 8,
-      "published_at": "2026-09-23T12:01:43+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [
-        "financing",
-        "outbreak_response",
-        "schedule"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "コンゴ民主共和国",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "PAHO / Washington DC"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "PAHO / Washington DC"
-        },
-        "target": {
-          "key": "drc",
-          "name_ja": "コンゴ民主共和国",
-          "lat": -4.4419,
-          "lng": 15.2663,
-          "region": "Africa",
-          "label": "コンゴ民主共和国"
-        }
-      },
-      "location": {
-        "key": "drc",
-        "name_ja": "コンゴ民主共和国",
-        "lat": -4.4419,
-        "lng": 15.2663,
-        "region": "Africa",
-        "label": "コンゴ民主共和国"
-      },
-      "region": "Africa",
-      "country": "コンゴ民主共和国",
-      "lat": -4.4419,
-      "lng": 15.2663,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "PAHO News"
-      ]
-    },
-    {
       "id": "db7dc72fce759d33",
       "title": "Two Versus One COVID-19 Vaccine Dose After Prior SARS-CoV-2 Infection: A Nationwide Retrospective Cohort Study - Oxford Academic",
       "summary": "Two Versus One COVID-19 Vaccine Dose After Prior SARS-CoV-2 Infection: A Nationwide Retrospective Cohort Study Oxford Academic",
@@ -1424,71 +1493,6 @@
       ]
     },
     {
-      "id": "6af6a58354a18614",
-      "title": "Ervebo vaccine trial kicks off in Ebola-ravaged DR Congo - CIDRAP",
-      "summary": "Ervebo vaccine trial kicks off in Ebola-ravaged DR Congo CIDRAP",
-      "summary_ai": "Ervebo vaccine trial kicks off in Ebola-ravaged DR Congo CIDRAP",
-      "title_original": "Ervebo vaccine trial kicks off in Ebola-ravaged DR Congo - CIDRAP",
-      "summary_original": "Ervebo vaccine trial kicks off in Ebola-ravaged DR Congo CIDRAP",
-      "summary_ai_original": "Ervebo vaccine trial kicks off in Ebola-ravaged DR Congo CIDRAP",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcERpM1dsVEtzMzBJX0JoRnlfNGhwazVPcVV4Q1pGajNwbTdEajdvT0JUai1VVWdqdnhvWTdmYUFERW5EbWtCVWNaMHJnLXJvNlVNRDB1cGxka3FmaWxQZ3VTdEg0UlZsanBEbm1VVVBDb2lGWmxVd0s0T3VJd2RoLXdERjRhVWlBSFE?oc=5",
-      "source": "CIDRAP Vaccines & Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 8,
-      "published_at": "2026-09-21T20:05:02+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "CIDRAP / Minnesota"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "CIDRAP / Minnesota"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "CIDRAP Vaccines & Immunization"
-      ]
-    },
-    {
       "id": "c4908a319727b06f",
       "title": "Updated guideline provides advice for reducing pain, fear during vaccination - CIDRAP",
       "summary": "Updated guideline provides advice for reducing pain, fear during vaccination CIDRAP",
@@ -1620,6 +1624,71 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "JAMA Network Open vaccines"
+      ]
+    },
+    {
+      "id": "6af6a58354a18614",
+      "title": "Ervebo vaccine trial kicks off in Ebola-ravaged DR Congo - CIDRAP",
+      "summary": "Ervebo vaccine trial kicks off in Ebola-ravaged DR Congo CIDRAP",
+      "summary_ai": "Ervebo vaccine trial kicks off in Ebola-ravaged DR Congo CIDRAP",
+      "title_original": "Ervebo vaccine trial kicks off in Ebola-ravaged DR Congo - CIDRAP",
+      "summary_original": "Ervebo vaccine trial kicks off in Ebola-ravaged DR Congo CIDRAP",
+      "summary_ai_original": "Ervebo vaccine trial kicks off in Ebola-ravaged DR Congo CIDRAP",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcERpM1dsVEtzMzBJX0JoRnlfNGhwazVPcVV4Q1pGajNwbTdEajdvT0JUai1VVWdqdnhvWTdmYUFERW5EbWtCVWNaMHJnLXJvNlVNRDB1cGxka3FmaWxQZ3VTdEg0UlZsanBEbm1VVVBDb2lGWmxVd0s0T3VJd2RoLXdERjRhVWlBSFE?oc=5",
+      "source": "CIDRAP Vaccines & Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 8,
+      "published_at": "2026-09-21T07:00:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "CIDRAP / Minnesota"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "CIDRAP / Minnesota"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "CIDRAP Vaccines & Immunization"
       ]
     },
     {
