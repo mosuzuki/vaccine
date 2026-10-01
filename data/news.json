@@ -1,9 +1,9 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-09-30T00:21:10.113970+00:00",
-  "item_count": 24,
-  "archive_count": 522,
+  "generated_at": "2026-10-01T00:30:55.841086+00:00",
+  "item_count": 21,
+  "archive_count": 524,
   "days_back": 14,
   "plot_mode_default": "source",
   "feed_status": [
@@ -23,7 +23,7 @@
       "name": "CDC Newsroom",
       "url": "https://tools.cdc.gov/api/v2/resources/media/316422.rss",
       "status": "ok",
-      "seen": 7,
+      "seen": 6,
       "kept": 0
     },
     {
@@ -103,7 +103,7 @@
       "name": "NEJM",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Anejm.org%20(trial%20OR%20effectiveness%20OR%20policy%20OR%20safety)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -138,7 +138,7 @@
       "name": "Nature Communications vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fncomms%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20surveillance)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 0,
       "kept": 0
     },
     {
@@ -229,63 +229,63 @@
       "name": "medRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Amedrxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
-      "kept": 0
+      "seen": 1,
+      "kept": 1
     },
     {
       "name": "bioRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abiorxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 4,
       "kept": 1
     },
     {
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 23,
+      "seen": 22,
       "kept": 3
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 27,
-      "kept": 1
+      "seen": 25,
+      "kept": 0
     },
     {
       "name": "AP Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 32,
+      "seen": 24,
       "kept": 2
     },
     {
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 11,
+      "seen": 37,
       "kept": 0
     },
     {
       "name": "Financial Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aft.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 14,
+      "seen": 11,
       "kept": 1
     },
     {
       "name": "STAT Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 16,
+      "seen": 13,
       "kept": 0
     },
     {
       "name": "Nature News Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 5,
+      "seen": 8,
       "kept": 0
     },
     {
@@ -306,14 +306,14 @@
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 54,
+      "seen": 31,
       "kept": 0
     },
     {
       "name": "Washington Post Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 20,
+      "seen": 22,
       "kept": 2
     },
     {
@@ -327,28 +327,28 @@
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 21,
+      "seen": 17,
       "kept": 0
     },
     {
       "name": "朝日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Aasahi.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 8,
+      "seen": 6,
       "kept": 0
     },
     {
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 77,
+      "seen": 62,
       "kept": 0
     },
     {
       "name": "毎日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 12,
+      "seen": 18,
       "kept": 0
     },
     {
@@ -383,8 +383,8 @@
       "name": "Open Forum Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fofid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 4,
-      "kept": 2
+      "seen": 3,
+      "kept": 1
     },
     {
       "name": "Emerging Infectious Diseases",
@@ -460,23 +460,94 @@
       "name": "SSRN vaccine preprints",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Apapers.ssrn.com%20(effectiveness%20OR%20safety%20OR%20policy%20OR%20trial)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 10,
-      "kept": 6
+      "seen": 7,
+      "kept": 4
     }
   ],
   "weekly_ai_summary": {
-    "generated_at": "2026-09-30T00:21:10.113970+00:00",
+    "generated_at": "2026-10-01T00:30:55.841086+00:00",
     "period_days": 7,
     "policy_count": 6,
     "academic_count": 7,
     "status": "ok",
     "model": "gpt-4o-mini",
-    "policy_summary": "CSL Seqirusは、2026/27年製造キャンペーンの成功を受けて、米国でのインフルエンザワクチンの供給を拡大しました。また、成人のワクチン接種率に対する知識不足やアクセスの問題が、接種躊躇よりも影響を与える可能性があるとの調査結果が報告されています。",
-    "academic_summary": "ネパールにおけるCOVID-19ワクチンの有効性と変異株に関する研究プロトコルが発表されました。さらに、米国におけるインフルエンザワクチンの有効性に関する研究が行われ、成人の入院や重篤な結果に対する効果が評価されています。"
+    "policy_summary": "アメリカ大陸の保健リーダーが、抗微生物薬耐性に関する新たな地域行動計画を採択しました。この計画は、薬剤耐性感染症の予防、検出、対応を強化し、命を救う医薬品の効果を保護することを目的としています。",
+    "academic_summary": "ネパールにおけるCOVID-19ワクチンの有効性と変異種に関する研究プロトコルが発表されました。また、HPVワクチンの導入が9-10歳での効果に与える影響を調査したランダム化臨床試験の結果も報告されています。"
   },
   "items": [
     {
-      "id": "162b5e7ab04a8216",
+      "id": "d3a330142a98c762",
+      "title": "Antimicrobial resistance: Americas adopt new regional action plan",
+      "summary": "Antimicrobial resistance: Americas adopt new regional action plan Cristina Mitchell 30 Sep 2026",
+      "summary_ai": "Washington, D.C., 30 September 2026 (PAHO) – Health leaders from across the Americas have adopted a new regional Plan of Action on Antimicrobial Resistance (AMR) 2027–2031, aimed at strengthening efforts to prevent, detect and respond to drug-resistant infections while protect the effectiveness of life-saving medicines",
+      "title_original": "Antimicrobial resistance: Americas adopt new regional action plan",
+      "summary_original": "Antimicrobial resistance: Americas adopt new regional action plan Cristina Mitchell 30 Sep 2026",
+      "summary_ai_original": "Washington, D.C., 30 September 2026 (PAHO) – Health leaders from across the Americas have adopted a new regional Plan of Action on Antimicrobial Resistance (AMR) 2027–2031, aimed at strengthening efforts to prevent, detect and respond to drug-resistant infections while protect the effectiveness of life-saving medicines",
+      "article_text_original": "Washington, D.C., 30 September 2026 (PAHO) – Health leaders from across the Americas have adopted a new regional Plan of Action on Antimicrobial Resistance (AMR) 2027–2031, aimed at strengthening efforts to prevent, detect and respond to drug-resistant infections while protect the effectiveness of life-saving medicines. Approved during the 63rd Directing Council of the Pan American Health Organization (PAHO), the plan provides a regional framework to support countries in updating and implementing national action plans on AMR and advancing coordinated action across human, animal and environmental health. Antimicrobial resistance occurs when bacteria, viruses, fungi and parasites no longer respond to medicines, making infections more difficult to treat and increasing the risk of severe illness and death. In the Americas, bacterial AMR was associated with an estimated 569,000 deaths in 2019, including 141,000 deaths directly attributable to resistance. “The plan is the result of a collective and constructive effort by countries and partners across the Americas, reflecting a strong shared commitment to protecting public health and ensuring that antimicrobials remain effective,” said PAHO Director, Dr. Jarbas Barbosa. The plan establishes six strategic lines of action to accelerate the regional response to AMR: - Increase awareness and promote social and behavioral change to reduce the inappropriate use of antimicrobials; - Strengthening surveillance systems and laboratory networks to generate timely, high-quality data on antimicrobial resistance and use; - Intensifying infection prevention and control, including through improved water, sanitation and hygiene, stronger immunization programmes and measures to reduce infections in health care and community settings; - Promoting access to and appropriate use and safe disposal of antimicrobials, as well as access to effective diagnostics and vaccines; - Accelerating research and innovation to improve understanding of the burden of AMR and identify effective, sustainable interventions; and - Strengthening multisectoral governance, financing and accountability to ensure that AMR remains integrated into national health and development priorities. The plan emphasizes that prevention is central to tackling AMR. Strong infection prevention and control, access to clean water and sanitation, food safety and immunization can reduce infections and, consequently, the need for antimicrobial treatment. Appropriate prescribing and use of antimicrobials, supported by access to timely and accurate diagnostics, can also help slow the emergence and spread of resistance. Countries in the Americas have made important progress in recent years. Thirty of the 33 Member States that periodically report to PAHO have introduced national action plans on AMR, while 22 have established or expanded infection prevention and control programmes and antimicrobial stewardship initiatives. However, significant gaps remain in surveillance, laboratory capacity, access to quality-assured medicines and diagnostics, infection prevention and control, and sustainable financing. “Antimicrobial resistance knows no borders and cannot be addressed by any country or sector alone. Protecting the effectiveness of antimicrobials requires coordinated action, backed by strong surveillance, prevention and access to appropriate treatment,” added Dr. Sylvain Aldighieri, Director of the Department of Communicable Diseases Prevention, Control and Elimination at PAHO. The plan promotes a One Health approach, recognizing the interconnectedness of human, animal, and environmental health and encouraging collaboration across health, agriculture, food production, environmental and other sectors. It also calls for meaningful participation by health professionals, academia, civil society and communities. Through the Plan of Action on Antimicrobial Resistance 2027–2031, countries of the Americas are reinforcing regional cooperation to preserve the effectiveness of antimicrobials, protect patients and health workers, and safeguard the capacity of health systems to prevent and treat infections now and in the future.",
+      "link": "https://www.paho.org/en/news/30-9-2026-antimicrobial-resistance-americas-adopt-new-regional-action-plan",
+      "source": "PAHO News",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 8,
+      "published_at": "2026-09-30T15:25:09+00:00",
+      "topics": [
+        "communication",
+        "policy",
+        "research"
+      ],
+      "policy_tags": [
+        "approval",
+        "communication",
+        "safety"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "PAHO / Washington DC"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "PAHO / Washington DC"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "PAHO News"
+      ]
+    },
+    {
+      "id": "cb25302f33a43cda",
       "title": "CSL Seqirus Expands U.S. Availability of Influenza Vaccine following Successful Completion of the 2026/27 Manufacturing Campaign – Company Announcement - FT.com - Financial Times",
       "summary": "CSL Seqirus Expands U.S. Availability of Influenza Vaccine following Successful Completion of the 2026/27 Manufacturing Campaign – Company Announcement - FT.com Financial Times",
       "summary_ai": "CSL Seqirus Expands U.S. Availability of Influenza Vaccine following Successful Completion of the 2026/27 Manufacturing Campaign – Company Announcement - FT.com Financial Times",
@@ -484,7 +555,7 @@
       "summary_original": "CSL Seqirus Expands U.S. Availability of Influenza Vaccine following Successful Completion of the 2026/27 Manufacturing Campaign – Company Announcement - FT.com Financial Times",
       "summary_ai_original": "CSL Seqirus Expands U.S. Availability of Influenza Vaccine following Successful Completion of the 2026/27 Manufacturing Campaign – Company Announcement - FT.com Financial Times",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdWd5RFpFdHlIUUVBWVlUMmJzX3JMMTNfZnVZcTM1U2J6bHVYb0FFTmkycHkwNUwyaXVfQnNWdEdydC1MRjdGV0t6Zk1nSEN2Zy1Zd0t1bjF3QXNySEFPam9DODlVMzdlejlRN1J0NUZRWmRpd09uYnlVbkZZMVVYYmthQmVocFVyOUM4dk1lc3p5cFhOY09SMw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOURoeV9qM1N4T2JxdXljVjlxb3Vkb0xQT21LYWZQX21JM3FYMElEbXFCVkRta0lmdkl4bDJEN19LZVpRTGtuek9xVHpuU0NaVlJ1bUNxQ21sMHl5dkVwSFBILWs2VnF2N1dxVTZ2VVVBVlY5SmRXaERabVNzVGV5aHo0aVhyb0JERXV0YjRtQUVnOUZNd0E?oc=5",
       "source": "Financial Times Vaccines / Immunization",
       "source_type": "media",
       "source_tier": "Tier 2",
@@ -619,13 +690,13 @@
       ]
     },
     {
-      "id": "c4de19329afbc6ad",
-      "title": "COVID- 19 vaccine effectiveness and variants in Nepal: study protocol for a test - bmjopen.bmj.com",
-      "summary": "COVID- 19 vaccine effectiveness and variants in Nepal: study protocol for a test bmjopen.bmj.com",
-      "summary_ai": "COVID- 19 vaccine effectiveness and variants in Nepal: study protocol for a test bmjopen.bmj.com",
-      "title_original": "COVID- 19 vaccine effectiveness and variants in Nepal: study protocol for a test - bmjopen.bmj.com",
-      "summary_original": "COVID- 19 vaccine effectiveness and variants in Nepal: study protocol for a test bmjopen.bmj.com",
-      "summary_ai_original": "COVID- 19 vaccine effectiveness and variants in Nepal: study protocol for a test bmjopen.bmj.com",
+      "id": "67cd4e618e65d2ce",
+      "title": "ネパールにおける新型コロナウイルス感染症（COVID-19）ワクチンの有効性と変異種：試験のための研究プロトコル - BMJ Open",
+      "summary": "ネパールにおける新型コロナウイルス感染症（COVID-19）ワクチンの有効性と変異種：試験のための研究プロトコル BMJ Open",
+      "summary_ai": "ネパールにおける新型コロナウイルス感染症（COVID-19）ワクチンの有効性と変異種：試験のための研究プロトコル BMJ Open",
+      "title_original": "COVID- 19 vaccine effectiveness and variants in Nepal: study protocol for a test - BMJ Open",
+      "summary_original": "COVID- 19 vaccine effectiveness and variants in Nepal: study protocol for a test BMJ Open",
+      "summary_ai_original": "COVID- 19 vaccine effectiveness and variants in Nepal: study protocol for a test BMJ Open",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBLVXRDVXJScnJTVGd1ZmZ0U29yRkZpeXdWZENaTkljdFdBR1p2ZXh5TS1ac3BaMTBpTXNoQ2tBdzdHT3JJcTdRWl9LbEw1eC1EbGl5NWR1UnE0WC1CRnh4TFVLMzlaUUJSbnJSSkV3?oc=5",
       "source": "BMJ",
@@ -751,43 +822,36 @@
       ]
     },
     {
-      "id": "4917621292655573",
-      "title": "PAHO Director’s Annual Report highlights health gains across the Americas despite growing challenges",
-      "summary": "PAHO Director’s Annual Report highlights health gains across the Americas despite growing challenges Cristina Mitchell 28 Sep 2026",
-      "summary_ai": "Report highlights disease elimination milestones, progress in immunization and maternal health, and expanded access to medicines, while warning of the loss of the Region’s measles-free status and other health threats Washington, D.C., September 28, 2026 (PAHO) – The Director of the Pan American Health Organization (PAH",
-      "title_original": "PAHO Director’s Annual Report highlights health gains across the Americas despite growing challenges",
-      "summary_original": "PAHO Director’s Annual Report highlights health gains across the Americas despite growing challenges Cristina Mitchell 28 Sep 2026",
-      "summary_ai_original": "Report highlights disease elimination milestones, progress in immunization and maternal health, and expanded access to medicines, while warning of the loss of the Region’s measles-free status and other health threats Washington, D.C., September 28, 2026 (PAHO) – The Director of the Pan American Health Organization (PAH",
-      "article_text_original": "Report highlights disease elimination milestones, progress in immunization and maternal health, and expanded access to medicines, while warning of the loss of the Region’s measles-free status and other health threats Washington, D.C., September 28, 2026 (PAHO) – The Director of the Pan American Health Organization (PAHO), Dr. Jarbas Barbosa, presented his Annual Report today at the opening of the 63rd Directing Council, highlighting important health gains across the Americas despite a complex public health environment and increasing financial constraints. Covering the period from July 2025 through June 2026, the report highlights progress in disease elimination, health security, immunization, maternal health, primary health care, access to essential medicines and health technologies, and the use of innovation to expand access to health services. “These achievements show what is possible when we work together and why we must continue to build on that progress,” said Dr Barbosa. Countries advance toward disease elimination Over the past year, countries and territories achieved important disease elimination milestones. Brazil and the Bahamas were validated as having eliminated mother-to-child transmission of HIV. Turks and Caicos Islands received certification for the elimination of mother-to-child transmission of HIV and became the first territory in the Americas to validate the elimination of mother-to-child transmission of hepatitis B. Chile became the first country in the Region to be verified as having eliminated leprosy, while five provinces in Argentina were confirmed free of vector-borne transmission of Chagas disease. “These milestones demonstrate what can be accomplished through sustained national commitment, with PAHO's support,” Dr. Barbosa said. The report also underscores the fragility of hard-won public health gains. During the reporting period, the Region lost its measles-free status after sustained transmission was reestablished in Canada. Yellow fever outbreaks in several countries, together with declining measles vaccination coverage, also highlighted the risk of setbacks against vaccine-preventable diseases. Strengthening health security and immunization Health security remained a central pillar of PAHO’s work. The Organization mobilized 174 tons of essential supplies to help countries prepare for and respond to disasters, complex humanitarian emergencies and disease outbreaks, and deployed experts and coordinated emergency medical teams during health emergencies. PAHO’s surveillance systems also analyzed more than 2.2 million signals related to potential public health events, supporting early detection and rapid response across the Region. Immunization also continued to recover from declines experienced before and during the COVID-19 pandemic. The number of unvaccinated children under 1 year old fell from 1.3 million to 1.1 million. However, declining measles vaccination coverage demonstrated the need to further strengthen routine immunization programs and increase vaccine uptake through effective communication and public education. Progress in maternal health Reducing preventable maternal deaths remained a priority across the Region. Of the 12 countries receiving targeted PAHO support, 10 recorded declines in maternal mortality ratios during the reporting period. Stronger surveillance systems, supportive policies, improvements in primary health care, and a strengthened health workforce contributed to these gains. Strengthening prevention and care for noncommunicable diseases PAHO expanded its work to prevent and control noncommunicable diseases, with primary health care continuing to serve as the foundation for prevention, early diagnosis and integrated care. By the end of the reporting period, PAHO’s HEARTS initiative was being implemented in more than 14,000 primary health care centers, reaching an estimated 50 million adults. The number of patients receiving treatment for hypertension increased by more than 20% in one year, from 5.7 million in 2025 to 6.9 million in 2026. The growing burden of mental health conditions also prompted new action, including the launch of PAHO’s Regional Suicide Prevention Initiative, which seeks to strengthen national policies and programs through multisectoral action tailored to countries’ needs and contexts. Regional solidarity expands access to medicines and vaccines PAHO’s Regional Revolving Funds continued to demonstrate the value of regional solidarity in improving equitable access to essential medicines and health technologies, supporting the procurement of more than 214 million vaccine doses, over 10 million diagnostic tests and more than 1 million treatments. The Funds also expanded their portfolio to include new high-price medicines, including treatments for breast and prostate cancer, multiple sclerosis and rare diseases. Through pooled procurement, countries were able to achieve significant price reductions. Innovation expands access to health services Innovation also contributed to progress across multiple areas of health. With PAHO’s technical cooperation, countries expanded the use of digital tools and adopted new approaches to address persistent public health challenges. More than 780 telehealth kits were distributed to 20 countries, bringing diagnosis, monitoring and clinical follow-up closer to populations that have historically faced barriers to access. Strengthening regional vaccine production During the reporting period, PAHO signed a landmark agreement with a global influenza vaccine manufacturer to secure a share of pandemic influenza vaccine production for countries in Latin America and the Caribbean. The agreement will support access to vaccines amid surging global demand in the event of a future pandemic. In parallel, PAHO reached a technology transfer agreement to strengthen regional production of seasonal influenza vaccines using cell-based platforms, helping modernize regional vaccine manufacturing and reduce dependence on external suppliers. “The achievements of the past year reflect the strength of our partnership with Member States and the power of regional solidarity,” Dr. Barbosa said. “Despite growing financial constraints, PAHO has once again demonstrated the resilience, adaptability, and leadership that have defined this Organization for more than 120 years.” Building on progress The report also highlights the challenges that remain, including aging populations, the growing burden of noncommunicable diseases, emerging and reemerging health threats, climate-related emergencies and persistent inequities. “Our work is far from finished,” Dr. Barbosa said. “Addressing these challenges will require sustained investment, stronger collaboration, and an unwavering commitment to solidarity.” Member States, with PAHO’s support, will continue working to build stronger health systems, protect public health gains, and ensure that the progress reflected in the report translates into lasting improvements in the lives of people across the Americas. LINKS Coverage of the 63rd Directing Council of PAHO",
-      "link": "https://www.paho.org/en/news/28-9-2026-paho-directors-annual-report-highlights-health-gains-across-americas-despite-growing",
-      "source": "PAHO News",
-      "source_type": "official",
-      "source_tier": "Tier 1",
-      "source_priority": 8,
-      "published_at": "2026-09-28T18:57:32+00:00",
+      "id": "86eefa2a247e3633",
+      "title": "Effect of HPV Vaccine Introduction at 9-10 years: A Randomized Clinical Trial - medRxiv",
+      "summary": "Effect of HPV Vaccine Introduction at 9-10 years: A Randomized Clinical Trial medRxiv",
+      "summary_ai": "Effect of HPV Vaccine Introduction at 9-10 years: A Randomized Clinical Trial medRxiv",
+      "title_original": "Effect of HPV Vaccine Introduction at 9-10 years: A Randomized Clinical Trial - medRxiv",
+      "summary_original": "Effect of HPV Vaccine Introduction at 9-10 years: A Randomized Clinical Trial medRxiv",
+      "summary_ai_original": "Effect of HPV Vaccine Introduction at 9-10 years: A Randomized Clinical Trial medRxiv",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96Q2hyNnZmY1hMSElaZ2N3QnJrREJqdmhhRnhmNHZOeEV0UlpOeExIS2dKRTZ5S2VOQk1RUXVEdDRza2hvYkozZnVPVFNweTVMNENYSWY1am03ZzN6SU5VV0Q4c29PekM5T05CclZ3Yw?oc=5",
+      "source": "medRxiv vaccines",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-09-28T01:35:01+00:00",
       "topics": [
-        "communication",
-        "policy",
         "research"
       ],
-      "policy_tags": [
-        "communication",
-        "financing",
-        "outbreak_response",
-        "safety"
-      ],
+      "policy_tags": [],
       "vaccines": [
-        "influenza"
+        "hpv"
       ],
       "variants": [],
-      "target_country": "カナダ",
+      "target_country": "不明",
       "source_location": {
         "key": "united states",
         "name_ja": "米国",
         "lat": 38.9072,
         "lng": -77.0369,
         "region": "North America",
-        "label": "PAHO / Washington DC"
+        "label": "medRxiv"
       },
       "plot": {
         "source": {
@@ -796,32 +860,32 @@
           "lat": 38.9072,
           "lng": -77.0369,
           "region": "North America",
-          "label": "PAHO / Washington DC"
+          "label": "medRxiv"
         },
         "target": {
-          "key": "canada",
-          "name_ja": "カナダ",
-          "lat": 45.4215,
-          "lng": -75.6972,
-          "region": "North America",
-          "label": "カナダ"
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
         }
       },
       "location": {
-        "key": "canada",
-        "name_ja": "カナダ",
-        "lat": 45.4215,
-        "lng": -75.6972,
-        "region": "North America",
-        "label": "カナダ"
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
       },
-      "region": "North America",
-      "country": "カナダ",
-      "lat": 45.4215,
-      "lng": -75.6972,
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
       "duplicate_count": 1,
       "duplicate_sources": [
-        "PAHO News"
+        "medRxiv vaccines"
       ]
     },
     {
@@ -1094,13 +1158,13 @@
       ]
     },
     {
-      "id": "c0d775d998540579",
-      "title": "Directional antigenic drift forecasts influenza vaccine effectiveness and guides strain selection - bioRxiv",
-      "summary": "Directional antigenic drift forecasts influenza vaccine effectiveness and guides strain selection bioRxiv",
-      "summary_ai": "Directional antigenic drift forecasts influenza vaccine effectiveness and guides strain selection bioRxiv",
-      "title_original": "Directional antigenic drift forecasts influenza vaccine effectiveness and guides strain selection - bioRxiv",
-      "summary_original": "Directional antigenic drift forecasts influenza vaccine effectiveness and guides strain selection bioRxiv",
-      "summary_ai_original": "Directional antigenic drift forecasts influenza vaccine effectiveness and guides strain selection bioRxiv",
+      "id": "d18fc432dde0781f",
+      "title": "Directional antigenic drift forecasts influenza vaccine effectiveness and guides strain selection - biorxiv.org",
+      "summary": "Directional antigenic drift forecasts influenza vaccine effectiveness and guides strain selection biorxiv.org",
+      "summary_ai": "Directional antigenic drift forecasts influenza vaccine effectiveness and guides strain selection biorxiv.org",
+      "title_original": "Directional antigenic drift forecasts influenza vaccine effectiveness and guides strain selection - biorxiv.org",
+      "summary_original": "Directional antigenic drift forecasts influenza vaccine effectiveness and guides strain selection biorxiv.org",
+      "summary_ai_original": "Directional antigenic drift forecasts influenza vaccine effectiveness and guides strain selection biorxiv.org",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBESVVzQ2daZ1dKRWdlNXRkeGNLNXoxZktqWU50UDlfcmFEVTItMHFWM0drWUVLWHNkUnNpT1gtM1MxakcwZzRZeUtCdjg3X0NIeGhVUzZHbG1ZMTJVT2w2RW1lajBEQUR4SWV4Vw?oc=5",
       "source": "bioRxiv vaccines",
@@ -1291,13 +1355,13 @@
       ]
     },
     {
-      "id": "f6527e96f95dc2a6",
-      "title": "Booster dose of COVID-19 vaccine and its effectiveness against post COVID-19 condition in individuals with pre-existing immunity: a sequential propensity score-matched cohort study",
-      "summary": "Booster dose of COVID-19 vaccine and its effectiveness against post COVID-19 condition in individuals with pre-existing immunity: a sequential propensity score-matched cohort study",
-      "summary_ai": "Booster dose of COVID-19 vaccine and its effectiveness against post COVID-19 condition in individuals with pre-existing immunity: a sequential propensity score-matched cohort study",
-      "title_original": "Booster dose of COVID-19 vaccine and its effectiveness against post COVID-19 condition in individuals with pre-existing immunity: a sequential propensity score-matched cohort study",
-      "summary_original": "Booster dose of COVID-19 vaccine and its effectiveness against post COVID-19 condition in individuals with pre-existing immunity: a sequential propensity score-matched cohort study",
-      "summary_ai_original": "Booster dose of COVID-19 vaccine and its effectiveness against post COVID-19 condition in individuals with pre-existing immunity: a sequential propensity score-matched cohort study",
+      "id": "c440074f90111faa",
+      "title": "Booster dose of COVID-19 vaccine and its effectiveness against post COVID-19 condition in individuals with pre-existing immunity: a sequential propensity score-matched cohort study - thelancet.com",
+      "summary": "Booster dose of COVID-19 vaccine and its effectiveness against post COVID-19 condition in individuals with pre-existing immunity: a sequential propensity score-matched cohort study thelancet.com",
+      "summary_ai": "Booster dose of COVID-19 vaccine and its effectiveness against post COVID-19 condition in individuals with pre-existing immunity: a sequential propensity score-matched cohort study thelancet.com",
+      "title_original": "Booster dose of COVID-19 vaccine and its effectiveness against post COVID-19 condition in individuals with pre-existing immunity: a sequential propensity score-matched cohort study - thelancet.com",
+      "summary_original": "Booster dose of COVID-19 vaccine and its effectiveness against post COVID-19 condition in individuals with pre-existing immunity: a sequential propensity score-matched cohort study thelancet.com",
+      "summary_ai_original": "Booster dose of COVID-19 vaccine and its effectiveness against post COVID-19 condition in individuals with pre-existing immunity: a sequential propensity score-matched cohort study thelancet.com",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTy1iZ2M1Vm8yNk8xSXJnaDhLMEphT041alJUaVpZQTBUUDRmcGZIWmdqY0ZKd0FDLTVhN3FHMjAzSDVnamxoQkx2cGFlSE5NMkZUZ3Nobmg1QVZwbUhCOExXeHdDd2lPTWVZTEFyQkhFX2pGUU1nUkdmZ1Exd0dYS2VJQVR4LWR1VFNz?oc=5",
       "source": "The Lancet series",
@@ -1493,73 +1557,6 @@
       ]
     },
     {
-      "id": "c4908a319727b06f",
-      "title": "Updated guideline provides advice for reducing pain, fear during vaccination - CIDRAP",
-      "summary": "Updated guideline provides advice for reducing pain, fear during vaccination CIDRAP",
-      "summary_ai": "Updated guideline provides advice for reducing pain, fear during vaccination CIDRAP",
-      "title_original": "Updated guideline provides advice for reducing pain, fear during vaccination - CIDRAP",
-      "summary_original": "Updated guideline provides advice for reducing pain, fear during vaccination CIDRAP",
-      "summary_ai_original": "Updated guideline provides advice for reducing pain, fear during vaccination CIDRAP",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTXprLUdGTXFLSldFZ0NNNTA2LTZ0LWV0T2hSM09uQVB2WElRbFIxUGtjTHlYRWFmN2Y0TmNwUXlzemRMb0laeTl6MmZfLWRJRFhKbGpPb2QyeThoc0R6NVpzY2hybnZSNkRWeGhJcFFZZHlPOU4tbWNWX1pVSmd0NHl3MG84N1dnV2I4QmNQaEdhS1JXSXVPZ0tLMWRYREU4Uy04bEhUME5UbVpXWjJ2YTFMdWJWWXlJ?oc=5",
-      "source": "CIDRAP Vaccines & Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 8,
-      "published_at": "2026-09-21T19:52:40+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [
-        "recommendation"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "CIDRAP / Minnesota"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "CIDRAP / Minnesota"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "CIDRAP Vaccines & Immunization"
-      ]
-    },
-    {
       "id": "0e81238717716e16",
       "title": "AI Chatbot Use for Human Papillomavirus Vaccine Literacy in Japan A Randomized Clinical Trial",
       "summary": "AI Chatbot Use for Human Papillomavirus Vaccine Literacy in Japan A Randomized Clinical Trial",
@@ -1645,6 +1642,73 @@
         "research"
       ],
       "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "CIDRAP / Minnesota"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "CIDRAP / Minnesota"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "CIDRAP Vaccines & Immunization"
+      ]
+    },
+    {
+      "id": "c4908a319727b06f",
+      "title": "Updated guideline provides advice for reducing pain, fear during vaccination - CIDRAP",
+      "summary": "Updated guideline provides advice for reducing pain, fear during vaccination CIDRAP",
+      "summary_ai": "Updated guideline provides advice for reducing pain, fear during vaccination CIDRAP",
+      "title_original": "Updated guideline provides advice for reducing pain, fear during vaccination - CIDRAP",
+      "summary_original": "Updated guideline provides advice for reducing pain, fear during vaccination CIDRAP",
+      "summary_ai_original": "Updated guideline provides advice for reducing pain, fear during vaccination CIDRAP",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTXprLUdGTXFLSldFZ0NNNTA2LTZ0LWV0T2hSM09uQVB2WElRbFIxUGtjTHlYRWFmN2Y0TmNwUXlzemRMb0laeTl6MmZfLWRJRFhKbGpPb2QyeThoc0R6NVpzY2hybnZSNkRWeGhJcFFZZHlPOU4tbWNWX1pVSmd0NHl3MG84N1dnV2I4QmNQaEdhS1JXSXVPZ0tLMWRYREU4Uy04bEhUME5UbVpXWjJ2YTFMdWJWWXlJ?oc=5",
+      "source": "CIDRAP Vaccines & Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 8,
+      "published_at": "2026-09-21T07:00:00+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [
+        "recommendation"
+      ],
       "vaccines": [],
       "variants": [],
       "target_country": "不明",
@@ -1823,274 +1887,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "JAMA Network Open vaccines"
-      ]
-    },
-    {
-      "id": "14cb7453a088db7a",
-      "title": "Supplementary Material for Pfizer versus Moderna COVID-19 Vaccine Effectiveness against Mortality - SSRN eLibrary",
-      "summary": "Supplementary Material for Pfizer versus Moderna COVID-19 Vaccine Effectiveness against Mortality SSRN eLibrary",
-      "summary_ai": "Supplementary Material for Pfizer versus Moderna COVID-19 Vaccine Effectiveness against Mortality SSRN eLibrary",
-      "title_original": "Supplementary Material for Pfizer versus Moderna COVID-19 Vaccine Effectiveness against Mortality - SSRN eLibrary",
-      "summary_original": "Supplementary Material for Pfizer versus Moderna COVID-19 Vaccine Effectiveness against Mortality SSRN eLibrary",
-      "summary_ai_original": "Supplementary Material for Pfizer versus Moderna COVID-19 Vaccine Effectiveness against Mortality SSRN eLibrary",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVjlqS2pEb0p4YUVId1B6YjQwdFMxQlhiUzZTUExDWG51WVFTRDY3V2hOeGpBNFZZNWhsN2N5MTZLdFlaeC0zQTNqRFl1OTNlTU0yZ0VqRFpLRFptVXBZYXh0QzVRLTNkWmRGUnNmRHBxd3V1aHBhd3pSV2ZNNW1ybXplOWtXdHM?oc=5",
-      "source": "SSRN vaccine preprints",
-      "source_type": "preprint",
-      "source_tier": "Tier 3",
-      "source_priority": 6,
-      "published_at": "2026-09-17T00:39:48+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "covid"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "SSRN"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "SSRN"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "SSRN vaccine preprints"
-      ]
-    },
-    {
-      "id": "1911c94a3a0d3044",
-      "title": "Republican senator faults Trump vaccine policy for US measles deaths as panel weighs health nominees - Reuters",
-      "summary": "Republican senator faults Trump vaccine policy for US measles deaths as panel weighs health nominees Reuters",
-      "summary_ai": "Republican senator faults Trump vaccine policy for US measles deaths as panel weighs health nominees Reuters",
-      "title_original": "Republican senator faults Trump vaccine policy for US measles deaths as panel weighs health nominees - Reuters",
-      "summary_original": "Republican senator faults Trump vaccine policy for US measles deaths as panel weighs health nominees Reuters",
-      "summary_ai_original": "Republican senator faults Trump vaccine policy for US measles deaths as panel weighs health nominees Reuters",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY1lKdm5WdWd0cUtIajVxRUxMUG1CNXpQdnlNcU5OQjFsRFBSNXNGcUdCbGhSUFhKeVpSYmRNRWxpclJiVUd1VGU0bzBfdDRvSWd2b19Sd21ZblhEemZMOU9CUFdZNC1LWmdSNDl0QkY3Ym5HbkQzQjNsREFmUENCYmN3VE9uV0o2bm1UX0RFNjlyYWE0V2tEUG9uUHlwN2RCY1ktTXV6MkVlN1hYVTRXTG9HYnQzUlFDSF9uckx2OTlFakcxdmJBaTNn?oc=5",
-      "source": "Reuters Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-09-16T07:00:00+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [
-        "outbreak_response"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "Reuters"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "Reuters"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Reuters Vaccines / Immunization"
-      ]
-    },
-    {
-      "id": "419a6139464d0775",
-      "title": "Recombinant Influenza Vaccine and Influenza Outbreaks in US Nursing Homes: Results From a Pragmatic Cluster-Randomized Clinical Trial - Oxford Academic",
-      "summary": "Recombinant Influenza Vaccine and Influenza Outbreaks in US Nursing Homes: Results From a Pragmatic Cluster-Randomized Clinical Trial Oxford Academic",
-      "summary_ai": "Recombinant Influenza Vaccine and Influenza Outbreaks in US Nursing Homes: Results From a Pragmatic Cluster-Randomized Clinical Trial Oxford Academic",
-      "title_original": "Recombinant Influenza Vaccine and Influenza Outbreaks in US Nursing Homes: Results From a Pragmatic Cluster-Randomized Clinical Trial - Oxford Academic",
-      "summary_original": "Recombinant Influenza Vaccine and Influenza Outbreaks in US Nursing Homes: Results From a Pragmatic Cluster-Randomized Clinical Trial Oxford Academic",
-      "summary_ai_original": "Recombinant Influenza Vaccine and Influenza Outbreaks in US Nursing Homes: Results From a Pragmatic Cluster-Randomized Clinical Trial Oxford Academic",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsWTBNRmhFWGF4cEhRUUhjbmROckhvUElfNHo0YzQyWlRtTTU3bTlkQ3ZTa2FVRjl6cnZWdzFPMVpadUh1TVFfRTU0ckZUalQ5YmZRWFNSSHRIYlRMQ3AxWWgtVmlnZmVnY3c?oc=5",
-      "source": "Open Forum Infectious Diseases",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 7,
-      "published_at": "2026-09-16T07:00:00+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [
-        "outbreak_response"
-      ],
-      "vaccines": [
-        "influenza"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "Open Forum Infectious Diseases"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "Open Forum Infectious Diseases"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Open Forum Infectious Diseases"
-      ]
-    },
-    {
-      "id": "f929fbe2b6222ec0",
-      "title": "Pertussis vaccination in a changing landscape: Considerations for future policy Anna Ong-Lim,1 Mine Durusu Tanriöver,2 Nicole G - SSRN eLibrary",
-      "summary": "Pertussis vaccination in a changing landscape: Considerations for future policy Anna Ong-Lim,1 Mine Durusu Tanriöver,2 Nicole G SSRN eLibrary",
-      "summary_ai": "Pertussis vaccination in a changing landscape: Considerations for future policy Anna Ong-Lim,1 Mine Durusu Tanriöver,2 Nicole G SSRN eLibrary",
-      "title_original": "Pertussis vaccination in a changing landscape: Considerations for future policy Anna Ong-Lim,1 Mine Durusu Tanriöver,2 Nicole G - SSRN eLibrary",
-      "summary_original": "Pertussis vaccination in a changing landscape: Considerations for future policy Anna Ong-Lim,1 Mine Durusu Tanriöver,2 Nicole G SSRN eLibrary",
-      "summary_ai_original": "Pertussis vaccination in a changing landscape: Considerations for future policy Anna Ong-Lim,1 Mine Durusu Tanriöver,2 Nicole G SSRN eLibrary",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPb0lWdGlNNUp1aUJrQ1dmX0FQVm0ybnR3eTFoWmltdlRqdE5zN3ptbzBNdW9FUm1HcGVQSUt0LXlnek54cVhJaUhVcjdYVmtLUngxOUhPWnloTndKNFAzaEdzWS1mdkFaMTV4bnhQYjdQMTFOVmk0aWd3TW1RdmlhLWU5X0tPSFE?oc=5",
-      "source": "SSRN vaccine preprints",
-      "source_type": "preprint",
-      "source_tier": "Tier 3",
-      "source_priority": 6,
-      "published_at": "2026-09-16T05:21:31+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "SSRN"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "SSRN"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "SSRN vaccine preprints"
       ]
     }
   ]
