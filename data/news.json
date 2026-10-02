@@ -1,9 +1,9 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-10-01T00:30:55.841086+00:00",
-  "item_count": 21,
-  "archive_count": 524,
+  "generated_at": "2026-10-02T00:42:21.176839+00:00",
+  "item_count": 22,
+  "archive_count": 526,
   "days_back": 14,
   "plot_mode_default": "source",
   "feed_status": [
@@ -23,7 +23,7 @@
       "name": "CDC Newsroom",
       "url": "https://tools.cdc.gov/api/v2/resources/media/316422.rss",
       "status": "ok",
-      "seen": 6,
+      "seen": 7,
       "kept": 0
     },
     {
@@ -159,14 +159,14 @@
       "name": "Nature Reviews Immunology vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fnri%20(review%20OR%20immunogenicity%20OR%20policy%20OR%20effectiveness)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 2,
       "kept": 0
     },
     {
       "name": "Science vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ascience.org%2Fdoi%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20antibody)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 3,
       "kept": 0
     },
     {
@@ -236,119 +236,119 @@
       "name": "bioRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abiorxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 4,
+      "seen": 2,
       "kept": 1
     },
     {
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 22,
+      "seen": 24,
       "kept": 3
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 25,
+      "seen": 100,
       "kept": 0
     },
     {
       "name": "AP Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 24,
+      "seen": 14,
       "kept": 2
     },
     {
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 37,
+      "seen": 27,
       "kept": 0
     },
     {
       "name": "Financial Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aft.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 11,
+      "seen": 12,
       "kept": 1
     },
     {
       "name": "STAT Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 13,
+      "seen": 18,
       "kept": 0
     },
     {
       "name": "Nature News Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 8,
+      "seen": 11,
       "kept": 0
     },
     {
       "name": "Science Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Ascience.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 12,
       "kept": 0
     },
     {
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 22,
+      "seen": 18,
       "kept": 0
     },
     {
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 31,
+      "seen": 18,
       "kept": 0
     },
     {
       "name": "Washington Post Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 22,
+      "seen": 23,
       "kept": 2
     },
     {
       "name": "NHK ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anhk.or.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 4,
+      "seen": 1,
       "kept": 0
     },
     {
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 17,
+      "seen": 33,
       "kept": 0
     },
     {
       "name": "朝日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Aasahi.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 6,
+      "seen": 5,
       "kept": 0
     },
     {
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 62,
+      "seen": 52,
       "kept": 0
     },
     {
       "name": "毎日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 18,
+      "seen": 25,
       "kept": 0
     },
     {
@@ -376,7 +376,7 @@
       "name": "Journal of Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fjid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -461,20 +461,152 @@
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Apapers.ssrn.com%20(effectiveness%20OR%20safety%20OR%20policy%20OR%20trial)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
       "seen": 7,
-      "kept": 4
+      "kept": 5
     }
   ],
   "weekly_ai_summary": {
-    "generated_at": "2026-10-01T00:30:55.841086+00:00",
+    "generated_at": "2026-10-02T00:42:21.176839+00:00",
     "period_days": 7,
     "policy_count": 6,
-    "academic_count": 7,
+    "academic_count": 5,
     "status": "ok",
     "model": "gpt-4o-mini",
-    "policy_summary": "アメリカ大陸の保健リーダーが、抗微生物薬耐性に関する新たな地域行動計画を採択しました。この計画は、薬剤耐性感染症の予防、検出、対応を強化し、命を救う医薬品の効果を保護することを目的としています。",
-    "academic_summary": "ネパールにおけるCOVID-19ワクチンの有効性と変異種に関する研究プロトコルが発表されました。また、HPVワクチンの導入が9-10歳での効果に与える影響を調査したランダム化臨床試験の結果も報告されています。"
+    "policy_summary": "アメリカ大陸の保健リーダーが抗菌薬耐性に関する新しい地域行動計画を採択し、薬剤耐性感染症への対応を強化することを目指している。CDCのワクチン政策提言は、保健長官ケネディの下で停滞している。",
+    "academic_summary": "ワクチン政策、遅延ケア、医療費に関する研究が発表され、HPVワクチンの導入効果に関する無作為化臨床試験も行われている。ネパールにおけるCOVID-19ワクチンの有効性と変異種に関する研究プロトコルも提示された。"
   },
   "items": [
+    {
+      "id": "c67b86a6b525e863",
+      "title": "Long COVID, disputing measles deaths, and newborns without RSV protection: The State of US Vaccine Policy - CIDRAP",
+      "summary": "Long COVID, disputing measles deaths, and newborns without RSV protection: The State of US Vaccine Policy CIDRAP",
+      "summary_ai": "Long COVID, disputing measles deaths, and newborns without RSV protection: The State of US Vaccine Policy CIDRAP",
+      "title_original": "Long COVID, disputing measles deaths, and newborns without RSV protection: The State of US Vaccine Policy - CIDRAP",
+      "summary_original": "Long COVID, disputing measles deaths, and newborns without RSV protection: The State of US Vaccine Policy CIDRAP",
+      "summary_ai_original": "Long COVID, disputing measles deaths, and newborns without RSV protection: The State of US Vaccine Policy CIDRAP",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVVhKdU16T0RXbGl3QW5JZS1XQmlNY2xSMHZqLUU0OTRZeng3VktxSVRBX3hTVGlER1FPeWs0cUZBOFpnNmNsUUc3WGpId1BHX3BRank4enY1WmJJc2F0MUNkOXNySVljMzN1VDROSVN2NXJYR2IwOWFrZUJocmdWUnJkMmRncElCZ2cwMEp2Vktsa1dnLWxnUHdjdmpIdzRJYkw1YTFXSVVrc09xWTY3X1JvNC0tc1hPdXg2U1B2NHE4TVA2?oc=5",
+      "source": "CIDRAP Vaccines & Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 8,
+      "published_at": "2026-10-01T21:00:22+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [
+        "outbreak_response"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "CIDRAP / Minnesota"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "CIDRAP / Minnesota"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "CIDRAP Vaccines & Immunization"
+      ]
+    },
+    {
+      "id": "8f4a2b377fb70acc",
+      "title": "Vaccination Policy, Delayed Care, and Health Expenditures by Erkmen Aslim, Wei Fu, Chia-Lun Liu, Erdal Tekin - SSRN eLibrary",
+      "summary": "Vaccination Policy, Delayed Care, and Health Expenditures by Erkmen Aslim, Wei Fu, Chia-Lun Liu, Erdal Tekin SSRN eLibrary",
+      "summary_ai": "Vaccination Policy, Delayed Care, and Health Expenditures by Erkmen Aslim, Wei Fu, Chia-Lun Liu, Erdal Tekin SSRN eLibrary",
+      "title_original": "Vaccination Policy, Delayed Care, and Health Expenditures by Erkmen Aslim, Wei Fu, Chia-Lun Liu, Erdal Tekin - SSRN eLibrary",
+      "summary_original": "Vaccination Policy, Delayed Care, and Health Expenditures by Erkmen Aslim, Wei Fu, Chia-Lun Liu, Erdal Tekin SSRN eLibrary",
+      "summary_ai_original": "Vaccination Policy, Delayed Care, and Health Expenditures by Erkmen Aslim, Wei Fu, Chia-Lun Liu, Erdal Tekin SSRN eLibrary",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jRWdKZFg3YVlaSzRHWG1iT2JEWkJleUJuSHd6RHhtRGFEOTgyOXVRX0pSeENTOEFjY2syQ3MzTHl6czdXNEpEcVY1MDJyeFQ0OHhKUFdtd2ZzY3QyZnJPel9DNEF2ckNVems4?oc=5",
+      "source": "SSRN vaccine preprints",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 6,
+      "published_at": "2026-10-01T04:43:42+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "SSRN"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "SSRN"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "SSRN vaccine preprints"
+      ]
+    },
     {
       "id": "d3a330142a98c762",
       "title": "Antimicrobial resistance: Americas adopt new regional action plan",
@@ -755,73 +887,6 @@
       ]
     },
     {
-      "id": "f9bdb6e7ebb5c926",
-      "title": "Survey: Lack of knowledge, problems with access may affect adult vaccine uptake more than hesitancy - CIDRAP",
-      "summary": "Survey: Lack of knowledge, problems with access may affect adult vaccine uptake more than hesitancy CIDRAP",
-      "summary_ai": "Survey: Lack of knowledge, problems with access may affect adult vaccine uptake more than hesitancy CIDRAP",
-      "title_original": "Survey: Lack of knowledge, problems with access may affect adult vaccine uptake more than hesitancy - CIDRAP",
-      "summary_original": "Survey: Lack of knowledge, problems with access may affect adult vaccine uptake more than hesitancy CIDRAP",
-      "summary_ai_original": "Survey: Lack of knowledge, problems with access may affect adult vaccine uptake more than hesitancy CIDRAP",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSEZFb2w5a3NYOU52XzMxY1Y4SEl3SWVNTmVoNUMyUlJTVkI0VjlUR1VnQk5RQWN2YmdlYVZneG0zd1liRFlpd0piM2UxYkFhNF94UHV6empJdUNjMTg2aWJwM1ZSdDlHcnNyVFBIN1ZxZzhRNWllTml2Z2t6NWEwdE9vU1Q3WlF3bktqNHkzZy1yMmZyQi14U1p2UzhWeG5uNnhTSXNkLXZuOG1jSlZJNWFILXlrQzNoZm5fMQ?oc=5",
-      "source": "CIDRAP Vaccines & Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 8,
-      "published_at": "2026-09-28T19:43:35+00:00",
-      "topics": [
-        "communication"
-      ],
-      "policy_tags": [
-        "communication"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "CIDRAP / Minnesota"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "CIDRAP / Minnesota"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "CIDRAP Vaccines & Immunization"
-      ]
-    },
-    {
       "id": "86eefa2a247e3633",
       "title": "Effect of HPV Vaccine Introduction at 9-10 years: A Randomized Clinical Trial - medRxiv",
       "summary": "Effect of HPV Vaccine Introduction at 9-10 years: A Randomized Clinical Trial medRxiv",
@@ -889,13 +954,13 @@
       ]
     },
     {
-      "id": "6d336a595b7e5941",
-      "title": "One shot or two? What to know about HPV vaccination recommendations - The Washington Post",
-      "summary": "One shot or two? What to know about HPV vaccination recommendations The Washington Post",
-      "summary_ai": "What to know about HPV vaccination recommendations The Washington Post",
-      "title_original": "One shot or two? What to know about HPV vaccination recommendations - The Washington Post",
-      "summary_original": "One shot or two? What to know about HPV vaccination recommendations The Washington Post",
-      "summary_ai_original": "What to know about HPV vaccination recommendations The Washington Post",
+      "id": "0d7f65c07571f2d6",
+      "title": "One shot or two? What to know about HPV vaccination recommendations - washingtonpost.com",
+      "summary": "One shot or two? What to know about HPV vaccination recommendations washingtonpost.com",
+      "summary_ai": "What to know about HPV vaccination recommendations washingtonpost.com",
+      "title_original": "One shot or two? What to know about HPV vaccination recommendations - washingtonpost.com",
+      "summary_original": "One shot or two? What to know about HPV vaccination recommendations washingtonpost.com",
+      "summary_ai_original": "What to know about HPV vaccination recommendations washingtonpost.com",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOEw1NGdfelZXV21PdmF6M1gtOGotZUdxWW1IUWtIUWZhRGhfTkw4X0JuTGdyajIzaF93TUR6SXJCaGJNZDNiWFBuWlJnZDJhUTZOTEF3UWxsM0hDTjBoeENiX2dBbUxMYTlsbnB4NVkzNkN4UndqdXdzXzlZR1dpOVdnNHF2WUs1RVZLR2YzZUg0VW0zaEo0R1BaWDZyLXNFMS05ZEQwN2VldDgtbTNGTEhJeUl3UDVUV2V5WTU1WXpUMFkt?oc=5",
       "source": "Washington Post Vaccines / Immunization",
@@ -1090,13 +1155,13 @@
       ]
     },
     {
-      "id": "3a9ed32f276c85d3",
-      "title": "CDC vaccine policy recommendations grind to a halt under Health Secretary Kennedy - The Washington Post",
-      "summary": "CDC vaccine policy recommendations grind to a halt under Health Secretary Kennedy The Washington Post",
-      "summary_ai": "CDC vaccine policy recommendations grind to a halt under Health Secretary Kennedy The Washington Post",
-      "title_original": "CDC vaccine policy recommendations grind to a halt under Health Secretary Kennedy - The Washington Post",
-      "summary_original": "CDC vaccine policy recommendations grind to a halt under Health Secretary Kennedy The Washington Post",
-      "summary_ai_original": "CDC vaccine policy recommendations grind to a halt under Health Secretary Kennedy The Washington Post",
+      "id": "b58270a6b7ede150",
+      "title": "CDC vaccine policy recommendations grind to a halt under Health Secretary Kennedy - washingtonpost.com",
+      "summary": "CDC vaccine policy recommendations grind to a halt under Health Secretary Kennedy washingtonpost.com",
+      "summary_ai": "CDC vaccine policy recommendations grind to a halt under Health Secretary Kennedy washingtonpost.com",
+      "title_original": "CDC vaccine policy recommendations grind to a halt under Health Secretary Kennedy - washingtonpost.com",
+      "summary_original": "CDC vaccine policy recommendations grind to a halt under Health Secretary Kennedy washingtonpost.com",
+      "summary_ai_original": "CDC vaccine policy recommendations grind to a halt under Health Secretary Kennedy washingtonpost.com",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWk5MZHM4N0I1ZzNoYXpsVzdGV2JJOU40SDcwUlVIUVNoMEpzT001SlVGQ3E4SjBubG5JMjN3U1MyTk0yNTJfX3BZamcyc2Z3ZG1MSGZjLXZDdFBweVR5RWxkSVdQdzFJcDJNOWEwdzlBOS1xcHVNVFZkZ0hxOFV4Y24yTTJkSnNhRXNXRmNwaXd3dzRrNjEwR05JSzFmNWg0WnpOVWpvOTQxS3Bjako3a2NrLVl2OVM3TWtwRWx2azVFTTZYLU9n?oc=5",
       "source": "Washington Post Vaccines / Immunization",
@@ -1158,13 +1223,13 @@
       ]
     },
     {
-      "id": "d18fc432dde0781f",
-      "title": "Directional antigenic drift forecasts influenza vaccine effectiveness and guides strain selection - biorxiv.org",
-      "summary": "Directional antigenic drift forecasts influenza vaccine effectiveness and guides strain selection biorxiv.org",
-      "summary_ai": "Directional antigenic drift forecasts influenza vaccine effectiveness and guides strain selection biorxiv.org",
-      "title_original": "Directional antigenic drift forecasts influenza vaccine effectiveness and guides strain selection - biorxiv.org",
-      "summary_original": "Directional antigenic drift forecasts influenza vaccine effectiveness and guides strain selection biorxiv.org",
-      "summary_ai_original": "Directional antigenic drift forecasts influenza vaccine effectiveness and guides strain selection biorxiv.org",
+      "id": "c0d775d998540579",
+      "title": "Directional antigenic drift forecasts influenza vaccine effectiveness and guides strain selection - bioRxiv",
+      "summary": "Directional antigenic drift forecasts influenza vaccine effectiveness and guides strain selection bioRxiv",
+      "summary_ai": "Directional antigenic drift forecasts influenza vaccine effectiveness and guides strain selection bioRxiv",
+      "title_original": "Directional antigenic drift forecasts influenza vaccine effectiveness and guides strain selection - bioRxiv",
+      "summary_original": "Directional antigenic drift forecasts influenza vaccine effectiveness and guides strain selection bioRxiv",
+      "summary_ai_original": "Directional antigenic drift forecasts influenza vaccine effectiveness and guides strain selection bioRxiv",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBESVVzQ2daZ1dKRWdlNXRkeGNLNXoxZktqWU50UDlfcmFEVTItMHFWM0drWUVLWHNkUnNpT1gtM1MxakcwZzRZeUtCdjg3X0NIeGhVUzZHbG1ZMTJVT2w2RW1lajBEQUR4SWV4Vw?oc=5",
       "source": "bioRxiv vaccines",
@@ -1355,13 +1420,13 @@
       ]
     },
     {
-      "id": "c440074f90111faa",
-      "title": "Booster dose of COVID-19 vaccine and its effectiveness against post COVID-19 condition in individuals with pre-existing immunity: a sequential propensity score-matched cohort study - thelancet.com",
-      "summary": "Booster dose of COVID-19 vaccine and its effectiveness against post COVID-19 condition in individuals with pre-existing immunity: a sequential propensity score-matched cohort study thelancet.com",
-      "summary_ai": "Booster dose of COVID-19 vaccine and its effectiveness against post COVID-19 condition in individuals with pre-existing immunity: a sequential propensity score-matched cohort study thelancet.com",
-      "title_original": "Booster dose of COVID-19 vaccine and its effectiveness against post COVID-19 condition in individuals with pre-existing immunity: a sequential propensity score-matched cohort study - thelancet.com",
-      "summary_original": "Booster dose of COVID-19 vaccine and its effectiveness against post COVID-19 condition in individuals with pre-existing immunity: a sequential propensity score-matched cohort study thelancet.com",
-      "summary_ai_original": "Booster dose of COVID-19 vaccine and its effectiveness against post COVID-19 condition in individuals with pre-existing immunity: a sequential propensity score-matched cohort study thelancet.com",
+      "id": "f6527e96f95dc2a6",
+      "title": "Booster dose of COVID-19 vaccine and its effectiveness against post COVID-19 condition in individuals with pre-existing immunity: a sequential propensity score-matched cohort study",
+      "summary": "Booster dose of COVID-19 vaccine and its effectiveness against post COVID-19 condition in individuals with pre-existing immunity: a sequential propensity score-matched cohort study",
+      "summary_ai": "Booster dose of COVID-19 vaccine and its effectiveness against post COVID-19 condition in individuals with pre-existing immunity: a sequential propensity score-matched cohort study",
+      "title_original": "Booster dose of COVID-19 vaccine and its effectiveness against post COVID-19 condition in individuals with pre-existing immunity: a sequential propensity score-matched cohort study",
+      "summary_original": "Booster dose of COVID-19 vaccine and its effectiveness against post COVID-19 condition in individuals with pre-existing immunity: a sequential propensity score-matched cohort study",
+      "summary_ai_original": "Booster dose of COVID-19 vaccine and its effectiveness against post COVID-19 condition in individuals with pre-existing immunity: a sequential propensity score-matched cohort study",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTy1iZ2M1Vm8yNk8xSXJnaDhLMEphT041alJUaVpZQTBUUDRmcGZIWmdqY0ZKd0FDLTVhN3FHMjAzSDVnamxoQkx2cGFlSE5NMkZUZ3Nobmg1QVZwbUhCOExXeHdDd2lPTWVZTEFyQkhFX2pGUU1nUkdmZ1Exd0dYS2VJQVR4LWR1VFNz?oc=5",
       "source": "The Lancet series",
