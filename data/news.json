@@ -1,9 +1,9 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-10-02T00:42:21.176839+00:00",
-  "item_count": 22,
-  "archive_count": 526,
+  "generated_at": "2026-10-03T00:24:54.347260+00:00",
+  "item_count": 23,
+  "archive_count": 529,
   "days_back": 14,
   "plot_mode_default": "source",
   "feed_status": [
@@ -23,7 +23,7 @@
       "name": "CDC Newsroom",
       "url": "https://tools.cdc.gov/api/v2/resources/media/316422.rss",
       "status": "ok",
-      "seen": 7,
+      "seen": 11,
       "kept": 0
     },
     {
@@ -83,7 +83,7 @@
       "url": "https://www.paho.org/en/rss.xml",
       "status": "ok",
       "seen": 10,
-      "kept": 1
+      "kept": 2
     },
     {
       "name": "The Lancet series",
@@ -131,7 +131,7 @@
       "name": "Nature Medicine vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fnm%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20uptake%20OR%20policy)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 2,
       "kept": 0
     },
     {
@@ -159,14 +159,14 @@
       "name": "Nature Reviews Immunology vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fnri%20(review%20OR%20immunogenicity%20OR%20policy%20OR%20effectiveness)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 1,
       "kept": 0
     },
     {
       "name": "Science vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ascience.org%2Fdoi%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20antibody)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 2,
       "kept": 0
     },
     {
@@ -201,8 +201,8 @@
       "name": "JAMA Network Open vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjamanetworkopen%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
-      "kept": 2
+      "seen": 1,
+      "kept": 1
     },
     {
       "name": "JAMA Internal Medicine vaccines",
@@ -236,7 +236,7 @@
       "name": "bioRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abiorxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 1,
       "kept": 1
     },
     {
@@ -244,76 +244,76 @@
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
       "seen": 24,
-      "kept": 3
+      "kept": 5
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 100,
+      "seen": 98,
       "kept": 0
     },
     {
       "name": "AP Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 14,
+      "seen": 10,
       "kept": 2
     },
     {
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 27,
+      "seen": 17,
       "kept": 0
     },
     {
       "name": "Financial Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aft.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 12,
+      "seen": 11,
       "kept": 1
     },
     {
       "name": "STAT Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 18,
+      "seen": 17,
       "kept": 0
     },
     {
       "name": "Nature News Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 11,
+      "seen": 9,
       "kept": 0
     },
     {
       "name": "Science Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Ascience.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 12,
+      "seen": 13,
       "kept": 0
     },
     {
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 18,
+      "seen": 11,
       "kept": 0
     },
     {
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 18,
+      "seen": 16,
       "kept": 0
     },
     {
       "name": "Washington Post Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 23,
+      "seen": 17,
       "kept": 2
     },
     {
@@ -327,42 +327,42 @@
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 33,
+      "seen": 15,
       "kept": 0
     },
     {
       "name": "朝日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Aasahi.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 5,
+      "seen": 6,
       "kept": 0
     },
     {
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 52,
+      "seen": 39,
       "kept": 0
     },
     {
       "name": "毎日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 25,
+      "seen": 22,
       "kept": 0
     },
     {
       "name": "JAMA Network vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 1,
       "kept": 0
     },
     {
       "name": "JAMA Pediatrics vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjamapediatrics&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
@@ -390,7 +390,7 @@
       "name": "Emerging Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Awwwnc.cdc.gov%2Feid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 4,
       "kept": 0
     },
     {
@@ -418,8 +418,8 @@
       "name": "EBioMedicine vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Athelancet.com%2Fjournals%2Febiom&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 0,
-      "kept": 0
+      "seen": 1,
+      "kept": 1
     },
     {
       "name": "International Journal of Infectious Diseases",
@@ -453,28 +453,100 @@
       "name": "Journal of Travel Medicine vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fjtm&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 1,
-      "kept": 1
+      "seen": 0,
+      "kept": 0
     },
     {
       "name": "SSRN vaccine preprints",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Apapers.ssrn.com%20(effectiveness%20OR%20safety%20OR%20policy%20OR%20trial)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 7,
-      "kept": 5
+      "seen": 6,
+      "kept": 4
     }
   ],
   "weekly_ai_summary": {
-    "generated_at": "2026-10-02T00:42:21.176839+00:00",
+    "generated_at": "2026-10-03T00:24:54.347260+00:00",
     "period_days": 7,
-    "policy_count": 6,
+    "policy_count": 7,
     "academic_count": 5,
     "status": "ok",
     "model": "gpt-4o-mini",
-    "policy_summary": "アメリカ大陸の保健リーダーが抗菌薬耐性に関する新しい地域行動計画を採択し、薬剤耐性感染症への対応を強化することを目指している。CDCのワクチン政策提言は、保健長官ケネディの下で停滞している。",
-    "academic_summary": "ワクチン政策、遅延ケア、医療費に関する研究が発表され、HPVワクチンの導入効果に関する無作為化臨床試験も行われている。ネパールにおけるCOVID-19ワクチンの有効性と変異種に関する研究プロトコルも提示された。"
+    "policy_summary": "アメリカ大陸の保健大臣会議が開催され、健康システムの強化と健康の向上に向けた新たな措置が採択されました。また、抗菌薬耐性に関する新しい地域行動計画が承認され、薬剤耐性感染症への対応が強化されることが期待されています。",
+    "academic_summary": "HIVに曝露された未感染および未曝露の乳児における腸内細菌叢と制御性T細胞のワクチン免疫原性との関連を調査する縦断的コホート研究が発表されました。さらに、HPVワクチン導入の効果に関するランダム化臨床試験の結果も報告されています。"
   },
   "items": [
+    {
+      "id": "ca12b0c6d24b99a8",
+      "title": "PAHO regional meeting of health ministers concludes with new measures to strengthen health security and address key health threats",
+      "summary": "PAHO regional meeting of health ministers concludes with new measures to strengthen health security and address key health threats Cristina Mitchell 2 Oct 2026",
+      "summary_ai": "Over five days, Ministers of Health and other senior health authorities from across the Americas met in Washington, D.C., to discuss key public health priorities, review progress on regional initiatives and adopt decisions aimed at strengthening health systems and advancing health and well-being across the Region. Stre",
+      "title_original": "PAHO regional meeting of health ministers concludes with new measures to strengthen health security and address key health threats",
+      "summary_original": "PAHO regional meeting of health ministers concludes with new measures to strengthen health security and address key health threats Cristina Mitchell 2 Oct 2026",
+      "summary_ai_original": "Over five days, Ministers of Health and other senior health authorities from across the Americas met in Washington, D.C., to discuss key public health priorities, review progress on regional initiatives and adopt decisions aimed at strengthening health systems and advancing health and well-being across the Region. Stre",
+      "article_text_original": "Health authorities approved new regional strategies to strengthen preparedness for health emergencies, tackle antimicrobial resistance, curb dengue and other arboviral diseases, and improve food safety, while advancing access to vaccines, medicines and other essential health technologies across the Americas. Washington, D.C., 2 October 2026 (PAHO) – The 63rd Directing Council of the Pan American Health Organization (PAHO) concluded with countries of the Americas approving a series of decisions aimed at strengthening preparedness for increasingly frequent health emergencies, addressing antimicrobial resistance, reducing the growing burden of dengue and other arboviral diseases, improving food safety, and expanding access to health technologies. Over five days, Ministers of Health and other senior health authorities from across the Americas met in Washington, D.C., to discuss key public health priorities, review progress on regional initiatives and adopt decisions aimed at strengthening health systems and advancing health and well-being across the Region. “The resolutions and decisions adopted during this Council will guide our work in the years ahead. But their true value will not be measured by what was approved in this room. It will be measured by what changes in the lives of the people we serve,” said PAHO Director Dr. Jarbas Barbosa. Strengthening health security One of the key outcomes of the meeting was the approval of the Strategy for Strengthening Health Emergency and Risk Management for Health Security 2026–2031, which seeks to strengthen countries’ capacity to prevent, prepare for and respond to health emergencies, while building safer and more resilient health services and systems and enhancing regional cooperation. The strategy comes as the Americas face increasingly frequent disasters, outbreaks and other health threats. Between 2021 and 2024, nearly 30% of all disasters recorded worldwide occurred in the Region. Member States also approved the Plan of Action on Antimicrobial Resistance 2027–2031, which promotes a One Health approach and seeks to strengthen surveillance, laboratory capacity, infection prevention and control, appropriate use of antimicrobials, and access to diagnostics and vaccines. The Council also approved the Integrated Management Strategy for the Prevention and Control of Arboviral Diseases 2026–2035, strengthening regional action on diseases such as dengue, chikungunya and Zika through improved surveillance, prevention, vector control, clinical care and outbreak response. The strategy was adopted following the largest dengue epidemic on record in the Americas. In 2024, countries reported more than 13 million dengue cases and over 8,400 deaths across the Region. A new Strategy and Plan of Action on Food Safety 2026–2031 will support countries in strengthening food safety systems, surveillance, laboratory services and risk-based approaches to reduce foodborne diseases and improve coordination across sectors. The new framework addresses a significant public health challenge in the Americas, where foodborne diseases affect an estimated 43.7 million people and cause around 78,000 deaths each year. Strengthening access to health technologies Countries also advanced efforts to strengthen and modernize PAHO’s Regional Revolving Funds, which support access to vaccines, medicines, diagnostics and other essential health technologies. “These mechanisms allow countries to continue expanding access to vaccines, medicines, diagnostics and other essential health technologies that save lives every day in our Region,” Dr. Barbosa said. The changes seek to make the Funds more efficient, flexible and sustainable while maintaining pooled procurement as an important mechanism for improving access to quality-assured health products at affordable prices. Over the last biennium alone, PAHO’s Regional Revolving Funds helped protect an estimated 170 million people through pooled procurement and shared financing mechanisms. Advancing health across the Americas The 63rd Directing Council also addressed priorities including disease elimination, primary health care and digital health, while providing a platform for countries to share experiences and solutions to strengthen health systems. During the week, PAHO presented a new edition of Health in the Americas, which found that nearly 40% of the Region’s disease burden could potentially be avoided through stronger prevention, earlier diagnosis and treatment, and more effective health systems. The Council also recognized disease-elimination achievements over the past year in Brazil, Chile, El Salvador, The Bahamas and Turks and Caicos Islands, including landmark advances against HIV, leprosy, trachoma, rabies and hepatitis B, underscoring the progress that can be achieved through sustained political commitment, strong health systems, scientific evidence and regional cooperation. PAHO also marked the 50th anniversary of its Emergency Program, recognizing five decades of support to countries in preparing for, responding to and recovering from some of the most complex health emergencies faced by the Region. Beyond the deliberations of the Directing Council, the week also included the 78th Session of the WHO Regional Committee for the Americas, where health authorities discussed global and regional health priorities, including the future financing of global health and WHO's work across the Region. Speaking virtually, WHO Director-General Dr. Tedros Adhanom Ghebreyesus highlighted the Americas' progress in health emergency preparedness, disease elimination, digital health and regional cooperation, pointing to PAHO's Regional Revolving Funds as one of the world's most successful examples of solidarity in action. He noted that these achievements \"reflect political leadership, the commitment of health workers and communities, and the enduring value of regional cooperation.\" “Throughout this week, we have seen once again that the diversity of our Region is one of our greatest strengths. No country has all the answers. But together, we possess an extraordinary wealth of experience, expertise, and creativity,” Dr. Barbosa said. “As we leave this meeting, let us keep the dialogue alive, exchanging ideas, learning from one another, and engaging in the constructive debate that strengthens our decisions and our institutions,” Dr. Barbosa said. The decisions adopted this week are expected to strengthen the Region’s ability to prevent and respond to health threats, expand access to health technologies and advance stronger, more resilient health systems across the Americas in the years ahead.",
+      "link": "https://www.paho.org/en/news/2-10-2026-paho-regional-meeting-health-ministers-concludes-new-measures-strengthen-health",
+      "source": "PAHO News",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 8,
+      "published_at": "2026-10-02T15:25:46+00:00",
+      "topics": [
+        "policy",
+        "research"
+      ],
+      "policy_tags": [
+        "approval",
+        "financing",
+        "outbreak_response",
+        "recommendation",
+        "safety"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "ブラジル",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "PAHO / Washington DC"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "PAHO / Washington DC"
+        },
+        "target": {
+          "key": "brazil",
+          "name_ja": "ブラジル",
+          "lat": -15.7939,
+          "lng": -47.8828,
+          "region": "South America",
+          "label": "ブラジル"
+        }
+      },
+      "location": {
+        "key": "brazil",
+        "name_ja": "ブラジル",
+        "lat": -15.7939,
+        "lng": -47.8828,
+        "region": "South America",
+        "label": "ブラジル"
+      },
+      "region": "South America",
+      "country": "ブラジル",
+      "lat": -15.7939,
+      "lng": -47.8828,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "PAHO News"
+      ]
+    },
     {
       "id": "c67b86a6b525e863",
       "title": "Long COVID, disputing measles deaths, and newborns without RSV protection: The State of US Vaccine Policy - CIDRAP",
@@ -540,6 +612,137 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "CIDRAP Vaccines & Immunization"
+      ]
+    },
+    {
+      "id": "871d15e3bbc4e619",
+      "title": "No evidence RSV is mutating in response to infant immunizations, study finds - CIDRAP",
+      "summary": "No evidence RSV is mutating in response to infant immunizations, study finds CIDRAP",
+      "summary_ai": "No evidence RSV is mutating in response to infant immunizations, study finds CIDRAP",
+      "title_original": "No evidence RSV is mutating in response to infant immunizations, study finds - CIDRAP",
+      "summary_original": "No evidence RSV is mutating in response to infant immunizations, study finds CIDRAP",
+      "summary_ai_original": "No evidence RSV is mutating in response to infant immunizations, study finds CIDRAP",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeDF3akx4VkFWaFJhN0E4X3MxRVNGczJ4NWMyYTNmSVAtSXRhd2lCZFRid0ZRREhEZml4SHdNR3h2b3JQSVhfd3d4SVlaLWVXOG0yZ1Q0UEZuN2F5VTMzcG5fMGdSb3l1aWl4dmxmSHRLdG9mWjFma2x4SS1oTG1iTi16S3Rvd1VncVVhREdzd29hTnQ3ZHBNaG1mQ1BIVFVIaDdnWWJnVGY3NmJzSFlzeEd6cEVYRUNEclYxQlRVdFdiZzg?oc=5",
+      "source": "CIDRAP Vaccines & Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 8,
+      "published_at": "2026-10-01T20:08:29+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "CIDRAP / Minnesota"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "CIDRAP / Minnesota"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "CIDRAP Vaccines & Immunization"
+      ]
+    },
+    {
+      "id": "a14cd3a56ca7a8e2",
+      "title": "Association of gut microbiota and regulatory T cells with vaccine immunogenicity in HIV-exposed uninfected and HIV-unexposed infants: a longitudinal cohort study",
+      "summary": "Association of gut microbiota and regulatory T cells with vaccine immunogenicity in HIV-exposed uninfected and HIV-unexposed infants: a longitudinal cohort study",
+      "summary_ai": "Association of gut microbiota and regulatory T cells with vaccine immunogenicity in HIV-exposed uninfected and HIV-unexposed infants: a longitudinal cohort study",
+      "title_original": "Association of gut microbiota and regulatory T cells with vaccine immunogenicity in HIV-exposed uninfected and HIV-unexposed infants: a longitudinal cohort study",
+      "summary_original": "Association of gut microbiota and regulatory T cells with vaccine immunogenicity in HIV-exposed uninfected and HIV-unexposed infants: a longitudinal cohort study",
+      "summary_ai_original": "Association of gut microbiota and regulatory T cells with vaccine immunogenicity in HIV-exposed uninfected and HIV-unexposed infants: a longitudinal cohort study",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ1BMNTVkUFhpaXk5T3VnYl84RDB0Q1pRd2k2MHAyVE4yVHhTTXBYamZzTlViMXlWbGdZa2taZTFxUVlTc09UREhVNzRNeGdhMkpSZTVMNDI2RjhKdDNZOFRlQ2hRNW1nLUVoZUNJQ3JteVlEd0lrQm1ITDhZeVlHQzgtbXYwSnpiV0E?oc=5",
+      "source": "EBioMedicine vaccines",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-10-01T10:32:40+00:00",
+      "topics": [
+        "policy",
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "EBioMedicine"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "EBioMedicine"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "EBioMedicine vaccines"
       ]
     },
     {
@@ -822,13 +1025,13 @@
       ]
     },
     {
-      "id": "67cd4e618e65d2ce",
-      "title": "ネパールにおける新型コロナウイルス感染症（COVID-19）ワクチンの有効性と変異種：試験のための研究プロトコル - BMJ Open",
-      "summary": "ネパールにおける新型コロナウイルス感染症（COVID-19）ワクチンの有効性と変異種：試験のための研究プロトコル BMJ Open",
-      "summary_ai": "ネパールにおける新型コロナウイルス感染症（COVID-19）ワクチンの有効性と変異種：試験のための研究プロトコル BMJ Open",
-      "title_original": "COVID- 19 vaccine effectiveness and variants in Nepal: study protocol for a test - BMJ Open",
-      "summary_original": "COVID- 19 vaccine effectiveness and variants in Nepal: study protocol for a test BMJ Open",
-      "summary_ai_original": "COVID- 19 vaccine effectiveness and variants in Nepal: study protocol for a test BMJ Open",
+      "id": "c4de19329afbc6ad",
+      "title": "COVID- 19 vaccine effectiveness and variants in Nepal: study protocol for a test - bmjopen.bmj.com",
+      "summary": "COVID- 19 vaccine effectiveness and variants in Nepal: study protocol for a test bmjopen.bmj.com",
+      "summary_ai": "COVID- 19 vaccine effectiveness and variants in Nepal: study protocol for a test bmjopen.bmj.com",
+      "title_original": "COVID- 19 vaccine effectiveness and variants in Nepal: study protocol for a test - bmjopen.bmj.com",
+      "summary_original": "COVID- 19 vaccine effectiveness and variants in Nepal: study protocol for a test bmjopen.bmj.com",
+      "summary_ai_original": "COVID- 19 vaccine effectiveness and variants in Nepal: study protocol for a test bmjopen.bmj.com",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBLVXRDVXJScnJTVGd1ZmZ0U29yRkZpeXdWZENaTkljdFdBR1p2ZXh5TS1ac3BaMTBpTXNoQ2tBdzdHT3JJcTdRWl9LbEw1eC1EbGl5NWR1UnE0WC1CRnh4TFVLMzlaUUJSbnJSSkV3?oc=5",
       "source": "BMJ",
@@ -884,6 +1087,73 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "BMJ"
+      ]
+    },
+    {
+      "id": "f9bdb6e7ebb5c926",
+      "title": "Survey: Lack of knowledge, problems with access may affect adult vaccine uptake more than hesitancy - CIDRAP",
+      "summary": "Survey: Lack of knowledge, problems with access may affect adult vaccine uptake more than hesitancy CIDRAP",
+      "summary_ai": "Survey: Lack of knowledge, problems with access may affect adult vaccine uptake more than hesitancy CIDRAP",
+      "title_original": "Survey: Lack of knowledge, problems with access may affect adult vaccine uptake more than hesitancy - CIDRAP",
+      "summary_original": "Survey: Lack of knowledge, problems with access may affect adult vaccine uptake more than hesitancy CIDRAP",
+      "summary_ai_original": "Survey: Lack of knowledge, problems with access may affect adult vaccine uptake more than hesitancy CIDRAP",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSEZFb2w5a3NYOU52XzMxY1Y4SEl3SWVNTmVoNUMyUlJTVkI0VjlUR1VnQk5RQWN2YmdlYVZneG0zd1liRFlpd0piM2UxYkFhNF94UHV6empJdUNjMTg2aWJwM1ZSdDlHcnNyVFBIN1ZxZzhRNWllTml2Z2t6NWEwdE9vU1Q3WlF3bktqNHkzZy1yMmZyQi14U1p2UzhWeG5uNnhTSXNkLXZuOG1jSlZJNWFILXlrQzNoZm5fMQ?oc=5",
+      "source": "CIDRAP Vaccines & Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 8,
+      "published_at": "2026-09-28T19:43:35+00:00",
+      "topics": [
+        "communication"
+      ],
+      "policy_tags": [
+        "communication"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "CIDRAP / Minnesota"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "CIDRAP / Minnesota"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "CIDRAP Vaccines & Immunization"
       ]
     },
     {
@@ -954,13 +1224,13 @@
       ]
     },
     {
-      "id": "0d7f65c07571f2d6",
-      "title": "One shot or two? What to know about HPV vaccination recommendations - washingtonpost.com",
-      "summary": "One shot or two? What to know about HPV vaccination recommendations washingtonpost.com",
-      "summary_ai": "What to know about HPV vaccination recommendations washingtonpost.com",
-      "title_original": "One shot or two? What to know about HPV vaccination recommendations - washingtonpost.com",
-      "summary_original": "One shot or two? What to know about HPV vaccination recommendations washingtonpost.com",
-      "summary_ai_original": "What to know about HPV vaccination recommendations washingtonpost.com",
+      "id": "6d336a595b7e5941",
+      "title": "One shot or two? What to know about HPV vaccination recommendations - The Washington Post",
+      "summary": "One shot or two? What to know about HPV vaccination recommendations The Washington Post",
+      "summary_ai": "What to know about HPV vaccination recommendations The Washington Post",
+      "title_original": "One shot or two? What to know about HPV vaccination recommendations - The Washington Post",
+      "summary_original": "One shot or two? What to know about HPV vaccination recommendations The Washington Post",
+      "summary_ai_original": "What to know about HPV vaccination recommendations The Washington Post",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOEw1NGdfelZXV21PdmF6M1gtOGotZUdxWW1IUWtIUWZhRGhfTkw4X0JuTGdyajIzaF93TUR6SXJCaGJNZDNiWFBuWlJnZDJhUTZOTEF3UWxsM0hDTjBoeENiX2dBbUxMYTlsbnB4NVkzNkN4UndqdXdzXzlZR1dpOVdnNHF2WUs1RVZLR2YzZUg0VW0zaEo0R1BaWDZyLXNFMS05ZEQwN2VldDgtbTNGTEhJeUl3UDVUV2V5WTU1WXpUMFkt?oc=5",
       "source": "Washington Post Vaccines / Immunization",
@@ -1155,13 +1425,13 @@
       ]
     },
     {
-      "id": "b58270a6b7ede150",
-      "title": "CDC vaccine policy recommendations grind to a halt under Health Secretary Kennedy - washingtonpost.com",
-      "summary": "CDC vaccine policy recommendations grind to a halt under Health Secretary Kennedy washingtonpost.com",
-      "summary_ai": "CDC vaccine policy recommendations grind to a halt under Health Secretary Kennedy washingtonpost.com",
-      "title_original": "CDC vaccine policy recommendations grind to a halt under Health Secretary Kennedy - washingtonpost.com",
-      "summary_original": "CDC vaccine policy recommendations grind to a halt under Health Secretary Kennedy washingtonpost.com",
-      "summary_ai_original": "CDC vaccine policy recommendations grind to a halt under Health Secretary Kennedy washingtonpost.com",
+      "id": "3a9ed32f276c85d3",
+      "title": "CDC vaccine policy recommendations grind to a halt under Health Secretary Kennedy - The Washington Post",
+      "summary": "CDC vaccine policy recommendations grind to a halt under Health Secretary Kennedy The Washington Post",
+      "summary_ai": "CDC vaccine policy recommendations grind to a halt under Health Secretary Kennedy The Washington Post",
+      "title_original": "CDC vaccine policy recommendations grind to a halt under Health Secretary Kennedy - The Washington Post",
+      "summary_original": "CDC vaccine policy recommendations grind to a halt under Health Secretary Kennedy The Washington Post",
+      "summary_ai_original": "CDC vaccine policy recommendations grind to a halt under Health Secretary Kennedy The Washington Post",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWk5MZHM4N0I1ZzNoYXpsVzdGV2JJOU40SDcwUlVIUVNoMEpzT001SlVGQ3E4SjBubG5JMjN3U1MyTk0yNTJfX3BZamcyc2Z3ZG1MSGZjLXZDdFBweVR5RWxkSVdQdzFJcDJNOWEwdzlBOS1xcHVNVFZkZ0hxOFV4Y24yTTJkSnNhRXNXRmNwaXd3dzRrNjEwR05JSzFmNWg0WnpOVWpvOTQxS3Bjako3a2NrLVl2OVM3TWtwRWx2azVFTTZYLU9n?oc=5",
       "source": "Washington Post Vaccines / Immunization",
@@ -1555,73 +1825,6 @@
       ]
     },
     {
-      "id": "360a7a1d0d3f9759",
-      "title": "Consistency of vaccine confidence for children and companion animals as a paradigm of trust in science: evidence from a One Heal - SSRN eLibrary",
-      "summary": "Consistency of vaccine confidence for children and companion animals as a paradigm of trust in science: evidence from a One Heal SSRN eLibrary",
-      "summary_ai": "Consistency of vaccine confidence for children and companion animals as a paradigm of trust in science: evidence from a One Heal SSRN eLibrary",
-      "title_original": "Consistency of vaccine confidence for children and companion animals as a paradigm of trust in science: evidence from a One Heal - SSRN eLibrary",
-      "summary_original": "Consistency of vaccine confidence for children and companion animals as a paradigm of trust in science: evidence from a One Heal SSRN eLibrary",
-      "summary_ai_original": "Consistency of vaccine confidence for children and companion animals as a paradigm of trust in science: evidence from a One Heal SSRN eLibrary",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUkllRURGbEZKTFRsZHhvRnF1aWQtWnZGbnRYTFItTEJ2OVRLMFl6SVZvOVpTanZZZE5mMjh0TjhJMDdETUVsbEdMVmV0ZVVBRERJTHlYN1ppOWxoU3hReWVFQTRXbkFGMFc4Q1BKak96a2tITVFmaGFQSnE5b1RuVGdJZjJ0enkyX0tFenJyYl9VWTVBWHJhNTY5cjVidmMwWnhmN1lVUUNMMFF5NVNoSkphSGQ?oc=5",
-      "source": "SSRN vaccine preprints",
-      "source_type": "preprint",
-      "source_tier": "Tier 3",
-      "source_priority": 6,
-      "published_at": "2026-09-22T04:27:32+00:00",
-      "topics": [
-        "communication"
-      ],
-      "policy_tags": [
-        "communication"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "SSRN"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "SSRN"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "SSRN vaccine preprints"
-      ]
-    },
-    {
       "id": "0e81238717716e16",
       "title": "AI Chatbot Use for Human Papillomavirus Vaccine Literacy in Japan A Randomized Clinical Trial",
       "summary": "AI Chatbot Use for Human Papillomavirus Vaccine Literacy in Japan A Randomized Clinical Trial",
@@ -1818,140 +2021,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "CIDRAP Vaccines & Immunization"
-      ]
-    },
-    {
-      "id": "a624bb55531cc756",
-      "title": "Developing Country Vaccination Recommendations for Travellers: The UK National Travel Health Network and Centre (NaTHNaC) Methodology for Typhoid and Hepatitis A - Oxford Academic",
-      "summary": "Developing Country Vaccination Recommendations for Travellers: The UK National Travel Health Network and Centre (NaTHNaC) Methodology for Typhoid and Hepatitis A Oxford Academic",
-      "summary_ai": "Developing Country Vaccination Recommendations for Travellers: The UK National Travel Health Network and Centre (NaTHNaC) Methodology for Typhoid and Hepatitis A Oxford Academic",
-      "title_original": "Developing Country Vaccination Recommendations for Travellers: The UK National Travel Health Network and Centre (NaTHNaC) Methodology for Typhoid and Hepatitis A - Oxford Academic",
-      "summary_original": "Developing Country Vaccination Recommendations for Travellers: The UK National Travel Health Network and Centre (NaTHNaC) Methodology for Typhoid and Hepatitis A Oxford Academic",
-      "summary_ai_original": "Developing Country Vaccination Recommendations for Travellers: The UK National Travel Health Network and Centre (NaTHNaC) Methodology for Typhoid and Hepatitis A Oxford Academic",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYnVLLTR3NWE2T2U1VWpOYjJIelhzamRJZ3hPc3FnREtqOHFxV183T0VfZG5zb3UwM19WM1dhc29meTlTVFZRbnB5akEwS28wTnpQOS03MF8wako3ZDduWkZVQTZXTVBDdEp5OVM4Q1hMekRHcjhHU3R0c1JQQTNfV1N3?oc=5",
-      "source": "Journal of Travel Medicine vaccines",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 6,
-      "published_at": "2026-09-18T20:19:58+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [
-        "recommendation"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "英国",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "Journal of Travel Medicine"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "Journal of Travel Medicine"
-        },
-        "target": {
-          "key": "uk",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "英国"
-        }
-      },
-      "location": {
-        "key": "uk",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "英国"
-      },
-      "region": "Europe",
-      "country": "英国",
-      "lat": 51.5074,
-      "lng": -0.1278,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Journal of Travel Medicine vaccines"
-      ]
-    },
-    {
-      "id": "7618941d52307242",
-      "title": "RSV Vaccine Effectiveness Among US Older Adults, 2023-2024 Season",
-      "summary": "RSV Vaccine Effectiveness Among US Older Adults, 2023-2024 Season",
-      "summary_ai": "RSV Vaccine Effectiveness Among US Older Adults, 2023-2024 Season",
-      "title_original": "RSV Vaccine Effectiveness Among US Older Adults, 2023-2024 Season",
-      "summary_original": "RSV Vaccine Effectiveness Among US Older Adults, 2023-2024 Season",
-      "summary_ai_original": "RSV Vaccine Effectiveness Among US Older Adults, 2023-2024 Season",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBzMENiVXhkc0pKRTJpbHgtOEhIRzFuTHk3QnFrS0lWLWVORzdHUk43V2VKeEpOdVhhX01FSmtVQmg4OGN3eEp3NmdXc0FrM2dERklwZk1Kb0ZVUDM4amJsc0NxbHNFOWc0UGYyWFlSVll2X21LVU1F?oc=5",
-      "source": "JAMA Network Open vaccines",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 9,
-      "published_at": "2026-09-18T16:30:34+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "rsv"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "JAMA Network Open"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "JAMA Network Open"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "JAMA Network Open vaccines"
       ]
     }
   ]
