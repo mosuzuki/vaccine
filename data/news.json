@@ -1,9 +1,9 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-10-06T01:44:00.768301+00:00",
-  "item_count": 3,
-  "archive_count": 533,
+  "generated_at": "2026-10-07T00:37:30.184320+00:00",
+  "item_count": 31,
+  "archive_count": 543,
   "days_back": 14,
   "plot_mode_default": "source",
   "feed_status": [
@@ -23,7 +23,7 @@
       "name": "CDC Newsroom",
       "url": "https://tools.cdc.gov/api/v2/resources/media/316422.rss",
       "status": "ok",
-      "seen": 13,
+      "seen": 14,
       "kept": 0
     },
     {
@@ -88,339 +88,727 @@
     {
       "name": "The Lancet series",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Athelancet.com%20(trial%20OR%20policy%20OR%20effectiveness%20OR%20safety)&hl=en-US&gl=GB&ceid=GB%3Aen",
-      "status": "error",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Athelancet.com%20(trial%20OR%20policy%20OR%20effectiveness%20OR%20safety)&hl=en-US&gl=GB&ceid=GB%3Aen"
+      "status": "ok",
+      "seen": 2,
+      "kept": 1
     },
     {
       "name": "Lancet Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Athelancet.com%2Fjournals%2Flaninf&hl=en-US&gl=GB&ceid=GB%3Aen",
-      "status": "error",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Athelancet.com%2Fjournals%2Flaninf&hl=en-US&gl=GB&ceid=GB%3Aen"
+      "status": "ok",
+      "seen": 1,
+      "kept": 1
     },
     {
       "name": "NEJM",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Anejm.org%20(trial%20OR%20effectiveness%20OR%20policy%20OR%20safety)&hl=en-US&gl=US&ceid=US%3Aen",
-      "status": "error",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Anejm.org%20(trial%20OR%20effectiveness%20OR%20policy%20OR%20safety)&hl=en-US&gl=US&ceid=US%3Aen"
+      "status": "ok",
+      "seen": 2,
+      "kept": 0
     },
     {
       "name": "BMJ",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abmj.com%20(policy%20OR%20trial%20OR%20effectiveness%20OR%20communication)&hl=en-US&gl=GB&ceid=GB%3Aen",
-      "status": "error",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abmj.com%20(policy%20OR%20trial%20OR%20effectiveness%20OR%20communication)&hl=en-US&gl=GB&ceid=GB%3Aen"
+      "status": "ok",
+      "seen": 2,
+      "kept": 2
     },
     {
       "name": "Vaccine journal",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Asciencedirect.com%2Fjournal%2Fvaccine&hl=en-US&gl=US&ceid=US%3Aen",
-      "status": "error",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Asciencedirect.com%2Fjournal%2Fvaccine&hl=en-US&gl=US&ceid=US%3Aen"
+      "status": "ok",
+      "seen": 1,
+      "kept": 0
     },
     {
       "name": "npj Vaccines",
       "url": "https://news.google.com/rss/search?q=%22npj%20Vaccines%22%20OR%20(vaccine%20site%3Anature.com%2Fnpjvaccines)&hl=en-US&gl=GB&ceid=GB%3Aen",
-      "status": "error",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22npj%20Vaccines%22%20OR%20(vaccine%20site%3Anature.com%2Fnpjvaccines)&hl=en-US&gl=GB&ceid=GB%3Aen"
+      "status": "ok",
+      "seen": 0,
+      "kept": 0
     },
     {
       "name": "Nature Medicine vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fnm%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20uptake%20OR%20policy)&hl=en-US&gl=GB&ceid=GB%3Aen",
-      "status": "error",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fnm%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20uptake%20OR%20policy)&hl=en-US&gl=GB&ceid=GB%3Aen"
+      "status": "ok",
+      "seen": 1,
+      "kept": 0
     },
     {
       "name": "Nature Communications vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fncomms%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20surveillance)&hl=en-US&gl=GB&ceid=GB%3Aen",
-      "status": "error",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fncomms%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20surveillance)&hl=en-US&gl=GB&ceid=GB%3Aen"
+      "status": "ok",
+      "seen": 1,
+      "kept": 0
     },
     {
       "name": "Nature Microbiology vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fnmicrobiol%20(effectiveness%20OR%20safety%20OR%20immunogenicity%20OR%20variant%20OR%20pathogen)&hl=en-US&gl=GB&ceid=GB%3Aen",
-      "status": "error",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fnmicrobiol%20(effectiveness%20OR%20safety%20OR%20immunogenicity%20OR%20variant%20OR%20pathogen)&hl=en-US&gl=GB&ceid=GB%3Aen"
+      "status": "ok",
+      "seen": 1,
+      "kept": 0
     },
     {
       "name": "Nature Immunology vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fni%20(immunogenicity%20OR%20antibody%20OR%20immune%20response%20OR%20trial)&hl=en-US&gl=GB&ceid=GB%3Aen",
-      "status": "error",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fni%20(immunogenicity%20OR%20antibody%20OR%20immune%20response%20OR%20trial)&hl=en-US&gl=GB&ceid=GB%3Aen"
+      "status": "ok",
+      "seen": 1,
+      "kept": 0
     },
     {
       "name": "Nature Reviews Immunology vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fnri%20(review%20OR%20immunogenicity%20OR%20policy%20OR%20effectiveness)&hl=en-US&gl=GB&ceid=GB%3Aen",
-      "status": "error",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fnri%20(review%20OR%20immunogenicity%20OR%20policy%20OR%20effectiveness)&hl=en-US&gl=GB&ceid=GB%3Aen"
+      "status": "ok",
+      "seen": 1,
+      "kept": 0
     },
     {
       "name": "Science vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ascience.org%2Fdoi%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20antibody)&hl=en-US&gl=US&ceid=US%3Aen",
-      "status": "error",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ascience.org%2Fdoi%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20antibody)&hl=en-US&gl=US&ceid=US%3Aen"
+      "status": "ok",
+      "seen": 3,
+      "kept": 0
     },
     {
       "name": "Science Translational Medicine vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ascience.org%2Fjournal%2Fstm%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity)&hl=en-US&gl=US&ceid=US%3Aen",
-      "status": "error",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ascience.org%2Fjournal%2Fstm%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity)&hl=en-US&gl=US&ceid=US%3Aen"
+      "status": "ok",
+      "seen": 0,
+      "kept": 0
     },
     {
       "name": "Science Advances vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ascience.org%2Fjournal%2Fsciadv%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20epidemiology)&hl=en-US&gl=US&ceid=US%3Aen",
-      "status": "error",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ascience.org%2Fjournal%2Fsciadv%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20epidemiology)&hl=en-US&gl=US&ceid=US%3Aen"
+      "status": "ok",
+      "seen": 0,
+      "kept": 0
     },
     {
       "name": "Science Immunology vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ascience.org%2Fjournal%2Fsciimmunol%20(immunogenicity%20OR%20antibody%20OR%20immune%20response%20OR%20trial)&hl=en-US&gl=US&ceid=US%3Aen",
-      "status": "error",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ascience.org%2Fjournal%2Fsciimmunol%20(immunogenicity%20OR%20antibody%20OR%20immune%20response%20OR%20trial)&hl=en-US&gl=US&ceid=US%3Aen"
+      "status": "ok",
+      "seen": 0,
+      "kept": 0
     },
     {
       "name": "JAMA vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjama%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
-      "status": "error",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjama%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen"
+      "status": "ok",
+      "seen": 1,
+      "kept": 0
     },
     {
       "name": "JAMA Network Open vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjamanetworkopen%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
-      "status": "error",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjamanetworkopen%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen"
+      "status": "ok",
+      "seen": 0,
+      "kept": 0
     },
     {
       "name": "JAMA Internal Medicine vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjamainternalmedicine%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
-      "status": "error",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjamainternalmedicine%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen"
+      "status": "ok",
+      "seen": 2,
+      "kept": 1
     },
     {
       "name": "Eurosurveillance",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Aeurosurveillance.org&hl=en-US&gl=EU&ceid=EU%3Aen",
-      "status": "error",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Aeurosurveillance.org&hl=en-US&gl=EU&ceid=EU%3Aen"
+      "status": "ok",
+      "seen": 0,
+      "kept": 0
     },
     {
       "name": "Human Vaccines & Immunotherapeutics",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Atandfonline.com%20%22Human%20Vaccines%20%26%20Immunotherapeutics%22&hl=en-US&gl=US&ceid=US%3Aen",
-      "status": "error",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Atandfonline.com%20%22Human%20Vaccines%20%26%20Immunotherapeutics%22&hl=en-US&gl=US&ceid=US%3Aen"
+      "status": "ok",
+      "seen": 0,
+      "kept": 0
     },
     {
       "name": "medRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Amedrxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
-      "status": "error",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Amedrxiv.org&hl=en-US&gl=US&ceid=US%3Aen"
+      "status": "ok",
+      "seen": 4,
+      "kept": 2
     },
     {
       "name": "bioRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abiorxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
-      "status": "error",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abiorxiv.org&hl=en-US&gl=US&ceid=US%3Aen"
+      "status": "ok",
+      "seen": 3,
+      "kept": 2
     },
     {
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
-      "status": "error",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen"
+      "status": "ok",
+      "seen": 22,
+      "kept": 2
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
-      "status": "error",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen"
+      "status": "ok",
+      "seen": 98,
+      "kept": 2
     },
     {
       "name": "AP Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen",
-      "status": "error",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen"
+      "status": "ok",
+      "seen": 12,
+      "kept": 2
     },
     {
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
-      "status": "error",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen"
+      "status": "ok",
+      "seen": 33,
+      "kept": 2
     },
     {
       "name": "Financial Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aft.com&hl=en-US&gl=GB&ceid=GB%3Aen",
-      "status": "error",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aft.com&hl=en-US&gl=GB&ceid=GB%3Aen"
+      "status": "ok",
+      "seen": 8,
+      "kept": 2
     },
     {
       "name": "STAT Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen",
-      "status": "error",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen"
+      "status": "ok",
+      "seen": 13,
+      "kept": 1
     },
     {
       "name": "Nature News Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
-      "status": "error",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen"
+      "status": "ok",
+      "seen": 14,
+      "kept": 2
     },
     {
       "name": "Science Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Ascience.org&hl=en-US&gl=US&ceid=US%3Aen",
-      "status": "error",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Ascience.org&hl=en-US&gl=US&ceid=US%3Aen"
+      "status": "ok",
+      "seen": 4,
+      "kept": 0
     },
     {
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
-      "status": "error",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen"
+      "status": "ok",
+      "seen": 14,
+      "kept": 0
     },
     {
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
-      "status": "error",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen"
+      "status": "ok",
+      "seen": 18,
+      "kept": 0
     },
     {
       "name": "Washington Post Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
-      "status": "error",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen"
+      "status": "ok",
+      "seen": 21,
+      "kept": 2
     },
     {
       "name": "NHK ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anhk.or.jp&hl=ja&gl=JP&ceid=JP%3Aja",
-      "status": "error",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(%E3%83%AF%E3%82%AF%E3%83%81%E3%83%B3%20OR%20%E4%BA%88%E9%98%B2%E6%8E%A5%E7%A8%AE)%20(%E6%94%BF%E7%AD%96%20OR%20%E6%89%BF%E8%AA%8D%20OR%20%E6%8E%A5%E7%A8%AE%20OR%20%E3%82%B9%E3%82%B1%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%20OR%20%E7%A0%94%E7%A9%B6%20OR%20%E5%BA%83%E5%A0%B1)%20site%3Anhk.or.jp&hl=ja&gl=JP&ceid=JP%3Aja"
+      "status": "ok",
+      "seen": 1,
+      "kept": 0
     },
     {
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
-      "status": "error",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(%E3%83%AF%E3%82%AF%E3%83%81%E3%83%B3%20OR%20%E4%BA%88%E9%98%B2%E6%8E%A5%E7%A8%AE)%20(%E6%94%BF%E7%AD%96%20OR%20%E6%89%BF%E8%AA%8D%20OR%20%E6%8E%A5%E7%A8%AE%20OR%20%E3%82%B9%E3%82%B1%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%20OR%20%E7%A0%94%E7%A9%B6%20OR%20%E5%BA%83%E5%A0%B1)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja"
+      "status": "ok",
+      "seen": 11,
+      "kept": 0
     },
     {
       "name": "朝日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Aasahi.com&hl=ja&gl=JP&ceid=JP%3Aja",
-      "status": "error",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(%E3%83%AF%E3%82%AF%E3%83%81%E3%83%B3%20OR%20%E4%BA%88%E9%98%B2%E6%8E%A5%E7%A8%AE)%20(%E6%94%BF%E7%AD%96%20OR%20%E6%89%BF%E8%AA%8D%20OR%20%E6%8E%A5%E7%A8%AE%20OR%20%E3%82%B9%E3%82%B1%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%20OR%20%E7%A0%94%E7%A9%B6%20OR%20%E5%BA%83%E5%A0%B1)%20site%3Aasahi.com&hl=ja&gl=JP&ceid=JP%3Aja"
+      "status": "ok",
+      "seen": 11,
+      "kept": 0
     },
     {
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
-      "status": "error",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(%E3%83%AF%E3%82%AF%E3%83%81%E3%83%B3%20OR%20%E4%BA%88%E9%98%B2%E6%8E%A5%E7%A8%AE)%20(%E6%94%BF%E7%AD%96%20OR%20%E6%89%BF%E8%AA%8D%20OR%20%E6%8E%A5%E7%A8%AE%20OR%20%E3%82%B9%E3%82%B1%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%20OR%20%E7%A0%94%E7%A9%B6%20OR%20%E5%BA%83%E5%A0%B1)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja"
+      "status": "ok",
+      "seen": 12,
+      "kept": 0
     },
     {
       "name": "毎日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja",
-      "status": "error",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(%E3%83%AF%E3%82%AF%E3%83%81%E3%83%B3%20OR%20%E4%BA%88%E9%98%B2%E6%8E%A5%E7%A8%AE)%20(%E6%94%BF%E7%AD%96%20OR%20%E6%89%BF%E8%AA%8D%20OR%20%E6%8E%A5%E7%A8%AE%20OR%20%E3%82%B9%E3%82%B1%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%20OR%20%E7%A0%94%E7%A9%B6%20OR%20%E5%BA%83%E5%A0%B1)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja"
+      "status": "ok",
+      "seen": 14,
+      "kept": 0
     },
     {
       "name": "JAMA Network vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
-      "status": "error",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen"
+      "status": "ok",
+      "seen": 2,
+      "kept": 0
     },
     {
       "name": "JAMA Pediatrics vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjamapediatrics&hl=en-US&gl=US&ceid=US%3Aen",
-      "status": "error",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjamapediatrics&hl=en-US&gl=US&ceid=US%3Aen"
+      "status": "ok",
+      "seen": 2,
+      "kept": 0
     },
     {
       "name": "Clinical Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fcid&hl=en-US&gl=US&ceid=US%3Aen",
-      "status": "error",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fcid&hl=en-US&gl=US&ceid=US%3Aen"
+      "status": "ok",
+      "seen": 3,
+      "kept": 2
     },
     {
       "name": "Journal of Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fjid&hl=en-US&gl=US&ceid=US%3Aen",
-      "status": "error",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fjid&hl=en-US&gl=US&ceid=US%3Aen"
+      "status": "ok",
+      "seen": 2,
+      "kept": 0
     },
     {
       "name": "Open Forum Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fofid&hl=en-US&gl=US&ceid=US%3Aen",
-      "status": "error",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fofid&hl=en-US&gl=US&ceid=US%3Aen"
+      "status": "ok",
+      "seen": 0,
+      "kept": 0
     },
     {
       "name": "Emerging Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Awwwnc.cdc.gov%2Feid&hl=en-US&gl=US&ceid=US%3Aen",
-      "status": "error",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Awwwnc.cdc.gov%2Feid&hl=en-US&gl=US&ceid=US%3Aen"
+      "status": "ok",
+      "seen": 5,
+      "kept": 0
     },
     {
       "name": "Pediatrics journal",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Apublications.aap.org%2Fpediatrics&hl=en-US&gl=US&ceid=US%3Aen",
-      "status": "error",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Apublications.aap.org%2Fpediatrics&hl=en-US&gl=US&ceid=US%3Aen"
+      "status": "ok",
+      "seen": 1,
+      "kept": 0
     },
     {
       "name": "PLOS journals vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajournals.plos.org%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20uptake%20OR%20policy)&hl=en-US&gl=US&ceid=US%3Aen",
-      "status": "error",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajournals.plos.org%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20uptake%20OR%20policy)&hl=en-US&gl=US&ceid=US%3Aen"
+      "status": "ok",
+      "seen": 1,
+      "kept": 0
     },
     {
       "name": "eClinicalMedicine vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Athelancet.com%2Fjournals%2Feclinm&hl=en-US&gl=GB&ceid=GB%3Aen",
-      "status": "error",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Athelancet.com%2Fjournals%2Feclinm&hl=en-US&gl=GB&ceid=GB%3Aen"
+      "status": "ok",
+      "seen": 2,
+      "kept": 1
     },
     {
       "name": "EBioMedicine vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Athelancet.com%2Fjournals%2Febiom&hl=en-US&gl=GB&ceid=GB%3Aen",
-      "status": "error",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Athelancet.com%2Fjournals%2Febiom&hl=en-US&gl=GB&ceid=GB%3Aen"
+      "status": "ok",
+      "seen": 1,
+      "kept": 1
     },
     {
       "name": "International Journal of Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aijidonline.com&hl=en-US&gl=US&ceid=US%3Aen",
-      "status": "error",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aijidonline.com&hl=en-US&gl=US&ceid=US%3Aen"
+      "status": "ok",
+      "seen": 0,
+      "kept": 0
     },
     {
       "name": "Clinical Microbiology and Infection",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aclinicalmicrobiologyandinfection.com&hl=en-US&gl=EU&ceid=EU%3Aen",
-      "status": "error",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aclinicalmicrobiologyandinfection.com&hl=en-US&gl=EU&ceid=EU%3Aen"
+      "status": "ok",
+      "seen": 0,
+      "kept": 0
     },
     {
       "name": "Vaccine X",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Asciencedirect.com%2Fjournal%2Fvaccine-x&hl=en-US&gl=US&ceid=US%3Aen",
-      "status": "error",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Asciencedirect.com%2Fjournal%2Fvaccine-x&hl=en-US&gl=US&ceid=US%3Aen"
+      "status": "ok",
+      "seen": 0,
+      "kept": 0
     },
     {
       "name": "Cochrane vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Acochranelibrary.com&hl=en-US&gl=GB&ceid=GB%3Aen",
-      "status": "error",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Acochranelibrary.com&hl=en-US&gl=GB&ceid=GB%3Aen"
+      "status": "ok",
+      "seen": 0,
+      "kept": 0
     },
     {
       "name": "Journal of Travel Medicine vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fjtm&hl=en-US&gl=GB&ceid=GB%3Aen",
-      "status": "error",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fjtm&hl=en-US&gl=GB&ceid=GB%3Aen"
+      "status": "ok",
+      "seen": 0,
+      "kept": 0
     },
     {
       "name": "SSRN vaccine preprints",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Apapers.ssrn.com%20(effectiveness%20OR%20safety%20OR%20policy%20OR%20trial)&hl=en-US&gl=US&ceid=US%3Aen",
-      "status": "error",
-      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Apapers.ssrn.com%20(effectiveness%20OR%20safety%20OR%20policy%20OR%20trial)&hl=en-US&gl=US&ceid=US%3Aen"
+      "status": "ok",
+      "seen": 7,
+      "kept": 4
     }
   ],
   "weekly_ai_summary": {
-    "generated_at": "2026-10-06T01:44:00.768301+00:00",
+    "generated_at": "2026-10-07T00:37:30.184320+00:00",
     "period_days": 7,
-    "policy_count": 3,
-    "academic_count": 0,
+    "policy_count": 6,
+    "academic_count": 5,
     "status": "ok",
     "model": "gpt-4o-mini",
-    "policy_summary": "FDAの諮問委員会は、科学的専門家や一般市民からの意見を取り入れ、独立した専門的助言を提供しています。また、アメリカ大陸の保健大臣たちは、健康システムの強化と健康の向上を目指す新たな措置を採択しました。",
-    "academic_summary": "該当なし"
+    "policy_summary": "バングラデシュはデング熱の流行が悪化する中、ワクチン試験を検討しています。アメリカでは、インフルエンザワクチン接種を促進するためのアルゴリズム支援の個別リスクコミュニケーションが行われています。",
+    "academic_summary": "DMARD療法の中止が炎症性関節炎におけるCOVID-19補足ワクチンの免疫原性に与える影響が研究されています。また、インフルエンザワクチンの効果を日常的に収集されたデータを用いて推定する研究が発表されています。"
   },
   "items": [
+    {
+      "id": "e8bb29a9f268e071",
+      "title": "Bangladesh considers dengue vaccine trials as outbreak worsens - Reuters",
+      "summary": "Bangladesh considers dengue vaccine trials as outbreak worsens Reuters",
+      "summary_ai": "Bangladesh considers dengue vaccine trials as outbreak worsens Reuters",
+      "title_original": "Bangladesh considers dengue vaccine trials as outbreak worsens - Reuters",
+      "summary_original": "Bangladesh considers dengue vaccine trials as outbreak worsens Reuters",
+      "summary_ai_original": "Bangladesh considers dengue vaccine trials as outbreak worsens Reuters",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMzJOZlE0R1YwbmJBSHp1eHVZWHNGdGN5QzdPX3p3OGxIdF9KOHpBSGoyand5V1hfVUFUdHItRDBKcDI2MldpWGM3WG9zcTVIT2dvS1hJSUg2QmJ4SU5zc2dZX0JmbFdIZnlNUGoxeTVHSzMtWjVRanZ0SUFJdnZmeTZpLXFuV3p4TGhHb1M5WHR5eE9Lb0FwRjhDczVvSG94bzBia19VTV9yWWxKaGZBbXNySFc0ZVdRTVFpZTlrZHRsZW4ta1hmWGI2cw?oc=5",
+      "source": "Reuters Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-10-06T12:20:09+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [
+        "outbreak_response"
+      ],
+      "vaccines": [
+        "dengue"
+      ],
+      "variants": [],
+      "target_country": "バングラデシュ",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Reuters"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Reuters"
+        },
+        "target": {
+          "key": "bangladesh",
+          "name_ja": "バングラデシュ",
+          "lat": 23.8103,
+          "lng": 90.4125,
+          "region": "Asia",
+          "label": "バングラデシュ"
+        }
+      },
+      "location": {
+        "key": "bangladesh",
+        "name_ja": "バングラデシュ",
+        "lat": 23.8103,
+        "lng": 90.4125,
+        "region": "Asia",
+        "label": "バングラデシュ"
+      },
+      "region": "Asia",
+      "country": "バングラデシュ",
+      "lat": 23.8103,
+      "lng": 90.4125,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Reuters Vaccines / Immunization"
+      ]
+    },
+    {
+      "id": "76f22133f854fe34",
+      "title": "Divergent trial results on cancer vaccines have the field grappling with hard questions - STAT",
+      "summary": "Divergent trial results on cancer vaccines have the field grappling with hard questions STAT",
+      "summary_ai": "Divergent trial results on cancer vaccines have the field grappling with hard questions STAT",
+      "title_original": "Divergent trial results on cancer vaccines have the field grappling with hard questions - STAT",
+      "summary_original": "Divergent trial results on cancer vaccines have the field grappling with hard questions STAT",
+      "summary_ai_original": "Divergent trial results on cancer vaccines have the field grappling with hard questions STAT",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBEQUtNYjV0Y2tuVTRTeFhJdWdwb3NWbHExX0Jqb1gxXzA0Wjh4ZUVxM2cxRlVWTnhHcVl1N21mSXFleDRBb3hwZGRhdzhSRlA3TmhGeWdudTBVaHBub3g2dS1oVTJpRjJUeDFCSWI0M2NwSnZXamFhdm9Ic0g2Zw?oc=5",
+      "source": "STAT Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-10-06T10:01:36+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "STAT"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "STAT"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "STAT Vaccines / Immunization"
+      ]
+    },
+    {
+      "id": "a28a6f5e3e1220f5",
+      "title": "Cessation of DMARD Therapy and COVID-19 Supplemental Dose Vaccine Immunogenicity in Inflammatory Arthritis",
+      "summary": "Cessation of DMARD Therapy and COVID-19 Supplemental Dose Vaccine Immunogenicity in Inflammatory Arthritis",
+      "summary_ai": "Cessation of DMARD Therapy and COVID-19 Supplemental Dose Vaccine Immunogenicity in Inflammatory Arthritis",
+      "title_original": "Cessation of DMARD Therapy and COVID-19 Supplemental Dose Vaccine Immunogenicity in Inflammatory Arthritis",
+      "summary_original": "Cessation of DMARD Therapy and COVID-19 Supplemental Dose Vaccine Immunogenicity in Inflammatory Arthritis",
+      "summary_ai_original": "Cessation of DMARD Therapy and COVID-19 Supplemental Dose Vaccine Immunogenicity in Inflammatory Arthritis",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9uQXo2a3d1TS1Wb040NmREbXlXZmZVejZLcHpFc2pBMXEwSW9wYjJnWFpZYVhlQzBVLWNrU0lsNjNfUzhJNFktTjlrclpkc2Nwb1daV0luVFVvc2JzVnhxRVloSzNEQzdmQlhmV09Uc2lsVDNRTklpSG40Ykx2UQ?oc=5",
+      "source": "JAMA Internal Medicine vaccines",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-10-06T06:00:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "JAMA Internal Medicine"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "JAMA Internal Medicine"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "JAMA Internal Medicine vaccines"
+      ]
+    },
+    {
+      "id": "45127855045331e9",
+      "title": "Algorithm-assisted personalized risk communication to encourage flu vaccination in the USA: three randomized field trials",
+      "summary": "Algorithm-assisted personalized risk communication to encourage flu vaccination in the USA: three randomized field trials",
+      "summary_ai": "Algorithm-assisted personalized risk communication to encourage flu vaccination in the USA: three randomized field trials",
+      "title_original": "Algorithm-assisted personalized risk communication to encourage flu vaccination in the USA: three randomized field trials",
+      "summary_original": "Algorithm-assisted personalized risk communication to encourage flu vaccination in the USA: three randomized field trials",
+      "summary_ai_original": "Algorithm-assisted personalized risk communication to encourage flu vaccination in the USA: three randomized field trials",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4UnkxMkl3SlBCODlTUDl1YzdmQWJTWWhPTHpLMlQyQU8yNjJOc2VGUy03N1dTSlN0Ri1aN2stMlBzamhyREZ5VUlmTTdPMXljMGpZQ1BRd2EzOGZPVUNF?oc=5",
+      "source": "Nature News Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 5,
+      "published_at": "2026-10-05T18:33:45+00:00",
+      "topics": [
+        "communication",
+        "research"
+      ],
+      "policy_tags": [
+        "communication"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "米国",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Nature News"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Nature News"
+        },
+        "target": {
+          "key": "usa",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "米国"
+        }
+      },
+      "location": {
+        "key": "usa",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "米国"
+      },
+      "region": "North America",
+      "country": "米国",
+      "lat": 38.9072,
+      "lng": -77.0369,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Nature News Vaccines / Immunization"
+      ]
+    },
+    {
+      "id": "2827db8e397bb1b1",
+      "title": "Vaxcyte shares surge as pneumococcal vaccine succeeds in late-stage trial - Reuters",
+      "summary": "Vaxcyte shares surge as pneumococcal vaccine succeeds in late-stage trial Reuters",
+      "summary_ai": "Vaxcyte shares surge as pneumococcal vaccine succeeds in late-stage trial Reuters",
+      "title_original": "Vaxcyte shares surge as pneumococcal vaccine succeeds in late-stage trial - Reuters",
+      "summary_original": "Vaxcyte shares surge as pneumococcal vaccine succeeds in late-stage trial Reuters",
+      "summary_ai_original": "Vaxcyte shares surge as pneumococcal vaccine succeeds in late-stage trial Reuters",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQXzdLQTZMb0ozQzgwUDRobE5wREZlV0ZiY0o5WG1uWk1qdWZ0d0RvbWh1UEZpdnBjT2RpR1pmSVo0dXpuY2dpdmQtMHpIZFViS0doUVZCZjY2NDNTSDd6bF9kTmxHSDVXRk93aG5RSS03LUc1NkMwenlXTDlJRlkyV2lJOUY0YlBPUTdhWjl2UVpiT0ZNVkhoNTdIbEJ6NXEwNENFUGlDdWxXYVFfdVp6Z2Z5eTBKODZBRF9DWThuT0gwMGlKanpYOWZydjBYQTZtSEE?oc=5",
+      "source": "Reuters Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-10-05T13:44:27+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "pneumococcal"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Reuters"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Reuters"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Reuters Vaccines / Immunization"
+      ]
+    },
     {
       "id": "1928aef9a251b19d",
       "title": "Advisory Committees Give FDA Critical Advice and the Public a Voice",
@@ -488,6 +876,268 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "FDA Vaccines / Biologics"
+      ]
+    },
+    {
+      "id": "bddc12c7de03a8fd",
+      "title": "Mother is first in Europe to sign up to Strep B vaccine trial - BBC",
+      "summary": "Mother is first in Europe to sign up to Strep B vaccine trial BBC",
+      "summary_ai": "Mother is first in Europe to sign up to Strep B vaccine trial BBC",
+      "title_original": "Mother is first in Europe to sign up to Strep B vaccine trial - BBC",
+      "summary_original": "Mother is first in Europe to sign up to Strep B vaccine trial BBC",
+      "summary_ai_original": "Mother is first in Europe to sign up to Strep B vaccine trial BBC",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVdUMxOFg3bXpBQWZvaDduMnk5RUw4aUxxMkE2S0VrS3IyZk1mMUdHOG42WjNfcVpPa3dJYnhuLTVvTjMxNWdsOWtTc0RUY0Y5WE5KOFlGUEE2UVU?oc=5",
+      "source": "BBC Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-10-05T05:12:03+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BBC"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BBC"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "BBC Vaccines / Immunization"
+      ]
+    },
+    {
+      "id": "3dfc60fefc7e2a3e",
+      "title": "Estimating influenza vaccine effectiveness using routinely collected laboratory data - Journal of Epidemiology and Community Health (JECH)",
+      "summary": "Estimating influenza vaccine effectiveness using routinely collected laboratory data Journal of Epidemiology and Community Health (JECH)",
+      "summary_ai": "Estimating influenza vaccine effectiveness using routinely collected laboratory data Journal of Epidemiology and Community Health (JECH)",
+      "title_original": "Estimating influenza vaccine effectiveness using routinely collected laboratory data - Journal of Epidemiology and Community Health (JECH)",
+      "summary_original": "Estimating influenza vaccine effectiveness using routinely collected laboratory data Journal of Epidemiology and Community Health (JECH)",
+      "summary_ai_original": "Estimating influenza vaccine effectiveness using routinely collected laboratory data Journal of Epidemiology and Community Health (JECH)",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBieHIyN1hyeEFDV3RUeFFOQV8tQkpSYzRHVzloQ216aExtVzkyOElQbE9IZVhwSkdZRmloMmIwMk1PQzNCODdhaDU1Qk0zbXR6Zl9rRHQ2SlhQN2R5ajZoUWR0SQ?oc=5",
+      "source": "BMJ",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-10-05T01:49:45+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "influenza"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BMJ / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BMJ / London"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "BMJ"
+      ]
+    },
+    {
+      "id": "dc2b6ed633042618",
+      "title": "Vaxcyte to Host Webcast and Conference Call to Present Topline Data from OPUS-1, the Pivotal Adult Phase 3 Trial of VAX-31, the Company’s 31-Valent Pneumococcal Conjugate Vaccine Candidate – Company Announcement - Financial Times",
+      "summary": "Vaxcyte to Host Webcast and Conference Call to Present Topline Data from OPUS-1, the Pivotal Adult Phase 3 Trial of VAX-31, the Company’s 31-Valent Pneumococcal Conjugate Vaccine Candidate – Company Announcement Financial Times",
+      "summary_ai": "Vaxcyte to Host Webcast and Conference Call to Present Topline Data from OPUS-1, the Pivotal Adult Phase 3 Trial of VAX-31, the Company’s 31-Valent Pneumococcal Conjugate Vaccine Candidate – Company Announcement Financial Times",
+      "title_original": "Vaxcyte to Host Webcast and Conference Call to Present Topline Data from OPUS-1, the Pivotal Adult Phase 3 Trial of VAX-31, the Company’s 31-Valent Pneumococcal Conjugate Vaccine Candidate – Company Announcement - Financial Times",
+      "summary_original": "Vaxcyte to Host Webcast and Conference Call to Present Topline Data from OPUS-1, the Pivotal Adult Phase 3 Trial of VAX-31, the Company’s 31-Valent Pneumococcal Conjugate Vaccine Candidate – Company Announcement Financial Times",
+      "summary_ai_original": "Vaxcyte to Host Webcast and Conference Call to Present Topline Data from OPUS-1, the Pivotal Adult Phase 3 Trial of VAX-31, the Company’s 31-Valent Pneumococcal Conjugate Vaccine Candidate – Company Announcement Financial Times",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRVY0S182OF9fdDh6bFB4dUFPQnFxbC1yNURQdy1Sc3VyUld6RllEYzE2RHJ2ZXpJY2ZNc2tyR0o1YkpRMlFSY0ZGRldJWk5vS3dienJmRW5yOGFIZF9JaVM2RG5aWjFOUFpQVzktZDFZWHhPZG1JRTY4NTBrd2diYUtfajlTS2lBYzZ0VXNhTm8zbVJLZXdF?oc=5",
+      "source": "Financial Times Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-10-04T19:00:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Financial Times"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Financial Times"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Financial Times Vaccines / Immunization"
+      ]
+    },
+    {
+      "id": "8d0e23174270a02a",
+      "title": "A CCL21 gene-modified dendritic cell vaccine combined with pembrolizumab in advanced non-small cell lung cancer: a phase I trial",
+      "summary": "A CCL21 gene-modified dendritic cell vaccine combined with pembrolizumab in advanced non-small cell lung cancer: a phase I trial",
+      "summary_ai": "A CCL21 gene-modified dendritic cell vaccine combined with pembrolizumab in advanced non-small cell lung cancer: a phase I trial",
+      "title_original": "A CCL21 gene-modified dendritic cell vaccine combined with pembrolizumab in advanced non-small cell lung cancer: a phase I trial",
+      "summary_original": "A CCL21 gene-modified dendritic cell vaccine combined with pembrolizumab in advanced non-small cell lung cancer: a phase I trial",
+      "summary_ai_original": "A CCL21 gene-modified dendritic cell vaccine combined with pembrolizumab in advanced non-small cell lung cancer: a phase I trial",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4yZW83VG4tcFlwWVFLOTZhbmlQeUdCay1SQlRpSXRDSXJyYVhkaTAtTjJRUTN3SWdVdU02clFuU1YtZkF4eFBSSl9mekptck5Ldzg4enFMSDBtV2tPTU5R?oc=5",
+      "source": "Nature News Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 5,
+      "published_at": "2026-10-04T00:35:28+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Nature News"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Nature News"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Nature News Vaccines / Immunization"
       ]
     },
     {
@@ -563,6 +1213,338 @@
       ]
     },
     {
+      "id": "f27ddc2aed5c1efb",
+      "title": "Immunogenicity and safety of BPZE1, an intranasal live attenuated pertussis vaccine, evaluated with and without tetanus-reduced diphtheria-acellular pertussis vaccine in healthy children aged 6–17 years: a randomised, active-controlled and placebo-controll",
+      "summary": "Immunogenicity and safety of BPZE1, an intranasal live attenuated pertussis vaccine, evaluated with and without tetanus-reduced diphtheria-acellular pertussis vaccine in healthy children aged 6–17 years: a randomised, active-controlled and placebo-controll",
+      "summary_ai": "Immunogenicity and safety of BPZE1, an intranasal live attenuated pertussis vaccine, evaluated with and without tetanus-reduced diphtheria-acellular pertussis vaccine in healthy children aged 6–17 years: a randomised, active-controlled and placebo-controll",
+      "title_original": "Immunogenicity and safety of BPZE1, an intranasal live attenuated pertussis vaccine, evaluated with and without tetanus-reduced diphtheria-acellular pertussis vaccine in healthy children aged 6–17 years: a randomised, active-controlled and placebo-controll",
+      "summary_original": "Immunogenicity and safety of BPZE1, an intranasal live attenuated pertussis vaccine, evaluated with and without tetanus-reduced diphtheria-acellular pertussis vaccine in healthy children aged 6–17 years: a randomised, active-controlled and placebo-controll",
+      "summary_ai_original": "Immunogenicity and safety of BPZE1, an intranasal live attenuated pertussis vaccine, evaluated with and without tetanus-reduced diphtheria-acellular pertussis vaccine in healthy children aged 6–17 years: a randomised, active-controlled and placebo-controll",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOV3lYYjBWZG1NejloZm1tUnExalFrWkZpekNfdjVRRzhDREpVRk5PRFpGQjFrSmRldEpkZlVTb00zcWdEMHJKdm9UTTFlcFo0dFRnRzhQdTUzcGd6bHZVR3Z6WXNydVNkZDkxZ0lhVGFPV2dGSXI0b2FtVUlTYTR6bFlFWE54Zi1QVFQw?oc=5",
+      "source": "Lancet Infectious Diseases",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-10-02T03:44:02+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [
+        "safety"
+      ],
+      "vaccines": [
+        "pertussis"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Lancet Infectious Diseases / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Lancet Infectious Diseases / London"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Lancet Infectious Diseases"
+      ]
+    },
+    {
+      "id": "c67b86a6b525e863",
+      "title": "Long COVID, disputing measles deaths, and newborns without RSV protection: The State of US Vaccine Policy - CIDRAP",
+      "summary": "Long COVID, disputing measles deaths, and newborns without RSV protection: The State of US Vaccine Policy CIDRAP",
+      "summary_ai": "Long COVID, disputing measles deaths, and newborns without RSV protection: The State of US Vaccine Policy CIDRAP",
+      "title_original": "Long COVID, disputing measles deaths, and newborns without RSV protection: The State of US Vaccine Policy - CIDRAP",
+      "summary_original": "Long COVID, disputing measles deaths, and newborns without RSV protection: The State of US Vaccine Policy CIDRAP",
+      "summary_ai_original": "Long COVID, disputing measles deaths, and newborns without RSV protection: The State of US Vaccine Policy CIDRAP",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVVhKdU16T0RXbGl3QW5JZS1XQmlNY2xSMHZqLUU0OTRZeng3VktxSVRBX3hTVGlER1FPeWs0cUZBOFpnNmNsUUc3WGpId1BHX3BRank4enY1WmJJc2F0MUNkOXNySVljMzN1VDROSVN2NXJYR2IwOWFrZUJocmdWUnJkMmRncElCZ2cwMEp2Vktsa1dnLWxnUHdjdmpIdzRJYkw1YTFXSVVrc09xWTY3X1JvNC0tc1hPdXg2U1B2NHE4TVA2?oc=5",
+      "source": "CIDRAP Vaccines & Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 8,
+      "published_at": "2026-10-01T21:00:22+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [
+        "outbreak_response"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "CIDRAP / Minnesota"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "CIDRAP / Minnesota"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "CIDRAP Vaccines & Immunization"
+      ]
+    },
+    {
+      "id": "871d15e3bbc4e619",
+      "title": "No evidence RSV is mutating in response to infant immunizations, study finds - CIDRAP",
+      "summary": "No evidence RSV is mutating in response to infant immunizations, study finds CIDRAP",
+      "summary_ai": "No evidence RSV is mutating in response to infant immunizations, study finds CIDRAP",
+      "title_original": "No evidence RSV is mutating in response to infant immunizations, study finds - CIDRAP",
+      "summary_original": "No evidence RSV is mutating in response to infant immunizations, study finds CIDRAP",
+      "summary_ai_original": "No evidence RSV is mutating in response to infant immunizations, study finds CIDRAP",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeDF3akx4VkFWaFJhN0E4X3MxRVNGczJ4NWMyYTNmSVAtSXRhd2lCZFRid0ZRREhEZml4SHdNR3h2b3JQSVhfd3d4SVlaLWVXOG0yZ1Q0UEZuN2F5VTMzcG5fMGdSb3l1aWl4dmxmSHRLdG9mWjFma2x4SS1oTG1iTi16S3Rvd1VncVVhREdzd29hTnQ3ZHBNaG1mQ1BIVFVIaDdnWWJnVGY3NmJzSFlzeEd6cEVYRUNEclYxQlRVdFdiZzg?oc=5",
+      "source": "CIDRAP Vaccines & Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 8,
+      "published_at": "2026-10-01T20:08:29+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "CIDRAP / Minnesota"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "CIDRAP / Minnesota"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "CIDRAP Vaccines & Immunization"
+      ]
+    },
+    {
+      "id": "a14cd3a56ca7a8e2",
+      "title": "Association of gut microbiota and regulatory T cells with vaccine immunogenicity in HIV-exposed uninfected and HIV-unexposed infants: a longitudinal cohort study",
+      "summary": "Association of gut microbiota and regulatory T cells with vaccine immunogenicity in HIV-exposed uninfected and HIV-unexposed infants: a longitudinal cohort study",
+      "summary_ai": "Association of gut microbiota and regulatory T cells with vaccine immunogenicity in HIV-exposed uninfected and HIV-unexposed infants: a longitudinal cohort study",
+      "title_original": "Association of gut microbiota and regulatory T cells with vaccine immunogenicity in HIV-exposed uninfected and HIV-unexposed infants: a longitudinal cohort study",
+      "summary_original": "Association of gut microbiota and regulatory T cells with vaccine immunogenicity in HIV-exposed uninfected and HIV-unexposed infants: a longitudinal cohort study",
+      "summary_ai_original": "Association of gut microbiota and regulatory T cells with vaccine immunogenicity in HIV-exposed uninfected and HIV-unexposed infants: a longitudinal cohort study",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ1BMNTVkUFhpaXk5T3VnYl84RDB0Q1pRd2k2MHAyVE4yVHhTTXBYamZzTlViMXlWbGdZa2taZTFxUVlTc09UREhVNzRNeGdhMkpSZTVMNDI2RjhKdDNZOFRlQ2hRNW1nLUVoZUNJQ3JteVlEd0lrQm1ITDhZeVlHQzgtbXYwSnpiV0E?oc=5",
+      "source": "EBioMedicine vaccines",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-10-01T10:32:40+00:00",
+      "topics": [
+        "policy",
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "EBioMedicine"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "EBioMedicine"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "EBioMedicine vaccines"
+      ]
+    },
+    {
+      "id": "8f4a2b377fb70acc",
+      "title": "Vaccination Policy, Delayed Care, and Health Expenditures by Erkmen Aslim, Wei Fu, Chia-Lun Liu, Erdal Tekin - SSRN eLibrary",
+      "summary": "Vaccination Policy, Delayed Care, and Health Expenditures by Erkmen Aslim, Wei Fu, Chia-Lun Liu, Erdal Tekin SSRN eLibrary",
+      "summary_ai": "Vaccination Policy, Delayed Care, and Health Expenditures by Erkmen Aslim, Wei Fu, Chia-Lun Liu, Erdal Tekin SSRN eLibrary",
+      "title_original": "Vaccination Policy, Delayed Care, and Health Expenditures by Erkmen Aslim, Wei Fu, Chia-Lun Liu, Erdal Tekin - SSRN eLibrary",
+      "summary_original": "Vaccination Policy, Delayed Care, and Health Expenditures by Erkmen Aslim, Wei Fu, Chia-Lun Liu, Erdal Tekin SSRN eLibrary",
+      "summary_ai_original": "Vaccination Policy, Delayed Care, and Health Expenditures by Erkmen Aslim, Wei Fu, Chia-Lun Liu, Erdal Tekin SSRN eLibrary",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jRWdKZFg3YVlaSzRHWG1iT2JEWkJleUJuSHd6RHhtRGFEOTgyOXVRX0pSeENTOEFjY2syQ3MzTHl6czdXNEpEcVY1MDJyeFQ0OHhKUFdtd2ZzY3QyZnJPel9DNEF2ckNVems4?oc=5",
+      "source": "SSRN vaccine preprints",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 6,
+      "published_at": "2026-10-01T04:43:42+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "SSRN"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "SSRN"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "SSRN vaccine preprints"
+      ]
+    },
+    {
       "id": "d3a330142a98c762",
       "title": "Antimicrobial resistance: Americas adopt new regional action plan",
       "summary": "Antimicrobial resistance: Americas adopt new regional action plan Cristina Mitchell 30 Sep 2026",
@@ -631,6 +1613,945 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "PAHO News"
+      ]
+    },
+    {
+      "id": "41367ab635b91a26",
+      "title": "Integrating HPV vaccination into adolescent health and routine immunization delivery platforms in rural and pastoralist Ethiopia: A mixed-methods implementation study of the HPV-VISION program - medRxiv",
+      "summary": "Integrating HPV vaccination into adolescent health and routine immunization delivery platforms in rural and pastoralist Ethiopia: A mixed-methods implementation study of the HPV-VISION program medRxiv",
+      "summary_ai": "Integrating HPV vaccination into adolescent health and routine immunization delivery platforms in rural and pastoralist Ethiopia: A mixed-methods implementation study of the HPV-VISION program medRxiv",
+      "title_original": "Integrating HPV vaccination into adolescent health and routine immunization delivery platforms in rural and pastoralist Ethiopia: A mixed-methods implementation study of the HPV-VISION program - medRxiv",
+      "summary_original": "Integrating HPV vaccination into adolescent health and routine immunization delivery platforms in rural and pastoralist Ethiopia: A mixed-methods implementation study of the HPV-VISION program medRxiv",
+      "summary_ai_original": "Integrating HPV vaccination into adolescent health and routine immunization delivery platforms in rural and pastoralist Ethiopia: A mixed-methods implementation study of the HPV-VISION program medRxiv",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5mMDBRel9HOE1CM2hSWExQei1BM2lRVkhJN3lEbEtWaXBDZzJlQUxGRDd0aE83WnVzRHFSRjA5WXl5Zkxqekk2Mm1RampuTUF4YWpsTHpWbzY2RW0ycmVoUlhma3JNUE1nWC1INUtRYw?oc=5",
+      "source": "medRxiv vaccines",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-09-29T22:16:02+00:00",
+      "topics": [
+        "policy",
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "エチオピア",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "medRxiv"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "medRxiv"
+        },
+        "target": {
+          "key": "ethiopia",
+          "name_ja": "エチオピア",
+          "lat": 8.9806,
+          "lng": 38.7578,
+          "region": "Africa",
+          "label": "エチオピア"
+        }
+      },
+      "location": {
+        "key": "ethiopia",
+        "name_ja": "エチオピア",
+        "lat": 8.9806,
+        "lng": 38.7578,
+        "region": "Africa",
+        "label": "エチオピア"
+      },
+      "region": "Africa",
+      "country": "エチオピア",
+      "lat": 8.9806,
+      "lng": 38.7578,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "medRxiv vaccines"
+      ]
+    },
+    {
+      "id": "cb25302f33a43cda",
+      "title": "CSL Seqirus Expands U.S. Availability of Influenza Vaccine following Successful Completion of the 2026/27 Manufacturing Campaign – Company Announcement - FT.com - Financial Times",
+      "summary": "CSL Seqirus Expands U.S. Availability of Influenza Vaccine following Successful Completion of the 2026/27 Manufacturing Campaign – Company Announcement - FT.com Financial Times",
+      "summary_ai": "CSL Seqirus Expands U.S. Availability of Influenza Vaccine following Successful Completion of the 2026/27 Manufacturing Campaign – Company Announcement - FT.com Financial Times",
+      "title_original": "CSL Seqirus Expands U.S. Availability of Influenza Vaccine following Successful Completion of the 2026/27 Manufacturing Campaign – Company Announcement - FT.com - Financial Times",
+      "summary_original": "CSL Seqirus Expands U.S. Availability of Influenza Vaccine following Successful Completion of the 2026/27 Manufacturing Campaign – Company Announcement - FT.com Financial Times",
+      "summary_ai_original": "CSL Seqirus Expands U.S. Availability of Influenza Vaccine following Successful Completion of the 2026/27 Manufacturing Campaign – Company Announcement - FT.com Financial Times",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOURoeV9qM1N4T2JxdXljVjlxb3Vkb0xQT21LYWZQX21JM3FYMElEbXFCVkRta0lmdkl4bDJEN19LZVpRTGtuek9xVHpuU0NaVlJ1bUNxQ21sMHl5dkVwSFBILWs2VnF2N1dxVTZ2VVVBVlY5SmRXaERabVNzVGV5aHo0aVhyb0JERXV0YjRtQUVnOUZNd0E?oc=5",
+      "source": "Financial Times Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-09-29T13:30:00+00:00",
+      "topics": [
+        "communication"
+      ],
+      "policy_tags": [
+        "outbreak_response"
+      ],
+      "vaccines": [
+        "influenza"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Financial Times"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Financial Times"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Financial Times Vaccines / Immunization"
+      ]
+    },
+    {
+      "id": "67cd4e618e65d2ce",
+      "title": "ネパールにおける新型コロナウイルス感染症（COVID-19）ワクチンの有効性と変異種：試験のための研究プロトコル - BMJ Open",
+      "summary": "ネパールにおける新型コロナウイルス感染症（COVID-19）ワクチンの有効性と変異種：試験のための研究プロトコル BMJ Open",
+      "summary_ai": "ネパールにおける新型コロナウイルス感染症（COVID-19）ワクチンの有効性と変異種：試験のための研究プロトコル BMJ Open",
+      "title_original": "COVID- 19 vaccine effectiveness and variants in Nepal: study protocol for a test - BMJ Open",
+      "summary_original": "COVID- 19 vaccine effectiveness and variants in Nepal: study protocol for a test BMJ Open",
+      "summary_ai_original": "COVID- 19 vaccine effectiveness and variants in Nepal: study protocol for a test BMJ Open",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBLVXRDVXJScnJTVGd1ZmZ0U29yRkZpeXdWZENaTkljdFdBR1p2ZXh5TS1ac3BaMTBpTXNoQ2tBdzdHT3JJcTdRWl9LbEw1eC1EbGl5NWR1UnE0WC1CRnh4TFVLMzlaUUJSbnJSSkV3?oc=5",
+      "source": "BMJ",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-09-29T07:04:04+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "ネパール",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BMJ / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BMJ / London"
+        },
+        "target": {
+          "key": "nepal",
+          "name_ja": "ネパール",
+          "lat": 27.7172,
+          "lng": 85.324,
+          "region": "Asia",
+          "label": "ネパール"
+        }
+      },
+      "location": {
+        "key": "nepal",
+        "name_ja": "ネパール",
+        "lat": 27.7172,
+        "lng": 85.324,
+        "region": "Asia",
+        "label": "ネパール"
+      },
+      "region": "Asia",
+      "country": "ネパール",
+      "lat": 27.7172,
+      "lng": 85.324,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "BMJ"
+      ]
+    },
+    {
+      "id": "86eefa2a247e3633",
+      "title": "Effect of HPV Vaccine Introduction at 9-10 years: A Randomized Clinical Trial - medRxiv",
+      "summary": "Effect of HPV Vaccine Introduction at 9-10 years: A Randomized Clinical Trial medRxiv",
+      "summary_ai": "Effect of HPV Vaccine Introduction at 9-10 years: A Randomized Clinical Trial medRxiv",
+      "title_original": "Effect of HPV Vaccine Introduction at 9-10 years: A Randomized Clinical Trial - medRxiv",
+      "summary_original": "Effect of HPV Vaccine Introduction at 9-10 years: A Randomized Clinical Trial medRxiv",
+      "summary_ai_original": "Effect of HPV Vaccine Introduction at 9-10 years: A Randomized Clinical Trial medRxiv",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96Q2hyNnZmY1hMSElaZ2N3QnJrREJqdmhhRnhmNHZOeEV0UlpOeExIS2dKRTZ5S2VOQk1RUXVEdDRza2hvYkozZnVPVFNweTVMNENYSWY1am03ZzN6SU5VV0Q4c29PekM5T05CclZ3Yw?oc=5",
+      "source": "medRxiv vaccines",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-09-28T01:35:01+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "hpv"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "medRxiv"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "medRxiv"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "medRxiv vaccines"
+      ]
+    },
+    {
+      "id": "6d336a595b7e5941",
+      "title": "One shot or two? What to know about HPV vaccination recommendations - The Washington Post",
+      "summary": "One shot or two? What to know about HPV vaccination recommendations The Washington Post",
+      "summary_ai": "What to know about HPV vaccination recommendations The Washington Post",
+      "title_original": "One shot or two? What to know about HPV vaccination recommendations - The Washington Post",
+      "summary_original": "One shot or two? What to know about HPV vaccination recommendations The Washington Post",
+      "summary_ai_original": "What to know about HPV vaccination recommendations The Washington Post",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOEw1NGdfelZXV21PdmF6M1gtOGotZUdxWW1IUWtIUWZhRGhfTkw4X0JuTGdyajIzaF93TUR6SXJCaGJNZDNiWFBuWlJnZDJhUTZOTEF3UWxsM0hDTjBoeENiX2dBbUxMYTlsbnB4NVkzNkN4UndqdXdzXzlZR1dpOVdnNHF2WUs1RVZLR2YzZUg0VW0zaEo0R1BaWDZyLXNFMS05ZEQwN2VldDgtbTNGTEhJeUl3UDVUV2V5WTU1WXpUMFkt?oc=5",
+      "source": "Washington Post Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-09-26T19:13:29+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [
+        "recommendation"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "Washington Post"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "Washington Post"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 2,
+      "duplicate_sources": [
+        "AP Vaccines / Immunization",
+        "Washington Post Vaccines / Immunization"
+      ]
+    },
+    {
+      "id": "58036f7aa652edf8",
+      "title": "Influenza vaccine effectiveness against influenza A-associated hospitalization and severe in-hospital outcomes among adults in the United States, 2024–2025 - Oxford Academic",
+      "summary": "Influenza vaccine effectiveness against influenza A-associated hospitalization and severe in-hospital outcomes among adults in the United States, 2024–2025 Oxford Academic",
+      "summary_ai": "Influenza vaccine effectiveness against influenza A-associated hospitalization and severe in-hospital outcomes among adults in the United States, 2024–2025 Oxford Academic",
+      "title_original": "Influenza vaccine effectiveness against influenza A-associated hospitalization and severe in-hospital outcomes among adults in the United States, 2024–2025 - Oxford Academic",
+      "summary_original": "Influenza vaccine effectiveness against influenza A-associated hospitalization and severe in-hospital outcomes among adults in the United States, 2024–2025 Oxford Academic",
+      "summary_ai_original": "Influenza vaccine effectiveness against influenza A-associated hospitalization and severe in-hospital outcomes among adults in the United States, 2024–2025 Oxford Academic",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNXzZxcFl4QzVoUkNJbklFLWgtY191R3FzY18tbmdUcDUtZDB0WXJVOUZSVF9sbFEtWkJ4RE10ekRteTBIMVRHblYtZ1lmcHYyMUVhS3pZY1k4MHFzWTQ0eDY3bk5qVGRnd3BwODlaeTZXaW1VaW92YkV6WTlKU0Y0RnFR?oc=5",
+      "source": "Clinical Infectious Diseases",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-09-26T03:33:45+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "influenza"
+      ],
+      "variants": [],
+      "target_country": "米国",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "Clinical Infectious Diseases"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "Clinical Infectious Diseases"
+        },
+        "target": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "米国"
+        }
+      },
+      "location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "米国"
+      },
+      "region": "North America",
+      "country": "米国",
+      "lat": 38.9072,
+      "lng": -77.0369,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Clinical Infectious Diseases"
+      ]
+    },
+    {
+      "id": "f72443197a0a0da8",
+      "title": "1 韓国における国家ヒトパピローマウイルス予防接種プログラムの有効性: A 2 全国の人口ベースのコホート - SSRN eLibrary",
+      "summary": "1 韓国における国家ヒトパピローマウイルス予防接種プログラムの有効性: A 2 全国の人口ベースのコホート SSRN eLibrary",
+      "summary_ai": "1 韓国における国家ヒトパピローマウイルス予防接種プログラムの有効性: A 2 全国の人口ベースのコホート SSRN eLibrary",
+      "title_original": "1 Effectiveness of the National Human Papillomavirus Immunization Program in South Korea: A 2 Nationwide Population-Based Cohort - SSRN eLibrary",
+      "summary_original": "1 Effectiveness of the National Human Papillomavirus Immunization Program in South Korea: A 2 Nationwide Population-Based Cohort SSRN eLibrary",
+      "summary_ai_original": "1 Effectiveness of the National Human Papillomavirus Immunization Program in South Korea: A 2 Nationwide Population-Based Cohort SSRN eLibrary",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUE9aX3lySGRlSWppMWwtR1pzazNwNml1bmstWUQ2UFctQWRMRWNnZ29JMF9hRExadjdTMktsRXAzSG5zbV85NkN5YkFGZHZjSU1MdHE1S18yWmE4SWUwMUpkc2JNemdFQ2RwVkw3UjYzT1htbFZtUFNoaVhsaXlxQW9SNU9tbFpOTDE2UmFHRU5PVU5La0dGREpoeGxXNGhOaFR1VWtmdF95eWVvejBOWVJseEM?oc=5",
+      "source": "SSRN vaccine preprints",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 6,
+      "published_at": "2026-09-25T22:42:35+00:00",
+      "topics": [
+        "policy",
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "韓国",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "SSRN"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "SSRN"
+        },
+        "target": {
+          "key": "south korea",
+          "name_ja": "韓国",
+          "lat": 37.5665,
+          "lng": 126.978,
+          "region": "Asia",
+          "label": "韓国"
+        }
+      },
+      "location": {
+        "key": "south korea",
+        "name_ja": "韓国",
+        "lat": 37.5665,
+        "lng": 126.978,
+        "region": "Asia",
+        "label": "韓国"
+      },
+      "region": "Asia",
+      "country": "韓国",
+      "lat": 37.5665,
+      "lng": 126.978,
+      "duplicate_count": 2,
+      "duplicate_sources": [
+        "SSRN vaccine preprints"
+      ]
+    },
+    {
+      "id": "3a9ed32f276c85d3",
+      "title": "CDC vaccine policy recommendations grind to a halt under Health Secretary Kennedy - The Washington Post",
+      "summary": "CDC vaccine policy recommendations grind to a halt under Health Secretary Kennedy The Washington Post",
+      "summary_ai": "CDC vaccine policy recommendations grind to a halt under Health Secretary Kennedy The Washington Post",
+      "title_original": "CDC vaccine policy recommendations grind to a halt under Health Secretary Kennedy - The Washington Post",
+      "summary_original": "CDC vaccine policy recommendations grind to a halt under Health Secretary Kennedy The Washington Post",
+      "summary_ai_original": "CDC vaccine policy recommendations grind to a halt under Health Secretary Kennedy The Washington Post",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWk5MZHM4N0I1ZzNoYXpsVzdGV2JJOU40SDcwUlVIUVNoMEpzT001SlVGQ3E4SjBubG5JMjN3U1MyTk0yNTJfX3BZamcyc2Z3ZG1MSGZjLXZDdFBweVR5RWxkSVdQdzFJcDJNOWEwdzlBOS1xcHVNVFZkZ0hxOFV4Y24yTTJkSnNhRXNXRmNwaXd3dzRrNjEwR05JSzFmNWg0WnpOVWpvOTQxS3Bjako3a2NrLVl2OVM3TWtwRWx2azVFTTZYLU9n?oc=5",
+      "source": "Washington Post Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-09-25T20:04:49+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [
+        "recommendation"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "Washington Post"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "Washington Post"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 2,
+      "duplicate_sources": [
+        "AP Vaccines / Immunization",
+        "Washington Post Vaccines / Immunization"
+      ]
+    },
+    {
+      "id": "c0d775d998540579",
+      "title": "Directional antigenic drift forecasts influenza vaccine effectiveness and guides strain selection - bioRxiv",
+      "summary": "Directional antigenic drift forecasts influenza vaccine effectiveness and guides strain selection bioRxiv",
+      "summary_ai": "Directional antigenic drift forecasts influenza vaccine effectiveness and guides strain selection bioRxiv",
+      "title_original": "Directional antigenic drift forecasts influenza vaccine effectiveness and guides strain selection - bioRxiv",
+      "summary_original": "Directional antigenic drift forecasts influenza vaccine effectiveness and guides strain selection bioRxiv",
+      "summary_ai_original": "Directional antigenic drift forecasts influenza vaccine effectiveness and guides strain selection bioRxiv",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBESVVzQ2daZ1dKRWdlNXRkeGNLNXoxZktqWU50UDlfcmFEVTItMHFWM0drWUVLWHNkUnNpT1gtM1MxakcwZzRZeUtCdjg3X0NIeGhVUzZHbG1ZMTJVT2w2RW1lajBEQUR4SWV4Vw?oc=5",
+      "source": "bioRxiv vaccines",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-09-24T18:20:43+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "influenza"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "bioRxiv"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "bioRxiv"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "bioRxiv vaccines"
+      ]
+    },
+    {
+      "id": "0f9f0a7c16ed0749",
+      "title": "Effectiveness of timely hepatitis B birth dose vaccination to prevent mother-to-child transmission in Ethiopia - Oxford Academic",
+      "summary": "Effectiveness of timely hepatitis B birth dose vaccination to prevent mother-to-child transmission in Ethiopia Oxford Academic",
+      "summary_ai": "Effectiveness of timely hepatitis B birth dose vaccination to prevent mother-to-child transmission in Ethiopia Oxford Academic",
+      "title_original": "Effectiveness of timely hepatitis B birth dose vaccination to prevent mother-to-child transmission in Ethiopia - Oxford Academic",
+      "summary_original": "Effectiveness of timely hepatitis B birth dose vaccination to prevent mother-to-child transmission in Ethiopia Oxford Academic",
+      "summary_ai_original": "Effectiveness of timely hepatitis B birth dose vaccination to prevent mother-to-child transmission in Ethiopia Oxford Academic",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZ3lDXzlkMHhFc1FkczJPS2pRUHRpRTVKOURxWVZKc3U5SmFNWlkwZUE4S0lOc2ZXTWdsUUFnS1QzY3Nvam1RQ2NoSlVjYXlacmhDbG5yWHdza050bmU3QXZtaXpUMkhPOGdvM0FSNUVrWHpyZER1djVjVHRtUlJDaWpB?oc=5",
+      "source": "Clinical Infectious Diseases",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-09-24T13:05:25+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "エチオピア",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "Clinical Infectious Diseases"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "Clinical Infectious Diseases"
+        },
+        "target": {
+          "key": "ethiopia",
+          "name_ja": "エチオピア",
+          "lat": 8.9806,
+          "lng": 38.7578,
+          "region": "Africa",
+          "label": "エチオピア"
+        }
+      },
+      "location": {
+        "key": "ethiopia",
+        "name_ja": "エチオピア",
+        "lat": 8.9806,
+        "lng": 38.7578,
+        "region": "Africa",
+        "label": "エチオピア"
+      },
+      "region": "Africa",
+      "country": "エチオピア",
+      "lat": 8.9806,
+      "lng": 38.7578,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Clinical Infectious Diseases"
+      ]
+    },
+    {
+      "id": "c896da022d4e3c66",
+      "title": "Therapeutic Equivalence, Immunogenicity, and Safety of Euvichol Oral Cholera Vaccine Formulations Compared with WHO-prequalified Shanchol vaccine in Healthy Children and Adults: A Systematic Review and Meta-Analysis of Randomised Controlled Tria - bioRxiv",
+      "summary": "Therapeutic Equivalence, Immunogenicity, and Safety of Euvichol Oral Cholera Vaccine Formulations Compared with WHO-prequalified Shanchol vaccine in Healthy Children and Adults: A Systematic Review and Meta-Analysis of Randomised Controlled Tria bioRxiv",
+      "summary_ai": "Therapeutic Equivalence, Immunogenicity, and Safety of Euvichol Oral Cholera Vaccine Formulations Compared with WHO-prequalified Shanchol vaccine in Healthy Children and Adults: A Systematic Review and Meta-Analysis of Randomised Controlled Tria bioRxiv",
+      "title_original": "Therapeutic Equivalence, Immunogenicity, and Safety of Euvichol Oral Cholera Vaccine Formulations Compared with WHO-prequalified Shanchol vaccine in Healthy Children and Adults: A Systematic Review and Meta-Analysis of Randomised Controlled Tria - bioRxiv",
+      "summary_original": "Therapeutic Equivalence, Immunogenicity, and Safety of Euvichol Oral Cholera Vaccine Formulations Compared with WHO-prequalified Shanchol vaccine in Healthy Children and Adults: A Systematic Review and Meta-Analysis of Randomised Controlled Tria bioRxiv",
+      "summary_ai_original": "Therapeutic Equivalence, Immunogenicity, and Safety of Euvichol Oral Cholera Vaccine Formulations Compared with WHO-prequalified Shanchol vaccine in Healthy Children and Adults: A Systematic Review and Meta-Analysis of Randomised Controlled Tria bioRxiv",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xbThjT1Rma0pVMV96aUpBVVBfcHplcnVFS1BoUEs0OUxLUVF5enBVUjc2bzVxaDZNZkdic2FjUGFkVnhwX1FhY2Y3NkswN3gtV0gzb3EwaXp1ZUZhTGpTYmtPbDJWSnhoei1oaA?oc=5",
+      "source": "bioRxiv vaccines",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-09-24T07:00:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [
+        "safety"
+      ],
+      "vaccines": [
+        "cholera"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "bioRxiv"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "bioRxiv"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "bioRxiv vaccines"
+      ]
+    },
+    {
+      "id": "38d7cb595bf5003c",
+      "title": "Surrey and Sussex Cancer Alliance launches HPV vaccine campaign - BBC",
+      "summary": "Surrey and Sussex Cancer Alliance launches HPV vaccine campaign BBC",
+      "summary_ai": "Surrey and Sussex Cancer Alliance launches HPV vaccine campaign BBC",
+      "title_original": "Surrey and Sussex Cancer Alliance launches HPV vaccine campaign - BBC",
+      "summary_original": "Surrey and Sussex Cancer Alliance launches HPV vaccine campaign BBC",
+      "summary_ai_original": "Surrey and Sussex Cancer Alliance launches HPV vaccine campaign BBC",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jdGZjcWp4QmdZcG5lbEFWRlNxTktJd0hXZ0M0SUkySUc3VmdnNm9lSGV2elRuY3Y5clhtdmtyWXdwYzFkZ3dKSXdWS0VqT2FmejhXZXNGZDVYeTA?oc=5",
+      "source": "BBC Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-09-24T07:00:00+00:00",
+      "topics": [
+        "communication"
+      ],
+      "policy_tags": [
+        "outbreak_response"
+      ],
+      "vaccines": [
+        "hpv"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BBC"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BBC"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "BBC Vaccines / Immunization"
+      ]
+    },
+    {
+      "id": "5e66d566004dfcff",
+      "title": "Gender-Neutral Human Papillomavirus (HPV) Vaccination in Men: A Mixed-Methods Data Synthesis Leveraging Empirical Prevalence and Cost-Effectiveness Evidence - SSRN eLibrary",
+      "summary": "Gender-Neutral Human Papillomavirus (HPV) Vaccination in Men: A Mixed-Methods Data Synthesis Leveraging Empirical Prevalence and Cost-Effectiveness Evidence SSRN eLibrary",
+      "summary_ai": "Gender-Neutral Human Papillomavirus (HPV) Vaccination in Men: A Mixed-Methods Data Synthesis Leveraging Empirical Prevalence and Cost-Effectiveness Evidence SSRN eLibrary",
+      "title_original": "Gender-Neutral Human Papillomavirus (HPV) Vaccination in Men: A Mixed-Methods Data Synthesis Leveraging Empirical Prevalence and Cost-Effectiveness Evidence - SSRN eLibrary",
+      "summary_original": "Gender-Neutral Human Papillomavirus (HPV) Vaccination in Men: A Mixed-Methods Data Synthesis Leveraging Empirical Prevalence and Cost-Effectiveness Evidence SSRN eLibrary",
+      "summary_ai_original": "Gender-Neutral Human Papillomavirus (HPV) Vaccination in Men: A Mixed-Methods Data Synthesis Leveraging Empirical Prevalence and Cost-Effectiveness Evidence SSRN eLibrary",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04NlVaMXg5SzJvc25DM05qQTlfenRUeFlyNzUwZ2h6Z2dva0Q0NzZwaUtKemNZck5LZkFtVnhTdGcwTjJfUWx3ZU5uczVydFdFbGg3NlNQME5mdFpKQXpzdUl4SWI4dkF3Qk1R?oc=5",
+      "source": "SSRN vaccine preprints",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 6,
+      "published_at": "2026-09-24T07:00:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "SSRN"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "SSRN"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "SSRN vaccine preprints"
+      ]
+    },
+    {
+      "id": "f6527e96f95dc2a6",
+      "title": "Booster dose of COVID-19 vaccine and its effectiveness against post COVID-19 condition in individuals with pre-existing immunity: a sequential propensity score-matched cohort study",
+      "summary": "Booster dose of COVID-19 vaccine and its effectiveness against post COVID-19 condition in individuals with pre-existing immunity: a sequential propensity score-matched cohort study",
+      "summary_ai": "Booster dose of COVID-19 vaccine and its effectiveness against post COVID-19 condition in individuals with pre-existing immunity: a sequential propensity score-matched cohort study",
+      "title_original": "Booster dose of COVID-19 vaccine and its effectiveness against post COVID-19 condition in individuals with pre-existing immunity: a sequential propensity score-matched cohort study",
+      "summary_original": "Booster dose of COVID-19 vaccine and its effectiveness against post COVID-19 condition in individuals with pre-existing immunity: a sequential propensity score-matched cohort study",
+      "summary_ai_original": "Booster dose of COVID-19 vaccine and its effectiveness against post COVID-19 condition in individuals with pre-existing immunity: a sequential propensity score-matched cohort study",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTy1iZ2M1Vm8yNk8xSXJnaDhLMEphT041alJUaVpZQTBUUDRmcGZIWmdqY0ZKd0FDLTVhN3FHMjAzSDVnamxoQkx2cGFlSE5NMkZUZ3Nobmg1QVZwbUhCOExXeHdDd2lPTWVZTEFyQkhFX2pGUU1nUkdmZ1Exd0dYS2VJQVR4LWR1VFNz?oc=5",
+      "source": "The Lancet series",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-09-23T22:40:19+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "covid"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "The Lancet / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "The Lancet / London"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 2,
+      "duplicate_sources": [
+        "The Lancet series",
+        "eClinicalMedicine vaccines"
       ]
     }
   ]
