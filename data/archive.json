@@ -1,10 +1,79 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-10-14T23:53:07.023910+00:00",
-  "archive_count": 560,
+  "generated_at": "2026-10-15T23:39:13.579725+00:00",
+  "archive_count": 562,
   "days_back": 14,
   "items": [
+    {
+      "id": "a1b942e7cf27445d",
+      "title": "A vaccine injury initiative, a contested hepatitis B trial, and edited CDC COVID-19 Vaccine Guidance: The State of U.S. Vaccine - CIDRAP",
+      "summary": "A vaccine injury initiative, a contested hepatitis B trial, and edited CDC COVID-19 Vaccine Guidance: The State of U.S. Vaccine CIDRAP",
+      "summary_ai": "A vaccine injury initiative, a contested hepatitis B trial, and edited CDC COVID-19 Vaccine Guidance: The State of U.S.",
+      "title_original": "A vaccine injury initiative, a contested hepatitis B trial, and edited CDC COVID-19 Vaccine Guidance: The State of U.S. Vaccine - CIDRAP",
+      "summary_original": "A vaccine injury initiative, a contested hepatitis B trial, and edited CDC COVID-19 Vaccine Guidance: The State of U.S. Vaccine CIDRAP",
+      "summary_ai_original": "A vaccine injury initiative, a contested hepatitis B trial, and edited CDC COVID-19 Vaccine Guidance: The State of U.S.",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVHBPNDItdUJYNXU1SWptblRrZlpldmlzdEY3ZkhoWmVfamhUc19BTm5mWml6S0tkMXJHTV9WcmtuMlpkVUdrdHVZNUItZ3E5dnJJZjBJamRjX1RXejR2T0NfMC1hZFlEVmdXMEUxVWZFdmZpWGl3QUdPdFZrR0xtdmJTMnR5MW51dHpJNEtxMVN5RlVLQ2ZVbFRaOWcyT3dkRWRBRGpzSGlqOGdfYVNYYUVzNFpKRVo2cjgzTG1VdXFkVFlsMXFtM01raDM0dw?oc=5",
+      "source": "CIDRAP Vaccines & Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 8,
+      "published_at": "2026-10-15T21:48:41+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "covid"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "CIDRAP / Minnesota"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "CIDRAP / Minnesota"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "CIDRAP Vaccines & Immunization"
+      ],
+      "first_seen_at": "2026-10-15T21:48:41+00:00",
+      "last_seen_at": "2026-10-15T23:40:49.500269+00:00"
+    },
     {
       "id": "899e0249fba5b369",
       "title": "Trial data explains failure of invasive E coli vaccine - CIDRAP",
@@ -65,7 +134,7 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "duplicate_sources": [
         "CIDRAP Vaccines & Immunization"
       ],
@@ -141,7 +210,7 @@
         "FDA Vaccines / Biologics"
       ],
       "first_seen_at": "2026-09-18T18:28:55+00:00",
-      "last_seen_at": "2026-10-14T23:54:38.845631+00:00"
+      "last_seen_at": "2026-10-15T23:40:49.500288+00:00"
     },
     {
       "id": "238355ea29419806",
@@ -277,7 +346,7 @@
         "Guardian Vaccines / Immunization"
       ],
       "first_seen_at": "2026-10-14T12:21:00+00:00",
-      "last_seen_at": "2026-10-14T23:54:38.845637+00:00"
+      "last_seen_at": "2026-10-15T23:40:49.500294+00:00"
     },
     {
       "id": "af59d6734c5be99b",
@@ -344,7 +413,7 @@
         "Nature News Vaccines / Immunization"
       ],
       "first_seen_at": "2026-10-14T10:04:21+00:00",
-      "last_seen_at": "2026-10-14T23:54:38.845639+00:00"
+      "last_seen_at": "2026-10-15T23:40:49.500299+00:00"
     },
     {
       "id": "b2a42210bedf6e93",
@@ -415,7 +484,7 @@
         "Reuters Vaccines / Immunization"
       ],
       "first_seen_at": "2026-10-13T18:07:01+00:00",
-      "last_seen_at": "2026-10-14T23:54:38.845645+00:00"
+      "last_seen_at": "2026-10-15T23:40:49.500303+00:00"
     },
     {
       "id": "995139d6753d84f9",
@@ -485,7 +554,7 @@
         "PLOS journals vaccines"
       ],
       "first_seen_at": "2026-10-13T17:55:54+00:00",
-      "last_seen_at": "2026-10-14T23:54:38.845650+00:00"
+      "last_seen_at": "2026-10-15T23:40:49.500307+00:00"
     },
     {
       "id": "e62c9799095a9c97",
@@ -554,7 +623,78 @@
         "Open Forum Infectious Diseases"
       ],
       "first_seen_at": "2026-10-13T15:19:24+00:00",
-      "last_seen_at": "2026-10-14T23:54:38.845654+00:00"
+      "last_seen_at": "2026-10-15T23:40:49.500313+00:00"
+    },
+    {
+      "id": "4fcd84493a3793e5",
+      "title": "Safety and immunogenicity of a BPL-inactivated, whole-virus, universal influenza vaccine: a randomized, double-blinded, double-dummy, placebo-controlled, phase 1 clinical trial",
+      "summary": "Safety and immunogenicity of a BPL-inactivated, whole-virus, universal influenza vaccine: a randomized, double-blinded, double-dummy, placebo-controlled, phase 1 clinical trial",
+      "summary_ai": "Safety and immunogenicity of a BPL-inactivated, whole-virus, universal influenza vaccine: a randomized, double-blinded, double-dummy, placebo-controlled, phase 1 clinical trial",
+      "title_original": "Safety and immunogenicity of a BPL-inactivated, whole-virus, universal influenza vaccine: a randomized, double-blinded, double-dummy, placebo-controlled, phase 1 clinical trial",
+      "summary_original": "Safety and immunogenicity of a BPL-inactivated, whole-virus, universal influenza vaccine: a randomized, double-blinded, double-dummy, placebo-controlled, phase 1 clinical trial",
+      "summary_ai_original": "Safety and immunogenicity of a BPL-inactivated, whole-virus, universal influenza vaccine: a randomized, double-blinded, double-dummy, placebo-controlled, phase 1 clinical trial",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1wZzViR2w5SEFXUmw0MUZMd2lrM1VBTkZUdnoxNDdHOWtPSWJ5N3NWekx2LVQxOVlsT3JUSXMzcmpxY2c4UE9BX1dES203aTExVHJZYl9mTmhXdmFtdnh3?oc=5",
+      "source": "Nature News Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 5,
+      "published_at": "2026-10-12T11:57:39+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [
+        "safety"
+      ],
+      "vaccines": [
+        "influenza"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Nature News"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Nature News"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Nature News Vaccines / Immunization"
+      ],
+      "first_seen_at": "2026-10-12T11:57:39+00:00",
+      "last_seen_at": "2026-10-15T23:40:49.500315+00:00"
     },
     {
       "id": "b5de38b10380c375",
@@ -621,7 +761,7 @@
         "Open Forum Infectious Diseases"
       ],
       "first_seen_at": "2026-10-10T18:14:53+00:00",
-      "last_seen_at": "2026-10-14T23:54:38.845660+00:00"
+      "last_seen_at": "2026-10-15T23:40:49.500319+00:00"
     },
     {
       "id": "f6ab882a2b5e67fb",
@@ -688,7 +828,7 @@
         "Guardian Vaccines / Immunization"
       ],
       "first_seen_at": "2026-10-09T21:36:00+00:00",
-      "last_seen_at": "2026-10-14T23:54:38.845664+00:00"
+      "last_seen_at": "2026-10-15T23:40:49.500323+00:00"
     },
     {
       "id": "73801dd77d7bc6b0",
@@ -760,7 +900,7 @@
         "PAHO News"
       ],
       "first_seen_at": "2026-10-09T20:13:07+00:00",
-      "last_seen_at": "2026-10-14T23:54:38.845669+00:00"
+      "last_seen_at": "2026-10-15T23:40:49.500327+00:00"
     },
     {
       "id": "dcef575e53a58d5e",
@@ -832,7 +972,7 @@
         "CIDRAP Vaccines & Immunization"
       ],
       "first_seen_at": "2026-10-08T21:00:15+00:00",
-      "last_seen_at": "2026-10-14T23:54:38.845673+00:00"
+      "last_seen_at": "2026-10-15T23:40:49.500332+00:00"
     },
     {
       "id": "675f611153ad3d8a",
@@ -902,7 +1042,7 @@
         "CIDRAP Vaccines & Immunization"
       ],
       "first_seen_at": "2026-10-08T20:21:00+00:00",
-      "last_seen_at": "2026-10-14T23:54:38.845678+00:00"
+      "last_seen_at": "2026-10-15T23:40:49.500336+00:00"
     },
     {
       "id": "29f58dcb92f0a2a0",
@@ -1114,7 +1254,7 @@
         "eClinicalMedicine vaccines"
       ],
       "first_seen_at": "2026-10-08T00:26:15+00:00",
-      "last_seen_at": "2026-10-14T23:54:38.845683+00:00"
+      "last_seen_at": "2026-10-15T23:40:49.500341+00:00"
     },
     {
       "id": "980c4052bb6c7f0b",
@@ -1251,78 +1391,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-10-07T23:27:49+00:00",
-      "last_seen_at": "2026-10-12T00:30:20.906020+00:00"
-    },
-    {
-      "id": "e8bb29a9f268e071",
-      "title": "Bangladesh considers dengue vaccine trials as outbreak worsens - Reuters",
-      "summary": "Bangladesh considers dengue vaccine trials as outbreak worsens Reuters",
-      "summary_ai": "Bangladesh considers dengue vaccine trials as outbreak worsens Reuters",
-      "title_original": "Bangladesh considers dengue vaccine trials as outbreak worsens - Reuters",
-      "summary_original": "Bangladesh considers dengue vaccine trials as outbreak worsens Reuters",
-      "summary_ai_original": "Bangladesh considers dengue vaccine trials as outbreak worsens Reuters",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMzJOZlE0R1YwbmJBSHp1eHVZWHNGdGN5QzdPX3p3OGxIdF9KOHpBSGoyand5V1hfVUFUdHItRDBKcDI2MldpWGM3WG9zcTVIT2dvS1hJSUg2QmJ4SU5zc2dZX0JmbFdIZnlNUGoxeTVHSzMtWjVRanZ0SUFJdnZmeTZpLXFuV3p4TGhHb1M5WHR5eE9Lb0FwRjhDczVvSG94bzBia19VTV9yWWxKaGZBbXNySFc0ZVdRTVFpZTlrZHRsZW4ta1hmWGI2cw?oc=5",
-      "source": "Reuters Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-10-06T12:20:09+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [
-        "outbreak_response"
-      ],
-      "vaccines": [
-        "dengue"
-      ],
-      "variants": [],
-      "target_country": "バングラデシュ",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "Reuters"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "Reuters"
-        },
-        "target": {
-          "key": "bangladesh",
-          "name_ja": "バングラデシュ",
-          "lat": 23.8103,
-          "lng": 90.4125,
-          "region": "Asia",
-          "label": "バングラデシュ"
-        }
-      },
-      "location": {
-        "key": "bangladesh",
-        "name_ja": "バングラデシュ",
-        "lat": 23.8103,
-        "lng": 90.4125,
-        "region": "Asia",
-        "label": "バングラデシュ"
-      },
-      "region": "Asia",
-      "country": "バングラデシュ",
-      "lat": 23.8103,
-      "lng": 90.4125,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Reuters Vaccines / Immunization"
-      ],
-      "first_seen_at": "2026-10-06T12:20:09+00:00",
-      "last_seen_at": "2026-10-14T23:54:38.845688+00:00"
+      "last_seen_at": "2026-10-15T23:40:49.500346+00:00"
     },
     {
       "id": "4dbe5c876ac1d9ad",
@@ -1389,7 +1458,78 @@
         "JAMA Internal Medicine vaccines"
       ],
       "first_seen_at": "2026-10-06T10:09:23+00:00",
-      "last_seen_at": "2026-10-14T23:54:38.845691+00:00"
+      "last_seen_at": "2026-10-15T23:40:49.500350+00:00"
+    },
+    {
+      "id": "e8bb29a9f268e071",
+      "title": "Bangladesh considers dengue vaccine trials as outbreak worsens - Reuters",
+      "summary": "Bangladesh considers dengue vaccine trials as outbreak worsens Reuters",
+      "summary_ai": "Bangladesh considers dengue vaccine trials as outbreak worsens Reuters",
+      "title_original": "Bangladesh considers dengue vaccine trials as outbreak worsens - Reuters",
+      "summary_original": "Bangladesh considers dengue vaccine trials as outbreak worsens Reuters",
+      "summary_ai_original": "Bangladesh considers dengue vaccine trials as outbreak worsens Reuters",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMzJOZlE0R1YwbmJBSHp1eHVZWHNGdGN5QzdPX3p3OGxIdF9KOHpBSGoyand5V1hfVUFUdHItRDBKcDI2MldpWGM3WG9zcTVIT2dvS1hJSUg2QmJ4SU5zc2dZX0JmbFdIZnlNUGoxeTVHSzMtWjVRanZ0SUFJdnZmeTZpLXFuV3p4TGhHb1M5WHR5eE9Lb0FwRjhDczVvSG94bzBia19VTV9yWWxKaGZBbXNySFc0ZVdRTVFpZTlrZHRsZW4ta1hmWGI2cw?oc=5",
+      "source": "Reuters Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-10-06T07:00:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [
+        "outbreak_response"
+      ],
+      "vaccines": [
+        "dengue"
+      ],
+      "variants": [],
+      "target_country": "バングラデシュ",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Reuters"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Reuters"
+        },
+        "target": {
+          "key": "bangladesh",
+          "name_ja": "バングラデシュ",
+          "lat": 23.8103,
+          "lng": 90.4125,
+          "region": "Asia",
+          "label": "バングラデシュ"
+        }
+      },
+      "location": {
+        "key": "bangladesh",
+        "name_ja": "バングラデシュ",
+        "lat": 23.8103,
+        "lng": 90.4125,
+        "region": "Asia",
+        "label": "バングラデシュ"
+      },
+      "region": "Asia",
+      "country": "バングラデシュ",
+      "lat": 23.8103,
+      "lng": 90.4125,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Reuters Vaccines / Immunization"
+      ],
+      "first_seen_at": "2026-10-06T12:20:09+00:00",
+      "last_seen_at": "2026-10-15T23:40:49.500357+00:00"
     },
     {
       "id": "a82c57e91ee17b5d",
@@ -1456,7 +1596,7 @@
         "The Lancet series"
       ],
       "first_seen_at": "2026-10-06T07:00:00+00:00",
-      "last_seen_at": "2026-10-14T23:54:38.845695+00:00"
+      "last_seen_at": "2026-10-15T23:40:49.500354+00:00"
     },
     {
       "id": "23adcb9ca002cea7",
@@ -1523,7 +1663,7 @@
         "SSRN vaccine preprints"
       ],
       "first_seen_at": "2026-10-06T07:00:00+00:00",
-      "last_seen_at": "2026-10-14T23:54:38.845700+00:00"
+      "last_seen_at": "2026-10-15T23:40:49.500360+00:00"
     },
     {
       "id": "45127855045331e9",
@@ -1733,7 +1873,7 @@
         "Reuters Vaccines / Immunization"
       ],
       "first_seen_at": "2026-10-05T13:44:27+00:00",
-      "last_seen_at": "2026-10-14T23:54:38.845704+00:00"
+      "last_seen_at": "2026-10-15T23:40:49.500365+00:00"
     },
     {
       "id": "76f22133f854fe34",
@@ -1867,7 +2007,7 @@
         "BBC Vaccines / Immunization"
       ],
       "first_seen_at": "2026-10-05T05:12:03+00:00",
-      "last_seen_at": "2026-10-14T23:54:38.845709+00:00"
+      "last_seen_at": "2026-10-15T23:40:49.500368+00:00"
     },
     {
       "id": "3dfc60fefc7e2a3e",
@@ -1936,7 +2076,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-10-05T01:49:45+00:00",
-      "last_seen_at": "2026-10-14T23:54:38.845717+00:00"
+      "last_seen_at": "2026-10-15T23:40:49.500371+00:00"
     },
     {
       "id": "dc2b6ed633042618",
@@ -2019,7 +2159,7 @@
       "source_type": "media",
       "source_tier": "Tier 2",
       "source_priority": 5,
-      "published_at": "2026-10-04T00:35:28+00:00",
+      "published_at": "2026-10-04T07:00:00+00:00",
       "topics": [
         "research"
       ],
@@ -2070,7 +2210,7 @@
         "Nature News Vaccines / Immunization"
       ],
       "first_seen_at": "2026-10-04T00:35:28+00:00",
-      "last_seen_at": "2026-10-14T23:54:38.845721+00:00"
+      "last_seen_at": "2026-10-15T23:40:49.500375+00:00"
     },
     {
       "id": "ca12b0c6d24b99a8",
@@ -2144,7 +2284,7 @@
         "PAHO News"
       ],
       "first_seen_at": "2026-10-02T15:25:46+00:00",
-      "last_seen_at": "2026-10-14T23:54:38.845725+00:00"
+      "last_seen_at": "2026-10-15T23:40:49.500379+00:00"
     },
     {
       "id": "f27ddc2aed5c1efb",
@@ -2215,7 +2355,7 @@
         "Lancet Infectious Diseases"
       ],
       "first_seen_at": "2026-10-02T03:44:02+00:00",
-      "last_seen_at": "2026-10-14T23:54:38.845730+00:00"
+      "last_seen_at": "2026-10-15T23:40:49.500383+00:00"
     },
     {
       "id": "a14cd3a56ca7a8e2",
