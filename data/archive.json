@@ -1,10 +1,80 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-10-15T23:39:13.579725+00:00",
-  "archive_count": 562,
+  "generated_at": "2026-10-16T23:30:46.612602+00:00",
+  "archive_count": 563,
   "days_back": 14,
   "items": [
+    {
+      "id": "00a4d5c5993be901",
+      "title": "Leveraging Electronic Health Records Data for Real-World Vaccine Effectiveness Assessments: A Scoping Review and Recommendations - Science Partner Journals",
+      "summary": "Leveraging Electronic Health Records Data for Real-World Vaccine Effectiveness Assessments: A Scoping Review and Recommendations Science Partner Journals",
+      "summary_ai": "Leveraging Electronic Health Records Data for Real-World Vaccine Effectiveness Assessments: A Scoping Review and Recommendations Science Partner Journals",
+      "title_original": "Leveraging Electronic Health Records Data for Real-World Vaccine Effectiveness Assessments: A Scoping Review and Recommendations - Science Partner Journals",
+      "summary_original": "Leveraging Electronic Health Records Data for Real-World Vaccine Effectiveness Assessments: A Scoping Review and Recommendations Science Partner Journals",
+      "summary_ai_original": "Leveraging Electronic Health Records Data for Real-World Vaccine Effectiveness Assessments: A Scoping Review and Recommendations Science Partner Journals",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GRGhpOEg3dlZkTW8tcVB3c1VTY1FyZDJXVE1iLTlhN2pkZVF4UW0tOG9veE5CcjVFYy1SMWo4c0tkcW95TFlReTkwREV4dk5zX3M1d09zbndFYlJiNXc?oc=5",
+      "source": "Science vaccines",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 9,
+      "published_at": "2026-10-16T00:01:34+00:00",
+      "topics": [
+        "policy",
+        "research"
+      ],
+      "policy_tags": [
+        "recommendation"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "Science"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "Science"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Science vaccines"
+      ],
+      "first_seen_at": "2026-10-16T00:01:34+00:00",
+      "last_seen_at": "2026-10-16T23:33:07.376285+00:00"
+    },
     {
       "id": "a1b942e7cf27445d",
       "title": "A vaccine injury initiative, a contested hepatitis B trial, and edited CDC COVID-19 Vaccine Guidance: The State of U.S. Vaccine - CIDRAP",
@@ -72,7 +142,7 @@
         "CIDRAP Vaccines & Immunization"
       ],
       "first_seen_at": "2026-10-15T21:48:41+00:00",
-      "last_seen_at": "2026-10-15T23:40:49.500269+00:00"
+      "last_seen_at": "2026-10-16T23:33:07.376304+00:00"
     },
     {
       "id": "899e0249fba5b369",
@@ -210,7 +280,7 @@
         "FDA Vaccines / Biologics"
       ],
       "first_seen_at": "2026-09-18T18:28:55+00:00",
-      "last_seen_at": "2026-10-15T23:40:49.500288+00:00"
+      "last_seen_at": "2026-10-16T23:33:07.376314+00:00"
     },
     {
       "id": "238355ea29419806",
@@ -346,7 +416,7 @@
         "Guardian Vaccines / Immunization"
       ],
       "first_seen_at": "2026-10-14T12:21:00+00:00",
-      "last_seen_at": "2026-10-15T23:40:49.500294+00:00"
+      "last_seen_at": "2026-10-16T23:33:07.376320+00:00"
     },
     {
       "id": "af59d6734c5be99b",
@@ -413,7 +483,7 @@
         "Nature News Vaccines / Immunization"
       ],
       "first_seen_at": "2026-10-14T10:04:21+00:00",
-      "last_seen_at": "2026-10-15T23:40:49.500299+00:00"
+      "last_seen_at": "2026-10-16T23:33:07.376325+00:00"
     },
     {
       "id": "b2a42210bedf6e93",
@@ -484,7 +554,7 @@
         "Reuters Vaccines / Immunization"
       ],
       "first_seen_at": "2026-10-13T18:07:01+00:00",
-      "last_seen_at": "2026-10-15T23:40:49.500303+00:00"
+      "last_seen_at": "2026-10-16T23:33:07.376329+00:00"
     },
     {
       "id": "995139d6753d84f9",
@@ -554,7 +624,7 @@
         "PLOS journals vaccines"
       ],
       "first_seen_at": "2026-10-13T17:55:54+00:00",
-      "last_seen_at": "2026-10-15T23:40:49.500307+00:00"
+      "last_seen_at": "2026-10-16T23:33:07.376335+00:00"
     },
     {
       "id": "e62c9799095a9c97",
@@ -694,7 +764,7 @@
         "Nature News Vaccines / Immunization"
       ],
       "first_seen_at": "2026-10-12T11:57:39+00:00",
-      "last_seen_at": "2026-10-15T23:40:49.500315+00:00"
+      "last_seen_at": "2026-10-16T23:33:07.376341+00:00"
     },
     {
       "id": "b5de38b10380c375",
@@ -761,7 +831,7 @@
         "Open Forum Infectious Diseases"
       ],
       "first_seen_at": "2026-10-10T18:14:53+00:00",
-      "last_seen_at": "2026-10-15T23:40:49.500319+00:00"
+      "last_seen_at": "2026-10-16T23:33:07.376345+00:00"
     },
     {
       "id": "f6ab882a2b5e67fb",
@@ -828,7 +898,7 @@
         "Guardian Vaccines / Immunization"
       ],
       "first_seen_at": "2026-10-09T21:36:00+00:00",
-      "last_seen_at": "2026-10-15T23:40:49.500323+00:00"
+      "last_seen_at": "2026-10-16T23:33:07.376349+00:00"
     },
     {
       "id": "73801dd77d7bc6b0",
@@ -900,79 +970,7 @@
         "PAHO News"
       ],
       "first_seen_at": "2026-10-09T20:13:07+00:00",
-      "last_seen_at": "2026-10-15T23:40:49.500327+00:00"
-    },
-    {
-      "id": "dcef575e53a58d5e",
-      "title": "Hepatitis B vaccine study condemned as unethical wins approval from Danish university - CIDRAP",
-      "summary": "Hepatitis B vaccine study condemned as unethical wins approval from Danish university CIDRAP",
-      "summary_ai": "Hepatitis B vaccine study condemned as unethical wins approval from Danish university CIDRAP",
-      "title_original": "Hepatitis B vaccine study condemned as unethical wins approval from Danish university - CIDRAP",
-      "summary_original": "Hepatitis B vaccine study condemned as unethical wins approval from Danish university CIDRAP",
-      "summary_ai_original": "Hepatitis B vaccine study condemned as unethical wins approval from Danish university CIDRAP",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZG1Wc2Jzc251Qm01LUVMYk9mckllN2hsWUpUOVAyNHN5aGJ6YnJDT3doRWVfeFlqLXlWc0VTcmpwbjJvdF9BQXVXNVNIR0JsX2dFQnlyUkk0NElodlFTTUlmZGdDWnFzdFJ3bWpQczcydG5uMktuekU2RUxGQWp6aHMtR3NuTWhOYUpjWTA2MkNjMFJLcGVlQjBieGJRMDA2eWg0TERDRk9pWU5Tck05QWFXYTI?oc=5",
-      "source": "CIDRAP Vaccines & Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 8,
-      "published_at": "2026-10-08T21:00:15+00:00",
-      "topics": [
-        "policy",
-        "research"
-      ],
-      "policy_tags": [
-        "approval"
-      ],
-      "vaccines": [
-        "hepatitis"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "CIDRAP / Minnesota"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "CIDRAP / Minnesota"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "CIDRAP Vaccines & Immunization"
-      ],
-      "first_seen_at": "2026-10-08T21:00:15+00:00",
-      "last_seen_at": "2026-10-15T23:40:49.500332+00:00"
+      "last_seen_at": "2026-10-16T23:33:07.376353+00:00"
     },
     {
       "id": "675f611153ad3d8a",
@@ -1042,7 +1040,7 @@
         "CIDRAP Vaccines & Immunization"
       ],
       "first_seen_at": "2026-10-08T20:21:00+00:00",
-      "last_seen_at": "2026-10-15T23:40:49.500336+00:00"
+      "last_seen_at": "2026-10-16T23:33:07.376357+00:00"
     },
     {
       "id": "29f58dcb92f0a2a0",
@@ -1115,6 +1113,78 @@
       ],
       "first_seen_at": "2026-10-08T13:47:55+00:00",
       "last_seen_at": "2026-10-14T00:16:47.128672+00:00"
+    },
+    {
+      "id": "dcef575e53a58d5e",
+      "title": "Hepatitis B vaccine study condemned as unethical wins approval from Danish university - CIDRAP",
+      "summary": "Hepatitis B vaccine study condemned as unethical wins approval from Danish university CIDRAP",
+      "summary_ai": "Hepatitis B vaccine study condemned as unethical wins approval from Danish university CIDRAP",
+      "title_original": "Hepatitis B vaccine study condemned as unethical wins approval from Danish university - CIDRAP",
+      "summary_original": "Hepatitis B vaccine study condemned as unethical wins approval from Danish university CIDRAP",
+      "summary_ai_original": "Hepatitis B vaccine study condemned as unethical wins approval from Danish university CIDRAP",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZG1Wc2Jzc251Qm01LUVMYk9mckllN2hsWUpUOVAyNHN5aGJ6YnJDT3doRWVfeFlqLXlWc0VTcmpwbjJvdF9BQXVXNVNIR0JsX2dFQnlyUkk0NElodlFTTUlmZGdDWnFzdFJ3bWpQczcydG5uMktuekU2RUxGQWp6aHMtR3NuTWhOYUpjWTA2MkNjMFJLcGVlQjBieGJRMDA2eWg0TERDRk9pWU5Tck05QWFXYTI?oc=5",
+      "source": "CIDRAP Vaccines & Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 8,
+      "published_at": "2026-10-08T07:00:00+00:00",
+      "topics": [
+        "policy",
+        "research"
+      ],
+      "policy_tags": [
+        "approval"
+      ],
+      "vaccines": [
+        "hepatitis"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "CIDRAP / Minnesota"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "CIDRAP / Minnesota"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "CIDRAP Vaccines & Immunization"
+      ],
+      "first_seen_at": "2026-10-08T21:00:15+00:00",
+      "last_seen_at": "2026-10-16T23:33:07.376361+00:00"
     },
     {
       "id": "b5636d89f5af87d3",
@@ -1254,7 +1324,7 @@
         "eClinicalMedicine vaccines"
       ],
       "first_seen_at": "2026-10-08T00:26:15+00:00",
-      "last_seen_at": "2026-10-15T23:40:49.500341+00:00"
+      "last_seen_at": "2026-10-16T23:33:07.376366+00:00"
     },
     {
       "id": "980c4052bb6c7f0b",
@@ -1340,7 +1410,7 @@
       "source_type": "academic",
       "source_tier": "Tier 3",
       "source_priority": 8,
-      "published_at": "2026-10-07T23:27:49+00:00",
+      "published_at": "2026-10-07T07:00:00+00:00",
       "topics": [
         "research"
       ],
@@ -1391,7 +1461,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-10-07T23:27:49+00:00",
-      "last_seen_at": "2026-10-15T23:40:49.500346+00:00"
+      "last_seen_at": "2026-10-16T23:33:07.376370+00:00"
     },
     {
       "id": "4dbe5c876ac1d9ad",
@@ -1458,7 +1528,7 @@
         "JAMA Internal Medicine vaccines"
       ],
       "first_seen_at": "2026-10-06T10:09:23+00:00",
-      "last_seen_at": "2026-10-15T23:40:49.500350+00:00"
+      "last_seen_at": "2026-10-16T23:33:07.376374+00:00"
     },
     {
       "id": "e8bb29a9f268e071",
@@ -1529,7 +1599,7 @@
         "Reuters Vaccines / Immunization"
       ],
       "first_seen_at": "2026-10-06T12:20:09+00:00",
-      "last_seen_at": "2026-10-15T23:40:49.500357+00:00"
+      "last_seen_at": "2026-10-16T23:33:07.376382+00:00"
     },
     {
       "id": "a82c57e91ee17b5d",
@@ -1596,7 +1666,7 @@
         "The Lancet series"
       ],
       "first_seen_at": "2026-10-06T07:00:00+00:00",
-      "last_seen_at": "2026-10-15T23:40:49.500354+00:00"
+      "last_seen_at": "2026-10-16T23:33:07.376378+00:00"
     },
     {
       "id": "23adcb9ca002cea7",
@@ -1873,7 +1943,7 @@
         "Reuters Vaccines / Immunization"
       ],
       "first_seen_at": "2026-10-05T13:44:27+00:00",
-      "last_seen_at": "2026-10-15T23:40:49.500365+00:00"
+      "last_seen_at": "2026-10-16T23:33:07.376386+00:00"
     },
     {
       "id": "76f22133f854fe34",
@@ -1940,7 +2010,7 @@
         "STAT Vaccines / Immunization"
       ],
       "first_seen_at": "2026-10-06T10:01:36+00:00",
-      "last_seen_at": "2026-10-14T23:54:38.845713+00:00"
+      "last_seen_at": "2026-10-16T23:33:07.376394+00:00"
     },
     {
       "id": "bddc12c7de03a8fd",
@@ -2007,7 +2077,7 @@
         "BBC Vaccines / Immunization"
       ],
       "first_seen_at": "2026-10-05T05:12:03+00:00",
-      "last_seen_at": "2026-10-15T23:40:49.500368+00:00"
+      "last_seen_at": "2026-10-16T23:33:07.376390+00:00"
     },
     {
       "id": "3dfc60fefc7e2a3e",
@@ -2076,7 +2146,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-10-05T01:49:45+00:00",
-      "last_seen_at": "2026-10-15T23:40:49.500371+00:00"
+      "last_seen_at": "2026-10-16T23:33:07.376398+00:00"
     },
     {
       "id": "dc2b6ed633042618",
@@ -2210,7 +2280,7 @@
         "Nature News Vaccines / Immunization"
       ],
       "first_seen_at": "2026-10-04T00:35:28+00:00",
-      "last_seen_at": "2026-10-15T23:40:49.500375+00:00"
+      "last_seen_at": "2026-10-16T23:33:07.376402+00:00"
     },
     {
       "id": "ca12b0c6d24b99a8",
