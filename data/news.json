@@ -1,9 +1,9 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-10-16T23:30:46.612602+00:00",
-  "item_count": 24,
-  "archive_count": 563,
+  "generated_at": "2026-10-17T23:03:31.041716+00:00",
+  "item_count": 27,
+  "archive_count": 567,
   "days_back": 14,
   "plot_mode_default": "source",
   "feed_status": [
@@ -23,7 +23,7 @@
       "name": "CDC Newsroom",
       "url": "https://tools.cdc.gov/api/v2/resources/media/316422.rss",
       "status": "ok",
-      "seen": 8,
+      "seen": 10,
       "kept": 0
     },
     {
@@ -74,8 +74,9 @@
     {
       "name": "Africa CDC News",
       "url": "https://africacdc.org/feed/",
-      "status": "error",
-      "error": "HTTPSConnectionPool(host='africacdc.org', port=443): Read timed out. (read timeout=30)"
+      "status": "ok",
+      "seen": 0,
+      "kept": 0
     },
     {
       "name": "PAHO News",
@@ -102,15 +103,15 @@
       "name": "NEJM",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Anejm.org%20(trial%20OR%20effectiveness%20OR%20policy%20OR%20safety)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
-      "kept": 0
+      "seen": 1,
+      "kept": 1
     },
     {
       "name": "BMJ",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abmj.com%20(policy%20OR%20trial%20OR%20effectiveness%20OR%20communication)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 3,
-      "kept": 2
+      "seen": 2,
+      "kept": 1
     },
     {
       "name": "Vaccine journal",
@@ -130,7 +131,7 @@
       "name": "Nature Medicine vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fnm%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20uptake%20OR%20policy)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -228,35 +229,35 @@
       "name": "medRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Amedrxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 2,
       "kept": 0
     },
     {
       "name": "bioRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abiorxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 4,
       "kept": 0
     },
     {
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 24,
+      "seen": 22,
       "kept": 5
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 46,
+      "seen": 36,
       "kept": 3
     },
     {
       "name": "AP Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 4,
+      "seen": 3,
       "kept": 0
     },
     {
@@ -270,98 +271,98 @@
       "name": "Financial Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aft.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 2,
       "kept": 0
     },
     {
       "name": "STAT Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 18,
+      "seen": 16,
       "kept": 1
     },
     {
       "name": "Nature News Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 7,
-      "kept": 3
+      "seen": 12,
+      "kept": 4
     },
     {
       "name": "Science Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Ascience.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 9,
+      "seen": 7,
       "kept": 0
     },
     {
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 23,
+      "seen": 20,
       "kept": 0
     },
     {
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 34,
+      "seen": 28,
       "kept": 2
     },
     {
       "name": "Washington Post Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 12,
+      "seen": 9,
       "kept": 0
     },
     {
       "name": "NHK ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anhk.or.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 2,
+      "seen": 1,
       "kept": 0
     },
     {
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 13,
+      "seen": 12,
       "kept": 0
     },
     {
       "name": "朝日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Aasahi.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 5,
+      "seen": 12,
       "kept": 0
     },
     {
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 11,
+      "seen": 13,
       "kept": 0
     },
     {
       "name": "毎日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 13,
+      "seen": 17,
       "kept": 0
     },
     {
       "name": "JAMA Network vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 3,
       "kept": 0
     },
     {
       "name": "JAMA Pediatrics vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjamapediatrics&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
@@ -375,15 +376,15 @@
       "name": "Journal of Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fjid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 1,
       "kept": 0
     },
     {
       "name": "Open Forum Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fofid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
-      "kept": 1
+      "seen": 2,
+      "kept": 2
     },
     {
       "name": "Emerging Infectious Diseases",
@@ -403,7 +404,7 @@
       "name": "PLOS journals vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajournals.plos.org%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20uptake%20OR%20policy)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 2,
       "kept": 1
     },
     {
@@ -459,21 +460,226 @@
       "name": "SSRN vaccine preprints",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Apapers.ssrn.com%20(effectiveness%20OR%20safety%20OR%20policy%20OR%20trial)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
-      "kept": 0
+      "seen": 1,
+      "kept": 1
     }
   ],
   "weekly_ai_summary": {
-    "generated_at": "2026-10-16T23:30:46.612602+00:00",
+    "generated_at": "2026-10-17T23:03:31.041716+00:00",
     "period_days": 7,
-    "policy_count": 4,
-    "academic_count": 3,
+    "policy_count": 5,
+    "academic_count": 4,
     "status": "ok",
     "model": "gpt-4o-mini",
-    "policy_summary": "グアテマラは新生児に対するワクチン試験の承認を否定しました。これにより、肝炎Bワクチンに関する議論が続いています。",
-    "academic_summary": "電子健康記録データを活用したワクチン効果の実世界評価に関するスコーピングレビューが発表されました。また、チフス結合ワクチンのスケジュールの影響と費用対効果を評価する研究も行われています。"
+    "policy_summary": "アラスカの研究により、百日咳ワクチンが州全体のアウトブレイク時に非常に効果的であることが確認されました。また、ギニアビサウは新生児に対するワクチン試験の承認を否定しています。",
+    "academic_summary": "mRNA呼吸器合胞体ウイルスワクチンmRNA-1345の安全性と免疫原性が、健康な小児および高リスク小児において評価されました。さらに、COVID-19 mRNAワクチンBNT162b2の子供と青年における効果が報告されています。"
   },
   "items": [
+    {
+      "id": "a367f0e6ad8c2fb0",
+      "title": "Safety and Immunogenicity of an mRNA Respiratory Syncytial Virus Vaccine, mRNA-1345, in Healthy and High-Risk Pediatric Populations Aged 2 to 17 Years - Oxford Academic",
+      "summary": "Safety and Immunogenicity of an mRNA Respiratory Syncytial Virus Vaccine, mRNA-1345, in Healthy and High-Risk Pediatric Populations Aged 2 to 17 Years Oxford Academic",
+      "summary_ai": "Safety and Immunogenicity of an mRNA Respiratory Syncytial Virus Vaccine, mRNA-1345, in Healthy and High-Risk Pediatric Populations Aged 2 to 17 Years Oxford Academic",
+      "title_original": "Safety and Immunogenicity of an mRNA Respiratory Syncytial Virus Vaccine, mRNA-1345, in Healthy and High-Risk Pediatric Populations Aged 2 to 17 Years - Oxford Academic",
+      "summary_original": "Safety and Immunogenicity of an mRNA Respiratory Syncytial Virus Vaccine, mRNA-1345, in Healthy and High-Risk Pediatric Populations Aged 2 to 17 Years Oxford Academic",
+      "summary_ai_original": "Safety and Immunogenicity of an mRNA Respiratory Syncytial Virus Vaccine, mRNA-1345, in Healthy and High-Risk Pediatric Populations Aged 2 to 17 Years Oxford Academic",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc20xdUJrN2pFbG5NeE8yYjRLSVlWV0ZXWjk4WVVmYzlJUWV5Ym5NYk40Q3JQdTFpVnZsWFVMQ2Q4dHFvNEZxV3BfTlR5bnlCQjkwUzk3MUhKNHduWXlEazRlbF9FQVNNQVRlUDNhUUtKWWFvWUkxMDJ6YjFpOGxxdkNOLUQ?oc=5",
+      "source": "Open Forum Infectious Diseases",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-10-17T11:16:05+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [
+        "safety"
+      ],
+      "vaccines": [
+        "rsv"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "Open Forum Infectious Diseases"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "Open Forum Infectious Diseases"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Open Forum Infectious Diseases"
+      ]
+    },
+    {
+      "id": "cc0ae4e0a3aa28f7",
+      "title": "Effectiveness of the COVID-19 mRNA Vaccine, BNT162b2, in Children and Adolescents - NEJM Clinician",
+      "summary": "Effectiveness of the COVID-19 mRNA Vaccine, BNT162b2, in Children and Adolescents NEJM Clinician",
+      "summary_ai": "Effectiveness of the COVID-19 mRNA Vaccine, BNT162b2, in Children and Adolescents NEJM Clinician",
+      "title_original": "Effectiveness of the COVID-19 mRNA Vaccine, BNT162b2, in Children and Adolescents - NEJM Clinician",
+      "summary_original": "Effectiveness of the COVID-19 mRNA Vaccine, BNT162b2, in Children and Adolescents NEJM Clinician",
+      "summary_ai_original": "Effectiveness of the COVID-19 mRNA Vaccine, BNT162b2, in Children and Adolescents NEJM Clinician",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE52anp5ZUt6akJ4RFZ6b25BQ3NrS1hGOVhpQ1EyRGhGNDVKdVRzb21PVEh4eXhhQVRHVUFVWGdXS3Nlb1c3TGNSNVlSSGg2LVZCeGRiRw?oc=5",
+      "source": "NEJM",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-10-17T08:55:40+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "covid"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "NEJM / Boston"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "NEJM / Boston"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "NEJM"
+      ]
+    },
+    {
+      "id": "26014482b283ef6e",
+      "title": "Alaska study finds pertussis vaccine is extremely protective during statewide outbreak - CIDRAP",
+      "summary": "Alaska study finds pertussis vaccine is extremely protective during statewide outbreak CIDRAP",
+      "summary_ai": "Alaska study finds pertussis vaccine is extremely protective during statewide outbreak CIDRAP",
+      "title_original": "Alaska study finds pertussis vaccine is extremely protective during statewide outbreak - CIDRAP",
+      "summary_original": "Alaska study finds pertussis vaccine is extremely protective during statewide outbreak CIDRAP",
+      "summary_ai_original": "Alaska study finds pertussis vaccine is extremely protective during statewide outbreak CIDRAP",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQd2QtcHEtRjRtdms1dmctanUxSENIME9tdDVIVnEtc2gzQmVZRUh1Si12RzNiNjlFS29UVk82ZmNuNFozXzNBNXk5MFpINlRsRXBLeU9sRG9mZFlrR1IwXzhpVHFWOFRjbTZVRGZzRjNVQnBKa1NVT25ETnpFX1RYSjFkdW5DRDEyYVVRVmx5OXVnWGxoNU1nZEJkd2loRnFqSUg0cWZXVnZpY3Y3RDVBZXVzTWR2dEdLRzdZZTVrQi0yZw?oc=5",
+      "source": "CIDRAP Vaccines & Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 8,
+      "published_at": "2026-10-16T17:39:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [
+        "outbreak_response"
+      ],
+      "vaccines": [
+        "pertussis"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "CIDRAP / Minnesota"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "CIDRAP / Minnesota"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "CIDRAP Vaccines & Immunization"
+      ]
+    },
     {
       "id": "00a4d5c5993be901",
       "title": "Leveraging Electronic Health Records Data for Real-World Vaccine Effectiveness Assessments: A Scoping Review and Recommendations - Science Partner Journals",
@@ -605,71 +811,6 @@
       "lat": 20.0,
       "lng": 0.0,
       "duplicate_count": 2,
-      "duplicate_sources": [
-        "CIDRAP Vaccines & Immunization"
-      ]
-    },
-    {
-      "id": "c9ffaac04797034a",
-      "title": "Trial data explain failure of invasive E coli vaccine - CIDRAP",
-      "summary": "Trial data explain failure of invasive E coli vaccine CIDRAP",
-      "summary_ai": "Trial data explain failure of invasive E coli vaccine CIDRAP",
-      "title_original": "Trial data explain failure of invasive E coli vaccine - CIDRAP",
-      "summary_original": "Trial data explain failure of invasive E coli vaccine CIDRAP",
-      "summary_ai_original": "Trial data explain failure of invasive E coli vaccine CIDRAP",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSk96NFNGYXkycDRuZ3l6TGZVMkdvUTNXenBvQWpOamRMYXFDOXY2YmhuQkZqSlBRVmljMThqMmQza2tQLTgyWWxkdGZGZE9ET29oak14Q0hZUUxYY1JJbFZxUjJmdk50T2YtQjBoMGM2dmc0NC1ERHdXWXRlTmRYOXBXeUZQSDBQY3ZQSGEyXzhaY0FaOTN0bW4xZWI3NlAzWlE?oc=5",
-      "source": "CIDRAP Vaccines & Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 8,
-      "published_at": "2026-10-14T15:55:40+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "CIDRAP / Minnesota"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "CIDRAP / Minnesota"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
       "duplicate_sources": [
         "CIDRAP Vaccines & Immunization"
       ]
@@ -1147,71 +1288,6 @@
       ]
     },
     {
-      "id": "f6ab882a2b5e67fb",
-      "title": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau - The Guardian",
-      "summary": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau The Guardian",
-      "summary_ai": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau The Guardian",
-      "title_original": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau - The Guardian",
-      "summary_original": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau The Guardian",
-      "summary_ai_original": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau The Guardian",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcUhibHRCZ05LR2ZkRkZQUlFKUy1iTW5rU0wtQmZyQjlzNEFRclpSYThieWdJZGZXTnk1MFdtaWc5SnlXRnk1N1JkenlNZ0dKNVRaNDAxYUJpVmdwNWU0WV9NMmU0ZDlwdS13M1BQOENVbG53djhJYzZ4b2R0dHJ5STZwRUxEV3lCOHc?oc=5",
-      "source": "Guardian Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-10-09T21:36:00+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "The Guardian"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "The Guardian"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Guardian Vaccines / Immunization"
-      ]
-    },
-    {
       "id": "73801dd77d7bc6b0",
       "title": "PAHO assesses risk of measles spread as very high ahead of religious mass gatherings in the Americas",
       "summary": "PAHO assesses risk of measles spread as very high ahead of religious mass gatherings in the Americas Oscar Reyes 9 Oct 2026",
@@ -1279,6 +1355,71 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "PAHO News"
+      ]
+    },
+    {
+      "id": "f6ab882a2b5e67fb",
+      "title": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau - The Guardian",
+      "summary": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau The Guardian",
+      "summary_ai": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau The Guardian",
+      "title_original": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau - The Guardian",
+      "summary_original": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau The Guardian",
+      "summary_ai_original": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau The Guardian",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcUhibHRCZ05LR2ZkRkZQUlFKUy1iTW5rU0wtQmZyQjlzNEFRclpSYThieWdJZGZXTnk1MFdtaWc5SnlXRnk1N1JkenlNZ0dKNVRaNDAxYUJpVmdwNWU0WV9NMmU0ZDlwdS13M1BQOENVbG53djhJYzZ4b2R0dHJ5STZwRUxEV3lCOHc?oc=5",
+      "source": "Guardian Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-10-09T07:00:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "The Guardian"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "The Guardian"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Guardian Vaccines / Immunization"
       ]
     },
     {
@@ -1486,6 +1627,73 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "eClinicalMedicine vaccines"
+      ]
+    },
+    {
+      "id": "4fa37c1317768dae",
+      "title": "Bioengineering strategies for improving the immunogenicity of mRNA vaccines",
+      "summary": "Bioengineering strategies for improving the immunogenicity of mRNA vaccines",
+      "summary_ai": "Bioengineering strategies for improving the immunogenicity of mRNA vaccines",
+      "title_original": "Bioengineering strategies for improving the immunogenicity of mRNA vaccines",
+      "summary_original": "Bioengineering strategies for improving the immunogenicity of mRNA vaccines",
+      "summary_ai_original": "Bioengineering strategies for improving the immunogenicity of mRNA vaccines",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9hb0NIMzlGaHdLazhqaktlX25KQnZzRlJRNzJMaW9hbGZzSFRvejYxZlpqQVBaRHNKa3JZWS1MVkZfeFk1QVdqbVd3S290R3J4dllRYm95NlNmVVBkRXpF?oc=5",
+      "source": "Nature News Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 5,
+      "published_at": "2026-10-07T23:55:07+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "covid"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Nature News"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Nature News"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Nature News Vaccines / Immunization"
       ]
     },
     {
@@ -1753,6 +1961,71 @@
       ]
     },
     {
+      "id": "23adcb9ca002cea7",
+      "title": "Potential Impact Of Maternal RSV Vaccination On Hospitalizations For Severe Acute Respiratory Infection Due To RSV In Infants Up To Six Months Of Age In Brazil, 2026: A Modelling Study - SSRN eLibrary",
+      "summary": "Potential Impact Of Maternal RSV Vaccination On Hospitalizations For Severe Acute Respiratory Infection Due To RSV In Infants Up To Six Months Of Age In Brazil, 2026: A Modelling Study SSRN eLibrary",
+      "summary_ai": "Potential Impact Of Maternal RSV Vaccination On Hospitalizations For Severe Acute Respiratory Infection Due To RSV In Infants Up To Six Months Of Age In Brazil, 2026: A Modelling Study SSRN eLibrary",
+      "title_original": "Potential Impact Of Maternal RSV Vaccination On Hospitalizations For Severe Acute Respiratory Infection Due To RSV In Infants Up To Six Months Of Age In Brazil, 2026: A Modelling Study - SSRN eLibrary",
+      "summary_original": "Potential Impact Of Maternal RSV Vaccination On Hospitalizations For Severe Acute Respiratory Infection Due To RSV In Infants Up To Six Months Of Age In Brazil, 2026: A Modelling Study SSRN eLibrary",
+      "summary_ai_original": "Potential Impact Of Maternal RSV Vaccination On Hospitalizations For Severe Acute Respiratory Infection Due To RSV In Infants Up To Six Months Of Age In Brazil, 2026: A Modelling Study SSRN eLibrary",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ES1gxV0VqM3dWbTdybmlVd3pZMlVuMDFNOUFydXBJVXFLS05uRWxBZjJ2cTFMV2dFTXdzeGNqUEVpaHgwZk94di1KLW1fOXBZZFFKajh0bDVMSll5OEQtZHNHQmwxamp1SGlJ?oc=5",
+      "source": "SSRN vaccine preprints",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 6,
+      "published_at": "2026-10-06T07:00:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "ブラジル",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "SSRN"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "SSRN"
+        },
+        "target": {
+          "key": "brazil",
+          "name_ja": "ブラジル",
+          "lat": -15.7939,
+          "lng": -47.8828,
+          "region": "South America",
+          "label": "ブラジル"
+        }
+      },
+      "location": {
+        "key": "brazil",
+        "name_ja": "ブラジル",
+        "lat": -15.7939,
+        "lng": -47.8828,
+        "region": "South America",
+        "label": "ブラジル"
+      },
+      "region": "South America",
+      "country": "ブラジル",
+      "lat": -15.7939,
+      "lng": -47.8828,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "SSRN vaccine preprints"
+      ]
+    },
+    {
       "id": "2827db8e397bb1b1",
       "title": "Vaxcyte shares surge as pneumococcal vaccine succeeds in late-stage trial - Reuters",
       "summary": "Vaxcyte shares surge as pneumococcal vaccine succeeds in late-stage trial Reuters",
@@ -1947,73 +2220,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "STAT Vaccines / Immunization"
-      ]
-    },
-    {
-      "id": "3dfc60fefc7e2a3e",
-      "title": "Estimating influenza vaccine effectiveness using routinely collected laboratory data - Journal of Epidemiology and Community Health (JECH)",
-      "summary": "Estimating influenza vaccine effectiveness using routinely collected laboratory data Journal of Epidemiology and Community Health (JECH)",
-      "summary_ai": "Estimating influenza vaccine effectiveness using routinely collected laboratory data Journal of Epidemiology and Community Health (JECH)",
-      "title_original": "Estimating influenza vaccine effectiveness using routinely collected laboratory data - Journal of Epidemiology and Community Health (JECH)",
-      "summary_original": "Estimating influenza vaccine effectiveness using routinely collected laboratory data Journal of Epidemiology and Community Health (JECH)",
-      "summary_ai_original": "Estimating influenza vaccine effectiveness using routinely collected laboratory data Journal of Epidemiology and Community Health (JECH)",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBieHIyN1hyeEFDV3RUeFFOQV8tQkpSYzRHVzloQ216aExtVzkyOElQbE9IZVhwSkdZRmloMmIwMk1PQzNCODdhaDU1Qk0zbXR6Zl9rRHQ2SlhQN2R5ajZoUWR0SQ?oc=5",
-      "source": "BMJ",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-10-05T01:49:45+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "influenza"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BMJ / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BMJ / London"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "BMJ"
       ]
     },
     {
