@@ -1,10 +1,77 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-10-18T23:03:19.013595+00:00",
-  "archive_count": 567,
+  "generated_at": "2026-10-20T00:16:01.155803+00:00",
+  "archive_count": 568,
   "days_back": 14,
   "items": [
+    {
+      "id": "0e3257563ee553e2",
+      "title": "Kennedy’s Vaccine Plan Could Cause Surge in Hepatitis B, Study Finds - The New York Times",
+      "summary": "Kennedy’s Vaccine Plan Could Cause Surge in Hepatitis B, Study Finds The New York Times",
+      "summary_ai": "Kennedy’s Vaccine Plan Could Cause Surge in Hepatitis B, Study Finds The New York Times",
+      "title_original": "Kennedy’s Vaccine Plan Could Cause Surge in Hepatitis B, Study Finds - The New York Times",
+      "summary_original": "Kennedy’s Vaccine Plan Could Cause Surge in Hepatitis B, Study Finds The New York Times",
+      "summary_ai_original": "Kennedy’s Vaccine Plan Could Cause Surge in Hepatitis B, Study Finds The New York Times",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tNXRtMTJKV3R0R05tck0tbkMxNWd1TmQ0cW0ydm1LeVdxUFFaTmNWWDNvd2xaNGV2Znc1dEF0RHdCRnRQUHlWVjhPMk1abUN5Q250ZHBnYzVIUzdNSlBCZmZTQlJ2dXd5SUFHU1VGQjFCVG5KM0k3d291dnprdHc?oc=5",
+      "source": "New York Times Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-10-19T21:00:05+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "New York Times"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "New York Times"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "New York Times Vaccines / Immunization"
+      ],
+      "first_seen_at": "2026-10-19T21:00:05+00:00",
+      "last_seen_at": "2026-10-20T00:17:25.019359+00:00"
+    },
     {
       "id": "a367f0e6ad8c2fb0",
       "title": "Safety and Immunogenicity of an mRNA Respiratory Syncytial Virus Vaccine, mRNA-1345, in Healthy and High-Risk Pediatric Populations Aged 2 to 17 Years - Oxford Academic",
@@ -69,7 +136,7 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "duplicate_sources": [
         "Open Forum Infectious Diseases"
       ],
@@ -143,7 +210,7 @@
         "NEJM"
       ],
       "first_seen_at": "2026-10-17T08:55:40+00:00",
-      "last_seen_at": "2026-10-18T23:04:40.634224+00:00"
+      "last_seen_at": "2026-10-20T00:17:25.019377+00:00"
     },
     {
       "id": "26014482b283ef6e",
@@ -209,7 +276,7 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "duplicate_sources": [
         "CIDRAP Vaccines & Immunization"
       ],
@@ -284,7 +351,7 @@
         "Science vaccines"
       ],
       "first_seen_at": "2026-10-16T00:01:34+00:00",
-      "last_seen_at": "2026-10-18T23:04:40.634232+00:00"
+      "last_seen_at": "2026-10-20T00:17:25.019387+00:00"
     },
     {
       "id": "a1b942e7cf27445d",
@@ -353,7 +420,7 @@
         "CIDRAP Vaccines & Immunization"
       ],
       "first_seen_at": "2026-10-15T21:48:41+00:00",
-      "last_seen_at": "2026-10-18T23:04:40.634235+00:00"
+      "last_seen_at": "2026-10-20T00:17:25.019391+00:00"
     },
     {
       "id": "899e0249fba5b369",
@@ -558,7 +625,7 @@
         "CIDRAP Vaccines & Immunization"
       ],
       "first_seen_at": "2026-10-14T13:28:00+00:00",
-      "last_seen_at": "2026-10-18T23:04:40.634246+00:00"
+      "last_seen_at": "2026-10-20T00:17:25.019402+00:00"
     },
     {
       "id": "810752ff730d704e",
@@ -627,7 +694,7 @@
         "Guardian Vaccines / Immunization"
       ],
       "first_seen_at": "2026-10-14T12:21:00+00:00",
-      "last_seen_at": "2026-10-18T23:04:40.634249+00:00"
+      "last_seen_at": "2026-10-20T00:17:25.019407+00:00"
     },
     {
       "id": "af59d6734c5be99b",
@@ -694,7 +761,7 @@
         "Nature News Vaccines / Immunization"
       ],
       "first_seen_at": "2026-10-14T10:04:21+00:00",
-      "last_seen_at": "2026-10-18T23:04:40.634251+00:00"
+      "last_seen_at": "2026-10-20T00:17:25.019412+00:00"
     },
     {
       "id": "b2a42210bedf6e93",
@@ -765,7 +832,7 @@
         "Reuters Vaccines / Immunization"
       ],
       "first_seen_at": "2026-10-13T18:07:01+00:00",
-      "last_seen_at": "2026-10-18T23:04:40.634254+00:00"
+      "last_seen_at": "2026-10-20T00:17:25.019417+00:00"
     },
     {
       "id": "995139d6753d84f9",
@@ -835,7 +902,7 @@
         "PLOS journals vaccines"
       ],
       "first_seen_at": "2026-10-13T17:55:54+00:00",
-      "last_seen_at": "2026-10-18T23:04:40.634257+00:00"
+      "last_seen_at": "2026-10-20T00:17:25.019421+00:00"
     },
     {
       "id": "652c4cbd89923f84",
@@ -899,7 +966,7 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicate_sources": [
         "Open Forum Infectious Diseases"
       ],
@@ -975,7 +1042,7 @@
         "Nature News Vaccines / Immunization"
       ],
       "first_seen_at": "2026-10-12T11:57:39+00:00",
-      "last_seen_at": "2026-10-18T23:04:40.634262+00:00"
+      "last_seen_at": "2026-10-20T00:17:25.019425+00:00"
     },
     {
       "id": "b5de38b10380c375",
@@ -1042,7 +1109,7 @@
         "Open Forum Infectious Diseases"
       ],
       "first_seen_at": "2026-10-10T18:14:53+00:00",
-      "last_seen_at": "2026-10-18T23:04:40.634265+00:00"
+      "last_seen_at": "2026-10-20T00:17:25.019431+00:00"
     },
     {
       "id": "73801dd77d7bc6b0",
@@ -1114,7 +1181,7 @@
         "PAHO News"
       ],
       "first_seen_at": "2026-10-09T20:13:07+00:00",
-      "last_seen_at": "2026-10-18T23:04:40.634268+00:00"
+      "last_seen_at": "2026-10-20T00:17:25.019436+00:00"
     },
     {
       "id": "f6ab882a2b5e67fb",
@@ -1181,7 +1248,7 @@
         "Guardian Vaccines / Immunization"
       ],
       "first_seen_at": "2026-10-09T21:36:00+00:00",
-      "last_seen_at": "2026-10-18T23:04:40.634271+00:00"
+      "last_seen_at": "2026-10-20T00:17:25.019439+00:00"
     },
     {
       "id": "675f611153ad3d8a",
@@ -1535,7 +1602,7 @@
         "eClinicalMedicine vaccines"
       ],
       "first_seen_at": "2026-10-08T00:26:15+00:00",
-      "last_seen_at": "2026-10-18T23:04:40.634277+00:00"
+      "last_seen_at": "2026-10-20T00:17:25.019445+00:00"
     },
     {
       "id": "4fa37c1317768dae",
@@ -1812,7 +1879,7 @@
         "Reuters Vaccines / Immunization"
       ],
       "first_seen_at": "2026-10-06T12:20:09+00:00",
-      "last_seen_at": "2026-10-18T23:04:40.634284+00:00"
+      "last_seen_at": "2026-10-20T00:17:25.019456+00:00"
     },
     {
       "id": "a82c57e91ee17b5d",
@@ -1879,7 +1946,7 @@
         "The Lancet series"
       ],
       "first_seen_at": "2026-10-06T07:00:00+00:00",
-      "last_seen_at": "2026-10-18T23:04:40.634281+00:00"
+      "last_seen_at": "2026-10-20T00:17:25.019451+00:00"
     },
     {
       "id": "23adcb9ca002cea7",
@@ -1946,7 +2013,7 @@
         "SSRN vaccine preprints"
       ],
       "first_seen_at": "2026-10-06T07:00:00+00:00",
-      "last_seen_at": "2026-10-18T23:04:40.634286+00:00"
+      "last_seen_at": "2026-10-20T00:17:25.019460+00:00"
     },
     {
       "id": "45127855045331e9",
