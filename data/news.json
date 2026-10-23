@@ -1,9 +1,9 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-10-22T23:57:20.409866+00:00",
-  "item_count": 25,
-  "archive_count": 581,
+  "generated_at": "2026-10-23T23:49:58.725925+00:00",
+  "item_count": 30,
+  "archive_count": 589,
   "days_back": 14,
   "plot_mode_default": "source",
   "feed_status": [
@@ -23,7 +23,7 @@
       "name": "CDC Newsroom",
       "url": "https://tools.cdc.gov/api/v2/resources/media/316422.rss",
       "status": "ok",
-      "seen": 9,
+      "seen": 7,
       "kept": 0
     },
     {
@@ -89,14 +89,14 @@
       "name": "The Lancet series",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Athelancet.com%20(trial%20OR%20policy%20OR%20effectiveness%20OR%20safety)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 0,
-      "kept": 0
+      "seen": 1,
+      "kept": 1
     },
     {
       "name": "Lancet Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Athelancet.com%2Fjournals%2Flaninf&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -111,7 +111,7 @@
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abmj.com%20(policy%20OR%20trial%20OR%20effectiveness%20OR%20communication)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
       "seen": 3,
-      "kept": 2
+      "kept": 1
     },
     {
       "name": "Vaccine journal",
@@ -138,7 +138,7 @@
       "name": "Nature Communications vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fncomms%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20surveillance)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
@@ -159,14 +159,14 @@
       "name": "Nature Reviews Immunology vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fnri%20(review%20OR%20immunogenicity%20OR%20policy%20OR%20effectiveness)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
       "name": "Science vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ascience.org%2Fdoi%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20antibody)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 15,
+      "seen": 4,
       "kept": 1
     },
     {
@@ -215,7 +215,7 @@
       "name": "Eurosurveillance",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Aeurosurveillance.org&hl=en-US&gl=EU&ceid=EU%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -236,49 +236,49 @@
       "name": "bioRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abiorxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 10,
+      "seen": 9,
       "kept": 1
     },
     {
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 21,
-      "kept": 4
+      "seen": 24,
+      "kept": 6
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 99,
-      "kept": 0
+      "seen": 68,
+      "kept": 1
     },
     {
       "name": "AP Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 97,
+      "seen": 99,
       "kept": 0
     },
     {
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 12,
-      "kept": 0
+      "seen": 31,
+      "kept": 1
     },
     {
       "name": "Financial Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aft.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 6,
+      "seen": 7,
       "kept": 0
     },
     {
       "name": "STAT Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 29,
+      "seen": 26,
       "kept": 1
     },
     {
@@ -292,28 +292,28 @@
       "name": "Science Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Ascience.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 20,
+      "seen": 16,
       "kept": 1
     },
     {
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 24,
+      "seen": 26,
       "kept": 1
     },
     {
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 100,
-      "kept": 2
+      "seen": 97,
+      "kept": 3
     },
     {
       "name": "Washington Post Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 13,
+      "seen": 77,
       "kept": 0
     },
     {
@@ -327,42 +327,42 @@
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 11,
+      "seen": 13,
       "kept": 0
     },
     {
       "name": "朝日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Aasahi.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 12,
+      "seen": 16,
       "kept": 0
     },
     {
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 39,
+      "seen": 28,
       "kept": 0
     },
     {
       "name": "毎日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 16,
+      "seen": 15,
       "kept": 0
     },
     {
       "name": "JAMA Network vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 3,
       "kept": 0
     },
     {
       "name": "JAMA Pediatrics vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjamapediatrics&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 2,
       "kept": 0
     },
     {
@@ -376,36 +376,36 @@
       "name": "Journal of Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fjid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 1,
       "kept": 0
     },
     {
       "name": "Open Forum Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fofid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
-      "kept": 2
+      "seen": 3,
+      "kept": 3
     },
     {
       "name": "Emerging Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Awwwnc.cdc.gov%2Feid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 1,
       "kept": 0
     },
     {
       "name": "Pediatrics journal",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Apublications.aap.org%2Fpediatrics&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
-      "kept": 1
+      "seen": 4,
+      "kept": 3
     },
     {
       "name": "PLOS journals vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajournals.plos.org%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20uptake%20OR%20policy)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
-      "kept": 2
+      "seen": 1,
+      "kept": 1
     },
     {
       "name": "eClinicalMedicine vaccines",
@@ -418,7 +418,7 @@
       "name": "EBioMedicine vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Athelancet.com%2Fjournals%2Febiom&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
@@ -465,16 +465,551 @@
     }
   ],
   "weekly_ai_summary": {
-    "generated_at": "2026-10-22T23:57:20.409866+00:00",
+    "generated_at": "2026-10-23T23:49:58.725925+00:00",
     "period_days": 7,
     "policy_count": 4,
-    "academic_count": 9,
+    "academic_count": 11,
     "status": "ok",
     "model": "gpt-4o-mini",
-    "policy_summary": "MAHA支持者は健康機関への信頼を維持しつつ、ワクチン政策の変更を支持していることが示された。イギリスでは、IXCHIQチクングニアワクチンのマーケティング承認が安全性レビューにより撤回された。",
-    "academic_summary": "COVID-19ワクチンに関する新たな推奨が発表され、特に幼児や子供に焦点を当てている。さらに、mRNAワクチンの安全性と免疫原性に関する研究が進行中である。"
+    "policy_summary": "アメリカ大陸はワクチン接種のギャップが残る中、野生ポリオウイルスによるポリオの症例が35年間ないことを祝っています。MAHA支持者は健康機関への信頼を維持しつつ、ワクチン政策の変更を支持しています。",
+    "academic_summary": "小児の健康診断におけるフロントラインスタッフのワクチンコミュニケーションに関する混合研究が発表されました。また、PHH-1V COVID-19ワクチンの免疫原性と安全性に関する研究が行われています。"
   },
   "items": [
+    {
+      "id": "4b7123c03cf3ed9a",
+      "title": "World Polio Day 2026: Americas mark 35 years free of wild poliovirus as vaccination gaps persist",
+      "summary": "World Polio Day 2026: Americas mark 35 years free of wild poliovirus as vaccination gaps persist Cristina Mitchell 23 Oct 2026",
+      "summary_ai": "PAHO urges countries to close immunization gaps and strengthen surveillance to protect the Region from imported poliovirus Washington, D.C., 23 October 2026 (PAHO) – The Americas mark 35 years without a case of polio caused by wild poliovirus this World Polio Day, but vaccination coverage remains below the 95% target r",
+      "title_original": "World Polio Day 2026: Americas mark 35 years free of wild poliovirus as vaccination gaps persist",
+      "summary_original": "World Polio Day 2026: Americas mark 35 years free of wild poliovirus as vaccination gaps persist Cristina Mitchell 23 Oct 2026",
+      "summary_ai_original": "PAHO urges countries to close immunization gaps and strengthen surveillance to protect the Region from imported poliovirus Washington, D.C., 23 October 2026 (PAHO) – The Americas mark 35 years without a case of polio caused by wild poliovirus this World Polio Day, but vaccination coverage remains below the 95% target r",
+      "article_text_original": "PAHO urges countries to close immunization gaps and strengthen surveillance to protect the Region from imported poliovirus Washington, D.C., 23 October 2026 (PAHO) – The Americas mark 35 years without a case of polio caused by wild poliovirus this World Polio Day, but vaccination coverage remains below the 95% target recommended by the Pan American Health Organization (PAHO), leaving the Region vulnerable to the reintroduction of the virus. In 2025, vaccination coverage continued to recover from declines during the COVID-19 pandemic, but remained below the recommended target for all three doses of inactivated polio vaccine (IPV). Some 91% of children received their first dose, up from 86% in 2024; 89% received their second dose, compared with 87% the previous year; and 87% received their third dose, up from 85% in 2024 and 80% in 2021. “The elimination of wild poliovirus from the Americas is one of the Region’s greatest public health achievements, but we cannot take it for granted,” said PAHO Director Dr. Jarbas Barbosa. “As long as poliovirus circulates elsewhere, the risk of importation remains. Maintaining high vaccination coverage and strong surveillance is essential to protect children and prevent the virus from regaining a foothold.” In 1975, nearly 6,000 polio cases were reported in the Americas. The last case of wild poliovirus in the Americas was recorded on 23 August 1991 in Peru, in an unvaccinated two-year-old child who developed irreversible paralysis. In 1994, the Americas became the first region in the world to be certified free of wild poliovirus transmission. This achievement followed decades of sustained immunization efforts across the Region, supported by strong surveillance and cooperation among countries. Mass vaccination campaigns and expanded access to routine immunization helped interrupt transmission, demonstrating the impact of coordinated public health action. Detecting and preventing imported cases Although the Region has been free of wild poliovirus for 35 years, the virus could still be imported from countries where it continues to circulate. In communities with low vaccination coverage, it could spread and cause outbreaks. Today, endemic transmission of wild poliovirus continues in Afghanistan and Pakistan. According to the Global Polio Eradication Initiative (GPEI), 48 cases of wild poliovirus had been reported globally in 2026 as of 20 October, 42 in Afghanistan and six in Pakistan. The Region’s ability to detect possible polio cases quickly also needs strengthening. Health authorities monitor cases of acute flaccid paralysis (AFP), a sudden loss of muscle strength that can have many causes but is also a key warning sign for polio. Each case is investigated to rule out poliovirus. Over the past year, countries in the Americas reported 0.85 AFP cases per 100,000 children under 15, below the surveillance target of at least 1 case per 100,000. Reaching this target helps demonstrate that surveillance systems are sensitive enough to detect and investigate potential cases of polio. Polio is a highly contagious disease that mainly affects children under five. The virus can invade the nervous system and cause irreversible paralysis within days. Among those who develop paralysis, 5%–10% die when their breathing muscles become immobilized. There is no cure, but vaccination can prevent the disease. A global effort that must continue The Americas’ achievement is part of a global effort to eradicate polio. In 1988, the World Health Assembly launched the Global Polio Eradication Initiative (GPEI), when an estimated 350,000 children were paralyzed by the disease each year in more than 125 countries. Since then, polio cases have fallen by 99.9%. An estimated 20 million people are walking today who would otherwise have been paralyzed, and more than 1.5 million lives have been saved. These gains demonstrate what sustained vaccination and international cooperation can achieve. But as long as poliovirus transmission continues anywhere in the world, every country remains at risk. Without eradication, polio could resurge and cause up to 200,000 new cases annually within a decade, according to the World Health Organization (WHO). Protecting the Americas’ achievement PAHO works with countries to strengthen routine immunization, improve surveillance and ensure health systems can rapidly detect and respond to suspected polio cases. Maintaining high and equitable vaccination coverage is essential to prevent imported poliovirus from spreading and to protect the Region’s polio-free status. On World Polio Day, October 24, PAHO urges parents and caregivers to check that children are up to date with their polio vaccinations and to complete any missed doses. Ensuring every child receives the recommended vaccines will help protect the Americas’ achievement and bring the world closer to eradicating polio.",
+      "link": "https://www.paho.org/en/news/23-10-2026-world-polio-day-2026-americas-mark-35-years-free-wild-poliovirus-vaccination-gaps",
+      "source": "PAHO News",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 8,
+      "published_at": "2026-10-23T19:32:02+00:00",
+      "topics": [
+        "communication"
+      ],
+      "policy_tags": [
+        "outbreak_response"
+      ],
+      "vaccines": [
+        "polio"
+      ],
+      "variants": [],
+      "target_country": "パキスタン",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "PAHO / Washington DC"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "PAHO / Washington DC"
+        },
+        "target": {
+          "key": "pakistan",
+          "name_ja": "パキスタン",
+          "lat": 33.6844,
+          "lng": 73.0479,
+          "region": "Asia",
+          "label": "パキスタン"
+        }
+      },
+      "location": {
+        "key": "pakistan",
+        "name_ja": "パキスタン",
+        "lat": 33.6844,
+        "lng": 73.0479,
+        "region": "Asia",
+        "label": "パキスタン"
+      },
+      "region": "Asia",
+      "country": "パキスタン",
+      "lat": 33.6844,
+      "lng": 73.0479,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "PAHO News"
+      ]
+    },
+    {
+      "id": "445f2803bf29a132",
+      "title": "Study findings support the hepatitis B vaccine birth dose over other strategies - CIDRAP",
+      "summary": "Study findings support the hepatitis B vaccine birth dose over other strategies CIDRAP",
+      "summary_ai": "Study findings support the hepatitis B vaccine birth dose over other strategies CIDRAP",
+      "title_original": "Study findings support the hepatitis B vaccine birth dose over other strategies - CIDRAP",
+      "summary_original": "Study findings support the hepatitis B vaccine birth dose over other strategies CIDRAP",
+      "summary_ai_original": "Study findings support the hepatitis B vaccine birth dose over other strategies CIDRAP",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOGxBS0dVX0ttclRfeTBERUJ2bHZLeXhuQm52WVpUdVpsS0h3YW9YS1FVSl9CUGEtRk0xVTU0N3lfaWJZNlExNFpic0ZzQU9WTVlGUUZLbnRwbExwcU50SFg5TTBGYk5rbk1JY2NxQnViUXdYTU8yS19KWlVZVXd0TUZ3N3Z5VmYzU2ZPdTRvdlE1SEVqeVlBaFBpcjRtdVdTY0RkU3VoZHJyQnNXWjRERERB?oc=5",
+      "source": "CIDRAP Vaccines & Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 8,
+      "published_at": "2026-10-23T13:57:56+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "hepatitis"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "CIDRAP / Minnesota"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "CIDRAP / Minnesota"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "CIDRAP Vaccines & Immunization"
+      ]
+    },
+    {
+      "id": "fabd1930542f9a0b",
+      "title": "Lymph node-targeted, mKRAS-specific amphiphile vaccine in pancreatic cancer: the randomized phase 2 AMPLIFY-7P trial",
+      "summary": "Lymph node-targeted, mKRAS-specific amphiphile vaccine in pancreatic cancer: the randomized phase 2 AMPLIFY-7P trial",
+      "summary_ai": "Lymph node-targeted, mKRAS-specific amphiphile vaccine in pancreatic cancer: the randomized phase 2 AMPLIFY-7P trial",
+      "title_original": "Lymph node-targeted, mKRAS-specific amphiphile vaccine in pancreatic cancer: the randomized phase 2 AMPLIFY-7P trial",
+      "summary_original": "Lymph node-targeted, mKRAS-specific amphiphile vaccine in pancreatic cancer: the randomized phase 2 AMPLIFY-7P trial",
+      "summary_ai_original": "Lymph node-targeted, mKRAS-specific amphiphile vaccine in pancreatic cancer: the randomized phase 2 AMPLIFY-7P trial",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQdUlKUm5JNnRIVmdlLUhYelE4NHNmTFlNNnV2blZnclY5aUpZbV9DVG9rQnJFRHNKdFV2TzN2OWpZMXA1b0ZSNkhQQU9NT3I5QWliaEVZMlpndGRlVXdN?oc=5",
+      "source": "Nature News Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 5,
+      "published_at": "2026-10-23T12:53:29+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Nature News"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Nature News"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Nature News Vaccines / Immunization"
+      ]
+    },
+    {
+      "id": "dd76376bd7d34230",
+      "title": "‘Bespoke’ mRNA vaccine significantly reduces risk of melanoma recurrence or death, clinical trial shows - The Guardian",
+      "summary": "‘Bespoke’ mRNA vaccine significantly reduces risk of melanoma recurrence or death, clinical trial shows The Guardian",
+      "summary_ai": "‘Bespoke’ mRNA vaccine significantly reduces risk of melanoma recurrence or death, clinical trial shows The Guardian",
+      "title_original": "‘Bespoke’ mRNA vaccine significantly reduces risk of melanoma recurrence or death, clinical trial shows - The Guardian",
+      "summary_original": "‘Bespoke’ mRNA vaccine significantly reduces risk of melanoma recurrence or death, clinical trial shows The Guardian",
+      "summary_ai_original": "‘Bespoke’ mRNA vaccine significantly reduces risk of melanoma recurrence or death, clinical trial shows The Guardian",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQUtvY3pZb3RlNjQ1Um1HTHE5Q0E1RklTMG1abU1RSEM5OUg0c0NEaTJnZUtlMDVoZ1pXYW9oQkhib0Voc2UtTGE2NUtWcmpJaV9BODc5T1g4d3lCZ0hneGN6dE1hWUxPQlJaOC14QmQ1NFJ2MzZHelJMUkVWWkN6UThub3BIVUxkTGxLckd0R1czX1lld2EzNEVLbS1sT2JC?oc=5",
+      "source": "Guardian Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-10-23T09:13:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "covid"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "The Guardian"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "The Guardian"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Guardian Vaccines / Immunization"
+      ]
+    },
+    {
+      "id": "44ff19ee2fc2ddac",
+      "title": "First personalised cancer vaccine cuts risk of disease returning in major trial - BBC",
+      "summary": "First personalised cancer vaccine cuts risk of disease returning in major trial BBC",
+      "summary_ai": "First personalised cancer vaccine cuts risk of disease returning in major trial BBC",
+      "title_original": "First personalised cancer vaccine cuts risk of disease returning in major trial - BBC",
+      "summary_original": "First personalised cancer vaccine cuts risk of disease returning in major trial BBC",
+      "summary_ai_original": "First personalised cancer vaccine cuts risk of disease returning in major trial BBC",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NaTk1MW5vS3E4Q0hWelNqTmVhc2FnVFZJUXlvblIySGNFYlBDamRtM2FFYm5kT2FUS1llU2FrNXN2N1ZXZWsyVnVOUXl3cndLN1pDY0h3WmUyYU0?oc=5",
+      "source": "BBC Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-10-23T07:49:02+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BBC"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BBC"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "BBC Vaccines / Immunization"
+      ]
+    },
+    {
+      "id": "f94107ada83464b3",
+      "title": "Frontline Staff Vaccine Communication During Pediatric Well-Child Encounters: A Mixed-Methods Study - AAP",
+      "summary": "Frontline Staff Vaccine Communication During Pediatric Well-Child Encounters: A Mixed-Methods Study AAP",
+      "summary_ai": "Frontline Staff Vaccine Communication During Pediatric Well-Child Encounters: A Mixed-Methods Study AAP",
+      "title_original": "Frontline Staff Vaccine Communication During Pediatric Well-Child Encounters: A Mixed-Methods Study - AAP",
+      "summary_original": "Frontline Staff Vaccine Communication During Pediatric Well-Child Encounters: A Mixed-Methods Study AAP",
+      "summary_ai_original": "Frontline Staff Vaccine Communication During Pediatric Well-Child Encounters: A Mixed-Methods Study AAP",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNN2VldFViRmNXeWtFX0JQekZhVXhDbF9VcDBIRnRwY3J3ZjFuVFVPTHROenJoQlZ3NHhqMmpFUllIM3FQS1N5bGdXV1BydzZTWlQ1aHdUNTR2TGFxeFY2RWlWWXpXaHljSVBkV3JPb2dibnIzTWpnS3dCX2JrOVVwUkZVMlBkY3o5cDYxX0M1Vms4TlVrcTNlQlNGX3p2R3diRGk3R3FldWhkMlVYN2tpSy1sdE1DWG5MUGdlalRKQmlubkNrUUU1YXh2LVBIWEFBSkY1d1ptekxCdEk?oc=5",
+      "source": "Pediatrics journal",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-10-23T01:42:17+00:00",
+      "topics": [
+        "communication",
+        "research"
+      ],
+      "policy_tags": [
+        "communication"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "Pediatrics"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "Pediatrics"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Pediatrics journal"
+      ]
+    },
+    {
+      "id": "cfede11d6c554ae0",
+      "title": "Immunogenicity and Safety of PHH-1V COVID-19 Vaccine as a Heterologous Booster in Adolescents - AAP",
+      "summary": "Immunogenicity and Safety of PHH-1V COVID-19 Vaccine as a Heterologous Booster in Adolescents AAP",
+      "summary_ai": "Immunogenicity and Safety of PHH-1V COVID-19 Vaccine as a Heterologous Booster in Adolescents AAP",
+      "title_original": "Immunogenicity and Safety of PHH-1V COVID-19 Vaccine as a Heterologous Booster in Adolescents - AAP",
+      "summary_original": "Immunogenicity and Safety of PHH-1V COVID-19 Vaccine as a Heterologous Booster in Adolescents AAP",
+      "summary_ai_original": "Immunogenicity and Safety of PHH-1V COVID-19 Vaccine as a Heterologous Booster in Adolescents AAP",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOa2xkVXpHVC1QUWU0MlhHeFo0MVdJM05Scmt5ZW1HeFEtSkRHRHVUWmIyLVdmWGdEc0hVVWh5Uzc1ZEh2dS1ETWxCU0JpMGwtdml6RzdjcGhycEFIS0IwTGNId2lQWm94NWYxSmNBZk1aajBUT0xuNVpvQ1pZaUtQUjdHeWhlb2dQTmNVNVUzNnIwRjkzeERxbGhJN1dvTzcycHY2UWFJam9XLWlSOUN4YlZmVFhRUENqekkzTFdZQWhxbFh0Sm9yRXZUYjlPVjB4MXRjdzlhbkR6MW8?oc=5",
+      "source": "Pediatrics journal",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-10-23T01:42:16+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [
+        "safety"
+      ],
+      "vaccines": [
+        "covid"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "Pediatrics"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "Pediatrics"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Pediatrics journal"
+      ]
+    },
+    {
+      "id": "569560a9ae90cd33",
+      "title": "Detailed data confirm Moderna and Merck cancer vaccine met key endpoints in melanoma trial - STAT",
+      "summary": "Detailed data confirm Moderna and Merck cancer vaccine met key endpoints in melanoma trial STAT",
+      "summary_ai": "Detailed data confirm Moderna and Merck cancer vaccine met key endpoints in melanoma trial STAT",
+      "title_original": "Detailed data confirm Moderna and Merck cancer vaccine met key endpoints in melanoma trial - STAT",
+      "summary_original": "Detailed data confirm Moderna and Merck cancer vaccine met key endpoints in melanoma trial STAT",
+      "summary_ai_original": "Detailed data confirm Moderna and Merck cancer vaccine met key endpoints in melanoma trial STAT",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUmR1SkF0aDk0cTdscjJVbTQ1bEppUlJOUmZpcDVRZmFYVzNfamstMER4SFlKa0RWbWFsbG9KdE1URGtHbG5aSXBrbUtyNndmSE1tRDFKdXRhNWZURWVmRkhUQVNZdkxNRHBndUhOUjZmV0V4eHRDZ2ZTUWNZRndsVGZTUVJlWWM0MzBnRXVaczZKYW9fZVBKZmh4VQ?oc=5",
+      "source": "STAT Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-10-22T22:15:55+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "STAT"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "STAT"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "STAT Vaccines / Immunization"
+      ]
+    },
     {
       "id": "6c539b4339e4d7ab",
       "title": "Poll: MAHA supporters retain trust in health agencies while favoring vaccine policy changes - CIDRAP",
@@ -538,71 +1073,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "CIDRAP Vaccines & Immunization"
-      ]
-    },
-    {
-      "id": "569560a9ae90cd33",
-      "title": "Detailed data confirm Moderna and Merck cancer vaccine met key endpoints in melanoma trial - STAT",
-      "summary": "Detailed data confirm Moderna and Merck cancer vaccine met key endpoints in melanoma trial STAT",
-      "summary_ai": "Detailed data confirm Moderna and Merck cancer vaccine met key endpoints in melanoma trial STAT",
-      "title_original": "Detailed data confirm Moderna and Merck cancer vaccine met key endpoints in melanoma trial - STAT",
-      "summary_original": "Detailed data confirm Moderna and Merck cancer vaccine met key endpoints in melanoma trial STAT",
-      "summary_ai_original": "Detailed data confirm Moderna and Merck cancer vaccine met key endpoints in melanoma trial STAT",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUmR1SkF0aDk0cTdscjJVbTQ1bEppUlJOUmZpcDVRZmFYVzNfamstMER4SFlKa0RWbWFsbG9KdE1URGtHbG5aSXBrbUtyNndmSE1tRDFKdXRhNWZURWVmRkhUQVNZdkxNRHBndUhOUjZmV0V4eHRDZ2ZTUWNZRndsVGZTUVJlWWM0MzBnRXVaczZKYW9fZVBKZmh4VQ?oc=5",
-      "source": "STAT Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-10-22T19:18:55+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "STAT"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "STAT"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "STAT Vaccines / Immunization"
       ]
     },
     {
@@ -868,26 +1338,24 @@
       ]
     },
     {
-      "id": "0ae084d0da858b68",
-      "title": "Global and regional burden of measles and vaccine coverage among children under 5 years, 1990−2023: a Global Burden of Disease Study",
-      "summary": "Global and regional burden of measles and vaccine coverage among children under 5 years, 1990−2023: a Global Burden of Disease Study",
-      "summary_ai": "Global and regional burden of measles and vaccine coverage among children under 5 years, 1990−2023: a Global Burden of Disease Study",
-      "title_original": "Global and regional burden of measles and vaccine coverage among children under 5 years, 1990−2023: a Global Burden of Disease Study",
-      "summary_original": "Global and regional burden of measles and vaccine coverage among children under 5 years, 1990−2023: a Global Burden of Disease Study",
-      "summary_ai_original": "Global and regional burden of measles and vaccine coverage among children under 5 years, 1990−2023: a Global Burden of Disease Study",
+      "id": "027b1a118f500914",
+      "title": "Guinea-Bissau HepB birth-dose vaccine trial: still unethical",
+      "summary": "Guinea-Bissau HepB birth-dose vaccine trial: still unethical",
+      "summary_ai": "Guinea-Bissau HepB birth-dose vaccine trial: still unethical",
+      "title_original": "Guinea-Bissau HepB birth-dose vaccine trial: still unethical",
+      "summary_original": "Guinea-Bissau HepB birth-dose vaccine trial: still unethical",
+      "summary_ai_original": "Guinea-Bissau HepB birth-dose vaccine trial: still unethical",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jTUJjb1JOMXphdWJYNXM0dlExWUgxSUozMThldW5vUEQwbTRpLUhIYkVXT3ViNmRXX3pNQVhUMFV4WkdfdnlUUTV3VjRVYk1vWjFuNXd1UjRXNG5DXzVz?oc=5",
-      "source": "Nature News Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 5,
-      "published_at": "2026-10-21T10:33:04+00:00",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZFN6eUtsczYya0dVTlpwNUdkYzJFUEZIcEhhS2NKMG0zTVdYU19jOE1qU19ycVdFMGZXTHozc2dOQzRzUkp2R2pRQkhJMHhYT3NveGk4YUJ2MkVoenI3dXlUVjVHTjN2ZWVfUEtxR1hiZ2FHUlYyZnpVMGRGa1RtNA?oc=5",
+      "source": "The Lancet series",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-10-21T07:00:00+00:00",
       "topics": [
         "research"
       ],
-      "policy_tags": [
-        "outbreak_response"
-      ],
+      "policy_tags": [],
       "vaccines": [],
       "variants": [],
       "target_country": "不明",
@@ -897,7 +1365,7 @@
         "lat": 51.5074,
         "lng": -0.1278,
         "region": "Europe",
-        "label": "Nature News"
+        "label": "The Lancet / London"
       },
       "plot": {
         "source": {
@@ -906,7 +1374,7 @@
           "lat": 51.5074,
           "lng": -0.1278,
           "region": "Europe",
-          "label": "Nature News"
+          "label": "The Lancet / London"
         },
         "target": {
           "key": "unknown",
@@ -931,7 +1399,7 @@
       "lng": 0.0,
       "duplicate_count": 1,
       "duplicate_sources": [
-        "Nature News Vaccines / Immunization"
+        "The Lancet series"
       ]
     },
     {
@@ -1669,7 +2137,7 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "duplicate_sources": [
         "CIDRAP Vaccines & Immunization"
       ]
@@ -1807,46 +2275,47 @@
       ]
     },
     {
-      "id": "995139d6753d84f9",
-      "title": "Evaluating the impact and cost-effectiveness of typhoid conjugate vaccine schedules across diverse settings: A multi-model comparison",
-      "summary": "Evaluating the impact and cost-effectiveness of typhoid conjugate vaccine schedules across diverse settings: A multi-model comparison",
-      "summary_ai": "Evaluating the impact and cost-effectiveness of typhoid conjugate vaccine schedules across diverse settings: A multi-model comparison",
-      "title_original": "Evaluating the impact and cost-effectiveness of typhoid conjugate vaccine schedules across diverse settings: A multi-model comparison",
-      "summary_original": "Evaluating the impact and cost-effectiveness of typhoid conjugate vaccine schedules across diverse settings: A multi-model comparison",
-      "summary_ai_original": "Evaluating the impact and cost-effectiveness of typhoid conjugate vaccine schedules across diverse settings: A multi-model comparison",
+      "id": "b2a42210bedf6e93",
+      "title": "Guinea-Bissau says it has not approved hepatitis B vaccine trial in newborns - Reuters",
+      "summary": "Guinea-Bissau says it has not approved hepatitis B vaccine trial in newborns Reuters",
+      "summary_ai": "Guinea-Bissau says it has not approved hepatitis B vaccine trial in newborns Reuters",
+      "title_original": "Guinea-Bissau says it has not approved hepatitis B vaccine trial in newborns - Reuters",
+      "summary_original": "Guinea-Bissau says it has not approved hepatitis B vaccine trial in newborns Reuters",
+      "summary_ai_original": "Guinea-Bissau says it has not approved hepatitis B vaccine trial in newborns Reuters",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONEVpZkdReTNQcGZjYnI4TzZhNy1HdEhMXy1iSVd5RjJBa1J6bk1VdmdnQS1fQ2JHLTdyZkdWWDB4UFQ4SG54dmVVUXVBanQyZ2JNTEcyUXhHMWFVSldkYnpPNVpoZ2h1Qm94dnpUVlJqbnhRV3Y3d3JDQWgwLW51UUE3cFU?oc=5",
-      "source": "PLOS journals vaccines",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOWhfSXl0VlFaRGs2RzNBWnFuYm5JVm5QSlpNYjZtdFRvUDRPcUg2Ry0zVTYwbWxNdkxIMkVBWlRXcjFvYjRmam12bXJlb19iZ09TcHU5V2JtRExxaWpRZGhvUjQ0NS1JbjduMjJUUjZiZjdtUjFVRldMU0JpLUluR0d0TUUxN0M5UnY5U1kyUjlfTFJXYnNuYmNoWFZuQWhySnJ2MDhnQXdudVdIOW00aTMyc3ZiNGtucHN2ZUhQVHR5b0pjOHVmOXJObjdNcXBDRWxQVXhRWC0xUjdwZUE?oc=5",
+      "source": "Reuters Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
       "source_priority": 7,
-      "published_at": "2026-10-13T17:55:54+00:00",
+      "published_at": "2026-10-13T07:00:00+00:00",
       "topics": [
-        "policy",
         "research"
       ],
       "policy_tags": [
-        "schedule"
+        "approval"
       ],
-      "vaccines": [],
+      "vaccines": [
+        "hepatitis"
+      ],
       "variants": [],
       "target_country": "不明",
       "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "PLOS"
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Reuters"
       },
       "plot": {
         "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "PLOS"
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Reuters"
         },
         "target": {
           "key": "unknown",
@@ -1871,7 +2340,7 @@
       "lng": 0.0,
       "duplicate_count": 1,
       "duplicate_sources": [
-        "PLOS journals vaccines"
+        "Reuters Vaccines / Immunization"
       ]
     },
     {
@@ -1944,15 +2413,15 @@
       ]
     },
     {
-      "id": "b5de38b10380c375",
-      "title": "Long-term Rotarix™ vaccine effectiveness in coastal Kenya, estimated from child hospital admissions data from July 2014 to December 2022 - Oxford Academic",
-      "summary": "Long-term Rotarix™ vaccine effectiveness in coastal Kenya, estimated from child hospital admissions data from July 2014 to December 2022 Oxford Academic",
-      "summary_ai": "Long-term Rotarix™ vaccine effectiveness in coastal Kenya, estimated from child hospital admissions data from July 2014 to December 2022 Oxford Academic",
-      "title_original": "Long-term Rotarix™ vaccine effectiveness in coastal Kenya, estimated from child hospital admissions data from July 2014 to December 2022 - Oxford Academic",
-      "summary_original": "Long-term Rotarix™ vaccine effectiveness in coastal Kenya, estimated from child hospital admissions data from July 2014 to December 2022 Oxford Academic",
-      "summary_ai_original": "Long-term Rotarix™ vaccine effectiveness in coastal Kenya, estimated from child hospital admissions data from July 2014 to December 2022 Oxford Academic",
+      "id": "ee0eb3301aeec1ad",
+      "title": "Long-term Rotarix Vaccine Effectiveness in Coastal Kenya, Estimated From Child Hospital Admissions Data From July 2014 to December 2022 - Oxford Academic",
+      "summary": "Long-term Rotarix Vaccine Effectiveness in Coastal Kenya, Estimated From Child Hospital Admissions Data From July 2014 to December 2022 Oxford Academic",
+      "summary_ai": "Long-term Rotarix Vaccine Effectiveness in Coastal Kenya, Estimated From Child Hospital Admissions Data From July 2014 to December 2022 Oxford Academic",
+      "title_original": "Long-term Rotarix Vaccine Effectiveness in Coastal Kenya, Estimated From Child Hospital Admissions Data From July 2014 to December 2022 - Oxford Academic",
+      "summary_original": "Long-term Rotarix Vaccine Effectiveness in Coastal Kenya, Estimated From Child Hospital Admissions Data From July 2014 to December 2022 Oxford Academic",
+      "summary_ai_original": "Long-term Rotarix Vaccine Effectiveness in Coastal Kenya, Estimated From Child Hospital Admissions Data From July 2014 to December 2022 Oxford Academic",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVDZmVFhBWmRfS0U2OUNka2tya19Na0c1RERreGNwaTRRVldFVEJ5d0hsSldGT0RUeEFJTUkxdGdIUG1xeUJzcEFwbElFM3AtVU9tYVg1RW5xU1dzWVdZMWhuMmxjMHR6WkNiNkVhUVpjYW9ZemhxMkRVNFFyVEdWajhUZ1pCUjhsd3FQbjlqUmxONkhBckxoaw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBSbGFaS3ZiWUFOZzNrTHE4WkdmTGFOaXVjS0dBQWNtQmRKODR1N3gzOHcyUmcxZE80anE2bUthQ2MxQTFiN0JYMVhjeUtoc0Z6VVNBaDlucENzaHlmYS1xYUZsM21ScjdTMC04?oc=5",
       "source": "Open Forum Infectious Diseases",
       "source_type": "academic",
       "source_tier": "Tier 3",
@@ -2003,146 +2472,9 @@
       "country": "ケニア",
       "lat": -1.2921,
       "lng": 36.8219,
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "duplicate_sources": [
         "Open Forum Infectious Diseases"
-      ]
-    },
-    {
-      "id": "1a274ddb88d40862",
-      "title": "エボラ出血熱ワクチン：オックスフォード、ブンディブギョ株に対する英国の治験を開始",
-      "summary": "エボラ出血熱ワクチン：オックスフォード、ブンディブギョ株に対する英国の治験を開始",
-      "summary_ai": "エボラ出血熱ワクチン：オックスフォード、ブンディブギョ株に対する英国の治験を開始",
-      "title_original": "Ebola vaccine: Oxford starts UK trial against Bundibugyo strain - The",
-      "summary_original": "Ebola vaccine: Oxford starts UK trial against Bundibugyo strain The",
-      "summary_ai_original": "Ebola vaccine: Oxford starts UK trial against Bundibugyo strain The",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVUXcyMGpBSk03RFhfa3RMMWJPenQ5eUtzUU9wY0UtZmIydzFLM1RhUDZ3OExOa1ZvUEJJVjdsSlA3UG96Z2dLd2lZUzdpbEkzZjhrZkplN1BrQ3dET09lcTlNcGxVN1U?oc=5",
-      "source": "BMJ",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-10-09T20:59:00+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "ebola"
-      ],
-      "variants": [],
-      "target_country": "英国",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BMJ / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BMJ / London"
-        },
-        "target": {
-          "key": "uk",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "英国"
-        }
-      },
-      "location": {
-        "key": "uk",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "英国"
-      },
-      "region": "Europe",
-      "country": "英国",
-      "lat": 51.5074,
-      "lng": -0.1278,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "BMJ"
-      ]
-    },
-    {
-      "id": "73801dd77d7bc6b0",
-      "title": "PAHO assesses risk of measles spread as very high ahead of religious mass gatherings in the Americas",
-      "summary": "PAHO assesses risk of measles spread as very high ahead of religious mass gatherings in the Americas Oscar Reyes 9 Oct 2026",
-      "summary_ai": "Vaccination gaps and increased population movement could facilitate further transmission, underscoring the need for stronger vaccination and surveillance efforts Washington, D.C., 9 October 2026 (PAHO) — With several religious mass gatherings in South America expected to increase national and international travel acros",
-      "title_original": "PAHO assesses risk of measles spread as very high ahead of religious mass gatherings in the Americas",
-      "summary_original": "PAHO assesses risk of measles spread as very high ahead of religious mass gatherings in the Americas Oscar Reyes 9 Oct 2026",
-      "summary_ai_original": "Vaccination gaps and increased population movement could facilitate further transmission, underscoring the need for stronger vaccination and surveillance efforts Washington, D.C., 9 October 2026 (PAHO) — With several religious mass gatherings in South America expected to increase national and international travel acros",
-      "article_text_original": "Vaccination gaps and increased population movement could facilitate further transmission, underscoring the need for stronger vaccination and surveillance efforts Washington, D.C., 9 October 2026 (PAHO) — With several religious mass gatherings in South America expected to increase national and international travel across the Americas in the coming months, the Pan American Health Organization (PAHO) is urging countries to strengthen vaccination, surveillance and rapid response measures as the risk of measles spread across the Region remains very high. The warning comes in a new PAHO regional risk assessment released amid ongoing outbreaks, persistent gaps in vaccination coverage and the detection of measles cases in new geographic areas. The assessment updates PAHO’s regional evaluation of 5 August 2026, with a specific focus on risks associated with upcoming religious mass gatherings in South America and their potential implications for the Region of the Americas. “Measles is highly contagious, and we are seeing the consequences of gaps in vaccination coverage across the Americas,” said Dr. Jarbas Barbosa, PAHO Director. “People need to protect their children with the very effective and safe measles, mumps and rubella (MMR) vaccine, and countries have to close immunity gaps, strengthen surveillance and ensure that they can detect and respond rapidly to cases, particularly as increased travel and large gatherings create more opportunities for the virus to spread.” According to the latest PAHO data, 55,792 confirmed measles cases and 77 deaths were reported in 17 countries and territories in the Region between 4 January and 3 October 2026. This represents a 4.8-fold increase in cases compared with the same period in 2025. Measles cases have also increased globally in 2026, increasing the likelihood of imported cases through international travel and onward transmission in communities with low immunity. Guatemala reported the largest number of cases, followed by Mexico, the United States, Peru and Canada. Together, these five countries accounted for 99.5% of confirmed cases in the Region. Cases have also been reported in Argentina, Belize, Bolivia, Bonaire, Brazil, Chile, Colombia, Costa Rica, El Salvador, Honduras, Panama and Uruguay. Why mass gatherings increase the risk Measles is highly contagious and can spread rapidly when introduced into populations with low immunity, particularly in crowded settings. People with measles can transmit the virus before the characteristic rash appears, meaning infected travelers may unknowingly expose others. Large gatherings and the movement of people between countries and communities can therefore facilitate the importation and onward spread of the virus. “Anyone planning to attend a large gathering should check that they are protected against measles,” said Dr. Daniel Salas, Executive Manager of Comprehensive Immunization at PAHO. “Even people travelling within their own country may be exposed when large numbers of people from different regions come together. People aged 6 months and older who do not have evidence of vaccination should receive a dose of measles-rubella vaccine before traveling or attending the gathering, preferably at least two weeks in advance.” Vaccination remains the main protection Regional coverage reached 88% for the first dose of the MMR vaccine and 85% for the second dose in 2025, below the 95% coverage needed to prevent outbreaks. Persistent low coverage has increased the number of people susceptible to measles and created pockets of susceptible populations in parts of the Region. These gaps reflect several factors, including setbacks in immunization accumulated during the COVID-19 pandemic, vaccine hesitancy in some communities, operational challenges in delivering vaccination and barriers to accessing health services, particularly among Indigenous peoples, migrants and displaced populations. An estimated 1.6 million children in the Region of the Americas did not receive any dose of measles vaccine in 2025. PAHO supports countries to strengthen preparedness PAHO is working with countries across the Region to strengthen vaccination, surveillance and outbreak response. In South America, the Organization is supporting preparedness for upcoming mass gatherings expected to involve significant national and international population movement. PAHO is also supporting laboratory-based surveillance and genomic monitoring across the Region, while affected countries are receiving technical cooperation to strengthen vaccination, contact tracing and outbreak response. PAHO urges countries to close vaccination gaps Measles can cause serious illness and complications at any age, with infants and adults at greater risk of severe disease and death. Children under five and populations experiencing malnutrition or limited access to health services have been disproportionately affected during recent outbreaks in the Region. With active outbreaks continuing and major gatherings approaching, PAHO is urging countries to use every opportunity to ensure that people who are not protected against measles have access to vaccination, while strengthening surveillance and maintaining the capacity to detect and respond rapidly to cases.",
-      "link": "https://www.paho.org/en/news/9-10-2026-paho-assesses-risk-measles-spread-very-high-ahead-religious-mass-gatherings-americas",
-      "source": "PAHO News",
-      "source_type": "official",
-      "source_tier": "Tier 1",
-      "source_priority": 8,
-      "published_at": "2026-10-09T20:13:07+00:00",
-      "topics": [
-        "communication"
-      ],
-      "policy_tags": [
-        "communication",
-        "outbreak_response"
-      ],
-      "vaccines": [
-        "measles"
-      ],
-      "variants": [],
-      "target_country": "米国",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "PAHO / Washington DC"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "PAHO / Washington DC"
-        },
-        "target": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "米国"
-        }
-      },
-      "location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "米国"
-      },
-      "region": "North America",
-      "country": "米国",
-      "lat": 38.9072,
-      "lng": -77.0369,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "PAHO News"
       ]
     }
   ]
