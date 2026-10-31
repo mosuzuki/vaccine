@@ -1,8 +1,8 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-10-30T00:51:19.447553+00:00",
-  "item_count": 29,
+  "generated_at": "2026-10-31T00:42:19.906040+00:00",
+  "item_count": 23,
   "archive_count": 605,
   "days_back": 14,
   "plot_mode_default": "source",
@@ -23,7 +23,7 @@
       "name": "CDC Newsroom",
       "url": "https://tools.cdc.gov/api/v2/resources/media/316422.rss",
       "status": "ok",
-      "seen": 5,
+      "seen": 6,
       "kept": 0
     },
     {
@@ -57,7 +57,7 @@
       "url": "https://www.gov.uk/government/organisations/medicines-and-healthcare-products-regulatory-agency.atom",
       "status": "ok",
       "seen": 20,
-      "kept": 2
+      "kept": 1
     },
     {
       "name": "Health Canada Recalls and Safety Alerts",
@@ -82,7 +82,7 @@
       "name": "PAHO News",
       "url": "https://www.paho.org/en/rss.xml",
       "status": "ok",
-      "seen": 6,
+      "seen": 7,
       "kept": 1
     },
     {
@@ -103,14 +103,14 @@
       "name": "NEJM",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Anejm.org%20(trial%20OR%20effectiveness%20OR%20policy%20OR%20safety)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 2,
       "kept": 0
     },
     {
       "name": "BMJ",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abmj.com%20(policy%20OR%20trial%20OR%20effectiveness%20OR%20communication)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 7,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -131,14 +131,14 @@
       "name": "Nature Medicine vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fnm%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20uptake%20OR%20policy)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
       "name": "Nature Communications vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fncomms%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20surveillance)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 5,
       "kept": 0
     },
     {
@@ -166,7 +166,7 @@
       "name": "Science vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ascience.org%2Fdoi%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20antibody)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 5,
+      "seen": 3,
       "kept": 0
     },
     {
@@ -194,7 +194,7 @@
       "name": "JAMA vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjama%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 5,
+      "seen": 3,
       "kept": 0
     },
     {
@@ -229,42 +229,42 @@
       "name": "medRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Amedrxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
       "name": "bioRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abiorxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 13,
-      "kept": 2
+      "seen": 2,
+      "kept": 0
     },
     {
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 35,
-      "kept": 6
+      "seen": 27,
+      "kept": 3
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 52,
+      "seen": 23,
       "kept": 0
     },
     {
       "name": "AP Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 42,
+      "seen": 41,
       "kept": 1
     },
     {
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 32,
+      "seen": 24,
       "kept": 1
     },
     {
@@ -278,84 +278,84 @@
       "name": "STAT Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 52,
+      "seen": 41,
       "kept": 1
     },
     {
       "name": "Nature News Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 24,
+      "seen": 14,
       "kept": 2
     },
     {
       "name": "Science Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Ascience.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 24,
+      "seen": 15,
       "kept": 1
     },
     {
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 17,
-      "kept": 1
+      "seen": 15,
+      "kept": 0
     },
     {
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 62,
+      "seen": 35,
       "kept": 2
     },
     {
       "name": "Washington Post Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 32,
+      "seen": 34,
       "kept": 0
     },
     {
       "name": "NHK ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anhk.or.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 0,
+      "seen": 1,
       "kept": 0
     },
     {
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 44,
+      "seen": 22,
       "kept": 0
     },
     {
       "name": "朝日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Aasahi.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 14,
+      "seen": 12,
       "kept": 0
     },
     {
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 50,
+      "seen": 41,
       "kept": 0
     },
     {
       "name": "毎日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 31,
+      "seen": 26,
       "kept": 0
     },
     {
       "name": "JAMA Network vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 16,
+      "seen": 5,
       "kept": 0
     },
     {
@@ -397,15 +397,15 @@
       "name": "Pediatrics journal",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Apublications.aap.org%2Fpediatrics&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 3,
-      "kept": 1
+      "seen": 5,
+      "kept": 3
     },
     {
       "name": "PLOS journals vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajournals.plos.org%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20uptake%20OR%20policy)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
       "seen": 2,
-      "kept": 2
+      "kept": 1
     },
     {
       "name": "eClinicalMedicine vaccines",
@@ -460,19 +460,19 @@
       "name": "SSRN vaccine preprints",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Apapers.ssrn.com%20(effectiveness%20OR%20safety%20OR%20policy%20OR%20trial)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 3,
       "kept": 1
     }
   ],
   "weekly_ai_summary": {
-    "generated_at": "2026-10-30T00:51:19.447553+00:00",
+    "generated_at": "2026-10-31T00:42:19.906040+00:00",
     "period_days": 7,
-    "policy_count": 4,
-    "academic_count": 5,
+    "policy_count": 3,
+    "academic_count": 2,
     "status": "ok",
     "model": "gpt-4o-mini",
-    "policy_summary": "米国のワクチン政策に関する最近の報告では、がんワクチンの進展やインフルエンザワクチンの研究結果が示されています。また、COVID-19ワクチンの迅速かつ公平な配布が、2022年までに数百万の死亡を回避できた可能性があると指摘されています。",
-    "academic_summary": "インドにおける狂犬病ワクチンの免疫原性と安全性に関する第4相試験が報告され、mRNA-1345ワクチンの米国退役軍人に対する効果も評価されています。さらに、インフルエンザワクチンの効果予測やクリミア・コンゴ出血熱ワクチンの初期臨床試験に関する研究も発表されています。"
+    "policy_summary": "米国のワクチン政策に関する最新の報告では、がんワクチンの進展やインフルエンザワクチン研究の結果が示されています。また、COVIDワクチンの迅速かつ公平な配布が2022年までに数百万の死亡を防げた可能性があるとの政策提言もあります。",
+    "academic_summary": "インドにおける健康な成人を対象とした研究で、カンボジアパスツール研究所とタイ赤十字社の皮内狂犬病ワクチンの免疫原性と安全性が評価されました。また、米国の退役軍人に対するmRNA-1345ワクチンの呼吸器合胞体ウイルスに対する有効性が検討されています。"
   },
   "items": [
     {
@@ -937,138 +937,6 @@
       ]
     },
     {
-      "id": "c8e96fdbc631e60b",
-      "title": "Medical assistants talk to families about vaccines in about half of visits, study finds - CIDRAP",
-      "summary": "Medical assistants talk to families about vaccines in about half of visits, study finds CIDRAP",
-      "summary_ai": "Medical assistants talk to families about vaccines in about half of visits, study finds CIDRAP",
-      "title_original": "Medical assistants talk to families about vaccines in about half of visits, study finds - CIDRAP",
-      "summary_original": "Medical assistants talk to families about vaccines in about half of visits, study finds CIDRAP",
-      "summary_ai_original": "Medical assistants talk to families about vaccines in about half of visits, study finds CIDRAP",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVkVLbVA2V1dhaHkxU0JhTmg5SXhqRVAzT24zSXlONVlwckxpalprUVZzLTg4czVxWVZoSzFPWGNSOXNKTXBfTDJ4NjVKYUcwVXV5OW92SlJuNU4yYWhqckhfWlRBUnU4MTJXeFFJSVNVOEdBUUhBX3dBUDJzVkktX3VVWjZveGZ6UnFGV3FCY3Rpd1UtUE43YnY5bUlOd2JKVFZDSUw3c1pTQkRySnV5eU5jRTlhSEJGeG1hUVpDWWU?oc=5",
-      "source": "CIDRAP Vaccines & Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 8,
-      "published_at": "2026-10-26T18:45:42+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "CIDRAP / Minnesota"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "CIDRAP / Minnesota"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "CIDRAP Vaccines & Immunization"
-      ]
-    },
-    {
-      "id": "41d7d205ef8327c5",
-      "title": "Mathematical AI Predicts 40% and 57% Influenza Vaccine Effectiveness Against H1N1 and H3N2, Respectively, for the 2026--2027 U.S. Season - bioRxiv",
-      "summary": "Mathematical AI Predicts 40% and 57% Influenza Vaccine Effectiveness Against H1N1 and H3N2, Respectively, for the 2026--2027 U.S. Season bioRxiv",
-      "summary_ai": "Mathematical AI Predicts 40% and 57% Influenza Vaccine Effectiveness Against H1N1 and H3N2, Respectively, for the 2026--2027 U.S.",
-      "title_original": "Mathematical AI Predicts 40% and 57% Influenza Vaccine Effectiveness Against H1N1 and H3N2, Respectively, for the 2026--2027 U.S. Season - bioRxiv",
-      "summary_original": "Mathematical AI Predicts 40% and 57% Influenza Vaccine Effectiveness Against H1N1 and H3N2, Respectively, for the 2026--2027 U.S. Season bioRxiv",
-      "summary_ai_original": "Mathematical AI Predicts 40% and 57% Influenza Vaccine Effectiveness Against H1N1 and H3N2, Respectively, for the 2026--2027 U.S.",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXWG16Q2dTSm1NNjNoeXowSDJKcXdTTm51aU93ZTdKbkw2d1hJazNKeEU2aTFXZ3JCRXk4OGVPUklvN2tCazRWTGp0WDFXLWM1TGxqSW12aFJrbEFLM2Z0Y3owbVNnWHdJWGpidA?oc=5",
-      "source": "bioRxiv vaccines",
-      "source_type": "preprint",
-      "source_tier": "Tier 3",
-      "source_priority": 7,
-      "published_at": "2026-10-26T15:33:44+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "influenza"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "bioRxiv"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "bioRxiv"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "bioRxiv vaccines"
-      ]
-    },
-    {
       "id": "72046b8bf008324e",
       "title": "Safety and immunogenicity of an adenoviral-vectored vaccine against Crimean–Congo haemorrhagic fever in the UK (CCHF01): an open-label, first-in-human, non-randomised, phase 1 clinical trial",
       "summary": "Safety and immunogenicity of an adenoviral-vectored vaccine against Crimean–Congo haemorrhagic fever in the UK (CCHF01): an open-label, first-in-human, non-randomised, phase 1 clinical trial",
@@ -1202,73 +1070,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "PAHO News"
-      ]
-    },
-    {
-      "id": "445f2803bf29a132",
-      "title": "Study findings support the hepatitis B vaccine birth dose over other strategies - CIDRAP",
-      "summary": "Study findings support the hepatitis B vaccine birth dose over other strategies CIDRAP",
-      "summary_ai": "Study findings support the hepatitis B vaccine birth dose over other strategies CIDRAP",
-      "title_original": "Study findings support the hepatitis B vaccine birth dose over other strategies - CIDRAP",
-      "summary_original": "Study findings support the hepatitis B vaccine birth dose over other strategies CIDRAP",
-      "summary_ai_original": "Study findings support the hepatitis B vaccine birth dose over other strategies CIDRAP",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOGxBS0dVX0ttclRfeTBERUJ2bHZLeXhuQm52WVpUdVpsS0h3YW9YS1FVSl9CUGEtRk0xVTU0N3lfaWJZNlExNFpic0ZzQU9WTVlGUUZLbnRwbExwcU50SFg5TTBGYk5rbk1JY2NxQnViUXdYTU8yS19KWlVZVXd0TUZ3N3Z5VmYzU2ZPdTRvdlE1SEVqeVlBaFBpcjRtdVdTY0RkU3VoZHJyQnNXWjRERERB?oc=5",
-      "source": "CIDRAP Vaccines & Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 8,
-      "published_at": "2026-10-23T13:57:56+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "hepatitis"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "CIDRAP / Minnesota"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "CIDRAP / Minnesota"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "CIDRAP Vaccines & Immunization"
       ]
     },
     {
@@ -1536,6 +1337,143 @@
       ]
     },
     {
+      "id": "f94107ada83464b3",
+      "title": "Frontline Staff Vaccine Communication During Pediatric Well-Child Encounters: A Mixed-Methods Study - AAP",
+      "summary": "Frontline Staff Vaccine Communication During Pediatric Well-Child Encounters: A Mixed-Methods Study AAP",
+      "summary_ai": "Frontline Staff Vaccine Communication During Pediatric Well-Child Encounters: A Mixed-Methods Study AAP",
+      "title_original": "Frontline Staff Vaccine Communication During Pediatric Well-Child Encounters: A Mixed-Methods Study - AAP",
+      "summary_original": "Frontline Staff Vaccine Communication During Pediatric Well-Child Encounters: A Mixed-Methods Study AAP",
+      "summary_ai_original": "Frontline Staff Vaccine Communication During Pediatric Well-Child Encounters: A Mixed-Methods Study AAP",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNN2VldFViRmNXeWtFX0JQekZhVXhDbF9VcDBIRnRwY3J3ZjFuVFVPTHROenJoQlZ3NHhqMmpFUllIM3FQS1N5bGdXV1BydzZTWlQ1aHdUNTR2TGFxeFY2RWlWWXpXaHljSVBkV3JPb2dibnIzTWpnS3dCX2JrOVVwUkZVMlBkY3o5cDYxX0M1Vms4TlVrcTNlQlNGX3p2R3diRGk3R3FldWhkMlVYN2tpSy1sdE1DWG5MUGdlalRKQmlubkNrUUU1YXh2LVBIWEFBSkY1d1ptekxCdEk?oc=5",
+      "source": "Pediatrics journal",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-10-23T01:42:17+00:00",
+      "topics": [
+        "communication",
+        "research"
+      ],
+      "policy_tags": [
+        "communication"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "Pediatrics"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "Pediatrics"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Pediatrics journal"
+      ]
+    },
+    {
+      "id": "a50fd3f04a3cfd4b",
+      "title": "Immunogenicity and Safety of PHH-1V COVID-19 Vaccine as a Heterologous Booster in Adolescents - AAP",
+      "summary": "Immunogenicity and Safety of PHH-1V COVID-19 Vaccine as a Heterologous Booster in Adolescents AAP",
+      "summary_ai": "Immunogenicity and Safety of PHH-1V COVID-19 Vaccine as a Heterologous Booster in Adolescents AAP",
+      "title_original": "Immunogenicity and Safety of PHH-1V COVID-19 Vaccine as a Heterologous Booster in Adolescents - AAP",
+      "summary_original": "Immunogenicity and Safety of PHH-1V COVID-19 Vaccine as a Heterologous Booster in Adolescents AAP",
+      "summary_ai_original": "Immunogenicity and Safety of PHH-1V COVID-19 Vaccine as a Heterologous Booster in Adolescents AAP",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcGtsOW9QT2tEMXVHV0FITW5oWFhRVG00Z245aUZfc2hpZDdnN2l0cXR2MHFZQlhIdE5hd1ZFMFJxVFlONEdFTUhtMVNoX250cXJkRTdWanJuV1JHU0FHVXhhcUpUVmttZnpyc3g0eTdBUGRua3c3RElyV20xN2h2R01fQ05NbHhvWkt5Tmc0X0lHWldCMnlwN1ppUHFhN1ZfbkdFY2VOZnlQSTlnYnhLUlp0dWxxQ3R1R21DWHhmV3JPc0E2ck1N?oc=5",
+      "source": "Pediatrics journal",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-10-23T01:42:16+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [
+        "safety"
+      ],
+      "vaccines": [
+        "covid"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "Pediatrics"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "Pediatrics"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Pediatrics journal"
+      ]
+    },
+    {
       "id": "569560a9ae90cd33",
       "title": "Detailed data confirm Moderna and Merck cancer vaccine met key endpoints in melanoma trial - STAT",
       "summary": "Detailed data confirm Moderna and Merck cancer vaccine met key endpoints in melanoma trial STAT",
@@ -1549,7 +1487,7 @@
       "source_type": "media",
       "source_tier": "Tier 2",
       "source_priority": 7,
-      "published_at": "2026-10-22T19:04:34+00:00",
+      "published_at": "2026-10-22T07:00:00+00:00",
       "topics": [
         "research"
       ],
@@ -1598,138 +1536,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "STAT Vaccines / Immunization"
-      ]
-    },
-    {
-      "id": "d08644d6e4792ddb",
-      "title": "商業慣行を代表する予防接種スケジュールを使用した、採卵鶏の糞便微生物叢におけるワクチンに関連した変化の縦断的分析 - bioRxiv",
-      "summary": "商行為bioRxivを代表する予防接種スケジュールを使用した、採卵鶏の糞便微生物叢におけるワクチンに関連した変化の縦断的分析",
-      "summary_ai": "商行為bioRxivを代表する予防接種スケジュールを使用した、採卵鶏の糞便微生物叢におけるワクチンに関連した変化の縦断的分析",
-      "title_original": "Longitudinal analysis of vaccine-associated alterations in the faecal microbiota of layer chickens using a vaccination schedule representative of commercial practice - bioRxiv",
-      "summary_original": "Longitudinal analysis of vaccine-associated alterations in the faecal microbiota of layer chickens using a vaccination schedule representative of commercial practice bioRxiv",
-      "summary_ai_original": "Longitudinal analysis of vaccine-associated alterations in the faecal microbiota of layer chickens using a vaccination schedule representative of commercial practice bioRxiv",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zWm92bUVFVk94RTZLbEREc3Z0TndNeXFVZ1llWTdDZDZvbzlpcXlMbkcyQ19sdTkxaE9ueXhzaFlWSDdPTFV3d3JVWGI0TEJfR1ZIUEthc0pSQXlJS1VBc1R5ZFFaNGhyWkkzcA?oc=5",
-      "source": "bioRxiv vaccines",
-      "source_type": "preprint",
-      "source_tier": "Tier 3",
-      "source_priority": 7,
-      "published_at": "2026-10-22T07:33:12+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [
-        "schedule"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "bioRxiv"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "bioRxiv"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "bioRxiv vaccines"
-      ]
-    },
-    {
-      "id": "ac286bcb2f7d95dc",
-      "title": "Analysis of the impact of naturally-acquired immunity on Shigella vaccine performance to inform clinical trials: A simulation-based modeling study",
-      "summary": "Analysis of the impact of naturally-acquired immunity on Shigella vaccine performance to inform clinical trials: A simulation-based modeling study",
-      "summary_ai": "Analysis of the impact of naturally-acquired immunity on Shigella vaccine performance to inform clinical trials: A simulation-based modeling study",
-      "title_original": "Analysis of the impact of naturally-acquired immunity on Shigella vaccine performance to inform clinical trials: A simulation-based modeling study",
-      "summary_original": "Analysis of the impact of naturally-acquired immunity on Shigella vaccine performance to inform clinical trials: A simulation-based modeling study",
-      "summary_ai_original": "Analysis of the impact of naturally-acquired immunity on Shigella vaccine performance to inform clinical trials: A simulation-based modeling study",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVTBXSjJOYUxmMTNoMVdZMmV4MzRwd1B0dllfMGIxRmJVd1UybWlRc21LaHNFb3FtR1FkQ0hNY2JQOUJDUVFCUWI4NVdhc0tLY09FdXBwWXZSWm9LZ0JaVzNFRkplZUNJUDBVRkpyeEhZRzZiaE04MDFIZkVuT1BYSmdENGI?oc=5",
-      "source": "PLOS journals vaccines",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 7,
-      "published_at": "2026-10-21T18:12:02+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "PLOS"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "PLOS"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "PLOS journals vaccines"
       ]
     },
     {
@@ -1997,143 +1803,6 @@
       ]
     },
     {
-      "id": "b408a7a58ba452fc",
-      "title": "‘Chaos in communication’: How shared clinical decision making for vaccines adds confusion - CIDRAP",
-      "summary": "‘Chaos in communication’: How shared clinical decision making for vaccines adds confusion CIDRAP",
-      "summary_ai": "‘Chaos in communication’: How shared clinical decision making for vaccines adds confusion CIDRAP",
-      "title_original": "‘Chaos in communication’: How shared clinical decision making for vaccines adds confusion - CIDRAP",
-      "summary_original": "‘Chaos in communication’: How shared clinical decision making for vaccines adds confusion CIDRAP",
-      "summary_ai_original": "‘Chaos in communication’: How shared clinical decision making for vaccines adds confusion CIDRAP",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdzNxeUt1SkhSTUpEcFF3bFZWMGhUdGNNS0VOcE5oNHZpQnd1cFVkcU8xc3JLb3MyUzlta2owU1FSRVkzZGpISzVjZl84enBhZ0dCWEc0UnVWTVUxRm9iSkFTRVJPUXUxRFVUWnN1NXo0eGdKTWM1R0c3dmsyN0xib3p4WE43ZHJuYjdUT2ZBS2tSUFpoTDNwSUh6elNZUml5STlXMDZIUnBmVlN2SXlXSnBma1ZxQWhkZXp3?oc=5",
-      "source": "CIDRAP Vaccines & Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 8,
-      "published_at": "2026-10-20T19:25:07+00:00",
-      "topics": [
-        "communication"
-      ],
-      "policy_tags": [
-        "communication"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "CIDRAP / Minnesota"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "CIDRAP / Minnesota"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "CIDRAP Vaccines & Immunization"
-      ]
-    },
-    {
-      "id": "8ff801b1eb7a2009",
-      "title": "IXCHIQ Chikungunya vaccine: UK marketing authorisation withdrawn following safety review",
-      "summary": "Following advice from the Commission on Human Medicines (CHM), the MHRA has concluded that the benefit-risk balance for the IXCHIQ chikungunya vaccine is no longer considered favourable and the UK marketing authorisation has been withdrawn.",
-      "summary_ai": "Advice for Healthcare Professionals: - the UK marketing authorisation for the IXCHIQ vaccine (chikungunya vaccine) has been withdrawn and the product is being removed from the UK market - do not prescribe, supply or administer the IXCHIQ vaccine, and dispose of any remaining stock in accordance with local policies - en",
-      "title_original": "IXCHIQ Chikungunya vaccine: UK marketing authorisation withdrawn following safety review",
-      "summary_original": "Following advice from the Commission on Human Medicines (CHM), the MHRA has concluded that the benefit-risk balance for the IXCHIQ chikungunya vaccine is no longer considered favourable and the UK marketing authorisation has been withdrawn.",
-      "summary_ai_original": "Advice for Healthcare Professionals: - the UK marketing authorisation for the IXCHIQ vaccine (chikungunya vaccine) has been withdrawn and the product is being removed from the UK market - do not prescribe, supply or administer the IXCHIQ vaccine, and dispose of any remaining stock in accordance with local policies - en",
-      "article_text_original": "IXCHIQ Chikungunya vaccine: UK marketing authorisation withdrawn following safety review Following advice from the Commission on Human Medicines (CHM), the MHRA has concluded that the benefit-risk balance for the IXCHIQ chikungunya vaccine is no longer considered favourable and the UK marketing authorisation has been withdrawn. Summary Following advice from the Commission on Human Medicines (CHM), the MHRA has concluded that the benefit-risk balance for the IXCHIQ chikungunya vaccine is no longer considered favourable and the UK marketing authorisation has been withdrawn. Healthcare professionals should no longer prescribe or administer the IXCHIQ vaccine and should instead consider alternative measures to reduce the risk of chikungunya infection in individuals travelling to affected areas. Advice for Healthcare Professionals: - the UK marketing authorisation for the IXCHIQ vaccine (chikungunya vaccine) has been withdrawn and the product is being removed from the UK market - do not prescribe, supply or administer the IXCHIQ vaccine, and dispose of any remaining stock in accordance with local policies - ensure that any materials, systems or communications referring to available UK vaccination options are updated to remove the IXCHIQ vaccine - advise travellers of alternative measures to prevent chikungunya infection, including other available vaccines for chikungunya, avoidance of mosquito bites and adherence to current health-related travel advice - patients who have previously received the IXCHIQ vaccine do not need to take any specific action as a result of this regulatory decision. However, they should seek medical advice if they have experienced a suspected adverse reaction following IXCHIQ vaccination - continue to report suspected adverse reactions associated with the IXCHIQ vaccine on a Yellow Card Advice for Healthcare Professionals to Provide to Patients: - following a review of all available evidence the MHRA has withdrawn the UK marketing authorisation for the IXCHIQ vaccine because the benefits of this vaccine are no longer considered to outweigh its risks - individuals who have already received the IXCHIQ vaccine do not need another vaccination or any other specific medical treatment because of this decision - anyone who experiences a suspected side effect following vaccination should seek medical advice and report it on a Yellow Card Background IXCHIQ is a live attenuated vaccine indicated for the prevention of chikungunya virus infection in adults travelling to high-risk areas. Since its authorisation, serious adverse reactions have been reported, including chikungunya-like symptoms and rare neurological events such as encephalitis. These cases have occurred predominantly in older adults and individuals with underlying medical conditions, but were also reported in individuals with no known health conditions. Some cases resulted in hospitalisation or death. Following review of post-authorisation safety data and consultation with the CHM, the MHRA has withdrawn the marketing authorisation for the IXCHIQ vaccine, as the benefits of receiving this vaccine for UK travellers no longer outweigh the risks. Therefore, healthcare professionals must no longer prescribe, supply or administer the IXCHIQ vaccine and should dispose of any remaining stock in accordance with local policies. There is no risk to individuals who have previously received IXCHIQ vaccination and did not experience side effects, and no revaccination or other medical intervention is required. Any individuals who have previously received IXCHIQ vaccination and experienced side effects are advised to seek medical advice and report to the Yellow Card scheme. Individuals travelling from the UK to regions with known chikungunya transmission are advised to consider alternative measures to prevent possible infection, such as vaccination with an alternative vaccine, prevention of mosquito bites through the use of netting or repellent, and adherence to health-related travel advice. Reporting advice Healthcare professionals, patients, and caregivers are asked to submit reports using the Yellow Card scheme electronically using: - the Yellow Card website - the Yellow Card app; download from the Apple App Store or Google Play Store - some clinical IT systems for healthcare professionals (EMIS, SystmOne, Vision, MiDatabank, and Ulysses) When reporting suspected adverse drug reactions, please provide as much information as possible, including information about medical history, any concomitant medication, onset timing, and treatment dates. Download document Additional information You can sign up to receive email notifications for Drug Safety Updates. You can sign up to receive our monthly roundup of safety communications. For any enquiries, please contact info@mhra.gov.uk Article citation: MHRA Drug Safety Update volume 20, issue 3: October 2026: 2",
-      "link": "https://www.gov.uk/drug-safety-update/ixchiq-chikungunya-vaccine-uk-marketing-authorisation-withdrawn-following-safety-review",
-      "source": "MHRA",
-      "source_type": "official",
-      "source_tier": "Tier 1",
-      "source_priority": 8,
-      "published_at": "2026-10-20T09:01:49+00:00",
-      "topics": [
-        "communication",
-        "policy"
-      ],
-      "policy_tags": [
-        "approval",
-        "communication",
-        "safety"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "英国",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "MHRA / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "MHRA / London"
-        },
-        "target": {
-          "key": "uk",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "英国"
-        }
-      },
-      "location": {
-        "key": "uk",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "英国"
-      },
-      "region": "Europe",
-      "country": "英国",
-      "lat": 51.5074,
-      "lng": -0.1278,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "MHRA"
-      ]
-    },
-    {
       "id": "760c04290ca9a344",
       "title": "As Ebola epidemic rages, Congo bets on high-stakes ‘hope’ vaccine trial - Science | AAAS",
       "summary": "As Ebola epidemic rages, Congo bets on high-stakes ‘hope’ vaccine trial Science | AAAS",
@@ -2199,80 +1868,15 @@
       ]
     },
     {
-      "id": "0e3257563ee553e2",
-      "title": "Kennedy’s Vaccine Plan Could Cause Surge in Hepatitis B, Study Finds - The New York Times",
-      "summary": "Kennedy’s Vaccine Plan Could Cause Surge in Hepatitis B, Study Finds The New York Times",
-      "summary_ai": "Kennedy’s Vaccine Plan Could Cause Surge in Hepatitis B, Study Finds The New York Times",
-      "title_original": "Kennedy’s Vaccine Plan Could Cause Surge in Hepatitis B, Study Finds - The New York Times",
-      "summary_original": "Kennedy’s Vaccine Plan Could Cause Surge in Hepatitis B, Study Finds The New York Times",
-      "summary_ai_original": "Kennedy’s Vaccine Plan Could Cause Surge in Hepatitis B, Study Finds The New York Times",
+      "id": "30338980830b1456",
+      "title": "Recommendations for COVID-19 Vaccines in Infants, Children, and Adolescents, 2026–2027: Technical Report - AAP",
+      "summary": "Recommendations for COVID-19 Vaccines in Infants, Children, and Adolescents, 2026–2027: Technical Report AAP",
+      "summary_ai": "Recommendations for COVID-19 Vaccines in Infants, Children, and Adolescents, 2026–2027: Technical Report AAP",
+      "title_original": "Recommendations for COVID-19 Vaccines in Infants, Children, and Adolescents, 2026–2027: Technical Report - AAP",
+      "summary_original": "Recommendations for COVID-19 Vaccines in Infants, Children, and Adolescents, 2026–2027: Technical Report AAP",
+      "summary_ai_original": "Recommendations for COVID-19 Vaccines in Infants, Children, and Adolescents, 2026–2027: Technical Report AAP",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tNXRtMTJKV3R0R05tck0tbkMxNWd1TmQ0cW0ydm1LeVdxUFFaTmNWWDNvd2xaNGV2Znc1dEF0RHdCRnRQUHlWVjhPMk1abUN5Q250ZHBnYzVIUzdNSlBCZmZTQlJ2dXd5SUFHU1VGQjFCVG5KM0k3d291dnprdHc?oc=5",
-      "source": "New York Times Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-10-19T07:00:00+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "New York Times"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "New York Times"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "New York Times Vaccines / Immunization"
-      ]
-    },
-    {
-      "id": "5004f4a3bea5ffa4",
-      "title": "Recommendations for COVID-19 Vaccines in Infants, Children, and Adolescents, 2026–2027: Policy Statement - AAP",
-      "summary": "Recommendations for COVID-19 Vaccines in Infants, Children, and Adolescents, 2026–2027: Policy Statement AAP",
-      "summary_ai": "Recommendations for COVID-19 Vaccines in Infants, Children, and Adolescents, 2026–2027: Policy Statement AAP",
-      "title_original": "Recommendations for COVID-19 Vaccines in Infants, Children, and Adolescents, 2026–2027: Policy Statement - AAP",
-      "summary_original": "Recommendations for COVID-19 Vaccines in Infants, Children, and Adolescents, 2026–2027: Policy Statement AAP",
-      "summary_ai_original": "Recommendations for COVID-19 Vaccines in Infants, Children, and Adolescents, 2026–2027: Policy Statement AAP",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdzFGcW4xbkVOb0kzWUw5OVkyRjFVaVhZLU9BQ1Y0RVdCbTU5MW94NC1JRXlySWs5azR4SVZadkRqWVAyRWFldzZOb0QyTkZ6QzEwN3E1VWVlcGt2UzZfQ1Y5UkxIMnFWcVFSd2xpaU1PeGJydWhGRUZmdVVzbFF4Vnl0MUI5RkF5QVZhajE4WFhscml2ajVuZGpDTGZLRURpOEt1dm0wdm9WSmVSWHdxZ0s2VEZLNHo2SW9CdmlSdVZSVm5ZREEwRFA5R1E?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYkNYazd2NmdqRk4ydjlfcmU5QmptZ2ZsX041Tml2ODI0bkJGc0V4NlczU010SncxVy1pbmRkNXBaeTJNdWlaMWpvLWlaeFpOVlI1Z1Y0azBRVmJwZG55ODVMOWJ2eE1ZcXhsUThvSzJxcF9YZDVzSHUzbEZzUlhWa2FvUzhHYkQxY1ltNWtwUThXeVlBWGNRWm9WNlVTc3A4ZW5HM3lNS1VDQnFERUJKcFpTb3c0T3JBUmdzR3djcnBpX0JMZzFWN0hEa1g?oc=5",
       "source": "Pediatrics journal",
       "source_type": "academic",
       "source_tier": "Tier 3",
