@@ -1,7 +1,7 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-10-31T00:42:19.906040+00:00",
+  "generated_at": "2026-11-01T00:02:18.750200+00:00",
   "item_count": 23,
   "archive_count": 605,
   "days_back": 14,
@@ -103,21 +103,21 @@
       "name": "NEJM",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Anejm.org%20(trial%20OR%20effectiveness%20OR%20policy%20OR%20safety)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 1,
       "kept": 0
     },
     {
       "name": "BMJ",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abmj.com%20(policy%20OR%20trial%20OR%20effectiveness%20OR%20communication)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 6,
       "kept": 0
     },
     {
       "name": "Vaccine journal",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Asciencedirect.com%2Fjournal%2Fvaccine&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -138,7 +138,7 @@
       "name": "Nature Communications vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fncomms%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20surveillance)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 5,
+      "seen": 4,
       "kept": 0
     },
     {
@@ -194,15 +194,15 @@
       "name": "JAMA vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjama%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 6,
       "kept": 0
     },
     {
       "name": "JAMA Network Open vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjamanetworkopen%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 3,
-      "kept": 1
+      "seen": 1,
+      "kept": 0
     },
     {
       "name": "JAMA Internal Medicine vaccines",
@@ -222,7 +222,7 @@
       "name": "Human Vaccines & Immunotherapeutics",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Atandfonline.com%20%22Human%20Vaccines%20%26%20Immunotherapeutics%22&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
@@ -236,14 +236,14 @@
       "name": "bioRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abiorxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
-      "kept": 0
+      "seen": 13,
+      "kept": 3
     },
     {
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 27,
+      "seen": 25,
       "kept": 3
     },
     {
@@ -257,14 +257,14 @@
       "name": "AP Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 41,
+      "seen": 24,
       "kept": 1
     },
     {
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 24,
+      "seen": 50,
       "kept": 1
     },
     {
@@ -278,7 +278,7 @@
       "name": "STAT Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 41,
+      "seen": 40,
       "kept": 1
     },
     {
@@ -286,76 +286,76 @@
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
       "seen": 14,
-      "kept": 2
+      "kept": 1
     },
     {
       "name": "Science Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Ascience.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 15,
+      "seen": 10,
       "kept": 1
     },
     {
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 15,
+      "seen": 21,
       "kept": 0
     },
     {
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 35,
+      "seen": 37,
       "kept": 2
     },
     {
       "name": "Washington Post Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 34,
+      "seen": 27,
       "kept": 0
     },
     {
       "name": "NHK ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anhk.or.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 22,
+      "seen": 21,
       "kept": 0
     },
     {
       "name": "朝日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Aasahi.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 12,
+      "seen": 14,
       "kept": 0
     },
     {
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 41,
+      "seen": 20,
       "kept": 0
     },
     {
       "name": "毎日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 26,
+      "seen": 18,
       "kept": 0
     },
     {
       "name": "JAMA Network vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 5,
+      "seen": 4,
       "kept": 0
     },
     {
@@ -369,8 +369,8 @@
       "name": "Clinical Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fcid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
-      "kept": 0
+      "seen": 3,
+      "kept": 1
     },
     {
       "name": "Journal of Infectious Diseases",
@@ -383,8 +383,8 @@
       "name": "Open Forum Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fofid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
-      "kept": 1
+      "seen": 0,
+      "kept": 0
     },
     {
       "name": "Emerging Infectious Diseases",
@@ -404,7 +404,7 @@
       "name": "PLOS journals vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajournals.plos.org%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20uptake%20OR%20policy)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 1,
       "kept": 1
     },
     {
@@ -465,14 +465,14 @@
     }
   ],
   "weekly_ai_summary": {
-    "generated_at": "2026-10-31T00:42:19.906040+00:00",
+    "generated_at": "2026-11-01T00:02:18.750200+00:00",
     "period_days": 7,
-    "policy_count": 3,
-    "academic_count": 2,
+    "policy_count": 2,
+    "academic_count": 3,
     "status": "ok",
     "model": "gpt-4o-mini",
-    "policy_summary": "米国のワクチン政策に関する最新の報告では、がんワクチンの進展やインフルエンザワクチン研究の結果が示されています。また、COVIDワクチンの迅速かつ公平な配布が2022年までに数百万の死亡を防げた可能性があるとの政策提言もあります。",
-    "academic_summary": "インドにおける健康な成人を対象とした研究で、カンボジアパスツール研究所とタイ赤十字社の皮内狂犬病ワクチンの免疫原性と安全性が評価されました。また、米国の退役軍人に対するmRNA-1345ワクチンの呼吸器合胞体ウイルスに対する有効性が検討されています。"
+    "policy_summary": "米国のワクチン政策に関する最新情報では、がんワクチンの進展やワクチン被害センターの設立、インフルエンザワクチンに関する研究結果が報告されています。また、MHRAの新しい研究により、針を使わないStrep Aワクチンの開発が進展しています。",
+    "academic_summary": "インドにおける健康な成人を対象とした相互作用試験で、カンボジアパスツール研究所とタイ赤十字社の皮内狂犬病ワクチンの免疫原性と安全性が評価されました。また、AIを用いた数学的モデルが2026-2027年のインフルエンザワクチンの効果を予測しています。"
   },
   "items": [
     {
@@ -674,20 +674,20 @@
       ]
     },
     {
-      "id": "8c3e3cad5336f398",
-      "title": "Effectiveness of the mRNA-1345 Vaccine Against Respiratory Syncytial Virus in US Veterans",
-      "summary": "Effectiveness of the mRNA-1345 Vaccine Against Respiratory Syncytial Virus in US Veterans",
-      "summary_ai": "Effectiveness of the mRNA-1345 Vaccine Against Respiratory Syncytial Virus in US Veterans",
-      "title_original": "Effectiveness of the mRNA-1345 Vaccine Against Respiratory Syncytial Virus in US Veterans",
-      "summary_original": "Effectiveness of the mRNA-1345 Vaccine Against Respiratory Syncytial Virus in US Veterans",
-      "summary_ai_original": "Effectiveness of the mRNA-1345 Vaccine Against Respiratory Syncytial Virus in US Veterans",
+      "id": "4afc4d3f18f62930",
+      "title": "ワクチン臨床試験のライフサイクル全体にわたる人工知能: 証拠、準備状況、およびガードレール - Oxford Academic",
+      "summary": "ワクチン臨床試験のライフサイクル全体にわたる人工知能: 証拠、準備、およびガードレール Oxford Academic",
+      "summary_ai": "ワクチン臨床試験のライフサイクル全体にわたる人工知能: 証拠、準備、およびガードレール Oxford Academic",
+      "title_original": "Artificial Intelligence Across the Vaccine Clinical Trial Lifecycle: Evidence, Readiness, and Guardrails - Oxford Academic",
+      "summary_original": "Artificial Intelligence Across the Vaccine Clinical Trial Lifecycle: Evidence, Readiness, and Guardrails Oxford Academic",
+      "summary_ai_original": "Artificial Intelligence Across the Vaccine Clinical Trial Lifecycle: Evidence, Readiness, and Guardrails Oxford Academic",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBRMzFEQ0hrdFRKUjRzb0tuOXhhekRad2hka0xjQUI3bGlCeUliVENfS2Z1VVhCZzd4UElkQVFLWUlWcU1nVjRKdGU0eE9HOGF2ZkNRM0pjMjV6VERvMEIyemZlV01oeGVSa3ZTMHN5bThHVWZQRlgw?oc=5",
-      "source": "JAMA Network Open vaccines",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54dURobklhYnlROElBODhXakpTOUplc3Z5N1dhWkxjbFJ4OEZPME50ZjJ3ZU00V2pTNzY3cmhVRV9vMElWLURCR2ZhN0psbUkxdm9rQnU4ZDM1eEVjNVByZ1BySQ?oc=5",
+      "source": "Clinical Infectious Diseases",
       "source_type": "academic",
       "source_tier": "Tier 3",
-      "source_priority": 9,
-      "published_at": "2026-10-28T17:32:23+00:00",
+      "source_priority": 8,
+      "published_at": "2026-10-28T19:02:27+00:00",
       "topics": [
         "research"
       ],
@@ -701,7 +701,7 @@
         "lat": 38.9072,
         "lng": -77.0369,
         "region": "North America",
-        "label": "JAMA Network Open"
+        "label": "Clinical Infectious Diseases"
       },
       "plot": {
         "source": {
@@ -710,7 +710,7 @@
           "lat": 38.9072,
           "lng": -77.0369,
           "region": "North America",
-          "label": "JAMA Network Open"
+          "label": "Clinical Infectious Diseases"
         },
         "target": {
           "key": "unknown",
@@ -735,7 +735,7 @@
       "lng": 0.0,
       "duplicate_count": 1,
       "duplicate_sources": [
-        "JAMA Network Open vaccines"
+        "Clinical Infectious Diseases"
       ]
     },
     {
@@ -804,27 +804,25 @@
       ]
     },
     {
-      "id": "e5811b924439dedf",
-      "title": "Policy brief suggests speedier, fairer COVID vaccine rollout could have averted millions of deaths by 2022 - CIDRAP",
-      "summary": "Policy brief suggests speedier, fairer COVID vaccine rollout could have averted millions of deaths by 2022 CIDRAP",
-      "summary_ai": "Policy brief suggests speedier, fairer COVID vaccine rollout could have averted millions of deaths by 2022 CIDRAP",
-      "title_original": "Policy brief suggests speedier, fairer COVID vaccine rollout could have averted millions of deaths by 2022 - CIDRAP",
-      "summary_original": "Policy brief suggests speedier, fairer COVID vaccine rollout could have averted millions of deaths by 2022 CIDRAP",
-      "summary_ai_original": "Policy brief suggests speedier, fairer COVID vaccine rollout could have averted millions of deaths by 2022 CIDRAP",
+      "id": "9f832a76993166f2",
+      "title": "Study suggests gut microbiome determines vaccine reaction - CIDRAP",
+      "summary": "Study suggests gut microbiome determines vaccine reaction CIDRAP",
+      "summary_ai": "Study suggests gut microbiome determines vaccine reaction CIDRAP",
+      "title_original": "Study suggests gut microbiome determines vaccine reaction - CIDRAP",
+      "summary_original": "Study suggests gut microbiome determines vaccine reaction CIDRAP",
+      "summary_ai_original": "Study suggests gut microbiome determines vaccine reaction CIDRAP",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWWc0bXBSbG5Vc3N5cHByTTROU0d3VGotbU5vMmxiSHVBcEdNbHRzQ2RxUGJOS1hiOE10ZEYxSTNRRWhHUThwendqd0c3MWxfNjF6U0F5Q19tZG4tazVtVHVOVmNBMGFHNjRsV29Bd2Vsb2p1OF95R1JOY0JIamJPWlFHU1pqc0QxeUtxOWJ0VnNZbmU3bEUwWTBMS1dIUVBMV2syMlBDeHNLeUhnRWRqS0dpbUJrQXMtRi1QREJVMHE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQW1LYWhmM0xKSHQtUUtGdEpTN0c5NzNDQVdFalNYS3lZQlV2bTcwOVhGMWdyQkctcUN6dVRyc3ZXMmtDT1lDWnp3X2hpNmNIYnV6REYxUlVnOHBUUENVQ3NFVkJfSjdYOGtqSUxHZWZYYWdYb21GR1kwV2tnTFNuRElNbEdzUU9nVjNwS3EtSC1GRDdWVGpjc0RKaHpoTm9nb0JLOVZsRXY?oc=5",
       "source": "CIDRAP Vaccines & Immunization",
       "source_type": "media",
       "source_tier": "Tier 2",
       "source_priority": 8,
-      "published_at": "2026-10-27T19:20:00+00:00",
+      "published_at": "2026-10-27T19:54:00+00:00",
       "topics": [
-        "policy"
+        "research"
       ],
       "policy_tags": [],
-      "vaccines": [
-        "covid"
-      ],
+      "vaccines": [],
       "variants": [],
       "target_country": "不明",
       "source_location": {
@@ -934,6 +932,73 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "MHRA"
+      ]
+    },
+    {
+      "id": "41d7d205ef8327c5",
+      "title": "Mathematical AI Predicts 40% and 57% Influenza Vaccine Effectiveness Against H1N1 and H3N2, Respectively, for the 2026--2027 U.S. Season - bioRxiv",
+      "summary": "Mathematical AI Predicts 40% and 57% Influenza Vaccine Effectiveness Against H1N1 and H3N2, Respectively, for the 2026--2027 U.S. Season bioRxiv",
+      "summary_ai": "Mathematical AI Predicts 40% and 57% Influenza Vaccine Effectiveness Against H1N1 and H3N2, Respectively, for the 2026--2027 U.S.",
+      "title_original": "Mathematical AI Predicts 40% and 57% Influenza Vaccine Effectiveness Against H1N1 and H3N2, Respectively, for the 2026--2027 U.S. Season - bioRxiv",
+      "summary_original": "Mathematical AI Predicts 40% and 57% Influenza Vaccine Effectiveness Against H1N1 and H3N2, Respectively, for the 2026--2027 U.S. Season bioRxiv",
+      "summary_ai_original": "Mathematical AI Predicts 40% and 57% Influenza Vaccine Effectiveness Against H1N1 and H3N2, Respectively, for the 2026--2027 U.S.",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXWG16Q2dTSm1NNjNoeXowSDJKcXdTTm51aU93ZTdKbkw2d1hJazNKeEU2aTFXZ3JCRXk4OGVPUklvN2tCazRWTGp0WDFXLWM1TGxqSW12aFJrbEFLM2Z0Y3owbVNnWHdJWGpidA?oc=5",
+      "source": "bioRxiv vaccines",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-10-26T15:34:14+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "influenza"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "bioRxiv"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "bioRxiv"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "bioRxiv vaccines"
       ]
     },
     {
@@ -1073,71 +1138,6 @@
       ]
     },
     {
-      "id": "fabd1930542f9a0b",
-      "title": "Lymph node-targeted, mKRAS-specific amphiphile vaccine in pancreatic cancer: the randomized phase 2 AMPLIFY-7P trial",
-      "summary": "Lymph node-targeted, mKRAS-specific amphiphile vaccine in pancreatic cancer: the randomized phase 2 AMPLIFY-7P trial",
-      "summary_ai": "Lymph node-targeted, mKRAS-specific amphiphile vaccine in pancreatic cancer: the randomized phase 2 AMPLIFY-7P trial",
-      "title_original": "Lymph node-targeted, mKRAS-specific amphiphile vaccine in pancreatic cancer: the randomized phase 2 AMPLIFY-7P trial",
-      "summary_original": "Lymph node-targeted, mKRAS-specific amphiphile vaccine in pancreatic cancer: the randomized phase 2 AMPLIFY-7P trial",
-      "summary_ai_original": "Lymph node-targeted, mKRAS-specific amphiphile vaccine in pancreatic cancer: the randomized phase 2 AMPLIFY-7P trial",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQdUlKUm5JNnRIVmdlLUhYelE4NHNmTFlNNnV2blZnclY5aUpZbV9DVG9rQnJFRHNKdFV2TzN2OWpZMXA1b0ZSNkhQQU9NT3I5QWliaEVZMlpndGRlVXdN?oc=5",
-      "source": "Nature News Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 5,
-      "published_at": "2026-10-23T12:53:29+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "Nature News"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "Nature News"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Nature News Vaccines / Immunization"
-      ]
-    },
-    {
       "id": "44ff19ee2fc2ddac",
       "title": "First personalised cancer vaccine cuts risk of disease returning in major trial - BBC",
       "summary": "First personalised cancer vaccine cuts risk of disease returning in major trial BBC",
@@ -1203,13 +1203,80 @@
       ]
     },
     {
-      "id": "d713bea244eec6d8",
-      "title": "Immunogenicity And Safety Of Fractional-Dose Yellow Fever Vaccination: A Systematic Review And Meta-Analysis Of Randomised Controlled Trials - SSRN eLibrary",
-      "summary": "Immunogenicity And Safety Of Fractional-Dose Yellow Fever Vaccination: A Systematic Review And Meta-Analysis Of Randomised Controlled Trials SSRN eLibrary",
-      "summary_ai": "Immunogenicity And Safety Of Fractional-Dose Yellow Fever Vaccination: A Systematic Review And Meta-Analysis Of Randomised Controlled Trials SSRN eLibrary",
-      "title_original": "Immunogenicity And Safety Of Fractional-Dose Yellow Fever Vaccination: A Systematic Review And Meta-Analysis Of Randomised Controlled Trials - SSRN eLibrary",
-      "summary_original": "Immunogenicity And Safety Of Fractional-Dose Yellow Fever Vaccination: A Systematic Review And Meta-Analysis Of Randomised Controlled Trials SSRN eLibrary",
-      "summary_ai_original": "Immunogenicity And Safety Of Fractional-Dose Yellow Fever Vaccination: A Systematic Review And Meta-Analysis Of Randomised Controlled Trials SSRN eLibrary",
+      "id": "dd76376bd7d34230",
+      "title": "‘Bespoke’ mRNA vaccine significantly reduces risk of melanoma recurrence or death, clinical trial shows - The Guardian",
+      "summary": "‘Bespoke’ mRNA vaccine significantly reduces risk of melanoma recurrence or death, clinical trial shows The Guardian",
+      "summary_ai": "‘Bespoke’ mRNA vaccine significantly reduces risk of melanoma recurrence or death, clinical trial shows The Guardian",
+      "title_original": "‘Bespoke’ mRNA vaccine significantly reduces risk of melanoma recurrence or death, clinical trial shows - The Guardian",
+      "summary_original": "‘Bespoke’ mRNA vaccine significantly reduces risk of melanoma recurrence or death, clinical trial shows The Guardian",
+      "summary_ai_original": "‘Bespoke’ mRNA vaccine significantly reduces risk of melanoma recurrence or death, clinical trial shows The Guardian",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQUtvY3pZb3RlNjQ1Um1HTHE5Q0E1RklTMG1abU1RSEM5OUg0c0NEaTJnZUtlMDVoZ1pXYW9oQkhib0Voc2UtTGE2NUtWcmpJaV9BODc5T1g4d3lCZ0hneGN6dE1hWUxPQlJaOC14QmQ1NFJ2MzZHelJMUkVWWkN6UThub3BIVUxkTGxLckd0R1czX1lld2EzNEVLbS1sT2JC?oc=5",
+      "source": "Guardian Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-10-23T07:00:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "covid"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "The Guardian"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "The Guardian"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Guardian Vaccines / Immunization"
+      ]
+    },
+    {
+      "id": "a32d082adaf0438b",
+      "title": "Immunogenicity And Safety Of Fractional-Dose Yellow Fever Vaccination: A Systematic Review And Meta-Analysis Of Randomised Controlled Trials - SSRN",
+      "summary": "Immunogenicity And Safety Of Fractional-Dose Yellow Fever Vaccination: A Systematic Review And Meta-Analysis Of Randomised Controlled Trials SSRN",
+      "summary_ai": "Immunogenicity And Safety Of Fractional-Dose Yellow Fever Vaccination: A Systematic Review And Meta-Analysis Of Randomised Controlled Trials SSRN",
+      "title_original": "Immunogenicity And Safety Of Fractional-Dose Yellow Fever Vaccination: A Systematic Review And Meta-Analysis Of Randomised Controlled Trials - SSRN",
+      "summary_original": "Immunogenicity And Safety Of Fractional-Dose Yellow Fever Vaccination: A Systematic Review And Meta-Analysis Of Randomised Controlled Trials SSRN",
+      "summary_ai_original": "Immunogenicity And Safety Of Fractional-Dose Yellow Fever Vaccination: A Systematic Review And Meta-Analysis Of Randomised Controlled Trials SSRN",
       "article_text_original": "",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE12cUtHanhfUkd5UkpsS2x2UHdLNXUxcGx6dGpHN2xzcVE2b3NvOC05QjZBdDBhcmlmb2ZPbFNZTU1MeTFPU2tWN2cyWktZSFctdVJUNTZoQU9vNmRHQmFmZ0pRWWp3NkJYVWx3?oc=5",
       "source": "SSRN vaccine preprints",
@@ -1270,27 +1337,25 @@
       ]
     },
     {
-      "id": "dd76376bd7d34230",
-      "title": "‘Bespoke’ mRNA vaccine significantly reduces risk of melanoma recurrence or death, clinical trial shows - The Guardian",
-      "summary": "‘Bespoke’ mRNA vaccine significantly reduces risk of melanoma recurrence or death, clinical trial shows The Guardian",
-      "summary_ai": "‘Bespoke’ mRNA vaccine significantly reduces risk of melanoma recurrence or death, clinical trial shows The Guardian",
-      "title_original": "‘Bespoke’ mRNA vaccine significantly reduces risk of melanoma recurrence or death, clinical trial shows - The Guardian",
-      "summary_original": "‘Bespoke’ mRNA vaccine significantly reduces risk of melanoma recurrence or death, clinical trial shows The Guardian",
-      "summary_ai_original": "‘Bespoke’ mRNA vaccine significantly reduces risk of melanoma recurrence or death, clinical trial shows The Guardian",
+      "id": "fabd1930542f9a0b",
+      "title": "Lymph node-targeted, mKRAS-specific amphiphile vaccine in pancreatic cancer: the randomized phase 2 AMPLIFY-7P trial",
+      "summary": "Lymph node-targeted, mKRAS-specific amphiphile vaccine in pancreatic cancer: the randomized phase 2 AMPLIFY-7P trial",
+      "summary_ai": "Lymph node-targeted, mKRAS-specific amphiphile vaccine in pancreatic cancer: the randomized phase 2 AMPLIFY-7P trial",
+      "title_original": "Lymph node-targeted, mKRAS-specific amphiphile vaccine in pancreatic cancer: the randomized phase 2 AMPLIFY-7P trial",
+      "summary_original": "Lymph node-targeted, mKRAS-specific amphiphile vaccine in pancreatic cancer: the randomized phase 2 AMPLIFY-7P trial",
+      "summary_ai_original": "Lymph node-targeted, mKRAS-specific amphiphile vaccine in pancreatic cancer: the randomized phase 2 AMPLIFY-7P trial",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQUtvY3pZb3RlNjQ1Um1HTHE5Q0E1RklTMG1abU1RSEM5OUg0c0NEaTJnZUtlMDVoZ1pXYW9oQkhib0Voc2UtTGE2NUtWcmpJaV9BODc5T1g4d3lCZ0hneGN6dE1hWUxPQlJaOC14QmQ1NFJ2MzZHelJMUkVWWkN6UThub3BIVUxkTGxLckd0R1czX1lld2EzNEVLbS1sT2JC?oc=5",
-      "source": "Guardian Vaccines / Immunization",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQdUlKUm5JNnRIVmdlLUhYelE4NHNmTFlNNnV2blZnclY5aUpZbV9DVG9rQnJFRHNKdFV2TzN2OWpZMXA1b0ZSNkhQQU9NT3I5QWliaEVZMlpndGRlVXdN?oc=5",
+      "source": "Nature News Vaccines / Immunization",
       "source_type": "media",
       "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-10-23T04:27:00+00:00",
+      "source_priority": 5,
+      "published_at": "2026-10-23T07:00:00+00:00",
       "topics": [
         "research"
       ],
       "policy_tags": [],
-      "vaccines": [
-        "covid"
-      ],
+      "vaccines": [],
       "variants": [],
       "target_country": "不明",
       "source_location": {
@@ -1299,7 +1364,7 @@
         "lat": 51.5074,
         "lng": -0.1278,
         "region": "Europe",
-        "label": "The Guardian"
+        "label": "Nature News"
       },
       "plot": {
         "source": {
@@ -1308,7 +1373,7 @@
           "lat": 51.5074,
           "lng": -0.1278,
           "region": "Europe",
-          "label": "The Guardian"
+          "label": "Nature News"
         },
         "target": {
           "key": "unknown",
@@ -1333,7 +1398,7 @@
       "lng": 0.0,
       "duplicate_count": 1,
       "duplicate_sources": [
-        "Guardian Vaccines / Immunization"
+        "Nature News Vaccines / Immunization"
       ]
     },
     {
@@ -1471,6 +1536,73 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "Pediatrics journal"
+      ]
+    },
+    {
+      "id": "f2e6c5c06fe0a539",
+      "title": "商業慣行を代表する予防接種スケジュールを使用した、採卵鶏の糞便微生物叢におけるワクチンに関連した変化の縦断的分析 - bioRxiv",
+      "summary": "商行為bioRxivを代表する予防接種スケジュールを使用した、採卵鶏の糞便微生物叢におけるワクチンに関連した変化の縦断的分析",
+      "summary_ai": "商行為bioRxivを代表する予防接種スケジュールを使用した、採卵鶏の糞便微生物叢におけるワクチンに関連した変化の縦断的分析",
+      "title_original": "Longitudinal analysis of vaccine-associated alterations in the faecal microbiota of layer chickens using a vaccination schedule representative of commercial practice - bioRxiv",
+      "summary_original": "Longitudinal analysis of vaccine-associated alterations in the faecal microbiota of layer chickens using a vaccination schedule representative of commercial practice bioRxiv",
+      "summary_ai_original": "Longitudinal analysis of vaccine-associated alterations in the faecal microbiota of layer chickens using a vaccination schedule representative of commercial practice bioRxiv",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Bby00YlpjZzREVHdZU1lORVhWV2dEWVhNQWxQSnZaS01RUV9wUW5Xb3ZpS0xrTTVRLW5KWWdDTmlIVmF6bmtOc2VzaG9lSi10ajJxTFVJNWN6Q0lHdzROeWMyU196UjNYMWpVUzN5Wmc2VDg?oc=5",
+      "source": "bioRxiv vaccines",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-10-22T07:00:00+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [
+        "schedule"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "bioRxiv"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "bioRxiv"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 2,
+      "duplicate_sources": [
+        "bioRxiv vaccines"
       ]
     },
     {
@@ -1736,73 +1868,6 @@
       ]
     },
     {
-      "id": "0ae084d0da858b68",
-      "title": "Global and regional burden of measles and vaccine coverage among children under 5 years, 1990−2023: a Global Burden of Disease Study",
-      "summary": "Global and regional burden of measles and vaccine coverage among children under 5 years, 1990−2023: a Global Burden of Disease Study",
-      "summary_ai": "Global and regional burden of measles and vaccine coverage among children under 5 years, 1990−2023: a Global Burden of Disease Study",
-      "title_original": "Global and regional burden of measles and vaccine coverage among children under 5 years, 1990−2023: a Global Burden of Disease Study",
-      "summary_original": "Global and regional burden of measles and vaccine coverage among children under 5 years, 1990−2023: a Global Burden of Disease Study",
-      "summary_ai_original": "Global and regional burden of measles and vaccine coverage among children under 5 years, 1990−2023: a Global Burden of Disease Study",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jTUJjb1JOMXphdWJYNXM0dlExWUgxSUozMThldW5vUEQwbTRpLUhIYkVXT3ViNmRXX3pNQVhUMFV4WkdfdnlUUTV3VjRVYk1vWjFuNXd1UjRXNG5DXzVz?oc=5",
-      "source": "Nature News Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 5,
-      "published_at": "2026-10-21T07:00:00+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [
-        "outbreak_response"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "Nature News"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "Nature News"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Nature News Vaccines / Immunization"
-      ]
-    },
-    {
       "id": "760c04290ca9a344",
       "title": "As Ebola epidemic rages, Congo bets on high-stakes ‘hope’ vaccine trial - Science | AAAS",
       "summary": "As Ebola epidemic rages, Congo bets on high-stakes ‘hope’ vaccine trial Science | AAAS",
@@ -1934,75 +1999,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "Pediatrics journal"
-      ]
-    },
-    {
-      "id": "a367f0e6ad8c2fb0",
-      "title": "Safety and Immunogenicity of an mRNA Respiratory Syncytial Virus Vaccine, mRNA-1345, in Healthy and High-Risk Pediatric Populations Aged 2 to 17 Years - Oxford Academic",
-      "summary": "Safety and Immunogenicity of an mRNA Respiratory Syncytial Virus Vaccine, mRNA-1345, in Healthy and High-Risk Pediatric Populations Aged 2 to 17 Years Oxford Academic",
-      "summary_ai": "Safety and Immunogenicity of an mRNA Respiratory Syncytial Virus Vaccine, mRNA-1345, in Healthy and High-Risk Pediatric Populations Aged 2 to 17 Years Oxford Academic",
-      "title_original": "Safety and Immunogenicity of an mRNA Respiratory Syncytial Virus Vaccine, mRNA-1345, in Healthy and High-Risk Pediatric Populations Aged 2 to 17 Years - Oxford Academic",
-      "summary_original": "Safety and Immunogenicity of an mRNA Respiratory Syncytial Virus Vaccine, mRNA-1345, in Healthy and High-Risk Pediatric Populations Aged 2 to 17 Years Oxford Academic",
-      "summary_ai_original": "Safety and Immunogenicity of an mRNA Respiratory Syncytial Virus Vaccine, mRNA-1345, in Healthy and High-Risk Pediatric Populations Aged 2 to 17 Years Oxford Academic",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc20xdUJrN2pFbG5NeE8yYjRLSVlWV0ZXWjk4WVVmYzlJUWV5Ym5NYk40Q3JQdTFpVnZsWFVMQ2Q4dHFvNEZxV3BfTlR5bnlCQjkwUzk3MUhKNHduWXlEazRlbF9FQVNNQVRlUDNhUUtKWWFvWUkxMDJ6YjFpOGxxdkNOLUQ?oc=5",
-      "source": "Open Forum Infectious Diseases",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 7,
-      "published_at": "2026-10-17T11:16:05+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [
-        "safety"
-      ],
-      "vaccines": [
-        "rsv"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "Open Forum Infectious Diseases"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "Open Forum Infectious Diseases"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Open Forum Infectious Diseases"
       ]
     }
   ]
