@@ -1,9 +1,9 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-11-06T01:29:34.362495+00:00",
-  "item_count": 13,
-  "archive_count": 614,
+  "generated_at": "2026-11-07T00:51:32.397001+00:00",
+  "item_count": 12,
+  "archive_count": 616,
   "days_back": 14,
   "plot_mode_default": "source",
   "feed_status": [
@@ -82,21 +82,21 @@
       "name": "PAHO News",
       "url": "https://www.paho.org/en/rss.xml",
       "status": "ok",
-      "seen": 7,
+      "seen": 8,
       "kept": 2
     },
     {
       "name": "The Lancet series",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Athelancet.com%20(trial%20OR%20policy%20OR%20effectiveness%20OR%20safety)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 2,
       "kept": 1
     },
     {
       "name": "Lancet Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Athelancet.com%2Fjournals%2Flaninf&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -110,7 +110,7 @@
       "name": "BMJ",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abmj.com%20(policy%20OR%20trial%20OR%20effectiveness%20OR%20communication)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 6,
+      "seen": 8,
       "kept": 1
     },
     {
@@ -145,7 +145,7 @@
       "name": "Nature Microbiology vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fnmicrobiol%20(effectiveness%20OR%20safety%20OR%20immunogenicity%20OR%20variant%20OR%20pathogen)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -166,7 +166,7 @@
       "name": "Science vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ascience.org%2Fdoi%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20antibody)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 6,
       "kept": 0
     },
     {
@@ -194,7 +194,7 @@
       "name": "JAMA vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjama%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 4,
+      "seen": 5,
       "kept": 0
     },
     {
@@ -208,7 +208,7 @@
       "name": "JAMA Internal Medicine vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjamainternalmedicine%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -236,57 +236,57 @@
       "name": "bioRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abiorxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 10,
       "kept": 0
     },
     {
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 29,
+      "seen": 32,
       "kept": 3
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 76,
+      "seen": 74,
       "kept": 0
     },
     {
       "name": "AP Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 11,
+      "seen": 5,
       "kept": 0
     },
     {
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 65,
+      "seen": 32,
       "kept": 1
     },
     {
       "name": "Financial Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aft.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 15,
+      "seen": 20,
       "kept": 1
     },
     {
       "name": "STAT Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 18,
+      "seen": 19,
       "kept": 0
     },
     {
       "name": "Nature News Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 34,
-      "kept": 2
+      "seen": 20,
+      "kept": 1
     },
     {
       "name": "Science Vaccines / Immunization",
@@ -299,21 +299,21 @@
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 18,
+      "seen": 19,
       "kept": 0
     },
     {
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 24,
+      "seen": 31,
       "kept": 0
     },
     {
       "name": "Washington Post Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 19,
+      "seen": 15,
       "kept": 0
     },
     {
@@ -327,7 +327,7 @@
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 17,
+      "seen": 19,
       "kept": 0
     },
     {
@@ -341,7 +341,7 @@
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 16,
+      "seen": 20,
       "kept": 0
     },
     {
@@ -355,7 +355,7 @@
       "name": "JAMA Network vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 5,
+      "seen": 7,
       "kept": 0
     },
     {
@@ -369,15 +369,15 @@
       "name": "Clinical Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fcid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 1,
       "kept": 0
     },
     {
       "name": "Journal of Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fjid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
-      "kept": 0
+      "seen": 2,
+      "kept": 1
     },
     {
       "name": "Open Forum Infectious Diseases",
@@ -390,15 +390,15 @@
       "name": "Emerging Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Awwwnc.cdc.gov%2Feid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 4,
       "kept": 0
     },
     {
       "name": "Pediatrics journal",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Apublications.aap.org%2Fpediatrics&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 3,
-      "kept": 1
+      "seen": 2,
+      "kept": 0
     },
     {
       "name": "PLOS journals vaccines",
@@ -465,16 +465,84 @@
     }
   ],
   "weekly_ai_summary": {
-    "generated_at": "2026-11-06T01:29:34.362495+00:00",
+    "generated_at": "2026-11-07T00:51:32.397001+00:00",
     "period_days": 7,
-    "policy_count": 1,
-    "academic_count": 3,
+    "policy_count": 2,
+    "academic_count": 4,
     "status": "ok",
     "model": "gpt-4o-mini",
-    "policy_summary": "PAHOは、イベロアメリカの政治 agenda において健康を中心に据える必要性を強調し、2026年5月に開催された第17回イベロアメリカ保健大臣会議での約束を実行することを求めています。",
-    "academic_summary": "Bundibugyoワクチンの試験が開始されました。また、韓国の軍隊新兵における単回接種不活化A型肝炎ワクチンの10年間の影響に関する全国的な出生コホート調査が発表されました。"
+    "policy_summary": "PAHOは、教皇レオ14世のラテンアメリカ訪問に先立ち、旅行者に麻疹に対する予防策を講じるよう勧告しています。また、イベロアメリカの健康問題を政治 agenda の中心に据える必要性を強調しました。",
+    "academic_summary": "Bundibugyoワクチンの試験が開始されました。韓国の軍隊における単回接種不活化肝炎Aワクチンの10年間の影響に関する全国的な出生コホート調査が報告されています。"
   },
   "items": [
+    {
+      "id": "432261b9581509c3",
+      "title": "PAHO issues advice for travelers ahead of Pope Leo XIV’s visit to Latin America",
+      "summary": "PAHO issues advice for travelers ahead of Pope Leo XIV’s visit to Latin America Cristina Mitchell 6 Nov 2026",
+      "summary_ai": "Washington, D.C., 6 November 2026 (PAHO) – With Pope Leo XIV due to visit Argentina, Uruguay and Peru from 6 to 17 November, the Pan American Health Organization (PAHO) is encouraging travelers, pilgrims and people attending large religious gatherings to take precautions against measles. PAHO has published a guide with",
+      "title_original": "PAHO issues advice for travelers ahead of Pope Leo XIV’s visit to Latin America",
+      "summary_original": "PAHO issues advice for travelers ahead of Pope Leo XIV’s visit to Latin America Cristina Mitchell 6 Nov 2026",
+      "summary_ai_original": "Washington, D.C., 6 November 2026 (PAHO) – With Pope Leo XIV due to visit Argentina, Uruguay and Peru from 6 to 17 November, the Pan American Health Organization (PAHO) is encouraging travelers, pilgrims and people attending large religious gatherings to take precautions against measles. PAHO has published a guide with",
+      "article_text_original": "Washington, D.C., 6 November 2026 (PAHO) – With Pope Leo XIV due to visit Argentina, Uruguay and Peru from 6 to 17 November, the Pan American Health Organization (PAHO) is encouraging travelers, pilgrims and people attending large religious gatherings to take precautions against measles. The Americas are experiencing a resurgence of measles, with 57,666 confirmed cases and 81 deaths reported in 17 countries and territories between January and 31 October 2026 – 4.7 times the number recorded during the same period in 2025. PAHO has published a guide with health recommendations for travelers and pilgrims, including advice on vaccination and measures to reduce the risk of infection and transmission during travel and mass gatherings. Travelers are encouraged to read the guide and check that their measles vaccination is up to date before travelling.",
+      "link": "https://www.paho.org/en/news/6-11-2026-paho-issues-advice-travelers-ahead-pope-leo-xivs-visit-latin-america",
+      "source": "PAHO News",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 8,
+      "published_at": "2026-11-06T20:25:08+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [
+        "outbreak_response",
+        "recommendation"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "アルゼンチン",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "PAHO / Washington DC"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "PAHO / Washington DC"
+        },
+        "target": {
+          "key": "argentina",
+          "name_ja": "アルゼンチン",
+          "lat": -34.6037,
+          "lng": -58.3816,
+          "region": "South America",
+          "label": "アルゼンチン"
+        }
+      },
+      "location": {
+        "key": "argentina",
+        "name_ja": "アルゼンチン",
+        "lat": -34.6037,
+        "lng": -58.3816,
+        "region": "South America",
+        "label": "アルゼンチン"
+      },
+      "region": "South America",
+      "country": "アルゼンチン",
+      "lat": -34.6037,
+      "lng": -58.3816,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "PAHO News"
+      ]
+    },
     {
       "id": "6f3c28b772ceb0d4",
       "title": "Neutralization and protective effectiveness of three XBB vaccines in older adults 12 months after booster",
@@ -805,71 +873,6 @@
       ]
     },
     {
-      "id": "b2098488f4612341",
-      "title": "Phase II randomized non-inferiority trial comparing the humoral immunogenicity of NDV-HXP-S and BNT162b2 vaccines in Brazil",
-      "summary": "Phase II randomized non-inferiority trial comparing the humoral immunogenicity of NDV-HXP-S and BNT162b2 vaccines in Brazil",
-      "summary_ai": "Phase II randomized non-inferiority trial comparing the humoral immunogenicity of NDV-HXP-S and BNT162b2 vaccines in Brazil",
-      "title_original": "Phase II randomized non-inferiority trial comparing the humoral immunogenicity of NDV-HXP-S and BNT162b2 vaccines in Brazil",
-      "summary_original": "Phase II randomized non-inferiority trial comparing the humoral immunogenicity of NDV-HXP-S and BNT162b2 vaccines in Brazil",
-      "summary_ai_original": "Phase II randomized non-inferiority trial comparing the humoral immunogenicity of NDV-HXP-S and BNT162b2 vaccines in Brazil",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9WZFdkdEVMMUV0bzdUcmVCbzV0TnE1R1lvWXcxbUl2RGZMSWNsSlNMenU0aGFWQmZxcXk3aTE2SXF4SGVic0oyN0E1VkNHRVZnUW5RQ09TUFhjQ1NfZFFv?oc=5",
-      "source": "Nature News Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 5,
-      "published_at": "2026-11-04T22:59:37+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "ブラジル",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "Nature News"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "Nature News"
-        },
-        "target": {
-          "key": "brazil",
-          "name_ja": "ブラジル",
-          "lat": -15.7939,
-          "lng": -47.8828,
-          "region": "South America",
-          "label": "ブラジル"
-        }
-      },
-      "location": {
-        "key": "brazil",
-        "name_ja": "ブラジル",
-        "lat": -15.7939,
-        "lng": -47.8828,
-        "region": "South America",
-        "label": "ブラジル"
-      },
-      "region": "South America",
-      "country": "ブラジル",
-      "lat": -15.7939,
-      "lng": -47.8828,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Nature News Vaccines / Immunization"
-      ]
-    },
-    {
       "id": "5ecac29596231d64",
       "title": "Ten-Year Population-Level Impact of Single-Dose Inactivated Hepatitis A Vaccination in Korean Military Recruits: A Nationwide Birth-Cohort Surveillance Study, 2011–2025 - Oxford Academic",
       "summary": "Ten-Year Population-Level Impact of Single-Dose Inactivated Hepatitis A Vaccination in Korean Military Recruits: A Nationwide Birth-Cohort Surveillance Study, 2011–2025 Oxford Academic",
@@ -932,6 +935,71 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "Open Forum Infectious Diseases"
+      ]
+    },
+    {
+      "id": "145e92c816de0fe8",
+      "title": "A Phase 2 Trial of a Respiratory Syncytial Virus and Human Metapneumovirus Combination Virus-Like Particle Vaccine IVX-A12 in Adults ≥60 Years of Age - Oxford Academic",
+      "summary": "A Phase 2 Trial of a Respiratory Syncytial Virus and Human Metapneumovirus Combination Virus-Like Particle Vaccine IVX-A12 in Adults ≥60 Years of Age Oxford Academic",
+      "summary_ai": "A Phase 2 Trial of a Respiratory Syncytial Virus and Human Metapneumovirus Combination Virus-Like Particle Vaccine IVX-A12 in Adults ≥60 Years of Age Oxford Academic",
+      "title_original": "A Phase 2 Trial of a Respiratory Syncytial Virus and Human Metapneumovirus Combination Virus-Like Particle Vaccine IVX-A12 in Adults ≥60 Years of Age - Oxford Academic",
+      "summary_original": "A Phase 2 Trial of a Respiratory Syncytial Virus and Human Metapneumovirus Combination Virus-Like Particle Vaccine IVX-A12 in Adults ≥60 Years of Age Oxford Academic",
+      "summary_ai_original": "A Phase 2 Trial of a Respiratory Syncytial Virus and Human Metapneumovirus Combination Virus-Like Particle Vaccine IVX-A12 in Adults ≥60 Years of Age Oxford Academic",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNR0tmQnFGdkRlWXNvTTJsTGxUbDVkYXF2RWpNTFFfVjNUd0g5WXFLb28xNU1jVXpyWlBYOHA2UHd5X2dXQkQ3ZGlobGhIZENqZ0x5WktVa1BBVjdselZDczhsTFRZdG50XzlmUzFHcG5kSUFncTA2R1FTN0hmVXh1LVgxWldwUQ?oc=5",
+      "source": "Journal of Infectious Diseases",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-11-03T22:49:02+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "Journal of Infectious Diseases"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "Journal of Infectious Diseases"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Journal of Infectious Diseases"
       ]
     },
     {
@@ -1146,7 +1214,7 @@
       "source_type": "media",
       "source_tier": "Tier 2",
       "source_priority": 8,
-      "published_at": "2026-10-27T19:54:00+00:00",
+      "published_at": "2026-10-27T07:00:00+00:00",
       "topics": [
         "research"
       ],
@@ -1195,144 +1263,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "CIDRAP Vaccines & Immunization"
-      ]
-    },
-    {
-      "id": "4b7123c03cf3ed9a",
-      "title": "World Polio Day 2026: Americas mark 35 years free of wild poliovirus as vaccination gaps persist",
-      "summary": "World Polio Day 2026: Americas mark 35 years free of wild poliovirus as vaccination gaps persist Cristina Mitchell 23 Oct 2026",
-      "summary_ai": "PAHO urges countries to close immunization gaps and strengthen surveillance to protect the Region from imported poliovirus Washington, D.C., 23 October 2026 (PAHO) – The Americas mark 35 years without a case of polio caused by wild poliovirus this World Polio Day, but vaccination coverage remains below the 95% target r",
-      "title_original": "World Polio Day 2026: Americas mark 35 years free of wild poliovirus as vaccination gaps persist",
-      "summary_original": "World Polio Day 2026: Americas mark 35 years free of wild poliovirus as vaccination gaps persist Cristina Mitchell 23 Oct 2026",
-      "summary_ai_original": "PAHO urges countries to close immunization gaps and strengthen surveillance to protect the Region from imported poliovirus Washington, D.C., 23 October 2026 (PAHO) – The Americas mark 35 years without a case of polio caused by wild poliovirus this World Polio Day, but vaccination coverage remains below the 95% target r",
-      "article_text_original": "PAHO urges countries to close immunization gaps and strengthen surveillance to protect the Region from imported poliovirus Washington, D.C., 23 October 2026 (PAHO) – The Americas mark 35 years without a case of polio caused by wild poliovirus this World Polio Day, but vaccination coverage remains below the 95% target recommended by the Pan American Health Organization (PAHO), leaving the Region vulnerable to the reintroduction of the virus. In 2025, vaccination coverage continued to recover from declines during the COVID-19 pandemic, but remained below the recommended target for all three doses of inactivated polio vaccine (IPV). Some 91% of children received their first dose, up from 86% in 2024; 89% received their second dose, compared with 87% the previous year; and 87% received their third dose, up from 85% in 2024 and 80% in 2021. “The elimination of wild poliovirus from the Americas is one of the Region’s greatest public health achievements, but we cannot take it for granted,” said PAHO Director Dr. Jarbas Barbosa. “As long as poliovirus circulates elsewhere, the risk of importation remains. Maintaining high vaccination coverage and strong surveillance is essential to protect children and prevent the virus from regaining a foothold.” In 1975, nearly 6,000 polio cases were reported in the Americas. The last case of wild poliovirus in the Americas was recorded on 23 August 1991 in Peru, in an unvaccinated two-year-old child who developed irreversible paralysis. In 1994, the Americas became the first region in the world to be certified free of wild poliovirus transmission. This achievement followed decades of sustained immunization efforts across the Region, supported by strong surveillance and cooperation among countries. Mass vaccination campaigns and expanded access to routine immunization helped interrupt transmission, demonstrating the impact of coordinated public health action. Detecting and preventing imported cases Although the Region has been free of wild poliovirus for 35 years, the virus could still be imported from countries where it continues to circulate. In communities with low vaccination coverage, it could spread and cause outbreaks. Today, endemic transmission of wild poliovirus continues in Afghanistan and Pakistan. According to the Global Polio Eradication Initiative (GPEI), 48 cases of wild poliovirus had been reported globally in 2026 as of 20 October, 42 in Afghanistan and six in Pakistan. The Region’s ability to detect possible polio cases quickly also needs strengthening. Health authorities monitor cases of acute flaccid paralysis (AFP), a sudden loss of muscle strength that can have many causes but is also a key warning sign for polio. Each case is investigated to rule out poliovirus. Over the past year, countries in the Americas reported 0.85 AFP cases per 100,000 children under 15, below the surveillance target of at least 1 case per 100,000. Reaching this target helps demonstrate that surveillance systems are sensitive enough to detect and investigate potential cases of polio. Polio is a highly contagious disease that mainly affects children under five. The virus can invade the nervous system and cause irreversible paralysis within days. Among those who develop paralysis, 5%–10% die when their breathing muscles become immobilized. There is no cure, but vaccination can prevent the disease. A global effort that must continue The Americas’ achievement is part of a global effort to eradicate polio. In 1988, the World Health Assembly launched the Global Polio Eradication Initiative (GPEI), when an estimated 350,000 children were paralyzed by the disease each year in more than 125 countries. Since then, polio cases have fallen by 99.9%. An estimated 20 million people are walking today who would otherwise have been paralyzed, and more than 1.5 million lives have been saved. These gains demonstrate what sustained vaccination and international cooperation can achieve. But as long as poliovirus transmission continues anywhere in the world, every country remains at risk. Without eradication, polio could resurge and cause up to 200,000 new cases annually within a decade, according to the World Health Organization (WHO). Protecting the Americas’ achievement PAHO works with countries to strengthen routine immunization, improve surveillance and ensure health systems can rapidly detect and respond to suspected polio cases. Maintaining high and equitable vaccination coverage is essential to prevent imported poliovirus from spreading and to protect the Region’s polio-free status. On World Polio Day, October 24, PAHO urges parents and caregivers to check that children are up to date with their polio vaccinations and to complete any missed doses. Ensuring every child receives the recommended vaccines will help protect the Americas’ achievement and bring the world closer to eradicating polio.",
-      "link": "https://www.paho.org/en/news/23-10-2026-world-polio-day-2026-americas-mark-35-years-free-wild-poliovirus-vaccination-gaps",
-      "source": "PAHO News",
-      "source_type": "official",
-      "source_tier": "Tier 1",
-      "source_priority": 8,
-      "published_at": "2026-10-23T19:32:02+00:00",
-      "topics": [
-        "communication"
-      ],
-      "policy_tags": [
-        "outbreak_response"
-      ],
-      "vaccines": [
-        "polio"
-      ],
-      "variants": [],
-      "target_country": "パキスタン",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "PAHO / Washington DC"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "PAHO / Washington DC"
-        },
-        "target": {
-          "key": "pakistan",
-          "name_ja": "パキスタン",
-          "lat": 33.6844,
-          "lng": 73.0479,
-          "region": "Asia",
-          "label": "パキスタン"
-        }
-      },
-      "location": {
-        "key": "pakistan",
-        "name_ja": "パキスタン",
-        "lat": 33.6844,
-        "lng": 73.0479,
-        "region": "Asia",
-        "label": "パキスタン"
-      },
-      "region": "Asia",
-      "country": "パキスタン",
-      "lat": 33.6844,
-      "lng": 73.0479,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "PAHO News"
-      ]
-    },
-    {
-      "id": "5dbeb2795945aac1",
-      "title": "Immunogenicity and Safety of PHH-1V COVID-19 Vaccine as a Heterologous Booster in Adolescents - AAP",
-      "summary": "Immunogenicity and Safety of PHH-1V COVID-19 Vaccine as a Heterologous Booster in Adolescents AAP",
-      "summary_ai": "Immunogenicity and Safety of PHH-1V COVID-19 Vaccine as a Heterologous Booster in Adolescents AAP",
-      "title_original": "Immunogenicity and Safety of PHH-1V COVID-19 Vaccine as a Heterologous Booster in Adolescents - AAP",
-      "summary_original": "Immunogenicity and Safety of PHH-1V COVID-19 Vaccine as a Heterologous Booster in Adolescents AAP",
-      "summary_ai_original": "Immunogenicity and Safety of PHH-1V COVID-19 Vaccine as a Heterologous Booster in Adolescents AAP",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWDE5eGNoX0liY3NSMU1kQ2lXRUNMcG5kbGRmVlhaQnhiSmNieGhSa0ZvckNraDFPTExGWGZkZ2J2bl9ScExQWGYxTkFZMzdQWXNiX2VXbmVmVGxKWnJsckVHTllMN1pGNGhyRjcxLW5MWXo1TVRSVFdLLV9kdTczS3dMU1hPS2dFWUdxR1dfb19zcFBKbDdwa081blBRaTBkM3JZWi13Z3BGN3VKWmdxT20xX0NBMW5v?oc=5",
-      "source": "Pediatrics journal",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 7,
-      "published_at": "2026-10-23T07:00:00+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [
-        "safety"
-      ],
-      "vaccines": [
-        "covid"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "Pediatrics"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "Pediatrics"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Pediatrics journal"
       ]
     }
   ]
