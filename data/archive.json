@@ -1,10 +1,77 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-11-07T00:51:32.397001+00:00",
+  "generated_at": "2026-11-08T00:28:10.524160+00:00",
   "archive_count": 616,
   "days_back": 14,
   "items": [
+    {
+      "id": "ed20223349a6598a",
+      "title": "Bundibugyo vaccine trial begins",
+      "summary": "Bundibugyo vaccine trial begins",
+      "summary_ai": "Bundibugyo vaccine trial begins",
+      "title_original": "Bundibugyo vaccine trial begins",
+      "summary_original": "Bundibugyo vaccine trial begins",
+      "summary_ai_original": "Bundibugyo vaccine trial begins",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVlBjNlJuT3kwLTl6b2VvVXhWZlFldjlET0xTMURocjA5c1VWQnk1bm1Dc1JYQlJZLU9SODNaUDBxX1FNOWVGakNPVHdDczJmNTdoV1hwMmZDOU5EWFUyTEI1eXlUcWh2VTlBanRTSV9Bek1DSUZNVjlMUkdmQUx1WXVGVm5KWkV4Um9R?oc=5",
+      "source": "The Lancet series",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-11-07T10:29:15+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "The Lancet / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "The Lancet / London"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "The Lancet series"
+      ],
+      "first_seen_at": "2026-11-06T00:02:31+00:00",
+      "last_seen_at": "2026-11-08T00:29:27.668391+00:00"
+    },
     {
       "id": "432261b9581509c3",
       "title": "PAHO issues advice for travelers ahead of Pope Leo XIV’s visit to Latin America",
@@ -73,7 +140,7 @@
         "PAHO News"
       ],
       "first_seen_at": "2026-11-06T20:25:08+00:00",
-      "last_seen_at": "2026-11-07T00:53:12.166273+00:00"
+      "last_seen_at": "2026-11-08T00:29:27.668413+00:00"
     },
     {
       "id": "6f3c28b772ceb0d4",
@@ -145,73 +212,6 @@
       "last_seen_at": "2026-11-07T00:53:12.166290+00:00"
     },
     {
-      "id": "ed20223349a6598a",
-      "title": "Bundibugyo vaccine trial begins",
-      "summary": "Bundibugyo vaccine trial begins",
-      "summary_ai": "Bundibugyo vaccine trial begins",
-      "title_original": "Bundibugyo vaccine trial begins",
-      "summary_original": "Bundibugyo vaccine trial begins",
-      "summary_ai_original": "Bundibugyo vaccine trial begins",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVlBjNlJuT3kwLTl6b2VvVXhWZlFldjlET0xTMURocjA5c1VWQnk1bm1Dc1JYQlJZLU9SODNaUDBxX1FNOWVGakNPVHdDczJmNTdoV1hwMmZDOU5EWFUyTEI1eXlUcWh2VTlBanRTSV9Bek1DSUZNVjlMUkdmQUx1WXVGVm5KWkV4Um9R?oc=5",
-      "source": "The Lancet series",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-11-06T00:02:31+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "The Lancet / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "The Lancet / London"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "The Lancet series"
-      ],
-      "first_seen_at": "2026-11-06T00:02:31+00:00",
-      "last_seen_at": "2026-11-07T00:53:12.166296+00:00"
-    },
-    {
       "id": "a5bac08d528a6904",
       "title": "As Ebola cases near 10,700, WHO recommends adding 2 Bundibugyo vaccines to clinical trial - CIDRAP",
       "summary": "As Ebola cases near 10,700, WHO recommends adding 2 Bundibugyo vaccines to clinical trial CIDRAP",
@@ -276,7 +276,7 @@
         "CIDRAP Vaccines & Immunization"
       ],
       "first_seen_at": "2026-11-05T20:11:20+00:00",
-      "last_seen_at": "2026-11-07T00:53:12.166300+00:00"
+      "last_seen_at": "2026-11-08T00:29:27.668418+00:00"
     },
     {
       "id": "f370a3a50d44beb1",
@@ -345,7 +345,7 @@
         "PAHO News"
       ],
       "first_seen_at": "2026-11-05T17:02:14+00:00",
-      "last_seen_at": "2026-11-07T00:53:12.166304+00:00"
+      "last_seen_at": "2026-11-08T00:29:27.668422+00:00"
     },
     {
       "id": "3e741b06d6222900",
@@ -412,7 +412,7 @@
         "BBC Vaccines / Immunization"
       ],
       "first_seen_at": "2026-11-05T00:30:37+00:00",
-      "last_seen_at": "2026-11-07T00:53:12.166307+00:00"
+      "last_seen_at": "2026-11-08T00:29:27.668426+00:00"
     },
     {
       "id": "b2098488f4612341",
@@ -546,7 +546,7 @@
         "Open Forum Infectious Diseases"
       ],
       "first_seen_at": "2026-11-04T01:51:50+00:00",
-      "last_seen_at": "2026-11-07T00:53:12.166312+00:00"
+      "last_seen_at": "2026-11-08T00:29:27.668430+00:00"
     },
     {
       "id": "145e92c816de0fe8",
@@ -616,7 +616,7 @@
       "last_seen_at": "2026-11-07T00:53:12.166315+00:00"
     },
     {
-      "id": "31c64ef75ebfafcb",
+      "id": "8d6c5c18ed126a47",
       "title": "老人ホームに居住するメディケア受給者における呼吸器合胞体ウイルスワクチンの有効性",
       "summary": "老人ホームに居住するメディケア受給者における呼吸器合胞体ウイルスワクチンの有効性",
       "summary_ai": "老人ホームに居住するメディケア受給者における呼吸器合胞体ウイルスワクチンの有効性",
@@ -624,12 +624,12 @@
       "summary_original": "Respiratory Syncytial Virus Vaccine Effectiveness in Medicare Beneficiaries Residing in Nursing Homes",
       "summary_ai_original": "Respiratory Syncytial Virus Vaccine Effectiveness in Medicare Beneficiaries Residing in Nursing Homes",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxON3FTdzF1WTk2TDUwcnpGWnFJcWtuRUdvSGZIbW84a0E0ME1VaTBPSWZvejhFX01pcktyRFphLWhET3J4eC1KVk0xRTVabDFCSlZjel9NUnBROUh4OGhOYjJibmZGS2pVMXM4aW81aTVuUGlLbVhGR1h6d0xaUEJkT3l5QklucFZyWmw1Q3JWSGtxMS1qNGJyOXFWcGc2SDdBYjl2a1MzQ2RwT0dwTlZsYl9lMDV6UGFFMHZlckE1NnhFaEtBSl9UeA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRjN5cnVidmlVQnFMNGdpckFhbVMxLWUxQ3hkdWt1S3pPZENjT2loLUlCejNBc1hmN1Vmd1JrWFdLcmtUa3I5aFRJaExTZUFPSG1wV1lBOUU5MkxKeUtncEcxR2ladDNFbC11SjY3elVNeEtqMXJBOUtKckozZHRzU3YxWmc?oc=5",
       "source": "JAMA Internal Medicine vaccines",
       "source_type": "academic",
       "source_tier": "Tier 3",
       "source_priority": 8,
-      "published_at": "2026-11-03T02:43:23+00:00",
+      "published_at": "2026-11-03T08:00:00+00:00",
       "topics": [
         "research"
       ],
@@ -677,12 +677,12 @@
       "country": "不明",
       "lat": 20.0,
       "lng": 0.0,
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "duplicate_sources": [
         "JAMA Internal Medicine vaccines"
       ],
-      "first_seen_at": "2026-11-03T02:43:23+00:00",
-      "last_seen_at": "2026-11-05T01:27:42.911811+00:00"
+      "first_seen_at": "2026-11-03T08:00:00+00:00",
+      "last_seen_at": "2026-11-08T00:29:27.668432+00:00"
     },
     {
       "id": "c4fa7c3127dd5d6d",
@@ -751,7 +751,7 @@
         "BMJ"
       ],
       "first_seen_at": "2026-11-02T09:58:10+00:00",
-      "last_seen_at": "2026-11-07T00:53:12.166320+00:00"
+      "last_seen_at": "2026-11-08T00:29:27.668440+00:00"
     },
     {
       "id": "aa8c178801e3e233",
@@ -886,7 +886,7 @@
         "CIDRAP Vaccines & Immunization"
       ],
       "first_seen_at": "2026-10-29T20:26:58+00:00",
-      "last_seen_at": "2026-11-07T00:53:12.166325+00:00"
+      "last_seen_at": "2026-11-08T00:29:27.668445+00:00"
     },
     {
       "id": "65eafae9b4102d25",
@@ -1022,7 +1022,7 @@
         "Financial Times Vaccines / Immunization"
       ],
       "first_seen_at": "2026-10-29T13:37:00+00:00",
-      "last_seen_at": "2026-11-07T00:53:12.166330+00:00"
+      "last_seen_at": "2026-11-08T00:29:27.668450+00:00"
     },
     {
       "id": "acda4d770e65857f",
