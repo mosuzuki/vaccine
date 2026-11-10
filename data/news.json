@@ -1,8 +1,8 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-11-09T00:47:04.070035+00:00",
-  "item_count": 13,
+  "generated_at": "2026-11-10T03:28:08.563209+00:00",
+  "item_count": 12,
   "archive_count": 618,
   "days_back": 14,
   "plot_mode_default": "source",
@@ -23,7 +23,7 @@
       "name": "CDC Newsroom",
       "url": "https://tools.cdc.gov/api/v2/resources/media/316422.rss",
       "status": "ok",
-      "seen": 7,
+      "seen": 8,
       "kept": 0
     },
     {
@@ -89,7 +89,7 @@
       "name": "The Lancet series",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Athelancet.com%20(trial%20OR%20policy%20OR%20effectiveness%20OR%20safety)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 1,
       "kept": 1
     },
     {
@@ -110,7 +110,7 @@
       "name": "BMJ",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abmj.com%20(policy%20OR%20trial%20OR%20effectiveness%20OR%20communication)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 10,
+      "seen": 7,
       "kept": 1
     },
     {
@@ -166,7 +166,7 @@
       "name": "Science vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ascience.org%2Fdoi%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20antibody)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 4,
+      "seen": 3,
       "kept": 0
     },
     {
@@ -194,21 +194,21 @@
       "name": "JAMA vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjama%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 5,
+      "seen": 4,
       "kept": 0
     },
     {
       "name": "JAMA Network Open vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjamanetworkopen%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
       "name": "JAMA Internal Medicine vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjamainternalmedicine%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 3,
       "kept": 1
     },
     {
@@ -236,21 +236,21 @@
       "name": "bioRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abiorxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 4,
+      "seen": 6,
       "kept": 0
     },
     {
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 24,
+      "seen": 23,
       "kept": 2
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 46,
+      "seen": 42,
       "kept": 0
     },
     {
@@ -264,49 +264,49 @@
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 29,
+      "seen": 26,
       "kept": 1
     },
     {
       "name": "Financial Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aft.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 17,
+      "seen": 20,
       "kept": 1
     },
     {
       "name": "STAT Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 16,
+      "seen": 14,
       "kept": 0
     },
     {
       "name": "Nature News Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 16,
-      "kept": 2
+      "seen": 20,
+      "kept": 1
     },
     {
       "name": "Science Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Ascience.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 5,
+      "seen": 7,
       "kept": 0
     },
     {
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 17,
+      "seen": 15,
       "kept": 0
     },
     {
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 28,
+      "seen": 97,
       "kept": 0
     },
     {
@@ -327,35 +327,35 @@
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 15,
+      "seen": 25,
       "kept": 0
     },
     {
       "name": "朝日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Aasahi.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 6,
+      "seen": 7,
       "kept": 0
     },
     {
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 38,
+      "seen": 24,
       "kept": 0
     },
     {
       "name": "毎日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 18,
+      "seen": 17,
       "kept": 0
     },
     {
       "name": "JAMA Network vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 8,
+      "seen": 7,
       "kept": 0
     },
     {
@@ -369,7 +369,7 @@
       "name": "Clinical Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fcid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -390,14 +390,14 @@
       "name": "Emerging Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Awwwnc.cdc.gov%2Feid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 0,
       "kept": 0
     },
     {
       "name": "Pediatrics journal",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Apublications.aap.org%2Fpediatrics&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 0,
       "kept": 0
     },
     {
@@ -465,14 +465,14 @@
     }
   ],
   "weekly_ai_summary": {
-    "generated_at": "2026-11-09T00:47:04.070035+00:00",
+    "generated_at": "2026-11-10T03:28:08.563209+00:00",
     "period_days": 7,
     "policy_count": 2,
-    "academic_count": 5,
+    "academic_count": 4,
     "status": "ok",
     "model": "gpt-4o-mini",
-    "policy_summary": "PAHOは、教皇レオ14世のラテンアメリカ訪問に伴い、旅行者に麻疹に対する予防策を講じるよう勧告しています。また、イベロアメリカの健康問題を政治 agenda の中心に据える必要性を強調しています。",
-    "academic_summary": "マールブルグウイルス病に対するフェーズ3ワクチン試験の実現可能性を評価するモデル研究が発表されました。さらに、韓国の軍隊における単回接種不活化肝炎Aワクチンの10年間の人口レベルでの影響に関する研究が行われています。"
+    "policy_summary": "PAHOは、教皇レオ14世のラテンアメリカ訪問に先立ち、旅行者に対して麻疹に対する予防策を講じるよう勧告しています。また、イベロアメリカの政治 agenda において健康を中心に据える必要性が強調されています。",
+    "academic_summary": "マールブルグウイルス病に対する第3相ワクチン試験の実現可能性を評価するモデル研究が発表されました。さらに、韓国の軍隊新兵における単回接種不活化肝炎Aワクチンの10年間の影響に関する全国的な出生コホート調査が行われています。"
   },
   "items": [
     {
@@ -489,7 +489,7 @@
       "source_type": "media",
       "source_tier": "Tier 2",
       "source_priority": 5,
-      "published_at": "2026-11-08T23:51:36+00:00",
+      "published_at": "2026-11-09T04:07:47+00:00",
       "topics": [
         "research"
       ],
@@ -736,73 +736,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "PAHO News"
-      ]
-    },
-    {
-      "id": "6f3c28b772ceb0d4",
-      "title": "Neutralization and protective effectiveness of three XBB vaccines in older adults 12 months after booster",
-      "summary": "Neutralization and protective effectiveness of three XBB vaccines in older adults 12 months after booster",
-      "summary_ai": "Neutralization and protective effectiveness of three XBB vaccines in older adults 12 months after booster",
-      "title_original": "Neutralization and protective effectiveness of three XBB vaccines in older adults 12 months after booster",
-      "summary_original": "Neutralization and protective effectiveness of three XBB vaccines in older adults 12 months after booster",
-      "summary_ai_original": "Neutralization and protective effectiveness of three XBB vaccines in older adults 12 months after booster",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE52VG1KZXRKUHNUNHpGa2tLc2hHbllUdkwydlhhMTlOTHhiVEFJOWkyOUdTNTluYWlKSWhYS2RCZEhSVGdqRjFCMENHcTFDcFRLY09Xb3NiR2xrXzdPeHpj?oc=5",
-      "source": "Nature News Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 5,
-      "published_at": "2026-11-06T08:43:34+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [
-        "xbb"
-      ],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "Nature News"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "Nature News"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Nature News Vaccines / Immunization"
       ]
     },
     {
