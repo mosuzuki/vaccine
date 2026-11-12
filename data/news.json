@@ -1,9 +1,9 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-11-11T01:11:58.890787+00:00",
-  "item_count": 14,
-  "archive_count": 618,
+  "generated_at": "2026-11-12T02:13:33.892195+00:00",
+  "item_count": 15,
+  "archive_count": 621,
   "days_back": 14,
   "plot_mode_default": "source",
   "feed_status": [
@@ -82,8 +82,8 @@
       "name": "PAHO News",
       "url": "https://www.paho.org/en/rss.xml",
       "status": "ok",
-      "seen": 9,
-      "kept": 2
+      "seen": 8,
+      "kept": 3
     },
     {
       "name": "The Lancet series",
@@ -110,8 +110,8 @@
       "name": "BMJ",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abmj.com%20(policy%20OR%20trial%20OR%20effectiveness%20OR%20communication)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 5,
-      "kept": 1
+      "seen": 6,
+      "kept": 2
     },
     {
       "name": "Vaccine journal",
@@ -166,7 +166,7 @@
       "name": "Science vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ascience.org%2Fdoi%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20antibody)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 4,
       "kept": 0
     },
     {
@@ -194,7 +194,7 @@
       "name": "JAMA vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjama%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 4,
+      "seen": 10,
       "kept": 0
     },
     {
@@ -208,7 +208,7 @@
       "name": "JAMA Internal Medicine vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjamainternalmedicine%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 3,
       "kept": 1
     },
     {
@@ -243,70 +243,70 @@
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 30,
+      "seen": 33,
       "kept": 2
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 70,
+      "seen": 36,
       "kept": 0
     },
     {
       "name": "AP Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 6,
+      "seen": 5,
       "kept": 0
     },
     {
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 35,
+      "seen": 28,
       "kept": 1
     },
     {
       "name": "Financial Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aft.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 19,
+      "seen": 16,
       "kept": 1
     },
     {
       "name": "STAT Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 16,
+      "seen": 19,
       "kept": 0
     },
     {
       "name": "Nature News Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 19,
-      "kept": 2
+      "seen": 18,
+      "kept": 1
     },
     {
       "name": "Science Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Ascience.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 4,
+      "seen": 7,
       "kept": 0
     },
     {
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 17,
+      "seen": 16,
       "kept": 0
     },
     {
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 66,
+      "seen": 88,
       "kept": 0
     },
     {
@@ -327,7 +327,7 @@
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 25,
+      "seen": 42,
       "kept": 0
     },
     {
@@ -341,21 +341,21 @@
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 100,
+      "seen": 80,
       "kept": 0
     },
     {
       "name": "毎日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 18,
+      "seen": 20,
       "kept": 0
     },
     {
       "name": "JAMA Network vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 7,
+      "seen": 15,
       "kept": 0
     },
     {
@@ -390,7 +390,7 @@
       "name": "Emerging Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Awwwnc.cdc.gov%2Feid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
@@ -404,7 +404,7 @@
       "name": "PLOS journals vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajournals.plos.org%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20uptake%20OR%20policy)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 5,
       "kept": 1
     },
     {
@@ -465,16 +465,216 @@
     }
   ],
   "weekly_ai_summary": {
-    "generated_at": "2026-11-11T01:11:58.890787+00:00",
+    "generated_at": "2026-11-12T02:13:33.892195+00:00",
     "period_days": 7,
-    "policy_count": 2,
-    "academic_count": 3,
+    "policy_count": 3,
+    "academic_count": 4,
     "status": "ok",
     "model": "gpt-4o-mini",
-    "policy_summary": "PAHOは、教皇レオ14世のラテンアメリカ訪問に先立ち、旅行者に麻疹に対する予防策を講じるよう勧告しています。また、イベロアメリカの健康問題を政治 agenda の中心に据える必要性を強調しました。",
-    "academic_summary": "マールブルグウイルス病に対するフェーズ3ワクチン試験の実現可能性を評価するモデル研究が発表されました。さらに、韓国の軍隊における単回接種不活化肝炎Aワクチンの10年間の影響に関する全国的な出生コホート調査が行われています。"
+    "policy_summary": "PAHOは、ラテンアメリカとカリブ海地域でのHPV検査へのアクセスを向上させるための初の地域的合意を確保しました。また、PAHOは、教皇レオ14世の訪問に先立ち、旅行者に麻疹予防のための注意喚起を行っています。",
+    "academic_summary": "人道的状況における肺炎球菌ワクチン接種キャンペーンの効果をモデル化した研究が発表されました。さらに、マールブルグウイルス病に対する第3相ワクチン試験の実現可能性を評価する研究も行われています。"
   },
   "items": [
+    {
+      "id": "3ebf3f03025e3196",
+      "title": "PAHO secures first-ever region-wide access agreements for HPV testing across Latin America and the Caribbean, with support from Unitaid",
+      "summary": "PAHO secures first-ever region-wide access agreements for HPV testing across Latin America and the Caribbean, with support from Unitaid Oscar Reyes 11 Nov 2026",
+      "summary_ai": "Washington, D.C./Geneva, 11 November 2026 — Millions of women across Latin America and the Caribbean will gain access to more affordable, high-quality human papillomavirus (HPV) testing under landmark regional access agreements negotiated by the Pan American Health Organization (PAHO) through its Regional Revolving Fun",
+      "title_original": "PAHO secures first-ever region-wide access agreements for HPV testing across Latin America and the Caribbean, with support from Unitaid",
+      "summary_original": "PAHO secures first-ever region-wide access agreements for HPV testing across Latin America and the Caribbean, with support from Unitaid Oscar Reyes 11 Nov 2026",
+      "summary_ai_original": "Washington, D.C./Geneva, 11 November 2026 — Millions of women across Latin America and the Caribbean will gain access to more affordable, high-quality human papillomavirus (HPV) testing under landmark regional access agreements negotiated by the Pan American Health Organization (PAHO) through its Regional Revolving Fun",
+      "article_text_original": "Landmark regional agreements will lower costs of high-quality HPV testing and help more women benefit from effective cervical cancer screening. Washington, D.C./Geneva, 11 November 2026 — Millions of women across Latin America and the Caribbean will gain access to more affordable, high-quality human papillomavirus (HPV) testing under landmark regional access agreements negotiated by the Pan American Health Organization (PAHO) through its Regional Revolving Funds. Unitaid supported these efforts to expand access to HPV testing and will advance implementation activities in selected countries. HPV infection causes nearly all cases of cervical cancer, which kills more than 40,000 women in the region each year. Cervical cancer is highly preventable through vaccination, screening and timely treatment. Until now, countries across Latin America and the Caribbean have faced some of the highest HPV test prices in the world. Under these first-ever regional access agreements, countries will be able to access high-quality molecular HPV tests through preferential pricing and a comprehensive support package, with participating countries expected to realize cost savings ranging from 30% to 70%. These technologies are now available through PAHO's Revolving Fund under harmonized regional conditions for all countries and territories in Latin America and the Caribbean. The arrangements expand the range of WHO-recommended molecular HPV testing technologies available through PAHO's Revolving Funds. In addition to access to testing, the agreements include implementation support, equipment access, training, maintenance and technical assistance designed to facilitate country adoption and scale-up. By building these components together, the agreements help to reduce operational barriers that have often limited the introduction of new diagnostic technologies. PAHO/WHO has recommended the use of HPV testing in cervical cancer screening programs since 2013, with updated guidance issued in 2026. However, uptake in the region has been limited due to financial, technical, and programmatic barriers. Unitaid's support to PAHO translates into expanded access to HPV testing in the region. Unitaid will also support implementation activities in El Salvador, Guatemala, Grenada, Saint Vincent and the Grenadines, and Saint Lucia, helping countries to introduce or expand HPV-based screening programs while strengthening follow-up care for women with positive results. \"Through PAHO's Revolving Funds, countries now have access to high-quality HPV testing under more favorable conditions, helping accelerate efforts to eliminate cervical cancer in the Americas,\" said PAHO Director Dr. Jarbas Barbosa. \"These agreements reflect PAHO's commitment to working with Member States and partners to expand equitable access to essential health technologies and strengthen cervical cancer prevention programs across the Region.\" “These agreements build on Unitaid’s global efforts to make cervical cancer prevention more affordable and accessible for women everywhere,” said Dr. Philippe Duneton, Executive Director of Unitaid. “By expanding access to affordable, high-quality HPV testing in Latin America and the Caribbean, and extending favorable pricing to countries that have historically been excluded from such arrangements, this initiative helps accelerate progress toward cervical cancer elimination while creating a more equitable and sustainable market for screening technologies.” Molecular tests directly detect high-risk HPV types responsible for most cervical cancer cases, allowing for early identification of women at risk. Compared to other screening methods, they perform better and can use self-collected samples, which can help expand access to testing among underserved populations. The ESTAMPA study, conducted in Latin America, found that HPV testing detected nearly all cases of precancerous cervical lesions and invasive cancer, while cytology, the conventional screening method, identified fewer than half of the cases. This highlights significant gaps between the accuracy of these two methods. Expanding the use of HPV tests is key to advancing toward the WHO’s global cervical cancer elimination targets – known as the 90-70-90 goals: 90% of girls vaccinated against HPV, 70% of women screened with a high-performance test, and 90% of women with lesions appropriately treated. Currently, 16 countries and territories in Latin America and the Caribbean have introduced HPV testing in their screening programs, although coverage has been limited by the high cost of the tests. The new access to molecular HPV tests through the Revolving Funds is part of PAHO’s Disease Elimination Initiative, which seeks to eliminate more than 30 diseases and related conditions in the Americas, including cervical cancer. It also forms part of the Better Care for NCDs initiative, designed to strengthen health systems and integrate prevention and control of these diseases into primary care. Unitaid’s cervical cancer elimination efforts in Latin America are made possible through contributions from the Government of Japan, alongside support from Unitaid’s other core donors Brazil, Chile, France, the Gates Foundation, Norway, Portugal, the Republic of Korea, Spain and the United Kingdom. About PAHO The Pan American Health Organization (PAHO) works with the countries of the Americas to improve the health and quality of life of its population. Founded in 1902, it is the world’s oldest international public health agency. It serves as the Regional Office of WHO for the Americas and is the specialized health agency of the Inter-American system (OAS). For more information about PAHO and its work, please visit: www.paho.org About Unitaid Unitaid saves lives by making new health products affordable and available in low- and middle-income countries. Collaborating with partners, Unitaid identifies innovative treatments, tackles market barriers, and quickly delivers solutions to those in need. Since 2006, Unitaid has unlocked over 150 health products, addressing HIV, TB, malaria, women’s and children’s health, and pandemic preparedness. Every year, these products benefit more than 300 million people. Unitaid is a hosted partnership of the World Health Organization. www.unitaid.org Media contacts PAHO: Sebastian Oliel: +1 202 316-5679 / Ashley Baldwin: + 1 202 340-4025 - mediateam@paho.org Unitaid: Kyle Wilkinson, +41 79 445 17 45, wilkinsonk@unitaid.who.int",
+      "link": "https://www.paho.org/en/news/11-11-2026-paho-secures-first-ever-region-wide-access-agreements-hpv-testing-across-latin",
+      "source": "PAHO News",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 8,
+      "published_at": "2026-11-11T19:45:07+00:00",
+      "topics": [
+        "communication",
+        "policy",
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "日本",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "PAHO / Washington DC"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "PAHO / Washington DC"
+        },
+        "target": {
+          "key": "japan",
+          "name_ja": "日本",
+          "lat": 35.6762,
+          "lng": 139.6503,
+          "region": "Asia",
+          "label": "日本"
+        }
+      },
+      "location": {
+        "key": "japan",
+        "name_ja": "日本",
+        "lat": 35.6762,
+        "lng": 139.6503,
+        "region": "Asia",
+        "label": "日本"
+      },
+      "region": "Asia",
+      "country": "日本",
+      "lat": 35.6762,
+      "lng": 139.6503,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "PAHO News"
+      ]
+    },
+    {
+      "id": "7f8b67d085a90a87",
+      "title": "Effectiveness of pneumococcal vaccination campaigns in humanitarian settings: A modelling study",
+      "summary": "Effectiveness of pneumococcal vaccination campaigns in humanitarian settings: A modelling study",
+      "summary_ai": "Effectiveness of pneumococcal vaccination campaigns in humanitarian settings: A modelling study",
+      "title_original": "Effectiveness of pneumococcal vaccination campaigns in humanitarian settings: A modelling study",
+      "summary_original": "Effectiveness of pneumococcal vaccination campaigns in humanitarian settings: A modelling study",
+      "summary_ai_original": "Effectiveness of pneumococcal vaccination campaigns in humanitarian settings: A modelling study",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMEEteDFKWU95R3FsZFZIbDUzNUVBNzJ5M09VbkhHYTdKdTZGRzB6SzBTR0NvbDJ3ejAwcUcwUFRraUhDMHpfaE41cl9VV1REcVFuOGEzVFh3NVBFNTFUQ2l5M2VxVjc5cUo1SkhZZXIxS2E5NkgxMFQ1ZmpDRkNVNTFFM2o?oc=5",
+      "source": "PLOS journals vaccines",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-11-11T18:55:48+00:00",
+      "topics": [
+        "communication",
+        "research"
+      ],
+      "policy_tags": [
+        "outbreak_response"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "PLOS"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "PLOS"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "PLOS journals vaccines"
+      ]
+    },
+    {
+      "id": "7b94e0da02a39e3c",
+      "title": "Institutional trust, access inequities and social accountability during COVID-19 vaccination in federalised Nepal: a multi-site qualitative study - BMJ Public Health",
+      "summary": "Institutional trust, access inequities and social accountability during COVID-19 vaccination in federalised Nepal: a multi-site qualitative study BMJ Public Health",
+      "summary_ai": "Institutional trust, access inequities and social accountability during COVID-19 vaccination in federalised Nepal: a multi-site qualitative study BMJ Public Health",
+      "title_original": "Institutional trust, access inequities and social accountability during COVID-19 vaccination in federalised Nepal: a multi-site qualitative study - BMJ Public Health",
+      "summary_original": "Institutional trust, access inequities and social accountability during COVID-19 vaccination in federalised Nepal: a multi-site qualitative study BMJ Public Health",
+      "summary_ai_original": "Institutional trust, access inequities and social accountability during COVID-19 vaccination in federalised Nepal: a multi-site qualitative study BMJ Public Health",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jMWVpUVYwUnR2aFBEbTRyYzg1OWt0azhWVl9uRFZYSkpiZjctRlVpSFZoUHRBa05qWERzQThmQ3VicUVQd2NMak1HTkE1V2RLS29ka3VBSTREQ2Q1RmNneQ?oc=5",
+      "source": "BMJ",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-11-10T08:00:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "ネパール",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BMJ / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BMJ / London"
+        },
+        "target": {
+          "key": "nepal",
+          "name_ja": "ネパール",
+          "lat": 27.7172,
+          "lng": 85.324,
+          "region": "Asia",
+          "label": "ネパール"
+        }
+      },
+      "location": {
+        "key": "nepal",
+        "name_ja": "ネパール",
+        "lat": 27.7172,
+        "lng": 85.324,
+        "region": "Asia",
+        "label": "ネパール"
+      },
+      "region": "Asia",
+      "country": "ネパール",
+      "lat": 27.7172,
+      "lng": 85.324,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "BMJ"
+      ]
+    },
     {
       "id": "8c5229e7ab455e7a",
       "title": "Mutant KRAS vaccination for pancreatic cancer interception: the G12D immunogenicity paradox",
@@ -736,73 +936,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "PAHO News"
-      ]
-    },
-    {
-      "id": "6f3c28b772ceb0d4",
-      "title": "Neutralization and protective effectiveness of three XBB vaccines in older adults 12 months after booster",
-      "summary": "Neutralization and protective effectiveness of three XBB vaccines in older adults 12 months after booster",
-      "summary_ai": "Neutralization and protective effectiveness of three XBB vaccines in older adults 12 months after booster",
-      "title_original": "Neutralization and protective effectiveness of three XBB vaccines in older adults 12 months after booster",
-      "summary_original": "Neutralization and protective effectiveness of three XBB vaccines in older adults 12 months after booster",
-      "summary_ai_original": "Neutralization and protective effectiveness of three XBB vaccines in older adults 12 months after booster",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE52VG1KZXRKUHNUNHpGa2tLc2hHbllUdkwydlhhMTlOTHhiVEFJOWkyOUdTNTluYWlKSWhYS2RCZEhSVGdqRjFCMENHcTFDcFRLY09Xb3NiR2xrXzdPeHpj?oc=5",
-      "source": "Nature News Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 5,
-      "published_at": "2026-11-06T08:43:34+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [
-        "xbb"
-      ],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "Nature News"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "Nature News"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Nature News Vaccines / Immunization"
       ]
     },
     {
@@ -1199,73 +1332,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "BMJ"
-      ]
-    },
-    {
-      "id": "65eafae9b4102d25",
-      "title": "Immunogenicity and safety of Institut Pasteur du Cambodge (IPC) and updated Thai Red Cross (UTRC) intradermal rabies vaccine regimens among healthy adults in India: A phase 4, open label, equivalence randomised controlled trial",
-      "summary": "Immunogenicity and safety of Institut Pasteur du Cambodge (IPC) and updated Thai Red Cross (UTRC) intradermal rabies vaccine regimens among healthy adults in India: A phase 4, open label, equivalence randomised controlled trial",
-      "summary_ai": "Immunogenicity and safety of Institut Pasteur du Cambodge (IPC) and updated Thai Red Cross (UTRC) intradermal rabies vaccine regimens among healthy adults in India: A phase 4, open label, equivalence randomised controlled trial",
-      "title_original": "Immunogenicity and safety of Institut Pasteur du Cambodge (IPC) and updated Thai Red Cross (UTRC) intradermal rabies vaccine regimens among healthy adults in India: A phase 4, open label, equivalence randomised controlled trial",
-      "summary_original": "Immunogenicity and safety of Institut Pasteur du Cambodge (IPC) and updated Thai Red Cross (UTRC) intradermal rabies vaccine regimens among healthy adults in India: A phase 4, open label, equivalence randomised controlled trial",
-      "summary_ai_original": "Immunogenicity and safety of Institut Pasteur du Cambodge (IPC) and updated Thai Red Cross (UTRC) intradermal rabies vaccine regimens among healthy adults in India: A phase 4, open label, equivalence randomised controlled trial",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ3pJV3JLdHlqNDRPYVQ3QUozU1JQUmd0WWtwaDBhYlZxdWRFbFpVVmo2S1VaM2I3MHF2dEIxX0tTY3A2VlJJU0pQeC1jOVlma0ozSGpOcmgySlExQVU5dU9DV0RVYlBDdm5xT1lINWt1MUtrLUFSeW5zb1pWTnF4d3lsRXM?oc=5",
-      "source": "PLOS journals vaccines",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 7,
-      "published_at": "2026-10-29T18:10:01+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [
-        "safety"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "インド",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "PLOS"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "PLOS"
-        },
-        "target": {
-          "key": "india",
-          "name_ja": "インド",
-          "lat": 28.6139,
-          "lng": 77.209,
-          "region": "Asia",
-          "label": "インド"
-        }
-      },
-      "location": {
-        "key": "india",
-        "name_ja": "インド",
-        "lat": 28.6139,
-        "lng": 77.209,
-        "region": "Asia",
-        "label": "インド"
-      },
-      "region": "Asia",
-      "country": "インド",
-      "lat": 28.6139,
-      "lng": 77.209,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "PLOS journals vaccines"
       ]
     },
     {
