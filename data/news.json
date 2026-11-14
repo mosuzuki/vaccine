@@ -1,9 +1,9 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-11-13T01:46:18.238885+00:00",
-  "item_count": 17,
-  "archive_count": 625,
+  "generated_at": "2026-11-14T01:24:50.784018+00:00",
+  "item_count": 18,
+  "archive_count": 630,
   "days_back": 14,
   "plot_mode_default": "source",
   "feed_status": [
@@ -23,7 +23,7 @@
       "name": "CDC Newsroom",
       "url": "https://tools.cdc.gov/api/v2/resources/media/316422.rss",
       "status": "ok",
-      "seen": 6,
+      "seen": 4,
       "kept": 0
     },
     {
@@ -89,14 +89,14 @@
       "name": "The Lancet series",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Athelancet.com%20(trial%20OR%20policy%20OR%20effectiveness%20OR%20safety)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 4,
-      "kept": 1
+      "seen": 5,
+      "kept": 2
     },
     {
       "name": "Lancet Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Athelancet.com%2Fjournals%2Flaninf&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -110,14 +110,14 @@
       "name": "BMJ",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abmj.com%20(policy%20OR%20trial%20OR%20effectiveness%20OR%20communication)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 6,
-      "kept": 1
+      "seen": 8,
+      "kept": 3
     },
     {
       "name": "Vaccine journal",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Asciencedirect.com%2Fjournal%2Fvaccine&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -131,14 +131,14 @@
       "name": "Nature Medicine vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fnm%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20uptake%20OR%20policy)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 1,
       "kept": 0
     },
     {
       "name": "Nature Communications vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fncomms%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20surveillance)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 2,
       "kept": 0
     },
     {
@@ -166,7 +166,7 @@
       "name": "Science vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ascience.org%2Fdoi%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20antibody)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 5,
+      "seen": 9,
       "kept": 0
     },
     {
@@ -194,7 +194,7 @@
       "name": "JAMA vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjama%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 21,
+      "seen": 13,
       "kept": 0
     },
     {
@@ -202,13 +202,13 @@
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjamanetworkopen%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
       "seen": 1,
-      "kept": 1
+      "kept": 0
     },
     {
       "name": "JAMA Internal Medicine vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjamainternalmedicine%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 3,
       "kept": 1
     },
     {
@@ -229,8 +229,8 @@
       "name": "medRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Amedrxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 5,
-      "kept": 2
+      "seen": 0,
+      "kept": 0
     },
     {
       "name": "bioRxiv vaccines",
@@ -243,77 +243,77 @@
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 35,
+      "seen": 37,
       "kept": 2
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 23,
+      "seen": 34,
       "kept": 0
     },
     {
       "name": "AP Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 7,
       "kept": 0
     },
     {
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 36,
+      "seen": 32,
       "kept": 1
     },
     {
       "name": "Financial Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aft.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 10,
+      "seen": 15,
       "kept": 0
     },
     {
       "name": "STAT Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 19,
+      "seen": 21,
       "kept": 0
     },
     {
       "name": "Nature News Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 18,
-      "kept": 1
+      "seen": 23,
+      "kept": 2
     },
     {
       "name": "Science Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Ascience.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 8,
+      "seen": 15,
       "kept": 0
     },
     {
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 19,
+      "seen": 16,
       "kept": 0
     },
     {
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 35,
+      "seen": 34,
       "kept": 0
     },
     {
       "name": "Washington Post Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 17,
+      "seen": 23,
       "kept": 0
     },
     {
@@ -327,36 +327,36 @@
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 11,
+      "seen": 16,
       "kept": 0
     },
     {
       "name": "朝日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Aasahi.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 18,
+      "seen": 15,
       "kept": 0
     },
     {
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 42,
+      "seen": 28,
       "kept": 0
     },
     {
       "name": "毎日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 17,
+      "seen": 20,
       "kept": 0
     },
     {
       "name": "JAMA Network vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 25,
-      "kept": 1
+      "seen": 18,
+      "kept": 0
     },
     {
       "name": "JAMA Pediatrics vaccines",
@@ -369,15 +369,15 @@
       "name": "Clinical Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fcid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
       "name": "Journal of Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fjid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
-      "kept": 0
+      "seen": 2,
+      "kept": 1
     },
     {
       "name": "Open Forum Infectious Diseases",
@@ -390,7 +390,7 @@
       "name": "Emerging Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Awwwnc.cdc.gov%2Feid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
@@ -404,15 +404,15 @@
       "name": "PLOS journals vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajournals.plos.org%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20uptake%20OR%20policy)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 5,
+      "seen": 4,
       "kept": 1
     },
     {
       "name": "eClinicalMedicine vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Athelancet.com%2Fjournals%2Feclinm&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 1,
-      "kept": 1
+      "seen": 0,
+      "kept": 0
     },
     {
       "name": "EBioMedicine vaccines",
@@ -453,7 +453,7 @@
       "name": "Journal of Travel Medicine vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fjtm&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -465,16 +465,81 @@
     }
   ],
   "weekly_ai_summary": {
-    "generated_at": "2026-11-13T01:46:18.238885+00:00",
+    "generated_at": "2026-11-14T01:24:50.784018+00:00",
     "period_days": 7,
-    "policy_count": 3,
+    "policy_count": 2,
     "academic_count": 6,
     "status": "ok",
     "model": "gpt-4o-mini",
-    "policy_summary": "米国の麻疹排除が危機に瀕しており、フロリダ州の研究がファイザーのCOVIDワクチンに関する新たな知見を示しています。また、PAHOはラテンアメリカとカリブ海地域でのHPV検査へのアクセスを向上させるための合意を確保しました。",
-    "academic_summary": "フランスにおける高齢者のインフルエンザワクチン接種と病気の重症度に関する全国的なコホート研究が発表されました。さらに、ガーナのSekondi-Takoradiにおけるmpoxワクチンの受容に関する研究も行われています。"
+    "policy_summary": "米国の麻疹排除が危機に瀕しており、フロリダ州の研究がファイザーのCOVIDワクチンに関する重要な示唆を提供しています。また、PAHOがラテンアメリカとカリブ海地域でのHPV検査へのアクセス契約を初めて確保しました。",
+    "academic_summary": "英国におけるSARS-CoV-2ワクチン接種スケジュールに対する鼻粘膜の抗体反応に関する研究が発表されました。カナダの高齢者におけるインフルエンザおよび肺炎球菌ワクチン接種の格差に関する研究も行われています。"
   },
   "items": [
+    {
+      "id": "871bcb0845bc198f",
+      "title": "-adjuvanted RSV pre-F protein vaccine in adults with lung or kidney transplant: a phase 2b randomized trial",
+      "summary": "-adjuvanted RSV pre-F protein vaccine in adults with lung or kidney transplant: a phase 2b randomized trial",
+      "summary_ai": "-adjuvanted RSV pre-F protein vaccine in adults with lung or kidney transplant: a phase 2b randomized trial",
+      "title_original": "-adjuvanted RSV pre-F protein vaccine in adults with lung or kidney transplant: a phase 2b randomized trial",
+      "summary_original": "-adjuvanted RSV pre-F protein vaccine in adults with lung or kidney transplant: a phase 2b randomized trial",
+      "summary_ai_original": "-adjuvanted RSV pre-F protein vaccine in adults with lung or kidney transplant: a phase 2b randomized trial",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pWkxNNktUbm55ZXR3d2dmSUZURmFSd1M1NnVnZ1JZNndpa2h6MjgzV1dRN015NnZxdjF3OExVdFFPeC1CQ3EzMzRwQUo3V3NYU0ZwQUxtXzhSR3VSMFc0?oc=5",
+      "source": "Nature News Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 5,
+      "published_at": "2026-11-13T17:34:58+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Nature News"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Nature News"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Nature News Vaccines / Immunization"
+      ]
+    },
     {
       "id": "236f462796ee802c",
       "title": "Measles elimination at risk—and what a Florida study truly shows about Pfizer’s COVID vaccine: The State of US Vaccine Policy - CIDRAP",
@@ -546,137 +611,136 @@
       ]
     },
     {
-      "id": "ebcb4d4bdfd4a47c",
-      "title": "Influenza Vaccination and Disease Severity Among Older Adults Hospitalized with Influenza in France: A Nationwide Cohort Study, 2016-2024 - medRxiv",
-      "summary": "Influenza Vaccination and Disease Severity Among Older Adults Hospitalized with Influenza in France: A Nationwide Cohort Study, 2016-2024 medRxiv",
-      "summary_ai": "Influenza Vaccination and Disease Severity Among Older Adults Hospitalized with Influenza in France: A Nationwide Cohort Study, 2016-2024 medRxiv",
-      "title_original": "Influenza Vaccination and Disease Severity Among Older Adults Hospitalized with Influenza in France: A Nationwide Cohort Study, 2016-2024 - medRxiv",
-      "summary_original": "Influenza Vaccination and Disease Severity Among Older Adults Hospitalized with Influenza in France: A Nationwide Cohort Study, 2016-2024 medRxiv",
-      "summary_ai_original": "Influenza Vaccination and Disease Severity Among Older Adults Hospitalized with Influenza in France: A Nationwide Cohort Study, 2016-2024 medRxiv",
+      "id": "5da84ddc8bb58275",
+      "title": "Nasal mucosal humoral responses to SARS-CoV-2 vaccination priming schedules in the UK: a substudy of the Com-COV single-blind, randomised, non-inferiority trial",
+      "summary": "Nasal mucosal humoral responses to SARS-CoV-2 vaccination priming schedules in the UK: a substudy of the Com-COV single-blind, randomised, non-inferiority trial",
+      "summary_ai": "Nasal mucosal humoral responses to SARS-CoV-2 vaccination priming schedules in the UK: a substudy of the Com-COV single-blind, randomised, non-inferiority trial",
+      "title_original": "Nasal mucosal humoral responses to SARS-CoV-2 vaccination priming schedules in the UK: a substudy of the Com-COV single-blind, randomised, non-inferiority trial",
+      "summary_original": "Nasal mucosal humoral responses to SARS-CoV-2 vaccination priming schedules in the UK: a substudy of the Com-COV single-blind, randomised, non-inferiority trial",
+      "summary_ai_original": "Nasal mucosal humoral responses to SARS-CoV-2 vaccination priming schedules in the UK: a substudy of the Com-COV single-blind, randomised, non-inferiority trial",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE94Rm5tU1VuMW1hUlZpYy1GS2tYOXRrdEF4Y0hqbHFCNlNqMjN5MXluY3FUMHM4b3dhNlNGVm0teE1SblFCa3BmYkxXbklhdWd2Wm9qT3FZTVhub1cyNngzZXN6OUVxOTFVYWhZRXpwd3Vuc2tqeFBv?oc=5",
-      "source": "medRxiv vaccines",
-      "source_type": "preprint",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYkN3clZkaXVyNXptWkduUmE1Uzl6U3gwX3FSVFZlajZqZjZvWmktR2dqZlUzZHV2MmpzXzRyVmJTWGdQRjIyMUJaRnd5LVdPQjBoUFEwdHFZSEtPLVp3b1Y1ZmdWNjNZNDRiZmZ3a2ZrYTZTTDZEejVoRnRMeGhtR194NUdGbXgzWWUw?oc=5",
+      "source": "The Lancet series",
+      "source_type": "academic",
       "source_tier": "Tier 3",
-      "source_priority": 7,
-      "published_at": "2026-11-12T17:20:31+00:00",
+      "source_priority": 8,
+      "published_at": "2026-11-12T08:00:00+00:00",
+      "topics": [
+        "policy",
+        "research"
+      ],
+      "policy_tags": [
+        "schedule"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "英国",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "The Lancet / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "The Lancet / London"
+        },
+        "target": {
+          "key": "uk",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "英国"
+        }
+      },
+      "location": {
+        "key": "uk",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "英国"
+      },
+      "region": "Europe",
+      "country": "英国",
+      "lat": 51.5074,
+      "lng": -0.1278,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "The Lancet series"
+      ]
+    },
+    {
+      "id": "734997c6f078d183",
+      "title": "Decomposition of disparities in influenza and pneumococcal vaccination coverage by immigrant status among older adults in Canada: results from the Canadian longitudinal study on aging (CLSA) - BMJ Public Health",
+      "summary": "Decomposition of disparities in influenza and pneumococcal vaccination coverage by immigrant status among older adults in Canada: results from the Canadian longitudinal study on aging (CLSA) BMJ Public Health",
+      "summary_ai": "Decomposition of disparities in influenza and pneumococcal vaccination coverage by immigrant status among older adults in Canada: results from the Canadian longitudinal study on aging (CLSA) BMJ Public Health",
+      "title_original": "Decomposition of disparities in influenza and pneumococcal vaccination coverage by immigrant status among older adults in Canada: results from the Canadian longitudinal study on aging (CLSA) - BMJ Public Health",
+      "summary_original": "Decomposition of disparities in influenza and pneumococcal vaccination coverage by immigrant status among older adults in Canada: results from the Canadian longitudinal study on aging (CLSA) BMJ Public Health",
+      "summary_ai_original": "Decomposition of disparities in influenza and pneumococcal vaccination coverage by immigrant status among older adults in Canada: results from the Canadian longitudinal study on aging (CLSA) BMJ Public Health",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHeGtVNGlYTC1CUjFIQ2xQWVdqZXVOS2tlVW10SWNFWU1zTDdndFQteUhXcFpUNjVUTEpOcWZYdzdsdUJ2UkFGQ3NnU1NKUzZkTFc3Rlp1SGc3Qm84MXB3VA?oc=5",
+      "source": "BMJ",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-11-12T08:00:00+00:00",
       "topics": [
         "research"
       ],
       "policy_tags": [],
       "vaccines": [],
       "variants": [],
-      "target_country": "フランス",
+      "target_country": "カナダ",
       "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "medRxiv"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "medRxiv"
-        },
-        "target": {
-          "key": "france",
-          "name_ja": "フランス",
-          "lat": 48.8566,
-          "lng": 2.3522,
-          "region": "Europe",
-          "label": "フランス"
-        }
-      },
-      "location": {
-        "key": "france",
-        "name_ja": "フランス",
-        "lat": 48.8566,
-        "lng": 2.3522,
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
         "region": "Europe",
-        "label": "フランス"
-      },
-      "region": "Europe",
-      "country": "フランス",
-      "lat": 48.8566,
-      "lng": 2.3522,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "medRxiv vaccines"
-      ]
-    },
-    {
-      "id": "33d8fd56a87f4acc",
-      "title": "Determinants of mpox vaccine acceptance among peri-urban residents in Sekondi-Takoradi, Western Region of Ghana: A community-based cross-sectional study - medRxiv",
-      "summary": "Determinants of mpox vaccine acceptance among peri-urban residents in Sekondi-Takoradi, Western Region of Ghana: A community-based cross-sectional study medRxiv",
-      "summary_ai": "Determinants of mpox vaccine acceptance among peri-urban residents in Sekondi-Takoradi, Western Region of Ghana: A community-based cross-sectional study medRxiv",
-      "title_original": "Determinants of mpox vaccine acceptance among peri-urban residents in Sekondi-Takoradi, Western Region of Ghana: A community-based cross-sectional study - medRxiv",
-      "summary_original": "Determinants of mpox vaccine acceptance among peri-urban residents in Sekondi-Takoradi, Western Region of Ghana: A community-based cross-sectional study medRxiv",
-      "summary_ai_original": "Determinants of mpox vaccine acceptance among peri-urban residents in Sekondi-Takoradi, Western Region of Ghana: A community-based cross-sectional study medRxiv",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9KRjNOb1BFUmpyMVVUUDYycmthYWl6SE54X3M5TUJQTHJGTVRPd0kxWVdrY0JVUE1sb2lsTFR1TmwxWG5wZUx1V1dTcDRJSzExMllqT0NQNWFDYzVkeXFrYmMtcERBbDVFNklfdy1ad1doRDVaVjRJ?oc=5",
-      "source": "medRxiv vaccines",
-      "source_type": "preprint",
-      "source_tier": "Tier 3",
-      "source_priority": 7,
-      "published_at": "2026-11-12T17:20:30+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [
-        "outbreak_response"
-      ],
-      "vaccines": [
-        "mpox"
-      ],
-      "variants": [],
-      "target_country": "ガーナ",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "medRxiv"
+        "label": "BMJ / London"
       },
       "plot": {
         "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "medRxiv"
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BMJ / London"
         },
         "target": {
-          "key": "ghana",
-          "name_ja": "ガーナ",
-          "lat": 5.6037,
-          "lng": -0.187,
-          "region": "Africa",
-          "label": "ガーナ"
+          "key": "canada",
+          "name_ja": "カナダ",
+          "lat": 45.4215,
+          "lng": -75.6972,
+          "region": "North America",
+          "label": "カナダ"
         }
       },
       "location": {
-        "key": "ghana",
-        "name_ja": "ガーナ",
-        "lat": 5.6037,
-        "lng": -0.187,
-        "region": "Africa",
-        "label": "ガーナ"
+        "key": "canada",
+        "name_ja": "カナダ",
+        "lat": 45.4215,
+        "lng": -75.6972,
+        "region": "North America",
+        "label": "カナダ"
       },
-      "region": "Africa",
-      "country": "ガーナ",
-      "lat": 5.6037,
-      "lng": -0.187,
+      "region": "North America",
+      "country": "カナダ",
+      "lat": 45.4215,
+      "lng": -75.6972,
       "duplicate_count": 1,
       "duplicate_sources": [
-        "medRxiv vaccines"
+        "BMJ"
       ]
     },
     {
@@ -815,71 +879,68 @@
       ]
     },
     {
-      "id": "aeaf33c7f03240d5",
-      "title": "Estimation of mRNA-1283 vs BNT162b2 COVID-19 Vaccine Effectiveness in Older US Veterans",
-      "summary": "Estimation of mRNA-1283 vs BNT162b2 COVID-19 Vaccine Effectiveness in Older US Veterans",
-      "summary_ai": "Estimation of mRNA-1283 vs BNT162b2 COVID-19 Vaccine Effectiveness in Older US Veterans",
-      "title_original": "Estimation of mRNA-1283 vs BNT162b2 COVID-19 Vaccine Effectiveness in Older US Veterans",
-      "summary_original": "Estimation of mRNA-1283 vs BNT162b2 COVID-19 Vaccine Effectiveness in Older US Veterans",
-      "summary_ai_original": "Estimation of mRNA-1283 vs BNT162b2 COVID-19 Vaccine Effectiveness in Older US Veterans",
+      "id": "dc24580931427636",
+      "title": "Comparison of routine health-facility (KHIS) versus house-survey (KDHS) estimates of childhood vaccination coverage in Kenya: a cross-sectional study - BMJ Public Health",
+      "summary": "Comparison of routine health-facility (KHIS) versus house-survey (KDHS) estimates of childhood vaccination coverage in Kenya: a cross-sectional study BMJ Public Health",
+      "summary_ai": "Comparison of routine health-facility (KHIS) versus house-survey (KDHS) estimates of childhood vaccination coverage in Kenya: a cross-sectional study BMJ Public Health",
+      "title_original": "Comparison of routine health-facility (KHIS) versus house-survey (KDHS) estimates of childhood vaccination coverage in Kenya: a cross-sectional study - BMJ Public Health",
+      "summary_original": "Comparison of routine health-facility (KHIS) versus house-survey (KDHS) estimates of childhood vaccination coverage in Kenya: a cross-sectional study BMJ Public Health",
+      "summary_ai_original": "Comparison of routine health-facility (KHIS) versus house-survey (KDHS) estimates of childhood vaccination coverage in Kenya: a cross-sectional study BMJ Public Health",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBFMlBJc3hORjlSaUZCaXV2d2RwSWFXTlNqR0xhSFhEcDh6QlRzdlVTZktJUW5LaWxYYXllZ0dJUVhIay1zVC1FN0t2TEdEcnlHZjRmQXNQZHYwLTNEWGl2aWhSMUIzbFRuU2pia1NSWDlKN2VSYnVZ?oc=5",
-      "source": "JAMA Network Open vaccines",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tYVJJWlE5S1lEUXc3U0Y3MllRQzhmbkRWdzh2ZFlGZl95R0ZmcXFZc2NEcmVqWnNiSzFucVg3dXJsdWZVUFdmcE1oeW9vMW1FWGZ6SkgteGw4Z01sNS1QVw?oc=5",
+      "source": "BMJ",
       "source_type": "academic",
       "source_tier": "Tier 3",
-      "source_priority": 9,
-      "published_at": "2026-11-11T17:37:21+00:00",
+      "source_priority": 8,
+      "published_at": "2026-11-11T08:00:00+00:00",
       "topics": [
         "research"
       ],
       "policy_tags": [],
-      "vaccines": [
-        "covid"
-      ],
+      "vaccines": [],
       "variants": [],
-      "target_country": "不明",
+      "target_country": "ケニア",
       "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "JAMA Network Open"
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BMJ / London"
       },
       "plot": {
         "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "JAMA Network Open"
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BMJ / London"
         },
         "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
+          "key": "kenya",
+          "name_ja": "ケニア",
+          "lat": -1.2921,
+          "lng": 36.8219,
+          "region": "Africa",
+          "label": "ケニア"
         }
       },
       "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
+        "key": "kenya",
+        "name_ja": "ケニア",
+        "lat": -1.2921,
+        "lng": 36.8219,
+        "region": "Africa",
+        "label": "ケニア"
       },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 2,
+      "region": "Africa",
+      "country": "ケニア",
+      "lat": -1.2921,
+      "lng": 36.8219,
+      "duplicate_count": 1,
       "duplicate_sources": [
-        "JAMA Network Open vaccines",
-        "JAMA Network vaccines"
+        "BMJ"
       ]
     },
     {
@@ -1291,7 +1352,7 @@
       "source_type": "media",
       "source_tier": "Tier 2",
       "source_priority": 7,
-      "published_at": "2026-11-05T00:30:37+00:00",
+      "published_at": "2026-11-05T08:00:00+00:00",
       "topics": [
         "research"
       ],
@@ -1475,75 +1536,6 @@
       ]
     },
     {
-      "id": "b55c6255dd85d576",
-      "title": "Immunogenicity and safety of an interchangeable vaccination schedule of two inactivated Japanese encephalitis vaccines: a multicentric, phase IV, open-label, randomized controlled trial",
-      "summary": "Immunogenicity and safety of an interchangeable vaccination schedule of two inactivated Japanese encephalitis vaccines: a multicentric, phase IV, open-label, randomized controlled trial",
-      "summary_ai": "Immunogenicity and safety of an interchangeable vaccination schedule of two inactivated Japanese encephalitis vaccines: a multicentric, phase IV, open-label, randomized controlled trial",
-      "title_original": "Immunogenicity and safety of an interchangeable vaccination schedule of two inactivated Japanese encephalitis vaccines: a multicentric, phase IV, open-label, randomized controlled trial",
-      "summary_original": "Immunogenicity and safety of an interchangeable vaccination schedule of two inactivated Japanese encephalitis vaccines: a multicentric, phase IV, open-label, randomized controlled trial",
-      "summary_ai_original": "Immunogenicity and safety of an interchangeable vaccination schedule of two inactivated Japanese encephalitis vaccines: a multicentric, phase IV, open-label, randomized controlled trial",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeERZZGRZd3I3YjF4aU9iZGgwU09udTZ3VlE3WTBzdkpycVZUd0RwVUF2R2xjalhEX2F4Q3lxVFhjS29PckZ0M3NITlBZUm1Oc21OT1M0QVlBejdNZ0djX3hrRG5SUXlpVjhWQXRQZDlKRDRrSXpSZ2lrOGtrTzl2Vi1vSDhlcEdqU1FlUEdyQWdIbFpISXFjb2s5RXBOc3NBSkgtWmRsalh4NE1fSDdWT0xtX2ZDZm9qaVJpTUlTdXF3SlFlYXl0d3hZaEY?oc=5",
-      "source": "eClinicalMedicine vaccines",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 7,
-      "published_at": "2026-11-02T19:29:39+00:00",
-      "topics": [
-        "policy",
-        "research"
-      ],
-      "policy_tags": [
-        "safety",
-        "schedule"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "eClinicalMedicine"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "eClinicalMedicine"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "eClinicalMedicine vaccines"
-      ]
-    },
-    {
       "id": "c4fa7c3127dd5d6d",
       "title": "Test negative case–control study of COVID-19 vaccine effectiveness for symptomatic SARS-CoV-2 infection among healthcare worke - BMJ Open",
       "summary": "Test negative case–control study of COVID-19 vaccine effectiveness for symptomatic SARS-CoV-2 infection among healthcare worke BMJ Open",
@@ -1608,6 +1600,71 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "BMJ"
+      ]
+    },
+    {
+      "id": "1172b40b30e7f6f2",
+      "title": "Influenza B Circulation and Vaccine Effectiveness Against Medically Attended Outpatient Influenza B Illness, United States, 2016–17 Through 2024–25 - Oxford Academic",
+      "summary": "Influenza B Circulation and Vaccine Effectiveness Against Medically Attended Outpatient Influenza B Illness, United States, 2016–17 Through 2024–25 Oxford Academic",
+      "summary_ai": "Influenza B Circulation and Vaccine Effectiveness Against Medically Attended Outpatient Influenza B Illness, United States, 2016–17 Through 2024–25 Oxford Academic",
+      "title_original": "Influenza B Circulation and Vaccine Effectiveness Against Medically Attended Outpatient Influenza B Illness, United States, 2016–17 Through 2024–25 - Oxford Academic",
+      "summary_original": "Influenza B Circulation and Vaccine Effectiveness Against Medically Attended Outpatient Influenza B Illness, United States, 2016–17 Through 2024–25 Oxford Academic",
+      "summary_ai_original": "Influenza B Circulation and Vaccine Effectiveness Against Medically Attended Outpatient Influenza B Illness, United States, 2016–17 Through 2024–25 Oxford Academic",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPM0dnUmVvYlpiVVBGQ0ZKWlFOdndnTUZhWEJLdEQ5dHFyQjY0d0VPblkxc1BtbW4tMVpSMUtFVG84X1RSazg4OXdqLWluNzZmMUF0R0N1ZFloMEtnU3dJSkdzdFI3b2xvZ2VDWmlWSE5RbEd0NnVqOUhPLWdYd1c1X3BRMWJsZw?oc=5",
+      "source": "Journal of Infectious Diseases",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-11-01T07:41:47+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "米国",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "Journal of Infectious Diseases"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "Journal of Infectious Diseases"
+        },
+        "target": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "米国"
+        }
+      },
+      "location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "米国"
+      },
+      "region": "North America",
+      "country": "米国",
+      "lat": 38.9072,
+      "lng": -77.0369,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Journal of Infectious Diseases"
       ]
     }
   ]
