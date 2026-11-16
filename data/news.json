@@ -1,9 +1,9 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-11-15T00:59:00.517780+00:00",
-  "item_count": 16,
-  "archive_count": 632,
+  "generated_at": "2026-11-16T00:56:43.814428+00:00",
+  "item_count": 15,
+  "archive_count": 634,
   "days_back": 14,
   "plot_mode_default": "source",
   "feed_status": [
@@ -75,8 +75,8 @@
       "name": "Africa CDC News",
       "url": "https://africacdc.org/feed/",
       "status": "ok",
-      "seen": 6,
-      "kept": 0
+      "seen": 7,
+      "kept": 1
     },
     {
       "name": "PAHO News",
@@ -89,8 +89,8 @@
       "name": "The Lancet series",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Athelancet.com%20(trial%20OR%20policy%20OR%20effectiveness%20OR%20safety)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 7,
-      "kept": 3
+      "seen": 3,
+      "kept": 2
     },
     {
       "name": "Lancet Infectious Diseases",
@@ -103,15 +103,15 @@
       "name": "NEJM",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Anejm.org%20(trial%20OR%20effectiveness%20OR%20policy%20OR%20safety)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 1,
       "kept": 0
     },
     {
       "name": "BMJ",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abmj.com%20(policy%20OR%20trial%20OR%20effectiveness%20OR%20communication)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 5,
-      "kept": 1
+      "seen": 4,
+      "kept": 0
     },
     {
       "name": "Vaccine journal",
@@ -166,7 +166,7 @@
       "name": "Science vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ascience.org%2Fdoi%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20antibody)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 8,
+      "seen": 5,
       "kept": 0
     },
     {
@@ -201,8 +201,8 @@
       "name": "JAMA Network Open vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjamanetworkopen%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
-      "kept": 0
+      "seen": 3,
+      "kept": 1
     },
     {
       "name": "JAMA Internal Medicine vaccines",
@@ -236,28 +236,28 @@
       "name": "bioRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abiorxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 16,
       "kept": 0
     },
     {
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 29,
+      "seen": 22,
       "kept": 2
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 21,
+      "seen": 13,
       "kept": 0
     },
     {
       "name": "AP Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 5,
+      "seen": 3,
       "kept": 0
     },
     {
@@ -271,49 +271,49 @@
       "name": "Financial Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aft.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 11,
+      "seen": 8,
       "kept": 0
     },
     {
       "name": "STAT Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 16,
+      "seen": 8,
       "kept": 0
     },
     {
       "name": "Nature News Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 18,
+      "seen": 14,
       "kept": 1
     },
     {
       "name": "Science Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Ascience.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 11,
+      "seen": 6,
       "kept": 0
     },
     {
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 18,
+      "seen": 20,
       "kept": 0
     },
     {
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 30,
+      "seen": 100,
       "kept": 0
     },
     {
       "name": "Washington Post Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 21,
+      "seen": 22,
       "kept": 0
     },
     {
@@ -327,63 +327,63 @@
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 12,
+      "seen": 9,
       "kept": 0
     },
     {
       "name": "朝日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Aasahi.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 12,
+      "seen": 9,
       "kept": 0
     },
     {
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 28,
+      "seen": 43,
       "kept": 0
     },
     {
       "name": "毎日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 12,
+      "seen": 13,
       "kept": 0
     },
     {
       "name": "JAMA Network vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 11,
-      "kept": 1
+      "seen": 13,
+      "kept": 2
     },
     {
       "name": "JAMA Pediatrics vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjamapediatrics&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 2,
       "kept": 0
     },
     {
       "name": "Clinical Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fcid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 8,
+      "seen": 1,
       "kept": 0
     },
     {
       "name": "Journal of Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fjid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
-      "kept": 1
+      "seen": 0,
+      "kept": 0
     },
     {
       "name": "Open Forum Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fofid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 22,
+      "seen": 2,
       "kept": 1
     },
     {
@@ -397,14 +397,14 @@
       "name": "Pediatrics journal",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Apublications.aap.org%2Fpediatrics&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 1,
       "kept": 0
     },
     {
       "name": "PLOS journals vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajournals.plos.org%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20uptake%20OR%20policy)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 4,
       "kept": 1
     },
     {
@@ -418,8 +418,8 @@
       "name": "EBioMedicine vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Athelancet.com%2Fjournals%2Febiom&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 3,
-      "kept": 1
+      "seen": 1,
+      "kept": 0
     },
     {
       "name": "International Journal of Infectious Diseases",
@@ -446,15 +446,15 @@
       "name": "Cochrane vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Acochranelibrary.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 1,
-      "kept": 1
+      "seen": 0,
+      "kept": 0
     },
     {
       "name": "Journal of Travel Medicine vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fjtm&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 0,
-      "kept": 0
+      "seen": 7,
+      "kept": 1
     },
     {
       "name": "SSRN vaccine preprints",
@@ -465,106 +465,108 @@
     }
   ],
   "weekly_ai_summary": {
-    "generated_at": "2026-11-15T00:59:00.517780+00:00",
+    "generated_at": "2026-11-16T00:56:43.814428+00:00",
     "period_days": 7,
-    "policy_count": 2,
+    "policy_count": 3,
     "academic_count": 5,
     "status": "ok",
     "model": "gpt-4o-mini",
-    "policy_summary": "米国における麻疹排除が危機に瀕しており、フロリダ州の研究がファイザーのCOVIDワクチンに関する新たな知見を示しています。また、PAHOはラテンアメリカとカリブ海地域でのHPV検査へのアクセスを改善するための初の地域的合意を確保しました。",
-    "academic_summary": "コロンビアでのmpoxに対するLC16m8ワクチンの安全性と免疫原性を評価するための多施設オープンラベル試験が実施されました。さらに、英国におけるSARS-CoV-2ワクチン接種スケジュールに対する鼻粘膜の抗体反応に関する研究も行われています。"
+    "policy_summary": "エボラウイルスの流行が続く中、アクセスが困難なコミュニティへの対応が重要である。HPV検査に関する地域全体のアクセス契約がラテンアメリカとカリブ海で初めて確保された。",
+    "academic_summary": "旅行ワクチンへの躊躇における針恐怖症の影響が指摘されている。米国の免疫政策に科学的整合性を取り戻す必要性が論じられている。"
   },
   "items": [
     {
-      "id": "c61a96ad921c97e4",
-      "title": "Safety and immunogenicity of the LC16m8 vaccine against mpox during outbreak deployment in Colombia: a hybrid, multicentre, open-label, randomised controlled trial and observational cohort study",
-      "summary": "Safety and immunogenicity of the LC16m8 vaccine against mpox during outbreak deployment in Colombia: a hybrid, multicentre, open-label, randomised controlled trial and observational cohort study",
-      "summary_ai": "Safety and immunogenicity of the LC16m8 vaccine against mpox during outbreak deployment in Colombia: a hybrid, multicentre, open-label, randomised controlled trial and observational cohort study",
-      "title_original": "Safety and immunogenicity of the LC16m8 vaccine against mpox during outbreak deployment in Colombia: a hybrid, multicentre, open-label, randomised controlled trial and observational cohort study",
-      "summary_original": "Safety and immunogenicity of the LC16m8 vaccine against mpox during outbreak deployment in Colombia: a hybrid, multicentre, open-label, randomised controlled trial and observational cohort study",
-      "summary_ai_original": "Safety and immunogenicity of the LC16m8 vaccine against mpox during outbreak deployment in Colombia: a hybrid, multicentre, open-label, randomised controlled trial and observational cohort study",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSTF1Yi1VaHJGTEdydjlOREsxQmJUbUFMUGd5UFNHVWJ4b05DWXNtWWxpN0NnZGg4M1FEd0piSVYyQ3VkUGZoVjRtVGZiQTQ4Wjh0YVowb001VkE3eVJ2bFNYLVM1MUplRVhCY0p2cU8zazJRcmZBLVZSSFdjZjc0a3YySVg0dHRtLTc4SDlCWFVnSVR1?oc=5",
-      "source": "The Lancet series",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
+      "id": "a55ae952ed76056c",
+      "title": "Six months on, accessing hard-to-reach communities key to halting Ebola outbreak",
+      "summary": "15 November 2026 | Addis Ababa, Geneva, Kinshasa, New York, Rome Six months into the Ebola outbreak caused by Bundibugyo virus in the Democratic Republic of the Congo, significant progress has been made in bringing lifesaving services closer to affected communities, despite immense challenges. However, fuelled by ongoing conflict, displacement and humanitarian needs, the outbreak […] The post Six months on, accessing hard-to-reach communities key to halting Ebola outbreak appeared first on Africa CDC .",
+      "summary_ai": "While the response has slowed transmission in the initial epicentres, 400 to 500 new cases continue to be reported each week, and the outbreak has expanded to 67 health zones in eight provinces. Africa CDC and WHO co-lead the joint continental Incident Management Support Team, which supports the technical health respon",
+      "title_original": "Six months on, accessing hard-to-reach communities key to halting Ebola outbreak",
+      "summary_original": "15 November 2026 | Addis Ababa, Geneva, Kinshasa, New York, Rome Six months into the Ebola outbreak caused by Bundibugyo virus in the Democratic Republic of the Congo, significant progress has been made in bringing lifesaving services closer to affected communities, despite immense challenges. However, fuelled by ongoing conflict, displacement and humanitarian needs, the outbreak […] The post Six months on, accessing hard-to-reach communities key to halting Ebola outbreak appeared first on Africa CDC .",
+      "summary_ai_original": "While the response has slowed transmission in the initial epicentres, 400 to 500 new cases continue to be reported each week, and the outbreak has expanded to 67 health zones in eight provinces. Africa CDC and WHO co-lead the joint continental Incident Management Support Team, which supports the technical health respon",
+      "article_text_original": "15 November 2026 | Addis Ababa, Geneva, Kinshasa, New York, Rome Six months into the Ebola outbreak caused by Bundibugyo virus in the Democratic Republic of the Congo, significant progress has been made in bringing lifesaving services closer to affected communities, despite immense challenges. However, fuelled by ongoing conflict, displacement and humanitarian needs, the outbreak continues to expand, particularly in affected areas. Since the start of the outbreak, more than 11 000 cases and 5400 deaths have been reported. Children account for more than a quarter of confirmed cases and one third of deaths. Seven in 10 children under five with confirmed Ebola have died. While the response has slowed transmission in the initial epicentres, 400 to 500 new cases continue to be reported each week, and the outbreak has expanded to 67 health zones in eight provinces. Contact follow-up remains below target. The high number of deaths occurring in communities, which account for two-thirds of confirmed deaths, show that infections are still being identified too late. Recent imported cases in Kenya and Nigeria underscore the continuing risk of spread beyond national borders. Delays in paying frontline health workers and responders create tension and slow the response. Six months of collective action The United Nations, Africa Centres for Disease Control and Prevention, regional economic bodies and humanitarian partners are fully mobilized behind government leadership. WHO is directing the technical health response, and the wider humanitarian system is helping enable access, logistics, protection, and continuity of essential services. Nearly 100 health and humanitarian partners are present across the affected areas, providing essential health services, including treatment for acute malnutrition. Africa CDC and WHO co-lead the joint continental Incident Management Support Team, which supports the technical health response and coordinates health and development partners across affected and at-risk countries in response, preparedness and readiness. Most of the early epicentres of this outbreak have been successfully brought under control and rapid transmission has been halted, including Mongbwalu, Nyankunde, Nizi, Rwampara and Butembo. Even in Bunia, one of the larger, early epicentres, though there is still significant transmission, the number of new cases has halved, and treatment centres are reporting low occupancy. Diagnostic capacity has grown from two laboratories to more than two dozen, while close to 2000 treatment beds are now available in 104 treatment and transit centres. Around 3000 people have recovered from Ebola, and a quarter of those have enrolled in the survivor programme. Over 17 000 community health workers and 46 000 community actors have been trained and provided with supplies to safely do their jobs. Health teams are implementing targeted strategies to support women and children, including by keeping maternal health services running. Nearly one million hot meals across 59 treatment, isolation and transit facilities have been delivered to more than 180,000 people affected by the outbreak and to support containment efforts. Surveillance, contact tracing, risk communication, community engagement and safe and dignified burials have also expanded. Almost 90% of registered deaths are now managed with a safe and dignified burial, an important step in stopping onward transmission to mourners. Cross-border collaboration has strengthened surveillance, information-sharing and coordination, while scientific research is advancing, including the evaluation of candidate treatments and vaccines. These achievements would not have been possible without the dedication of Congolese health workers, community volunteers and frontline responders who continue to serve affected communities, often under extremely difficult and insecure conditions. These successes remain fragile, however, and must be to be protected and scaled up across the affected and at-risk health zones and provinces. Violence prevents communities from getting help Insecurity remains one of the greatest obstacles to the response. Attacks and threats against response teams disrupt lifesaving operations, while ongoing conflict, displacement and movement restrictions continue to complicate response efforts. A recent armed attack in Cantine-Aloya locality led to 66 civilian deaths, including that of three health workers. Three health facilities were looted. More than 1000 contacts were lost to follow-up, and three confirmed cases remain unaccounted for. A second attack on the town was reported early on 11 November. There have been over 80 attacks on health care since the outbreak was declared. A halt in hostilities is urgently needed to protect communities and health workers, and to safeguard the progress made over the past six months. Sustaining the response The response must put the knowledge, tools and resources needed to stop Ebola into the hands of affected communities. It must take the wider view, listening to communities who have asked for help in addressing challenges beyond Ebola, from violence to hunger to weaknesses in the health system. International support has enabled the response to move from chasing the virus to controlling transmission in many areas. That progress must now be protected. Fast, flexible funding must be sustained through 2027, alongside political commitment, safe access, protection of health care and meaningful community participation. Wider humanitarian needs, including food security, water and sanitation, child protection, mental health and psychosocial support, maternal and newborn health care and support for women and girls, must also be addressed. The next phase must build on six months of progress while moving faster to reach those communities still beyond the effective reach of the response. That is essential to save lives, interrupt transmission and bring the outbreak to an end. END",
+      "link": "https://africacdc.org/news-item/six-months-on-accessing-hard-to-reach-communities-key-to-halting-ebola-outbreak/",
+      "source": "Africa CDC News",
+      "source_type": "official",
+      "source_tier": "Tier 1",
       "source_priority": 8,
-      "published_at": "2026-11-14T10:20:17+00:00",
+      "published_at": "2026-11-15T08:24:03+00:00",
       "topics": [
+        "communication",
+        "policy",
         "research"
       ],
       "policy_tags": [
-        "outbreak_response",
-        "safety"
+        "communication",
+        "financing",
+        "outbreak_response"
       ],
-      "vaccines": [
-        "mpox"
-      ],
+      "vaccines": [],
       "variants": [],
-      "target_country": "コロンビア",
+      "target_country": "ナイジェリア",
       "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "The Lancet / London"
+        "key": "ethiopia",
+        "name_ja": "エチオピア",
+        "lat": 8.9806,
+        "lng": 38.7578,
+        "region": "Africa",
+        "label": "Africa CDC / Addis Ababa"
       },
       "plot": {
         "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "The Lancet / London"
+          "key": "ethiopia",
+          "name_ja": "エチオピア",
+          "lat": 8.9806,
+          "lng": 38.7578,
+          "region": "Africa",
+          "label": "Africa CDC / Addis Ababa"
         },
         "target": {
-          "key": "colombia",
-          "name_ja": "コロンビア",
-          "lat": 4.711,
-          "lng": -74.0721,
-          "region": "South America",
-          "label": "コロンビア"
+          "key": "nigeria",
+          "name_ja": "ナイジェリア",
+          "lat": 9.0765,
+          "lng": 7.3986,
+          "region": "Africa",
+          "label": "ナイジェリア"
         }
       },
       "location": {
-        "key": "colombia",
-        "name_ja": "コロンビア",
-        "lat": 4.711,
-        "lng": -74.0721,
-        "region": "South America",
-        "label": "コロンビア"
+        "key": "nigeria",
+        "name_ja": "ナイジェリア",
+        "lat": 9.0765,
+        "lng": 7.3986,
+        "region": "Africa",
+        "label": "ナイジェリア"
       },
-      "region": "South America",
-      "country": "コロンビア",
-      "lat": 4.711,
-      "lng": -74.0721,
-      "duplicate_count": 2,
+      "region": "Africa",
+      "country": "ナイジェリア",
+      "lat": 9.0765,
+      "lng": 7.3986,
+      "duplicate_count": 1,
       "duplicate_sources": [
-        "EBioMedicine vaccines",
-        "The Lancet series"
+        "Africa CDC News"
       ]
     },
     {
-      "id": "871bcb0845bc198f",
-      "title": "-adjuvanted RSV pre-F protein vaccine in adults with lung or kidney transplant: a phase 2b randomized trial",
-      "summary": "-adjuvanted RSV pre-F protein vaccine in adults with lung or kidney transplant: a phase 2b randomized trial",
-      "summary_ai": "-adjuvanted RSV pre-F protein vaccine in adults with lung or kidney transplant: a phase 2b randomized trial",
-      "title_original": "-adjuvanted RSV pre-F protein vaccine in adults with lung or kidney transplant: a phase 2b randomized trial",
-      "summary_original": "-adjuvanted RSV pre-F protein vaccine in adults with lung or kidney transplant: a phase 2b randomized trial",
-      "summary_ai_original": "-adjuvanted RSV pre-F protein vaccine in adults with lung or kidney transplant: a phase 2b randomized trial",
+      "id": "fe385d9d992be86a",
+      "title": "Needle phobia: confronting a neglected factor in travel vaccine hesitancy - Oxford Academic",
+      "summary": "Needle phobia: confronting a neglected factor in travel vaccine hesitancy Oxford Academic",
+      "summary_ai": "Needle phobia: confronting a neglected factor in travel vaccine hesitancy Oxford Academic",
+      "title_original": "Needle phobia: confronting a neglected factor in travel vaccine hesitancy - Oxford Academic",
+      "summary_original": "Needle phobia: confronting a neglected factor in travel vaccine hesitancy Oxford Academic",
+      "summary_ai_original": "Needle phobia: confronting a neglected factor in travel vaccine hesitancy Oxford Academic",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pWkxNNktUbm55ZXR3d2dmSUZURmFSd1M1NnVnZ1JZNndpa2h6MjgzV1dRN015NnZxdjF3OExVdFFPeC1CQ3EzMzRwQUo3V3NYU0ZwQUxtXzhSR3VSMFc0?oc=5",
-      "source": "Nature News Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 5,
-      "published_at": "2026-11-13T17:34:58+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMWVRdWllcU4wQkFOZENuUGJMSS1mcXM3bWhHTlV2dzVfSVRrT0JudkhuNVlmYk9aS3E0OTExS0R6UTRIMUJsNDBnZnpsVDVLczN1QVVtd01QVmIxVE5WakJKSWstbTIwOFh2REQzQnF3dVhhZE5HZUNsWHRjU2RBRUtn?oc=5",
+      "source": "Journal of Travel Medicine vaccines",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 6,
+      "published_at": "2026-11-14T08:00:00+00:00",
       "topics": [
-        "research"
+        "communication"
       ],
-      "policy_tags": [],
+      "policy_tags": [
+        "communication"
+      ],
       "vaccines": [],
       "variants": [],
       "target_country": "不明",
@@ -574,7 +576,7 @@
         "lat": 51.5074,
         "lng": -0.1278,
         "region": "Europe",
-        "label": "Nature News"
+        "label": "Journal of Travel Medicine"
       },
       "plot": {
         "source": {
@@ -583,7 +585,7 @@
           "lat": 51.5074,
           "lng": -0.1278,
           "region": "Europe",
-          "label": "Nature News"
+          "label": "Journal of Travel Medicine"
         },
         "target": {
           "key": "unknown",
@@ -608,7 +610,7 @@
       "lng": 0.0,
       "duplicate_count": 1,
       "duplicate_sources": [
-        "Nature News Vaccines / Immunization"
+        "Journal of Travel Medicine vaccines"
       ]
     },
     {
@@ -951,20 +953,88 @@
       ]
     },
     {
-      "id": "db693f801dc7ed35",
-      "title": "Assessing the feasibility of Phase 3 vaccine trials against Marburg Virus Disease: A modelling study",
-      "summary": "Assessing the feasibility of Phase 3 vaccine trials against Marburg Virus Disease: A modelling study",
-      "summary_ai": "Assessing the feasibility of Phase 3 vaccine trials against Marburg Virus Disease: A modelling study",
-      "title_original": "Assessing the feasibility of Phase 3 vaccine trials against Marburg Virus Disease: A modelling study",
-      "summary_original": "Assessing the feasibility of Phase 3 vaccine trials against Marburg Virus Disease: A modelling study",
-      "summary_ai_original": "Assessing the feasibility of Phase 3 vaccine trials against Marburg Virus Disease: A modelling study",
+      "id": "aeaf33c7f03240d5",
+      "title": "Estimation of mRNA-1283 vs BNT162b2 COVID-19 Vaccine Effectiveness in Older US Veterans",
+      "summary": "Estimation of mRNA-1283 vs BNT162b2 COVID-19 Vaccine Effectiveness in Older US Veterans",
+      "summary_ai": "Estimation of mRNA-1283 vs BNT162b2 COVID-19 Vaccine Effectiveness in Older US Veterans",
+      "title_original": "Estimation of mRNA-1283 vs BNT162b2 COVID-19 Vaccine Effectiveness in Older US Veterans",
+      "summary_original": "Estimation of mRNA-1283 vs BNT162b2 COVID-19 Vaccine Effectiveness in Older US Veterans",
+      "summary_ai_original": "Estimation of mRNA-1283 vs BNT162b2 COVID-19 Vaccine Effectiveness in Older US Veterans",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTjRoRkQ0RjZmbjBqOTRaZkxmTy1HS09XOWFzcmdJN25lcDduNHdadF85Yl9uN3NuN01CT3ZOejVMZXVqOFlZZTBOc1lMa2Vhb3lyb2hnX1RtQkQxOElycDh0UW84RHZOLU9GUVVEZnNlazhmWmIxbU1DNkUwX3daYUxtcE1nZFQ4Y25FX2pNWEZJSUtmMi1ObzQ4YnZNM0pTQTR5emJVM1Jra3hLWEpNdmVuMmpfS0doc041encwS3lSTTMtLVFQSw?oc=5",
-      "source": "Cochrane vaccines",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBFMlBJc3hORjlSaUZCaXV2d2RwSWFXTlNqR0xhSFhEcDh6QlRzdlVTZktJUW5LaWxYYXllZ0dJUVhIay1zVC1FN0t2TEdEcnlHZjRmQXNQZHYwLTNEWGl2aWhSMUIzbFRuU2pia1NSWDlKN2VSYnVZ?oc=5",
+      "source": "JAMA Network Open vaccines",
       "source_type": "academic",
       "source_tier": "Tier 3",
-      "source_priority": 7,
-      "published_at": "2026-11-08T10:38:43+00:00",
+      "source_priority": 9,
+      "published_at": "2026-11-11T17:37:21+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "covid"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "JAMA Network Open"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "JAMA Network Open"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 2,
+      "duplicate_sources": [
+        "JAMA Network Open vaccines",
+        "JAMA Network vaccines"
+      ]
+    },
+    {
+      "id": "8c5229e7ab455e7a",
+      "title": "Mutant KRAS vaccination for pancreatic cancer interception: the G12D immunogenicity paradox",
+      "summary": "Mutant KRAS vaccination for pancreatic cancer interception: the G12D immunogenicity paradox",
+      "summary_ai": "Mutant KRAS vaccination for pancreatic cancer interception: the G12D immunogenicity paradox",
+      "title_original": "Mutant KRAS vaccination for pancreatic cancer interception: the G12D immunogenicity paradox",
+      "summary_original": "Mutant KRAS vaccination for pancreatic cancer interception: the G12D immunogenicity paradox",
+      "summary_ai_original": "Mutant KRAS vaccination for pancreatic cancer interception: the G12D immunogenicity paradox",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ZTmozN09adzhiblM5bmRtcDgwb3Uwd0t2WldINUR2Z2d5eXY1QWtpUjRhNDltZlJRSkx4dWxQODZlMkwxaXc2OUNqSkt0XzMtWTRycXVkVUtwaGxLdnp3?oc=5",
+      "source": "Nature News Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 5,
+      "published_at": "2026-11-09T04:07:47+00:00",
       "topics": [
         "research"
       ],
@@ -978,7 +1048,7 @@
         "lat": 51.5074,
         "lng": -0.1278,
         "region": "Europe",
-        "label": "Cochrane Library"
+        "label": "Nature News"
       },
       "plot": {
         "source": {
@@ -987,7 +1057,7 @@
           "lat": 51.5074,
           "lng": -0.1278,
           "region": "Europe",
-          "label": "Cochrane Library"
+          "label": "Nature News"
         },
         "target": {
           "key": "unknown",
@@ -1012,7 +1082,7 @@
       "lng": 0.0,
       "duplicate_count": 1,
       "duplicate_sources": [
-        "Cochrane vaccines"
+        "Nature News Vaccines / Immunization"
       ]
     },
     {
@@ -1149,71 +1219,6 @@
       ]
     },
     {
-      "id": "a5bac08d528a6904",
-      "title": "As Ebola cases near 10,700, WHO recommends adding 2 Bundibugyo vaccines to clinical trial - CIDRAP",
-      "summary": "As Ebola cases near 10,700, WHO recommends adding 2 Bundibugyo vaccines to clinical trial CIDRAP",
-      "summary_ai": "As Ebola cases near 10,700, WHO recommends adding 2 Bundibugyo vaccines to clinical trial CIDRAP",
-      "title_original": "As Ebola cases near 10,700, WHO recommends adding 2 Bundibugyo vaccines to clinical trial - CIDRAP",
-      "summary_original": "As Ebola cases near 10,700, WHO recommends adding 2 Bundibugyo vaccines to clinical trial CIDRAP",
-      "summary_ai_original": "As Ebola cases near 10,700, WHO recommends adding 2 Bundibugyo vaccines to clinical trial CIDRAP",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWGhiOXFrOU9KTVBjeEdwT1hLZjItR3dKNFNVeER2Q1Qyc1ZLTmNmelNfcTVGWHFnR0plcS1ib0M4VHFwb3RwUGxTNmh3VzhoUjJNY256MU1NcDFnbHBoaFpDZWFXV05DRjdzRWNsUUUzakx2c0NmN0JDNUxuaWd5VVdlTjQ4eDVRaV9YUDlrUUtuM3pKS1JkSGtneGZuTmJCOVJhSUZPV2dKMkdpRk0xUVRXUnk?oc=5",
-      "source": "CIDRAP Vaccines & Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 8,
-      "published_at": "2026-11-05T20:11:20+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "CIDRAP / Minnesota"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "CIDRAP / Minnesota"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "CIDRAP Vaccines & Immunization"
-      ]
-    },
-    {
       "id": "f370a3a50d44beb1",
       "title": "PAHO calls for health to take a central place on Ibero-America’s political agenda",
       "summary": "PAHO calls for health to take a central place on Ibero-America’s political agenda Cristina Mitchell 5 Nov 2026",
@@ -1278,6 +1283,71 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "PAHO News"
+      ]
+    },
+    {
+      "id": "a5bac08d528a6904",
+      "title": "As Ebola cases near 10,700, WHO recommends adding 2 Bundibugyo vaccines to clinical trial - CIDRAP",
+      "summary": "As Ebola cases near 10,700, WHO recommends adding 2 Bundibugyo vaccines to clinical trial CIDRAP",
+      "summary_ai": "As Ebola cases near 10,700, WHO recommends adding 2 Bundibugyo vaccines to clinical trial CIDRAP",
+      "title_original": "As Ebola cases near 10,700, WHO recommends adding 2 Bundibugyo vaccines to clinical trial - CIDRAP",
+      "summary_original": "As Ebola cases near 10,700, WHO recommends adding 2 Bundibugyo vaccines to clinical trial CIDRAP",
+      "summary_ai_original": "As Ebola cases near 10,700, WHO recommends adding 2 Bundibugyo vaccines to clinical trial CIDRAP",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWGhiOXFrOU9KTVBjeEdwT1hLZjItR3dKNFNVeER2Q1Qyc1ZLTmNmelNfcTVGWHFnR0plcS1ib0M4VHFwb3RwUGxTNmh3VzhoUjJNY256MU1NcDFnbHBoaFpDZWFXV05DRjdzRWNsUUUzakx2c0NmN0JDNUxuaWd5VVdlTjQ4eDVRaV9YUDlrUUtuM3pKS1JkSGtneGZuTmJCOVJhSUZPV2dKMkdpRk0xUVRXUnk?oc=5",
+      "source": "CIDRAP Vaccines & Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 8,
+      "published_at": "2026-11-05T08:00:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "CIDRAP / Minnesota"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "CIDRAP / Minnesota"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "CIDRAP Vaccines & Immunization"
       ]
     },
     {
@@ -1408,138 +1478,6 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "Open Forum Infectious Diseases"
-      ]
-    },
-    {
-      "id": "c4fa7c3127dd5d6d",
-      "title": "Test negative case–control study of COVID-19 vaccine effectiveness for symptomatic SARS-CoV-2 infection among healthcare worke - BMJ Open",
-      "summary": "Test negative case–control study of COVID-19 vaccine effectiveness for symptomatic SARS-CoV-2 infection among healthcare worke BMJ Open",
-      "summary_ai": "Test negative case–control study of COVID-19 vaccine effectiveness for symptomatic SARS-CoV-2 infection among healthcare worke BMJ Open",
-      "title_original": "Test negative case–control study of COVID-19 vaccine effectiveness for symptomatic SARS-CoV-2 infection among healthcare worke - BMJ Open",
-      "summary_original": "Test negative case–control study of COVID-19 vaccine effectiveness for symptomatic SARS-CoV-2 infection among healthcare worke BMJ Open",
-      "summary_ai_original": "Test negative case–control study of COVID-19 vaccine effectiveness for symptomatic SARS-CoV-2 infection among healthcare worke BMJ Open",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpa3IwX2tSMXVxT0lZRmRQNEpSRHVlVjNnU1NINV9WaWRnSGplbnlZVFVrRF9CbWk0RUZRS01nUS1LdnpIQzdQRmxrNkp6MEtGY3RWR2hvRTB4VzFGNWNoV3BpNnVzY0RkRTBXcHh0b1Q?oc=5",
-      "source": "BMJ",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-11-02T09:58:10+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "covid"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BMJ / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BMJ / London"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "BMJ"
-      ]
-    },
-    {
-      "id": "1172b40b30e7f6f2",
-      "title": "Influenza B Circulation and Vaccine Effectiveness Against Medically Attended Outpatient Influenza B Illness, United States, 2016–17 Through 2024–25 - Oxford Academic",
-      "summary": "Influenza B Circulation and Vaccine Effectiveness Against Medically Attended Outpatient Influenza B Illness, United States, 2016–17 Through 2024–25 Oxford Academic",
-      "summary_ai": "Influenza B Circulation and Vaccine Effectiveness Against Medically Attended Outpatient Influenza B Illness, United States, 2016–17 Through 2024–25 Oxford Academic",
-      "title_original": "Influenza B Circulation and Vaccine Effectiveness Against Medically Attended Outpatient Influenza B Illness, United States, 2016–17 Through 2024–25 - Oxford Academic",
-      "summary_original": "Influenza B Circulation and Vaccine Effectiveness Against Medically Attended Outpatient Influenza B Illness, United States, 2016–17 Through 2024–25 Oxford Academic",
-      "summary_ai_original": "Influenza B Circulation and Vaccine Effectiveness Against Medically Attended Outpatient Influenza B Illness, United States, 2016–17 Through 2024–25 Oxford Academic",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPM0dnUmVvYlpiVVBGQ0ZKWlFOdndnTUZhWEJLdEQ5dHFyQjY0d0VPblkxc1BtbW4tMVpSMUtFVG84X1RSazg4OXdqLWluNzZmMUF0R0N1ZFloMEtnU3dJSkdzdFI3b2xvZ2VDWmlWSE5RbEd0NnVqOUhPLWdYd1c1X3BRMWJsZw?oc=5",
-      "source": "Journal of Infectious Diseases",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-11-01T07:41:47+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "米国",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "Journal of Infectious Diseases"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "Journal of Infectious Diseases"
-        },
-        "target": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "米国"
-        }
-      },
-      "location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "米国"
-      },
-      "region": "North America",
-      "country": "米国",
-      "lat": 38.9072,
-      "lng": -77.0369,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Journal of Infectious Diseases"
       ]
     }
   ]
