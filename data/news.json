@@ -1,8 +1,8 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-11-18T02:51:01.499217+00:00",
-  "item_count": 13,
+  "generated_at": "2026-11-19T02:29:14.461812+00:00",
+  "item_count": 14,
   "archive_count": 644,
   "days_back": 14,
   "plot_mode_default": "source",
@@ -23,7 +23,7 @@
       "name": "CDC Newsroom",
       "url": "https://tools.cdc.gov/api/v2/resources/media/316422.rss",
       "status": "ok",
-      "seen": 6,
+      "seen": 8,
       "kept": 0
     },
     {
@@ -83,14 +83,14 @@
       "url": "https://www.paho.org/en/rss.xml",
       "status": "ok",
       "seen": 10,
-      "kept": 4
+      "kept": 3
     },
     {
       "name": "The Lancet series",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Athelancet.com%20(trial%20OR%20policy%20OR%20effectiveness%20OR%20safety)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 4,
-      "kept": 1
+      "seen": 1,
+      "kept": 0
     },
     {
       "name": "Lancet Infectious Diseases",
@@ -103,7 +103,7 @@
       "name": "NEJM",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Anejm.org%20(trial%20OR%20effectiveness%20OR%20policy%20OR%20safety)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 5,
       "kept": 0
     },
     {
@@ -138,7 +138,7 @@
       "name": "Nature Communications vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fncomms%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20surveillance)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 4,
+      "seen": 2,
       "kept": 0
     },
     {
@@ -166,7 +166,7 @@
       "name": "Science vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ascience.org%2Fdoi%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20antibody)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 5,
+      "seen": 6,
       "kept": 0
     },
     {
@@ -194,21 +194,21 @@
       "name": "JAMA vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjama%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 10,
+      "seen": 11,
       "kept": 1
     },
     {
       "name": "JAMA Network Open vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjamanetworkopen%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
-      "kept": 0
+      "seen": 2,
+      "kept": 1
     },
     {
       "name": "JAMA Internal Medicine vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjamainternalmedicine%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -229,91 +229,91 @@
       "name": "medRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Amedrxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
-      "kept": 0
+      "seen": 5,
+      "kept": 1
     },
     {
       "name": "bioRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abiorxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 4,
+      "seen": 1,
       "kept": 0
     },
     {
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 34,
+      "seen": 36,
       "kept": 2
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 48,
+      "seen": 27,
       "kept": 1
     },
     {
       "name": "AP Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 14,
+      "seen": 16,
       "kept": 0
     },
     {
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 64,
+      "seen": 29,
       "kept": 1
     },
     {
       "name": "Financial Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aft.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 17,
+      "seen": 14,
       "kept": 0
     },
     {
       "name": "STAT Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 21,
+      "seen": 28,
       "kept": 0
     },
     {
       "name": "Nature News Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 16,
-      "kept": 0
+      "seen": 14,
+      "kept": 1
     },
     {
       "name": "Science Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Ascience.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 11,
+      "seen": 13,
       "kept": 0
     },
     {
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 25,
+      "seen": 29,
       "kept": 0
     },
     {
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 83,
+      "seen": 74,
       "kept": 0
     },
     {
       "name": "Washington Post Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 25,
+      "seen": 28,
       "kept": 1
     },
     {
@@ -341,7 +341,7 @@
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 68,
+      "seen": 98,
       "kept": 0
     },
     {
@@ -355,8 +355,8 @@
       "name": "JAMA Network vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 11,
-      "kept": 1
+      "seen": 15,
+      "kept": 2
     },
     {
       "name": "JAMA Pediatrics vaccines",
@@ -383,14 +383,14 @@
       "name": "Open Forum Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fofid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 3,
       "kept": 0
     },
     {
       "name": "Emerging Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Awwwnc.cdc.gov%2Feid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 6,
       "kept": 0
     },
     {
@@ -404,7 +404,7 @@
       "name": "PLOS journals vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajournals.plos.org%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20uptake%20OR%20policy)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 4,
+      "seen": 2,
       "kept": 0
     },
     {
@@ -418,7 +418,7 @@
       "name": "EBioMedicine vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Athelancet.com%2Fjournals%2Febiom&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -465,14 +465,14 @@
     }
   ],
   "weekly_ai_summary": {
-    "generated_at": "2026-11-18T02:51:01.499217+00:00",
+    "generated_at": "2026-11-19T02:29:14.461812+00:00",
     "period_days": 7,
-    "policy_count": 5,
-    "academic_count": 1,
+    "policy_count": 4,
+    "academic_count": 2,
     "status": "ok",
     "model": "gpt-4o-mini",
-    "policy_summary": "PAHOは、アメリカ大陸における麻疹の流行を抑制し、根絶に向けた努力を強化するよう各国に呼びかけている。アフリカCDCとWHOは、エボラウイルスの流行を抑えるために、アクセスが困難な地域への対応が重要であると強調している。",
-    "academic_summary": "JAMAに掲載された研究は、米国の免疫政策における科学的整合性の回復を提唱している。具体的なデータや結果は示されていない。"
+    "policy_summary": "PAHOは、アメリカ大陸での麻疹の流行を抑制し、根絶に向けた努力を強化するよう各国に呼びかけています。また、エボラ出血熱の流行を止めるためには、アクセスが困難な地域への対応が重要であるとされています。",
+    "academic_summary": "米国の予防接種政策における科学的整合性の回復に関する研究が発表されました。さらに、ガーナのセコンディ・タコラディにおけるmpoxワクチンの受容に関するコミュニティベースの調査結果も報告されています。"
   },
   "items": [
     {
@@ -489,7 +489,7 @@
       "source_type": "media",
       "source_tier": "Tier 2",
       "source_priority": 7,
-      "published_at": "2026-11-18T02:27:09+00:00",
+      "published_at": "2026-11-18T06:38:13+00:00",
       "topics": [
         "research"
       ],
@@ -1026,6 +1026,75 @@
       ]
     },
     {
+      "id": "15d66ee8497d0f9f",
+      "title": "Determinants of mpox vaccine acceptance among peri-urban residents in Sekondi-Takoradi, Western Region of Ghana: A community-based cross-sectional study - medRxiv",
+      "summary": "Determinants of mpox vaccine acceptance among peri-urban residents in Sekondi-Takoradi, Western Region of Ghana: A community-based cross-sectional study medRxiv",
+      "summary_ai": "Determinants of mpox vaccine acceptance among peri-urban residents in Sekondi-Takoradi, Western Region of Ghana: A community-based cross-sectional study medRxiv",
+      "title_original": "Determinants of mpox vaccine acceptance among peri-urban residents in Sekondi-Takoradi, Western Region of Ghana: A community-based cross-sectional study - medRxiv",
+      "summary_original": "Determinants of mpox vaccine acceptance among peri-urban residents in Sekondi-Takoradi, Western Region of Ghana: A community-based cross-sectional study medRxiv",
+      "summary_ai_original": "Determinants of mpox vaccine acceptance among peri-urban residents in Sekondi-Takoradi, Western Region of Ghana: A community-based cross-sectional study medRxiv",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zRDhmSEd0MG5QLVU0X0FWZm5kT3ZfaWxoWkFWQ1RVRzRhWV8zYVlOWkFHSUc4Q3NWTmI1NDNIUXU0UmRfSFVTanh6eVpuTkVnbEF6bWVWZDFYTm9hY2huUVlQRzgwSEwzRnFsOEc4RQ?oc=5",
+      "source": "medRxiv vaccines",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-11-12T17:22:34+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [
+        "outbreak_response"
+      ],
+      "vaccines": [
+        "mpox"
+      ],
+      "variants": [],
+      "target_country": "ガーナ",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "medRxiv"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "medRxiv"
+        },
+        "target": {
+          "key": "ghana",
+          "name_ja": "ガーナ",
+          "lat": 5.6037,
+          "lng": -0.187,
+          "region": "Africa",
+          "label": "ガーナ"
+        }
+      },
+      "location": {
+        "key": "ghana",
+        "name_ja": "ガーナ",
+        "lat": 5.6037,
+        "lng": -0.187,
+        "region": "Africa",
+        "label": "ガーナ"
+      },
+      "region": "Africa",
+      "country": "ガーナ",
+      "lat": 5.6037,
+      "lng": -0.187,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "medRxiv vaccines"
+      ]
+    },
+    {
       "id": "3ebf3f03025e3196",
       "title": "PAHO secures first-ever region-wide access agreements for HPV testing across Latin America and the Caribbean, with support from Unitaid",
       "summary": "PAHO secures first-ever region-wide access agreements for HPV testing across Latin America and the Caribbean, with support from Unitaid Oscar Reyes 11 Nov 2026",
@@ -1093,20 +1162,88 @@
       ]
     },
     {
-      "id": "ed20223349a6598a",
-      "title": "Bundibugyo vaccine trial begins",
-      "summary": "Bundibugyo vaccine trial begins",
-      "summary_ai": "Bundibugyo vaccine trial begins",
-      "title_original": "Bundibugyo vaccine trial begins",
-      "summary_original": "Bundibugyo vaccine trial begins",
-      "summary_ai_original": "Bundibugyo vaccine trial begins",
+      "id": "aeaf33c7f03240d5",
+      "title": "Estimation of mRNA-1283 vs BNT162b2 COVID-19 Vaccine Effectiveness in Older US Veterans",
+      "summary": "Estimation of mRNA-1283 vs BNT162b2 COVID-19 Vaccine Effectiveness in Older US Veterans",
+      "summary_ai": "Estimation of mRNA-1283 vs BNT162b2 COVID-19 Vaccine Effectiveness in Older US Veterans",
+      "title_original": "Estimation of mRNA-1283 vs BNT162b2 COVID-19 Vaccine Effectiveness in Older US Veterans",
+      "summary_original": "Estimation of mRNA-1283 vs BNT162b2 COVID-19 Vaccine Effectiveness in Older US Veterans",
+      "summary_ai_original": "Estimation of mRNA-1283 vs BNT162b2 COVID-19 Vaccine Effectiveness in Older US Veterans",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVlBjNlJuT3kwLTl6b2VvVXhWZlFldjlET0xTMURocjA5c1VWQnk1bm1Dc1JYQlJZLU9SODNaUDBxX1FNOWVGakNPVHdDczJmNTdoV1hwMmZDOU5EWFUyTEI1eXlUcWh2VTlBanRTSV9Bek1DSUZNVjlMUkdmQUx1WXVGVm5KWkV4Um9R?oc=5",
-      "source": "The Lancet series",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBFMlBJc3hORjlSaUZCaXV2d2RwSWFXTlNqR0xhSFhEcDh6QlRzdlVTZktJUW5LaWxYYXllZ0dJUVhIay1zVC1FN0t2TEdEcnlHZjRmQXNQZHYwLTNEWGl2aWhSMUIzbFRuU2pia1NSWDlKN2VSYnVZ?oc=5",
+      "source": "JAMA Network Open vaccines",
       "source_type": "academic",
       "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-11-07T08:00:00+00:00",
+      "source_priority": 9,
+      "published_at": "2026-11-11T17:37:21+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "covid"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "JAMA Network Open"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "JAMA Network Open"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 2,
+      "duplicate_sources": [
+        "JAMA Network Open vaccines",
+        "JAMA Network vaccines"
+      ]
+    },
+    {
+      "id": "8c5229e7ab455e7a",
+      "title": "Mutant KRAS vaccination for pancreatic cancer interception: the G12D immunogenicity paradox",
+      "summary": "Mutant KRAS vaccination for pancreatic cancer interception: the G12D immunogenicity paradox",
+      "summary_ai": "Mutant KRAS vaccination for pancreatic cancer interception: the G12D immunogenicity paradox",
+      "title_original": "Mutant KRAS vaccination for pancreatic cancer interception: the G12D immunogenicity paradox",
+      "summary_original": "Mutant KRAS vaccination for pancreatic cancer interception: the G12D immunogenicity paradox",
+      "summary_ai_original": "Mutant KRAS vaccination for pancreatic cancer interception: the G12D immunogenicity paradox",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ZTmozN09adzhiblM5bmRtcDgwb3Uwd0t2WldINUR2Z2d5eXY1QWtpUjRhNDltZlJRSkx4dWxQODZlMkwxaXc2OUNqSkt0XzMtWTRycXVkVUtwaGxLdnp3?oc=5",
+      "source": "Nature News Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 5,
+      "published_at": "2026-11-09T08:00:00+00:00",
       "topics": [
         "research"
       ],
@@ -1120,7 +1257,7 @@
         "lat": 51.5074,
         "lng": -0.1278,
         "region": "Europe",
-        "label": "The Lancet / London"
+        "label": "Nature News"
       },
       "plot": {
         "source": {
@@ -1129,7 +1266,7 @@
           "lat": 51.5074,
           "lng": -0.1278,
           "region": "Europe",
-          "label": "The Lancet / London"
+          "label": "Nature News"
         },
         "target": {
           "key": "unknown",
@@ -1154,7 +1291,7 @@
       "lng": 0.0,
       "duplicate_count": 1,
       "duplicate_sources": [
-        "The Lancet series"
+        "Nature News Vaccines / Immunization"
       ]
     },
     {
@@ -1220,73 +1357,6 @@
       "country": "アルゼンチン",
       "lat": -34.6037,
       "lng": -58.3816,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "PAHO News"
-      ]
-    },
-    {
-      "id": "f370a3a50d44beb1",
-      "title": "PAHO calls for health to take a central place on Ibero-America’s political agenda",
-      "summary": "PAHO calls for health to take a central place on Ibero-America’s political agenda Cristina Mitchell 5 Nov 2026",
-      "summary_ai": "Speaking to foreign ministers and representatives of the 22 countries that make up the Ibero-American Community, the PAHO Director also stressed the need to follow through on the commitments made at the XVII Ibero-American Conference of Ministers of Health, held in May 2026. New partnerships to strengthen health cooper",
-      "title_original": "PAHO calls for health to take a central place on Ibero-America’s political agenda",
-      "summary_original": "PAHO calls for health to take a central place on Ibero-America’s political agenda Cristina Mitchell 5 Nov 2026",
-      "summary_ai_original": "Speaking to foreign ministers and representatives of the 22 countries that make up the Ibero-American Community, the PAHO Director also stressed the need to follow through on the commitments made at the XVII Ibero-American Conference of Ministers of Health, held in May 2026. New partnerships to strengthen health cooper",
-      "article_text_original": "Madrid, November 5, 2026 (PAHO) – The Director of the Pan American Health Organization (PAHO), Dr. Jarbas Barbosa, called for health to be placed among the political and diplomatic priorities of Ibero-America during a series of high-level meetings held in Madrid on the sidelines of the XXX Ibero-American Summit of Heads of State and Government. During the High-Level Political Dialogue with Ibero-American Foreign Ministers, held on November 3, Dr. Barbosa called for stronger investment and partnerships in health, highlighting their contribution to stability, economic development, and the well-being of populations. “Health is no longer an issue exclusively for ministries of health. It is now a priority for foreign policy, security, and development,” he said. Speaking to foreign ministers and representatives of the 22 countries that make up the Ibero-American Community, the PAHO Director also stressed the need to follow through on the commitments made at the XVII Ibero-American Conference of Ministers of Health, held in May 2026. These include emergency preparedness, equitable access to health technologies, mental health, and strengthening the health workforce. He also highlighted PAHO’s cooperation with the Ibero-American General Secretariat (SEGIB) and Ibero-American health networks to advance joint initiatives on disease elimination, access to medicines, and capacity-building. New partnerships to strengthen health cooperation As part of its agenda in Madrid, PAHO and the Mundo Sano Foundation co-hosted the high-level dialogue “Global Health on the Ibero-American Agenda: Cooperation, Coordination, and Success Stories” at Casa de América. The event brought together representatives of governments, international organizations, the private sector, and civil society to explore opportunities to expand Ibero-American cooperation initiatives, including the “No Baby with Chagas” program and the Ibero-American Disability Program. The PAHO Director also signed a cooperation agreement with Grupo Social ONCE to improve access to health services and remove barriers faced by people with disabilities in Latin America and the Caribbean, in line with the Convention on the Rights of Persons with Disabilities. PAHO and the Spanish Agency for International Development Cooperation (AECID) also signed a declaration of intent to work toward a new cooperation agreement aimed at strengthening health systems. The proposed collaboration includes initiatives in maternal and child health, the elimination of communicable diseases, immunization, epidemiological surveillance, and health emergency preparedness and response. Through these meetings and agreements, PAHO aims to strengthen cooperation with countries, SEGIB, and international partners, and help translate political commitments into tangible health improvements for people across the Americas.",
-      "link": "https://www.paho.org/en/news/5-11-2026-paho-calls-health-take-central-place-ibero-americas-political-agenda",
-      "source": "PAHO News",
-      "source_type": "official",
-      "source_tier": "Tier 1",
-      "source_priority": 8,
-      "published_at": "2026-11-05T17:02:14+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [
-        "outbreak_response"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "PAHO / Washington DC"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "PAHO / Washington DC"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
       "duplicate_count": 1,
       "duplicate_sources": [
         "PAHO News"
