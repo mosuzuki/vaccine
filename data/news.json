@@ -1,9 +1,9 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-11-19T02:29:14.461812+00:00",
-  "item_count": 14,
-  "archive_count": 644,
+  "generated_at": "2026-11-20T02:14:00.167149+00:00",
+  "item_count": 21,
+  "archive_count": 650,
   "days_back": 14,
   "plot_mode_default": "source",
   "feed_status": [
@@ -23,7 +23,7 @@
       "name": "CDC Newsroom",
       "url": "https://tools.cdc.gov/api/v2/resources/media/316422.rss",
       "status": "ok",
-      "seen": 8,
+      "seen": 9,
       "kept": 0
     },
     {
@@ -75,7 +75,7 @@
       "name": "Africa CDC News",
       "url": "https://africacdc.org/feed/",
       "status": "ok",
-      "seen": 10,
+      "seen": 9,
       "kept": 2
     },
     {
@@ -89,7 +89,7 @@
       "name": "The Lancet series",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Athelancet.com%20(trial%20OR%20policy%20OR%20effectiveness%20OR%20safety)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 2,
       "kept": 0
     },
     {
@@ -103,14 +103,14 @@
       "name": "NEJM",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Anejm.org%20(trial%20OR%20effectiveness%20OR%20policy%20OR%20safety)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 5,
+      "seen": 3,
       "kept": 0
     },
     {
       "name": "BMJ",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abmj.com%20(policy%20OR%20trial%20OR%20effectiveness%20OR%20communication)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 5,
+      "seen": 7,
       "kept": 0
     },
     {
@@ -131,21 +131,21 @@
       "name": "Nature Medicine vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fnm%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20uptake%20OR%20policy)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 3,
       "kept": 0
     },
     {
       "name": "Nature Communications vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fncomms%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20surveillance)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 3,
       "kept": 0
     },
     {
       "name": "Nature Microbiology vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fnmicrobiol%20(effectiveness%20OR%20safety%20OR%20immunogenicity%20OR%20variant%20OR%20pathogen)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
@@ -194,15 +194,15 @@
       "name": "JAMA vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjama%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 11,
+      "seen": 15,
       "kept": 1
     },
     {
       "name": "JAMA Network Open vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjamanetworkopen%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
-      "kept": 1
+      "seen": 4,
+      "kept": 2
     },
     {
       "name": "JAMA Internal Medicine vaccines",
@@ -229,91 +229,91 @@
       "name": "medRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Amedrxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 5,
-      "kept": 1
+      "seen": 20,
+      "kept": 4
     },
     {
       "name": "bioRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abiorxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 8,
       "kept": 0
     },
     {
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 36,
-      "kept": 2
+      "seen": 35,
+      "kept": 4
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 27,
+      "seen": 23,
       "kept": 1
     },
     {
       "name": "AP Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 16,
+      "seen": 15,
       "kept": 0
     },
     {
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 29,
-      "kept": 1
+      "seen": 53,
+      "kept": 0
     },
     {
       "name": "Financial Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aft.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 14,
+      "seen": 19,
       "kept": 0
     },
     {
       "name": "STAT Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 28,
-      "kept": 0
+      "seen": 30,
+      "kept": 1
     },
     {
       "name": "Nature News Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 14,
+      "seen": 17,
       "kept": 1
     },
     {
       "name": "Science Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Ascience.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 13,
+      "seen": 15,
       "kept": 0
     },
     {
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 29,
+      "seen": 26,
       "kept": 0
     },
     {
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 74,
+      "seen": 100,
       "kept": 0
     },
     {
       "name": "Washington Post Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 28,
+      "seen": 29,
       "kept": 1
     },
     {
@@ -327,7 +327,7 @@
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 27,
+      "seen": 9,
       "kept": 0
     },
     {
@@ -341,7 +341,7 @@
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 98,
+      "seen": 53,
       "kept": 0
     },
     {
@@ -355,14 +355,14 @@
       "name": "JAMA Network vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 15,
+      "seen": 19,
       "kept": 2
     },
     {
       "name": "JAMA Pediatrics vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjamapediatrics&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 0,
       "kept": 0
     },
     {
@@ -383,14 +383,14 @@
       "name": "Open Forum Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fofid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 3,
-      "kept": 0
+      "seen": 2,
+      "kept": 1
     },
     {
       "name": "Emerging Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Awwwnc.cdc.gov%2Feid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 6,
+      "seen": 0,
       "kept": 0
     },
     {
@@ -453,7 +453,7 @@
       "name": "Journal of Travel Medicine vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fjtm&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 0,
       "kept": 0
     },
     {
@@ -465,16 +465,282 @@
     }
   ],
   "weekly_ai_summary": {
-    "generated_at": "2026-11-19T02:29:14.461812+00:00",
+    "generated_at": "2026-11-20T02:14:00.167149+00:00",
     "period_days": 7,
-    "policy_count": 4,
-    "academic_count": 2,
+    "policy_count": 5,
+    "academic_count": 3,
     "status": "ok",
     "model": "gpt-4o-mini",
-    "policy_summary": "PAHOは、アメリカ大陸での麻疹の流行を抑制し、根絶に向けた努力を強化するよう各国に呼びかけています。また、エボラ出血熱の流行を止めるためには、アクセスが困難な地域への対応が重要であるとされています。",
-    "academic_summary": "米国の予防接種政策における科学的整合性の回復に関する研究が発表されました。さらに、ガーナのセコンディ・タコラディにおけるmpoxワクチンの受容に関するコミュニティベースの調査結果も報告されています。"
+    "policy_summary": "米国では、ティーンエイジャーに対するHPVワクチンの推奨が地域によって大きく異なることが示唆されています。また、PAHOはアメリカ大陸における麻疹の流行を防ぎ、根絶に向けた努力を強化するよう各国に呼びかけています。",
+    "academic_summary": "高所得国におけるHPVワクチン接種の間接的な影響を評価するベイズモデリング研究が発表されました。さらに、アフリカにおける黄熱病の最近の流行に対するワクチン接種のカバレッジとタイミングの影響を分析したモデリング研究も行われています。"
   },
   "items": [
+    {
+      "id": "673438e23c83fc53",
+      "title": "Study raises doubts about combining vaccine, monoclonal antibody to protect against malaria - STAT",
+      "summary": "Study raises doubts about combining vaccine, monoclonal antibody to protect against malaria STAT",
+      "summary_ai": "Study raises doubts about combining vaccine, monoclonal antibody to protect against malaria STAT",
+      "title_original": "Study raises doubts about combining vaccine, monoclonal antibody to protect against malaria - STAT",
+      "summary_original": "Study raises doubts about combining vaccine, monoclonal antibody to protect against malaria STAT",
+      "summary_ai_original": "Study raises doubts about combining vaccine, monoclonal antibody to protect against malaria STAT",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNmt0cFJJcVhKM3VObDBIb1NncndSQTNXNGRBOUlWVEhSd0RyR0JTNVpUSlk5MDBUNm9BSklIZm9TOTc4WGs3bDJKSkFyTDRlS3BfcGpRQjJzNkNQOUR0dUp6QlVIRlZ1SHdWdFhuMFJmUTBYbmh1TzQ5VUtnTUVnODdFVzNiX1VRWGVXdFRxeEhoQzhKWjc4MU05YWkyVGtR?oc=5",
+      "source": "STAT Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-11-19T22:24:46+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "STAT"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "STAT"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "STAT Vaccines / Immunization"
+      ]
+    },
+    {
+      "id": "8f411a504c4bca17",
+      "title": "Clinician HPV vaccine recommendations in teens vary widely by US region, data suggest - CIDRAP",
+      "summary": "Clinician HPV vaccine recommendations in teens vary widely by US region, data suggest CIDRAP",
+      "summary_ai": "Clinician HPV vaccine recommendations in teens vary widely by US region, data suggest CIDRAP",
+      "title_original": "Clinician HPV vaccine recommendations in teens vary widely by US region, data suggest - CIDRAP",
+      "summary_original": "Clinician HPV vaccine recommendations in teens vary widely by US region, data suggest CIDRAP",
+      "summary_ai_original": "Clinician HPV vaccine recommendations in teens vary widely by US region, data suggest CIDRAP",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ0ZYVG9KSGVMb3lyc1BXSFJfalpBajM3dlhJOUhvWDQyeHdEb09XVU1UaVJFbzN2MkVwbkcxbUI4MFhJZXlZVURGS29fNFdNQ1pfN0xKRjJJQzhlNGZ4Zkd2MEFhaGJuUG1HcUlNWF96RW1jQ2ZvdmRfdk5lcWxtaDFPUHVSNE9qamUyQVdmSWVHTG1ERXY0UThldzA0UmpoaDlzU3NKTnB1Ykw5TWRSak5aUk04V01YcXNiVzVvSQ?oc=5",
+      "source": "CIDRAP Vaccines & Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 8,
+      "published_at": "2026-11-19T20:48:00+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [
+        "recommendation"
+      ],
+      "vaccines": [
+        "hpv"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "CIDRAP / Minnesota"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "CIDRAP / Minnesota"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "CIDRAP Vaccines & Immunization"
+      ]
+    },
+    {
+      "id": "f51f3dcfd7af5d02",
+      "title": "Vaccine hesitancy spills over to pet owners - CIDRAP",
+      "summary": "Vaccine hesitancy spills over to pet owners CIDRAP",
+      "summary_ai": "Vaccine hesitancy spills over to pet owners CIDRAP",
+      "title_original": "Vaccine hesitancy spills over to pet owners - CIDRAP",
+      "summary_original": "Vaccine hesitancy spills over to pet owners CIDRAP",
+      "summary_ai_original": "Vaccine hesitancy spills over to pet owners CIDRAP",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yVDRpSTVPc1dyR2plQk9iNG0wMG5LLTB5LTNiV29BRWswWE01WjIybklSSXc4YzMtVnpJVHIzSkIwR0xPb3lQakt5REFvemt3Q2dlSEhwV0R6b1JZMmVFY21adGdwZ1RQVS1vRXYwZ3ZtSDNZU2VIZXNGNXNHd0k?oc=5",
+      "source": "CIDRAP Vaccines & Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 8,
+      "published_at": "2026-11-19T20:44:13+00:00",
+      "topics": [
+        "communication"
+      ],
+      "policy_tags": [
+        "communication"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "CIDRAP / Minnesota"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "CIDRAP / Minnesota"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "CIDRAP Vaccines & Immunization"
+      ]
+    },
+    {
+      "id": "754599264ec477b5",
+      "title": "Computational workflows for neoantigen identification in non-small cell lung cancer: a scoping review and meta-analysis of neoantigen vaccine trials",
+      "summary": "Computational workflows for neoantigen identification in non-small cell lung cancer: a scoping review and meta-analysis of neoantigen vaccine trials",
+      "summary_ai": "Computational workflows for neoantigen identification in non-small cell lung cancer: a scoping review and meta-analysis of neoantigen vaccine trials",
+      "title_original": "Computational workflows for neoantigen identification in non-small cell lung cancer: a scoping review and meta-analysis of neoantigen vaccine trials",
+      "summary_original": "Computational workflows for neoantigen identification in non-small cell lung cancer: a scoping review and meta-analysis of neoantigen vaccine trials",
+      "summary_ai_original": "Computational workflows for neoantigen identification in non-small cell lung cancer: a scoping review and meta-analysis of neoantigen vaccine trials",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xWTVBZUZYOExuVjBGZ1BXbVdkN2pWSF9aR05qaWQtdTRsWWs2OGtRd19lVmhiS0Z0aGg3Yk1QMnlXbC1CbEdIN0tFUExnaHFkSGhsYk1PMTdNNmp5QnJZ?oc=5",
+      "source": "Nature News Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 5,
+      "published_at": "2026-11-19T03:18:38+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Nature News"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Nature News"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Nature News Vaccines / Immunization"
+      ]
+    },
     {
       "id": "41f6a24fde265af0",
       "title": "Leukemia vaccine passes key trial, adding to breakthrough year for cancer drugs - The Washington Post",
@@ -819,6 +1085,71 @@
       ]
     },
     {
+      "id": "29f7d4cfb87f9ee4",
+      "title": "Population-level indirect effects of HPV vaccination in high-income settings: a Bayesian modelling study - medRxiv",
+      "summary": "Population-level indirect effects of HPV vaccination in high-income settings: a Bayesian modelling study medRxiv",
+      "summary_ai": "Population-level indirect effects of HPV vaccination in high-income settings: a Bayesian modelling study medRxiv",
+      "title_original": "Population-level indirect effects of HPV vaccination in high-income settings: a Bayesian modelling study - medRxiv",
+      "summary_original": "Population-level indirect effects of HPV vaccination in high-income settings: a Bayesian modelling study medRxiv",
+      "summary_ai_original": "Population-level indirect effects of HPV vaccination in high-income settings: a Bayesian modelling study medRxiv",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBMUDRmeGZoSWFud0lTUzMtNEZrMVpWRVB4VnczajN6QkprWlJTWHNXWklNamhQQ1VEX3dHRHMwR0JXd1pfVEo4ZmNzZ1dRSm1qanZYWThnOWQxU0EwVkxJcUlXX3V0Y1ZTTjhSN3VoNA?oc=5",
+      "source": "medRxiv vaccines",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-11-16T19:59:51+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "medRxiv"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "medRxiv"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "medRxiv vaccines"
+      ]
+    },
+    {
       "id": "a55ae952ed76056c",
       "title": "Six months on, accessing hard-to-reach communities key to halting Ebola outbreak",
       "summary": "15 November 2026 | Addis Ababa, Geneva, Kinshasa, New York, Rome Six months into the Ebola outbreak caused by Bundibugyo virus in the Democratic Republic of the Congo, significant progress has been made in bringing lifesaving services closer to affected communities, despite immense challenges. However, fuelled by ongoing conflict, displacement and humanitarian needs, the outbreak […] The post Six months on, accessing hard-to-reach communities key to halting Ebola outbreak appeared first on Africa CDC .",
@@ -887,6 +1218,141 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "Africa CDC News"
+      ]
+    },
+    {
+      "id": "e3497096b8680bfd",
+      "title": "Ontology-Based SEA-CDM Integration for Vaccine Clinical Trials: Query, Similarity, and Design Recommendation - medRxiv",
+      "summary": "Ontology-Based SEA-CDM Integration for Vaccine Clinical Trials: Query, Similarity, and Design Recommendation medRxiv",
+      "summary_ai": "Ontology-Based SEA-CDM Integration for Vaccine Clinical Trials: Query, Similarity, and Design Recommendation medRxiv",
+      "title_original": "Ontology-Based SEA-CDM Integration for Vaccine Clinical Trials: Query, Similarity, and Design Recommendation - medRxiv",
+      "summary_original": "Ontology-Based SEA-CDM Integration for Vaccine Clinical Trials: Query, Similarity, and Design Recommendation medRxiv",
+      "summary_ai_original": "Ontology-Based SEA-CDM Integration for Vaccine Clinical Trials: Query, Similarity, and Design Recommendation medRxiv",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43UFFpa2gyU0k4cTI1cERiZVB4eGlmdENwRGNsS29PZnFvMW1SX2dRSTFhemhFZUY2bjlJZVFpYTVBZVJDOW84VWxLY0tzQXRwSnJvQUNFVUxnd1UxUW1ZWmgxOHgyUUY4WVlCRUx2TQ?oc=5",
+      "source": "medRxiv vaccines",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-11-13T23:28:02+00:00",
+      "topics": [
+        "policy",
+        "research"
+      ],
+      "policy_tags": [
+        "recommendation"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "medRxiv"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "medRxiv"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "medRxiv vaccines"
+      ]
+    },
+    {
+      "id": "756d66efe7eae2a6",
+      "title": "Impact of vaccination coverage and timing on recent yellow fever outbreaks in Africa: a modeling study - medRxiv",
+      "summary": "Impact of vaccination coverage and timing on recent yellow fever outbreaks in Africa: a modeling study medRxiv",
+      "summary_ai": "Impact of vaccination coverage and timing on recent yellow fever outbreaks in Africa: a modeling study medRxiv",
+      "title_original": "Impact of vaccination coverage and timing on recent yellow fever outbreaks in Africa: a modeling study - medRxiv",
+      "summary_original": "Impact of vaccination coverage and timing on recent yellow fever outbreaks in Africa: a modeling study medRxiv",
+      "summary_ai_original": "Impact of vaccination coverage and timing on recent yellow fever outbreaks in Africa: a modeling study medRxiv",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CQ2ZDVFNUbnpwUWxpaXI4dGQ3cDlLYWs1ekdPZGIwRDVYcHFKeHZnUFlCZTd2OXpXVEJlWG1pVGEtX2VnZHUtbDlWdDBlcHlGN3ZKdUpiNEFFZGRtQU5xUkxnM0NMYXBpaXk1a3NqOA?oc=5",
+      "source": "medRxiv vaccines",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-11-13T04:04:12+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [
+        "outbreak_response"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "medRxiv"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "medRxiv"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "medRxiv vaccines"
       ]
     },
     {
@@ -1026,31 +1492,27 @@
       ]
     },
     {
-      "id": "15d66ee8497d0f9f",
-      "title": "Determinants of mpox vaccine acceptance among peri-urban residents in Sekondi-Takoradi, Western Region of Ghana: A community-based cross-sectional study - medRxiv",
-      "summary": "Determinants of mpox vaccine acceptance among peri-urban residents in Sekondi-Takoradi, Western Region of Ghana: A community-based cross-sectional study medRxiv",
-      "summary_ai": "Determinants of mpox vaccine acceptance among peri-urban residents in Sekondi-Takoradi, Western Region of Ghana: A community-based cross-sectional study medRxiv",
-      "title_original": "Determinants of mpox vaccine acceptance among peri-urban residents in Sekondi-Takoradi, Western Region of Ghana: A community-based cross-sectional study - medRxiv",
-      "summary_original": "Determinants of mpox vaccine acceptance among peri-urban residents in Sekondi-Takoradi, Western Region of Ghana: A community-based cross-sectional study medRxiv",
-      "summary_ai_original": "Determinants of mpox vaccine acceptance among peri-urban residents in Sekondi-Takoradi, Western Region of Ghana: A community-based cross-sectional study medRxiv",
+      "id": "a421260ec3a4d90a",
+      "title": "Influenza Vaccination and Disease Severity Among Older Adults Hospitalized with Influenza in France: A Nationwide Cohort Study, 2016-2024 - medRxiv",
+      "summary": "Influenza Vaccination and Disease Severity Among Older Adults Hospitalized with Influenza in France: A Nationwide Cohort Study, 2016-2024 medRxiv",
+      "summary_ai": "Influenza Vaccination and Disease Severity Among Older Adults Hospitalized with Influenza in France: A Nationwide Cohort Study, 2016-2024 medRxiv",
+      "title_original": "Influenza Vaccination and Disease Severity Among Older Adults Hospitalized with Influenza in France: A Nationwide Cohort Study, 2016-2024 - medRxiv",
+      "summary_original": "Influenza Vaccination and Disease Severity Among Older Adults Hospitalized with Influenza in France: A Nationwide Cohort Study, 2016-2024 medRxiv",
+      "summary_ai_original": "Influenza Vaccination and Disease Severity Among Older Adults Hospitalized with Influenza in France: A Nationwide Cohort Study, 2016-2024 medRxiv",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zRDhmSEd0MG5QLVU0X0FWZm5kT3ZfaWxoWkFWQ1RVRzRhWV8zYVlOWkFHSUc4Q3NWTmI1NDNIUXU0UmRfSFVTanh6eVpuTkVnbEF6bWVWZDFYTm9hY2huUVlQRzgwSEwzRnFsOEc4RQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1uc1dVT05SVXVkSUJscU1yeXNoVkpRWVNOTlFrZG9NOHlNUURjVEdoV045ZFd5TDBHaDJ2T2xhLS0zQlhKbGp6UzBnM3ZKUEJuN1pLQnF1STdTUkJfc0hCeHdBVHhRM2hiZjhUSzNFMA?oc=5",
       "source": "medRxiv vaccines",
       "source_type": "preprint",
       "source_tier": "Tier 3",
       "source_priority": 7,
-      "published_at": "2026-11-12T17:22:34+00:00",
+      "published_at": "2026-11-12T17:28:37+00:00",
       "topics": [
         "research"
       ],
-      "policy_tags": [
-        "outbreak_response"
-      ],
-      "vaccines": [
-        "mpox"
-      ],
+      "policy_tags": [],
+      "vaccines": [],
       "variants": [],
-      "target_country": "ガーナ",
+      "target_country": "フランス",
       "source_location": {
         "key": "united states",
         "name_ja": "米国",
@@ -1069,26 +1531,26 @@
           "label": "medRxiv"
         },
         "target": {
-          "key": "ghana",
-          "name_ja": "ガーナ",
-          "lat": 5.6037,
-          "lng": -0.187,
-          "region": "Africa",
-          "label": "ガーナ"
+          "key": "france",
+          "name_ja": "フランス",
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "region": "Europe",
+          "label": "フランス"
         }
       },
       "location": {
-        "key": "ghana",
-        "name_ja": "ガーナ",
-        "lat": 5.6037,
-        "lng": -0.187,
-        "region": "Africa",
-        "label": "ガーナ"
+        "key": "france",
+        "name_ja": "フランス",
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "region": "Europe",
+        "label": "フランス"
       },
-      "region": "Africa",
-      "country": "ガーナ",
-      "lat": 5.6037,
-      "lng": -0.187,
+      "region": "Europe",
+      "country": "フランス",
+      "lat": 48.8566,
+      "lng": 2.3522,
       "duplicate_count": 1,
       "duplicate_sources": [
         "medRxiv vaccines"
@@ -1230,43 +1692,45 @@
       ]
     },
     {
-      "id": "8c5229e7ab455e7a",
-      "title": "Mutant KRAS vaccination for pancreatic cancer interception: the G12D immunogenicity paradox",
-      "summary": "Mutant KRAS vaccination for pancreatic cancer interception: the G12D immunogenicity paradox",
-      "summary_ai": "Mutant KRAS vaccination for pancreatic cancer interception: the G12D immunogenicity paradox",
-      "title_original": "Mutant KRAS vaccination for pancreatic cancer interception: the G12D immunogenicity paradox",
-      "summary_original": "Mutant KRAS vaccination for pancreatic cancer interception: the G12D immunogenicity paradox",
-      "summary_ai_original": "Mutant KRAS vaccination for pancreatic cancer interception: the G12D immunogenicity paradox",
+      "id": "85fade96bb70a99f",
+      "title": "Testing the 40% to 60% Influenza Vaccine Effectiveness Heuristic A Meta-Analysis",
+      "summary": "Testing the 40% to 60% Influenza Vaccine Effectiveness Heuristic A Meta-Analysis",
+      "summary_ai": "Testing the 40% to 60% Influenza Vaccine Effectiveness Heuristic A Meta-Analysis",
+      "title_original": "Testing the 40% to 60% Influenza Vaccine Effectiveness Heuristic A Meta-Analysis",
+      "summary_original": "Testing the 40% to 60% Influenza Vaccine Effectiveness Heuristic A Meta-Analysis",
+      "summary_ai_original": "Testing the 40% to 60% Influenza Vaccine Effectiveness Heuristic A Meta-Analysis",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ZTmozN09adzhiblM5bmRtcDgwb3Uwd0t2WldINUR2Z2d5eXY1QWtpUjRhNDltZlJRSkx4dWxQODZlMkwxaXc2OUNqSkt0XzMtWTRycXVkVUtwaGxLdnp3?oc=5",
-      "source": "Nature News Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 5,
-      "published_at": "2026-11-09T08:00:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9BUi1ySEZkUmpxN0hNWlpkZ05MWWlRbndXeUd2b2FzSXpIWnZDTEZPTGhyVko1RTZhX040cEEyV2o0TnhiU05hS0tVT0NmQnNRa3NmdEZjNUQxdDExaTY3V081T1poRjJIcFBKWlhPTTZaR2pFeDZB?oc=5",
+      "source": "JAMA Network Open vaccines",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 9,
+      "published_at": "2026-11-10T08:00:00+00:00",
       "topics": [
         "research"
       ],
       "policy_tags": [],
-      "vaccines": [],
+      "vaccines": [
+        "influenza"
+      ],
       "variants": [],
       "target_country": "不明",
       "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "Nature News"
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "JAMA Network Open"
       },
       "plot": {
         "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "Nature News"
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "JAMA Network Open"
         },
         "target": {
           "key": "unknown",
@@ -1291,7 +1755,7 @@
       "lng": 0.0,
       "duplicate_count": 1,
       "duplicate_sources": [
-        "Nature News Vaccines / Immunization"
+        "JAMA Network Open vaccines"
       ]
     },
     {
@@ -1363,43 +1827,45 @@
       ]
     },
     {
-      "id": "3e741b06d6222900",
-      "title": "US-funded vaccine trial on babies cancelled in Guinea-Bissau after uproar - BBC",
-      "summary": "US-funded vaccine trial on babies cancelled in Guinea-Bissau after uproar BBC",
-      "summary_ai": "US-funded vaccine trial on babies cancelled in Guinea-Bissau after uproar BBC",
-      "title_original": "US-funded vaccine trial on babies cancelled in Guinea-Bissau after uproar - BBC",
-      "summary_original": "US-funded vaccine trial on babies cancelled in Guinea-Bissau after uproar BBC",
-      "summary_ai_original": "US-funded vaccine trial on babies cancelled in Guinea-Bissau after uproar BBC",
+      "id": "7d5ccb5670895cc7",
+      "title": "Humoral Immunogenicity of mRNA-1010, an mRNA-based Seasonal Influenza Vaccine, in Adults ≥50 Years - Oxford Academic",
+      "summary": "Humoral Immunogenicity of mRNA-1010, an mRNA-based Seasonal Influenza Vaccine, in Adults ≥50 Years Oxford Academic",
+      "summary_ai": "Humoral Immunogenicity of mRNA-1010, an mRNA-based Seasonal Influenza Vaccine, in Adults ≥50 Years Oxford Academic",
+      "title_original": "Humoral Immunogenicity of mRNA-1010, an mRNA-based Seasonal Influenza Vaccine, in Adults ≥50 Years - Oxford Academic",
+      "summary_original": "Humoral Immunogenicity of mRNA-1010, an mRNA-based Seasonal Influenza Vaccine, in Adults ≥50 Years Oxford Academic",
+      "summary_ai_original": "Humoral Immunogenicity of mRNA-1010, an mRNA-based Seasonal Influenza Vaccine, in Adults ≥50 Years Oxford Academic",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDaUFfTFFTS2xWTThwR3IyWEdxc3NHQlVDcVhneDYzVF9RbXoxS0YteHAtU3RoY1pwT1RHWERTZjNhWXVVMllTY0N0WHQ1dF81ZVFUakwwbmFMSkE?oc=5",
-      "source": "BBC Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1lUXI1TkFOa0dVMk5XcDk3U3VObXl6bTZJaEVNMjR6WkEzc3lEQThpcDJFNXBGNnBaYTc5Vkd5dGlrdGNxUElXOUd3SWpZaFhFNmtPVG1rVlhBRWQtaGNMX09CckY5WWNMZ0pr?oc=5",
+      "source": "Open Forum Infectious Diseases",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
       "source_priority": 7,
-      "published_at": "2026-11-05T08:00:00+00:00",
+      "published_at": "2026-11-06T13:58:21+00:00",
       "topics": [
         "research"
       ],
       "policy_tags": [],
-      "vaccines": [],
+      "vaccines": [
+        "influenza"
+      ],
       "variants": [],
       "target_country": "不明",
       "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BBC"
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "Open Forum Infectious Diseases"
       },
       "plot": {
         "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BBC"
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "Open Forum Infectious Diseases"
         },
         "target": {
           "key": "unknown",
@@ -1424,7 +1890,7 @@
       "lng": 0.0,
       "duplicate_count": 1,
       "duplicate_sources": [
-        "BBC Vaccines / Immunization"
+        "Open Forum Infectious Diseases"
       ]
     }
   ]
