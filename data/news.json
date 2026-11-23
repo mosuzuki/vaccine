@@ -1,9 +1,9 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-11-22T01:10:12.791396+00:00",
-  "item_count": 15,
-  "archive_count": 657,
+  "generated_at": "2026-11-23T01:35:04.819968+00:00",
+  "item_count": 18,
+  "archive_count": 659,
   "days_back": 14,
   "plot_mode_default": "source",
   "feed_status": [
@@ -75,7 +75,7 @@
       "name": "Africa CDC News",
       "url": "https://africacdc.org/feed/",
       "status": "ok",
-      "seen": 10,
+      "seen": 7,
       "kept": 2
     },
     {
@@ -89,7 +89,7 @@
       "name": "The Lancet series",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Athelancet.com%20(trial%20OR%20policy%20OR%20effectiveness%20OR%20safety)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -103,15 +103,15 @@
       "name": "NEJM",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Anejm.org%20(trial%20OR%20effectiveness%20OR%20policy%20OR%20safety)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 2,
       "kept": 0
     },
     {
       "name": "BMJ",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abmj.com%20(policy%20OR%20trial%20OR%20effectiveness%20OR%20communication)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 6,
-      "kept": 0
+      "seen": 1,
+      "kept": 1
     },
     {
       "name": "Vaccine journal",
@@ -131,14 +131,14 @@
       "name": "Nature Medicine vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fnm%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20uptake%20OR%20policy)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 1,
       "kept": 0
     },
     {
       "name": "Nature Communications vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fncomms%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20surveillance)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 2,
       "kept": 0
     },
     {
@@ -166,7 +166,7 @@
       "name": "Science vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ascience.org%2Fdoi%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20antibody)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 5,
       "kept": 0
     },
     {
@@ -202,7 +202,7 @@
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjamanetworkopen%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
       "seen": 3,
-      "kept": 1
+      "kept": 0
     },
     {
       "name": "JAMA Internal Medicine vaccines",
@@ -229,47 +229,49 @@
       "name": "medRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Amedrxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
-      "kept": 0
+      "seen": 10,
+      "kept": 2
     },
     {
       "name": "bioRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abiorxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 4,
+      "seen": 2,
       "kept": 0
     },
     {
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 36,
-      "kept": 3
+      "seen": 34,
+      "kept": 4
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 17,
+      "seen": 20,
       "kept": 1
     },
     {
       "name": "AP Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen",
-      "status": "error",
-      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen"
+      "status": "ok",
+      "seen": 18,
+      "kept": 0
     },
     {
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
-      "status": "error",
-      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen"
+      "status": "ok",
+      "seen": 23,
+      "kept": 0
     },
     {
       "name": "Financial Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aft.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 9,
+      "seen": 16,
       "kept": 0
     },
     {
@@ -283,78 +285,77 @@
       "name": "Nature News Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 20,
-      "kept": 0
+      "seen": 18,
+      "kept": 1
     },
     {
       "name": "Science Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Ascience.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 6,
+      "seen": 9,
       "kept": 0
     },
     {
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 26,
+      "seen": 27,
       "kept": 0
     },
     {
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 49,
+      "seen": 34,
       "kept": 0
     },
     {
       "name": "Washington Post Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 28,
+      "seen": 26,
       "kept": 1
     },
     {
       "name": "NHK ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anhk.or.jp&hl=ja&gl=JP&ceid=JP%3Aja",
-      "status": "ok",
-      "seen": 0,
-      "kept": 0
+      "status": "error",
+      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=(%E3%83%AF%E3%82%AF%E3%83%81%E3%83%B3%20OR%20%E4%BA%88%E9%98%B2%E6%8E%A5%E7%A8%AE)%20(%E6%94%BF%E7%AD%96%20OR%20%E6%89%BF%E8%AA%8D%20OR%20%E6%8E%A5%E7%A8%AE%20OR%20%E3%82%B9%E3%82%B1%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%20OR%20%E7%A0%94%E7%A9%B6%20OR%20%E5%BA%83%E5%A0%B1)%20site%3Anhk.or.jp&hl=ja&gl=JP&ceid=JP%3Aja"
     },
     {
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 7,
+      "seen": 5,
       "kept": 0
     },
     {
       "name": "朝日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Aasahi.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 99,
+      "seen": 58,
       "kept": 0
     },
     {
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 30,
+      "seen": 22,
       "kept": 0
     },
     {
       "name": "毎日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 24,
+      "seen": 16,
       "kept": 0
     },
     {
       "name": "JAMA Network vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 18,
-      "kept": 2
+      "seen": 9,
+      "kept": 1
     },
     {
       "name": "JAMA Pediatrics vaccines",
@@ -367,8 +368,8 @@
       "name": "Clinical Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fcid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 27,
-      "kept": 1
+      "seen": 6,
+      "kept": 0
     },
     {
       "name": "Journal of Infectious Diseases",
@@ -381,7 +382,7 @@
       "name": "Open Forum Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fofid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 1,
       "kept": 0
     },
     {
@@ -402,7 +403,7 @@
       "name": "PLOS journals vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajournals.plos.org%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20uptake%20OR%20policy)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 0,
       "kept": 0
     },
     {
@@ -451,7 +452,7 @@
       "name": "Journal of Travel Medicine vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fjtm&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 0,
       "kept": 0
     },
     {
@@ -463,38 +464,40 @@
     }
   ],
   "weekly_ai_summary": {
-    "generated_at": "2026-11-22T01:10:12.791396+00:00",
+    "generated_at": "2026-11-23T01:35:04.819968+00:00",
     "period_days": 7,
     "policy_count": 6,
     "academic_count": 2,
     "status": "ok",
     "model": "gpt-4o-mini",
-    "policy_summary": "PAHOは、アメリカ大陸における麻疹の流行を抑制し、根絶に向けた努力を強化するよう各国に呼びかけた。ペルーとの協力を再確認し、健康システムの強化や緊急対応の準備を重点的に進めることが強調された。",
-    "academic_summary": "高用量インフルエンザワクチンと標準用量ワクチンの比較研究が行われ、高齢者における症状の負担についてのデータが報告された。また、ワクチン研究におけるターゲット試験エミュレーションの適用に関するスコーピングレビューが発表された。"
+    "policy_summary": "PAHOはアメリカ大陸での麻疹の流行を抑制し、ワクチン接種のギャップを埋めるよう各国に呼びかけている。米国では、地域によってHPVワクチンに関する医師の推奨が大きく異なることが示唆されている。",
+    "academic_summary": "ガーナのAsante Akim Northでのチフスワクチン試験前後の血液培養監視に関する研究が発表された。高所得国におけるHPVワクチン接種の間接的な影響を評価するベイズモデル研究も行われた。"
   },
   "items": [
     {
-      "id": "5d4102281815ba00",
-      "title": "High-Dose vs Standard-Dose Influenza Vaccine and Patient-Reported Symptom Burden in Older Adults – A Substudy of the DANFLU-2 Randomized Clinical Trial - Oxford Academic",
-      "summary": "High-Dose vs Standard-Dose Influenza Vaccine and Patient-Reported Symptom Burden in Older Adults – A Substudy of the DANFLU-2 Randomized Clinical Trial Oxford Academic",
-      "summary_ai": "High-Dose vs Standard-Dose Influenza Vaccine and Patient-Reported Symptom Burden in Older Adults – A Substudy of the DANFLU-2 Randomized Clinical Trial Oxford Academic",
-      "title_original": "High-Dose vs Standard-Dose Influenza Vaccine and Patient-Reported Symptom Burden in Older Adults – A Substudy of the DANFLU-2 Randomized Clinical Trial - Oxford Academic",
-      "summary_original": "High-Dose vs Standard-Dose Influenza Vaccine and Patient-Reported Symptom Burden in Older Adults – A Substudy of the DANFLU-2 Randomized Clinical Trial Oxford Academic",
-      "summary_ai_original": "High-Dose vs Standard-Dose Influenza Vaccine and Patient-Reported Symptom Burden in Older Adults – A Substudy of the DANFLU-2 Randomized Clinical Trial Oxford Academic",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcFhTMV9Kb29mNThsdUFrZmYzRUJxblQ2aHZwcVRDeThpY1JDZUV4N2p0X0I1R3BfdUVyMlhJNG9qeXhXaGY1NEhFbTZQaE5sTkR5S1FXSDlUci00bGg4RG5FM04xZlpXa01sZ0lfWW15QUFqQVNfN2RXV3RBVWNyUFBn?oc=5",
-      "source": "Clinical Infectious Diseases",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-11-21T06:51:24+00:00",
+      "id": "558aa72821ab3b00",
+      "title": "ワクチンおよび関連生物由来製品諮問委員会の名簿",
+      "summary": "これはワクチンおよび関連生物由来製品諮問委員会の名簿です。",
+      "summary_ai": "空席専門知識: グローバルヘルス、遺伝学 任期: 2022/02/01 – 2030/01/30 臨床・医療研究政策部門ディレクター 所長室科学政策室 国立衛生研究所ベセスダ、メリーランド州 専門分野: 小児科、感染症 任期: 2025/02/01 - 2029/01/31 学科教授",
+      "title_original": "Roster of the Vaccines and Related Biological Products Advisory Committee",
+      "summary_original": "This is the Roster of the Vaccines and Related Biological Products Advisory Committee",
+      "summary_ai_original": "Vacant Expertise: Global Health, Genetics Term: 02/01/2022 – 01/30/2030 Director, Division of Clinical and Healthcare Research Policy Office of Science Policy, Office of the Director National Institutes of Health Bethesda, MD Expertise: Pediatrics, Infectious Diseases Term: 02/01/2025 - 01/31/2029 Professor, Department",
+      "article_text_original": "As part of the Food and Drug Administration's (FDA's) ongoing efforts to recruit qualified experts with minimal conflicts of interest who are interested in serving on FDA advisory committees, FDA is requesting nominations for members to serve on its advisory committees. Current Number of Vacancies: 9 Note, one or more vacancies may be in the nomination process or a final appointment may have been made. The names listed below are advisory committee members who have active appointments required to participate in committee meetings, including an unexpired appointment as a Special Government Employee where applicable. Vacant Expertise: Global Health, Genetics Term: 02/01/2022 – 01/30/2030 Director, Division of Clinical and Healthcare Research Policy Office of Science Policy, Office of the Director National Institutes of Health Bethesda, MD Expertise: Pediatrics, Infectious Diseases Term: 02/01/2025 - 01/31/2029 Professor, Department of International Health Director, Center for Immunization Research Johns Hopkins Bloomberg School of Public Health Baltimore, MD 21205 Expertise: Pediatrics, Infectious Diseases Term: 06/21/2019 - 01/31/2027 Clinical Professor Pediatrics - Infectious Diseases Stanford Medicine Children’s Health Stanford, CA 94305 Expertise: Industry Representative (Alternate) Scientific Assoc. Vice President, Global Regulatory Affairs and Clinical Safety, MRL, Vaccines and Infectious Diseases Merck & Co., Inc. North Wales, PA 19454 Expertise: Pediatrics, Vaccines Term: 02/01/2024 - 01/31/2028 Medical Officer Immunization Services Division National Center for Emerging and Zoonotic Infectious Diseases Centers for Disease Control and Prevention Atlanta, GA 30329 Expertise: Pediatrics, Infectious Diseases Term: 02/01/2025 - 01/31/2029 Associate Professor of Pediatrics, Infectious Diseases Molecular Virology and Microbiology Texas Children’s Hospital Baylor College of Medicine Houston, TX 77030 Expertise: Allergy & Immunology Term: 07/05/2024 - 1/31/2028 Chief, Asthma, Allergy, and Immunology Division School of Medicine University of Virginia Charlottesville, VA 22903 Expertise: Pediatrics, Infectious Diseases Term: 02/01/2025 - 01/31/2029 Dean and Professor Lyda Hill Deanship of the School of Public Health UT Southwestern Medical Center Dallas, TX 75225 LCDR Cicely C. Reese, PharmD Center for Biologics Evaluation & Research Food and Drug Administration Silver Spring, MD 20993 E-mail: CBERVRBPAC@fda.hhs.gov ** Consumer Representative *** Industry Representative ~ Alternate Industry Representative",
+      "link": "http://www.fda.gov/advisory-committees/vaccines-and-related-biological-products-advisory-committee/roster-vaccines-and-related-biological-products-advisory-committee",
+      "source": "FDA Vaccines / Biologics",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 9,
+      "published_at": "2026-11-22T20:47:19+00:00",
       "topics": [
+        "policy",
         "research"
       ],
-      "policy_tags": [],
-      "vaccines": [
-        "influenza"
+      "policy_tags": [
+        "recommendation",
+        "safety"
       ],
+      "vaccines": [],
       "variants": [],
       "target_country": "不明",
       "source_location": {
@@ -503,7 +506,7 @@
         "lat": 38.9072,
         "lng": -77.0369,
         "region": "North America",
-        "label": "Clinical Infectious Diseases"
+        "label": "FDA / Silver Spring"
       },
       "plot": {
         "source": {
@@ -512,7 +515,7 @@
           "lat": 38.9072,
           "lng": -77.0369,
           "region": "North America",
-          "label": "Clinical Infectious Diseases"
+          "label": "FDA / Silver Spring"
         },
         "target": {
           "key": "unknown",
@@ -537,7 +540,72 @@
       "lng": 0.0,
       "duplicate_count": 1,
       "duplicate_sources": [
-        "Clinical Infectious Diseases"
+        "FDA Vaccines / Biologics"
+      ]
+    },
+    {
+      "id": "6edab4393f35d9de",
+      "title": "Vaccination against shingles and prevention of long-term ocular morbidity—a retrospective study of cost implications to the NHS",
+      "summary": "Vaccination against shingles and prevention of long-term ocular morbidity—a retrospective study of cost implications to the NHS",
+      "summary_ai": "Vaccination against shingles and prevention of long-term ocular morbidity—a retrospective study of cost implications to the NHS",
+      "title_original": "Vaccination against shingles and prevention of long-term ocular morbidity—a retrospective study of cost implications to the NHS",
+      "summary_original": "Vaccination against shingles and prevention of long-term ocular morbidity—a retrospective study of cost implications to the NHS",
+      "summary_ai_original": "Vaccination against shingles and prevention of long-term ocular morbidity—a retrospective study of cost implications to the NHS",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NajAyVlk1c3R3QXhmQTFnZnh6ZTFDZ1lib2x5UEJ3ZkFVeFpIWmhxN25kR2REZG04d3FFTWFncGRGbTNya0lqajNpc1dHYkxhZWFEUGttTHJ1eXBBbUtn?oc=5",
+      "source": "Nature News Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 5,
+      "published_at": "2026-11-21T12:00:12+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Nature News"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Nature News"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Nature News Vaccines / Immunization"
       ]
     },
     {
@@ -613,103 +681,34 @@
       ]
     },
     {
-      "id": "558aa72821ab3b00",
-      "title": "ワクチンおよび関連生物由来製品諮問委員会の名簿",
-      "summary": "これはワクチンおよび関連生物由来製品諮問委員会の名簿です。",
-      "summary_ai": "空席専門知識: グローバルヘルス、遺伝学 任期: 2022/02/01 – 2030/01/30 臨床・医療研究政策部門ディレクター 所長室科学政策室 国立衛生研究所ベセスダ、メリーランド州 専門分野: 小児科、感染症 任期: 2025/02/01 - 2029/01/31 学科教授",
-      "title_original": "Roster of the Vaccines and Related Biological Products Advisory Committee",
-      "summary_original": "This is the Roster of the Vaccines and Related Biological Products Advisory Committee",
-      "summary_ai_original": "Vacant Expertise: Global Health, Genetics Term: 02/01/2022 – 01/30/2030 Director, Division of Clinical and Healthcare Research Policy Office of Science Policy, Office of the Director National Institutes of Health Bethesda, MD Expertise: Pediatrics, Infectious Diseases Term: 02/01/2025 - 01/31/2029 Professor, Department",
-      "article_text_original": "As part of the Food and Drug Administration's (FDA's) ongoing efforts to recruit qualified experts with minimal conflicts of interest who are interested in serving on FDA advisory committees, FDA is requesting nominations for members to serve on its advisory committees. Current Number of Vacancies: 9 Note, one or more vacancies may be in the nomination process or a final appointment may have been made. The names listed below are advisory committee members who have active appointments required to participate in committee meetings, including an unexpired appointment as a Special Government Employee where applicable. Vacant Expertise: Global Health, Genetics Term: 02/01/2022 – 01/30/2030 Director, Division of Clinical and Healthcare Research Policy Office of Science Policy, Office of the Director National Institutes of Health Bethesda, MD Expertise: Pediatrics, Infectious Diseases Term: 02/01/2025 - 01/31/2029 Professor, Department of International Health Director, Center for Immunization Research Johns Hopkins Bloomberg School of Public Health Baltimore, MD 21205 Expertise: Pediatrics, Infectious Diseases Term: 06/21/2019 - 01/31/2027 Clinical Professor Pediatrics - Infectious Diseases Stanford Medicine Children’s Health Stanford, CA 94305 Expertise: Industry Representative (Alternate) Scientific Assoc. Vice President, Global Regulatory Affairs and Clinical Safety, MRL, Vaccines and Infectious Diseases Merck & Co., Inc. North Wales, PA 19454 Expertise: Pediatrics, Vaccines Term: 02/01/2024 - 01/31/2028 Medical Officer Immunization Services Division National Center for Emerging and Zoonotic Infectious Diseases Centers for Disease Control and Prevention Atlanta, GA 30329 Expertise: Pediatrics, Infectious Diseases Term: 02/01/2025 - 01/31/2029 Associate Professor of Pediatrics, Infectious Diseases Molecular Virology and Microbiology Texas Children’s Hospital Baylor College of Medicine Houston, TX 77030 Expertise: Allergy & Immunology Term: 07/05/2024 - 1/31/2028 Chief, Asthma, Allergy, and Immunology Division School of Medicine University of Virginia Charlottesville, VA 22903 Expertise: Pediatrics, Infectious Diseases Term: 02/01/2025 - 01/31/2029 Dean and Professor Lyda Hill Deanship of the School of Public Health UT Southwestern Medical Center Dallas, TX 75225 LCDR Cicely C. Reese, PharmD Center for Biologics Evaluation & Research Food and Drug Administration Silver Spring, MD 20993 E-mail: CBERVRBPAC@fda.hhs.gov ** Consumer Representative *** Industry Representative ~ Alternate Industry Representative",
-      "link": "http://www.fda.gov/advisory-committees/vaccines-and-related-biological-products-advisory-committee/roster-vaccines-and-related-biological-products-advisory-committee",
-      "source": "FDA Vaccines / Biologics",
-      "source_type": "official",
-      "source_tier": "Tier 1",
-      "source_priority": 9,
-      "published_at": "2026-11-20T12:13:34+00:00",
-      "topics": [
-        "policy",
-        "research"
-      ],
-      "policy_tags": [
-        "recommendation",
-        "safety"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "FDA / Silver Spring"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "FDA / Silver Spring"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "FDA Vaccines / Biologics"
-      ]
-    },
-    {
-      "id": "e950d0edfec14469",
-      "title": "Applying Target Trial Emulation in Vaccine Research A Scoping Review",
-      "summary": "Applying Target Trial Emulation in Vaccine Research A Scoping Review",
-      "summary_ai": "Applying Target Trial Emulation in Vaccine Research A Scoping Review",
-      "title_original": "Applying Target Trial Emulation in Vaccine Research A Scoping Review",
-      "summary_original": "Applying Target Trial Emulation in Vaccine Research A Scoping Review",
-      "summary_ai_original": "Applying Target Trial Emulation in Vaccine Research A Scoping Review",
+      "id": "686d7b76c0d948a9",
+      "title": "Surge and decline of typhoid fever before and after a typhoid conjugate vaccine trial: a decade of blood culture surveillance in Asante Akim North, Agogo, Ghana - medRxiv",
+      "summary": "Surge and decline of typhoid fever before and after a typhoid conjugate vaccine trial: a decade of blood culture surveillance in Asante Akim North, Agogo, Ghana medRxiv",
+      "summary_ai": "Surge and decline of typhoid fever before and after a typhoid conjugate vaccine trial: a decade of blood culture surveillance in Asante Akim North, Agogo, Ghana medRxiv",
+      "title_original": "Surge and decline of typhoid fever before and after a typhoid conjugate vaccine trial: a decade of blood culture surveillance in Asante Akim North, Agogo, Ghana - medRxiv",
+      "summary_original": "Surge and decline of typhoid fever before and after a typhoid conjugate vaccine trial: a decade of blood culture surveillance in Asante Akim North, Agogo, Ghana medRxiv",
+      "summary_ai_original": "Surge and decline of typhoid fever before and after a typhoid conjugate vaccine trial: a decade of blood culture surveillance in Asante Akim North, Agogo, Ghana medRxiv",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1UTVF5dmpoRXlkbXFlYWlPNlVWSjc2NnQtQjg4d2ZiWWl3UFVCTE10eUVYMjZSMGU4VzZGVmY1UW9xU3Y3ejNNdHYwMUE2TDh2c0Z5QjE1SGFFRkRrZ1RzSWh3U2Z2T1FWX1pnV1dxQTNJYkpKX3dN?oc=5",
-      "source": "JAMA Network Open vaccines",
-      "source_type": "academic",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1xRy1RYkVGOWFBNHpWWDg1T1p1aVExWWFOd2sya3VMclF5Yng0cFBwN3pvaXpkdktFMXhKeU82bjBHMzJlZDFBR2tnN0JrYndIbjJmOXJWOS16UkZFRzZoNlhOQXJFUnFGVlkxNTg2OA?oc=5",
+      "source": "medRxiv vaccines",
+      "source_type": "preprint",
       "source_tier": "Tier 3",
-      "source_priority": 9,
-      "published_at": "2026-11-20T08:00:00+00:00",
+      "source_priority": 7,
+      "published_at": "2026-11-20T03:00:24+00:00",
       "topics": [
         "research"
       ],
       "policy_tags": [],
       "vaccines": [],
       "variants": [],
-      "target_country": "不明",
+      "target_country": "ガーナ",
       "source_location": {
         "key": "united states",
         "name_ja": "米国",
         "lat": 38.9072,
         "lng": -77.0369,
         "region": "North America",
-        "label": "JAMA Network Open"
+        "label": "medRxiv"
       },
       "plot": {
         "source": {
@@ -718,33 +717,32 @@
           "lat": 38.9072,
           "lng": -77.0369,
           "region": "North America",
-          "label": "JAMA Network Open"
+          "label": "medRxiv"
         },
         "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
+          "key": "ghana",
+          "name_ja": "ガーナ",
+          "lat": 5.6037,
+          "lng": -0.187,
+          "region": "Africa",
+          "label": "ガーナ"
         }
       },
       "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
+        "key": "ghana",
+        "name_ja": "ガーナ",
+        "lat": 5.6037,
+        "lng": -0.187,
+        "region": "Africa",
+        "label": "ガーナ"
       },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 2,
+      "region": "Africa",
+      "country": "ガーナ",
+      "lat": 5.6037,
+      "lng": -0.187,
+      "duplicate_count": 1,
       "duplicate_sources": [
-        "JAMA Network Open vaccines",
-        "JAMA Network vaccines"
+        "medRxiv vaccines"
       ]
     },
     {
@@ -810,6 +808,75 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "STAT Vaccines / Immunization"
+      ]
+    },
+    {
+      "id": "8f411a504c4bca17",
+      "title": "Clinician HPV vaccine recommendations in teens vary widely by US region, data suggest - CIDRAP",
+      "summary": "Clinician HPV vaccine recommendations in teens vary widely by US region, data suggest CIDRAP",
+      "summary_ai": "Clinician HPV vaccine recommendations in teens vary widely by US region, data suggest CIDRAP",
+      "title_original": "Clinician HPV vaccine recommendations in teens vary widely by US region, data suggest - CIDRAP",
+      "summary_original": "Clinician HPV vaccine recommendations in teens vary widely by US region, data suggest CIDRAP",
+      "summary_ai_original": "Clinician HPV vaccine recommendations in teens vary widely by US region, data suggest CIDRAP",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ0ZYVG9KSGVMb3lyc1BXSFJfalpBajM3dlhJOUhvWDQyeHdEb09XVU1UaVJFbzN2MkVwbkcxbUI4MFhJZXlZVURGS29fNFdNQ1pfN0xKRjJJQzhlNGZ4Zkd2MEFhaGJuUG1HcUlNWF96RW1jQ2ZvdmRfdk5lcWxtaDFPUHVSNE9qamUyQVdmSWVHTG1ERXY0UThldzA0UmpoaDlzU3NKTnB1Ykw5TWRSak5aUk04V01YcXNiVzVvSQ?oc=5",
+      "source": "CIDRAP Vaccines & Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 8,
+      "published_at": "2026-11-19T21:58:00+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [
+        "recommendation"
+      ],
+      "vaccines": [
+        "hpv"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "CIDRAP / Minnesota"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "CIDRAP / Minnesota"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "CIDRAP Vaccines & Immunization"
       ]
     },
     {
@@ -1223,6 +1290,71 @@
       ]
     },
     {
+      "id": "29f7d4cfb87f9ee4",
+      "title": "Population-level indirect effects of HPV vaccination in high-income settings: a Bayesian modelling study - medRxiv",
+      "summary": "Population-level indirect effects of HPV vaccination in high-income settings: a Bayesian modelling study medRxiv",
+      "summary_ai": "Population-level indirect effects of HPV vaccination in high-income settings: a Bayesian modelling study medRxiv",
+      "title_original": "Population-level indirect effects of HPV vaccination in high-income settings: a Bayesian modelling study - medRxiv",
+      "summary_original": "Population-level indirect effects of HPV vaccination in high-income settings: a Bayesian modelling study medRxiv",
+      "summary_ai_original": "Population-level indirect effects of HPV vaccination in high-income settings: a Bayesian modelling study medRxiv",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBMUDRmeGZoSWFud0lTUzMtNEZrMVpWRVB4VnczajN6QkprWlJTWHNXWklNamhQQ1VEX3dHRHMwR0JXd1pfVEo4ZmNzZ1dRSm1qanZYWThnOWQxU0EwVkxJcUlXX3V0Y1ZTTjhSN3VoNA?oc=5",
+      "source": "medRxiv vaccines",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-11-16T19:59:51+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "medRxiv"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "medRxiv"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "medRxiv vaccines"
+      ]
+    },
+    {
       "id": "a55ae952ed76056c",
       "title": "Six months on, accessing hard-to-reach communities key to halting Ebola outbreak",
       "summary": "15 November 2026 | Addis Ababa, Geneva, Kinshasa, New York, Rome Six months into the Ebola outbreak caused by Bundibugyo virus in the Democratic Republic of the Congo, significant progress has been made in bringing lifesaving services closer to affected communities, despite immense challenges. However, fuelled by ongoing conflict, displacement and humanitarian needs, the outbreak […] The post Six months on, accessing hard-to-reach communities key to halting Ebola outbreak appeared first on Africa CDC .",
@@ -1494,6 +1626,75 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "PAHO News"
+      ]
+    },
+    {
+      "id": "d9a30c702264cc0c",
+      "title": "Vaccination Against Measles: a Clinical Trial of Live Measles Vaccine - The",
+      "summary": "Vaccination Against Measles: a Clinical Trial of Live Measles Vaccine The",
+      "summary_ai": "Vaccination Against Measles: a Clinical Trial of Live Measles Vaccine The",
+      "title_original": "Vaccination Against Measles: a Clinical Trial of Live Measles Vaccine - The",
+      "summary_original": "Vaccination Against Measles: a Clinical Trial of Live Measles Vaccine The",
+      "summary_ai_original": "Vaccination Against Measles: a Clinical Trial of Live Measles Vaccine The",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BeG9xVzN3RUY2YV9VV0tkVGVEQmdHOU1OOWRnQlBoZDZSUGRXX0pyUjdxVG1EY0tFUi1WTjloclAwY1RCc2xTOFRhSmxrMERQQ1FKVGc3T2xXQU5kenRacg?oc=5",
+      "source": "BMJ",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-11-09T10:37:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [
+        "outbreak_response"
+      ],
+      "vaccines": [
+        "measles"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BMJ / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BMJ / London"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "BMJ"
       ]
     }
   ]
