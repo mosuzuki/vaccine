@@ -1,10 +1,293 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-11-24T05:16:56.599150+00:00",
-  "archive_count": 664,
+  "generated_at": "2026-11-25T04:05:26.692229+00:00",
+  "archive_count": 668,
   "days_back": 14,
   "items": [
+    {
+      "id": "2b00d39f389c26a6",
+      "title": "Impact of expanded influenza vaccination programs in children and adults in Australia: a mathematical modelling study - medRxiv",
+      "summary": "Impact of expanded influenza vaccination programs in children and adults in Australia: a mathematical modelling study medRxiv",
+      "summary_ai": "Impact of expanded influenza vaccination programs in children and adults in Australia: a mathematical modelling study medRxiv",
+      "title_original": "Impact of expanded influenza vaccination programs in children and adults in Australia: a mathematical modelling study - medRxiv",
+      "summary_original": "Impact of expanded influenza vaccination programs in children and adults in Australia: a mathematical modelling study medRxiv",
+      "summary_ai_original": "Impact of expanded influenza vaccination programs in children and adults in Australia: a mathematical modelling study medRxiv",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB2eExudWNwbXJkTGNNZDRCMDkyOHZQRmVNejdrd2lTYTZHaWhncEJJY1dzeURJMlRUMERBNXljVGN6Szlpckd4NjZSYjBMamFBNC1IT3BPR084aGtOaEI2Y3QydjM1UUVPYVJweERWcw?oc=5",
+      "source": "medRxiv vaccines",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-11-25T01:19:09+00:00",
+      "topics": [
+        "policy",
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "オーストラリア",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "medRxiv"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "medRxiv"
+        },
+        "target": {
+          "key": "australia",
+          "name_ja": "オーストラリア",
+          "lat": -35.2809,
+          "lng": 149.13,
+          "region": "Oceania",
+          "label": "オーストラリア"
+        }
+      },
+      "location": {
+        "key": "australia",
+        "name_ja": "オーストラリア",
+        "lat": -35.2809,
+        "lng": 149.13,
+        "region": "Oceania",
+        "label": "オーストラリア"
+      },
+      "region": "Oceania",
+      "country": "オーストラリア",
+      "lat": -35.2809,
+      "lng": 149.13,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "medRxiv vaccines"
+      ],
+      "first_seen_at": "2026-11-25T01:19:09+00:00",
+      "last_seen_at": "2026-11-25T04:07:30.007414+00:00"
+    },
+    {
+      "id": "87cbf25e11c01083",
+      "title": "Estimating timing of pre-emptive livestock vaccination to prevent human Rift Valley fever spillover in Rwanda: a modelling study - medRxiv",
+      "summary": "Estimating timing of pre-emptive livestock vaccination to prevent human Rift Valley fever spillover in Rwanda: a modelling study medRxiv",
+      "summary_ai": "Estimating timing of pre-emptive livestock vaccination to prevent human Rift Valley fever spillover in Rwanda: a modelling study medRxiv",
+      "title_original": "Estimating timing of pre-emptive livestock vaccination to prevent human Rift Valley fever spillover in Rwanda: a modelling study - medRxiv",
+      "summary_original": "Estimating timing of pre-emptive livestock vaccination to prevent human Rift Valley fever spillover in Rwanda: a modelling study medRxiv",
+      "summary_ai_original": "Estimating timing of pre-emptive livestock vaccination to prevent human Rift Valley fever spillover in Rwanda: a modelling study medRxiv",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1YjlaYmxUSnVoYzZybzl0ZVZKMFQtZWpQZW1IQ1U0WS1xNzQ1eHFXY2VHd1pjOUVwOUxlT2FfeTJfMjhfZzE2Q3BMX1BIdUxDZWtBLTB6Z2VjUXg5elRDY28yZ21Wd0ZPLWZ2ZnVEWQ?oc=5",
+      "source": "medRxiv vaccines",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-11-25T00:19:07+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "ルワンダ",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "medRxiv"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "medRxiv"
+        },
+        "target": {
+          "key": "rwanda",
+          "name_ja": "ルワンダ",
+          "lat": -1.9441,
+          "lng": 30.0619,
+          "region": "Africa",
+          "label": "ルワンダ"
+        }
+      },
+      "location": {
+        "key": "rwanda",
+        "name_ja": "ルワンダ",
+        "lat": -1.9441,
+        "lng": 30.0619,
+        "region": "Africa",
+        "label": "ルワンダ"
+      },
+      "region": "Africa",
+      "country": "ルワンダ",
+      "lat": -1.9441,
+      "lng": 30.0619,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "medRxiv vaccines"
+      ],
+      "first_seen_at": "2026-11-25T00:19:07+00:00",
+      "last_seen_at": "2026-11-25T04:07:30.007423+00:00"
+    },
+    {
+      "id": "a12afd2a4cf8d93a",
+      "title": "MHRA sets out regulatory approach to next generation innovation",
+      "summary": "A round-up of the agency's announcements during London Life Sciences Week 2026, including at the inaugural DIA-MHRA Global Summit.",
+      "summary_ai": "Across London Life Sciences Week, we have shown how the MHRA is changing the way we work: engaging earlier with innovators, giving greater regulatory clarity and working with trusted international partners to tackle shared challenges. That is good for patients, good for innovation and good for the UK’s position as a gl",
+      "title_original": "MHRA sets out regulatory approach to next generation innovation",
+      "summary_original": "A round-up of the agency's announcements during London Life Sciences Week 2026, including at the inaugural DIA-MHRA Global Summit.",
+      "summary_ai_original": "Across London Life Sciences Week, we have shown how the MHRA is changing the way we work: engaging earlier with innovators, giving greater regulatory clarity and working with trusted international partners to tackle shared challenges. That is good for patients, good for innovation and good for the UK’s position as a gl",
+      "article_text_original": "MHRA sets out regulatory approach to next generation innovation A round-up of the agency's announcements during London Life Sciences Week 2026, including at the inaugural DIA-MHRA Global Summit. London Life Sciences Week is a collaborative effort, connecting over 5000 attendees at over 100 events across the capital. It is co-produced by London & Partners and the BioIndustry Association and supported by the Office for Life Sciences, Office for Investment and the Medicines and Healthcare products Regulatory Agency. Jefferies is the platinum sponsor. During London Life Sciences Week 2026, the Medicines and Healthcare products Regulatory Agency (MHRA) has announced a package of new initiatives. These are designed to give innovators earlier support, anticipate the scientific and regulatory challenges of emerging technologies, and strengthen the UK’s environment for developing new medicines and healthcare products. Many of the announcements were made at the inaugural DIA-MHRA Global Summit, held in London on 16 and 17 November. The MHRA and the Drug Information Association (DIA) hosted the summit jointly. It brought together international regulators, industry leaders, researchers, healthcare professionals and patient representatives to explore how global collaboration can support innovation and help it reach patients faster. Across women’s health, clinical research, AI, manufacturing, advanced therapeutics and rare disease, the week showed how better regulation means better evidence, clearer routes for innovators and greater potential for patient benefit. MHRA Chief Executive Lawrence Tallon said: “Science and technology are moving quickly, and regulation needs to anticipate what is coming rather than simply respond to it. Across London Life Sciences Week, we have shown how the MHRA is changing the way we work: engaging earlier with innovators, giving greater regulatory clarity and working with trusted international partners to tackle shared challenges. Our aim is simple: to maintain high standards of safety while creating the conditions in which promising new medicines and technologies can be developed, tested and reach patients sooner. That is good for patients, good for innovation and good for the UK’s position as a global life sciences leader.” Closing evidence gaps in women’s health On 16 November, the MHRA launched a new Women’s Health Programme. It aims to support innovation in women’s health and to improve understanding of how the risks and benefits of medicines and medical devices may differ for women. Women make up 51% of the population but have historically been underrepresented in clinical research. An MHRA analysis of all 4,616 UK clinical trial applications submitted between 2019 and 2023 found that pregnant women were represented in just 1.1% of trials, and breastfeeding women in 0.6%. The programme will bring together patients, researchers, healthcare professionals and industry to strengthen the available evidence, while maintaining the MHRA’s standards of safety, quality and effectiveness. It was shaped by patients, including through the MHRA’s Patient and Public Community and a focus group delivered by the Patients Association. Read more: MHRA launches new programme to tackle evidence gaps on women’s health The UK-Singapore Regulatory Innovation Corridor goes live The UK-Singapore Regulatory Innovation Corridor has entered its first live phase. The MHRA and Singapore’s Health Sciences Authority (HSA) are working together with Apriori Bio, a Flagship Pioneering company, on an AI-enabled approach to selecting influenza vaccine antigens. The aim is to better predict how influenza viruses will evolve and to inform vaccines that offer broader and longer-lasting protection. Earlier, coordinated engagement between two trusted regulators can help address scientific and regulatory questions about emerging technologies sooner. Each authority keeps its own responsibilities and standards. Experience from this initial phase will inform its future development, with a view to broaden participation from 2027. Modernising the regulation of gene therapies On 19 November, the government published its response to the consultation on the regulation of gene therapy medicinal products. The consultation was led jointly by the MHRA and the Department of Health in Northern Ireland. The response confirms plans to modernise the legal definition of gene therapy medicinal products so that certain synthetic gene therapies and novel genome-editing treatments can be regulated under the UK’s established advanced therapies framework. The proposals were supported by 83% of respondents. The changes will give developers greater certainty about how their medicines are classified and what regulatory requirements apply. The existing approval process and the standards for safety, quality and efficacy will not change, and medicines that are already licensed will not need to be reclassified. The changes are subject to international notification procedures and parliamentary approval. They will amend the Human Medicines Regulations 2012. MHRA Executive Director Operations, Julian Beach, said: “Scientific advances are opening up new possibilities for innovative gene therapies, and it is important that regulation keeps pace. By providing greater certainty for developers, we can help attract investment, strengthen the UK’s position as a leader in life sciences and support the development of potentially life-saving new treatments for patients.” Read more: Government backs modernisation of gene therapy definitions - GOV.UK AdvanceGxP: earlier support for advanced manufacturing On 18 November, Science, Innovation and Investment Minister Chris McDonald MP announced a new MHRA service, AdvanceGxP, in his closing speech at the summit. AdvanceGxP will give developers earlier practical support on how Good Practice standards apply to new manufacturing technologies. These include personalised treatments made at or near hospitals and clinics, manufacturing in space, and the use of AI, robotics and automation. The MHRA has secured funding from the Office for Life Sciences to recruit a specialist team and develop and test the service, which will initially focus on advanced manufacturing. The MHRA’s Chief Executive, Lawrence Tallon, said: “We want the UK to be a place where the next generation of innovative medicines can be developed and made. Giving developers practical support earlier can help solve problems before they cause delays, build confidence to invest and make it easier for promising new approaches to grow and scale here.” Read more: New MHRA service to support medicines innovation and strengthen UK manufacturing - GOV.UK A significant step forward for international regulatory collaboration : ACCESS The Access Consortium, which brings together the regulators of Australia, Canada, Singapore, Switzerland and the UK, has agreed to use a new Trusted Regulatory Space. This is a secure platform that will allow closer and more efficient work-sharing between the five authorities. At their meeting in London during the week, the Access Heads of Agencies also endorsed plans to strengthen work-sharing procedures for new active substances, building on growing collaboration and industry engagement in 2026. Work-sharing helps regulators to reduce duplication and address common challenges together. Each authority keeps its own responsibilities and standards and makes its own decisions on whether to authorise a medicine in its own country. The MHRA holds the Access Chair for 2026 and will hand it to Australia’s Therapeutic Goods Administration (TGA) in 2027. MHRA Chief Executive and Access Chair for 2026, Lawrence Tallon, said: “Access is moving from ambition into practical delivery. By reducing unnecessary duplication and increasing regulatory cooperation, we support faster access to safe and effective medicines for patients, as set out in our Growth Manifesto.”] Professor Tony Lawler, Head of the TGA and incoming Access Chair for 2027, said: “International collaboration between regulators is increasingly important as we respond to a rapidly evolving global medicines environment. I look forward to building on this strong foundation and continuing to strengthen practical cooperation across our five agencies.” International cooperation: Saudi Arabia The MHRA and the Saudi Food and Drug Authority (SFDA) have signed a Memorandum of Understanding (MoU) to strengthen their regulatory partnership. The MoU was signed at the DIA-MHRA Global Summit by MHRA Chief Executive Lawrence Tallon and His Excellency Prof Hisham Saad Aldjadhey, Chief Executive Officer of the SFDA. The MoU provides a framework for closer cooperation, including exchanging regulatory and scientific information and expertise, and technical capacity building. It covers medicines, biologics, medical devices, advanced therapies and other products within the two regulators’ remits. The two organisations have also identified an initial programme of work. This includes rare diseases, AI-enabled medical devices, pharmacopoeia and regulatory standards, and regulatory science. On rare diseases, the MHRA and SFDA intend to explore a joint white paper, which will consider how the UK’s and Saudi Arabia’s complementary strengths in areas including genomics, clinical research and healthcare data could support the development of therapies for conditions affecting small and dispersed patient populations. Working together helps regulators learn from one another, keep pace with fast-moving science and technology, and find ways to make regulation more efficient while maintaining robust standards. The MoU is a framework for cooperation and is not legally binding. Each authority keeps its own responsibilities and standards. What this means for innovators The MHRA is creating opportunities for earlier engagement and clearer regulatory support as new technologies emerge. Innovators developing eligible technologies can follow the progress of the programmes above and explore the relevant routes as they become available. By combining scientific expertise with international collaboration, the MHRA is working to anticipate what is coming and to help promising innovation translate into benefits for patients.",
+      "link": "https://www.gov.uk/government/news/mhra-sets-out-regulatory-approach-to-next-generation-innovation",
+      "source": "MHRA",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 8,
+      "published_at": "2026-11-24T15:02:39+00:00",
+      "topics": [
+        "policy",
+        "research"
+      ],
+      "policy_tags": [
+        "approval",
+        "communication",
+        "financing",
+        "safety"
+      ],
+      "vaccines": [
+        "influenza"
+      ],
+      "variants": [],
+      "target_country": "シンガポール",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "MHRA / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "MHRA / London"
+        },
+        "target": {
+          "key": "singapore",
+          "name_ja": "シンガポール",
+          "lat": 1.3521,
+          "lng": 103.8198,
+          "region": "Asia",
+          "label": "シンガポール"
+        }
+      },
+      "location": {
+        "key": "singapore",
+        "name_ja": "シンガポール",
+        "lat": 1.3521,
+        "lng": 103.8198,
+        "region": "Asia",
+        "label": "シンガポール"
+      },
+      "region": "Asia",
+      "country": "シンガポール",
+      "lat": 1.3521,
+      "lng": 103.8198,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "MHRA"
+      ],
+      "first_seen_at": "2026-11-24T15:02:39+00:00",
+      "last_seen_at": "2026-11-25T04:07:30.007427+00:00"
+    },
+    {
+      "id": "5e90cc9f5d3daaf1",
+      "title": "CPHIA 2026 Opens with Focus on Health Sovereignty and Action",
+      "summary": "Addis Ababa, Ethiopia, 23 November 2026 – African Heads of State and Government gathered to open the Fifth International Conference on Public Health in Africa (CPHIA 2026), calling for greater domestic investment, national ownership and accountability to advance the continent’s health security and sovereignty. Co-hosted by the Africa Centres for Disease Control and Prevention (Africa […] The post CPHIA 2026 Opens with Focus on Health Sovereignty and Action appeared first on Africa CDC .",
+      "summary_ai": "Addis Ababa, Ethiopia, 23 November 2026 – African Heads of State and Government gathered to open the Fifth International Conference on Public Health in Africa (CPHIA 2026), calling for greater domestic investment, national ownership and accountability to advance the continent’s health security and sovereignty. Running",
+      "title_original": "CPHIA 2026 Opens with Focus on Health Sovereignty and Action",
+      "summary_original": "Addis Ababa, Ethiopia, 23 November 2026 – African Heads of State and Government gathered to open the Fifth International Conference on Public Health in Africa (CPHIA 2026), calling for greater domestic investment, national ownership and accountability to advance the continent’s health security and sovereignty. Co-hosted by the Africa Centres for Disease Control and Prevention (Africa […] The post CPHIA 2026 Opens with Focus on Health Sovereignty and Action appeared first on Africa CDC .",
+      "summary_ai_original": "Addis Ababa, Ethiopia, 23 November 2026 – African Heads of State and Government gathered to open the Fifth International Conference on Public Health in Africa (CPHIA 2026), calling for greater domestic investment, national ownership and accountability to advance the continent’s health security and sovereignty. Running",
+      "article_text_original": "Addis Ababa, Ethiopia, 23 November 2026 – African Heads of State and Government gathered to open the Fifth International Conference on Public Health in Africa (CPHIA 2026), calling for greater domestic investment, national ownership and accountability to advance the continent’s health security and sovereignty. Co-hosted by the Africa Centres for Disease Control and Prevention (Africa CDC) and the Government of Ethiopia, the conference opened at the Addis International Convention Centre (AICC). Highlights included the launch of the African Union Champions’ Roadmap on reproductive, maternal and child health, the presentation of the Artificial Intelligence and Digital Health Championship, and recognition of outstanding contributions to public health. The opening brought together H.E. Abiy Ahmed Ali (PhD), the Prime Minister of the Federal Democratic Republic of Ethiopia; H.E. Évariste Ndayishimiye, the President of the Republic of Burundi and Chairperson of the African Union; H.E. Samia Suluhu Hassan, the President of the United Republic of Tanzania; H.E. Dr Julius Maada Bio, the President of the Republic of Sierra Leone; H.E. Mahmoud Ali Youssouf, the Chairperson of the African Union Commission; and H.E. Dr Jean Kaseya, the Africa CDC Director General, alongside ministers, senior government representatives, public health leaders and partners. Running from 23 to 27 November under the theme “Africa’s Health Security and Sovereignty: Transformation from Health Dependency and Vulnerability to Ownership and Resilience,” the conference comes amid declining external health financing and persistent public health threats, underscoring the need for stronger national institutions and sustainable health financing. Africa CDC calls for greater African ownership In his welcome address, Dr. Jean Kaseya emphasised the responsibilities that accompany health sovereignty, including good governance and accountability. “CPHIA is not a conference. CPHIA is a movement, a movement for Africa’s security and sovereignty. We in Africa understood that sovereignty is coming with responsibility. Responsibility is coming with good governance, trust and accountability,” he said. This year’s conference coincides with a decade of Africa CDC’s work in advancing continental public health cooperation, supporting Member States in disease surveillance, emergency preparedness and response, workforce development and regional coordination. Advancing maternal and child health The opening featured the launch of the African Union Champions’ Continental Roadmap on Reproductive, Maternal, Newborn, Child and Adolescent Health (RMNCAH) 2026–2030, championed by President Hassan.The roadmap seeks to accelerate progress towards three objectives, known as the Three Zeros: zero home deliveries, zero preventable maternal and newborn deaths, and zero unvaccinated children. “The success of this roadmap will depend on effective national implementation, and I therefore call upon all African Union Member States to designate empowered national focal points and integrate the Three Zeros into their existing national health strategies,” President Hassan said. She called for expanded access to skilled, respectful maternity care and routine childhood vaccination, particularly in underserved communities. Drawing on Tanzania’s experience in strengthening health infrastructure and services, she announced an initial commitment of 60 scholarships for specialised training in midwifery, anaesthesia, obstetrics and gynaecology and neonatal care, alongside shorter competency-based training opportunities. Artificial intelligence and digital health Ethiopia, under H.E Prime Minister Dr Abiy Ahmed, presented its African Union Artificial Intelligence and Digital Health Championship, promoting African-led innovation, connected health systems and responsible health data use. A documentary showcased Ethiopia’s investments in digital public infrastructure, electronic health records, community-level digital health systems and artificial intelligence capabilities. Dr Abiy highlighted how technology could improve access to specialist care and overcome geographical and workforce constraints. “A midwife in a remote district should be able to consult a specialist when complications arise. A doctor in a regional hospital should be able to share an image for expert review. And a patient’s medical record should follow them securely from one facility to the next. Distance should no longer mean working alone,” he said. Dr Abiy called for greater investment in African research institutions, laboratories, professional training and locally developed technologies. He also identified three priorities for continental cooperation: establishing centres of medical excellence, strengthening collective purchasing of African-produced medicines and health products, and improving accountability for implementation. Sierra Leone reports progress on maternal and child health President Bio presented results from Sierra Leone’s national campaign to reduce preventable maternal and child deaths and reach children who have missed routine vaccination. Under the campaign, the Ministry of Health, hospitals and district teams conduct weekly reviews of maternal and child deaths to identify contributing factors, assign corrective actions and monitor progress. President Bio reported that maternal deaths had declined by about 34% and child deaths by 12% compared with the corresponding period of the previous year. The campaign had also reached 10,764 previously unvaccinated children, exceeding its target. However, progress remains uneven, particularly in Freetown, where maternal deaths have increased and delays in referral and emergency care persist. The President stressed the need to strengthen emergency obstetric care, improve ambulance referrals and ensure that health facilities have trained personnel, blood supplies and essential medicines. He reaffirmed Sierra Leone’s commitment to increasing domestic health financing through its national health compact and offered to share the country’s emergency response expertise, drawing on lessons from the 2014 Ebola outbreak. Dr Bio also invited African leaders and health teams to learn from Sierra Leone’s weekly accountability reviews. African Union urges greater domestic investment H.E Mahmoud Ali Youssouf, African Union Commission Chairperson called for renewed efforts to meet the Abuja Declaration target of allocating at least 15% of national budgets to health, alongside greater efficiency and accountability in public spending. He emphasised the need to accelerate local pharmaceutical and vaccine manufacturing, invest in African research and innovation, and strengthen the African Medicines Agency, while leveraging the African Continental Free Trade Area and pooled procurement to develop continental health industries. Other priorities included strengthening disease surveillance, early-warning systems, emergency preparedness and the health workforce. The Chairperson stressed that these commitments must translate into better access to vaccines, quality maternal healthcare and timely, affordable treatment. Recognising contributions to public health The opening ceremony honoured African political leaders, scientists and global health partners for their contributions to public health. Presidential Awards for Health Transformation were presented to President Ndayishimiye, as well as Presidents João Lourenço of Angola, John Dramani Mahama of Ghana, Netumbo Nandi-Ndaitwah of Namibia and Dr Bio. Cameroonian scientist Professor Rose Gana Fomban Leke of the University of Yaoundé received the Distinguished Scientist Award for her contributions to malaria research and immunisation. Extraordinary Global Health Leadership Awards went to Dr Sania Nishtar of Gavi, Dr Richard Hatchett of the Coalition for Epidemic Preparedness Innovations (CEPI) and Dr Philippe Duneton of Unitaid, recognising their contributions to vaccine access, epidemic preparedness and equitable access to essential health technologies. ### About Africa CDC Africa CDC is the public health agency of the African Union. As an autonomous institution, Africa CDC supports AU Member States in strengthening health systems, improving disease surveillance, and enhancing emergency preparedness and response. For more information, visit: http://www.africacdc.org and follow Africa CDC on LinkedIn, X, Facebook, and YouTube. Media enquiries: Directorate of Communications and Public Information, Africa CDC | Email: communications@africacdc.org",
+      "link": "https://africacdc.org/news-item/cphia-2026-opens-with-focus-on-health-sovereignty-and-action/",
+      "source": "Africa CDC News",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 8,
+      "published_at": "2026-11-24T07:38:30+00:00",
+      "topics": [
+        "communication",
+        "policy",
+        "research"
+      ],
+      "policy_tags": [
+        "communication",
+        "financing",
+        "outbreak_response"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "エチオピア",
+      "source_location": {
+        "key": "ethiopia",
+        "name_ja": "エチオピア",
+        "lat": 8.9806,
+        "lng": 38.7578,
+        "region": "Africa",
+        "label": "Africa CDC / Addis Ababa"
+      },
+      "plot": {
+        "source": {
+          "key": "ethiopia",
+          "name_ja": "エチオピア",
+          "lat": 8.9806,
+          "lng": 38.7578,
+          "region": "Africa",
+          "label": "Africa CDC / Addis Ababa"
+        },
+        "target": {
+          "key": "ethiopia",
+          "name_ja": "エチオピア",
+          "lat": 8.9806,
+          "lng": 38.7578,
+          "region": "Africa",
+          "label": "エチオピア"
+        }
+      },
+      "location": {
+        "key": "ethiopia",
+        "name_ja": "エチオピア",
+        "lat": 8.9806,
+        "lng": 38.7578,
+        "region": "Africa",
+        "label": "エチオピア"
+      },
+      "region": "Africa",
+      "country": "エチオピア",
+      "lat": 8.9806,
+      "lng": 38.7578,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Africa CDC News"
+      ],
+      "first_seen_at": "2026-11-24T07:38:30+00:00",
+      "last_seen_at": "2026-11-25T04:07:30.007429+00:00"
+    },
     {
       "id": "ee61c320e40f7087",
       "title": "The Impact on Clinicians of Recent Changes to the U.S. Immunization Schedule - medRxiv",
@@ -73,6 +356,75 @@
       ],
       "first_seen_at": "2026-11-24T01:57:04+00:00",
       "last_seen_at": "2026-11-24T05:18:15.241544+00:00"
+    },
+    {
+      "id": "6f75a6c8a81e8d38",
+      "title": "The enlarging scope and globalization of vaccine hesitancy",
+      "summary": "The enlarging scope and globalization of vaccine hesitancy",
+      "summary_ai": "The enlarging scope and globalization of vaccine hesitancy",
+      "title_original": "The enlarging scope and globalization of vaccine hesitancy",
+      "summary_original": "The enlarging scope and globalization of vaccine hesitancy",
+      "summary_ai_original": "The enlarging scope and globalization of vaccine hesitancy",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUbzhnUjNzOHRLbzRqV0FPcDNtVklBdmRtblJCSkVLNTdQNHVyNjNkdnJnS1lrZEgxbzJvODgyRXhQMWw5dEZzSFFPMTcwMllUcmNyT3ZPOVBnMm1wVW5Z?oc=5",
+      "source": "Nature News Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 5,
+      "published_at": "2026-11-23T21:11:03+00:00",
+      "topics": [
+        "communication"
+      ],
+      "policy_tags": [
+        "communication"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Nature News"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Nature News"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Nature News Vaccines / Immunization"
+      ],
+      "first_seen_at": "2026-11-23T16:19:47+00:00",
+      "last_seen_at": "2026-11-25T04:07:30.007438+00:00"
     },
     {
       "id": "3c43bca18fbcc24f",
@@ -144,75 +496,6 @@
       "last_seen_at": "2026-11-24T05:18:15.241560+00:00"
     },
     {
-      "id": "6f75a6c8a81e8d38",
-      "title": "The enlarging scope and globalization of vaccine hesitancy",
-      "summary": "The enlarging scope and globalization of vaccine hesitancy",
-      "summary_ai": "The enlarging scope and globalization of vaccine hesitancy",
-      "title_original": "The enlarging scope and globalization of vaccine hesitancy",
-      "summary_original": "The enlarging scope and globalization of vaccine hesitancy",
-      "summary_ai_original": "The enlarging scope and globalization of vaccine hesitancy",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUbzhnUjNzOHRLbzRqV0FPcDNtVklBdmRtblJCSkVLNTdQNHVyNjNkdnJnS1lrZEgxbzJvODgyRXhQMWw5dEZzSFFPMTcwMllUcmNyT3ZPOVBnMm1wVW5Z?oc=5",
-      "source": "Nature News Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 5,
-      "published_at": "2026-11-23T16:19:47+00:00",
-      "topics": [
-        "communication"
-      ],
-      "policy_tags": [
-        "communication"
-      ],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "Nature News"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "Nature News"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Nature News Vaccines / Immunization"
-      ],
-      "first_seen_at": "2026-11-23T16:19:47+00:00",
-      "last_seen_at": "2026-11-24T05:18:15.241563+00:00"
-    },
-    {
       "id": "558aa72821ab3b00",
       "title": "ワクチンおよび関連生物由来製品諮問委員会の名簿",
       "summary": "これはワクチンおよび関連生物由来製品諮問委員会の名簿です。",
@@ -281,7 +564,7 @@
         "FDA Vaccines / Biologics"
       ],
       "first_seen_at": "2026-09-18T18:28:55+00:00",
-      "last_seen_at": "2026-11-24T05:18:15.241573+00:00"
+      "last_seen_at": "2026-11-25T04:07:30.007444+00:00"
     },
     {
       "id": "6edab4393f35d9de",
@@ -417,7 +700,7 @@
         "Clinical Infectious Diseases"
       ],
       "first_seen_at": "2026-11-21T06:51:24+00:00",
-      "last_seen_at": "2026-11-22T01:11:37.032328+00:00"
+      "last_seen_at": "2026-11-25T04:07:30.007450+00:00"
     },
     {
       "id": "1568132a2a080fd6",
@@ -491,7 +774,7 @@
         "PAHO News"
       ],
       "first_seen_at": "2026-11-20T22:38:03+00:00",
-      "last_seen_at": "2026-11-24T05:18:15.241581+00:00"
+      "last_seen_at": "2026-11-25T04:07:30.007457+00:00"
     },
     {
       "id": "03213382c22968f6",
@@ -694,7 +977,7 @@
         "The Lancet series"
       ],
       "first_seen_at": "2026-11-20T06:21:36+00:00",
-      "last_seen_at": "2026-11-21T02:09:29.484790+00:00"
+      "last_seen_at": "2026-11-25T04:07:30.007462+00:00"
     },
     {
       "id": "686d7b76c0d948a9",
@@ -828,7 +1111,7 @@
         "STAT Vaccines / Immunization"
       ],
       "first_seen_at": "2026-11-19T22:24:46+00:00",
-      "last_seen_at": "2026-11-23T01:36:19.659517+00:00"
+      "last_seen_at": "2026-11-25T04:07:30.007466+00:00"
     },
     {
       "id": "8f411a504c4bca17",
@@ -1174,7 +1457,7 @@
         "Washington Post Vaccines / Immunization"
       ],
       "first_seen_at": "2026-11-18T02:27:09+00:00",
-      "last_seen_at": "2026-11-24T05:18:15.241593+00:00"
+      "last_seen_at": "2026-11-25T04:07:30.007471+00:00"
     },
     {
       "id": "98d6ec3a72af5386",
@@ -1248,7 +1531,7 @@
         "PAHO News"
       ],
       "first_seen_at": "2026-11-17T15:47:24+00:00",
-      "last_seen_at": "2026-11-24T05:18:15.241601+00:00"
+      "last_seen_at": "2026-11-25T04:07:30.007475+00:00"
     },
     {
       "id": "c80084bca87df333",
@@ -1315,7 +1598,7 @@
         "Reuters Vaccines / Immunization"
       ],
       "first_seen_at": "2026-11-17T14:54:03+00:00",
-      "last_seen_at": "2026-11-24T05:18:15.241606+00:00"
+      "last_seen_at": "2026-11-25T04:07:30.007479+00:00"
     },
     {
       "id": "e3bb0488cdadfc28",
@@ -1391,7 +1674,7 @@
         "Africa CDC News"
       ],
       "first_seen_at": "2026-11-17T10:56:51+00:00",
-      "last_seen_at": "2026-11-24T05:18:15.241611+00:00"
+      "last_seen_at": "2026-11-25T04:07:30.007483+00:00"
     },
     {
       "id": "ab9ba5d08882e21e",
@@ -1529,7 +1812,7 @@
         "CIDRAP Vaccines & Immunization"
       ],
       "first_seen_at": "2026-11-16T21:42:08+00:00",
-      "last_seen_at": "2026-11-24T05:18:15.241615+00:00"
+      "last_seen_at": "2026-11-25T04:07:30.007487+00:00"
     },
     {
       "id": "29f7d4cfb87f9ee4",
@@ -1669,7 +1952,7 @@
         "Africa CDC News"
       ],
       "first_seen_at": "2026-11-15T08:24:03+00:00",
-      "last_seen_at": "2026-11-24T05:18:15.241620+00:00"
+      "last_seen_at": "2026-11-25T04:07:30.007491+00:00"
     },
     {
       "id": "fe385d9d992be86a",
@@ -1738,7 +2021,7 @@
         "Journal of Travel Medicine vaccines"
       ],
       "first_seen_at": "2026-11-14T08:00:00+00:00",
-      "last_seen_at": "2026-11-24T05:18:15.241624+00:00"
+      "last_seen_at": "2026-11-25T04:07:30.007496+00:00"
     },
     {
       "id": "77323dbe535181f2",
@@ -2080,7 +2363,7 @@
         "JAMA vaccines"
       ],
       "first_seen_at": "2026-11-12T22:23:14+00:00",
-      "last_seen_at": "2026-11-24T05:18:15.241630+00:00"
+      "last_seen_at": "2026-11-25T04:07:30.007500+00:00"
     },
     {
       "id": "a421260ec3a4d90a",
@@ -2287,7 +2570,7 @@
         "Eurosurveillance"
       ],
       "first_seen_at": "2026-11-12T15:55:27+00:00",
-      "last_seen_at": "2026-11-24T05:18:15.241633+00:00"
+      "last_seen_at": "2026-11-25T04:07:30.007505+00:00"
     },
     {
       "id": "236f462796ee802c",
@@ -2359,7 +2642,7 @@
         "CIDRAP Vaccines & Immunization"
       ],
       "first_seen_at": "2026-11-12T18:56:13+00:00",
-      "last_seen_at": "2026-11-24T05:18:15.241638+00:00"
+      "last_seen_at": "2026-11-25T04:07:30.007509+00:00"
     },
     {
       "id": "5da84ddc8bb58275",
@@ -2565,7 +2848,7 @@
         "PAHO News"
       ],
       "first_seen_at": "2026-11-11T19:45:07+00:00",
-      "last_seen_at": "2026-11-24T05:18:15.241644+00:00"
+      "last_seen_at": "2026-11-25T04:07:30.007514+00:00"
     },
     {
       "id": "7f8b67d085a90a87",
