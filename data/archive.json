@@ -1,10 +1,285 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-11-25T04:05:26.692229+00:00",
-  "archive_count": 668,
+  "generated_at": "2026-11-26T03:29:46.357483+00:00",
+  "archive_count": 672,
   "days_back": 14,
   "items": [
+    {
+      "id": "f2496b1a42635187",
+      "title": "Estimated Impacts of Rotavirus Vaccine Recommendation Changes in the U.S - Oxford Academic",
+      "summary": "Estimated Impacts of Rotavirus Vaccine Recommendation Changes in the U.S Oxford Academic",
+      "summary_ai": "Estimated Impacts of Rotavirus Vaccine Recommendation Changes in the U.S Oxford Academic",
+      "title_original": "Estimated Impacts of Rotavirus Vaccine Recommendation Changes in the U.S - Oxford Academic",
+      "summary_original": "Estimated Impacts of Rotavirus Vaccine Recommendation Changes in the U.S Oxford Academic",
+      "summary_ai_original": "Estimated Impacts of Rotavirus Vaccine Recommendation Changes in the U.S Oxford Academic",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNkxpeHNHN2Z5cUQ1eG1sU3JvTFZ1Z2lhWmVDT2lNYTk1M0J1ZXNvWUdxTzJvcEh6d0I0NHNrMFZvSXRTUDhnVGRpS3dKNzhpSHdSXzlHV0ZZWmlmNk1IMmhHN1RXcW5GTWZZMjRvTkxfTnU1SmNELW9PaG02LVhOYkdURHRoVWliLUdCTEFvRnMtVWJMNnc?oc=5",
+      "source": "Clinical Infectious Diseases",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-11-26T00:00:16+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [
+        "recommendation"
+      ],
+      "vaccines": [
+        "rotavirus"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "Clinical Infectious Diseases"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "Clinical Infectious Diseases"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 2,
+      "duplicate_sources": [
+        "Clinical Infectious Diseases",
+        "medRxiv vaccines"
+      ],
+      "first_seen_at": "2026-11-26T00:00:16+00:00",
+      "last_seen_at": "2026-11-26T03:31:22.719979+00:00"
+    },
+    {
+      "id": "b8ba3be7e68a7e7f",
+      "title": "Efficacy, Immunogenicity, and Safety of an Inactivated Bivalent EV-A71-CVA16 Vaccine in Children: A Randomized Phase 3 Trial - medRxiv",
+      "summary": "Efficacy, Immunogenicity, and Safety of an Inactivated Bivalent EV-A71-CVA16 Vaccine in Children: A Randomized Phase 3 Trial medRxiv",
+      "summary_ai": "Efficacy, Immunogenicity, and Safety of an Inactivated Bivalent EV-A71-CVA16 Vaccine in Children: A Randomized Phase 3 Trial medRxiv",
+      "title_original": "Efficacy, Immunogenicity, and Safety of an Inactivated Bivalent EV-A71-CVA16 Vaccine in Children: A Randomized Phase 3 Trial - medRxiv",
+      "summary_original": "Efficacy, Immunogenicity, and Safety of an Inactivated Bivalent EV-A71-CVA16 Vaccine in Children: A Randomized Phase 3 Trial medRxiv",
+      "summary_ai_original": "Efficacy, Immunogenicity, and Safety of an Inactivated Bivalent EV-A71-CVA16 Vaccine in Children: A Randomized Phase 3 Trial medRxiv",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE42SFhRbEVaR1F2Ql9CRExHRXBtWnBoejRtR2Q4MGkxbmIyZ085N2ZLSmRzX3ctY0pFa2wtblB6TlBOdzZ2UXdDd0RReGtQeFA4LUdPOXl1VUhvX3JuMmhEQjI5cTdnQ1p5a0t6YVp4MA?oc=5",
+      "source": "medRxiv vaccines",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-11-25T18:50:38+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [
+        "safety"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "medRxiv"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "medRxiv"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "medRxiv vaccines"
+      ],
+      "first_seen_at": "2026-11-25T18:50:38+00:00",
+      "last_seen_at": "2026-11-26T03:31:22.719987+00:00"
+    },
+    {
+      "id": "058f4d3fa63e3ae9",
+      "title": "Iron supplementation in iron-deficient Kenyan infants: a randomised controlled trial of vaccine immunogenicity",
+      "summary": "Iron supplementation in iron-deficient Kenyan infants: a randomised controlled trial of vaccine immunogenicity",
+      "summary_ai": "Iron supplementation in iron-deficient Kenyan infants: a randomised controlled trial of vaccine immunogenicity",
+      "title_original": "Iron supplementation in iron-deficient Kenyan infants: a randomised controlled trial of vaccine immunogenicity",
+      "summary_original": "Iron supplementation in iron-deficient Kenyan infants: a randomised controlled trial of vaccine immunogenicity",
+      "summary_ai_original": "Iron supplementation in iron-deficient Kenyan infants: a randomised controlled trial of vaccine immunogenicity",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wNWI5Q3c3MHZwSjVOSTduWXpkSDFUYkJkbVBTU0dyS3ZoYUJlY3pJbThFYVpsZDE0R2hxZGNtd0ZXVnJmWXlXTy1Rd3BUN2pFVUxuWF9mekR1eDQ3OEhZ?oc=5",
+      "source": "Nature News Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 5,
+      "published_at": "2026-11-25T14:59:31+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Nature News"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Nature News"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Nature News Vaccines / Immunization"
+      ],
+      "first_seen_at": "2026-11-25T14:59:31+00:00",
+      "last_seen_at": "2026-11-26T03:31:22.719990+00:00"
+    },
+    {
+      "id": "919cae8ddc0afeaa",
+      "title": "An intragastric murine model that recapitulates natural infection with invasive non-typhoidal Salmonella for preclinical evaluation of vaccine immunogenicity and protection. - bioRxiv",
+      "summary": "An intragastric murine model that recapitulates natural infection with invasive non-typhoidal Salmonella for preclinical evaluation of vaccine immunogenicity and protection. bioRxiv",
+      "summary_ai": "An intragastric murine model that recapitulates natural infection with invasive non-typhoidal Salmonella for preclinical evaluation of vaccine immunogenicity and protection.",
+      "title_original": "An intragastric murine model that recapitulates natural infection with invasive non-typhoidal Salmonella for preclinical evaluation of vaccine immunogenicity and protection. - bioRxiv",
+      "summary_original": "An intragastric murine model that recapitulates natural infection with invasive non-typhoidal Salmonella for preclinical evaluation of vaccine immunogenicity and protection. bioRxiv",
+      "summary_ai_original": "An intragastric murine model that recapitulates natural infection with invasive non-typhoidal Salmonella for preclinical evaluation of vaccine immunogenicity and protection.",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yZnBzV2xJUi1UdDg4NVZJVWJpai1ITnBERGx0ZkFXdTdVN0ZfVkR1TDdUT2dWcXNjU3dMdTNJWll6em1CTjFoWC1oUzNiZzF5QjNfZjFzVnhBcVJCVkhCTHhwaFE0VnVzelh5Wg?oc=5",
+      "source": "bioRxiv vaccines",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-11-25T03:15:29+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "bioRxiv"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "bioRxiv"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "bioRxiv vaccines"
+      ],
+      "first_seen_at": "2026-11-25T03:15:29+00:00",
+      "last_seen_at": "2026-11-26T03:31:22.719993+00:00"
+    },
     {
       "id": "2b00d39f389c26a6",
       "title": "Impact of expanded influenza vaccination programs in children and adults in Australia: a mathematical modelling study - medRxiv",
@@ -213,7 +488,7 @@
         "MHRA"
       ],
       "first_seen_at": "2026-11-24T15:02:39+00:00",
-      "last_seen_at": "2026-11-25T04:07:30.007427+00:00"
+      "last_seen_at": "2026-11-26T03:31:22.720003+00:00"
     },
     {
       "id": "5e90cc9f5d3daaf1",
@@ -286,7 +561,7 @@
         "Africa CDC News"
       ],
       "first_seen_at": "2026-11-24T07:38:30+00:00",
-      "last_seen_at": "2026-11-25T04:07:30.007429+00:00"
+      "last_seen_at": "2026-11-26T03:31:22.720009+00:00"
     },
     {
       "id": "ee61c320e40f7087",
@@ -424,7 +699,7 @@
         "Nature News Vaccines / Immunization"
       ],
       "first_seen_at": "2026-11-23T16:19:47+00:00",
-      "last_seen_at": "2026-11-25T04:07:30.007438+00:00"
+      "last_seen_at": "2026-11-26T03:31:22.720014+00:00"
     },
     {
       "id": "3c43bca18fbcc24f",
@@ -496,6 +771,75 @@
       "last_seen_at": "2026-11-24T05:18:15.241560+00:00"
     },
     {
+      "id": "5da4cc51c5fa53b9",
+      "title": "免疫介在性炎症疾患患者における SARS-CoV-2 mRNAワクチンの有効性に対する免疫抑制療法の影響 - BMJ Open",
+      "summary": "免疫介在性炎症疾患患者における SARS-CoV-2 mRNAワクチンの有効性に対する免疫抑制療法の影響 BMJ Open",
+      "summary_ai": "免疫介在性炎症疾患患者における SARS-CoV-2 mRNAワクチンの有効性に対する免疫抑制療法の影響 BMJ Open",
+      "title_original": "Impact of immunosuppressive therapy on SARS- CoV- 2 mRNA vaccine effectiveness in patients with immune- mediated inflammatory diseases - BMJ Open",
+      "summary_original": "Impact of immunosuppressive therapy on SARS- CoV- 2 mRNA vaccine effectiveness in patients with immune- mediated inflammatory diseases BMJ Open",
+      "summary_ai_original": "Impact of immunosuppressive therapy on SARS- CoV- 2 mRNA vaccine effectiveness in patients with immune- mediated inflammatory diseases BMJ Open",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sTDJzVkVyamtLenduMEtQcVR6SWFtYUEwZnNEbXZWUk44UGtRR1U3UEpWQjBVSFF1UEZ2NEdwTGZJNWpOZ1dKYXdfQVVicWpCMjVHZmFxcVJqUF83WFR6MTM1dlFWS2p0QWJaaTBR?oc=5",
+      "source": "BMJ",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-11-23T13:40:32+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "covid"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BMJ / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BMJ / London"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "BMJ"
+      ],
+      "first_seen_at": "2026-03-06T01:51:01+00:00",
+      "last_seen_at": "2026-11-26T03:31:22.720021+00:00"
+    },
+    {
       "id": "558aa72821ab3b00",
       "title": "ワクチンおよび関連生物由来製品諮問委員会の名簿",
       "summary": "これはワクチンおよび関連生物由来製品諮問委員会の名簿です。",
@@ -564,7 +908,7 @@
         "FDA Vaccines / Biologics"
       ],
       "first_seen_at": "2026-09-18T18:28:55+00:00",
-      "last_seen_at": "2026-11-25T04:07:30.007444+00:00"
+      "last_seen_at": "2026-11-26T03:31:22.720027+00:00"
     },
     {
       "id": "6edab4393f35d9de",
@@ -774,7 +1118,7 @@
         "PAHO News"
       ],
       "first_seen_at": "2026-11-20T22:38:03+00:00",
-      "last_seen_at": "2026-11-25T04:07:30.007457+00:00"
+      "last_seen_at": "2026-11-26T03:31:22.720032+00:00"
     },
     {
       "id": "03213382c22968f6",
@@ -977,7 +1321,7 @@
         "The Lancet series"
       ],
       "first_seen_at": "2026-11-20T06:21:36+00:00",
-      "last_seen_at": "2026-11-25T04:07:30.007462+00:00"
+      "last_seen_at": "2026-11-26T03:31:22.720037+00:00"
     },
     {
       "id": "686d7b76c0d948a9",
@@ -1393,73 +1737,6 @@
       "last_seen_at": "2026-11-24T05:18:15.241587+00:00"
     },
     {
-      "id": "41f6a24fde265af0",
-      "title": "Leukemia vaccine passes key trial, adding to breakthrough year for cancer drugs - The Washington Post",
-      "summary": "Leukemia vaccine passes key trial, adding to breakthrough year for cancer drugs The Washington Post",
-      "summary_ai": "Leukemia vaccine passes key trial, adding to breakthrough year for cancer drugs The Washington Post",
-      "title_original": "Leukemia vaccine passes key trial, adding to breakthrough year for cancer drugs - The Washington Post",
-      "summary_original": "Leukemia vaccine passes key trial, adding to breakthrough year for cancer drugs The Washington Post",
-      "summary_ai_original": "Leukemia vaccine passes key trial, adding to breakthrough year for cancer drugs The Washington Post",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX2g0R1N2YjdZbGhhdmduT1VCa2RmZ0pScWhETjVaYTRUOUszXzRuYnM3SldxSWVuX0VnVG56TW5MVDdWM3ZQUEVDb3RKazJHVFBMYjMzWnhFdXFHRm5hSWpvRDdBYmF2aEhjNFNnZ2t2NjFsSk5RbnVYVEFldEg4RURQRDJpbnd5OVUteklQUGdaQi0tNEkzWV9vMzJoQ2hUQzY3SUJ6Qm9EcFkxdjZueW93a1ZzWndRUHBTNkJn?oc=5",
-      "source": "Washington Post Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-11-18T06:38:13+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "Washington Post"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "Washington Post"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Washington Post Vaccines / Immunization"
-      ],
-      "first_seen_at": "2026-11-18T02:27:09+00:00",
-      "last_seen_at": "2026-11-25T04:07:30.007471+00:00"
-    },
-    {
       "id": "98d6ec3a72af5386",
       "title": "PAHO urges countries to step up efforts to stop measles outbreaks and move towards elimination in the Americas",
       "summary": "PAHO urges countries to step up efforts to stop measles outbreaks and move towards elimination in the Americas Cristina Mitchell 17 Nov 2026",
@@ -1531,74 +1808,7 @@
         "PAHO News"
       ],
       "first_seen_at": "2026-11-17T15:47:24+00:00",
-      "last_seen_at": "2026-11-25T04:07:30.007475+00:00"
-    },
-    {
-      "id": "c80084bca87df333",
-      "title": "Sellas vaccine extends survival in blood cancer trial, shares surge - Reuters",
-      "summary": "Sellas vaccine extends survival in blood cancer trial, shares surge Reuters",
-      "summary_ai": "Sellas vaccine extends survival in blood cancer trial, shares surge Reuters",
-      "title_original": "Sellas vaccine extends survival in blood cancer trial, shares surge - Reuters",
-      "summary_original": "Sellas vaccine extends survival in blood cancer trial, shares surge Reuters",
-      "summary_ai_original": "Sellas vaccine extends survival in blood cancer trial, shares surge Reuters",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQa3FEUmx6RWVvS3AzWXBDaDZvTUdmdUo4RjlwWmlrdDEyYUxrNUxVVTFybndQRGExYVA5SWdmWndNZkJkR1pkcVdvdVVtX21qZjNsZUFfd0VnMnRTTjVRTEtVSGpsNHk5R0N5eHFxRlROQmpCYk1TdVl5bm9qZ1AySlVNN1lvUVZYb1FRUVdFWDVUZVJFcExyYWNVb3VQWjZNLXZSNGQyLW9TeEJqWTdWSFJ2eVd6R3VON29KclpPTEFBTk55akk2aQ?oc=5",
-      "source": "Reuters Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-11-17T14:54:03+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "Reuters"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "Reuters"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Reuters Vaccines / Immunization"
-      ],
-      "first_seen_at": "2026-11-17T14:54:03+00:00",
-      "last_seen_at": "2026-11-25T04:07:30.007479+00:00"
+      "last_seen_at": "2026-11-26T03:31:22.720043+00:00"
     },
     {
       "id": "e3bb0488cdadfc28",
@@ -1674,7 +1884,141 @@
         "Africa CDC News"
       ],
       "first_seen_at": "2026-11-17T10:56:51+00:00",
-      "last_seen_at": "2026-11-25T04:07:30.007483+00:00"
+      "last_seen_at": "2026-11-26T03:31:22.720048+00:00"
+    },
+    {
+      "id": "41f6a24fde265af0",
+      "title": "Leukemia vaccine passes key trial, adding to breakthrough year for cancer drugs - The Washington Post",
+      "summary": "Leukemia vaccine passes key trial, adding to breakthrough year for cancer drugs The Washington Post",
+      "summary_ai": "Leukemia vaccine passes key trial, adding to breakthrough year for cancer drugs The Washington Post",
+      "title_original": "Leukemia vaccine passes key trial, adding to breakthrough year for cancer drugs - The Washington Post",
+      "summary_original": "Leukemia vaccine passes key trial, adding to breakthrough year for cancer drugs The Washington Post",
+      "summary_ai_original": "Leukemia vaccine passes key trial, adding to breakthrough year for cancer drugs The Washington Post",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX2g0R1N2YjdZbGhhdmduT1VCa2RmZ0pScWhETjVaYTRUOUszXzRuYnM3SldxSWVuX0VnVG56TW5MVDdWM3ZQUEVDb3RKazJHVFBMYjMzWnhFdXFHRm5hSWpvRDdBYmF2aEhjNFNnZ2t2NjFsSk5RbnVYVEFldEg4RURQRDJpbnd5OVUteklQUGdaQi0tNEkzWV9vMzJoQ2hUQzY3SUJ6Qm9EcFkxdjZueW93a1ZzWndRUHBTNkJn?oc=5",
+      "source": "Washington Post Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-11-17T08:00:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "Washington Post"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "Washington Post"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Washington Post Vaccines / Immunization"
+      ],
+      "first_seen_at": "2026-11-18T02:27:09+00:00",
+      "last_seen_at": "2026-11-26T03:31:22.720057+00:00"
+    },
+    {
+      "id": "c80084bca87df333",
+      "title": "Sellas vaccine extends survival in blood cancer trial, shares surge - Reuters",
+      "summary": "Sellas vaccine extends survival in blood cancer trial, shares surge Reuters",
+      "summary_ai": "Sellas vaccine extends survival in blood cancer trial, shares surge Reuters",
+      "title_original": "Sellas vaccine extends survival in blood cancer trial, shares surge - Reuters",
+      "summary_original": "Sellas vaccine extends survival in blood cancer trial, shares surge Reuters",
+      "summary_ai_original": "Sellas vaccine extends survival in blood cancer trial, shares surge Reuters",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQa3FEUmx6RWVvS3AzWXBDaDZvTUdmdUo4RjlwWmlrdDEyYUxrNUxVVTFybndQRGExYVA5SWdmWndNZkJkR1pkcVdvdVVtX21qZjNsZUFfd0VnMnRTTjVRTEtVSGpsNHk5R0N5eHFxRlROQmpCYk1TdVl5bm9qZ1AySlVNN1lvUVZYb1FRUVdFWDVUZVJFcExyYWNVb3VQWjZNLXZSNGQyLW9TeEJqWTdWSFJ2eVd6R3VON29KclpPTEFBTk55akk2aQ?oc=5",
+      "source": "Reuters Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-11-17T08:00:00+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Reuters"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Reuters"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Reuters Vaccines / Immunization"
+      ],
+      "first_seen_at": "2026-11-17T14:54:03+00:00",
+      "last_seen_at": "2026-11-26T03:31:22.720052+00:00"
     },
     {
       "id": "ab9ba5d08882e21e",
@@ -2312,7 +2656,7 @@
       "source_type": "academic",
       "source_tier": "Tier 3",
       "source_priority": 9,
-      "published_at": "2026-11-12T22:23:14+00:00",
+      "published_at": "2026-11-12T20:39:30+00:00",
       "topics": [
         "policy"
       ],
@@ -2363,7 +2707,7 @@
         "JAMA vaccines"
       ],
       "first_seen_at": "2026-11-12T22:23:14+00:00",
-      "last_seen_at": "2026-11-25T04:07:30.007500+00:00"
+      "last_seen_at": "2026-11-26T03:31:22.720062+00:00"
     },
     {
       "id": "a421260ec3a4d90a",
@@ -2642,7 +2986,7 @@
         "CIDRAP Vaccines & Immunization"
       ],
       "first_seen_at": "2026-11-12T18:56:13+00:00",
-      "last_seen_at": "2026-11-25T04:07:30.007509+00:00"
+      "last_seen_at": "2026-11-26T03:31:22.720067+00:00"
     },
     {
       "id": "5da84ddc8bb58275",
@@ -2780,6 +3124,73 @@
       ],
       "first_seen_at": "2026-11-12T08:00:00+00:00",
       "last_seen_at": "2026-11-14T01:26:18.126884+00:00"
+    },
+    {
+      "id": "58101694c4de9a48",
+      "title": "Re-shaping Global Policy for Hexavalent Vaccines: A Strategic Imperative for Resilient and Sustainable Infant Immunization - SSRN eLibrary",
+      "summary": "Re-shaping Global Policy for Hexavalent Vaccines: A Strategic Imperative for Resilient and Sustainable Infant Immunization SSRN eLibrary",
+      "summary_ai": "Re-shaping Global Policy for Hexavalent Vaccines: A Strategic Imperative for Resilient and Sustainable Infant Immunization SSRN eLibrary",
+      "title_original": "Re-shaping Global Policy for Hexavalent Vaccines: A Strategic Imperative for Resilient and Sustainable Infant Immunization - SSRN eLibrary",
+      "summary_original": "Re-shaping Global Policy for Hexavalent Vaccines: A Strategic Imperative for Resilient and Sustainable Infant Immunization SSRN eLibrary",
+      "summary_ai_original": "Re-shaping Global Policy for Hexavalent Vaccines: A Strategic Imperative for Resilient and Sustainable Infant Immunization SSRN eLibrary",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5nVHJEWUZSYkJscVgyM05SLXlqTEtvTnVLQUk1SjBaNVdXdS1FYVY3MDBGVkt2SkJIRy1vZWtOUVBrM2VCcWZld3ZOSndRNGQtaHJDYzJOeDJ3S2VQM2ZOQnZTbXd4UXRtTjFR?oc=5",
+      "source": "SSRN vaccine preprints",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 6,
+      "published_at": "2026-11-12T08:00:00+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "SSRN"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "SSRN"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "SSRN vaccine preprints"
+      ],
+      "first_seen_at": "2026-11-12T08:00:00+00:00",
+      "last_seen_at": "2026-11-26T03:31:22.720070+00:00"
     },
     {
       "id": "3ebf3f03025e3196",
@@ -20845,75 +21256,6 @@
       "last_seen_at": "2026-08-13T21:59:55.626098+00:00"
     },
     {
-      "id": "5da4cc51c5fa53b9",
-      "title": "免疫介在性炎症疾患患者における SARS-CoV-2 mRNAワクチンの有効性に対する免疫抑制療法の影響 - BMJ Open",
-      "summary": "免疫介在性炎症疾患患者における SARS-CoV-2 mRNAワクチンの有効性に対する免疫抑制療法の影響 BMJ Open",
-      "summary_ai": "免疫介在性炎症疾患患者における SARS-CoV-2 mRNAワクチンの有効性に対する免疫抑制療法の影響 BMJ Open",
-      "title_original": "Impact of immunosuppressive therapy on SARS- CoV- 2 mRNA vaccine effectiveness in patients with immune- mediated inflammatory diseases - BMJ Open",
-      "summary_original": "Impact of immunosuppressive therapy on SARS- CoV- 2 mRNA vaccine effectiveness in patients with immune- mediated inflammatory diseases BMJ Open",
-      "summary_ai_original": "Impact of immunosuppressive therapy on SARS- CoV- 2 mRNA vaccine effectiveness in patients with immune- mediated inflammatory diseases BMJ Open",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sTDJzVkVyamtLenduMEtQcVR6SWFtYUEwZnNEbXZWUk44UGtRR1U3UEpWQjBVSFF1UEZ2NEdwTGZJNWpOZ1dKYXdfQVVicWpCMjVHZmFxcVJqUF83WFR6MTM1dlFWS2p0QWJaaTBR?oc=5",
-      "source": "BMJ",
-      "source_type": "academic",
-      "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-07-31T18:18:24+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "covid"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "BMJ / London"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "BMJ / London"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "BMJ"
-      ],
-      "first_seen_at": "2026-03-06T01:51:01+00:00",
-      "last_seen_at": "2026-08-13T21:59:55.626103+00:00"
-    },
-    {
       "id": "fc76bfda57ae0ecc",
       "title": "中国の生後6～71ヵ月の小児における二価EV71およびCA16不活化ワクチンの安全性と免疫原性：無作為化、二重盲検、実薬対照、第1/2相用量設定試験 - SSRN eLibrary",
       "summary": "中国の生後6～71ヵ月の小児における二価EV71およびCA16不活化ワクチンの安全性と免疫原性：無作為化、二重盲検、実薬対照、第1/2相用量設定試験 SSRN eLibrary",
@@ -36892,77 +37234,6 @@
       ],
       "first_seen_at": "2026-04-29T13:02:41+00:00",
       "last_seen_at": "2026-05-06T22:08:14.158444+00:00"
-    },
-    {
-      "id": "6cd4f3f8559c6102",
-      "title": "米国におけるロタウイルスワクチン推奨変更の推定影響 - medRxiv",
-      "summary": "米国におけるロタウイルスワクチン推奨変更の推定影響 medRxiv",
-      "summary_ai": "米国におけるロタウイルスワクチンの推奨変更による影響の推定",
-      "title_original": "Estimated Impacts of Rotavirus Vaccine Recommendation Changes in the U.S. - medRxiv",
-      "summary_original": "Estimated Impacts of Rotavirus Vaccine Recommendation Changes in the U.S. medRxiv",
-      "summary_ai_original": "Estimated Impacts of Rotavirus Vaccine Recommendation Changes in the U.S.",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54Y2tOZXBrQjBpTmdoNFpaY2tJVnE1bV8wTGhzdVJLeDhUZUdqVXg0aHMtQVZLRkJYQkp2dlU1NGFHMG1MbU4wcGVUa0xQVTdKdmxvU21BbW1oUmJsLXBZMUc5V3A5cHlwV09BYVljalhFV0RJZU56V1poTQ?oc=5",
-      "source": "medRxiv vaccines",
-      "source_type": "preprint",
-      "source_tier": "Tier 3",
-      "source_priority": 7,
-      "published_at": "2026-04-29T10:44:29+00:00",
-      "topics": [
-        "policy"
-      ],
-      "policy_tags": [
-        "recommendation"
-      ],
-      "vaccines": [
-        "rotavirus"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "medRxiv"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "medRxiv"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "medRxiv vaccines"
-      ],
-      "first_seen_at": "2026-04-29T10:44:29+00:00",
-      "last_seen_at": "2026-05-12T22:22:48.183564+00:00"
     },
     {
       "id": "af2c81d175fe57a9",
