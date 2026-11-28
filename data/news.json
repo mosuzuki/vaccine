@@ -1,9 +1,9 @@
 {
   "title": "ワクチン・予防接種ダッシュボード（試行版）",
   "description": "ワクチンの研究開発、予防接種政策、ワクチンコミュニケーションに関する最新情報をモニタリングするダッシュボード。",
-  "generated_at": "2026-11-27T03:36:05.444349+00:00",
-  "item_count": 17,
-  "archive_count": 674,
+  "generated_at": "2026-11-28T03:14:25.757096+00:00",
+  "item_count": 19,
+  "archive_count": 676,
   "days_back": 14,
   "plot_mode_default": "source",
   "feed_status": [
@@ -23,7 +23,7 @@
       "name": "CDC Newsroom",
       "url": "https://tools.cdc.gov/api/v2/resources/media/316422.rss",
       "status": "ok",
-      "seen": 7,
+      "seen": 8,
       "kept": 0
     },
     {
@@ -82,14 +82,14 @@
       "name": "PAHO News",
       "url": "https://www.paho.org/en/rss.xml",
       "status": "ok",
-      "seen": 8,
+      "seen": 7,
       "kept": 2
     },
     {
       "name": "The Lancet series",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Athelancet.com%20(trial%20OR%20policy%20OR%20effectiveness%20OR%20safety)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 7,
       "kept": 0
     },
     {
@@ -97,20 +97,21 @@
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Athelancet.com%2Fjournals%2Flaninf&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
       "seen": 1,
-      "kept": 1
+      "kept": 0
     },
     {
       "name": "NEJM",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Anejm.org%20(trial%20OR%20effectiveness%20OR%20policy%20OR%20safety)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 2,
       "kept": 0
     },
     {
       "name": "BMJ",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abmj.com%20(policy%20OR%20trial%20OR%20effectiveness%20OR%20communication)&hl=en-US&gl=GB&ceid=GB%3Aen",
-      "status": "error",
-      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abmj.com%20(policy%20OR%20trial%20OR%20effectiveness%20OR%20communication)&hl=en-US&gl=GB&ceid=GB%3Aen"
+      "status": "ok",
+      "seen": 4,
+      "kept": 1
     },
     {
       "name": "Vaccine journal",
@@ -158,14 +159,14 @@
       "name": "Nature Reviews Immunology vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Anature.com%2Fnri%20(review%20OR%20immunogenicity%20OR%20policy%20OR%20effectiveness)&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 1,
       "kept": 0
     },
     {
       "name": "Science vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ascience.org%2Fdoi%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20immunogenicity%20OR%20antibody)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 4,
       "kept": 0
     },
     {
@@ -193,28 +194,28 @@
       "name": "JAMA vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjama%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 8,
+      "seen": 4,
       "kept": 0
     },
     {
       "name": "JAMA Network Open vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjamanetworkopen%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 1,
+      "seen": 3,
       "kept": 0
     },
     {
       "name": "JAMA Internal Medicine vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%2Fjournals%2Fjamainternalmedicine%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
+      "seen": 1,
       "kept": 0
     },
     {
       "name": "Eurosurveillance",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Aeurosurveillance.org&hl=en-US&gl=EU&ceid=EU%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 2,
       "kept": 0
     },
     {
@@ -228,91 +229,91 @@
       "name": "medRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Amedrxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 0,
-      "kept": 0
+      "seen": 14,
+      "kept": 3
     },
     {
       "name": "bioRxiv vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20site%3Abiorxiv.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 4,
+      "seen": 2,
       "kept": 0
     },
     {
       "name": "CIDRAP Vaccines & Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization%20OR%20vaccination)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20confidence%20OR%20communication)%20site%3Acidrap.umn.edu&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 17,
-      "kept": 1
+      "seen": 24,
+      "kept": 0
     },
     {
       "name": "Reuters Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 19,
+      "seen": 47,
       "kept": 1
     },
     {
       "name": "AP Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aapnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 32,
+      "seen": 12,
       "kept": 0
     },
     {
       "name": "BBC Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Abbc.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 43,
+      "seen": 53,
       "kept": 0
     },
     {
       "name": "Financial Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Aft.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 11,
+      "seen": 14,
       "kept": 0
     },
     {
       "name": "STAT Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Astatnews.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 12,
-      "kept": 1
+      "seen": 2,
+      "kept": 0
     },
     {
       "name": "Nature News Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anature.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 22,
-      "kept": 3
+      "seen": 28,
+      "kept": 2
     },
     {
       "name": "Science Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Ascience.org&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
+      "seen": 7,
       "kept": 0
     },
     {
       "name": "New York Times Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Anytimes.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 20,
+      "seen": 16,
       "kept": 0
     },
     {
       "name": "Guardian Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Atheguardian.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 20,
+      "seen": 24,
       "kept": 0
     },
     {
       "name": "Washington Post Vaccines / Immunization",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20immunization)%20(policy%20OR%20schedule%20OR%20approval%20OR%20trial%20OR%20communication)%20site%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 20,
+      "seen": 9,
       "kept": 1
     },
     {
@@ -326,35 +327,35 @@
       "name": "日経 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Anikkei.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 21,
+      "seen": 6,
       "kept": 0
     },
     {
       "name": "朝日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Aasahi.com&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 10,
+      "seen": 6,
       "kept": 0
     },
     {
       "name": "読売新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Ayomiuri.co.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 51,
+      "seen": 32,
       "kept": 0
     },
     {
       "name": "毎日新聞 ワクチン / 予防接種",
       "url": "https://news.google.com/rss/search?q=(ワクチン%20OR%20予防接種)%20(政策%20OR%20承認%20OR%20接種%20OR%20スケジュール%20OR%20研究%20OR%20広報)%20site%3Amainichi.jp&hl=ja&gl=JP&ceid=JP%3Aja",
       "status": "ok",
-      "seen": 19,
+      "seen": 15,
       "kept": 0
     },
     {
       "name": "JAMA Network vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Ajamanetwork.com%20(effectiveness%20OR%20safety%20OR%20trial%20OR%20policy%20OR%20uptake)&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 3,
+      "seen": 13,
       "kept": 0
     },
     {
@@ -368,21 +369,20 @@
       "name": "Clinical Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fcid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 2,
-      "kept": 1
+      "seen": 5,
+      "kept": 2
     },
     {
       "name": "Journal of Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fjid&hl=en-US&gl=US&ceid=US%3Aen",
-      "status": "ok",
-      "seen": 3,
-      "kept": 1
+      "status": "error",
+      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fjid&hl=en-US&gl=US&ceid=US%3Aen"
     },
     {
       "name": "Open Forum Infectious Diseases",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fofid&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "seen": 4,
+      "seen": 0,
       "kept": 0
     },
     {
@@ -445,14 +445,15 @@
       "name": "Cochrane vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Acochranelibrary.com&hl=en-US&gl=GB&ceid=GB%3Aen",
       "status": "ok",
-      "seen": 0,
-      "kept": 0
+      "seen": 1,
+      "kept": 1
     },
     {
       "name": "Journal of Travel Medicine vaccines",
       "url": "https://news.google.com/rss/search?q=(vaccine%20OR%20vaccination%20OR%20immunization)%20site%3Aacademic.oup.com%2Fjtm&hl=en-US&gl=GB&ceid=GB%3Aen",
-      "status": "error",
-      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=(vaccine+OR+vaccination+OR+immunization)+site:academic.oup.com/jtm&hl=en-GB&gl=GB&ceid=GB:en"
+      "status": "ok",
+      "seen": 1,
+      "kept": 1
     },
     {
       "name": "SSRN vaccine preprints",
@@ -463,16 +464,225 @@
     }
   ],
   "weekly_ai_summary": {
-    "generated_at": "2026-11-27T03:36:05.444349+00:00",
+    "generated_at": "2026-11-28T03:14:25.757096+00:00",
     "period_days": 7,
     "policy_count": 5,
-    "academic_count": 3,
+    "academic_count": 7,
     "status": "ok",
     "model": "gpt-4o-mini",
-    "policy_summary": "MHRAは次世代のイノベーションに向けた規制アプローチを示し、早期のイノベーターとの関与や国際的なパートナーとの協力を強調しています。また、CPHIA 2026では、アフリカの健康安全保障と主権を進めるための国内投資の重要性が呼びかけられました。",
-    "academic_summary": "SARS-CoV-2ワクチンの外来患者に対する効果に関する推定が発表され、ロタウイルスワクチンの推奨変更の影響も評価されています。さらに、非チフス性サルモネラ病とチフスに対する三価ワクチン候補の安全性と免疫原性に関する臨床試験の結果が報告されました。"
+    "policy_summary": "アフリカの公衆衛生に関する第5回国際会議（CPHIA 2026）が開催され、スーダンの健康システムの回復や国内資金調達の強化が議題となった。MHRAは、イノベーションに対する規制アプローチを見直し、患者やイノベーションにとって有益な方向性を示した。",
+    "academic_summary": "次世代の生ワクチンに関する臨床試験が実施され、安全性と免疫原性が評価された。SARS-CoV-2ワクチンの効果や、米国におけるロタウイルスワクチンの推奨変更の影響についての研究も発表された。"
   },
   "items": [
+    {
+      "id": "d1b4645d96400bb2",
+      "title": "Uganda launches Africa's first trial of an mRNA Bundibugyo Ebola vaccine - Reuters",
+      "summary": "Uganda launches Africa's first trial of an mRNA Bundibugyo Ebola vaccine Reuters",
+      "summary_ai": "Uganda launches Africa's first trial of an mRNA Bundibugyo Ebola vaccine Reuters",
+      "title_original": "Uganda launches Africa's first trial of an mRNA Bundibugyo Ebola vaccine - Reuters",
+      "summary_original": "Uganda launches Africa's first trial of an mRNA Bundibugyo Ebola vaccine Reuters",
+      "summary_ai_original": "Uganda launches Africa's first trial of an mRNA Bundibugyo Ebola vaccine Reuters",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQ2VVd3Q2dmtEemNJeUY3RUwwaUF1VTc5cXRTaDdYdXB2SDZFczdaZTY0ZnlDUWI4MV9JSlZ1SjZmRkVzUFVRbXM0OWtwTWVMWXVjUUhHbXdxa2tORC15bENvNVBMT0M4WFZZWmx5QlFKOE1FS25iRWFMYnhSMmU2LWhQYVB2bDJ0djJhbjVYaHEzbGdzazhoSUFjbGdSVVFGd3NtQWl5M3VEYjBBU2lrX3VrMHdLSGg3SHZheWM0SXpkb08tc0MxdFhoMnZUdWp3TDVVNW1aRQ?oc=5",
+      "source": "Reuters Vaccines / Immunization",
+      "source_type": "media",
+      "source_tier": "Tier 2",
+      "source_priority": 7,
+      "published_at": "2026-11-27T16:12:45+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "ebola"
+      ],
+      "variants": [],
+      "target_country": "ウガンダ",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Reuters"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Reuters"
+        },
+        "target": {
+          "key": "uganda",
+          "name_ja": "ウガンダ",
+          "lat": 0.3476,
+          "lng": 32.5825,
+          "region": "Africa",
+          "label": "ウガンダ"
+        }
+      },
+      "location": {
+        "key": "uganda",
+        "name_ja": "ウガンダ",
+        "lat": 0.3476,
+        "lng": 32.5825,
+        "region": "Africa",
+        "label": "ウガンダ"
+      },
+      "region": "Africa",
+      "country": "ウガンダ",
+      "lat": 0.3476,
+      "lng": 32.5825,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Reuters Vaccines / Immunization"
+      ]
+    },
+    {
+      "id": "370c9ea84bf5d699",
+      "title": "CPHIA 2026 Closes in Addis Ababa: Africa Commits to Finance, Make and Lead its Own Health",
+      "summary": "The continent’s largest-ever public health gathering brought together Heads of State, all seven candidates for WHO Director-General and 29,000 participants from 135 countries, as governments committed new resources to health sovereignty and pledged to report back on delivery. Addis Ababa, 27 November 2026 – A commitment to prioritise the recovery of Sudan’s war-affected health system, […] The post CPHIA 2026 Closes in Addis Ababa: Africa Commits to Finance, Make and Lead its Own Health appeared first on Africa CDC .",
+      "summary_ai": "Addis Ababa, 27 November 2026 – A commitment to prioritise the recovery of Sudan’s war-affected health system, new domestic financing pledges, expanded pooled procurement agreements and investments in local manufacturing were among the key outcomes of the Fifth International Conference on Public Health in Africa (CPHIA",
+      "title_original": "CPHIA 2026 Closes in Addis Ababa: Africa Commits to Finance, Make and Lead its Own Health",
+      "summary_original": "The continent’s largest-ever public health gathering brought together Heads of State, all seven candidates for WHO Director-General and 29,000 participants from 135 countries, as governments committed new resources to health sovereignty and pledged to report back on delivery. Addis Ababa, 27 November 2026 – A commitment to prioritise the recovery of Sudan’s war-affected health system, […] The post CPHIA 2026 Closes in Addis Ababa: Africa Commits to Finance, Make and Lead its Own Health appeared first on Africa CDC .",
+      "summary_ai_original": "Addis Ababa, 27 November 2026 – A commitment to prioritise the recovery of Sudan’s war-affected health system, new domestic financing pledges, expanded pooled procurement agreements and investments in local manufacturing were among the key outcomes of the Fifth International Conference on Public Health in Africa (CPHIA",
+      "article_text_original": "The continent’s largest-ever public health gathering brought together Heads of State, all seven candidates for WHO Director-General and 29,000 participants from 135 countries, as governments committed new resources to health sovereignty and pledged to report back on delivery. Addis Ababa, 27 November 2026 – A commitment to prioritise the recovery of Sudan’s war-affected health system, new domestic financing pledges, expanded pooled procurement agreements and investments in local manufacturing were among the key outcomes of the Fifth International Conference on Public Health in Africa (CPHIA 2026), which concluded today in Addis Ababa. Co-hosted by the Africa Centres for Disease Control and Prevention (Africa CDC) and the Government of Ethiopia, the five-day conference outlined practical steps to reduce Africa’s dependence on external assistance, strengthen national health systems and increase the continent’s influence in global health governance. Over five days, 29,000 participants attended in person at the Addis International Convention Centre, and another 270,000 joined online from 135 countries. Delegates included 6 Heads of State and Government, 63 ministers, scientists, health workers, manufacturers, civil society, community leaders, young people and journalists. Five years after its first edition drew 2,500 participants online, CPHIA has become one of the largest public health conferences in the world. CPHIA 2026 convened as external health assistance declines and outbreaks, including the Ebola Bundibugyo outbreak in the Democratic Republic of Congo, continue to test the continent’s health systems. Under the theme “Africa’s Health Security and Sovereignty: Transformation from health dependency and vulnerability to ownership and resilience”, governments and partners moved from shared ambition to specific commitments on financing, manufacturing, preparedness and digital health. With Africa accounting for the largest number of disease outbreaks, Member States agreed to establish integrated climate-health early warning systems with predefined response triggers and contingency financing. Amid a rise in zoonotic infections – such as mpox, Ebola and Marburg – they also committed to institutionalising One Health coordination through shared laboratory infrastructure, genomic surveillance and cross-border data sharing. A year ahead of COP32 to be hosted by Ethiopia, Member States also resolved to pursue direct, grant-based climate adaptation financing for health ministries and develop a unified African negotiating position. Rebuilding Sudan’s health system emerged as a continental priority, with calls to restore essential services, protect health workers and rebuild disease surveillance despite the ongoing conflict. Health Minister Dr Haitham Mohammed Ibrahim appealed for support to close an annual funding gap of at least US$700 million over the next three years. Africa CDC reaffirmed its support for Sudan’s efforts to set up a functional emergency operations centre, rebuild laboratory and genomic sequencing capacity, and strengthen its health workforce. Africa sets the terms of the conversation The presidential dialogue brought together Heads of State and Government to set out how African governments will lead the shift from dependency to ownership. For the first time, all seven candidates seeking to become the next Director-General of the World Health Organization came to an African platform to engage the continent’s leaders on their vision for global health governance and Africa’s priorities. The session marked a shift in how Africa engages with global health governance: as a constituency that shapes the agenda, not one that waits to receive it. Key outcomes With external health assistance falling, financing dominated deliberations as governments set out how they will mobilise domestic resources, make better spending decisions and protect essential services. The Central African Republic committed to raise health’s share of its national budget from about 4% in 2026 to 10% by 2029, with expenditure reported every quarter. Ghana announced a US$1 billion investment over four years in pharmaceutical and biomanufacturing hubs. Sudan, South Sudan and Botswana signed the African Pooled Procurement Mechanism agreement, and Zimbabwe is completing its national processes to join. Five Southern African Development Community countries joined regional pooled procurement, which is projected to save an estimated US$200 million. Zambia broke ground on a cholera vaccine manufacturing facility, with fill-and-finish operations targeted within a year. Ghana authorised direct procurement of locally produced snake antivenom. Africa CDC and the African Medicines Agency will submit a continental quality assurance policy to the African Union in early 2027. With the Ebola Bundibugyo outbreak ongoing, Gavi announced an advance purchase commitment for up to 1.5 million doses of a Bundibugyo Ebola vaccine, conditional on Phase 3 trial results. The revised continental Ebola response plan requires an estimated US$1.576 billion over six months; the World Bank will lead its socio-economic protection component. Africa CDC also released the first continental public health intelligence report, which links data analysis to operational action, and launched a health law consortium with CEPI to help countries remove legal and regulatory barriers to emergency preparedness and response. Tanzanian President H.E. Samia Suluhu Hassan launched a continental roadmap targeting zero home deliveries, zero preventable maternal and newborn deaths and zero unvaccinated children, and Tanzania pledged 60 specialist scholarships. The Beginnings Fund announced US$665 million for maternal and newborn health across 14 African countries. Ethiopian Prime Minister H.E. Dr Abiy Ahmed launched a continental roadmap on artificial intelligence and digital health, and announced plans for an AI university in Ethiopia open to students from across Africa. The new Africa Health Atlas provides standardised, comparable health indicators for all 54 African countries to guide national planning and investment. Accountability ran through the conference. Africa CDC launched a mechanism to monitor implementation of the Lusaka Agenda, and Zambia committed to report on its progress at the next CPHIA. The UN Economic Commission for Africa offered technical support to countries restructuring their health budgets. Leaders called on governments and partners to align behind “one plan, one budget, one report”. Delegates agreed that the next conference with will review what has been delivered: resources mobilised, budgets executed, and measurable improvements in health services. – ENDS – Notes to editors - The full CPHIA 2026 conference outcomes report, with all commitments and announcements, is attached / available at The Addis Commitments – Africa CDC. ### About Africa CDC The Africa Centres for Disease Control and Prevention (Africa CDC) is the African Union’s autonomous public health agency. Established in 2016 and launched in 2017, it works with Member States to strengthen public health systems and improve disease prevention, preparedness and emergency response. Headquartered in Addis Ababa, it operates through five Regional Coordinating Centres. For more information, visit: http://www.africacdc.org and follow Africa CDC on LinkedIn, X, Facebook, and YouTube. Media enquiries: Directorate of Communications and Public Information, Africa CDC | Email: communications@africacdc.org",
+      "link": "https://africacdc.org/news-item/cphia-2026-closes-in-addis-ababa-africa-commits-to-finance-make-and-lead-its-own-health/",
+      "source": "Africa CDC News",
+      "source_type": "official",
+      "source_tier": "Tier 1",
+      "source_priority": 8,
+      "published_at": "2026-11-27T14:21:04+00:00",
+      "topics": [
+        "communication",
+        "policy",
+        "research"
+      ],
+      "policy_tags": [
+        "approval",
+        "communication",
+        "financing",
+        "outbreak_response"
+      ],
+      "vaccines": [
+        "cholera",
+        "ebola"
+      ],
+      "variants": [],
+      "target_country": "エチオピア",
+      "source_location": {
+        "key": "ethiopia",
+        "name_ja": "エチオピア",
+        "lat": 8.9806,
+        "lng": 38.7578,
+        "region": "Africa",
+        "label": "Africa CDC / Addis Ababa"
+      },
+      "plot": {
+        "source": {
+          "key": "ethiopia",
+          "name_ja": "エチオピア",
+          "lat": 8.9806,
+          "lng": 38.7578,
+          "region": "Africa",
+          "label": "Africa CDC / Addis Ababa"
+        },
+        "target": {
+          "key": "ethiopia",
+          "name_ja": "エチオピア",
+          "lat": 8.9806,
+          "lng": 38.7578,
+          "region": "Africa",
+          "label": "エチオピア"
+        }
+      },
+      "location": {
+        "key": "ethiopia",
+        "name_ja": "エチオピア",
+        "lat": 8.9806,
+        "lng": 38.7578,
+        "region": "Africa",
+        "label": "エチオピア"
+      },
+      "region": "Africa",
+      "country": "エチオピア",
+      "lat": 8.9806,
+      "lng": 38.7578,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Africa CDC News"
+      ]
+    },
+    {
+      "id": "655abb2ca5b4e6a4",
+      "title": "Safety and immunogenicity of a next-generation live-attenuated yellow fever vaccine produced in a Vero cell line in the USA: a phase 1 randomised, observer-blind, active-controlled, dose-ranging clinical trial",
+      "summary": "Safety and immunogenicity of a next-generation live-attenuated yellow fever vaccine produced in a Vero cell line in the USA: a phase 1 randomised, observer-blind, active-controlled, dose-ranging clinical trial",
+      "summary_ai": "Safety and immunogenicity of a next-generation live-attenuated yellow fever vaccine produced in a Vero cell line in the USA: a phase 1 randomised, observer-blind, active-controlled, dose-ranging clinical trial",
+      "title_original": "Safety and immunogenicity of a next-generation live-attenuated yellow fever vaccine produced in a Vero cell line in the USA: a phase 1 randomised, observer-blind, active-controlled, dose-ranging clinical trial",
+      "summary_original": "Safety and immunogenicity of a next-generation live-attenuated yellow fever vaccine produced in a Vero cell line in the USA: a phase 1 randomised, observer-blind, active-controlled, dose-ranging clinical trial",
+      "summary_ai_original": "Safety and immunogenicity of a next-generation live-attenuated yellow fever vaccine produced in a Vero cell line in the USA: a phase 1 randomised, observer-blind, active-controlled, dose-ranging clinical trial",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42bEh2SXVNd3JUVVpndk1SLXhpM1BDM3lFSWREYVFnWUI5c0taSmpTSVhHbS1lLUdjNlNMNXN3anpwUURncGNHNDNlYkR2dDBYek9Ebi1EQzQzeVBKdTM2NDR3SHd0em10ZTFGVzl4a2l1SGJpbkRtNTFLRTc?oc=5",
+      "source": "Cochrane vaccines",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-11-27T07:38:15+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [
+        "safety"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "米国",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "Cochrane Library"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "Cochrane Library"
+        },
+        "target": {
+          "key": "usa",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "米国"
+        }
+      },
+      "location": {
+        "key": "usa",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "米国"
+      },
+      "region": "North America",
+      "country": "米国",
+      "lat": 38.9072,
+      "lng": -77.0369,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Cochrane vaccines"
+      ]
+    },
     {
       "id": "e81b1b64f9569af2",
       "title": "1 Estimates of SARS-CoV-2 vaccine effectiveness against outpatient medically attended SARS-CoV-2 infection from April 2023 throu - SSRN eLibrary",
@@ -819,6 +1029,73 @@
       ]
     },
     {
+      "id": "ee61c320e40f7087",
+      "title": "The Impact on Clinicians of Recent Changes to the U.S. Immunization Schedule - medRxiv",
+      "summary": "The Impact on Clinicians of Recent Changes to the U.S. Immunization Schedule medRxiv",
+      "summary_ai": "The Impact on Clinicians of Recent Changes to the U.S. Immunization Schedule medRxiv",
+      "title_original": "The Impact on Clinicians of Recent Changes to the U.S. Immunization Schedule - medRxiv",
+      "summary_original": "The Impact on Clinicians of Recent Changes to the U.S. Immunization Schedule medRxiv",
+      "summary_ai_original": "The Impact on Clinicians of Recent Changes to the U.S. Immunization Schedule medRxiv",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5kZGkyX05KZkNxdXNvNHV0VHNVZTkzRnBvTzdUZF9iczlYOGtpNGxJLVVUMjNhWnZGcmMxRUxGTGE0a2p2MHl2ZTRVZWZ5bXhJNkRTY210Tzc2enZRYm01UXFRMVA2S1k1aDJsMzRsUQ?oc=5",
+      "source": "medRxiv vaccines",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
+      "source_priority": 7,
+      "published_at": "2026-11-24T01:57:04+00:00",
+      "topics": [
+        "policy"
+      ],
+      "policy_tags": [
+        "schedule"
+      ],
+      "vaccines": [],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "medRxiv"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "medRxiv"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "medRxiv vaccines"
+      ]
+    },
+    {
       "id": "6f75a6c8a81e8d38",
       "title": "The enlarging scope and globalization of vaccine hesitancy",
       "summary": "The enlarging scope and globalization of vaccine hesitancy",
@@ -886,45 +1163,45 @@
       ]
     },
     {
-      "id": "04bcef91685833f5",
-      "title": "Safety and immunogenicity of a trivalent vaccine candidate against invasive non-typhoidal Salmonella disease and typhoid fever in healthy adults in Europe and Africa: a phase 1/2a randomised controlled trial",
-      "summary": "Safety and immunogenicity of a trivalent vaccine candidate against invasive non-typhoidal Salmonella disease and typhoid fever in healthy adults in Europe and Africa: a phase 1/2a randomised controlled trial",
-      "summary_ai": "Safety and immunogenicity of a trivalent vaccine candidate against invasive non-typhoidal Salmonella disease and typhoid fever in healthy adults in Europe and Africa: a phase 1/2a randomised controlled trial",
-      "title_original": "Safety and immunogenicity of a trivalent vaccine candidate against invasive non-typhoidal Salmonella disease and typhoid fever in healthy adults in Europe and Africa: a phase 1/2a randomised controlled trial",
-      "summary_original": "Safety and immunogenicity of a trivalent vaccine candidate against invasive non-typhoidal Salmonella disease and typhoid fever in healthy adults in Europe and Africa: a phase 1/2a randomised controlled trial",
-      "summary_ai_original": "Safety and immunogenicity of a trivalent vaccine candidate against invasive non-typhoidal Salmonella disease and typhoid fever in healthy adults in Europe and Africa: a phase 1/2a randomised controlled trial",
+      "id": "3c43bca18fbcc24f",
+      "title": "From Policy Change to Program Impact: HPV Vaccination Coverage Following the Global Shift to a Single-Dose Schedule - medRxiv",
+      "summary": "From Policy Change to Program Impact: HPV Vaccination Coverage Following the Global Shift to a Single-Dose Schedule medRxiv",
+      "summary_ai": "From Policy Change to Program Impact: HPV Vaccination Coverage Following the Global Shift to a Single-Dose Schedule medRxiv",
+      "title_original": "From Policy Change to Program Impact: HPV Vaccination Coverage Following the Global Shift to a Single-Dose Schedule - medRxiv",
+      "summary_original": "From Policy Change to Program Impact: HPV Vaccination Coverage Following the Global Shift to a Single-Dose Schedule medRxiv",
+      "summary_ai_original": "From Policy Change to Program Impact: HPV Vaccination Coverage Following the Global Shift to a Single-Dose Schedule medRxiv",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdlpxWnUtazhVSmtzTTYweDNfaERIZ1lMaEU3a3pxRF95bmNEbFdWeWo1V3N4aWh3ejFrU2JTNThkOXZCSFJYN093NVUtYUVjcm0yS0FhSnVYbFdsaGRmeVM5ck9WR3cwM2tBSDhQby1tRWk0Sk5MaUx6Mm9hbE9iam1uVnJqbFZyN3dMUWg1N3U?oc=5",
-      "source": "Lancet Infectious Diseases",
-      "source_type": "academic",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yRGV1RjZaOFQwY0tyNFB5M01iVGVQOFFzRUdKejRndlVrZkJmUnJTZ1dORVdFc19lRHRyVHNMeWwySnRDMkFuOHFtYklDQzUyYUNQRUV3ek41VzhheTZlSHFrUFJxTUVORlpnVHRRSQ?oc=5",
+      "source": "medRxiv vaccines",
+      "source_type": "preprint",
       "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-11-23T08:00:00+00:00",
+      "source_priority": 7,
+      "published_at": "2026-11-23T18:13:10+00:00",
       "topics": [
-        "research"
+        "policy"
       ],
       "policy_tags": [
-        "safety"
+        "schedule"
       ],
       "vaccines": [],
       "variants": [],
       "target_country": "不明",
       "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "Lancet Infectious Diseases / London"
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "medRxiv"
       },
       "plot": {
         "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "Lancet Infectious Diseases / London"
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "medRxiv"
         },
         "target": {
           "key": "unknown",
@@ -949,7 +1226,74 @@
       "lng": 0.0,
       "duplicate_count": 1,
       "duplicate_sources": [
-        "Lancet Infectious Diseases"
+        "medRxiv vaccines"
+      ]
+    },
+    {
+      "id": "5da4cc51c5fa53b9",
+      "title": "免疫介在性炎症疾患患者における SARS-CoV-2 mRNAワクチンの有効性に対する免疫抑制療法の影響 - BMJ Open",
+      "summary": "免疫介在性炎症疾患患者における SARS-CoV-2 mRNAワクチンの有効性に対する免疫抑制療法の影響 BMJ Open",
+      "summary_ai": "免疫介在性炎症疾患患者における SARS-CoV-2 mRNAワクチンの有効性に対する免疫抑制療法の影響 BMJ Open",
+      "title_original": "Impact of immunosuppressive therapy on SARS- CoV- 2 mRNA vaccine effectiveness in patients with immune- mediated inflammatory diseases - BMJ Open",
+      "summary_original": "Impact of immunosuppressive therapy on SARS- CoV- 2 mRNA vaccine effectiveness in patients with immune- mediated inflammatory diseases BMJ Open",
+      "summary_ai_original": "Impact of immunosuppressive therapy on SARS- CoV- 2 mRNA vaccine effectiveness in patients with immune- mediated inflammatory diseases BMJ Open",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sTDJzVkVyamtLenduMEtQcVR6SWFtYUEwZnNEbXZWUk44UGtRR1U3UEpWQjBVSFF1UEZ2NEdwTGZJNWpOZ1dKYXdfQVVicWpCMjVHZmFxcVJqUF83WFR6MTM1dlFWS2p0QWJaaTBR?oc=5",
+      "source": "BMJ",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-11-23T13:40:32+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "covid"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united kingdom",
+        "name_ja": "英国",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "region": "Europe",
+        "label": "BMJ / London"
+      },
+      "plot": {
+        "source": {
+          "key": "united kingdom",
+          "name_ja": "英国",
+          "lat": 51.5074,
+          "lng": -0.1278,
+          "region": "Europe",
+          "label": "BMJ / London"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "BMJ"
       ]
     },
     {
@@ -1019,6 +1363,73 @@
       "duplicate_count": 1,
       "duplicate_sources": [
         "FDA Vaccines / Biologics"
+      ]
+    },
+    {
+      "id": "5d4102281815ba00",
+      "title": "High-Dose vs Standard-Dose Influenza Vaccine and Patient-Reported Symptom Burden in Older Adults – A Substudy of the DANFLU-2 Randomized Clinical Trial - Oxford Academic",
+      "summary": "High-Dose vs Standard-Dose Influenza Vaccine and Patient-Reported Symptom Burden in Older Adults – A Substudy of the DANFLU-2 Randomized Clinical Trial Oxford Academic",
+      "summary_ai": "High-Dose vs Standard-Dose Influenza Vaccine and Patient-Reported Symptom Burden in Older Adults – A Substudy of the DANFLU-2 Randomized Clinical Trial Oxford Academic",
+      "title_original": "High-Dose vs Standard-Dose Influenza Vaccine and Patient-Reported Symptom Burden in Older Adults – A Substudy of the DANFLU-2 Randomized Clinical Trial - Oxford Academic",
+      "summary_original": "High-Dose vs Standard-Dose Influenza Vaccine and Patient-Reported Symptom Burden in Older Adults – A Substudy of the DANFLU-2 Randomized Clinical Trial Oxford Academic",
+      "summary_ai_original": "High-Dose vs Standard-Dose Influenza Vaccine and Patient-Reported Symptom Burden in Older Adults – A Substudy of the DANFLU-2 Randomized Clinical Trial Oxford Academic",
+      "article_text_original": "",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcFhTMV9Kb29mNThsdUFrZmYzRUJxblQ2aHZwcVRDeThpY1JDZUV4N2p0X0I1R3BfdUVyMlhJNG9qeXhXaGY1NEhFbTZQaE5sTkR5S1FXSDlUci00bGg4RG5FM04xZlpXa01sZ0lfWW15QUFqQVNfN2RXV3RBVWNyUFBn?oc=5",
+      "source": "Clinical Infectious Diseases",
+      "source_type": "academic",
+      "source_tier": "Tier 3",
+      "source_priority": 8,
+      "published_at": "2026-11-21T06:51:24+00:00",
+      "topics": [
+        "research"
+      ],
+      "policy_tags": [],
+      "vaccines": [
+        "influenza"
+      ],
+      "variants": [],
+      "target_country": "不明",
+      "source_location": {
+        "key": "united states",
+        "name_ja": "米国",
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "region": "North America",
+        "label": "Clinical Infectious Diseases"
+      },
+      "plot": {
+        "source": {
+          "key": "united states",
+          "name_ja": "米国",
+          "lat": 38.9072,
+          "lng": -77.0369,
+          "region": "North America",
+          "label": "Clinical Infectious Diseases"
+        },
+        "target": {
+          "key": "unknown",
+          "name_ja": "不明",
+          "lat": 20.0,
+          "lng": 0.0,
+          "region": "Unknown",
+          "label": "不明"
+        }
+      },
+      "location": {
+        "key": "unknown",
+        "name_ja": "不明",
+        "lat": 20.0,
+        "lng": 0.0,
+        "region": "Unknown",
+        "label": "不明"
+      },
+      "region": "Unknown",
+      "country": "不明",
+      "lat": 20.0,
+      "lng": 0.0,
+      "duplicate_count": 1,
+      "duplicate_sources": [
+        "Clinical Infectious Diseases"
       ]
     },
     {
@@ -1094,20 +1505,20 @@
       ]
     },
     {
-      "id": "673438e23c83fc53",
-      "title": "Study raises doubts about combining vaccine, monoclonal antibody to protect against malaria - STAT",
-      "summary": "Study raises doubts about combining vaccine, monoclonal antibody to protect against malaria STAT",
-      "summary_ai": "Study raises doubts about combining vaccine, monoclonal antibody to protect against malaria STAT",
-      "title_original": "Study raises doubts about combining vaccine, monoclonal antibody to protect against malaria - STAT",
-      "summary_original": "Study raises doubts about combining vaccine, monoclonal antibody to protect against malaria STAT",
-      "summary_ai_original": "Study raises doubts about combining vaccine, monoclonal antibody to protect against malaria STAT",
+      "id": "03213382c22968f6",
+      "title": "Modeling spontaneous hepatitis C virus clearance by age, sex, IFNL4 genotype, and infection history: Implications for simulations of elimination and vaccine trials - medRxiv",
+      "summary": "Modeling spontaneous hepatitis C virus clearance by age, sex, IFNL4 genotype, and infection history: Implications for simulations of elimination and vaccine trials medRxiv",
+      "summary_ai": "Modeling spontaneous hepatitis C virus clearance by age, sex, IFNL4 genotype, and infection history: Implications for simulations of elimination and vaccine trials medRxiv",
+      "title_original": "Modeling spontaneous hepatitis C virus clearance by age, sex, IFNL4 genotype, and infection history: Implications for simulations of elimination and vaccine trials - medRxiv",
+      "summary_original": "Modeling spontaneous hepatitis C virus clearance by age, sex, IFNL4 genotype, and infection history: Implications for simulations of elimination and vaccine trials medRxiv",
+      "summary_ai_original": "Modeling spontaneous hepatitis C virus clearance by age, sex, IFNL4 genotype, and infection history: Implications for simulations of elimination and vaccine trials medRxiv",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNmt0cFJJcVhKM3VObDBIb1NncndSQTNXNGRBOUlWVEhSd0RyR0JTNVpUSlk5MDBUNm9BSklIZm9TOTc4WGs3bDJKSkFyTDRlS3BfcGpRQjJzNkNQOUR0dUp6QlVIRlZ1SHdWdFhuMFJmUTBYbmh1TzQ5VUtnTUVnODdFVzNiX1VRWGVXdFRxeEhoQzhKWjc4MU05YWkyVGtR?oc=5",
-      "source": "STAT Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WbXhUUkhzUjBYR3RBSFpOQ2syZnBJMFBwTGlsRkZ5c3dfbEtwQVJfWm84bjY3N1g2bUh6MTc5SDFGV19rRWJVS3BuVVIyZTFBNzIwQ0xXakZvcl9TUHk4Z1JXMEl1YmR4S2xqU1Y0Yw?oc=5",
+      "source": "medRxiv vaccines",
+      "source_type": "preprint",
+      "source_tier": "Tier 3",
       "source_priority": 7,
-      "published_at": "2026-11-19T22:24:46+00:00",
+      "published_at": "2026-11-20T17:00:21+00:00",
       "topics": [
         "research"
       ],
@@ -1121,7 +1532,7 @@
         "lat": 38.9072,
         "lng": -77.0369,
         "region": "North America",
-        "label": "STAT"
+        "label": "medRxiv"
       },
       "plot": {
         "source": {
@@ -1130,7 +1541,7 @@
           "lat": 38.9072,
           "lng": -77.0369,
           "region": "North America",
-          "label": "STAT"
+          "label": "medRxiv"
         },
         "target": {
           "key": "unknown",
@@ -1155,7 +1566,7 @@
       "lng": 0.0,
       "duplicate_count": 1,
       "duplicate_sources": [
-        "STAT Vaccines / Immunization"
+        "medRxiv vaccines"
       ]
     },
     {
@@ -1231,145 +1642,6 @@
       ]
     },
     {
-      "id": "e3bb0488cdadfc28",
-      "title": "CPHIA 2026: African Leaders to Convene in Addis Ababa to Advance Health Security and Sovereignty",
-      "summary": "As external health financing declines and public health threats persist, Africa’s flagship public health conference will examine progress, confront remaining gaps and advance African-led solutions. Addis Ababa, Ethiopia, 10 November 2026: Africa is entering a defining period for its health security. As external financing becomes increasingly uncertain and public health emergencies continue to test health […] The post CPHIA 2026: African Leaders to Convene in Addis Ababa to Advance Health Security and Sovereignty appeared first on Africa CDC .",
-      "summary_ai": "Under the theme “Africa’s Health Security and Sovereignty: Transformation from Health Dependency and Vulnerability to Ownership and Resilience,” the conference will bring together African political leaders, policymakers, scientists, health professionals, innovators and partners to examine progress against continental h",
-      "title_original": "CPHIA 2026: African Leaders to Convene in Addis Ababa to Advance Health Security and Sovereignty",
-      "summary_original": "As external health financing declines and public health threats persist, Africa’s flagship public health conference will examine progress, confront remaining gaps and advance African-led solutions. Addis Ababa, Ethiopia, 10 November 2026: Africa is entering a defining period for its health security. As external financing becomes increasingly uncertain and public health emergencies continue to test health […] The post CPHIA 2026: African Leaders to Convene in Addis Ababa to Advance Health Security and Sovereignty appeared first on Africa CDC .",
-      "summary_ai_original": "Under the theme “Africa’s Health Security and Sovereignty: Transformation from Health Dependency and Vulnerability to Ownership and Resilience,” the conference will bring together African political leaders, policymakers, scientists, health professionals, innovators and partners to examine progress against continental h",
-      "article_text_original": "As external health financing declines and public health threats persist, Africa’s flagship public health conference will examine progress, confront remaining gaps and advance African-led solutions. Addis Ababa, Ethiopia, 10 November 2026: Africa is entering a defining period for its health security. As external financing becomes increasingly uncertain and public health emergencies continue to test health systems, African countries are strengthening the institutions, capabilities and partnerships needed to take greater ownership of their health future. From continental regulatory cooperation and pooled procurement to local manufacturing, genomic surveillance and emergency response, African-led initiatives are reshaping how the continent prepares for and responds to health challenges. Against this backdrop, the Fifth International Conference on Public Health in Africa (CPHIA 2026) will convene in Addis Ababa from 23 to 27 November, co-hosted by the Africa Centres for Disease Control and Prevention (Africa CDC) and the Government of the Federal Democratic Republic of Ethiopia. Under the theme “Africa’s Health Security and Sovereignty: Transformation from Health Dependency and Vulnerability to Ownership and Resilience,” the conference will bring together African political leaders, policymakers, scientists, health professionals, innovators and partners to examine progress against continental health priorities, identify remaining gaps and advance practical solutions. With more than 30,000 participants expected, CPHIA 2026 will provide an opportunity to assess how continental commitments are translating into stronger institutions, sustainable financing, locally produced health products and better health services for communities. EVENT INFORMATION WHAT: Fifth International Conference on Public Health in Africa (CPHIA 2026) WHEN: 23-27 November 2026 WHERE: Addis International Convention Center, Addis Ababa, Ethiopia CO-HOSTS: Africa CDC and the Government of the Federal Democratic Republic of Ethiopia THEME: Africa’s Health Security and Sovereignty: Transformation from Health Dependency and Vulnerability to Ownership and Resilience WHAT TO EXPECT AT CPHIA 2026 CPHIA 2026 will feature high-level political dialogues, scientific discussions, continental initiatives and exchanges on African-led solutions. Discussions will focus on sustainable health financing, local manufacturing, global health architecture reform, digital transformation, artificial intelligence, pandemic preparedness and climate resilience, with particular attention to strengthening Africa’s leadership and ownership of its health systems. Among the major programme highlights are: 22 November – Youth and Women at the Centre of Africa’s Health Future Ahead of the official opening of CPHIA 2026, Africa CDC will convene the Youth Pre-Conference & Women in Health Leadership Summit at Nelson Mandela Hall, African Union Commission, Addis Ababa. The Summit aims to bring together 4,000 young people and 200 women leaders, alongside policymakers, health professionals and innovators, to advance leadership, mentorship, employment opportunities and African-led health solutions. Key anticipated outcomes include a Joint Leadership Declaration and institutional commitments to inform the wider CPHIA 2026 discussions. 23 November – High-Level Opening and Political Leadership The opening day will feature the official ceremony, the high-level launch of the AU Champions’ Roadmap on Reproductive, Maternal, Newborn, Child and Adolescent Health (RMNCAH) 2026-2030, and two Heads of State panels on leadership and financing for Africa’s health sovereignty. A ministerial dialogue with candidates for the position of Director-General of the World Health Organization (WHO) is scheduled for the afternoon, providing an opportunity for African health leaders to engage on the future of global health leadership. 24 November – Global Health Architecture, Immunisation and Health Financing Discussions will focus on reforming the global health architecture, strengthening continental pandemic preparedness and advancing Africa’s manufacturing ambitions, including the target of producing 60% of its vaccine needs locally by 2040. The programme also features the Continental Immunization Forum launch, the inaugural Continental AIDS Monitoring Report and discussions on the CPHIA Health Financing Pathway Compact. 25 November – Domestic Financing, Local Manufacturing and African Cities High-level sessions will examine sustainable health financing, local manufacturing, regulation and pooled procurement. The programme will also feature the African Cities/Mayors’ Forum and discussions on primary health care, immunisation, malaria vaccines and community engagement. 26 November – Digital Health, Artificial Intelligence and Climate Resilience Plenary sessions will explore digital health, artificial intelligence, data sovereignty and the implications of climate change for Africa’s health security. Additional discussions will address early warning systems, outbreak preparedness and community-centred public health institutions. 27 November – Research, Innovation and the Way Forward The final day will feature discussions on African-led research and development, global health security and the future of primary health care, followed by the official closing ceremony. MEDIA COVERAGE AND INTERVIEW OPPORTUNITIES Accredited media representatives will have opportunities, subject to access and programme arrangements, to cover: • The official opening ceremony and selected high-level sessions. • Scientific discussions and special sessions. • Exhibitions showcasing African innovations and health technologies. • Selected announcements, reports, and partnership initiatives. • Interviews with Africa CDC experts, participating leaders, researchers, innovators and partners, subject to availability. MEDIA ACCREDITATION AND ACCESS Media houses intending to cover CPHIA 2026 are kindly requested to confirm their participation and submit the details of their assigned journalists, photographers and camera crews on or before 20 November 2026 through the link below: Media Registration Form: https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=RcblrMc-jkyxLgdyIVBd9Wa9aORvrAVHtmNH4wq5MztUMUpUNko2VERSWVVPVjdXRElIUzNWQUNYWi4u&origin=Invitation&channel=0 The information submitted will enable Africa CDC to issue official invitations and facilitate registration fee waivers for eligible media representatives. Journalists who have already registered and received CPHIA 2026 accreditation are encouraged to collect their conference badges in advance and bring them, together with valid identification, to the venue. Further information on media access, designated filming areas, interview requests, and press facilities will be communicated to accredited journalists. Media confirmation and enquiries: Africa CDC Directorate of Communication and Public Information Email: communications@africacdc.org MEDIA RESOURCES Official conference website: https://cphia.africacdc.org/ Conference programme: https://cphia.africacdc.org/programme Africa CDC website: https://africacdc.org/ Official hashtag: #CPHIA2026 END",
-      "link": "https://africacdc.org/news-item/cphia-2026-african-leaders-to-convene-in-addis-ababa-to-advance-health-security-and-sovereignty/",
-      "source": "Africa CDC News",
-      "source_type": "official",
-      "source_tier": "Tier 1",
-      "source_priority": 8,
-      "published_at": "2026-11-17T10:56:51+00:00",
-      "topics": [
-        "communication",
-        "policy",
-        "research"
-      ],
-      "policy_tags": [
-        "communication",
-        "financing",
-        "outbreak_response",
-        "schedule"
-      ],
-      "vaccines": [
-        "malaria"
-      ],
-      "variants": [],
-      "target_country": "エチオピア",
-      "source_location": {
-        "key": "ethiopia",
-        "name_ja": "エチオピア",
-        "lat": 8.9806,
-        "lng": 38.7578,
-        "region": "Africa",
-        "label": "Africa CDC / Addis Ababa"
-      },
-      "plot": {
-        "source": {
-          "key": "ethiopia",
-          "name_ja": "エチオピア",
-          "lat": 8.9806,
-          "lng": 38.7578,
-          "region": "Africa",
-          "label": "Africa CDC / Addis Ababa"
-        },
-        "target": {
-          "key": "ethiopia",
-          "name_ja": "エチオピア",
-          "lat": 8.9806,
-          "lng": 38.7578,
-          "region": "Africa",
-          "label": "エチオピア"
-        }
-      },
-      "location": {
-        "key": "ethiopia",
-        "name_ja": "エチオピア",
-        "lat": 8.9806,
-        "lng": 38.7578,
-        "region": "Africa",
-        "label": "エチオピア"
-      },
-      "region": "Africa",
-      "country": "エチオピア",
-      "lat": 8.9806,
-      "lng": 38.7578,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Africa CDC News"
-      ]
-    },
-    {
-      "id": "c80084bca87df333",
-      "title": "Sellas vaccine extends survival in blood cancer trial, shares surge - Reuters",
-      "summary": "Sellas vaccine extends survival in blood cancer trial, shares surge Reuters",
-      "summary_ai": "Sellas vaccine extends survival in blood cancer trial, shares surge Reuters",
-      "title_original": "Sellas vaccine extends survival in blood cancer trial, shares surge - Reuters",
-      "summary_original": "Sellas vaccine extends survival in blood cancer trial, shares surge Reuters",
-      "summary_ai_original": "Sellas vaccine extends survival in blood cancer trial, shares surge Reuters",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQa3FEUmx6RWVvS3AzWXBDaDZvTUdmdUo4RjlwWmlrdDEyYUxrNUxVVTFybndQRGExYVA5SWdmWndNZkJkR1pkcVdvdVVtX21qZjNsZUFfd0VnMnRTTjVRTEtVSGpsNHk5R0N5eHFxRlROQmpCYk1TdVl5bm9qZ1AySlVNN1lvUVZYb1FRUVdFWDVUZVJFcExyYWNVb3VQWjZNLXZSNGQyLW9TeEJqWTdWSFJ2eVd6R3VON29KclpPTEFBTk55akk2aQ?oc=5",
-      "source": "Reuters Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 7,
-      "published_at": "2026-11-17T08:00:00+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united kingdom",
-        "name_ja": "英国",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "region": "Europe",
-        "label": "Reuters"
-      },
-      "plot": {
-        "source": {
-          "key": "united kingdom",
-          "name_ja": "英国",
-          "lat": 51.5074,
-          "lng": -0.1278,
-          "region": "Europe",
-          "label": "Reuters"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Reuters Vaccines / Immunization"
-      ]
-    },
-    {
       "id": "41f6a24fde265af0",
       "title": "Leukemia vaccine passes key trial, adding to breakthrough year for cancer drugs - The Washington Post",
       "summary": "Leukemia vaccine passes key trial, adding to breakthrough year for cancer drugs The Washington Post",
@@ -1435,158 +1707,26 @@
       ]
     },
     {
-      "id": "c12bca90ddd180a9",
-      "title": "Shoulder injuries rare but slightly more common after COVID vaccines than flu shots, study finds - CIDRAP",
-      "summary": "Shoulder injuries rare but slightly more common after COVID vaccines than flu shots, study finds CIDRAP",
-      "summary_ai": "Shoulder injuries rare but slightly more common after COVID vaccines than flu shots, study finds CIDRAP",
-      "title_original": "Shoulder injuries rare but slightly more common after COVID vaccines than flu shots, study finds - CIDRAP",
-      "summary_original": "Shoulder injuries rare but slightly more common after COVID vaccines than flu shots, study finds CIDRAP",
-      "summary_ai_original": "Shoulder injuries rare but slightly more common after COVID vaccines than flu shots, study finds CIDRAP",
+      "id": "fe385d9d992be86a",
+      "title": "Needle phobia: confronting a neglected factor in travel vaccine hesitancy - Oxford Academic",
+      "summary": "Needle phobia: confronting a neglected factor in travel vaccine hesitancy Oxford Academic",
+      "summary_ai": "Needle phobia: confronting a neglected factor in travel vaccine hesitancy Oxford Academic",
+      "title_original": "Needle phobia: confronting a neglected factor in travel vaccine hesitancy - Oxford Academic",
+      "summary_original": "Needle phobia: confronting a neglected factor in travel vaccine hesitancy Oxford Academic",
+      "summary_ai_original": "Needle phobia: confronting a neglected factor in travel vaccine hesitancy Oxford Academic",
       "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSFZGbVZ2Q1ZtMFJXQk5JeGp5V1drOTQ0Mjg2VkdBOFlyX3hIQ1lWcGl0d3l6dVNKMEZHZHJ6el8xUnBROEU2WVFuSGhsUmRXLTR1LWRhbU4xX25TRzk3SDgyYXJEWmdHblFKdVhOME9nZEM2X1BqMl91VkJnUTluNlE4MFBpSjVTcE1qVk1NSXJQc0pVNjhqSzVxUjVrY1N1RllsQlVIWjhIQm52eEZJc0tVRGJ6bWtYNHhnU0pWQQ?oc=5",
-      "source": "CIDRAP Vaccines & Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 8,
-      "published_at": "2026-11-16T08:00:00+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
-      "vaccines": [
-        "covid"
-      ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "CIDRAP / Minnesota"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "CIDRAP / Minnesota"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "CIDRAP Vaccines & Immunization"
-      ]
-    },
-    {
-      "id": "48f3692c46d48a0c",
-      "title": "インフルエンザワクチンの免疫原性と有効性に対する予防接種前鎮痛薬の影響 - オックスフォード・アカデミック",
-      "summary": "インフルエンザワクチンの免疫原性と有効性に対する予防接種前鎮痛薬の影響 オックスフォード・アカデミック",
-      "summary_ai": "インフルエンザワクチンの免疫原性と有効性に対する予防接種前鎮痛薬の影響 オックスフォード・アカデミック",
-      "title_original": "The Effect of Prevaccination Analgesics on Influenza Vaccine Immunogenicity and Effectiveness - Oxford Academic",
-      "summary_original": "The Effect of Prevaccination Analgesics on Influenza Vaccine Immunogenicity and Effectiveness Oxford Academic",
-      "summary_ai_original": "The Effect of Prevaccination Analgesics on Influenza Vaccine Immunogenicity and Effectiveness Oxford Academic",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wbkFWbktSTjAwU0xkV05Sdi1tTmFmRkJlblQ4YkNzV2VWLUg4b0JsbXZRLVEtWkVnaFpCWml6RHZhQXhUcldFZUk1NmRHcWdPbWhtdENhbjVXMDU2eFZUbFNvclpZT2s?oc=5",
-      "source": "Journal of Infectious Diseases",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMWVRdWllcU4wQkFOZENuUGJMSS1mcXM3bWhHTlV2dzVfSVRrT0JudkhuNVlmYk9aS3E0OTExS0R6UTRIMUJsNDBnZnpsVDVLczN1QVVtd01QVmIxVE5WakJKSWstbTIwOFh2REQzQnF3dVhhZE5HZUNsWHRjU2RBRUtn?oc=5",
+      "source": "Journal of Travel Medicine vaccines",
       "source_type": "academic",
       "source_tier": "Tier 3",
-      "source_priority": 8,
-      "published_at": "2026-11-15T08:00:00+00:00",
+      "source_priority": 6,
+      "published_at": "2026-11-14T08:00:00+00:00",
       "topics": [
-        "research"
+        "communication"
       ],
-      "policy_tags": [],
-      "vaccines": [
-        "influenza"
+      "policy_tags": [
+        "communication"
       ],
-      "variants": [],
-      "target_country": "不明",
-      "source_location": {
-        "key": "united states",
-        "name_ja": "米国",
-        "lat": 38.9072,
-        "lng": -77.0369,
-        "region": "North America",
-        "label": "Journal of Infectious Diseases"
-      },
-      "plot": {
-        "source": {
-          "key": "united states",
-          "name_ja": "米国",
-          "lat": 38.9072,
-          "lng": -77.0369,
-          "region": "North America",
-          "label": "Journal of Infectious Diseases"
-        },
-        "target": {
-          "key": "unknown",
-          "name_ja": "不明",
-          "lat": 20.0,
-          "lng": 0.0,
-          "region": "Unknown",
-          "label": "不明"
-        }
-      },
-      "location": {
-        "key": "unknown",
-        "name_ja": "不明",
-        "lat": 20.0,
-        "lng": 0.0,
-        "region": "Unknown",
-        "label": "不明"
-      },
-      "region": "Unknown",
-      "country": "不明",
-      "lat": 20.0,
-      "lng": 0.0,
-      "duplicate_count": 1,
-      "duplicate_sources": [
-        "Journal of Infectious Diseases"
-      ]
-    },
-    {
-      "id": "871bcb0845bc198f",
-      "title": "-adjuvanted RSV pre-F protein vaccine in adults with lung or kidney transplant: a phase 2b randomized trial",
-      "summary": "-adjuvanted RSV pre-F protein vaccine in adults with lung or kidney transplant: a phase 2b randomized trial",
-      "summary_ai": "-adjuvanted RSV pre-F protein vaccine in adults with lung or kidney transplant: a phase 2b randomized trial",
-      "title_original": "-adjuvanted RSV pre-F protein vaccine in adults with lung or kidney transplant: a phase 2b randomized trial",
-      "summary_original": "-adjuvanted RSV pre-F protein vaccine in adults with lung or kidney transplant: a phase 2b randomized trial",
-      "summary_ai_original": "-adjuvanted RSV pre-F protein vaccine in adults with lung or kidney transplant: a phase 2b randomized trial",
-      "article_text_original": "",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pWkxNNktUbm55ZXR3d2dmSUZURmFSd1M1NnVnZ1JZNndpa2h6MjgzV1dRN015NnZxdjF3OExVdFFPeC1CQ3EzMzRwQUo3V3NYU0ZwQUxtXzhSR3VSMFc0?oc=5",
-      "source": "Nature News Vaccines / Immunization",
-      "source_type": "media",
-      "source_tier": "Tier 2",
-      "source_priority": 5,
-      "published_at": "2026-11-13T08:00:00+00:00",
-      "topics": [
-        "research"
-      ],
-      "policy_tags": [],
       "vaccines": [],
       "variants": [],
       "target_country": "不明",
@@ -1596,7 +1736,7 @@
         "lat": 51.5074,
         "lng": -0.1278,
         "region": "Europe",
-        "label": "Nature News"
+        "label": "Journal of Travel Medicine"
       },
       "plot": {
         "source": {
@@ -1605,7 +1745,7 @@
           "lat": 51.5074,
           "lng": -0.1278,
           "region": "Europe",
-          "label": "Nature News"
+          "label": "Journal of Travel Medicine"
         },
         "target": {
           "key": "unknown",
@@ -1630,7 +1770,7 @@
       "lng": 0.0,
       "duplicate_count": 1,
       "duplicate_sources": [
-        "Nature News Vaccines / Immunization"
+        "Journal of Travel Medicine vaccines"
       ]
     }
   ]
